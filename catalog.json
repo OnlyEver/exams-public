@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "name": "Nursing Licensure",
+      "slug": "nursing-licensure",
+      "description": "Master the clinical judgment and safety-first nursing knowledge needed to pass licensure exams and practice confidently from day one.",
+      "exams": [
+        {
+          "repo_folder": "nclex-pn",
+          "name": "National Council Licensure Examination for Practical Nurses (NCLEX-PN)",
+          "exam_slug": "nclex-pn",
+          "theme_color": "#0F766E",
+          "hero_headline": "Pass NCLEX-PN with test-plan-aligned coverage",
+          "hero_subheadline": "Study every tested client-needs domain in 15-minute topics mapped directly to the official NCSBN blueprint.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most NCLEX prep feels scattered, so learners waste time on content that is not prioritized by the actual exam blueprint.",
+          "companion_solution": "We convert the official test plan into a complete, structured curriculum with concise notes designed for long-term retention and exam readiness."
+        },
+        {
+          "repo_folder": "nclex-rn",
+          "name": "NCLEX-RN",
+          "exam_slug": "nclex-rn",
+          "theme_color": "#0ea5e9",
+          "hero_headline": "Pass NCLEX-RN with clinical judgment that sticks.",
+          "hero_subheadline": "Exam-aligned nursing study paths built from the official NCSBN test plan and designed for long-term retention.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most prep material is fragmented, too broad, or disconnected from the exact NCLEX-RN blueprint.",
+          "companion_solution": "Only Ever maps the official test plan into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects."
+        }
+      ]
+    },
+    {
+      "name": "Teacher Certification",
+      "slug": "teacher-certification",
+      "description": "Exam-aligned prep for future educators with clear, structured math coverage built directly from official certification blueprints.",
+      "exams": [
+        {
+          "repo_folder": "praxis-core-math-5733",
+          "name": "Praxis Core Academic Skills for Educators: Mathematics",
+          "exam_slug": "praxis-core-math-5733",
+          "theme_color": "#3B82F6",
+          "hero_headline": "Pass Praxis Core Math with exam-accurate coverage",
+          "hero_subheadline": "Master every tested objective in 15-minute topics mapped to the official ETS study companion.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most Praxis prep is either too shallow or too broad, making it hard to know what is actually test-relevant.",
+          "companion_solution": "We convert the official syllabus into a complete, topic-sized learning map with retention-focused notes and consistent concept coverage."
+        }
+      ]
+    }
+  ]
+}

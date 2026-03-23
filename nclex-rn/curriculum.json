@@ -1,0 +1,1904 @@
+{
+  "exam": {
+    "name": "NCLEX-RN",
+    "code": "RN",
+    "provider": "NCSBN",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-03-19",
+    "generated_date": "2026-03-19",
+    "category_name": "Nursing Licensure",
+    "category_slug": "nursing-licensure",
+    "category_description": "Master the clinical judgment and safety-first nursing knowledge needed to pass licensure exams and practice confidently from day one.",
+    "exam_slug": "nclex-rn",
+    "theme_color": "#0ea5e9",
+    "hero_headline": "Pass NCLEX-RN with clinical judgment that sticks.",
+    "hero_subheadline": "Exam-aligned nursing study paths built from the official NCSBN test plan and designed for long-term retention.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most prep material is fragmented, too broad, or disconnected from the exact NCLEX-RN blueprint.",
+    "companion_solution": "Only Ever maps the official test plan into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "management-of-care",
+      "title": "Management of Care",
+      "weight": 0.18,
+      "description": "Providing and directing nursing care that enhances the care delivery setting to protect the client and health care personnel.",
+      "directory": "01-management-of-care",
+      "topics": [
+        {
+          "order": 1,
+          "id": "advance-directives-self-determination-life-planning",
+          "title": "Advance Directives, Self-Determination, and Life Planning",
+          "directory": "01-advance-directives-self-determination-life-planning",
+          "path": "01-management-of-care/01-advance-directives-self-determination-life-planning",
+          "description": "Incorporate advance directives, self-care determination, and life planning into client care.",
+          "learning_objectives": [
+            "Assess client and staff member knowledge of advance directives.",
+            "Integrate advance directives into the client plan of care.",
+            "Provide client with information about advance directives, self-care determination, and life planning."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "advocacy",
+          "title": "Advocacy",
+          "directory": "02-advocacy",
+          "path": "01-management-of-care/02-advocacy",
+          "description": "Act in the role of client advocate and support client decisions.",
+          "learning_objectives": [
+            "Discuss treatment options respecting client decisions.",
+            "Provide advocacy information to staff and utilize resources appropriately.",
+            "Support unbiased treatment and equal access to care regardless of culture, sexual orientation, or gender identity."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "assignment-delegation-and-supervision",
+          "title": "Assignment, Delegation and Supervision",
+          "directory": "03-assignment-delegation-and-supervision",
+          "path": "01-management-of-care/03-assignment-delegation-and-supervision",
+          "description": "Delegate tasks safely and supervise care provided by others.",
+          "learning_objectives": [
+            "Identify tasks for assignment based on client needs.",
+            "Delegate appropriately utilizing the five rights of delegation.",
+            "Supervise care provided by LPN/VNs and assistive personnel, evaluating correct completion."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "case-management",
+          "title": "Case Management",
+          "directory": "04-case-management",
+          "path": "01-management-of-care/04-case-management",
+          "description": "Coordinate care to help clients achieve and maintain independence.",
+          "learning_objectives": [
+            "Explore resources to assist clients in achieving independence.",
+            "Assess the need for materials, equipment, and cost-effective care.",
+            "Initiate, evaluate, and update individualized care plans."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "client-rights",
+          "title": "Client Rights",
+          "directory": "05-client-rights",
+          "path": "01-management-of-care/05-client-rights",
+          "description": "Ensure client rights are respected, including the right to refuse treatment.",
+          "learning_objectives": [
+            "Recognize the client's right to refuse treatment and procedures.",
+            "Discuss treatment options and decisions with the client.",
+            "Provide education and evaluate understanding about client rights and responsibilities."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "collaboration-with-multidisciplinary-team",
+          "title": "Collaboration with Multidisciplinary Team",
+          "directory": "06-collaboration-with-multidisciplinary-team",
+          "path": "01-management-of-care/06-collaboration-with-multidisciplinary-team",
+          "description": "Work effectively with health care team members to provide comprehensive care.",
+          "learning_objectives": [
+            "Identify the need for interdisciplinary conferences.",
+            "Report significant information to other disciplines to ensure continuity of care.",
+            "Collaborate with multidisciplinary team members and serve as a resource person."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "concepts-of-management",
+          "title": "Concepts of Management",
+          "directory": "07-concepts-of-management",
+          "path": "01-management-of-care/07-concepts-of-management",
+          "description": "Apply management concepts to address client problems and manage staff.",
+          "learning_objectives": [
+            "Identify roles and responsibilities of health care team members.",
+            "Act as a liaison between the client and others to coordinate care.",
+            "Manage conflict among clients and staff and evaluate management outcomes."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "confidentiality-and-information-security",
+          "title": "Confidentiality and Information Security",
+          "directory": "08-confidentiality-and-information-security",
+          "path": "01-management-of-care/08-confidentiality-and-information-security",
+          "description": "Maintain client confidentiality and privacy in all forms of communication.",
+          "learning_objectives": [
+            "Assess staff and client understanding of confidentiality requirements.",
+            "Maintain privacy in all contexts, including social media and disclosure of information.",
+            "Intervene appropriately when staff members have breached confidentiality."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "continuity-of-care",
+          "title": "Continuity of Care",
+          "directory": "09-continuity-of-care",
+          "path": "01-management-of-care/09-continuity-of-care",
+          "description": "Ensure seamless transitions in care through effective communication and procedures.",
+          "learning_objectives": [
+            "Provide and receive handoff of care (report) on assigned clients.",
+            "Perform procedures necessary to safely admit, transfer, and discharge a client.",
+            "Follow up on unresolved issues regarding client care."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "establishing-priorities",
+          "title": "Establishing Priorities",
+          "directory": "10-establishing-priorities",
+          "path": "01-management-of-care/10-establishing-priorities",
+          "description": "Apply pathophysiology to establish priorities for multiple clients.",
+          "learning_objectives": [
+            "Apply knowledge of pathophysiology when establishing priorities for interventions.",
+            "Prioritize the delivery of client care based on acuity.",
+            "Evaluate and revise the plan of care for multiple clients as needed."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "ethical-practice",
+          "title": "Ethical Practice",
+          "directory": "11-ethical-practice",
+          "path": "01-management-of-care/11-ethical-practice",
+          "description": "Recognize ethical dilemmas and practice consistently with the nurses' code of ethics.",
+          "learning_objectives": [
+            "Recognize and report ethical dilemmas affecting client care.",
+            "Practice in a manner consistent with the nurses' code of ethics.",
+            "Evaluate outcomes of interventions aimed at promoting ethical practice."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "informed-consent",
+          "title": "Informed Consent",
+          "directory": "12-informed-consent",
+          "path": "01-management-of-care/12-informed-consent",
+          "description": "Understand and participate in the informed consent process.",
+          "learning_objectives": [
+            "Identify the appropriate person to provide informed consent for the client.",
+            "Describe the components of informed consent and provide written materials.",
+            "Verify the client receives education and consents for care and procedures."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "information-technology",
+          "title": "Information Technology",
+          "directory": "13-information-technology",
+          "path": "01-management-of-care/13-information-technology",
+          "description": "Utilize information technology and facility regulations to manage client care securely.",
+          "learning_objectives": [
+            "Receive, verify, and implement health care provider orders.",
+            "Apply knowledge of facility regulations when accessing client records and databases.",
+            "Enter computer documentation accurately, completely, and in a timely manner."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "legal-rights-and-responsibilities",
+          "title": "Legal Rights and Responsibilities",
+          "directory": "14-legal-rights-and-responsibilities",
+          "path": "01-management-of-care/14-legal-rights-and-responsibilities",
+          "description": "Provide care within the legal scope of practice and understand legal issues.",
+          "learning_objectives": [
+            "Identify legal issues affecting the client, including limitations of self and others.",
+            "Report client conditions as required by law (e.g., abuse, neglect, communicable diseases).",
+            "Provide care strictly within the legal scope of practice."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "performance-improvement-and-quality-improvement",
+          "title": "Performance Improvement and Quality Improvement",
+          "directory": "15-performance-improvement-and-quality-improvement",
+          "path": "01-management-of-care/15-performance-improvement-and-quality-improvement",
+          "description": "Participate in performance improvement projects and quality assurance activities.",
+          "learning_objectives": [
+            "Define performance improvement and quality assurance activities.",
+            "Participate in performance improvement projects and utilize evidence-based references.",
+            "Evaluate the impact of performance improvement measures on client care."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 16,
+          "id": "referrals",
+          "title": "Referrals",
+          "directory": "16-referrals",
+          "path": "01-management-of-care/16-referrals",
+          "description": "Assess the need for referrals and connect clients with community resources.",
+          "learning_objectives": [
+            "Assess the need to refer clients for assistance and obtain necessary orders.",
+            "Identify community resources appropriate for the client.",
+            "Identify which documents to include when referring a client."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "safety-and-infection-prevention-and-control",
+      "title": "Safety and Infection Prevention and Control",
+      "weight": 0.13,
+      "description": "Protecting clients and health care personnel from health and environmental hazards.",
+      "directory": "02-safety-and-infection-prevention-and-control",
+      "topics": [
+        {
+          "order": 1,
+          "id": "accident-error-and-injury-prevention",
+          "title": "Accident, Error, and Injury Prevention",
+          "directory": "01-accident-error-and-injury-prevention",
+          "path": "02-safety-and-infection-prevention-and-control/01-accident-error-and-injury-prevention",
+          "description": "Prevent accidents and injuries by assessing risks and implementing safety measures.",
+          "learning_objectives": [
+            "Assess client for allergies and intervene as needed.",
+            "Identify factors that influence accident and injury prevention such as age or mental status.",
+            "Protect client from injury and promote staff and workplace safety."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "emergency-response-plan",
+          "title": "Emergency Response Plan",
+          "directory": "02-emergency-response-plan",
+          "path": "02-safety-and-infection-prevention-and-control/02-emergency-response-plan",
+          "description": "Participate in disaster planning and emergency response activities.",
+          "learning_objectives": [
+            "Determine which clients to recommend for discharge in a disaster situation.",
+            "Identify nursing roles and use clinical decision-making during emergencies.",
+            "Participate in emergency planning, response, and disaster drills."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "ergonomic-principles",
+          "title": "Ergonomic Principles",
+          "directory": "03-ergonomic-principles",
+          "path": "02-safety-and-infection-prevention-and-control/03-ergonomic-principles",
+          "description": "Apply ergonomic principles to prevent repetitive stress injuries.",
+          "learning_objectives": [
+            "Assess client ability to balance, transfer, and use assistive devices prior to planning care.",
+            "Provide instruction about body positions that eliminate repetitive stress.",
+            "Use ergonomic principles safely when providing care."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "handling-hazardous-and-infectious-materials",
+          "title": "Handling Hazardous and Infectious Materials",
+          "directory": "04-handling-hazardous-and-infectious-materials",
+          "path": "02-safety-and-infection-prevention-and-control/04-handling-hazardous-and-infectious-materials",
+          "description": "Identify and safely handle biohazardous, flammable, and infectious materials.",
+          "learning_objectives": [
+            "Identify biohazardous, flammable, and infectious materials in the environment.",
+            "Follow procedures and demonstrate safe handling techniques for hazardous materials.",
+            "Ensure safe implementation of internal radiation therapy."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "home-safety",
+          "title": "Home Safety",
+          "directory": "05-home-safety",
+          "path": "02-safety-and-infection-prevention-and-control/05-home-safety",
+          "description": "Assess and educate clients on home safety and environmental hazards.",
+          "learning_objectives": [
+            "Assess the need for client home modifications for safety.",
+            "Apply knowledge of client pathophysiology to home safety interventions.",
+            "Educate clients on safety concerns and protective equipment."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "reporting-of-incident-event-irregular-occurrence-or-variance",
+          "title": "Reporting of Incident, Event, Irregular Occurrence, or Variance",
+          "directory": "06-reporting-of-incident-event-irregular-occurrence-or-variance",
+          "path": "02-safety-and-infection-prevention-and-control/06-reporting-of-incident-event-irregular-occurrence-or-variance",
+          "description": "Acknowledge, document, and report practice errors and incidents.",
+          "learning_objectives": [
+            "Identify situations where reporting of incidents or variances is appropriate.",
+            "Acknowledge and document practice errors and near misses.",
+            "Report, intervene, and escalate unsafe practice of staff as necessary."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "safe-use-of-equipment",
+          "title": "Safe Use of Equipment",
+          "directory": "07-safe-use-of-equipment",
+          "path": "02-safety-and-infection-prevention-and-control/07-safe-use-of-equipment",
+          "description": "Inspect, maintain, and educate on the safe use of health care equipment.",
+          "learning_objectives": [
+            "Inspect equipment for safety hazards before and during use.",
+            "Facilitate appropriate and safe use of equipment, and teach clients about safe usage.",
+            "Remove malfunctioning equipment from care areas and report issues."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "security-plan",
+          "title": "Security Plan",
+          "directory": "08-security-plan",
+          "path": "02-safety-and-infection-prevention-and-control/08-security-plan",
+          "description": "Use critical thinking in situations related to security planning and protocols.",
+          "learning_objectives": [
+            "Use clinical decision-making in situations related to security planning.",
+            "Apply principles of triage and evacuation procedures.",
+            "Follow security plans and procedures such as newborn nursery security or controlled access."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "standard-precautions-transmission-based-precautions-and-surgical-asepsis",
+          "title": "Standard Precautions, Transmission-Based Precautions, and Surgical Asepsis",
+          "directory": "09-standard-precautions-transmission-based-precautions-and-surgical-asepsis",
+          "path": "02-safety-and-infection-prevention-and-control/09-standard-precautions-transmission-based-precautions-and-surgical-asepsis",
+          "description": "Apply infection prevention principles and evaluate infection control precautions.",
+          "learning_objectives": [
+            "Apply principles of infection prevention including hand hygiene, isolation, and sterile technique.",
+            "Understand communicable diseases and the modes of organism transmission.",
+            "Educate clients and staff regarding infection prevention measures."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "use-of-restraints-and-safety-devices",
+          "title": "Use of Restraints and Safety Devices",
+          "directory": "10-use-of-restraints-and-safety-devices",
+          "path": "02-safety-and-infection-prevention-and-control/10-use-of-restraints-and-safety-devices",
+          "description": "Assess appropriateness and monitor the use of restraints and safety devices.",
+          "learning_objectives": [
+            "Assess appropriateness of the type of restraint or safety device used.",
+            "Follow all legal and facility requirements when using restraints.",
+            "Monitor and evaluate client response to restraints."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "health-promotion-and-maintenance",
+      "title": "Health Promotion and Maintenance",
+      "weight": 0.09,
+      "description": "Providing and directing nursing care that incorporates the knowledge of expected growth and development principles, prevention, and strategies to achieve optimal health.",
+      "directory": "03-health-promotion-and-maintenance",
+      "topics": [
+        {
+          "order": 1,
+          "id": "aging-process",
+          "title": "Aging Process",
+          "directory": "01-aging-process",
+          "path": "03-health-promotion-and-maintenance/01-aging-process",
+          "description": "Provide care and education recognizing expected age-related changes across the lifespan.",
+          "learning_objectives": [
+            "Assess client's reactions to expected age-related changes.",
+            "Provide age-appropriate care and education for clients from birth through adulthood.",
+            "Provide specialized care and education for adult clients ages 65 years and over."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "ante-intra-postpartum-and-newborn-care",
+          "title": "Ante-, Intra-, Postpartum and Newborn Care",
+          "directory": "02-ante-intra-postpartum-and-newborn-care",
+          "path": "03-health-promotion-and-maintenance/02-ante-intra-postpartum-and-newborn-care",
+          "description": "Assess and provide comprehensive care to clients during pregnancy, labor, and postpartum.",
+          "learning_objectives": [
+            "Assess psychosocial response to pregnancy and symptoms of postpartum complications.",
+            "Calculate expected delivery date and check fetal heart rate.",
+            "Provide prenatal, intrapartum, postpartum care, and assist with newborn care."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "developmental-stages-and-transitions",
+          "title": "Developmental Stages and Transitions",
+          "directory": "03-developmental-stages-and-transitions",
+          "path": "03-health-promotion-and-maintenance/03-developmental-stages-and-transitions",
+          "description": "Identify expected physical, cognitive, and psychosocial stages of development.",
+          "learning_objectives": [
+            "Identify expected physical, cognitive, and psychosocial stages of development.",
+            "Compare client development to expected milestones and report deviations.",
+            "Assist clients to cope with life transitions such as parenting, puberty, or retirement."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "health-promotion-and-disease-prevention",
+          "title": "Health Promotion and Disease Prevention",
+          "directory": "04-health-promotion-and-disease-prevention",
+          "path": "03-health-promotion-and-maintenance/04-health-promotion-and-disease-prevention",
+          "description": "Educate clients on actions to promote health and prevent disease.",
+          "learning_objectives": [
+            "Assess and educate clients about health risks based on family, population, and community.",
+            "Educate clients on actions to promote and maintain health and prevent disease.",
+            "Assist clients in maintaining an optimal level of health and evaluate understanding."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "health-screening",
+          "title": "Health Screening",
+          "directory": "05-health-screening",
+          "path": "03-health-promotion-and-maintenance/05-health-screening",
+          "description": "Apply pathophysiology and perform comprehensive health and risk assessments.",
+          "learning_objectives": [
+            "Apply knowledge of pathophysiology to health screening.",
+            "Perform targeted screening assessments (e.g., vision, nutrition, depression).",
+            "Use appropriate procedures and interviewing techniques when obtaining a health history."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "high-risk-behaviors",
+          "title": "High-Risk Behaviors",
+          "directory": "06-high-risk-behaviors",
+          "path": "03-health-promotion-and-maintenance/06-high-risk-behaviors",
+          "description": "Assess lifestyle risks and educate on the prevention and treatment of high-risk behaviors.",
+          "learning_objectives": [
+            "Assess client lifestyle practice risks that may impact health.",
+            "Assist clients to identify behaviors and risks that impact well-being.",
+            "Educate clients about prevention and treatment of high-risk health behaviors."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "lifestyle-choices",
+          "title": "Lifestyle Choices",
+          "directory": "07-lifestyle-choices",
+          "path": "03-health-promotion-and-maintenance/07-lifestyle-choices",
+          "description": "Assess lifestyle choices, sexuality, and contraception needs.",
+          "learning_objectives": [
+            "Assess client's lifestyle choices, attitudes on sexuality, and desire for contraception.",
+            "Identify contraindications and expected outcomes for family planning methods.",
+            "Educate clients on sexuality issues and evaluate alternative health care practices."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "self-care",
+          "title": "Self-Care",
+          "directory": "08-self-care",
+          "path": "03-health-promotion-and-maintenance/08-self-care",
+          "description": "Assess client ability to manage care at home and assist with self-care goals.",
+          "learning_objectives": [
+            "Assess client ability to manage care in the home environment.",
+            "Consider client self-care needs before developing or revising care plans.",
+            "Assist primary caregivers working with the client to meet self-care goals."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "techniques-of-physical-assessment",
+          "title": "Techniques of Physical Assessment",
+          "directory": "09-techniques-of-physical-assessment",
+          "path": "03-health-promotion-and-maintenance/09-techniques-of-physical-assessment",
+          "description": "Apply nursing procedures and psychomotor skills to perform comprehensive health assessments.",
+          "learning_objectives": [
+            "Apply knowledge of nursing procedures to techniques of physical assessment.",
+            "Choose physical assessment equipment appropriate for the client.",
+            "Perform comprehensive health assessments."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "psychosocial-integrity",
+      "title": "Psychosocial Integrity",
+      "weight": 0.09,
+      "description": "Providing and directing nursing care that promotes the emotional, mental, and social well-being of the client experiencing stressful events or mental illness.",
+      "directory": "04-psychosocial-integrity",
+      "topics": [
+        {
+          "order": 1,
+          "id": "abuse-or-neglect",
+          "title": "Abuse or Neglect",
+          "directory": "01-abuse-or-neglect",
+          "path": "04-psychosocial-integrity/01-abuse-or-neglect",
+          "description": "Assess, report, and provide interventions for abused or neglected clients.",
+          "learning_objectives": [
+            "Assess clients for abuse or neglect and report or escalate as necessary.",
+            "Identify risk factors for domestic, child, and elder abuse or neglect.",
+            "Provide a safe environment and counsel recipients of abuse on coping strategies."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "behavioral-interventions",
+          "title": "Behavioral Interventions",
+          "directory": "02-behavioral-interventions",
+          "path": "04-psychosocial-integrity/02-behavioral-interventions",
+          "description": "Assess behavior and assist clients in achieving and maintaining self-control.",
+          "learning_objectives": [
+            "Assess client appearance, mood, and psychomotor behavior for inappropriate responses.",
+            "Assist clients to develop and use strategies to decrease anxiety.",
+            "Incorporate behavioral management techniques and orient the client to reality."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "chemical-and-other-dependencies-and-substance-use-disorder",
+          "title": "Chemical and Other Dependencies and Substance Use Disorder",
+          "directory": "03-chemical-and-other-dependencies-and-substance-use-disorder",
+          "path": "04-psychosocial-integrity/03-chemical-and-other-dependencies-and-substance-use-disorder",
+          "description": "Assess and plan care for clients experiencing substance use disorder or withdrawal.",
+          "learning_objectives": [
+            "Assess clients for substance misuse, toxicities, and reactions to substance-related diagnoses.",
+            "Plan and provide care for clients experiencing withdrawal, toxicity, or non-substance dependencies.",
+            "Educate clients on substance use diagnoses and encourage participation in support groups."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "coping-mechanisms",
+          "title": "Coping Mechanisms",
+          "directory": "04-coping-mechanisms",
+          "path": "04-psychosocial-integrity/04-coping-mechanisms",
+          "description": "Assess support systems and the client's ability to adapt to role and life changes.",
+          "learning_objectives": [
+            "Assess client's support systems, available resources, and ability to cope with life changes.",
+            "Provide support to clients with an unexpected altered body image.",
+            "Evaluate client's constructive use of defense mechanisms and adaptation to role changes."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "crisis-intervention",
+          "title": "Crisis Intervention",
+          "directory": "05-crisis-intervention",
+          "path": "04-psychosocial-integrity/05-crisis-intervention",
+          "description": "Identify clients in crisis and use crisis intervention techniques to assist in coping.",
+          "learning_objectives": [
+            "Identify the client in crisis and assess the potential for violence.",
+            "Apply knowledge of client psychopathology to crisis intervention techniques.",
+            "Guide the client to resources for recovery from crisis situations."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "cultural-awareness-and-cultural-influences-on-health",
+          "title": "Cultural Awareness and Cultural Influences on Health",
+          "directory": "06-cultural-awareness-and-cultural-influences-on-health",
+          "path": "04-psychosocial-integrity/06-cultural-awareness-and-cultural-influences-on-health",
+          "description": "Incorporate client cultural practices and beliefs into the plan of care.",
+          "learning_objectives": [
+            "Assess the importance of client self-reported culture/ethnicity when planning care.",
+            "Respect and incorporate client cultural practices and beliefs into the provision of care.",
+            "Evaluate and document how client language needs were met."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "end-of-life-care",
+          "title": "End-of-Life Care",
+          "directory": "07-end-of-life-care",
+          "path": "04-psychosocial-integrity/07-end-of-life-care",
+          "description": "Assist clients and families in coping with end-of-life issues and interventions.",
+          "learning_objectives": [
+            "Assess client's ability to cope with end-of-life interventions and identify end-of-life needs.",
+            "Recognize the need for and provide psychosocial support to the family/caregiver.",
+            "Provide end-of-life care and education to clients."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "family-dynamics",
+          "title": "Family Dynamics",
+          "directory": "08-family-dynamics",
+          "path": "04-psychosocial-integrity/08-family-dynamics",
+          "description": "Assess family functioning, parental techniques, and integrate new members.",
+          "learning_objectives": [
+            "Assess barriers and stressors that impact family functioning.",
+            "Assess client support systems and parental discipline techniques.",
+            "Assist client to integrate new members into family structures."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "grief-and-loss",
+          "title": "Grief and Loss",
+          "directory": "09-grief-and-loss",
+          "path": "04-psychosocial-integrity/09-grief-and-loss",
+          "description": "Provide care, support, and education to clients experiencing anticipatory grieving and loss.",
+          "learning_objectives": [
+            "Provide care for a client experiencing grief or loss.",
+            "Support the client in anticipatory grieving and inform them of expected reactions.",
+            "Provide resources to adjust to loss and evaluate the client's coping."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "mental-health-concepts",
+          "title": "Mental Health Concepts",
+          "directory": "10-mental-health-concepts",
+          "path": "04-psychosocial-integrity/10-mental-health-concepts",
+          "description": "Identify symptoms of acute and chronic mental illness and apply psychopathology concepts.",
+          "learning_objectives": [
+            "Identify signs of impaired cognition and recognize acute and chronic mental illness symptoms.",
+            "Assess client for alterations in mood, judgment, cognition, and reasoning.",
+            "Apply knowledge of psychopathology to mental health concepts in therapy."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "religious-and-spiritual-influences-on-health",
+          "title": "Religious and Spiritual Influences on Health",
+          "directory": "11-religious-and-spiritual-influences-on-health",
+          "path": "04-psychosocial-integrity/11-religious-and-spiritual-influences-on-health",
+          "description": "Assess and meet client emotional and self-reported spiritual needs.",
+          "learning_objectives": [
+            "Identify emotional problems related to self-reported religious/spiritual beliefs.",
+            "Assess and plan interventions that meet client emotional and spiritual needs.",
+            "Evaluate whether client's self-reported religious/spiritual needs are met."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "sensory-and-perceptual-alterations",
+          "title": "Sensory and Perceptual Alterations",
+          "directory": "12-sensory-and-perceptual-alterations",
+          "path": "04-psychosocial-integrity/12-sensory-and-perceptual-alterations",
+          "description": "Assist clients experiencing visual, auditory, or cognitive sensory alterations.",
+          "learning_objectives": [
+            "Identify time, place, and stimuli surrounding the appearance of sensory symptoms.",
+            "Provide appropriate, nonthreatening, and nonjudgmental care for sensory alterations.",
+            "Assist clients to develop strategies for dealing with sensory and thought disturbances."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "stress-management",
+          "title": "Stress Management",
+          "directory": "13-stress-management",
+          "path": "04-psychosocial-integrity/13-stress-management",
+          "description": "Assess stressors and implement measures to reduce environmental stressors.",
+          "learning_objectives": [
+            "Recognize nonverbal cues to physical and psychological stressors.",
+            "Implement measures to reduce environmental stressors.",
+            "Provide information to clients on stress management techniques and evaluate their use."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "support-systems",
+          "title": "Support Systems",
+          "directory": "14-support-systems",
+          "path": "04-psychosocial-integrity/14-support-systems",
+          "description": "Assist families to plan care and encourage involvement in healthcare decisions.",
+          "learning_objectives": [
+            "Assist families to plan care for clients with impaired cognition.",
+            "Encourage client involvement in the health care decision-making process.",
+            "Evaluate client feelings about the diagnosis and treatment plan."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "therapeutic-communication",
+          "title": "Therapeutic Communication",
+          "directory": "15-therapeutic-communication",
+          "path": "04-psychosocial-integrity/15-therapeutic-communication",
+          "description": "Assess communication needs and use therapeutic communication techniques effectively.",
+          "learning_objectives": [
+            "Assess verbal and nonverbal client communication needs.",
+            "Use therapeutic communication techniques, allowing time to communicate.",
+            "Encourage clients to verbalize feelings and respect personal values."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 16,
+          "id": "therapeutic-environment",
+          "title": "Therapeutic Environment",
+          "directory": "16-therapeutic-environment",
+          "path": "04-psychosocial-integrity/16-therapeutic-environment",
+          "description": "Promote a therapeutic environment and make appropriate room assignments.",
+          "learning_objectives": [
+            "Identify external factors that may interfere with client recovery.",
+            "Make client room assignments that support the therapeutic milieu.",
+            "Promote a consistently therapeutic environment."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "basic-care-and-comfort",
+      "title": "Basic Care and Comfort",
+      "weight": 0.09,
+      "description": "Providing comfort and assistance in the performance of activities of daily living.",
+      "directory": "05-basic-care-and-comfort",
+      "topics": [
+        {
+          "order": 1,
+          "id": "assistive-devices",
+          "title": "Assistive Devices",
+          "directory": "01-assistive-devices",
+          "path": "05-basic-care-and-comfort/01-assistive-devices",
+          "description": "Assess the need for and assist clients in the correct use of assistive devices.",
+          "learning_objectives": [
+            "Assess client difficulty with communication and sensory functions to determine the need for assistive devices.",
+            "Assist clients to compensate for physical or sensory impairments using devices.",
+            "Manage clients using prostheses and evaluate the correct use of assistive devices."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "elimination",
+          "title": "Elimination",
+          "directory": "02-elimination",
+          "path": "05-basic-care-and-comfort/02-elimination",
+          "description": "Assess and manage clients with alterations in bowel and bladder elimination.",
+          "learning_objectives": [
+            "Assess and manage clients with an alteration in bowel and bladder elimination.",
+            "Perform irrigations and provide skin care to incontinent clients.",
+            "Use alternative methods to promote voiding and evaluate restoration of ability to eliminate."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "mobility-and-immobility",
+          "title": "Mobility and Immobility",
+          "directory": "03-mobility-and-immobility",
+          "path": "05-basic-care-and-comfort/03-mobility-and-immobility",
+          "description": "Identify complications of immobility and implement measures to promote circulation.",
+          "learning_objectives": [
+            "Identify complications of immobility and perform skin assessments.",
+            "Apply, maintain, or remove orthopedic devices and maintain correct body alignment.",
+            "Implement measures to promote circulation and evaluate responses to interventions."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "nonpharmacological-comfort-interventions",
+          "title": "Nonpharmacological Comfort Interventions",
+          "directory": "04-nonpharmacological-comfort-interventions",
+          "path": "05-basic-care-and-comfort/04-nonpharmacological-comfort-interventions",
+          "description": "Assess need for alternative therapies and provide nonpharmacological comfort measures.",
+          "learning_objectives": [
+            "Assess client needs for alternative therapies and palliative care.",
+            "Assess client pain and incorporate alternative therapies to provide nonpharmacological comfort.",
+            "Evaluate client responses to nonpharmacological and palliative interventions."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "nutrition-and-oral-hydration",
+          "title": "Nutrition and Oral Hydration",
+          "directory": "05-nutrition-and-oral-hydration",
+          "path": "05-basic-care-and-comfort/05-nutrition-and-oral-hydration",
+          "description": "Evaluate nutritional status, maintain special diets, and provide tube feedings.",
+          "learning_objectives": [
+            "Assess client ability to eat, hydration status, and nutritional status.",
+            "Provide and maintain special diets based on diagnoses and cultural considerations.",
+            "Provide client nutrition through tube feedings and evaluate intake and output."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "personal-hygiene",
+          "title": "Personal Hygiene",
+          "directory": "06-personal-hygiene",
+          "path": "05-basic-care-and-comfort/06-personal-hygiene",
+          "description": "Assess personal hygiene routines and provide necessary adaptations for daily living.",
+          "learning_objectives": [
+            "Assess client personal hygiene habits and performance of activities of daily living.",
+            "Provide adaptations for activities of daily living to promote independence and dignity.",
+            "Perform postmortem care."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "rest-and-sleep",
+          "title": "Rest and Sleep",
+          "directory": "07-rest-and-sleep",
+          "path": "05-basic-care-and-comfort/07-rest-and-sleep",
+          "description": "Assess sleep patterns and apply pathophysiology to rest and sleep interventions.",
+          "learning_objectives": [
+            "Assess client's sleep and rest patterns and intervene as needed.",
+            "Apply knowledge of pathophysiology to execute rest and sleep interventions.",
+            "Schedule client care activities to promote adequate rest."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "id": "pharmacological-and-parenteral-therapies",
+      "title": "Pharmacological and Parenteral Therapies",
+      "weight": 0.16,
+      "description": "Providing care related to the administration of medications and parenteral therapies.",
+      "directory": "06-pharmacological-and-parenteral-therapies",
+      "topics": [
+        {
+          "order": 1,
+          "id": "adverse-effects-contraindications-side-effects-and-interactions",
+          "title": "Adverse Effects, Contraindications, Side Effects, and Interactions",
+          "directory": "01-adverse-effects-contraindications-side-effects-and-interactions",
+          "path": "06-pharmacological-and-parenteral-therapies/01-adverse-effects-contraindications-side-effects-and-interactions",
+          "description": "Identify contraindications, side effects, and incompatibilities of prescribed medications.",
+          "learning_objectives": [
+            "Identify contraindications, incompatibilities, and allergic reactions to medications.",
+            "Assess and provide information on side effects and interactions.",
+            "Evaluate and document client responses taken to counteract adverse medication effects."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "blood-and-blood-products",
+          "title": "Blood and Blood Products",
+          "directory": "02-blood-and-blood-products",
+          "path": "06-pharmacological-and-parenteral-therapies/02-blood-and-blood-products",
+          "description": "Check venous access, document necessary information, and administer blood products safely.",
+          "learning_objectives": [
+            "Identify client according to facility policy prior to blood product administration.",
+            "Check appropriate venous access and administer blood products.",
+            "Evaluate client response to blood products and document necessary information."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "central-venous-access-devices",
+          "title": "Central Venous Access Devices",
+          "directory": "03-central-venous-access-devices",
+          "path": "06-pharmacological-and-parenteral-therapies/03-central-venous-access-devices",
+          "description": "Access, maintain, and educate clients on the care of central venous access devices.",
+          "learning_objectives": [
+            "Educate clients on the reason for and care of venous access devices.",
+            "Access and maintain central venous access devices safely.",
+            "Provide continuous care for a client with a central venous access device."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "dosage-calculations",
+          "title": "Dosage Calculations",
+          "directory": "04-dosage-calculations",
+          "path": "06-pharmacological-and-parenteral-therapies/04-dosage-calculations",
+          "description": "Perform necessary calculations for medication administration using critical thinking.",
+          "learning_objectives": [
+            "Perform accurate mathematical calculations needed for medication administration.",
+            "Use clinical decision-making when calculating drug dosages to ensure client safety."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "expected-actions-and-outcomes",
+          "title": "Expected Actions and Outcomes",
+          "directory": "05-expected-actions-and-outcomes",
+          "path": "06-pharmacological-and-parenteral-therapies/05-expected-actions-and-outcomes",
+          "description": "Obtain information on prescribed medications and evaluate client use and response over time.",
+          "learning_objectives": [
+            "Use clinical decision-making to address expected outcomes of medications across various routes.",
+            "Obtain and review formulary information regarding prescribed medications.",
+            "Evaluate client's adherence and response to medication over time."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "medication-administration",
+          "title": "Medication Administration",
+          "directory": "06-medication-administration",
+          "path": "06-pharmacological-and-parenteral-therapies/06-medication-administration",
+          "description": "Prepare, administer, and document medications safely using the rights of administration.",
+          "learning_objectives": [
+            "Educate clients on medications and self-administration procedures.",
+            "Prepare and safely administer medications by common and parenteral routes using the rights of medication administration.",
+            "Titrate dosages, participate in medication reconciliation, and dispose of medications safely."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "parenteral-and-intravenous-therapies",
+          "title": "Parenteral and Intravenous Therapies",
+          "directory": "07-parenteral-and-intravenous-therapies",
+          "path": "06-pharmacological-and-parenteral-therapies/07-parenteral-and-intravenous-therapies",
+          "description": "Prepare, monitor, and evaluate intravenous therapies and infusion pumps.",
+          "learning_objectives": [
+            "Identify appropriate veins and prepare clients for peripheral venous access device insertion.",
+            "Monitor the use of infusion pumps and maintain intravenous infusion sites.",
+            "Evaluate the client's response to intermittent parenteral fluid therapy."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "pharmacological-pain-management",
+          "title": "Pharmacological Pain Management",
+          "directory": "08-pharmacological-pain-management",
+          "path": "06-pharmacological-and-parenteral-therapies/08-pharmacological-pain-management",
+          "description": "Assess need for and administer pharmacological pain management safely.",
+          "learning_objectives": [
+            "Assess client needs for PRN pain medications across varying routes.",
+            "Administer pharmacologic pain management appropriate for client age and diagnosis.",
+            "Handle controlled substances within regulatory guidelines and evaluate pain medication response."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "total-parenteral-nutrition",
+          "title": "Total Parenteral Nutrition",
+          "directory": "09-total-parenteral-nutrition",
+          "path": "06-pharmacological-and-parenteral-therapies/09-total-parenteral-nutrition",
+          "description": "Educate, administer, and evaluate client response to Total Parenteral Nutrition (TPN).",
+          "learning_objectives": [
+            "Educate clients on the need for and use of TPN.",
+            "Identify side effects related to TPN and intervene appropriately.",
+            "Administer TPN using appropriate psychomotor skills and evaluate client response."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "id": "reduction-of-risk-potential",
+      "title": "Reduction of Risk Potential",
+      "weight": 0.12,
+      "description": "Reducing the likelihood that clients will develop complications or health problems related to existing conditions, treatments or procedures.",
+      "directory": "07-reduction-of-risk-potential",
+      "topics": [
+        {
+          "order": 1,
+          "id": "changes-and-abnormalities-in-vital-signs",
+          "title": "Changes and Abnormalities in Vital Signs",
+          "directory": "01-changes-and-abnormalities-in-vital-signs",
+          "path": "07-reduction-of-risk-potential/01-changes-and-abnormalities-in-vital-signs",
+          "description": "Assess, respond to, and apply pathophysiology when measuring changes in vital signs.",
+          "learning_objectives": [
+            "Assess and respond to changes and trends in client vital signs.",
+            "Apply necessary psychomotor skills when assessing vital signs.",
+            "Apply pathophysiology knowledge to the interpretation of vital signs."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "diagnostic-tests",
+          "title": "Diagnostic Tests",
+          "directory": "02-diagnostic-tests",
+          "path": "07-reduction-of-risk-potential/02-diagnostic-tests",
+          "description": "Apply nursing procedures, compare findings, and perform diagnostic testing.",
+          "learning_objectives": [
+            "Perform testing within the scope of practice, such as ECGs or fetal monitoring.",
+            "Compare diagnostic findings with pretest results.",
+            "Monitor results of diagnostic tests and maternal/fetal diagnostics, intervening as needed."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "laboratory-values",
+          "title": "Laboratory Values",
+          "directory": "03-laboratory-values",
+          "path": "07-reduction-of-risk-potential/03-laboratory-values",
+          "description": "Obtain specimens, monitor laboratory values, and compare findings to normal values.",
+          "learning_objectives": [
+            "Obtain blood and non-blood specimens safely.",
+            "Compare client laboratory values to normal parameters.",
+            "Educate clients about lab tests and notify primary health care providers of critical results."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "potential-for-alterations-in-body-systems",
+          "title": "Potential for Alterations in Body Systems",
+          "directory": "04-potential-for-alterations-in-body-systems",
+          "path": "07-reduction-of-risk-potential/04-potential-for-alterations-in-body-systems",
+          "description": "Identify client potential for complications such as aspiration, skin breakdown, and poor perfusion.",
+          "learning_objectives": [
+            "Identify potential for client aspiration, skin breakdown, and insufficient vascular perfusion.",
+            "Educate clients on methods to prevent complications associated with diagnoses.",
+            "Compare current data to baseline and monitor outputs for significant changes."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "potential-for-complications-of-diagnostic-tests-treatments-and-procedures",
+          "title": "Potential for Complications of Diagnostic Tests, Treatments, and Procedures",
+          "directory": "05-potential-for-complications-of-diagnostic-tests-treatments-and-procedures",
+          "path": "07-reduction-of-risk-potential/05-potential-for-complications-of-diagnostic-tests-treatments-and-procedures",
+          "description": "Assess and monitor clients for abnormal responses and complications following procedures.",
+          "learning_objectives": [
+            "Assess for abnormal responses following diagnostic tests or procedures.",
+            "Position clients properly and use precautions to prevent procedure-related complications.",
+            "Insert, maintain, or remove tubes and catheters safely to prevent complications."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "potential-for-complications-from-surgical-procedures-and-health-alterations",
+          "title": "Potential for Complications from Surgical Procedures and Health Alterations",
+          "directory": "06-potential-for-complications-from-surgical-procedures-and-health-alterations",
+          "path": "07-reduction-of-risk-potential/06-potential-for-complications-from-surgical-procedures-and-health-alterations",
+          "description": "Apply pathophysiology to monitor for and prevent surgical complications.",
+          "learning_objectives": [
+            "Apply knowledge of pathophysiology when monitoring for postoperative complications.",
+            "Evaluate client responses to interventions aimed at preventing aspiration and promoting venous return."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "system-specific-assessments",
+          "title": "System-Specific Assessments",
+          "directory": "07-system-specific-assessments",
+          "path": "07-reduction-of-risk-potential/07-system-specific-assessments",
+          "description": "Perform risk and focused assessments for specific body systems and health alterations.",
+          "learning_objectives": [
+            "Perform focused assessments on specific systems, such as evaluating abnormal peripheral pulses or neurologic status.",
+            "Perform risk assessments for factors like sensory impairment, fall risk, and delayed wound healing.",
+            "Recognize changes in client conditions and intervene effectively."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "therapeutic-procedures",
+          "title": "Therapeutic Procedures",
+          "directory": "08-therapeutic-procedures",
+          "path": "07-reduction-of-risk-potential/08-therapeutic-procedures",
+          "description": "Assess response to anesthesia, educate on home management, and monitor therapeutic devices.",
+          "learning_objectives": [
+            "Assess client response to local, regional, or general anesthesia.",
+            "Monitor effective functioning of therapeutic devices such as chest tubes or continuous bladder irrigation.",
+            "Manage clients during and following a procedure with moderate sedation."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "id": "physiological-adaptation",
+      "title": "Physiological Adaptation",
+      "weight": 0.14,
+      "description": "Managing and providing care for clients with acute, chronic or life-threatening physical health conditions.",
+      "directory": "08-physiological-adaptation",
+      "topics": [
+        {
+          "order": 1,
+          "id": "alterations-in-body-systems",
+          "title": "Alterations in Body Systems",
+          "directory": "01-alterations-in-body-systems",
+          "path": "08-physiological-adaptation/01-alterations-in-body-systems",
+          "description": "Assess adaptation to illness, monitor tube drainage, and identify infectious diseases.",
+          "learning_objectives": [
+            "Assess client adaptation to health alterations, illnesses, and diseases.",
+            "Provide care for clients experiencing complications of pregnancy, labor, or delivery.",
+            "Monitor and maintain internal monitoring devices, wounds, and drainage equipment."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "fluid-and-electrolyte-imbalances",
+          "title": "Fluid and Electrolyte Imbalances",
+          "directory": "02-fluid-and-electrolyte-imbalances",
+          "path": "08-physiological-adaptation/02-fluid-and-electrolyte-imbalances",
+          "description": "Identify signs, apply pathophysiology, and manage fluid and electrolyte imbalances.",
+          "learning_objectives": [
+            "Identify signs and symptoms of fluid and electrolyte imbalances.",
+            "Manage the care of clients with fluid and electrolyte imbalances utilizing pathophysiological principles.",
+            "Evaluate the client's response to interventions aimed at correcting imbalances."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "hemodynamics",
+          "title": "Hemodynamics",
+          "directory": "03-hemodynamics",
+          "path": "08-physiological-adaptation/03-hemodynamics",
+          "description": "Assess for decreased cardiac output, identify arrhythmias, and manage hemodynamic status.",
+          "learning_objectives": [
+            "Identify cardiac rhythm strip abnormalities and manage clients on telemetry.",
+            "Intervene to improve cardiovascular status based on pathophysiology of hemodynamics.",
+            "Manage clients receiving hemodialysis, continuous renal replacement, and pacing devices."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "illness-management",
+          "title": "Illness Management",
+          "directory": "04-illness-management",
+          "path": "08-physiological-adaptation/04-illness-management",
+          "description": "Educate clients, implement interventions, and manage recovery from acute or chronic illness.",
+          "learning_objectives": [
+            "Educate clients regarding acute or chronic conditions and illness management.",
+            "Promote continuity of care and evaluate the effectiveness of treatment plans.",
+            "Manage the care of a client with impaired ventilation and oxygenation."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "medical-emergencies",
+          "title": "Medical Emergencies",
+          "directory": "05-medical-emergencies",
+          "path": "08-physiological-adaptation/05-medical-emergencies",
+          "description": "Apply knowledge of pathophysiology and procedures to manage and document medical emergencies.",
+          "learning_objectives": [
+            "Perform emergency care procedures applying relevant nursing skills and psychomotor skills.",
+            "Notify primary health care providers about unexpected client responses in emergency situations.",
+            "Evaluate and document client responses to emergency interventions such as restoration of breathing or pulse."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "pathophysiology",
+          "title": "Pathophysiology",
+          "directory": "06-pathophysiology",
+          "path": "08-physiological-adaptation/06-pathophysiology",
+          "description": "Understand general principles and identify pathophysiology related to conditions.",
+          "learning_objectives": [
+            "Identify pathophysiology related to acute or chronic conditions.",
+            "Understand general principles of pathophysiology, including injury, repair, immunity, and cellular structure."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "unexpected-response-to-therapies",
+          "title": "Unexpected Response to Therapies",
+          "directory": "07-unexpected-response-to-therapies",
+          "path": "08-physiological-adaptation/07-unexpected-response-to-therapies",
+          "description": "Assess and intervene for unexpected adverse responses to client therapies.",
+          "learning_objectives": [
+            "Assess client for unexpected adverse responses to therapy such as increased intracranial pressure or hemorrhage.",
+            "Recognize signs and symptoms of client complications and intervene efficiently.",
+            "Promote recovery of a client from unexpected responses to therapy."
+          ],
+          "references": [
+            "https://www.ncsbn.org/public-files/2026_RN_TestPlan_English.pdf",
+            "https://nclex.com/test-plans.page"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

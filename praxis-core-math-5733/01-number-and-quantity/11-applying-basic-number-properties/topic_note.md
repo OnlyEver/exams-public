@@ -1,0 +1,161 @@
+# The Physics of Numbers: Applying Basic Number Properties
+
+Welcome to the machinery of mathematics. 
+
+When most people look at an arithmetic problem, they see a rigid set of instructions—a chore to be slogged through from left to right. But mathematics isn't about mindless calculation; it's about seeing the hidden structures of the universe and using them to your advantage. For the Praxis Core Mathematics exam, your goal isn't just to memorize Latin-sounding words like "commutative" and "distributive." Your goal is to become a master manipulator of numbers.
+
+Think of basic number properties as the "rules of the game" in physics. If you know the rules, you don't have to work hard; you can work *smart*. You can shift numbers around, regroup them, and break them apart so that the arithmetic practically solves itself in your head. 
+
+Let's look at how we can playfully—but legally—bend mathematical expressions to our will.
+
+---
+
+## 1. The Art of Rearranging: The Commutative Property
+
+Have you ever packed a suitcase? If you toss your shirts in first and then your socks, you get a packed suitcase. If you toss your socks in first and then your shirts, you end up with the exact same packed suitcase. The order of the action simply doesn't matter. 
+
+This brings us to our first fundamental rule. **The commutative property of addition states that changing the order of addends does not change the resulting sum.** 
+
+> **The Rule of Moving Things Around (Addition)**
+> The algebraic representation of the commutative property of addition is exactly this:
+> **$a + b = b + a$**
+
+The same delightful symmetry exists in multiplication. Imagine a grid of dots on a page: 3 rows of 4 dots. If you rotate the page 90 degrees, it becomes 4 rows of 3 dots. The total number of dots hasn't changed! **The commutative property of multiplication states that changing the order of factors does not change the resulting product.** 
+
+> **The Rule of Moving Things Around (Multiplication)**
+> The algebraic representation of the commutative property of multiplication is:
+> **$a \times b = b \times a$**
+
+### Why do we care? 
+We care because this property is your first major shortcut. You don’t actually have to add numbers in the order they are handed to you! **The commutative property allows numbers in an addition expression to be rearranged to combine compatible numbers that sum to a multiple of ten.** 
+
+If I give you $13 + 48 + 7$, going strictly left-to-right is an unnecessary headache. Instead, commute the $7$ over to the $13$. 
+$13 + 7 = 20$. 
+$20 + 48 = 68$. 
+You just did a complex problem in two seconds without writing anything down.
+
+### ⚠️ The "Watch Out" Warning
+Does this trick work for everything? What about taking off your socks and your shoes? The order *definitely* matters there. 
+
+In mathematics, you must remember the limits of your tools:
+* **The operation of subtraction does not satisfy the commutative property.** ($5 - 3$ is not the same as $3 - 5$).
+* **The operation of division does not satisfy the commutative property.** ($10 \div 2$ is not the same as $2 \div 10$).
+
+---
+
+## 2. The Art of Friendship: The Associative Property
+
+If the commutative property is about moving physical locations, the associative property is about *who is talking to whom*. 
+
+> **Order of Operations Context**
+> Before we regroup things, remember a fundamental truth of math grammar: **Grouping symbols such as parentheses dictate which arithmetic operations must be performed first within an algebraic expression.**
+
+Now, imagine a conversation between three friends: Alice, Bob, and Charlie. If Alice and Bob are whispering together, and then Charlie joins in, it’s the same group of friends as if Bob and Charlie were whispering and Alice joined them. The grouping changes, but the party is exactly the same.
+
+**The associative property of addition states that changing the grouping of addends does not change the resulting sum.**
+
+> **The Rule of Grouping (Addition)**
+> The algebraic representation of the associative property of addition is that the grouped sum of $a$ and $b$ plus $c$ equals $a$ plus the grouped sum of $b$ and $c$:
+> **$(a + b) + c = a + (b + c)$**
+
+Similarly, **the associative property of multiplication states that changing the grouping of factors does not change the resulting product.**
+
+> **The Rule of Grouping (Multiplication)**
+> The algebraic representation of the associative property of multiplication is that the grouped product of $a$ and $b$ times $c$ equals $a$ times the grouped product of $b$ and $c$:
+> **$(a \times b) \times c = a \times (b \times c)$**
+
+### Why do we care?
+This is another brilliant tool for being a "lazy" mathematician. **The associative property allows a string of multiplication operations to be regrouped to form easier partial products without changing the final result.**
+
+Look at this monster: $4 \times (25 \times 17)$.
+If you do parentheses first as originally written, you have to multiply $25 \times 17$. Gross. But wait! Let's *re-associate* the numbers!
+$(4 \times 25) \times 17$. 
+Suddenly, you know that $4 \times 25 = 100$. 
+And $100 \times 17 = 1700$. 
+Boom. Magic. 
+
+### ⚠️ The Second "Watch Out" Warning
+Just as with commuting, subtraction and division are stubborn.
+* **The operation of subtraction does not satisfy the associative property.** ($(10 - 5) - 2$ equals $3$, but $10 - (5 - 2)$ equals $7$).
+* **The operation of division does not satisfy the associative property.** ($(16 \div 4) \div 2$ equals $2$, but $16 \div (4 \div 2)$ equals $8$).
+
+### Summary of Moving vs. Grouping
+
+| Property | What it does | Addition Example | Multiplication Example |
+| :--- | :--- | :--- | :--- |
+| **Commutative** | Moves the items | $x + y = y + x$ | $x \times y = y \times x$ |
+| **Associative** | Changes the parentheses | $(x + y) + z = x + (y + z)$ | $(x \times y) \times z = x \times (y \times z)$ |
+
+---
+
+## 3. The Ultimate Mental Math Hack: The Distributive Property
+
+Now we arrive at the most powerful property in the mathematician's toolkit. The commutative and associative properties only work with *one operation at a time* (all addition, or all multiplication). But the **distributive property** is the beautiful bridge between multiplication and addition/subtraction.
+
+**The distributive property of multiplication over addition allows evaluating the product of a value and a sum by first multiplying the value by each addend separately and adding the resulting products.**
+
+> **The Bridge (Addition)**
+> The algebraic representation of the distributive property over addition is: 
+> **$a(b + c) = ab + ac$**
+
+And it works equally well with subtraction. **The distributive property of multiplication over subtraction allows evaluating the product of a value and a difference by first multiplying the value by each term separately and subtracting the resulting products.**
+
+> **The Bridge (Subtraction)**
+> **$a(b - c) = ab - ac$**
+
+### Why do we care?
+Because it turns you into a human calculator. **Applying the distributive property enables mental math calculations by breaking down a difficult multiplication problem into the sum (or difference) of two easier multiplication problems.**
+
+Let's say you're at the store, and you need to buy 6 items that cost $\$98$ each. You *could* grab a pencil, write down $98 \times 6$, carry the numbers... or you could use the distributive property over subtraction.
+
+Recognize that $98$ is just $(100 - 2)$.
+So, $6 \times 98$ is the same as $6 \times (100 - 2)$.
+Distribute the $6$:
+$(6 \times 100) - (6 \times 2)$
+$600 - 12 = 588$.
+
+What about $7 \times 43$? 
+Break $43$ apart into $(40 + 3)$.
+$7 \times (40 + 3) = (7 \times 40) + (7 \times 3)$
+$280 + 21 = 301$.
+
+You didn't have to name the property to use it—you just applied it to bend the numbers to your advantage!
+
+---
+
+## 4. The Unsung Heroes: Identities, Zeros, and Inverses
+
+To truly understand how math behaves, you need to understand the structural "anchor points" of our number system. These properties might seem incredibly obvious, but they are the foundational rules that allow algebra to even exist.
+
+### Doing Nothing Gracefully: The Identity Properties
+An "identity" in math is an operation that lets you step up to a number, do something to it, and leave it completely unchanged.
+
+* **The additive identity property states that the sum of any given number and zero is the original given number.** ($7 + 0 = 7$). Zero is the mirror of addition.
+* **The multiplicative identity property states that the product of any given number and one is the original given number.** ($14 \times 1 = 14$). One is the mirror of multiplication.
+
+### The Annihilator: Property of Zero
+While zero does nothing in addition, it is incredibly powerful in multiplication. It destroys everything it touches.
+* **The multiplicative property of zero states that the product of any number and zero is exactly zero.** ($4,923,194 \times 0 = 0$). 
+
+### Pushing the Undo Button: The Inverse Properties
+If you do an operation, how do you undo it to get back to your blank slate (your identities)? You use inverses.
+
+**The additive inverse of a given number is the unique number that yields zero when added to the given number.**
+If you step forward 5 spaces, how do you get back to zero? You step backwards 5 spaces. 
+> **Fact:** **The additive inverse of a positive number is the negative counterpart of the identical magnitude.**
+> *Example:* The additive inverse of $12$ is $-12$, because $12 + (-12) = 0$.
+
+**The multiplicative inverse of a given nonzero number is the unique number that yields one when multiplied by the given number.**
+If you multiply a number by $4$, how do you get back to $1$? You multiply by $\frac{1}{4}$!
+> **Fact:** **The multiplicative inverse of a mathematical fraction is the reciprocal of that specific fraction.**
+> *Example:* To find the multiplicative inverse of $\frac{2}{3}$, you simply flip it upside down (its reciprocal). The reciprocal is $\frac{3}{2}$. Why? Because $\frac{2}{3} \times \frac{3}{2} = \frac{6}{6} = 1$.
+
+---
+
+## Conclusion: Putting it all Together for the Praxis Core
+
+When you sit down to take the Praxis exam, you will encounter problems that look complicated. Your instinct might be to brute-force the arithmetic. *Resist that instinct.* 
+
+Look at the expression. Can you **commute** the numbers to bring friendly values together? Can you change the parentheses to **associate** factors into neat blocks of $10$ or $100$? Can you shatter an ugly number into pieces and **distribute** your multiplication across them? 
+
+You do not need to pause and recite, "Ah, I am now deploying the associative property of addition!" You merely need to understand how operations are grouped, respect the boundaries of subtraction and division, and seamlessly apply these properties to simplify your calculations. Math is simply a playground of logic. Once you know the rules, it's remarkably fun to play.

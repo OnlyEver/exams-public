@@ -1,0 +1,935 @@
+{
+  "exam": {
+    "name": "Praxis Core Academic Skills for Educators: Mathematics",
+    "code": "5733",
+    "provider": "ETS",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-03-19",
+    "generated_date": "2026-03-19",
+    "category_name": "Teacher Certification",
+    "category_slug": "teacher-certification",
+    "category_description": "Exam-aligned prep for future educators with clear, structured math coverage built directly from official certification blueprints.",
+    "exam_slug": "praxis-core-math-5733",
+    "theme_color": "#3B82F6",
+    "hero_headline": "Pass Praxis Core Math with exam-accurate coverage",
+    "hero_subheadline": "Master every tested objective in 15-minute topics mapped to the official ETS study companion.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most Praxis prep is either too shallow or too broad, making it hard to know what is actually test-relevant.",
+    "companion_solution": "We convert the official syllabus into a complete, topic-sized learning map with retention-focused notes and consistent concept coverage."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "number-and-quantity",
+      "title": "Number and Quantity",
+      "weight": 0.36,
+      "description": "Understand integers, decimals, fractions, ratios, percent, constant rates, place value, and whole number properties.",
+      "directory": "01-number-and-quantity",
+      "topics": [
+        {
+          "order": 1,
+          "id": "integers-decimals-and-fractions",
+          "title": "Integers, Decimals, and Fractions",
+          "directory": "01-integers-decimals-and-fractions",
+          "path": "01-number-and-quantity/01-integers-decimals-and-fractions",
+          "description": "Review core arithmetic operations involving integers, decimals, and fractions.",
+          "learning_objectives": [
+            "Perform basic operations on integers, decimals, and fractions.",
+            "Understand the rules for adding, subtracting, multiplying, and dividing these number types."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/arithmetic/fraction-operations"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "ratios-and-proportions",
+          "title": "Ratios and Proportions",
+          "directory": "02-ratios-and-proportions",
+          "path": "01-number-and-quantity/02-ratios-and-proportions",
+          "description": "Understand and apply ratio and proportion concepts to solve problems.",
+          "learning_objectives": [
+            "Set up proportions to solve for an unknown value.",
+            "Use ratio language to describe relationships between two quantities."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "percentages-and-percent-change",
+          "title": "Percentages and Percent Change",
+          "directory": "03-percentages-and-percent-change",
+          "path": "01-number-and-quantity/03-percentages-and-percent-change",
+          "description": "Compute percentages, find percent of a number, and calculate percent change.",
+          "learning_objectives": [
+            "Convert between fractions, decimals, and percents.",
+            "Calculate the percent increase or decrease of a given value."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/percentage.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "constant-rates-and-rates-of-change",
+          "title": "Constant Rates and Rates of Change",
+          "directory": "04-constant-rates-and-rates-of-change",
+          "path": "01-number-and-quantity/04-constant-rates-and-rates-of-change",
+          "description": "Solve problems involving constant rates like miles per hour or gallons per minute.",
+          "learning_objectives": [
+            "Calculate unit rates.",
+            "Use rates to determine total distance, time, or cost."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "place-value-naming-and-ordering-numbers",
+          "title": "Place Value, Naming, and Ordering Numbers",
+          "directory": "05-place-value-naming-and-ordering-numbers",
+          "path": "01-number-and-quantity/05-place-value-naming-and-ordering-numbers",
+          "description": "Understand place value systems, name decimals, and order numbers on a number line.",
+          "learning_objectives": [
+            "Identify the place value of digits in whole numbers and decimals.",
+            "Compare and order a mix of positive and negative fractions and decimals."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/place-value.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "properties-of-whole-numbers-factors-and-multiples",
+          "title": "Properties of Whole Numbers: Factors and Multiples",
+          "directory": "06-properties-of-whole-numbers-factors-and-multiples",
+          "path": "01-number-and-quantity/06-properties-of-whole-numbers-factors-and-multiples",
+          "description": "Work with factors, multiples, even and odd numbers, and understand divisibility.",
+          "learning_objectives": [
+            "Identify factors and multiples of given whole numbers.",
+            "Use the rules of evens and odds in basic operations."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "prime-numbers-and-divisibility-rules",
+          "title": "Prime Numbers and Divisibility Rules",
+          "directory": "07-prime-numbers-and-divisibility-rules",
+          "path": "01-number-and-quantity/07-prime-numbers-and-divisibility-rules",
+          "description": "Identify prime and composite numbers and utilize divisibility rules.",
+          "learning_objectives": [
+            "Find the prime factorization of a number.",
+            "Determine if a number is divisible by 2, 3, 4, 5, 6, 9, or 10.",
+            "Find the GCD and LCM of two numbers."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/numbers/prime-numbers.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "identifying-arithmetic-counterexamples",
+          "title": "Identifying Arithmetic Counterexamples",
+          "directory": "08-identifying-arithmetic-counterexamples",
+          "path": "01-number-and-quantity/08-identifying-arithmetic-counterexamples",
+          "description": "Evaluate mathematical statements and identify counterexamples.",
+          "learning_objectives": [
+            "Understand the definition of a counterexample.",
+            "Find specific numerical examples that disprove a general arithmetic claim."
+          ],
+          "references": [
+            "https://www.purplemath.com/modules/counter.htm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "real-life-word-problems-and-rounding",
+          "title": "Real-Life Word Problems and Rounding",
+          "directory": "09-real-life-word-problems-and-rounding",
+          "path": "01-number-and-quantity/09-real-life-word-problems-and-rounding",
+          "description": "Interpret real-world scenarios to extract mathematical operations and round answers appropriately.",
+          "learning_objectives": [
+            "Translate word problems into mathematical operations.",
+            "Apply rounding rules to find approximate answers to nearest specified place value."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-word-problems/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "units-of-measurement-and-conversions",
+          "title": "Units of Measurement and Conversions",
+          "directory": "10-units-of-measurement-and-conversions",
+          "path": "01-number-and-quantity/10-units-of-measurement-and-conversions",
+          "description": "Solve problems involving U.S. customary and metric units, including conversions.",
+          "learning_objectives": [
+            "Convert within the metric system.",
+            "Convert within the U.S. customary system.",
+            "Use dimensional analysis for unit conversions."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/measure/unit-conversion.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "applying-basic-number-properties",
+          "title": "Applying Basic Number Properties",
+          "directory": "11-applying-basic-number-properties",
+          "path": "01-number-and-quantity/11-applying-basic-number-properties",
+          "description": "Recognize and use commutative, associative, and distributive properties.",
+          "learning_objectives": [
+            "Apply basic number properties to simplify arithmetic operations without necessarily naming the properties.",
+            "Understand how operations are grouped."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "exponents-and-roots-approximations",
+          "title": "Exponents and Roots Approximations",
+          "directory": "12-exponents-and-roots-approximations",
+          "path": "01-number-and-quantity/12-exponents-and-roots-approximations",
+          "description": "Calculate with integer exponents and find approximations for roots like pi or sqrt(2).",
+          "learning_objectives": [
+            "Add, subtract, multiply, and divide numbers with integer exponents.",
+            "Estimate the value of irrational numbers like pi, sqrt(2), and sqrt(5)."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "data-interpretation-statistics-probability",
+      "title": "Data Interpretation and Representation, Statistics, and Probability",
+      "weight": 0.32,
+      "description": "Read and interpret visual displays of data, make inferences, determine measures of central tendency and spread, and assign probabilities.",
+      "directory": "02-data-interpretation-statistics-probability",
+      "topics": [
+        {
+          "order": 1,
+          "id": "reading-and-interpreting-data-tables-and-charts",
+          "title": "Reading and Interpreting Data Tables and Charts",
+          "directory": "01-reading-and-interpreting-data-tables-and-charts",
+          "path": "02-data-interpretation-statistics-probability/01-reading-and-interpreting-data-tables-and-charts",
+          "description": "Extract and interpret information from data tables and frequency charts.",
+          "learning_objectives": [
+            "Read data from tables.",
+            "Use frequency charts to determine totals and relationships."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "reading-and-interpreting-bar-and-line-graphs",
+          "title": "Reading and Interpreting Bar and Line Graphs",
+          "directory": "02-reading-and-interpreting-bar-and-line-graphs",
+          "path": "02-data-interpretation-statistics-probability/02-reading-and-interpreting-bar-and-line-graphs",
+          "description": "Understand visual displays of quantitative data using bar graphs and line graphs.",
+          "learning_objectives": [
+            "Compare quantities using bar graphs.",
+            "Analyze trends over time using line graphs."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/data-graph.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "reading-and-interpreting-circle-graphs",
+          "title": "Reading and Interpreting Circle Graphs",
+          "directory": "03-reading-and-interpreting-circle-graphs",
+          "path": "02-data-interpretation-statistics-probability/03-reading-and-interpreting-circle-graphs",
+          "description": "Interpret circle graphs (pie charts) to understand part-to-whole data relationships.",
+          "learning_objectives": [
+            "Calculate specific category amounts given a total and a circle graph.",
+            "Convert percentages in a circle graph to numerical data."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/pie-charts.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "stem-and-leaf-plots-and-boxplots",
+          "title": "Stem-and-Leaf Plots and Boxplots",
+          "directory": "04-stem-and-leaf-plots-and-boxplots",
+          "path": "02-data-interpretation-statistics-probability/04-stem-and-leaf-plots-and-boxplots",
+          "description": "Analyze data distributions through stem-and-leaf plots and boxplots.",
+          "learning_objectives": [
+            "Read a stem-and-leaf plot to find specific data points.",
+            "Interpret the median and quartiles from a boxplot."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "measures-of-central-tendency-mean-median-mode",
+          "title": "Measures of Central Tendency: Mean, Median, Mode",
+          "directory": "05-measures-of-central-tendency-mean-median-mode",
+          "path": "02-data-interpretation-statistics-probability/05-measures-of-central-tendency-mean-median-mode",
+          "description": "Compute and interpret the mean, median, and mode of a given data set.",
+          "learning_objectives": [
+            "Calculate the arithmetic mean, median, and mode.",
+            "Understand how adding or multiplying constants to data affects these measures."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/central-measures.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "measures-of-spread-range-and-standard-deviation",
+          "title": "Measures of Spread: Range and Standard Deviation",
+          "directory": "06-measures-of-spread-range-and-standard-deviation",
+          "path": "02-data-interpretation-statistics-probability/06-measures-of-spread-range-and-standard-deviation",
+          "description": "Determine the range and understand the standard deviation of data sets.",
+          "learning_objectives": [
+            "Calculate the range of a data set.",
+            "Interpret what a high or low standard deviation means about the spread of data."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/probability/data-distributions-a1"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "random-sampling-and-population-inferences",
+          "title": "Random Sampling and Population Inferences",
+          "directory": "07-random-sampling-and-population-inferences",
+          "path": "02-data-interpretation-statistics-probability/07-random-sampling-and-population-inferences",
+          "description": "Use data from random samples to draw conclusions about entire populations.",
+          "learning_objectives": [
+            "Understand the concept of random sampling.",
+            "Make reasonable inferences and predictions about a population based on sample proportions."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/ap-statistics/gathering-data-ap"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "scatterplots-and-linear-relationships",
+          "title": "Scatterplots and Linear Relationships",
+          "directory": "08-scatterplots-and-linear-relationships",
+          "path": "02-data-interpretation-statistics-probability/08-scatterplots-and-linear-relationships",
+          "description": "Identify and describe positive and negative linear relationships in scatterplots.",
+          "learning_objectives": [
+            "Plot points on a scatterplot.",
+            "Determine the direction (positive, negative, or none) of the relationship between two variables."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/scatter-xy-plots.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "linear-models-and-data-predictions",
+          "title": "Linear Models and Data Predictions",
+          "directory": "09-linear-models-and-data-predictions",
+          "path": "02-data-interpretation-statistics-probability/09-linear-models-and-data-predictions",
+          "description": "Use lines of best fit to make predictions for a given data set.",
+          "learning_objectives": [
+            "Interpret the equation of a line of best fit in context.",
+            "Use a linear model to predict the value of a dependent variable."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "correlation-vs-causation",
+          "title": "Correlation vs. Causation",
+          "directory": "10-correlation-vs-causation",
+          "path": "02-data-interpretation-statistics-probability/10-correlation-vs-causation",
+          "description": "Distinguish between two variables being correlated and one causing the other.",
+          "learning_objectives": [
+            "Explain the difference between correlation and causation.",
+            "Evaluate contextual scenarios to determine if causation can be justified."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots/v/correlation-and-causation"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "outliers-in-data-sets",
+          "title": "Outliers in Data Sets",
+          "directory": "11-outliers-in-data-sets",
+          "path": "02-data-interpretation-statistics-probability/11-outliers-in-data-sets",
+          "description": "Identify outliers and understand their effect on statistical measures.",
+          "learning_objectives": [
+            "Recognize outliers in a data set or visual display.",
+            "Describe how an outlier impacts the mean versus the median."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/outliers.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "basic-concepts-of-probability",
+          "title": "Basic Concepts of Probability",
+          "directory": "12-basic-concepts-of-probability",
+          "path": "02-data-interpretation-statistics-probability/12-basic-concepts-of-probability",
+          "description": "Compute the probability of simple events occurring.",
+          "learning_objectives": [
+            "Define probability as the ratio of favorable outcomes to total possible outcomes.",
+            "Calculate the probability of a simple event (e.g., rolling a die)."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/probability/probability-geometry"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "probability-of-independent-events",
+          "title": "Probability of Independent Events",
+          "directory": "13-probability-of-independent-events",
+          "path": "02-data-interpretation-statistics-probability/13-probability-of-independent-events",
+          "description": "Calculate the probability of two independent events occurring together.",
+          "learning_objectives": [
+            "Understand what makes events independent.",
+            "Multiply the probabilities of individual events to find the joint probability."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/probability-independent-events.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "counting-techniques-and-combinations",
+          "title": "Counting Techniques and Combinations",
+          "directory": "14-counting-techniques-and-combinations",
+          "path": "02-data-interpretation-statistics-probability/14-counting-techniques-and-combinations",
+          "description": "Solve problems using basic counting techniques to determine total possible outcomes.",
+          "learning_objectives": [
+            "Use counting techniques to find total outcomes.",
+            "Evaluate combinations of events, like tossing a pair of number cubes."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/probability/probability-and-combinatorics-a1"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "algebra-and-geometry",
+      "title": "Algebra and Geometry",
+      "weight": 0.32,
+      "description": "Manipulate algebraic expressions, solve word problems and equations, and understand properties of geometric shapes.",
+      "directory": "03-algebra-and-geometry",
+      "topics": [
+        {
+          "order": 1,
+          "id": "properties-of-basic-operations",
+          "title": "Properties of Basic Operations",
+          "directory": "01-properties-of-basic-operations",
+          "path": "03-algebra-and-geometry/01-properties-of-basic-operations",
+          "description": "Understand properties like commutative, associative, and distributive laws without needing to know their names.",
+          "learning_objectives": [
+            "Apply basic operational properties to simplify algebraic expressions.",
+            "Recognize that multiplication is repeated addition."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/associative-commutative-distributive.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "following-arithmetic-and-algebraic-procedures",
+          "title": "Following Arithmetic and Algebraic Procedures",
+          "directory": "02-following-arithmetic-and-algebraic-procedures",
+          "path": "03-algebra-and-geometry/02-following-arithmetic-and-algebraic-procedures",
+          "description": "Follow step-by-step procedures, simple flowcharts, or recurrence sequences.",
+          "learning_objectives": [
+            "Execute an algebraic procedure based on given steps.",
+            "Analyze the outcome of following an algorithmic flowchart."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "equivalent-algebraic-expressions",
+          "title": "Equivalent Algebraic Expressions",
+          "directory": "03-equivalent-algebraic-expressions",
+          "path": "03-algebra-and-geometry/03-equivalent-algebraic-expressions",
+          "description": "Use operations properties to identify or generate equivalent expressions.",
+          "learning_objectives": [
+            "Simplify expressions by combining like terms.",
+            "Expand expressions using the distributive property to find equivalent forms."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:intro-variables/v/equivalent-algebraic-expressions"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "writing-algebraic-equations-and-expressions",
+          "title": "Writing Algebraic Equations and Expressions",
+          "directory": "04-writing-algebraic-equations-and-expressions",
+          "path": "03-algebra-and-geometry/04-writing-algebraic-equations-and-expressions",
+          "description": "Translate verbal descriptions and real-life mathematical problems into algebraic notation.",
+          "learning_objectives": [
+            "Write an algebraic expression from a verbal description.",
+            "Formulate an equation that models a contextualized real-world problem."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/algebra/word-questions.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "solving-linear-equations-in-one-variable",
+          "title": "Solving Linear Equations in One Variable",
+          "directory": "05-solving-linear-equations-in-one-variable",
+          "path": "03-algebra-and-geometry/05-solving-linear-equations-in-one-variable",
+          "description": "Solve linear equations algebraically for a single variable.",
+          "learning_objectives": [
+            "Isolate the variable to solve single-step and multi-step linear equations.",
+            "Check the solution by plugging it back into the equation."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "solving-simple-quadratic-equations",
+          "title": "Solving Simple Quadratic Equations",
+          "directory": "06-solving-simple-quadratic-equations",
+          "path": "03-algebra-and-geometry/06-solving-simple-quadratic-equations",
+          "description": "Solve straightforward quadratic equations algebraically.",
+          "learning_objectives": [
+            "Solve quadratic equations of the form x^2 = c.",
+            "Understand that equations like x^2 = 49 have both positive and negative roots."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "linear-word-problems-and-applications",
+          "title": "Linear Word Problems and Applications",
+          "directory": "07-linear-word-problems-and-applications",
+          "path": "03-algebra-and-geometry/07-linear-word-problems-and-applications",
+          "description": "Solve practical word problems involving linear relationships.",
+          "learning_objectives": [
+            "Identify the unknown variable in a word problem.",
+            "Construct and solve a linear equation based on the constraints of the problem."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities/x2f8bb11595b61c86:linear-equations-word-problems/v/linear-equation-word-problem-example"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "using-venn-diagrams-for-word-problems",
+          "title": "Using Venn Diagrams for Word Problems",
+          "directory": "08-using-venn-diagrams-for-word-problems",
+          "path": "03-algebra-and-geometry/08-using-venn-diagrams-for-word-problems",
+          "description": "Solve word problems using sets and Venn diagrams.",
+          "learning_objectives": [
+            "Organize overlapping information into a Venn diagram.",
+            "Compute the intersection, union, or missing parts of sets based on context."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/sets/venn-diagrams.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "the-coordinate-plane-and-linear-graphs",
+          "title": "The Coordinate Plane and Linear Graphs",
+          "directory": "09-the-coordinate-plane-and-linear-graphs",
+          "path": "03-algebra-and-geometry/09-the-coordinate-plane-and-linear-graphs",
+          "description": "Understand the xy-coordinate plane and plot linear equations.",
+          "learning_objectives": [
+            "Plot points and lines on a Cartesian coordinate system.",
+            "Understand how linear equations represent lines on a graph."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "understanding-slope-and-intercepts",
+          "title": "Understanding Slope and Intercepts",
+          "directory": "10-understanding-slope-and-intercepts",
+          "path": "03-algebra-and-geometry/10-understanding-slope-and-intercepts",
+          "description": "Determine the slope and intercepts of a line from a graph, table, or equation.",
+          "learning_objectives": [
+            "Calculate the slope of a line from two points.",
+            "Identify the x-intercept and y-intercept of a given linear equation."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/geometry/equation-of-line.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "equations-of-lines",
+          "title": "Equations of Lines",
+          "directory": "11-equations-of-lines",
+          "path": "03-algebra-and-geometry/11-equations-of-lines",
+          "description": "Write equations of lines in point-slope and slope-intercept form.",
+          "learning_objectives": [
+            "Convert between point-slope and slope-intercept forms of a line.",
+            "Write the equation of a line given its slope and a point on it."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "properties-of-angles-and-intersecting-lines",
+          "title": "Properties of Angles and Intersecting Lines",
+          "directory": "12-properties-of-angles-and-intersecting-lines",
+          "path": "03-algebra-and-geometry/12-properties-of-angles-and-intersecting-lines",
+          "description": "Utilize facts about angles formed by intersecting and parallel lines.",
+          "learning_objectives": [
+            "Determine measures of vertical, complementary, and supplementary angles.",
+            "Find congruent angles when parallel lines are cut by a transversal."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/geometry/parallel-lines.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "triangles-types-angles-and-inequality-property",
+          "title": "Triangles: Types, Angles, and Inequality Property",
+          "directory": "13-triangles-types-angles-and-inequality-property",
+          "path": "03-algebra-and-geometry/13-triangles-types-angles-and-inequality-property",
+          "description": "Classify triangles and use triangle properties to solve problems.",
+          "learning_objectives": [
+            "Classify triangles by sides (scalene, isosceles, equilateral) and angles (acute, right, obtuse).",
+            "Apply the triangle inequality theorem to determine valid side lengths."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/geometry/hs-geo-foundations"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "congruence-and-similarity-of-geometric-figures",
+          "title": "Congruence and Similarity of Geometric Figures",
+          "directory": "14-congruence-and-similarity-of-geometric-figures",
+          "path": "03-algebra-and-geometry/14-congruence-and-similarity-of-geometric-figures",
+          "description": "Utilize facts about congruent and similar shapes.",
+          "learning_objectives": [
+            "Identify congruent triangles to find missing side lengths or angles.",
+            "Use scale factors and proportional reasoning to solve problems with similar figures."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/geometry/similar.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "properties-of-quadrilaterals",
+          "title": "Properties of Quadrilaterals",
+          "directory": "15-properties-of-quadrilaterals",
+          "path": "03-algebra-and-geometry/15-properties-of-quadrilaterals",
+          "description": "Identify and classify different types of quadrilaterals based on their features.",
+          "learning_objectives": [
+            "Distinguish between parallelograms, rectangles, squares, rhombuses, and trapezoids.",
+            "Use properties of quadrilaterals to find missing measurements."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-quadrilaterals/v/quadrilateral-properties"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 16,
+          "id": "perimeter-and-area-of-triangles-and-rectangles",
+          "title": "Perimeter and Area of Triangles and Rectangles",
+          "directory": "16-perimeter-and-area-of-triangles-and-rectangles",
+          "path": "03-algebra-and-geometry/16-perimeter-and-area-of-triangles-and-rectangles",
+          "description": "Use formulas for perimeter and area of basic polygons.",
+          "learning_objectives": [
+            "Calculate the perimeter and area of a rectangle or square.",
+            "Apply the formula (1/2)*base*height to find the area of a triangle."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/geometry/area.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 17,
+          "id": "circles-circumference-area-and-angles",
+          "title": "Circles: Circumference, Area, and Angles",
+          "directory": "17-circles-circumference-area-and-angles",
+          "path": "03-algebra-and-geometry/17-circles-circumference-area-and-angles",
+          "description": "Solve problems involving properties of circles.",
+          "learning_objectives": [
+            "Use formulas to calculate the circumference and area of a circle.",
+            "Differentiate between radius and diameter, and understand central vs. inscribed angles."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/geometry/hs-geo-circles"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 18,
+          "id": "volume-of-rectangular-prisms",
+          "title": "Volume of Rectangular Prisms",
+          "directory": "18-volume-of-rectangular-prisms",
+          "path": "03-algebra-and-geometry/18-volume-of-rectangular-prisms",
+          "description": "Compute the volume of three-dimensional rectangular solids.",
+          "learning_objectives": [
+            "Apply the volume formula (length × width × height) for a rectangular box.",
+            "Solve word problems involving the volume of rectangular prisms."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/geometry/cuboids-rectangular-prisms.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

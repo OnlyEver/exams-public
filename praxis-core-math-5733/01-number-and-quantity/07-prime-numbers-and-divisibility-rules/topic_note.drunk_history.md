@@ -1,0 +1,41 @@
+Listen to me, leave the peanuts alone and look at this wet cocktail napkin. You think numbers are just dry, boring scribbles the universe uses to balance its checkbook? No! They are reality TV casts. They are messy, they form cliques, they get into vicious divorces, and they are entirely predictable if you know the drama happening behind the scenes. 
+
+If you want to survive the Praxis math exam, you have to understand the social hierarchy of the number line. At the very top, you have the untouchable divas. A prime number is a whole number strictly greater than 1 that has exactly two distinct positive divisors: 1 and the number itself. That’s it! The VIP room is closed. Nobody else gets to sit at their table. They are mathematically fiercely independent. 
+
+But then, you have the codependent reality TV casts. A composite number is a positive integer that has at least one positive divisor other than 1 and the number itself. They are desperate for company! They can be broken up, split apart, and divided by other numbers. They are just a bunch of smaller numbers wearing a trench coat.
+
+Now, you’re probably looking at your drink wondering, "What about 0 and 1?" Forget them! They are banned from the studio lot. The number 1 is a delusional wannabe hermit; it only has one divisor—itself—so it doesn't meet the strict "exactly two" rule for the prime lounge, nor the "more than two" rule for the composite house. Therefore, the number 1 is neither prime nor composite. And 0? The number 0 is a literal black hole where drama goes to die. You can’t divide by zero, and every integer divides into it to yield zero. Because of this bizarre behavior, the number 0 is neither prime nor composite. They are mathematically dead to us. 
+
+Then there’s the guy who infiltrated the mob. The oddball. Picture a ruggedly handsome guy in a tuxedo crashing a hipster lumberjack convention. The number 2 is the only even prime number. Think about it: every other even number in the universe is a composite sellout because 2 divides into them. But 2? He’s the original! You need to memorize the founding members of this prime mafia. The first ten prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29. Burn their faces into your brain. They run the whole underground.
+
+Why do they run it? Because of the absolute, irrefutable law of the math mafia: The Fundamental Theorem of Arithmetic. This states that every integer strictly greater than 1 is either a prime number itself or can be uniquely represented as a product of prime numbers. It means every single composite number is just a specific recipe of prime numbers multiplying together behind closed doors! 
+
+How do we expose them? We use a mathematical interrogation process called prime factorization. This is the process of determining which prime numbers multiply together to yield a specific original number. But you don’t just sit there guessing blindly in the dark! You build a conspiracy board. A factor tree! A factor tree is a visual diagrammatic tool used to systematically break down a number into the prime factors of that number. You start with the big composite number at the top and draw branches downward, splitting it into smaller and smaller factors until—bam!—every branch ends in a prime number. You’ve found the roots! 
+
+And when you lay out all those primes, you don’t just write "2 times 2 times 2 times 3" like a chump. You pack them into a clown car! The prime factorization of a number can be written using exponents to compactly group identical prime factors. So those three 2s just become 2 to the third power. It’s elegant. It’s ruthless.
+
+But to rip these composite numbers apart on your factor tree, you need x-ray vision. You need to be a bouncer at the club, checking IDs without breaking a sweat. We call these the divisibility rules, and they are your absolute lifelines. 
+
+The bouncer for the number 2 just looks at the shoes: A number is divisible by 2 if the final digit of the number is 0, 2, 4, 6, or 8. The bouncer for 5 is even lazier: A number is divisible by 5 if the final digit of the number is exactly 0 or 5. And the bouncer for 10 is basically asleep: A number is divisible by 10 if the final digit of the number is exactly 0. 
+
+But what about the bouncer for 4? He doesn't look at the whole line of people; he only cares about the last couple. A number is divisible by 4 if the number formed by the last two digits is divisible by 4. If the back of the line is cool, the whole number gets in!
+
+Then we have the psycho interrogators: 3 and 9. They don't just look at you; they melt you down to your core. A number is divisible by 3 if the sum of all the individual digits in the number is divisible by 3. And it's the exact same crazy interrogation for 9! A number is divisible by 9 if the sum of all the individual digits in the number is divisible by 9. You literally smash the digits together and interrogate the puddle! 
+
+And finally, the VIP room for 6. To get in here, you have to survive two bouncers. A number is divisible by 6 if the number passes the divisibility rules for both 2 and 3. You gotta have the even-number shoes *and* survive the puddle interrogation!
+
+Okay, stay with me, because this is where the drama peaks. What happens when two numbers get into a messy divorce? They have to split the assets! They are fighting over the Greatest Common Divisor, which is the absolute largest positive integer that divides each of the integers without leaving a remainder. And don't let the lawyers confuse you: the term Greatest Common Divisor is mathematically synonymous with the term Greatest Common Factor. It’s the exact same thing! It’s the biggest piece of furniture they can both claim!
+
+How do the lawyers calculate this Greatest Common Divisor? They look at the prime factorizations of both numbers and calculate it by multiplying all the common prime factors shared by both numbers at their lowest exponent levels. They only get to keep the shared baggage, and only at the most pathetic, lowest level they both brought to the relationship!
+
+But what if they have absolutely NOTHING in common? What if one is built of 2s and the other is built of 5s? Then their Greatest Common Divisor is exactly 1. When this tragic mathematical event happens, the two numbers are considered relatively prime. They are total strangers! They share nothing but the number 1!
+
+Now, wipe your eyes, because we have to look to the future. A multiple of a given number is the product of that given number and any integer. It’s the number taking steps into tomorrow—4, 8, 12, 16! These two exes are walking different paths now, but this is a small town, and we want to know when they are going to accidentally bump into each other at the grocery store. 
+
+That collision is the Least Common Multiple! The Least Common Multiple of two or more integers is the smallest positive integer that is divisible by each of the original integers. It’s the exact geographical coordinate where their future footsteps perfectly align. 
+
+How does the universe plot this dramatic reunion? The Least Common Multiple of two numbers is calculated by multiplying the highest power of each distinct prime factor present in the prime factorizations of those two numbers. The universe takes *every single unique piece of baggage* from both of them, turns the drama up to the *highest exponent* they’ve ever exhibited, and mashes them together to create their inevitable future collision!
+
+And here is the reality TV finale, the grand symmetrical equation that holds the very cosmos together. If you take those two original, messed-up positive integers and multiply them together, you witness a miracle. The product of two positive integers is equal to the product of the Greatest Common Divisor and the Least Common Multiple of those same two integers! The past they shared, multiplied by the future where they collide, perfectly balances out to exactly who they were together. 
+
+It’s poetry! It’s karma! It’s the Praxis core math exam! Now finish your drink, we’re doing fractions next.
