@@ -1,10 +1,10 @@
 # The Anatomy of Numbers: Place Value, Naming, and the Grand Number Line
 
-Welcome! If you are preparing to teach mathematics—and preparing to absolutely crush the Praxis Core Academic Skills for Educators exam—you need to do more than just memorize rules. You need to feel the machinery of numbers in your bones. 
+Welcome! If you are preparing to teach [mathematics](https://en.wikipedia.org/wiki/Mathematics)—and preparing to absolutely crush the [Praxis Core Academic Skills for Educators](https://en.wikipedia.org/wiki/Praxis_test) exam—you need to do more than just memorize rules. You need to feel the machinery of numbers in your bones. 
 
-Think for a moment about trying to write the number "one million, four hundred" in Roman numerals. You'd be etching M's and C's into the chalkboard until your hand cramped. It’s a beautifully historic system, but a mathematically clunky one. 
+Think for a moment about trying to write the number "[one million](https://en.wikipedia.org/wiki/1%2C000%2C000), four hundred" in [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals). You'd be etching M's and C's into the chalkboard until your hand cramped. It’s a beautifully historic system, but a mathematically clunky one. 
 
-The genius of our modern mathematical language isn’t the symbols themselves; it’s the profound idea of *position*. Today, we are going to tear apart the engine of our number system, figure out how to name the parts, map them out on a physical landscape, and learn how to sort the chaos of fractions and decimals into perfect, harmonious order.
+The genius of our modern mathematical language isn’t the symbols themselves; it’s the profound idea of *position*. Today, we are going to tear apart the engine of our [number system](https://en.wikipedia.org/wiki/Numeral_system), figure out how to name the parts, map them out on a physical landscape, and learn how to sort the chaos of [fractions](https://en.wikipedia.org/wiki/Fraction) and [decimals](https://en.wikipedia.org/wiki/Decimal) into perfect, harmonious order.
 
 Let’s dive in.
 
@@ -12,34 +12,34 @@ Let’s dive in.
 
 ## 1. The Magic of the Base-10 Number System
 
-Our numbering system is an elegant piece of technology known as the base-10 system. Why ten? Probably because humans have ten fingers. But the true power of this system is that the exact same symbol—say, a "7"—can represent seven apples, seventy apples, or seven-thousandths of an apple, depending entirely on where you park it.
+Our numbering system is an elegant piece of technology known as the [base-10 system](https://en.wikipedia.org/wiki/Decimal). Why ten? Probably because humans have ten fingers. But the true power of this system is that the exact same symbol—say, a "7"—can represent seven apples, seventy apples, or seven-thousandths of an apple, depending entirely on where you park it.
 
 ### The Whole Number Hierarchy
-Let’s start with solid, whole integers. 
+Let’s start with solid, whole [integers](https://en.wikipedia.org/wiki/Integer). 
 
-> **Core Principle:** **In an integer, the rightmost digit occupies the ones place.**
+> **Core Principle:** **In an integer, the rightmost digit occupies the [ones place](https://en.wikipedia.org/wiki/Positional_notation).**
 
 This is your anchor. If you have the integer $4,532$, that $2$ at the extreme right is in the ones place. From here, we walk to the left. 
 
-As you step to the left, the magnitude inflates rapidly. **Moving to the left from the ones place, the sequence of place values is tens, hundreds, thousands, ten-thousands, and hundred-thousands.** 
+As you step to the left, the magnitude inflates rapidly. **Moving to the left from the ones place, the sequence of [place values](https://en.wikipedia.org/wiki/Positional_notation) is tens, hundreds, thousands, ten-thousands, and hundred-thousands.** 
 
 But *why* does it inflate? Because of a strict, governing law of our mathematical universe: 
 
 > **The base-10 number system dictates that each place value is ten times the value of the place immediately to the right.**
 
-Every step left is a multiplication by ten. A $1$ in the tens place is worth ten times more than a $1$ in the ones place. 
+Every step left is a [multiplication](https://en.wikipedia.org/wiki/Multiplication) by ten. A $1$ in the tens place is worth ten times more than a $1$ in the ones place. 
 
 ### The Missing Hero: Zero
 Imagine I want to write the number "five hundred and two." I put a $5$ in the hundreds place, and a $2$ in the ones place. But if I just push them together, I get $52$. The $5$ has lost its power; it slipped into the tens place!
 
-This is where the greatest invention in mathematical history enters the stage: Zero. **Zero functions as a placeholder in the place value system to maintain the correct mathematical position of other non-zero digits.** By writing $502$, zero bravely stands in the tens place, holding the physical space so that the $5$ remains securely parked in the hundreds place. It represents "nothing" in value, but "everything" in structure.
+This is where the greatest invention in mathematical history enters the stage: [Zero](https://en.wikipedia.org/wiki/0). **Zero functions as a [placeholder](https://en.wikipedia.org/wiki/Positional_notation) in the place value system to maintain the correct mathematical position of other non-zero digits.** By writing $502$, zero bravely stands in the tens place, holding the physical space so that the $5$ remains securely parked in the hundreds place. It represents "nothing" in value, but "everything" in structure.
 
 ### Calculating True Value
 How do we know what a number is actually worth when we look at it? It’s a simple translation. 
 
 **A specific digit's total mathematical value is determined by multiplying the digit by the specific place value the digit occupies.** 
 
-If you see an $8$ in the ten-thousands place, you don't just have eight items. You do the mental math: $8 \times 10,000 = 80,000$. The digit tells you *how many*; the position tells you *of what*.
+If you see an $8$ in the ten-thousands place, you don't just have eight items. You do the [mental math](https://en.wikipedia.org/wiki/Mental_calculation): $8 \times 10,000 = 80,000$. The digit tells you *how many*; the position tells you *of what*.
 
 ### Crossing the Mirror: Decimals
 What happens if we reverse our journey? If every step left multiplies by ten, then every step right must divide by ten. 
@@ -48,12 +48,12 @@ What happens if we reverse our journey? If every step left multiplies by ten, th
 
 You are in the thousands... step right to the hundreds... step right to the tens... step right to the ones. You have reached the edge of the integers. But what if we step right *again*? 
 
-We hit a boundary wall: the decimal point. 
+We hit a boundary wall: the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator). 
 
-**The decimal point is a mathematical symbol that separates the whole number portion of a value from the fractional portion.** 
+**The decimal point is a mathematical symbol that separates the whole number portion of a value from the [fractional portion](https://en.wikipedia.org/wiki/Fraction).** 
 
 When you cross to the right of the decimal point, you enter the microscopic world of fractions. 
-* **The place value immediately to the right of the decimal point is the tenths place.** Exactly as it sounds, **the tenths place represents fractions with a denominator of ten** ($1/10$).
+* **The place value immediately to the right of the decimal point is the tenths place.** Exactly as it sounds, **the tenths place represents fractions with a [denominator](https://en.wikipedia.org/wiki/Fraction) of ten** ($1/10$).
 * Keep walking into the microscopic. **Moving to the right from the tenths place, the sequence of decimal place values is hundredths, thousandths, and ten-thousandths.** 
 
 | Base-10 Direction | Place Value Name | Mathematical Value |
@@ -98,19 +98,19 @@ Let's put it all together with the number **$42.017$**:
 
 ## 3. The Grand Landscape: The Number Line
 
-Now that we have our parts built and named, we need a map to see where they live. In mathematics, our map is the number line. 
+Now that we have our parts built and named, we need a map to see where they live. In mathematics, our map is the [number line](https://en.wikipedia.org/wiki/Number_line). 
 
 **A horizontal number line is a visual representation where numerical values strictly increase from left to right.** 
-Imagine this as a timeline of human history, or a thermometer laid flat. If you walk to the right, values grow larger, warmer, wealthier. Conversely, **numerical values strictly decrease from right to left on a horizontal number line.**
+Imagine this as a [timeline](https://en.wikipedia.org/wiki/Timeline) of human history, or a [thermometer](https://en.wikipedia.org/wiki/Thermometer) laid flat. If you walk to the right, values grow larger, warmer, wealthier. Conversely, **numerical values strictly decrease from right to left on a horizontal number line.**
 
 ### The Origin: Zero
 Sitting in the exact dead-center of this infinite highway is our old friend, Zero. It acts as the ultimate border crossing. 
 **The number zero is classified as neither positive nor negative.** It is perfectly neutral—the complete absence of value.
 
 ### The Hemispheres: Positive and Negative
-To the right of zero lies the territory of assets and growth. **Positive numbers are always located to the right of zero on a horizontal number line.** 
+To the right of zero lies the territory of assets and growth. **[Positive numbers](https://en.wikipedia.org/wiki/Positive_real_numbers) are always located to the right of zero on a horizontal number line.** 
 
-To the left of zero lies the mirror universe of deficits, debts, and freezing temperatures. **Negative numbers are always located to the left of zero on a horizontal number line.**
+To the left of zero lies the mirror universe of deficits, debts, and freezing temperatures. **[Negative numbers](https://en.wikipedia.org/wiki/Negative_number) are always located to the left of zero on a horizontal number line.**
 
 Because of the supreme law of the number line (values *must* increase left to right), we arrive at an inescapable truth:
 > **Any positive number is strictly greater than any negative number.**
@@ -130,8 +130,8 @@ How do we tame this chaos? We use the great equalizer.
 
 It is incredibly difficult to compare $3/8$ to $0.41$ just by looking at them. It’s like comparing English to French. You need them speaking the same language. Usually, converting everything into decimals is the most foolproof method.
 
-How do we force a fraction to become a decimal? Remember that a fraction bar is simply a division symbol in disguise. 
-**A fraction can be mathematically converted into a decimal by dividing the fraction's numerator by the fraction's denominator.** 
+How do we force a fraction to become a decimal? Remember that a fraction bar is simply a [division symbol](https://en.wikipedia.org/wiki/Division_%28mathematics%29) in disguise. 
+**A fraction can be mathematically converted into a decimal by dividing the fraction's [numerator](https://en.wikipedia.org/wiki/Fraction) by the fraction's denominator.** 
 To convert $3/8$, you set up the division: $3 \div 8 = 0.375$. Now it's a decimal, ready to be compared!
 
 ### Strategy 2: Lining up Decimals
@@ -154,7 +154,7 @@ Writing $0.41$ as $0.410$ changes absolutely nothing about its mathematical weig
 ### Strategy 3: Comparing Fractions Directly
 Sometimes, you might not *want* to divide. If the test gives you $5/12$ and $7/12$, you don't need decimals. 
 
-**To compare fractions without converting the fractions into decimals, rewrite the fractions so all the fractions share a common denominator.** 
+**To compare fractions without converting the fractions into decimals, rewrite the fractions so all the fractions share a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator).** 
 
 When the denominators are identical, the "slices of the pie" are the exact same size. The game simply becomes: who has more slices? 
 **When comparing positive fractions that share a common positive denominator, the fraction containing the larger numerator possesses the greater overall value.** 
@@ -163,7 +163,7 @@ Clearly, $7$ slices out of $12$ ($7/12$) is greater than $5$ slices out of $12$ 
 ### Strategy 4: Surviving the Upside-Down (Negative Numbers)
 This is where intelligent students make their most common mistakes. The negative side of the number line plays tricks on the human brain. 
 
-To understand negatives, we have to talk about **absolute value**. Absolute value is simply a number's physical distance from zero, stripping away the negative sign. The absolute value of $-99$ is $99$. 
+To understand negatives, we have to talk about **[absolute value](https://en.wikipedia.org/wiki/Absolute_value)**. Absolute value is simply a number's physical distance from zero, stripping away the negative sign. The absolute value of $-99$ is $99$. 
 
 If someone says you have a "larger absolute value" in the negative realm, it means you have a *larger debt*. Is having a larger debt a good thing? No! It makes you poorer. 
 
@@ -203,7 +203,7 @@ $-0.6, \quad 0.625, \quad -0.75, \quad 0.65$
 **Step 3: Order the Negatives (The "Upside-Down" Rules)**
 We have $-0.6$ and $-0.75$. Let's append trailing zeros to make them the same length: 
 $-0.60$ and $-0.75$. 
-Which has the *larger absolute value*? $0.75$ is a larger magnitude than $0.60$. Because they are negative, the larger absolute value is the *smaller overall mathematical value* (it sits further left on the number line). 
+Which has the *larger absolute value*? $0.75$ is a larger [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) than $0.60$. Because they are negative, the larger absolute value is the *smaller overall mathematical value* (it sits further left on the number line). 
 So, **$-0.75$ is less than $-0.60$**. 
 
 **Step 4: Order the Positives (The Vertical Alignment)**

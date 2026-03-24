@@ -1,8 +1,8 @@
 # The Architecture of Numbers: Factors, Multiples, and the Rules of the Game
 
-Welcome! I want you to look at whole numbers differently today. Most people treat numbers like dead symbols on a page—marks you memorize and push around to pass a test. But that’s totally missing the magic. 
+Welcome! I want you to look at [whole numbers](https://en.wikipedia.org/wiki/Integer) differently today. Most people treat numbers like dead symbols on a page—marks you memorize and push around to pass a test. But that’s totally missing the magic. 
 
-Numbers are more like biological cells or chemical elements. They have structure! They have moving parts, hidden ingredients, and predictable personalities. If you want to conquer the Praxis Core Mathematics exam, we can’t just memorize arbitrary rules. We need to look *under the hood* of our number system to understand why numbers behave the way they do. Once you see the machinery, you’ll never have to rely on blind memorization again. 
+Numbers are more like [biological cells](https://en.wikipedia.org/wiki/Cell_%28biology%29) or [chemical elements](https://en.wikipedia.org/wiki/Chemical_element). They have structure! They have moving parts, hidden ingredients, and predictable personalities. If you want to conquer the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), we can’t just memorize arbitrary rules. We need to look *under the hood* of our [number system](https://en.wikipedia.org/wiki/Numeral_system) to understand why numbers behave the way they do. Once you see the machinery, you’ll never have to rely on blind [memorization](https://en.wikipedia.org/wiki/Memorization) again. 
 
 Let’s roll up our sleeves and tear some numbers apart.
 
@@ -10,13 +10,13 @@ Let’s roll up our sleeves and tear some numbers apart.
 
 ## Part 1: Anatomy of a Number: Factors and Multiples
 
-Imagine you’re playing with building blocks. You have a big block, say, a $12$. How did you build it? You could snap together two $6$s, or three $4$s, or four $3$s. The blocks you use to build a number are its factors. The giant towers you can build *using* that number are its multiples.
+Imagine you’re playing with building blocks. You have a big block, say, a $12$. How did you build it? You could snap together two $6$s, or three $4$s, or four $3$s. The blocks you use to build a number are its [factors](https://en.wikipedia.org/wiki/Divisor). The giant towers you can build *using* that number are its [multiples](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29).
 
 ### The Factors (The Ingredients)
 
-> **A factor of a whole number is an integer that divides the whole number without leaving a remainder.**
+> **A [factor](https://en.wikipedia.org/wiki/Divisor) of a whole number is an [integer](https://en.wikipedia.org/wiki/Integer) that [divides](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the whole number without leaving a [remainder](https://en.wikipedia.org/wiki/Remainder).**
 
-Think of factors as the exact ingredients that "fit" perfectly inside a number. When you divide $12$ by $3$, you get exactly $4$. No messy decimals, no leftovers. That means $3$ and $4$ are factors of $12$.
+Think of factors as the exact ingredients that "fit" perfectly inside a number. When you divide $12$ by $3$, you get exactly $4$. No messy [decimals](https://en.wikipedia.org/wiki/Decimal), no leftovers. That means $3$ and $4$ are factors of $12$.
 
 Now, let's establish a couple of universal truths—the "freebies" of the math world:
 * **The number 1 is a factor of every whole number.** You can always divide any number by $1$ and get a whole number. 
@@ -26,35 +26,35 @@ Now, let's establish a couple of universal truths—the "freebies" of the math w
 
 If factors are the ingredients, multiples are what you *bake* with them. 
 
-> **A multiple of a whole number is the product of that whole number and any integer.**
+> **A multiple of a whole number is the [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of that whole number and any integer.**
 
-If our number is $5$, its multiples are what we get when we stretch it out: $5 \times 1 = 5$, $5 \times 2 = 10$, $5 \times 3 = 15$, and so on. Notice the very first one there? $5 \times 1 = 5$. This shows us a beautiful mirror image to our factor rule: **Every whole number is a multiple of itself.** 
+If our number is $5$, its multiples are what we get when we stretch it out: $5 \times 1 = 5$, $5 \times 2 = 10$, $5 \times 3 = 15$, and so on. Notice the very first one there? $5 \times 1 = 5$. This shows us a beautiful [mirror image](https://en.wikipedia.org/wiki/Mirror_image) to our factor rule: **Every whole number is a multiple of itself.** 
 
 ### Primes and Composites: Atoms vs. Molecules
 
-When we start x-raying numbers to look at their factors, we quickly realize they fall into two distinct camps: the prime "atoms" and the composite "molecules."
+When we start [x-raying](https://en.wikipedia.org/wiki/X-ray) numbers to look at their factors, we quickly realize they fall into two distinct camps: the prime "[atoms](https://en.wikipedia.org/wiki/Atom)" and the composite "[molecules](https://en.wikipedia.org/wiki/Molecule)."
 
-> **A prime number is a whole number greater than 1 that has exactly two distinct positive factors.**
+> **A [prime number](https://en.wikipedia.org/wiki/Prime_number) is a whole number greater than 1 that has exactly two distinct positive factors.**
 
 What are those two factors? Let’s look at $7$. What integers can divide $7$ cleanly? Just $1$ and $7$. **The only two distinct positive factors of a prime number are 1 and the prime number itself.** They are the raw, uncut elements of the math universe; you can't break them down any further.
 
-> **A composite number is a whole number greater than 1 that has more than two distinct positive factors.**
+> **A [composite number](https://en.wikipedia.org/wiki/Composite_number) is a whole number greater than 1 that has more than two distinct positive factors.**
 
 Take $8$. Its factors are $1, 2, 4,$ and $8$. Because it has more than just two factors, it's composite. It’s an assemblage of smaller prime parts ($2 \times 2 \times 2$).
 
 *Wait a minute,* you might ask, *what about the number 1?* 
 
-This is one of the most famous quirks in mathematics. **The number 1 is neither a prime number nor a composite number.** Why? Because the definition of a prime requires *exactly two distinct* positive factors. The number $1$ only has *one* positive factor: itself! It simply doesn't have the plumbing required to be prime or composite. It stands entirely alone.
+This is one of the most famous quirks in [mathematics](https://en.wikipedia.org/wiki/Mathematics). **The number 1 is neither a prime number nor a composite number.** Why? Because the definition of a prime requires *exactly two distinct* positive factors. The number $1$ only has *one* positive factor: itself! It simply doesn't have the plumbing required to be prime or composite. It stands entirely alone.
 
 ---
 
 ## Part 2: X-Ray Vision: The Divisibility Rules
 
-On the Praxis exam, you will frequently need to know if one big number is a factor of another. You do *not* have the time to sit there doing long division for every option. Mathematicians are notoriously lazy—we love shortcuts. Over the centuries, we’ve found clever tricks to test divisibility just by glancing at the digits. 
+On the Praxis exam, you will frequently need to know if one big number is a factor of another. You do *not* have the time to sit there doing [long division](https://en.wikipedia.org/wiki/Long_division) for every option. [Mathematicians](https://en.wikipedia.org/wiki/Mathematician) are notoriously lazy—we love shortcuts. Over the centuries, we’ve found clever tricks to test divisibility just by glancing at the [digits](https://en.wikipedia.org/wiki/Numerical_digit). 
 
 ### Rule 1: Judging a Number by Its Tail
 
-Our number system is Base-10. Because $10$ is built from $2 \times 5$, any multiple of $10$ handles $2$s, $5$s, and $10$s perfectly. Therefore, for these numbers, we completely ignore the bulk of the number and *only* look at the final digit.
+Our number system is [Base-10](https://en.wikipedia.org/wiki/Decimal). Because $10$ is built from $2 \times 5$, any multiple of $10$ handles $2$s, $5$s, and $10$s perfectly. Therefore, for these numbers, we completely ignore the bulk of the number and *only* look at the final digit.
 
 *   **Divisible by 2:** A whole number is divisible by $2$ if the final digit of the whole number is $0, 2, 4, 6,$ or $8$.
 *   **Divisible by 5:** A whole number is divisible by $5$ if the final digit of the whole number is exactly $0$ or $5$.
@@ -74,24 +74,24 @@ What if we want to test for $3$ or $9$? Looking at the last digit won't help us 
 ### Rule 3: The Combination Lock
 
 *   **Divisible by 6:** A whole number is divisible by $6$ if the whole number is divisible by both $2$ and $3$. 
-Since $6$ is just $2 \times 3$, any number that passes *both* the rule for $2$ (ends in an even number) and the rule for $3$ (digits sum to a multiple of $3$) is mathematically guaranteed to be a multiple of $6$.
+Since $6$ is just $2 \times 3$, any number that passes *both* the rule for $2$ (ends in an [even number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29)) and the rule for $3$ (digits sum to a multiple of $3$) is mathematically guaranteed to be a multiple of $6$.
 
 ---
 
 ## Part 3: The Oddities of Evens and Odds
 
-Let's talk about parity—the state of being even or odd. People overcomplicate this. At its core, parity is just about whether things can be paired up with a buddy.
+Let's talk about [parity](https://en.wikipedia.org/wiki/Parity_%28mathematics%29)—the state of being even or odd. People overcomplicate this. At its core, parity is just about whether things can be paired up with a buddy.
 
-> **An even number is any integer that is evenly divisible by 2.**
+> **An [even number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29) is any integer that is evenly divisible by 2.**
 
 If you have an even number of marbles, every marble has a partner. Nobody is left alone. 
 
-> **An odd number is any integer that leaves a remainder of 1 when divided by 2.**
+> **An [odd number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29) is any integer that leaves a remainder of 1 when divided by 2.**
 
 If you have an odd number of marbles, you pair them all up until, tragically, one marble is left totally alone. That lone leftover "remainder of 1" is the defining feature of an odd number.
 
 Now, a question that stops many students in their tracks: *Is zero even or odd?* 
-Let’s use our definition. Can you divide $0$ by $2$? Yes! $0 \div 2 = 0$, with no remainder. There are no leftover marbles. Therefore, mathematically, **the number 0 is an even number.**
+Let’s use our definition. Can you divide $0$ by $2$? Yes! $0 \div 2 = 0$, with no remainder. There are no leftover marbles. Therefore, mathematically, **[the number 0 is an even number](https://en.wikipedia.org/wiki/Parity_of_zero).**
 
 ### Parity Arithmetic: Don't Memorize, Visualize!
 
@@ -99,9 +99,9 @@ The Praxis exam will test your understanding of what happens when you add, subtr
 
 #### Addition and Subtraction
 
-When adding or subtracting, parity acts identically. Just picture whether or not a lone marble is left over.
+When [adding](https://en.wikipedia.org/wiki/Addition) or [subtracting](https://en.wikipedia.org/wiki/Subtraction), parity acts identically. Just picture whether or not a lone marble is left over.
 
-*   **The sum (or difference) of two even numbers is always an even number.** 
+*   **The [sum](https://en.wikipedia.org/wiki/Addition) (or [difference](https://en.wikipedia.org/wiki/Subtraction)) of two even numbers is always an even number.** 
     *(Everything had a partner before, so if you push them together or take some pairs away, everything still has a partner.)*
 *   **The sum (or difference) of two odd numbers is always an even number.** 
     *(Think! Both odd groups had one lonely, leftover marble. When you add them together, those two leftovers finally find each other and form a pair! No more leftovers. It becomes even.)*
@@ -119,7 +119,7 @@ Let's put that in a clean visual table. Notice how adding and subtracting "like"
 
 #### Multiplication: The "Even" Infection
 
-Multiplication behaves entirely differently than addition. Think of an even number as a carrier of a genetic trait: the number $2$. Because an even number is just a multiple of $2$, there is a "$2$" hiding inside of it. 
+[Multiplication](https://en.wikipedia.org/wiki/Multiplication) behaves entirely differently than addition. Think of an even number as a carrier of a [genetic trait](https://en.wikipedia.org/wiki/Phenotypic_trait): the number $2$. Because an even number is just a multiple of $2$, there is a "$2$" hiding inside of it. 
 
 When you multiply numbers together, all their ingredients (factors) get dumped into the same pot. If even *one* of those numbers is even, it drops a "$2$" into the pot, infecting the whole batch and guaranteeing the final product is evenly divisible by $2$. 
 
@@ -131,7 +131,7 @@ When you multiply numbers together, all their ingredients (factors) get dumped i
 
 ## Part 4: Finding Common Ground: GCF and LCM
 
-When we have two different numbers, it's often incredibly useful to compare their anatomy. What parts do they share? Where do their paths cross? This brings us to the Great Divide: the Greatest Common Factor (GCF) and the Least Common Multiple (LCM).
+When we have two different numbers, it's often incredibly useful to compare their anatomy. What parts do they share? Where do their paths cross? This brings us to the Great Divide: the [Greatest Common Factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) (GCF) and the [Least Common Multiple](https://en.wikipedia.org/wiki/Least_common_multiple) (LCM).
 
 ### Greatest Common Factor (GCF)
 
@@ -163,8 +163,8 @@ They will both hit the $12$-minute mark at the exact same time. They also hit th
 
 ## The Bottom Line
 
-Mathematics is deeply logical. When you step back and look at the properties of whole numbers, you aren't looking at a random list of test-prep trivia. You are looking at the natural physics of quantities. 
+Mathematics is deeply [logical](https://en.wikipedia.org/wiki/Logic). When you step back and look at the properties of whole numbers, you aren't looking at a random list of test-prep trivia. You are looking at the natural [physics](https://en.wikipedia.org/wiki/Physics) of quantities. 
 
-Factors divide inward; multiples project outward. Primes are the uncut gems; composites are the jewelry. The divisibility rules give you x-ray vision. Evens and odds are just a question of whether anyone is left without a dance partner. 
+Factors divide inward; multiples project outward. Primes are the uncut gems; composites are the jewelry. The [divisibility rules](https://en.wikipedia.org/wiki/Divisibility_rule) give you x-ray vision. Evens and odds are just a question of whether anyone is left without a dance partner. 
 
 Keep these principles in your head, visualize the mechanisms, and you won't just pass the Praxis Core Math exam—you'll dominate it. Happy studying!

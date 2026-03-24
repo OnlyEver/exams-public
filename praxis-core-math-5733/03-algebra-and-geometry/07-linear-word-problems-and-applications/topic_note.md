@@ -1,19 +1,19 @@
-Welcome! Pull up a chair. You are preparing to be an educator, which means you are preparing to do one of the most important jobs in the world: teaching others how to think. Today, we are going to look at one of the most beautiful, practical, and wildly misunderstood areas of mathematics on the Praxis Core: **Linear Word Problems and Applications**.
+Welcome! Pull up a chair. You are preparing to be an [educator](https://en.wikipedia.org/wiki/Teacher), which means you are preparing to do one of the most important jobs in the world: teaching others how to think. Today, we are going to look at one of the most beautiful, practical, and wildly misunderstood areas of [mathematics](https://en.wikipedia.org/wiki/Mathematics) on the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test): **[Linear Word Problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29) and Applications**.
 
-Listen, I know word problems make a lot of people break out in a cold sweat. People look at a paragraph about trains, apples, or cell phone bills and their brain just shorts out. But a word problem is not a math test disguised as a reading test. It is simply a description of the real world waiting to be translated into the beautiful, crisp language of algebra. 
+Listen, I know [word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29) make a lot of people break out in a cold sweat. People look at a paragraph about trains, apples, or cell phone bills and their brain just shorts out. But a word problem is not a math test disguised as a reading test. It is simply a description of the real world waiting to be translated into the beautiful, crisp language of [algebra](https://en.wikipedia.org/wiki/Algebra). 
 
-Let's demystify this together. We are going to look at the mechanics under the hood of these problems, figure out how to translate them, build equations, and solve them with absolute confidence. 
+Let's demystify this together. We are going to look at the mechanics under the hood of these problems, figure out how to translate them, build [equations](https://en.wikipedia.org/wiki/Equation), and solve them with absolute confidence. 
 
 ---
 
 ## Part 1: The Art of Translation
 
-Before we can solve anything, we have to know what we are talking about. Mathematics is a language, just like English or French. Translating a word problem into a mathematical equation requires identifying the **unknown quantity**. You cannot find something if you do not know what you are looking for!
+Before we can solve anything, we have to know what we are talking about. Mathematics is a language, just like English or French. Translating a word problem into a [mathematical equation](https://en.wikipedia.org/wiki/Equation) requires identifying the **unknown quantity**. You cannot find something if you do not know what you are looking for!
 
 > **The Golden Rule of Word Problems:**
-> The unknown variable in a linear word problem typically represents the specific quantity requested in the problem prompt. 
+> The [unknown variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) in a linear word problem typically represents the specific quantity requested in the problem prompt. 
 
-Usually, this is hiding right at the very end of the paragraph. *"How many hours did she work?"* *"What was the total cost?"* When you find that question mark, you have found your unknown variable (let's call it $x$).
+Usually, this is hiding right at the very end of the paragraph. *"How many hours did she work?"* *"What was the total cost?"* When you find that question mark, you have found your unknown [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) (let's call it $x$).
 
 ### The English-to-Math Dictionary
 
@@ -21,11 +21,11 @@ Once we have our unknown, we need to translate the rest of the sentence. Words m
 
 | English Phrase / Word | Mathematical Translation | Example in Context |
 | :--- | :--- | :--- |
-| **"Is"** | Equals sign ($=$) | "The total *is* 50" $\rightarrow Total = 50$ |
-| **"Increased by"** | Addition operation ($+$) | "A number *increased by* 5" $\rightarrow x + 5$ |
-| **"Less than"** | Subtraction operation ($-$) | "3 *less than* a number" $\rightarrow x - 3$ |
-| **"Product"** | Multiplication operation ($\times$) | "The *product* of 4 and $y$" $\rightarrow 4y$ |
-| **"Quotient"** | Division operation ($\div$) | "The *quotient* of $z$ and 2" $\rightarrow \frac{z}{2}$ |
+| **"Is"** | [Equals sign](https://en.wikipedia.org/wiki/Equals_sign) ($=$) | "The total *is* 50" $\rightarrow Total = 50$ |
+| **"Increased by"** | [Addition operation](https://en.wikipedia.org/wiki/Addition) ($+$) | "A number *increased by* 5" $\rightarrow x + 5$ |
+| **"Less than"** | [Subtraction operation](https://en.wikipedia.org/wiki/Subtraction) ($-$) | "3 *less than* a number" $\rightarrow x - 3$ |
+| **"Product"** | [Multiplication operation](https://en.wikipedia.org/wiki/Multiplication) ($\times$) | "The *product* of 4 and $y$" $\rightarrow 4y$ |
+| **"Quotient"** | [Division operation](https://en.wikipedia.org/wiki/Division_%28mathematics%29) ($\div$) | "The *quotient* of $z$ and 2" $\rightarrow \frac{z}{2}$ |
 
 If you read, "The product of a number and 4, increased by 10, is 34," you just read it left to right and translate: $4x + 10 = 34$. It is that simple!
 
@@ -35,11 +35,11 @@ If you read, "The product of a number and 4, increased by 10, is 34," you just r
 
 Now, let's talk about the specific type of universe we are operating in for this exam: the linear universe. 
 
-What does "linear" actually mean? By definition, **a linear word problem describes a mathematical relationship characterized by a constant rate of change.** 
+What does "linear" actually mean? By definition, **a linear word problem describes a mathematical relationship characterized by a constant [rate of change](https://en.wikipedia.org/wiki/Rate_%28mathematics%29).** 
 
-Imagine you are driving down the highway at exactly 60 miles per hour on cruise control. Every single hour, you go exactly 60 miles. Not 50, not 70. It is steady. It is predictable. That is a constant rate of change. 
+Imagine you are driving down the highway at exactly 60 [miles per hour](https://en.wikipedia.org/wiki/Miles_per_hour) on [cruise control](https://en.wikipedia.org/wiki/Cruise_control). Every single hour, you go exactly 60 miles. Not 50, not 70. It is steady. It is predictable. That is a constant rate of change. 
 
-To model this, we use the most famous, most useful formula in basic algebra. 
+To model this, we use the most famous, most useful formula in basic [algebra](https://en.wikipedia.org/wiki/Elementary_algebra). 
 
 > **The Slope-Intercept Form**
 > The slope-intercept form of a linear equation is **$y = mx + b$**.
@@ -47,13 +47,13 @@ To model this, we use the most famous, most useful formula in basic algebra.
 This isn't just a jumble of letters; it is a story. Let's break down the characters in this story.
 
 ### The Slope ($m$) and The Y-Intercept ($b$)
-*   **The variable $m$ in the equation $y = mx + b$ represents the slope or rate of change.** In a real-world scenario, a repeating per-unit rate corresponds to the slope of the constructed linear equation. Think of words like *per, each,* or *every*. ($50 *per* hour, $2 *each* apple).
+*   **The variable $m$ in the equation $y = mx + b$ represents the [slope](https://en.wikipedia.org/wiki/Slope) or rate of change.** In a real-world scenario, a repeating per-unit rate corresponds to the slope of the constructed linear equation. Think of words like *per, each,* or *every*. ($50 *per* hour, $2 *each* apple).
 *   **The variable $b$ in the equation $y = mx + b$ represents the y-intercept or initial value.** A fixed starting amount in a real-world scenario corresponds to the y-intercept of the constructed linear equation. This is your flat fee, your down payment, or your starting distance. It happens exactly *once*.
 
 ### Independent vs. Dependent Variables
 Now, what about the $x$ and the $y$? 
 *   **The Independent Variable ($x$):** This is the input. You have control over it, or it marches on regardless of what you do. For this reason, the independent variable in a linear word problem frequently represents units of time (hours, months, days).
-*   **The Dependent Variable ($y$):** This is the output. It *depends* on whatever happened with $x$. Very often on the Praxis, the dependent variable in a linear word problem frequently represents an accumulated total cost.
+*   **The Dependent Variable ($y$):** This is the output. It *depends* on whatever happened with $x$. Very often on the [Praxis](https://en.wikipedia.org/wiki/Praxis_test), the dependent variable in a linear word problem frequently represents an accumulated total cost.
 
 ### Building the Equation: Total Cost
 Let's put it all together. Imagine a plumber charges a $75 flat fee just to show up at your house, and then $50 for every hour he works. 
@@ -74,7 +74,7 @@ Equation: $y = 50x + 75$.
 
 You have translated the English into Math. You have built your equation. Now, you need to find the unknown variable. 
 
-Think of an algebraic equation like a perfectly balanced seesaw. If you do something to one side, you must do the exact same thing to the other side to keep it balanced. Our goal is to get the variable all by itself. How? By working backwards. 
+Think of an [algebraic equation](https://en.wikipedia.org/wiki/Algebraic_equation) like a perfectly balanced seesaw. If you do something to one side, you must do the exact same thing to the other side to keep it balanced. Our goal is to get the variable all by itself. How? By working backwards. 
 
 **Solving a linear equation requires applying inverse mathematical operations to isolate the unknown variable.** Think of the variable as a gift inside a box, wrapped in paper, and tied with a bow. To get to the gift, you have to undo the packaging in reverse order. You untie the bow, then you rip off the paper, then you open the box.
 
@@ -103,17 +103,17 @@ The plumber worked for 3 hours. You just unwrapped the present!
 There are a few specific flavors of linear equations that the Praxis Core loves to test. The most famous is the classic distance problem. 
 
 ### The Distance Formula
-If you are traveling at a constant speed, you are engaging in a linear relationship. **The standard distance formula used in linear word problems is distance equals rate multiplied by time.**
+If you are traveling at a [constant speed](https://en.wikipedia.org/wiki/Speed), you are engaging in a linear relationship. **The standard [distance formula](https://en.wikipedia.org/wiki/Distance) used in linear word problems is distance equals rate multiplied by time.**
 $$D = r \times t$$
 Notice how this is just a stripped-down version of $y = mx + b$? Your distance ($D$) is your dependent variable ($y$). Your rate ($r$) is your slope ($m$). Your time ($t$) is your independent variable ($x$). And your starting point ($b$) is usually zero! 
 
 ### The Crucial Final Steps: Verifying and Reality Checks
-You did the math. You got $x = 3$. Are you done? **No!** A great mathematician, and a great teacher, always double-checks their work. 
+You did the math. You got $x = 3$. Are you done? **No!** A great [mathematician](https://en.wikipedia.org/wiki/Mathematician), and a great teacher, always double-checks their work. 
 
 First, the mechanical check. **Verifying an algebraic solution requires substituting the calculated numerical value back into the original word problem constraints.** 
 If we think the plumber worked 3 hours, plug 3 back into the original setup. Does $50(3) + 75$ equal $225$? Yes: $150 + 75 = 225$. The math is solid.
 
-Second, the *logical* check. This is where you bring your human brain back into the equation. Math is perfectly logical, but it doesn't know the context of your word problem. It just cranks out numbers.
+Second, the *logical* check. This is where you bring your human brain back into the equation. Math is perfectly [logical](https://en.wikipedia.org/wiki/Logic), but it doesn't know the context of your word problem. It just cranks out numbers.
 
 **A mathematically correct solution to a linear equation must be discarded if the solution violates real-world logical constraints.**
 
@@ -121,7 +121,7 @@ Imagine you are solving a problem to figure out how many buses you need to rent 
 Math says: "You need 4.2 buses."
 Reality says: "You cannot rent 0.2 of a school bus." 
 
-Because of real-world constraints, you must round up to 5 buses to fit everyone. Similarly, if you solve a time/distance equation and find that the time traveled was $-4$ hours, you must discard that solution. Time cannot be negative! Never let the algebra override your common sense.
+Because of real-world constraints, you must [round up](https://en.wikipedia.org/wiki/Rounding) to 5 buses to fit everyone. Similarly, if you solve a time/distance equation and find that the time traveled was $-4$ hours, you must discard that solution. Time cannot be [negative](https://en.wikipedia.org/wiki/Negative_number)! Never let the algebra override your common sense.
 
 ---
 

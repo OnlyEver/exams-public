@@ -1,12 +1,12 @@
-# The Architecture of Logic: Mastering Venn Diagrams for Word Problems
+# The Architecture of [Logic](https://en.wikipedia.org/wiki/Logic): Mastering [Venn Diagrams](https://en.wikipedia.org/wiki/Venn_diagram) for [Word Problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29)
 
 Hello there! Let's talk about sorting the universe. 
 
-Mathematics, at its very core, isn't just about crunching numbers; it's about making sense of relationships. When you look at a classroom of students, you don't just see a crowd. You see a tapestry of overlapping traits. Some play sports. Some play an instrument. Some do *both*, and some do *neither*. How do we take that messy, overlapping reality and organize it so clearly that the answers to our questions just fall right out on the paper?
+[Mathematics](https://en.wikipedia.org/wiki/Mathematics), at its very core, isn't just about crunching numbers; it's about making sense of relationships. When you look at a [classroom](https://en.wikipedia.org/wiki/Classroom) of students, you don't just see a crowd. You see a tapestry of overlapping traits. Some play [sports](https://en.wikipedia.org/wiki/Sport). Some play an instrument. Some do *both*, and some do *neither*. How do we take that messy, overlapping reality and organize it so clearly that the answers to our questions just fall right out on the paper?
 
-We use one of the most elegant tools ever invented: the Venn diagram.
+We use one of the most elegant tools ever invented: the [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram).
 
-As future educators tackling the Praxis Core exam, you aren't just memorizing rules. You need to understand *how* these visual tools work and *why* they make logical word problems delightfully simple. So, grab a pencil, pull up a chair, and let's explore the beautiful, overlapping world of sets.
+As future educators tackling the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test), you aren't just memorizing rules. You need to understand *how* these visual tools work and *why* they make logical word problems delightfully simple. So, grab a [pencil](https://en.wikipedia.org/wiki/Pencil), pull up a [chair](https://en.wikipedia.org/wiki/Chair), and let's explore the beautiful, overlapping world of sets.
 
 ---
 
@@ -14,22 +14,22 @@ As future educators tackling the Praxis Core exam, you aren't just memorizing ru
 
 Before we start drawing shapes, we need to know what we are organizing. 
 
-In mathematics, a **set** is simply a well-defined collection of distinct objects. Those individual objects? We call them **elements**. An **element** is a single object belonging to a set. If we have a set of "Vowels in the English Alphabet," the letter *A* is an element. It’s that simple. 
+In mathematics, a **set** is simply a well-defined collection of distinct objects. Those individual objects? We call them **elements**. An **element** is a single object belonging to a set. If we have a set of "Vowels in the [English Alphabet](https://en.wikipedia.org/wiki/English_alphabet)," the letter *A* is an element. It’s that simple. 
 
-But out of all the possible elements in the cosmos, how do we know what we care about right now? We define our "sandbox." 
+But out of all the possible elements in the [cosmos](https://en.wikipedia.org/wiki/Cosmos), how do we know what we care about right now? We define our "sandbox." 
 
-> **The Universal Set:** The universal set contains all elements under consideration in a specific problem. If our word problem is about 50 students in a homeroom, the universal set is exactly those 50 students. Nobody else exists in this mathematical universe! 
+> **The Universal Set:** The universal set contains all elements under consideration in a specific problem. If our word problem is about 50 students in a homeroom, the universal set is exactly those 50 students. Nobody else exists in this mathematical [universe](https://en.wikipedia.org/wiki/Universe_%28mathematics%29)! 
 
-To visualize these concepts, a brilliant logician named **John Venn introduced the Venn diagram in 1880**. A **Venn diagram** is a visual representation of sets using geometric shapes. The rules of his drawing are wonderfully intuitive:
+To visualize these concepts, a brilliant logician named **[John Venn](https://en.wikipedia.org/wiki/John_Venn) introduced the Venn diagram in 1880**. A **Venn diagram** is a visual representation of sets using geometric shapes. The rules of his drawing are wonderfully intuitive:
 
-1. **The surrounding rectangle in a Venn diagram represents the universal set.** Think of the rectangle as the walls of your classroom. Everyone involved in the problem is inside this box.
-2. **Circles in a Venn diagram represent individual sets.** We place these circles inside the rectangle. If a circle represents "Students taking French," everyone taking French lives inside that circle.
+1. **The surrounding [rectangle](https://en.wikipedia.org/wiki/Rectangle) in a Venn diagram represents the universal set.** Think of the rectangle as the walls of your classroom. Everyone involved in the problem is inside this box.
+2. **[Circles](https://en.wikipedia.org/wiki/Circle) in a Venn diagram represent individual sets.** We place these circles inside the rectangle. If a circle represents "Students taking [French](https://en.wikipedia.org/wiki/French_language)," everyone taking French lives inside that circle.
 
 ---
 
 ## The Logic of Overlap: Translating English into Geometry
 
-When you encounter a word problem on the Praxis exam, your first job is translation. You need to turn conversational English words—like *and*, *or*, *not*, and *only*—into spatial regions on your diagram. 
+When you encounter a word problem on the Praxis exam, your first job is [translation](https://en.wikipedia.org/wiki/Translation). You need to turn conversational [English](https://en.wikipedia.org/wiki/English_language) words—like *and*, *or*, *not*, and *only*—into spatial regions on your diagram. 
 
 Let’s map out the anatomy of a Venn diagram.
 
@@ -55,10 +55,10 @@ What about the students who refuse to act or play chess? They exist in the unive
 ### 4. The Set Difference ("Only")
 Sometimes, a word problem gets sneaky. It might say, "15 students take *only* biology." 
 
-**A set difference contains elements present in a first set and absent from a second set.** If a student takes biology, but *not* chemistry, they belong in the crescent-moon-shaped part of the biology circle that does not touch the chemistry circle. Thus, **the word "only" in a set word problem indicates a set difference**.
+**A set difference contains elements present in a first set and absent from a second set.** If a student takes biology, but *not* [chemistry](https://en.wikipedia.org/wiki/Chemistry), they belong in the crescent-moon-shaped part of the biology circle that does not touch the chemistry circle. Thus, **the word "only" in a set word problem indicates a set difference**.
 
 ### 5. Disjoint Sets
-What if you are comparing sets that simply cannot overlap, like "Students who are freshmen" and "Students who are sophomores"? Nobody is both! 
+What if you are comparing sets that simply cannot overlap, like "Students who are freshmen" and "Students who are [sophomores](https://en.wikipedia.org/wiki/Sophomore)"? Nobody is both! 
 
 **Disjoint sets are sets sharing no common elements.** When you draw them, **disjoint sets appear in a Venn diagram as circles lacking overlap.** They sit isolated inside the universal rectangle, minding their own business.
 
@@ -81,7 +81,7 @@ Here is a quick cheat sheet for your exam. Memorize these relationships; they ar
 
 Now we arrive at the most common trap students fall into on the Praxis exam. Let’s say I tell you:
 * 30 students are in Band.
-* 20 students are in Choir.
+* 20 students are in [Choir](https://en.wikipedia.org/wiki/Choir).
 * 10 students are in *both* (the intersection).
 
 If I ask you how many students are in the music program in total (the union), your brain might reflexively yell, "30 plus 20 is 50!" 
@@ -96,7 +96,7 @@ We do this using a beautiful piece of logic: **The principle of inclusion-exclus
 
 Applying it to our music students: $30 + 20 - 10 = 40$ students total. 
 
-This leads us to a vital corollary for navigating the circles: **subtracting the intersection value from the total of a specific set yields the number of elements exclusive to the specific set.** 
+This leads us to a vital corollary for navigating the circles: **[subtracting](https://en.wikipedia.org/wiki/Subtraction) the intersection value from the total of a specific set yields the number of elements exclusive to the specific set.** 
 If there are 30 Band members total, and 10 of them are also in Choir, then $30 - 10 = 20$. There are exactly 20 students who are in *only* Band.
 
 ---
@@ -121,7 +121,7 @@ In a group of 100 teachers (the universal set), 60 drink Coffee, 40 drink Tea, a
 **The Solution (Step-by-Step):**
 1. **Draw the Universe:** Draw your rectangle (Universal Set = 100).
 2. **Draw the Sets:** Draw two overlapping circles, $C$ (Coffee) and $T$ (Tea).
-3. **Start Inside-Out:** We don't know the exact intersection (the "both"), so we place an algebraic variable there: $x$.
+3. **Start Inside-Out:** We don't know the exact intersection (the "both"), so we place an [algebraic variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) there: $x$.
 4. **Find the Exclusives (The Differences):** 
    * If the total Coffee circle is 60, then the "Coffee ONLY" region is $60 - x$. 
    * If the total Tea circle is 40, then the "Tea ONLY" region is $40 - x$.
@@ -133,7 +133,7 @@ In a group of 100 teachers (the universal set), 60 drink Coffee, 40 drink Tea, a
    $115 - x = 100$
    $x = 15$
 
-There it is! Exactly 15 teachers drink both. We just mapped out the entire universe using simple subtraction and addition. 
+There it is! Exactly 15 teachers drink both. We just mapped out the entire universe using simple [subtraction](https://en.wikipedia.org/wiki/Subtraction) and [addition](https://en.wikipedia.org/wiki/Addition). 
 
 ---
 
@@ -142,18 +142,18 @@ There it is! Exactly 15 teachers drink both. We just mapped out the entire unive
 Sometimes, two sets just aren't enough to capture the complexity of the real world. Sometimes, you need three. 
 
 **A three-circle Venn diagram represents the relationships among three different sets.** 
-Picture three hoops laid over each other to form a triangle of overlap. It looks like a beautifully complex stained-glass window. But don't let it intimidate you; the rules are exactly the same! 
+Picture three hoops laid over each other to form a triangle of overlap. It looks like a beautifully complex [stained-glass window](https://en.wikipedia.org/wiki/Stained_glass). But don't let it intimidate you; the rules are exactly the same! 
 
 The most critical piece of real estate in this new shape is the very center. **The central overlapping region of a three-circle Venn diagram represents the intersection of all three sets.** 
 
-When you get a word problem with three sets (e.g., students taking Math, History, and Science), your strategy does not change. You still obey the prime directive: **Solving begins by placing the innermost intersection value first.** 
+When you get a word problem with three sets (e.g., students taking [Math](https://en.wikipedia.org/wiki/Mathematics), [History](https://en.wikipedia.org/wiki/History), and [Science](https://en.wikipedia.org/wiki/Science)), your strategy does not change. You still obey the prime directive: **Solving begins by placing the innermost intersection value first.** 
 1. Find the number of students taking *all three* subjects and write it directly in the dead center.
 2. Next, work outward to the two-set intersections (e.g., students taking Math and History), making sure to *subtract* the center number you already placed so you don't double count!
 3. Finally, determine the "only" regions by subtracting all inner overlaps from the set totals.
 
 ### The Final Takeaway
 
-Venn diagrams aren't just shapes on a page. They are a rigorous, visual accounting system. Every element has its proper place, governed by the elegant rules of sets, intersections, unions, and complements. 
+Venn diagrams aren't just shapes on a page. They are a rigorous, visual [accounting system](https://en.wikipedia.org/wiki/Accounting). Every element has its proper place, governed by the elegant rules of sets, intersections, unions, and complements. 
 
 When you sit down to take the Praxis Core exam, take a deep breath. Draw your rectangle. Draw your circles. Translate the words "and," "or," "only," and "not" into their mathematical regions. Remember the trap of double-counting, and use the principle of inclusion-exclusion. And above all else: **start from the inside out.**
 

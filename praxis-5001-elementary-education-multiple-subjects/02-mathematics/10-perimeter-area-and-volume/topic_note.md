@@ -1,8 +1,8 @@
-Welcome! Pull up a chair. Today, we are going to look at one of the most wonderfully practical corners of mathematics: geometry. But we aren’t just going to memorize a soup of letters and numbers. That’s boring, and frankly, it doesn’t help you understand how the world is put together. 
+Welcome! Pull up a chair. Today, we are going to look at one of the most wonderfully practical corners of [mathematics](https://en.wikipedia.org/wiki/Mathematics): geometry. But we aren’t just going to memorize a soup of letters and [numbers](https://en.wikipedia.org/wiki/Number). That’s boring, and frankly, it doesn’t help you understand how the world is put together. 
 
-Instead, we are going to build an intuition for **Perimeter**, **Area**, and **Volume**. 
+Instead, we are going to build an intuition for **Perimeter**, **Area**, and **[Volume](https://en.wikipedia.org/wiki/Volume)**. 
 
-Think of dimensions as a ladder. We start on the ground floor with one-dimensional lines (Perimeter). Then we step up to flat, two-dimensional surfaces (Area). Finally, we jump into the real, three-dimensional world we live in (Volume). If you can visualize what is physically happening at each step, the formulas will stop looking like abstract algebra and start looking like pure, beautiful common sense. 
+Think of [dimensions](https://en.wikipedia.org/wiki/Dimension) as a ladder. We start on the ground floor with one-dimensional [lines](https://en.wikipedia.org/wiki/Line_%28geometry%29) (Perimeter). Then we step up to flat, two-dimensional surfaces (Area). Finally, we jump into the real, [three-dimensional](https://en.wikipedia.org/wiki/Three-dimensional_space) world we live in (Volume). If you can visualize what is physically happening at each step, the [formulas](https://en.wikipedia.org/wiki/Formula) will stop looking like abstract algebra and start looking like pure, beautiful common sense. 
 
 Let’s get started.
 
@@ -12,31 +12,31 @@ Let’s get started.
 
 Imagine you own a plot of land and you want to build a fence to keep the deer out. How much fencing do you need? You don't care about the grass inside; you only care about the boundary. 
 
-> **Definition:** **Perimeter** is the total length of the continuous boundary of a closed two-dimensional figure.
+> **Definition:** **Perimeter** is the total [length](https://en.wikipedia.org/wiki/Length) of the continuous boundary of a closed two-dimensional figure.
 
-Because we are just measuring a line that happens to bend around some corners, **perimeter is always measured in linear units such as inches, centimeters, or meters.** Think of a piece of string laid out around the edges of a shape. If you cut the string and pulled it perfectly straight, how long would it be? That's your linear unit.
+Because we are just measuring a line that happens to bend around some corners, **perimeter is always measured in linear units such as [inches](https://en.wikipedia.org/wiki/Inch), [centimeters](https://en.wikipedia.org/wiki/Centimetre), or [meters](https://en.wikipedia.org/wiki/Metre).** Think of a piece of string laid out around the edges of a shape. If you cut the string and pulled it perfectly straight, how long would it be? That's your linear unit.
 
 ### The Universal Rule of Perimeter
-At its core, **the perimeter of any polygon is calculated by adding the lengths of all the sides of the polygon together.** That is the golden rule. If you forget every formula in the world, just walk around the edge of the shape and add up the steps. 
+At its core, **the perimeter of any [polygon](https://en.wikipedia.org/wiki/Polygon) is calculated by adding the lengths of all the sides of the polygon together.** That is the golden rule. If you forget every formula in the world, just walk around the edge of the shape and add up the steps. 
 
-But mathematicians love shortcuts, and that's where formulas come from.
+But [mathematicians](https://en.wikipedia.org/wiki/Mathematician) love shortcuts, and that's where formulas come from.
 
 ### Shortcuts for Special Shapes
-If a shape has repeating side lengths, we can use multiplication to save time:
+If a shape has repeating side lengths, we can use [multiplication](https://en.wikipedia.org/wiki/Multiplication) to save time:
 
-*   **Rectangles:** A rectangle has two equal lengths and two equal widths. So, **the formula for the perimeter of a rectangle is exactly two times the length plus two times the width** ($P = 2L + 2W$).
+*   **Rectangles:** A [rectangle](https://en.wikipedia.org/wiki/Rectangle) has two equal lengths and two equal widths. So, **the formula for the perimeter of a rectangle is exactly two times the length plus two times the width** ($P = 2L + 2W$).
 *   **Squares:** A square is just a highly symmetrical rectangle. Since all four sides are identical, **the formula for the perimeter of a square is exactly four times the side length** ($P = 4S$).
 
-What about a stop sign? That’s a regular octagon. 
-> **Definition:** **A regular polygon is a two-dimensional shape in which all sides have identical lengths and all interior angles have identical measures.** 
+What about a [stop sign](https://en.wikipedia.org/wiki/Stop_sign)? That’s a [regular octagon](https://en.wikipedia.org/wiki/Octagon). 
+> **Definition:** **A regular polygon is a two-dimensional shape in which all sides have identical lengths and all [interior angles](https://en.wikipedia.org/wiki/Internal_and_external_angles) have identical measures.** 
 
-Because of this perfect symmetry, **the formula for the perimeter of a regular polygon is the total number of sides multiplied by the length of a single side.** If you have a regular hexagon (6 sides) and one side is 5 inches, the perimeter is simply $6 \times 5 = 30$ inches. 
+Because of this perfect [symmetry](https://en.wikipedia.org/wiki/Symmetry), **the formula for the perimeter of a regular polygon is the total number of sides multiplied by the length of a single side.** If you have a [regular hexagon](https://en.wikipedia.org/wiki/Hexagon) (6 sides) and one side is 5 inches, the perimeter is simply $6 \times 5 = 30$ inches. 
 
 ### What Happens with Fractions?
-Sometimes the real world doesn't give us clean whole numbers. You might have a triangle with sides measuring $\frac{1}{2}$ inch, $\frac{3}{4}$ inch, and $\frac{5}{8}$ inch. 
+Sometimes the real world doesn't give us clean [whole numbers](https://en.wikipedia.org/wiki/Integer). You might have a [triangle](https://en.wikipedia.org/wiki/Triangle) with sides measuring $\frac{1}{2}$ inch, $\frac{3}{4}$ inch, and $\frac{5}{8}$ inch. 
 
-To find the perimeter, you still just add them up. But here is the catch: you can't just mash the numbers together. **Calculating the perimeter of polygons with fractional side lengths requires finding a common denominator to add the fractional side lengths together.** 
-Why? Because fractions have to speak the same language before you can combine them. You must convert those halves and quarters into eighths ($\frac{4}{8} + \frac{6}{8} + \frac{5}{8}$) to find your total boundary length.
+To find the perimeter, you still just add them up. But here is the catch: you can't just mash the numbers together. **Calculating the perimeter of polygons with fractional side lengths requires finding a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) to add the fractional side lengths together.** 
+Why? Because [fractions](https://en.wikipedia.org/wiki/Fraction) have to speak the same language before you can combine them. You must convert those halves and quarters into eighths ($\frac{4}{8} + \frac{6}{8} + \frac{5}{8}$) to find your total boundary length.
 
 ---
 
@@ -53,26 +53,26 @@ Every area formula in elementary geometry is just a clever disguise for a rectan
 
 | Shape | Formula | Why it works (The Intuition) |
 | :--- | :--- | :--- |
-| **Rectangle** | **$A = L \times W$** | **The formula for the area of a rectangle is the length multiplied by the width.** Think of arranging 3 rows of 4 tiles. $3 \times 4 = 12$ tiles. |
+| **[Rectangle](https://en.wikipedia.org/wiki/Rectangle)** | **$A = L \times W$** | **The formula for the area of a rectangle is the length multiplied by the width.** Think of arranging 3 rows of 4 tiles. $3 \times 4 = 12$ tiles. |
 | **Square** | **$A = S^2$** | A square is a rectangle where length and width are the same. Thus, **the formula for the area of a square is the side length squared.** |
-| **Parallelogram** | **$A = b \times h$** | Imagine a leaning rectangle. If you chop off the leaning triangle on one side and stick it on the other, it forms a perfect rectangle! So, **the formula for the area of a parallelogram is the base multiplied by the perpendicular height.** |
-| **Triangle** | **$A = \frac{1}{2} \times b \times h$** | If you take any triangle and clone it, the two identical triangles can always snap together to form a parallelogram. Therefore, a single triangle is exactly half of that. **The formula for the area of a triangle is one-half multiplied by the base multiplied by the perpendicular height.** |
-| **Trapezoid** | **$A = \frac{1}{2} \times (b_1 + b_2) \times h$** | A trapezoid has two parallel bases of different lengths. If you average the lengths of the top and bottom bases, it acts just like a rectangle. Thus, **the formula for the area of a trapezoid is one-half multiplied by the sum of the two parallel bases multiplied by the perpendicular height.** |
+| **[Parallelogram](https://en.wikipedia.org/wiki/Parallelogram)** | **$A = b \times h$** | Imagine a leaning rectangle. If you chop off the leaning triangle on one side and stick it on the other, it forms a perfect rectangle! So, **the formula for the area of a parallelogram is the base multiplied by the perpendicular height.** |
+| **[Triangle](https://en.wikipedia.org/wiki/Triangle)** | **$A = \frac{1}{2} \times b \times h$** | If you take any triangle and clone it, the two identical triangles can always snap together to form a parallelogram. Therefore, a single triangle is exactly half of that. **The formula for the area of a triangle is one-half multiplied by the base multiplied by the perpendicular height.** |
+| **Trapezoid** | **$A = \frac{1}{2} \times (b_1 + b_2) \times h$** | A trapezoid has two parallel bases of different lengths. If you [average](https://en.wikipedia.org/wiki/Arithmetic_mean) the lengths of the top and bottom bases, it acts just like a rectangle. Thus, **the formula for the area of a trapezoid is one-half multiplied by the sum of the two parallel bases multiplied by the perpendicular height.** |
 
-*A crucial warning on height!* When these formulas mention "height," they explicitly mean the **perpendicular height**—the straight drop from the top to the bottom base at a perfect 90-degree angle. Never use a slanted side length for height!
+*A crucial warning on height!* When these formulas mention "height," they explicitly mean the **perpendicular height**—the straight drop from the top to the bottom base at a perfect [90-degree angle](https://en.wikipedia.org/wiki/Right_angle). Never use a slanted side length for height!
 
 ### Area with Fractional Sides
 What if your rectangle is $\frac{1}{2}$ a meter long and $\frac{3}{4}$ of a meter wide? 
 Unlike perimeter, we *do not* need common denominators here. **The area of a rectangle with fractional side lengths is calculated by multiplying the fractional length and the fractional width** straight across ($\frac{1}{2} \times \frac{3}{4} = \frac{3}{8}$ square meters). 
 
-Why does this work? Because taking a fraction *of* a fraction mathematically scales the area down into a smaller, perfectly proportional square unit.
+Why does this work? Because taking a fraction *of* a fraction mathematically scales the area down into a smaller, perfectly [proportional](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) square unit.
 
 ### Taming Complex Irregular Polygons
 What if you have an L-shaped room? There is no "L-shape area formula." 
 
-Don't panic! **The area of a complex irregular polygon can be calculated by decomposing the complex irregular polygon into simpler shapes like non-overlapping rectangles and triangles.** Draw a line through that L-shape to cut it into two normal rectangles. Calculate the area of Rectangle A, calculate the area of Rectangle B, and add them up. 
+Don't panic! **The area of a complex [irregular polygon](https://en.wikipedia.org/wiki/Polygon) can be calculated by decomposing the complex irregular polygon into simpler shapes like non-overlapping rectangles and triangles.** Draw a line through that L-shape to cut it into two normal rectangles. Calculate the area of Rectangle A, calculate the area of Rectangle B, and add them up. 
 
-**The total area of a decomposed complex polygon equals the sum of the areas of the individual simpler geometric shapes within the decomposed complex polygon.** It is simple addition!
+**The total area of a decomposed complex polygon equals the sum of the areas of the individual simpler geometric shapes within the decomposed complex polygon.** It is simple [addition](https://en.wikipedia.org/wiki/Addition)!
 
 ---
 
@@ -80,7 +80,7 @@ Don't panic! **The area of a complex irregular polygon can be calculated by deco
 
 Now we are stepping up the dimension ladder again. We are moving from flat drawings to three-dimensional objects you can hold in your hand. But before we look at the space *inside* a 3D object, we have to look at its skin.
 
-> **Definition:** **Surface area is the total area of all the outside surfaces and faces of a three-dimensional object combined.**
+> **Definition:** **[Surface area](https://en.wikipedia.org/wiki/Surface_area) is the total area of all the outside surfaces and faces of a three-dimensional object combined.**
 
 Because surface area is essentially just asking "how much paint do I need to paint the outside of this box?", we are still dealing with flat 2D surfaces. Therefore, **surface area is always measured in square units.**
 
@@ -95,10 +95,10 @@ Imagine taking a cardboard shipping box, cutting along a few edges, and flatteni
 
 Let's look at the "fingerprints" of common 3D shapes. If you see these flat nets lying on a table, here is what they will fold up into:
 
-*   **Cube:** **The geometric net of a cube consists of exactly six identical non-overlapping squares.** Think of a flattened dice. Because all 6 squares are identical, you just find the area of one square ($S^2$) and multiply by 6.
+*   **[Cube](https://en.wikipedia.org/wiki/Cube):** **The geometric net of a cube consists of exactly six identical non-overlapping squares.** Think of a flattened [dice](https://en.wikipedia.org/wiki/Dice). Because all 6 squares are identical, you just find the area of one square ($S^2$) and multiply by 6.
 *   **Right Rectangular Prism:** Think of a standard Amazon box. **The geometric net of a right rectangular prism consists of six rectangles arranged in three identical opposite pairs.** Top/bottom, left/right, front/back.
 *   **Square Pyramid:** Picture the Great Pyramids of Egypt unfolding like a flower. **The geometric net of a square pyramid consists of one square base and four identical triangular faces.** 
-*   **Triangular Prism:** Imagine a Toblerone chocolate bar box flattened out. **The geometric net of a triangular prism consists of two identical triangular bases and three rectangular faces.**
+*   **[Triangular Prism](https://en.wikipedia.org/wiki/Triangular_prism):** Imagine a [Toblerone](https://en.wikipedia.org/wiki/Toblerone) chocolate bar box flattened out. **The geometric net of a triangular prism consists of two identical triangular bases and three rectangular faces.**
 
 If you can sketch the net, finding the surface area is simply a matter of calculating the area of those individual squares, rectangles, and triangles, and summing them up. 
 
@@ -110,11 +110,11 @@ Finally, we have arrived at the space *inside* the box.
 
 > **Definition:** **Volume is the measure of the amount of three-dimensional space that an object entirely occupies.**
 
-We aren't laying flat square tiles down anymore. We are stacking blocks. Therefore, **volume is always measured in cubic units such as cubic inches, cubic centimeters, or cubic meters.** 
+We aren't laying flat square tiles down anymore. We are stacking blocks. Therefore, **volume is always measured in cubic units such as cubic inches, cubic centimeters, or [cubic meters](https://en.wikipedia.org/wiki/Cubic_metre).** 
 
 ### The Right Rectangular Prism
 For the elementary level, our primary focus is on the right rectangular prism. 
-What exactly is it? **A right rectangular prism is a three-dimensional solid composed of six rectangular faces where all adjacent faces meet at ninety-degree right angles.** It is your standard, perfectly straight cardboard box or brick. No slanting, no leaning.
+What exactly is it? **A right rectangular prism is a three-dimensional solid composed of six rectangular faces where all adjacent faces meet at ninety-degree [right angles](https://en.wikipedia.org/wiki/Right_angle).** It is your standard, perfectly straight cardboard box or brick. No slanting, no leaning.
 
 ### How to Find Volume (The Intuitive Way)
 Before we use formulas, let's look at the physical reality. **The volume of a right rectangular prism can be determined by packing the right rectangular prism completely with gapless unit cubes and counting the total number of unit cubes.** 
@@ -148,7 +148,7 @@ Imagine you take a standard 1-inch wooden cube and chop it up into tiny little $
 Do you see the beautiful progression? 
 1.  We walked the boundary in **1D (Perimeter)**, adding lengths and dealing with common denominators. Measured in **linear units**.
 2.  We painted the flat space in **2D (Area)**, recognizing that every polygon is just a rectangle in disguise, and that complex shapes can be chopped into simpler ones. Measured in **square units**.
-3.  We peeled the skin off 3D objects to examine their **Nets**, allowing us to find **Surface Area** using the 2D rules we already knew. Measured in **square units**.
+3.  We peeled the skin off 3D objects to examine their **Nets**, allowing us to find **[Surface Area](https://en.wikipedia.org/wiki/Surface_area)** using the 2D rules we already knew. Measured in **square units**.
 4.  We filled the entire 3D space with blocks to find **Volume**, stacking layers of area to occupy physical reality. Measured in **cubic units**.
 
-Math is not a list of disconnected facts to be memorized for the Praxis exam. It is a logical, interlocking toolkit for describing the physical world. Understand the concepts, visualize the shapes, and the formulas will follow!
+Math is not a list of disconnected facts to be memorized for the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test). It is a logical, interlocking toolkit for describing the physical world. Understand the concepts, visualize the shapes, and the formulas will follow!

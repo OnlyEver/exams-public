@@ -1,10 +1,10 @@
-# The Physics of Numbers: Applying Basic Number Properties
+# The [Physics](https://en.wikipedia.org/wiki/Physics) of [Numbers](https://en.wikipedia.org/wiki/Number): Applying Basic Number Properties
 
-Welcome to the machinery of mathematics. 
+Welcome to the machinery of [mathematics](https://en.wikipedia.org/wiki/Mathematics). 
 
-When most people look at an arithmetic problem, they see a rigid set of instructions—a chore to be slogged through from left to right. But mathematics isn't about mindless calculation; it's about seeing the hidden structures of the universe and using them to your advantage. For the Praxis Core Mathematics exam, your goal isn't just to memorize Latin-sounding words like "commutative" and "distributive." Your goal is to become a master manipulator of numbers.
+When most people look at an [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) problem, they see a rigid set of instructions—a chore to be slogged through from left to right. But mathematics isn't about mindless calculation; it's about seeing the hidden structures of the universe and using them to your advantage. For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), your goal isn't just to memorize Latin-sounding words like "commutative" and "distributive." Your goal is to become a master manipulator of numbers.
 
-Think of basic number properties as the "rules of the game" in physics. If you know the rules, you don't have to work hard; you can work *smart*. You can shift numbers around, regroup them, and break them apart so that the arithmetic practically solves itself in your head. 
+Think of basic number properties as the "rules of the game" in [physics](https://en.wikipedia.org/wiki/Physics). If you know the rules, you don't have to work hard; you can work *smart*. You can shift numbers around, regroup them, and break them apart so that the arithmetic practically solves itself in your head. 
 
 Let's look at how we can playfully—but legally—bend mathematical expressions to our will.
 
@@ -14,20 +14,20 @@ Let's look at how we can playfully—but legally—bend mathematical expressions
 
 Have you ever packed a suitcase? If you toss your shirts in first and then your socks, you get a packed suitcase. If you toss your socks in first and then your shirts, you end up with the exact same packed suitcase. The order of the action simply doesn't matter. 
 
-This brings us to our first fundamental rule. **The commutative property of addition states that changing the order of addends does not change the resulting sum.** 
+This brings us to our first fundamental rule. **The commutative property of [addition](https://en.wikipedia.org/wiki/Addition) states that changing the order of addends does not change the resulting [sum](https://en.wikipedia.org/wiki/Summation).** 
 
 > **The Rule of Moving Things Around (Addition)**
 > The algebraic representation of the commutative property of addition is exactly this:
 > **$a + b = b + a$**
 
-The same delightful symmetry exists in multiplication. Imagine a grid of dots on a page: 3 rows of 4 dots. If you rotate the page 90 degrees, it becomes 4 rows of 3 dots. The total number of dots hasn't changed! **The commutative property of multiplication states that changing the order of factors does not change the resulting product.** 
+The same delightful [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28mathematics%29) exists in [multiplication](https://en.wikipedia.org/wiki/Multiplication). Imagine a grid of dots on a page: 3 rows of 4 dots. If you rotate the page 90 degrees, it becomes 4 rows of 3 dots. The total number of dots hasn't changed! **The commutative property of multiplication states that changing the order of factors does not change the resulting [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29).** 
 
 > **The Rule of Moving Things Around (Multiplication)**
 > The algebraic representation of the commutative property of multiplication is:
 > **$a \times b = b \times a$**
 
 ### Why do we care? 
-We care because this property is your first major shortcut. You don’t actually have to add numbers in the order they are handed to you! **The commutative property allows numbers in an addition expression to be rearranged to combine compatible numbers that sum to a multiple of ten.** 
+We care because this property is your first major shortcut. You don’t actually have to add numbers in the order they are handed to you! **The commutative property allows numbers in an addition expression to be rearranged to combine compatible numbers that sum to a [multiple](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29) of ten.** 
 
 If I give you $13 + 48 + 7$, going strictly left-to-right is an unnecessary headache. Instead, commute the $7$ over to the $13$. 
 $13 + 7 = 20$. 
@@ -38,21 +38,21 @@ You just did a complex problem in two seconds without writing anything down.
 Does this trick work for everything? What about taking off your socks and your shoes? The order *definitely* matters there. 
 
 In mathematics, you must remember the limits of your tools:
-* **The operation of subtraction does not satisfy the commutative property.** ($5 - 3$ is not the same as $3 - 5$).
-* **The operation of division does not satisfy the commutative property.** ($10 \div 2$ is not the same as $2 \div 10$).
+* **The [operation](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) of [subtraction](https://en.wikipedia.org/wiki/Subtraction) does not satisfy the commutative property.** ($5 - 3$ is not the same as $3 - 5$).
+* **The operation of [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) does not satisfy the commutative property.** ($10 \div 2$ is not the same as $2 \div 10$).
 
 ---
 
-## 2. The Art of Friendship: The Associative Property
+## 2. The Art of Friendship: The [Associative Property](https://en.wikipedia.org/wiki/Associative_property)
 
 If the commutative property is about moving physical locations, the associative property is about *who is talking to whom*. 
 
-> **Order of Operations Context**
+> **[Order of Operations](https://en.wikipedia.org/wiki/Order_of_operations) Context**
 > Before we regroup things, remember a fundamental truth of math grammar: **Grouping symbols such as parentheses dictate which arithmetic operations must be performed first within an algebraic expression.**
 
 Now, imagine a conversation between three friends: Alice, Bob, and Charlie. If Alice and Bob are whispering together, and then Charlie joins in, it’s the same group of friends as if Bob and Charlie were whispering and Alice joined them. The grouping changes, but the party is exactly the same.
 
-**The associative property of addition states that changing the grouping of addends does not change the resulting sum.**
+**The [associative property](https://en.wikipedia.org/wiki/Associative_property) of addition states that changing the grouping of addends does not change the resulting sum.**
 
 > **The Rule of Grouping (Addition)**
 > The algebraic representation of the associative property of addition is that the grouped sum of $a$ and $b$ plus $c$ equals $a$ plus the grouped sum of $b$ and $c$:
@@ -65,7 +65,7 @@ Similarly, **the associative property of multiplication states that changing the
 > **$(a \times b) \times c = a \times (b \times c)$**
 
 ### Why do we care?
-This is another brilliant tool for being a "lazy" mathematician. **The associative property allows a string of multiplication operations to be regrouped to form easier partial products without changing the final result.**
+This is another brilliant tool for being a "lazy" [mathematician](https://en.wikipedia.org/wiki/Mathematician). **The associative property allows a string of multiplication operations to be regrouped to form easier partial products without changing the final result.**
 
 Look at this monster: $4 \times (25 \times 17)$.
 If you do parentheses first as originally written, you have to multiply $25 \times 17$. Gross. But wait! Let's *re-associate* the numbers!
@@ -88,9 +88,9 @@ Just as with commuting, subtraction and division are stubborn.
 
 ---
 
-## 3. The Ultimate Mental Math Hack: The Distributive Property
+## 3. The Ultimate [Mental Math](https://en.wikipedia.org/wiki/Mental_calculation) Hack: The [Distributive Property](https://en.wikipedia.org/wiki/Distributive_property)
 
-Now we arrive at the most powerful property in the mathematician's toolkit. The commutative and associative properties only work with *one operation at a time* (all addition, or all multiplication). But the **distributive property** is the beautiful bridge between multiplication and addition/subtraction.
+Now we arrive at the most powerful property in the mathematician's toolkit. The commutative and associative properties only work with *one operation at a time* (all addition, or all multiplication). But the **[distributive property](https://en.wikipedia.org/wiki/Distributive_property)** is the beautiful bridge between multiplication and addition/subtraction.
 
 **The distributive property of multiplication over addition allows evaluating the product of a value and a sum by first multiplying the value by each addend separately and adding the resulting products.**
 
@@ -104,7 +104,7 @@ And it works equally well with subtraction. **The distributive property of multi
 > **$a(b - c) = ab - ac$**
 
 ### Why do we care?
-Because it turns you into a human calculator. **Applying the distributive property enables mental math calculations by breaking down a difficult multiplication problem into the sum (or difference) of two easier multiplication problems.**
+Because it turns you into a human calculator. **Applying the distributive property enables [mental math](https://en.wikipedia.org/wiki/Mental_calculation) calculations by breaking down a difficult multiplication problem into the sum (or difference) of two easier multiplication problems.**
 
 Let's say you're at the store, and you need to buy 6 items that cost $\$98$ each. You *could* grab a pencil, write down $98 \times 6$, carry the numbers... or you could use the distributive property over subtraction.
 
@@ -125,13 +125,13 @@ You didn't have to name the property to use it—you just applied it to bend the
 
 ## 4. The Unsung Heroes: Identities, Zeros, and Inverses
 
-To truly understand how math behaves, you need to understand the structural "anchor points" of our number system. These properties might seem incredibly obvious, but they are the foundational rules that allow algebra to even exist.
+To truly understand how math behaves, you need to understand the structural "anchor points" of our [number system](https://en.wikipedia.org/wiki/Numeral_system). These properties might seem incredibly obvious, but they are the foundational rules that allow algebra to even exist.
 
 ### Doing Nothing Gracefully: The Identity Properties
 An "identity" in math is an operation that lets you step up to a number, do something to it, and leave it completely unchanged.
 
-* **The additive identity property states that the sum of any given number and zero is the original given number.** ($7 + 0 = 7$). Zero is the mirror of addition.
-* **The multiplicative identity property states that the product of any given number and one is the original given number.** ($14 \times 1 = 14$). One is the mirror of multiplication.
+* **The [additive identity property](https://en.wikipedia.org/wiki/Additive_identity) states that the sum of any given number and [zero](https://en.wikipedia.org/wiki/0) is the original given number.** ($7 + 0 = 7$). Zero is the mirror of addition.
+* **The multiplicative identity property states that the product of any given number and [one](https://en.wikipedia.org/wiki/1) is the original given number.** ($14 \times 1 = 14$). One is the mirror of multiplication.
 
 ### The Annihilator: Property of Zero
 While zero does nothing in addition, it is incredibly powerful in multiplication. It destroys everything it touches.
@@ -142,19 +142,19 @@ If you do an operation, how do you undo it to get back to your blank slate (your
 
 **The additive inverse of a given number is the unique number that yields zero when added to the given number.**
 If you step forward 5 spaces, how do you get back to zero? You step backwards 5 spaces. 
-> **Fact:** **The additive inverse of a positive number is the negative counterpart of the identical magnitude.**
+> **Fact:** **The additive inverse of a positive number is the [negative](https://en.wikipedia.org/wiki/Negative_number) counterpart of the identical magnitude.**
 > *Example:* The additive inverse of $12$ is $-12$, because $12 + (-12) = 0$.
 
-**The multiplicative inverse of a given nonzero number is the unique number that yields one when multiplied by the given number.**
+**The [multiplicative inverse](https://en.wikipedia.org/wiki/Multiplicative_inverse) of a given nonzero number is the unique number that yields one when multiplied by the given number.**
 If you multiply a number by $4$, how do you get back to $1$? You multiply by $\frac{1}{4}$!
-> **Fact:** **The multiplicative inverse of a mathematical fraction is the reciprocal of that specific fraction.**
+> **Fact:** **The multiplicative inverse of a mathematical [fraction](https://en.wikipedia.org/wiki/Fraction) is the [reciprocal](https://en.wikipedia.org/wiki/Multiplicative_inverse) of that specific fraction.**
 > *Example:* To find the multiplicative inverse of $\frac{2}{3}$, you simply flip it upside down (its reciprocal). The reciprocal is $\frac{3}{2}$. Why? Because $\frac{2}{3} \times \frac{3}{2} = \frac{6}{6} = 1$.
 
 ---
 
 ## Conclusion: Putting it all Together for the Praxis Core
 
-When you sit down to take the Praxis exam, you will encounter problems that look complicated. Your instinct might be to brute-force the arithmetic. *Resist that instinct.* 
+When you sit down to take the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), you will encounter problems that look complicated. Your instinct might be to brute-force the arithmetic. *Resist that instinct.* 
 
 Look at the expression. Can you **commute** the numbers to bring friendly values together? Can you change the parentheses to **associate** factors into neat blocks of $10$ or $100$? Can you shatter an ugly number into pieces and **distribute** your multiplication across them? 
 

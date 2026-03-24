@@ -1,10 +1,10 @@
 # The Universe in a Sequence: Mastering Patterns and Functions
 
-Hello there! Come on in. Grab a seat. Today, we are going to talk about something truly magnificent. We're going to talk about the very heartbeat of mathematics. 
+Hello there! Come on in. Grab a seat. Today, we are going to talk about something truly magnificent. We're going to talk about the very heartbeat of [mathematics](https://en.wikipedia.org/wiki/Mathematics). 
 
-You see, a lot of people think math is just a dull collection of rigid rules and disconnected numbers that someone, somewhere, decided you have to memorize. But that is entirely backward! Mathematics is, at its very core, the search for patterns. It’s the art of looking at a messy, chaotic universe and realizing, "Aha! There is a rhythm here. If I can figure out the rhythm, I can predict the future!" 
+You see, a lot of people think [math](https://en.wikipedia.org/wiki/Mathematics) is just a dull collection of rigid rules and disconnected [numbers](https://en.wikipedia.org/wiki/Number) that someone, somewhere, decided you have to [memorize](https://en.wikipedia.org/wiki/Memorization). But that is entirely backward! Mathematics is, at its very core, the search for [patterns](https://en.wikipedia.org/wiki/Pattern). It’s the art of looking at a messy, chaotic [universe](https://en.wikipedia.org/wiki/Universe) and realizing, "Aha! There is a rhythm here. If I can figure out the rhythm, I can predict the [future](https://en.wikipedia.org/wiki/Future)!" 
 
-As a future elementary school teacher, your job isn't just to teach kids how to add and subtract. Your job is to teach them how to become pattern-detectives. So, let’s roll up our sleeves and figure out how to spot, build, and connect these mathematical rhythms. 
+As a future [elementary school](https://en.wikipedia.org/wiki/Elementary_school) [teacher](https://en.wikipedia.org/wiki/Teacher), your job isn't just to teach kids how to [add](https://en.wikipedia.org/wiki/Addition) and [subtract](https://en.wikipedia.org/wiki/Subtraction). Your job is to teach them how to become pattern-detectives. So, let’s roll up our sleeves and figure out how to spot, build, and connect these mathematical rhythms. 
 
 ---
 
@@ -12,19 +12,19 @@ As a future elementary school teacher, your job isn't just to teach kids how to 
 
 Before we can identify relationships, we need to know exactly what we are looking at. What *is* a pattern, really? 
 
-> A **mathematical pattern** is an ordered set of numbers, shapes, or objects arranged according to a specific, predictable rule. 
+> A **[mathematical pattern](https://en.wikipedia.org/wiki/Pattern)** is an ordered set of numbers, shapes, or objects arranged according to a specific, predictable rule. 
 
 The keyword there is *predictable*. If it's just a random pile of numbers—like the winning lottery tickets from last week—it’s not a pattern. There must be an underlying rule driving it. 
 
 Now, when you lay out this ordered set, each individual piece inside it has a name. 
-> Each individual number, shape, or object within a mathematical pattern is called a **term**.
+> Each individual number, shape, or object within a mathematical pattern is called a **[term](https://en.wikipedia.org/wiki/Term_%28mathematics%29)**.
 
 ### Visualizing the World: Shape Patterns
-When you are teaching elementary math, you don't start with abstract equations. You start with things you can see and touch. You start with shapes. 
+When you are teaching elementary math, you don't start with abstract [equations](https://en.wikipedia.org/wiki/Equation). You start with things you can see and touch. You start with shapes. 
 
-There are two major ways shapes can behave in a sequence:
-1. **Repeating shape patterns:** Imagine looking at the tiles on a kitchen floor. A repeating shape pattern consists of a core group of shapes that duplicates continuously in the exact same sequence. *Square, circle, triangle, square, circle, triangle.* The rule here is simple duplication. 
-2. **Growing shape patterns:** This is where things get dynamic. A growing shape pattern is a sequence of shapes that increases or decreases in size or quantity according to a specific mathematical rule. Imagine a staircase made of blocks. The first step uses 1 block, the second step uses 3 blocks, the third uses 6 blocks. The shapes aren't just repeating; they are *evolving* mathematically!
+There are two major ways shapes can behave in a [sequence](https://en.wikipedia.org/wiki/Sequence):
+1. **Repeating shape patterns:** Imagine looking at the [tiles](https://en.wikipedia.org/wiki/Tessellation) on a kitchen floor. A repeating shape pattern consists of a core group of shapes that duplicates continuously in the exact same sequence. *Square, [circle](https://en.wikipedia.org/wiki/Circle), [triangle](https://en.wikipedia.org/wiki/Triangle), square, circle, triangle.* The rule here is simple duplication. 
+2. **Growing shape patterns:** This is where things get dynamic. A growing shape pattern is a sequence of shapes that increases or decreases in size or [quantity](https://en.wikipedia.org/wiki/Quantity) according to a specific mathematical rule. Imagine a staircase made of blocks. The first step uses 1 block, the second step uses 3 blocks, the third uses 6 blocks. The shapes aren't just repeating; they are *evolving* mathematically!
 
 ---
 
@@ -33,7 +33,7 @@ There are two major ways shapes can behave in a sequence:
 When we transition from shapes to pure numbers, we enter the realm of numerical sequences. Almost all the basic numerical patterns you will encounter fall into one of two great families. 
 
 ### 1. Arithmetic Sequences (The Staircase)
-Imagine you are walking up a steady staircase. Every step you take moves you upward by the exact same distance. This is the essence of arithmetic. 
+Imagine you are walking up a steady staircase. Every step you take moves you upward by the exact same distance. This is the essence of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic). 
 
 > An **arithmetic sequence** is a numerical pattern where each consecutive term is found by adding a constant value to the previous term. 
 
@@ -44,13 +44,13 @@ That constant, unchanging value that you add or subtract to find the next term i
 *   *Example:* 20, 16, 12, 8... (The common difference is -4)
 
 ### 2. Geometric Sequences (The Rocket Ship)
-Now, what if instead of taking steady steps, your progress multiplied with every jump? You double your speed, then double it again, then double it again. This isn't a staircase anymore; it's a rocket ship.
+Now, what if instead of taking steady steps, your progress [multiplied](https://en.wikipedia.org/wiki/Multiplication) with every jump? You double your speed, then double it again, then double it again. This isn't a staircase anymore; it's a [rocket ship](https://en.wikipedia.org/wiki/Rocket).
 
-> A **geometric sequence** is a numerical pattern where each consecutive term is found by multiplying the previous term by a constant value. 
+> A **[geometric sequence](https://en.wikipedia.org/wiki/Geometric_progression)** is a numerical pattern where each consecutive term is found by multiplying the previous term by a constant value. 
 
-Just like arithmetic sequences can decrease, so can geometric sequences. A geometric sequence can also be generated by **dividing the previous term** by a constant value. 
+Just like arithmetic sequences can decrease, so can geometric sequences. A geometric sequence can also be generated by **[dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the previous term** by a constant value. 
 
-The constant value you use to multiply or divide the terms in a geometric sequence is called the **common ratio**.
+The constant value you use to multiply or divide the terms in a geometric sequence is called the **[common ratio](https://en.wikipedia.org/wiki/Geometric_progression)**.
 *   *Example:* 3, 6, 12, 24... (The common ratio is ×2)
 *   *Example:* 100, 50, 25, 12.5... (The common ratio is ÷2)
 
@@ -62,23 +62,23 @@ Some patterns are so historically significant and beautifully elegant that they 
 
 ### Square Numbers
 Think of a square grid of dots. A 1x1 grid, a 2x2 grid, a 3x3 grid. 
-> **Square numbers** form a numerical pattern where every term is the mathematical product of an integer multiplied by itself. 
+> **[Square numbers](https://en.wikipedia.org/wiki/Square_number)** form a numerical pattern where every term is the mathematical [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of an [integer](https://en.wikipedia.org/wiki/Integer) multiplied by itself. 
 
 Because we are just multiplying integers by themselves ($1 \times 1$, $2 \times 2$, $3 \times 3$), the sequence of square numbers begins with the terms **1, 4, 9, 16, 25, and 36**. 
 
 ### Triangular Numbers
 What if you stacked dots to make equilateral triangles instead of squares? 
-> **Triangular numbers** form a numerical pattern representing the total number of dots required to construct progressively larger equilateral triangles. 
+> **[Triangular numbers](https://en.wikipedia.org/wiki/Triangular_number)** form a numerical pattern representing the total number of dots required to construct progressively larger equilateral triangles. 
 
 If you build an equilateral triangle, your first "triangle" is just 1 dot. To make the next biggest triangle, you add a row of 2 dots underneath it (making 3). To make the next, you add a row of 3 dots underneath that (making 6). Therefore, the sequence of triangular numbers begins with the terms **1, 3, 6, 10, 15, and 21**. 
 
 ### The Fibonacci Sequence
-Ah, Fibonacci! The darling of biologists and mathematicians alike. 
-> The **Fibonacci sequence** is a numerical pattern where each term is calculated as the sum of the two immediately preceding terms. 
+Ah, Fibonacci! The darling of [biologists](https://en.wikipedia.org/wiki/Biologist) and mathematicians alike. 
+> The **[Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)** is a numerical pattern where each term is calculated as the [sum](https://en.wikipedia.org/wiki/Summation) of the two immediately preceding terms. 
 
 Because you have to add two numbers to get the *next* number, you have to start with two numbers. The standard Fibonacci sequence begins with the numbers **0, 1, 1, 2, 3, 5, and 8**. 
 *(0+1=1, 1+1=2, 1+2=3, 2+3=5, 3+5=8...)* 
-Look at a pinecone, look at the spiral of a nautilus shell, count the petals on a daisy. The Fibonacci sequence is everywhere in nature!
+Look at a [pinecone](https://en.wikipedia.org/wiki/Conifer_cone), look at the [spiral](https://en.wikipedia.org/wiki/Spiral) of a [nautilus](https://en.wikipedia.org/wiki/Nautilus) shell, count the petals on a daisy. The Fibonacci sequence is everywhere in [nature](https://en.wikipedia.org/wiki/Nature)!
 
 ---
 
@@ -87,7 +87,7 @@ Look at a pinecone, look at the spiral of a nautilus shell, count the petals on 
 How do we actually figure out what the 100th term in a sequence is going to be? We have to figure out the rule. And there are two fundamentally different ways to think about rules in mathematics.
 
 ### The Two Types of Rules
-1. **Recursive Rules (The Stepping Stones)**
+1. **[Recursive Rules](https://en.wikipedia.org/wiki/Recursion) (The Stepping Stones)**
    > A **recursive rule** defines the next term in a sequence based entirely on the mathematical value of the immediately preceding term. 
    
    If I tell you the rule is "add 5 to the previous number," that's recursive. It's easy to understand, but it has a massive flaw: if you want to know the 100th term, you *must* figure out the 99th term first. You have to jump on every single stepping stone to cross the river.
@@ -104,17 +104,17 @@ When you ask your students to find a rule, they are going to do something wonder
 
 A conjecture is a hunch. It’s a student saying, "I looked at the first four terms, and I *think* the pattern is doubling!" 
 
-But a hunch isn't enough in math. We must test it. Once we prove it works, we formulate a **mathematical generalization**. A mathematical generalization involves creating an overarching algebraic formula or rule that correctly applies to *all* terms within a given sequence. We go from "I think it doubles" to writing the ironclad explicit rule $y = 2x$. 
+But a hunch isn't enough in math. We must test it. Once we prove it works, we formulate a **[mathematical generalization](https://en.wikipedia.org/wiki/Generalization)**. A mathematical generalization involves creating an overarching algebraic formula or rule that correctly applies to *all* terms within a given sequence. We go from "I think it doubles" to writing the ironclad explicit rule $y = 2x$. 
 
 ---
 
 ## Function Tables: The Input-Output Machines
 
-One of the most powerful tools for organizing and making sense of explicit rules is the function table. I want you to imagine a machine—a mathematical black box. You drop a number in the top (the input), the machine whirs and clanks, and it spits a new number out the bottom (the output). 
+One of the most powerful tools for organizing and making sense of explicit rules is the function table. I want you to imagine a [machine](https://en.wikipedia.org/wiki/Machine)—a mathematical black box. You drop a number in the top (the input), the machine whirs and clanks, and it spits a new number out the bottom (the output). 
 
-> An **input-output rule** describes the specific mathematical operation applied to a starting input value to produce the corresponding output value.
+> An **input-output rule** describes the specific mathematical [operation](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) applied to a starting input value to produce the corresponding output value.
 
-To keep track of what this machine is doing, we use a table. A **function table** organizes input and output values to demonstrate the mathematical relationship between two variables. 
+To keep track of what this machine is doing, we use a table. A **function table** organizes input and output values to demonstrate the mathematical relationship between two [variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29). 
 
 | Input ($x$) | Output ($y$) |
 | :---: | :---: |
@@ -150,14 +150,14 @@ Do you see the magic hiding in there? Look closely at the relationship between t
 ### Making it Visual: Graphing
 It’s one thing to see the numbers in a table, but our brains are deeply visual. We can actually *draw* this relationship! 
 
-To do this, corresponding terms from two different numerical patterns can be paired together and written as an **ordered pair** for graphing. For our patterns above, we would write them as $(x, y)$ coordinates: $(0,0)$, $(2,4)$, $(4,8)$, $(6,12)$.
+To do this, corresponding terms from two different numerical patterns can be paired together and written as an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair)** for [graphing](https://en.wikipedia.org/wiki/Graph_of_a_function). For our patterns above, we would write them as $(x, y)$ [coordinates](https://en.wikipedia.org/wiki/Cartesian_coordinate_system): $(0,0)$, $(2,4)$, $(4,8)$, $(6,12)$.
 
-Graphing ordered pairs generated from two numerical patterns onto a coordinate plane visually demonstrates the proportional or algebraic relationship between the sequences. When you plot those points, they form a perfectly straight line angling up to the right. The steepness of that line visually screams out the relationship!
+Graphing ordered pairs generated from two numerical patterns onto a [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) visually demonstrates the [proportional](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) or algebraic relationship between the sequences. When you plot those points, they form a perfectly straight [line](https://en.wikipedia.org/wiki/Line_%28geometry%29) angling up to the right. The steepness of that line visually screams out the relationship!
 
 ---
 
 ## Final Thoughts for the Classroom
 
-When you stand in front of your future students, remember that patterns are not just a chapter in a textbook. They are the scaffolding of human logic. Whether it’s figuring out the recursive rule of a staircase block pattern, making a conjecture about Fibonacci numbers, or graphing function tables on a coordinate plane, you are teaching them how to predict the universe. 
+When you stand in front of your future students, remember that patterns are not just a chapter in a textbook. They are the scaffolding of human [logic](https://en.wikipedia.org/wiki/Logic). Whether it’s figuring out the recursive rule of a staircase block pattern, making a conjecture about Fibonacci numbers, or graphing function tables on a coordinate plane, you are teaching them how to predict the universe. 
 
 You are giving them the ultimate superpower. Teach it with energy, teach it with joy, and always keep an eye out for the next term in the sequence!

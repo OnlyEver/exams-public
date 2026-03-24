@@ -1,54 +1,54 @@
-Imagine trying to write down the exact number of stars in the observable universe, or the precise distance to the nearest grocery store, or the exact amount of money in your bank account right now. 
+Imagine trying to write down the exact number of [stars](https://en.wikipedia.org/wiki/Star) in the [observable universe](https://en.wikipedia.org/wiki/Observable_universe), or the precise distance to the nearest grocery store, or the exact amount of money in your bank account right now. 
 
-Now imagine having to invent a brand new symbol for every single number. It would be chaos! You’d spend your entire life just memorizing squiggles. 
+Now imagine having to invent a brand new [symbol](https://en.wikipedia.org/wiki/Symbol) for every single number. It would be chaos! You’d spend your entire life just memorizing squiggles. 
 
-Historically, humanity solved this problem by inventing something astonishingly beautiful and elegant: **the base-10 numeral system**. As an elementary educator, this system is the beating heart of everything you will teach in math. It is the invisible machinery that allows us to count, calculate, and comprehend the universe using only a handful of symbols. 
+Historically, humanity solved this problem by inventing something astonishingly beautiful and elegant: **the [base-10 numeral system](https://en.wikipedia.org/wiki/Decimal)**. As an elementary [educator](https://en.wikipedia.org/wiki/Teacher), this system is the beating heart of everything you will teach in [math](https://en.wikipedia.org/wiki/Mathematics). It is the invisible machinery that allows us to [count](https://en.wikipedia.org/wiki/Counting), [calculate](https://en.wikipedia.org/wiki/Calculation), and comprehend the [universe](https://en.wikipedia.org/wiki/Universe) using only a handful of symbols. 
 
-Let’s lift the hood on this machine, see how the gears turn, and get you perfectly calibrated for the Praxis exam.
+Let’s lift the hood on this machine, see how the gears turn, and get you perfectly calibrated for the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test).
 
 ---
 
 ## The Engine of Base-10: Position is Everything
 
-At its core, **the base-10 numeral system uses ten distinct digits from 0 through 9 to represent numbers.** That’s it. Just ten symbols. How do we build infinity out of ten symbols? We use space. We use *position*. 
+At its core, **the base-10 numeral system uses ten distinct [digits](https://en.wikipedia.org/wiki/Numerical_digit) from [0](https://en.wikipedia.org/wiki/0) through [9](https://en.wikipedia.org/wiki/9) to represent numbers.** That’s it. Just ten symbols. How do we build [infinity](https://en.wikipedia.org/wiki/Infinity) out of ten symbols? We use space. We use *position*. 
 
-The single most important concept in our number system is this: **The position of a digit in a number determines the mathematical value of that digit.** 
+The single most important concept in our [number system](https://en.wikipedia.org/wiki/Numeral_system) is this: **The position of a digit in a number determines the mathematical value of that digit.** 
 
-If you write a "7", it means seven ones. But if you slide that "7" one space to the left and write a "0" behind it to get "70", it suddenly means seven *tens*. The symbol didn't change, but its real estate did. 
+If you write a "[7](https://en.wikipedia.org/wiki/7)", it means seven ones. But if you slide that "7" one space to the left and write a "0" behind it to get "70", it suddenly means seven *tens*. The symbol didn't change, but its [real estate](https://en.wikipedia.org/wiki/Real_estate) did. 
 
 ### The 10x / One-Tenth Rule
 
-Think of place value positions as a series of connected gears, where every gear is exactly ten times larger than the one next to it. **In the base-10 system, each place value is ten times greater than the place value immediately to its right.**
+Think of [place value](https://en.wikipedia.org/wiki/Positional_notation) positions as a series of connected gears, where every gear is exactly ten times larger than the one next to it. **In the base-10 system, each place value is ten times greater than the place value immediately to its right.**
 
-Because the place values themselves scale by tens, the digits living in those places behave the exact same way. Let's look at the number **444**.
+Because the place values themselves scale by tens, the digits living in those places behave the exact same way. Let's look at the number **[444](https://en.wikipedia.org/wiki/400_%28number%29)**.
 
 > **The Golden Rule of Base-10 Positional Value**
-> *   **Moving Left:** A digit in one place value position represents **ten times the value** of the exact same digit in the position immediately to its right. (The 4 in the hundreds place is worth 400, which is exactly $10 \times 40$).
+> *   **Moving Left:** A digit in one place value position represents **ten times the value** of the exact same digit in the position immediately to its right. (The 4 in the hundreds place is worth [400](https://en.wikipedia.org/wiki/400_%28number%29), which is exactly $10 \times 40$).
 > *   **Moving Right:** A digit in one place value position represents **one-tenth of the value** of the exact same digit in the position immediately to its left. (The 4 in the ones place is worth 4, which is exactly $\frac{1}{10}$ of 40).
 
-When you teach this to your students, make them see the *movement*. A digit stepping to the left is growing by a factor of 10. A digit stepping to the right is shrinking by a factor of 10.
+When you teach this to your students, make them see the *movement*. A digit stepping to the left is growing by a [factor](https://en.wikipedia.org/wiki/Divisor) of 10. A digit stepping to the right is shrinking by a factor of 10.
 
 ---
 
 ## Speaking the Language of Numbers: Three Forms
 
-As a teacher, you need to show students how to translate the mathematical idea of a quantity into written language. There are three primary ways we write numbers, and they act like different lenses on a camera. 
+As a teacher, you need to show students how to translate the mathematical idea of a [quantity](https://en.wikipedia.org/wiki/Quantity) into [written language](https://en.wikipedia.org/wiki/Written_language). There are three primary ways we write numbers, and they act like different lenses on a [camera](https://en.wikipedia.org/wiki/Camera). 
 
 | Form | Definition | Example |
 | :--- | :--- | :--- |
-| **Standard Form** | A method of writing numbers using standard base-10 numerals. This is the everyday, compact way we write numbers. | **3,258** |
-| **Word Form** | Expresses numerical values using written alphabetical words instead of numerals. We literally spell out how the number sounds when spoken aloud. | **Three thousand, two hundred fifty-eight** |
-| **Expanded Form** | Represents a number as the addition of the specific mathematical values of all its individual digits. It stretches the number out like an accordion to show what it's really made of. | **$3,000 + 200 + 50 + 8$** |
+| **[Standard Form](https://en.wikipedia.org/wiki/Canonical_form)** | A method of writing numbers using standard base-10 numerals. This is the everyday, compact way we write numbers. | **3,258** |
+| **Word Form** | Expresses numerical values using written [alphabetical words](https://en.wikipedia.org/wiki/Word) instead of numerals. We literally spell out how the number sounds when [spoken](https://en.wikipedia.org/wiki/Speech) aloud. | **Three thousand, two hundred fifty-eight** |
+| **Expanded Form** | Represents a number as the [addition](https://en.wikipedia.org/wiki/Addition) of the specific mathematical values of all its individual digits. It stretches the number out like an [accordion](https://en.wikipedia.org/wiki/Accordion) to show what it's really made of. | **$3,000 + 200 + 50 + 8$** |
 
-Expanded form is particularly crucial because it forces the brain to acknowledge that the "3" in 3,258 isn't just a 3—it's hiding three whole thousands inside of it. 
+Expanded form is particularly crucial because it forces the [brain](https://en.wikipedia.org/wiki/Brain) to acknowledge that the "3" in 3,258 isn't just a 3—it's hiding three whole thousands inside of it. 
 
 ---
 
 ## The Power of 10: Unleashing Exponents
 
-As numbers get massive, writing out standard form gets tedious. Imagine writing $1,000,000,000,000$ over and over. Mathematicians hate inefficiency, so they invented exponents. 
+As numbers get massive, writing out standard form gets tedious. Imagine writing $1,000,000,000,000$ over and over. [Mathematicians](https://en.wikipedia.org/wiki/Mathematician) hate inefficiency, so they invented [exponents](https://en.wikipedia.org/wiki/Exponentiation). 
 
-An **exponent** indicates the total number of times a base number is multiplied by itself. When our base is 10, we call it a **power of 10**, which consists of the base number 10 raised to a specific whole-number exponent.
+An **exponent** indicates the total number of times a base number is multiplied by itself. When our base is 10, we call it a **[power of 10](https://en.wikipedia.org/wiki/Power_of_10)**, which consists of the base number 10 raised to a specific [whole-number](https://en.wikipedia.org/wiki/Integer) exponent.
 
 ### The "Counting Zeros" Trick
 
@@ -59,7 +59,7 @@ Let's look at the foundational powers of 10 you must know:
 *   **$10^0 = 1$** (Ten to the power of zero equals the number 1. Zero zeros after the 1!)
 *   **$10^1 = 10$** (Ten to the power of one equals the number 10. Exactly one zero.)
 *   **$10^2 = 100$** (Ten to the power of two equals the number 100. Two zeros.)
-*   **$10^3 = 1,000$** (Ten to the power of three equals the number 1,000. Three zeros.)
+*   **$10^3 = 1,000$** (Ten to the power of three equals the number [1,000](https://en.wikipedia.org/wiki/1000_%28number%29). Three zeros.)
 
 So, if you see $10^6$, you instantly know it's a 1 followed by six zeros: $1,000,000$. 
 
@@ -67,15 +67,15 @@ So, if you see $10^6$, you instantly know it's a 1 followed by six zeros: $1,000
 
 ## The Decimal Dance: Multiplying and Dividing by Powers of 10
 
-When you multiply or divide by 10 (or $100$, or $1,000$), you aren't really "doing math" in the traditional, hard-computation sense. You are simply shifting the machinery. 
+When you multiply or [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) by 10 (or $100$, or $1,000$), you aren't really "doing math" in the traditional, hard-[computation](https://en.wikipedia.org/wiki/Computation) sense. You are simply shifting the machinery. 
 
 ### Working with Whole Numbers (Shifting Digits)
-Imagine the digits of a number are sitting in chairs (place values). 
+Imagine the digits of a number are sitting in [chairs](https://en.wikipedia.org/wiki/Chair) (place values). 
 *   **Multiplying a number by 10 shifts every digit in that number one place value position to the left.** The number gets larger. (e.g., 45 becomes 450. The 4 shifted from the tens to the hundreds).
 *   **Dividing a number by 10 shifts every digit in that number one place value position to the right.** The number gets smaller. (e.g., 450 becomes 45).
 
 ### Working with Decimals (Moving the Point)
-When dealing with decimals, it's often easier to think about moving the decimal point itself rather than shifting all the digits.
+When dealing with [decimals](https://en.wikipedia.org/wiki/Decimal), it's often easier to think about moving the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) itself rather than shifting all the digits.
 
 > **The Decimal Movement Rule**
 > *   **Multiplication:** Multiplying a decimal number by a power of 10 moves the decimal point to the **right** by the number of zeros in the power of 10. (e.g., $4.56 \times 10^2$. $10^2$ has two zeros. Move the decimal two spots right: **456.**)
@@ -87,7 +87,7 @@ When dealing with decimals, it's often easier to think about moving the decimal 
 
 ## The Art of Approximation: Rounding Numbers
 
-Sometimes, the precise truth is too much information. If a stadium holds 54,982 people, we might just say "about 55,000." **Rounding is a mathematical process used to approximate a number to a specific place value.** 
+Sometimes, the precise [truth](https://en.wikipedia.org/wiki/Truth) is too much information. If a [stadium](https://en.wikipedia.org/wiki/Stadium) holds 54,982 people, we might just say "about 55,000." **[Rounding](https://en.wikipedia.org/wiki/Rounding) is a mathematical process used to [approximate](https://en.wikipedia.org/wiki/Approximation) a number to a specific place value.** 
 
 To round correctly every single time, you have to find your target, and then look at its next-door neighbor.
 
@@ -105,13 +105,13 @@ Once you've adjusted (or left alone) your target digit, you have to clean up the
 
 *   **Whole Numbers:** **All digits to the right of the target rounding digit in a whole number turn into zeros after the rounding process.** 
     *   *Example:* Round 4,**3**72 to the nearest hundred. The target is 3. The neighbor is 7. Raise the score! The 3 becomes a 4, and the right-side digits turn to zeros. *Result: 4,400.*
-*   **Decimals:** **All digits to the right of the target rounding digit in a decimal number are completely removed after the rounding process.** We don't write trailing zeros in decimals because they imply an inaccurate level of precision.
+*   **Decimals:** **All digits to the right of the target rounding digit in a decimal number are completely removed after the rounding process.** We don't write [trailing zeros](https://en.wikipedia.org/wiki/Trailing_zero) in decimals because they imply an inaccurate level of [precision](https://en.wikipedia.org/wiki/Accuracy_and_precision).
     *   *Example:* Round 8.**4**2 to the nearest tenth. The target is 4. The neighbor is 2. Let it rest! The 4 stays the same, and the right-side digits are chopped off. *Result: 8.4.* (Not 8.40).
 
 ---
 
 ## Final Thoughts for the Praxis
 
-When you sit down for the Praxis, don't let base-10 questions intimidate you. They aren't asking you to do complex calculus; they are testing your understanding of *structure*. 
+When you sit down for the Praxis, don't let base-10 questions intimidate you. They aren't asking you to do complex calculus; they are testing your understanding of *[structure](https://en.wikipedia.org/wiki/Structure)*. 
 
-Remember the gear mechanism. Remember that moving left multiplies by 10, and moving right divides by 10. Remember that exponents just count the zeros. If you understand the fundamental architecture of the base-10 system, you won't just pass the test—you'll have the power to make mathematics intuitive and beautiful for every student who sits in your future classroom.
+Remember the gear mechanism. Remember that moving left multiplies by 10, and moving right divides by 10. Remember that exponents just count the zeros. If you understand the fundamental [architecture](https://en.wikipedia.org/wiki/Architecture) of the base-10 system, you won't just pass the test—you'll have the power to make mathematics [intuitive](https://en.wikipedia.org/wiki/Intuition) and beautiful for every student who sits in your future [classroom](https://en.wikipedia.org/wiki/Classroom).

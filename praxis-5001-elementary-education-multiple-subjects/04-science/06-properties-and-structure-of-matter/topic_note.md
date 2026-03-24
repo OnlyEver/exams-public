@@ -1,164 +1,164 @@
-# The Architecture of Everything: A Masterclass on the Properties and Structure of Matter
+# The Architecture of Everything: A Masterclass on the Properties and Structure of [Matter](https://en.wikipedia.org/wiki/Matter)
 
-I want you to look around the room right now. Look at your desk, the air you are breathing, the cup of coffee you might be holding, and even your own hands. Everything you see, feel, and interact with is part of a grand, intricate cosmic puzzle. In science, we call the pieces of this puzzle **matter**. 
+I want you to look around the room right now. Look at your desk, the [air](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) you are breathing, the cup of coffee you might be holding, and even your own hands. Everything you see, feel, and interact with is part of a grand, intricate [cosmic](https://en.wikipedia.org/wiki/Universe) puzzle. In [science](https://en.wikipedia.org/wiki/Science), we call the pieces of this puzzle **[matter](https://en.wikipedia.org/wiki/Matter)**. 
 
-By definition, **matter is defined as anything that has mass and takes up space**. And to truly understand how the universe works—and to teach it to a bright-eyed elementary student—we have to look closely. We have to peer down into the very rules of the game. 
+By definition, **[matter](https://en.wikipedia.org/wiki/Matter) is defined as anything that has [mass](https://en.wikipedia.org/wiki/Mass) and takes up [space](https://en.wikipedia.org/wiki/Space)**. And to truly understand how the [universe](https://en.wikipedia.org/wiki/Universe) works—and to teach it to a bright-eyed elementary student—we have to look closely. We have to peer down into the very rules of the game. 
 
-Welcome to the ultimate guide to the Properties and Structure of Matter for your Praxis Elementary Education exam. Let’s figure out how nature builds its masterpieces.
+Welcome to the ultimate guide to the Properties and Structure of [Matter](https://en.wikipedia.org/wiki/Matter) for your [Praxis](https://en.wikipedia.org/wiki/Praxis_test) Elementary Education exam. Let’s figure out how nature builds its masterpieces.
 
 ---
 
-## 1. The Building Blocks: Atoms, Elements, and Compounds
+## 1. The Building Blocks: [Atoms](https://en.wikipedia.org/wiki/Atom), [Elements](https://en.wikipedia.org/wiki/Chemical_element), and [Compounds](https://en.wikipedia.org/wiki/Chemical_compound)
 
-### Inside the Atom: The Illusion of Solidity
-If you take any piece of matter and chop it in half over and over again until you can't chop it anymore, you arrive at the fundamental Lego blocks of the universe. **All matter is composed of tiny fundamental particles called atoms**. 
+### Inside the [Atom](https://en.wikipedia.org/wiki/Atom): The Illusion of Solidity
+If you take any piece of [matter](https://en.wikipedia.org/wiki/Matter) and chop it in half over and over again until you can't chop it anymore, you arrive at the fundamental [Lego](https://en.wikipedia.org/wiki/Lego) blocks of the [universe](https://en.wikipedia.org/wiki/Universe). **All [matter](https://en.wikipedia.org/wiki/Matter) is composed of tiny fundamental particles called [atoms](https://en.wikipedia.org/wiki/Atom)**. 
 
-An **atom is the smallest unit of an element that retains the chemical properties of that element**. But an atom isn’t just a solid billiard ball. It has a beautiful, deeply organized structure. 
+An **[atom](https://en.wikipedia.org/wiki/Atom) is the smallest unit of an [element](https://en.wikipedia.org/wiki/Chemical_element) that retains the [chemical properties](https://en.wikipedia.org/wiki/Chemical_property) of that element**. But an [atom](https://en.wikipedia.org/wiki/Atom) isn’t just a solid billiard ball. It has a beautiful, deeply organized structure. 
 
-Imagine a massive football stadium. Right at the fifty-yard line sits a tiny, dense marble. That marble is the **nucleus**, the small, dense, positively charged center of an atom. The nucleus contains two types of heavy subatomic particles:
-*   **Protons**: Subatomic particles with a positive electrical charge located inside the nucleus.
-*   **Neutrons**: Subatomic particles with no electrical charge, also located inside the nucleus. 
+Imagine a massive [football stadium](https://en.wikipedia.org/wiki/Stadium). Right at the fifty-yard line sits a tiny, dense marble. That marble is the **nucleus**, the small, dense, positively charged center of an [atom](https://en.wikipedia.org/wiki/Atom). The nucleus contains two types of heavy [subatomic particles](https://en.wikipedia.org/wiki/Subatomic_particle):
+*   **[Protons](https://en.wikipedia.org/wiki/Proton)**: [Subatomic particles](https://en.wikipedia.org/wiki/Subatomic_particle) with a positive [electrical charge](https://en.wikipedia.org/wiki/Electric_charge) located inside the nucleus.
+*   **[Neutrons](https://en.wikipedia.org/wiki/Neutron)**: [Subatomic particles](https://en.wikipedia.org/wiki/Subatomic_particle) with no [electrical charge](https://en.wikipedia.org/wiki/Electric_charge), also located inside the nucleus. 
 
-Both protons and neutrons have real heft to them—in the atomic world, anyway. **Protons have a mass of approximately one atomic mass unit (amu)**, and **neutrons have a mass of approximately one atomic mass unit** as well. Because of this, **most of the mass of an atom is concentrated in the nucleus**.
+Both [protons](https://en.wikipedia.org/wiki/Proton) and [neutrons](https://en.wikipedia.org/wiki/Neutron) have real heft to them—in the [atomic](https://en.wikipedia.org/wiki/Atom) world, anyway. **[Protons](https://en.wikipedia.org/wiki/Proton) have a [mass](https://en.wikipedia.org/wiki/Mass) of approximately one [atomic mass unit](https://en.wikipedia.org/wiki/Dalton_%28unit%29) (amu)**, and **[neutrons](https://en.wikipedia.org/wiki/Neutron) have a [mass](https://en.wikipedia.org/wiki/Mass) of approximately one [atomic mass unit](https://en.wikipedia.org/wiki/Dalton_%28unit%29)** as well. Because of this, **most of the [mass](https://en.wikipedia.org/wiki/Mass) of an [atom](https://en.wikipedia.org/wiki/Atom) is concentrated in the nucleus**.
 
-Now, what about the rest of the stadium? Whizzing around the outer bleachers are the **electrons**. An **electron is a subatomic particle with a negative electrical charge**. These **electrons orbit the nucleus of an atom in regions called electron clouds or shells**. 
+Now, what about the rest of the stadium? Whizzing around the outer bleachers are the **[electrons](https://en.wikipedia.org/wiki/Electron)**. An **[electron](https://en.wikipedia.org/wiki/Electron) is a [subatomic particle](https://en.wikipedia.org/wiki/Subatomic_particle) with a negative [electrical charge](https://en.wikipedia.org/wiki/Electric_charge)**. These **[electrons](https://en.wikipedia.org/wiki/Electron) orbit the nucleus of an [atom](https://en.wikipedia.org/wiki/Atom) in regions called [electron clouds](https://en.wikipedia.org/wiki/Atomic_orbital) or [shells](https://en.wikipedia.org/wiki/Electron_shell)**. 
 
-Here is the kicker: **The mass of an electron is roughly 1/1836th the mass of a proton**. They are incredibly light! Because the electron clouds are so vast compared to the tiny nucleus, **most of the volume of an atom consists of empty space in the electron cloud**. The desk you are touching? It’s mostly empty space! Nature is playing a wonderful trick on us.
+Here is the kicker: **The [mass](https://en.wikipedia.org/wiki/Mass) of an [electron](https://en.wikipedia.org/wiki/Electron) is roughly 1/1836th the [mass](https://en.wikipedia.org/wiki/Mass) of a [proton](https://en.wikipedia.org/wiki/Proton)**. They are incredibly light! Because the [electron clouds](https://en.wikipedia.org/wiki/Atomic_orbital) are so vast compared to the tiny nucleus, **most of the [volume](https://en.wikipedia.org/wiki/Volume) of an [atom](https://en.wikipedia.org/wiki/Atom) consists of empty space in the electron cloud**. The desk you are touching? It’s mostly empty space! Nature is playing a wonderful trick on us.
 
-### The Numbers Game: Identity and Isotopes
-How do we tell one atom from another? It all comes down to counting.
-*   **Atomic Number**: This is the VIP badge of an atom. **The atomic number of an element is equal to the number of protons in the atoms of that element**. In fact, **the number of protons determines the elemental identity of an atom**. Change the protons, you change the element completely.
-*   **Mass Number**: Since electrons weigh almost nothing, we find the "weight" of the atom by looking at the heavy lifting in the center. **The mass number of an atom is the sum of the protons and neutrons in the atom**.
-*   **Isotopes**: What if two atoms have the same number of protons (so they are the same element) but a different number of neutrons? We call these **isotopes**. **Isotopes are atoms of the same element that have different numbers of neutrons**.
-*   **Ions**: Normally, atoms are electrically neutral (equal protons and electrons). But sometimes they interact and swap parts. **Ions are atoms that have gained or lost electrons to acquire a net electrical charge**. 
+### The Numbers Game: Identity and [Isotopes](https://en.wikipedia.org/wiki/Isotope)
+How do we tell one [atom](https://en.wikipedia.org/wiki/Atom) from another? It all comes down to counting.
+*   **[Atomic Number](https://en.wikipedia.org/wiki/Atomic_number)**: This is the VIP badge of an [atom](https://en.wikipedia.org/wiki/Atom). **The [atomic number](https://en.wikipedia.org/wiki/Atomic_number) of an [element](https://en.wikipedia.org/wiki/Chemical_element) is equal to the number of [protons](https://en.wikipedia.org/wiki/Proton) in the [atoms](https://en.wikipedia.org/wiki/Atom) of that element**. In fact, **the number of [protons](https://en.wikipedia.org/wiki/Proton) determines the elemental identity of an [atom](https://en.wikipedia.org/wiki/Atom)**. Change the [protons](https://en.wikipedia.org/wiki/Proton), you change the [element](https://en.wikipedia.org/wiki/Chemical_element) completely.
+*   **[Mass Number](https://en.wikipedia.org/wiki/Mass_number)**: Since [electrons](https://en.wikipedia.org/wiki/Electron) weigh almost nothing, we find the "weight" of the [atom](https://en.wikipedia.org/wiki/Atom) by looking at the heavy lifting in the center. **The [mass number](https://en.wikipedia.org/wiki/Mass_number) of an [atom](https://en.wikipedia.org/wiki/Atom) is the sum of the [protons](https://en.wikipedia.org/wiki/Proton) and [neutrons](https://en.wikipedia.org/wiki/Neutron) in the [atom](https://en.wikipedia.org/wiki/Atom)**.
+*   **[Isotopes](https://en.wikipedia.org/wiki/Isotope)**: What if two [atoms](https://en.wikipedia.org/wiki/Atom) have the same number of [protons](https://en.wikipedia.org/wiki/Proton) (so they are the same [element](https://en.wikipedia.org/wiki/Chemical_element)) but a different number of [neutrons](https://en.wikipedia.org/wiki/Neutron)? We call these **[isotopes](https://en.wikipedia.org/wiki/Isotope)**. **[Isotopes](https://en.wikipedia.org/wiki/Isotope) are [atoms](https://en.wikipedia.org/wiki/Atom) of the same [element](https://en.wikipedia.org/wiki/Chemical_element) that have different numbers of [neutrons](https://en.wikipedia.org/wiki/Neutron)**.
+*   **[Ions](https://en.wikipedia.org/wiki/Ion)**: Normally, [atoms](https://en.wikipedia.org/wiki/Atom) are electrically neutral (equal [protons](https://en.wikipedia.org/wiki/Proton) and [electrons](https://en.wikipedia.org/wiki/Electron)). But sometimes they interact and swap parts. **[Ions](https://en.wikipedia.org/wiki/Ion) are [atoms](https://en.wikipedia.org/wiki/Atom) that have gained or lost [electrons](https://en.wikipedia.org/wiki/Electron) to acquire a net [electrical charge](https://en.wikipedia.org/wiki/Electric_charge)**. 
 
-### Elements vs. Compounds
-We’ve been talking about atoms, but atoms rarely like to sit alone. They join up to create the substances we experience.
+### [Elements](https://en.wikipedia.org/wiki/Chemical_element) vs. [Compounds](https://en.wikipedia.org/wiki/Chemical_compound)
+We’ve been talking about [atoms](https://en.wikipedia.org/wiki/Atom), but [atoms](https://en.wikipedia.org/wiki/Atom) rarely like to sit alone. They join up to create the substances we experience.
 
-*   **Elements**: An **element is a pure substance consisting of only one type of atom**. For instance, **gold is an example of an element**. A solid bar of pure gold is just billions of gold atoms sitting together.
-*   **Compounds**: A **compound is a pure substance formed by the chemical combination of two or more different elements in fixed proportions**. Nature takes different elements and snaps them together to make something entirely new. **Water is a compound made of hydrogen and oxygen** (H₂O). 
+*   **[Elements](https://en.wikipedia.org/wiki/Chemical_element)**: An **[element](https://en.wikipedia.org/wiki/Chemical_element) is a pure substance consisting of only one type of [atom](https://en.wikipedia.org/wiki/Atom)**. For instance, **gold is an example of an [element](https://en.wikipedia.org/wiki/Chemical_element)**. A [solid](https://en.wikipedia.org/wiki/Solid) bar of pure gold is just billions of gold [atoms](https://en.wikipedia.org/wiki/Atom) sitting together.
+*   **[Compounds](https://en.wikipedia.org/wiki/Chemical_compound)**: A **[compound](https://en.wikipedia.org/wiki/Chemical_compound) is a pure substance formed by the chemical combination of two or more different [elements](https://en.wikipedia.org/wiki/Chemical_element) in fixed proportions**. Nature takes different [elements](https://en.wikipedia.org/wiki/Chemical_element) and snaps them together to make something entirely new. **[Water](https://en.wikipedia.org/wiki/Water) is a [compound](https://en.wikipedia.org/wiki/Chemical_compound) made of hydrogen and [oxygen](https://en.wikipedia.org/wiki/Oxygen)** (H₂O). 
 
 > **The Magic of Emergence:** 
-> Why do compounds matter? Because **compounds have different physical and chemical properties than their constituent elements**. Think about water. Hydrogen is a highly explosive gas. Oxygen is a gas that fuels fire. But combine them chemically in a fixed 2-to-1 proportion, and you get liquid water—a substance we use to *put out* fires! Nature’s chemistry creates entirely new behaviors.
+> Why do [compounds](https://en.wikipedia.org/wiki/Chemical_compound) matter? Because **[compounds](https://en.wikipedia.org/wiki/Chemical_compound) have different [physical](https://en.wikipedia.org/wiki/Physical_property) and [chemical properties](https://en.wikipedia.org/wiki/Chemical_property) than their constituent [elements](https://en.wikipedia.org/wiki/Chemical_element)**. Think about [water](https://en.wikipedia.org/wiki/Water). Hydrogen is a highly explosive [gas](https://en.wikipedia.org/wiki/Gas). [Oxygen](https://en.wikipedia.org/wiki/Oxygen) is a [gas](https://en.wikipedia.org/wiki/Gas) that fuels [fire](https://en.wikipedia.org/wiki/Fire). But combine them chemically in a fixed 2-to-1 proportion, and you get liquid [water](https://en.wikipedia.org/wiki/Water)—a substance we use to *put out* fires! Nature’s [chemistry](https://en.wikipedia.org/wiki/Chemistry) creates entirely new behaviors.
 
 ---
 
-## 2. Observing the Universe: Physical vs. Chemical Properties
+## 2. Observing the [Universe](https://en.wikipedia.org/wiki/Universe): [Physical](https://en.wikipedia.org/wiki/Physical_property) vs. [Chemical Properties](https://en.wikipedia.org/wiki/Chemical_property)
 
-To describe matter, scientists look at its "properties." You can think of these as a substance's personality traits. We divide them into two categories: what a substance *is* right now, and what it *can become*.
+To describe [matter](https://en.wikipedia.org/wiki/Matter), scientists look at its "properties." You can think of these as a substance's personality traits. We divide them into two categories: what a substance *is* right now, and what it *can become*.
 
-### Physical Properties: Looking Without Changing
-A **physical property is a characteristic of a substance that can be observed without changing the chemical identity of the substance**. You aren't altering the atom's chemical makeup; you are just inspecting it. 
+### [Physical Properties](https://en.wikipedia.org/wiki/Physical_property): Looking Without Changing
+A **[physical property](https://en.wikipedia.org/wiki/Physical_property) is a characteristic of a substance that can be observed without changing the chemical identity of the substance**. You aren't altering the atom's chemical makeup; you are just inspecting it. 
 
-Key physical properties include:
-*   **Mass**: A physical property measuring the amount of matter in an object.
-*   **Volume**: A physical property measuring the amount of three-dimensional space an object occupies.
-*   **Density**: The relationship between mass and volume. **Density is a physical property defined as the mass per unit volume of a substance** (Density = Mass / Volume). 
-*   **Color**: The visual hue of an object. Yes, simply looking at something's **color is classified as a physical property**.
-*   **Melting Point**: **The specific temperature at which a solid becomes a liquid**.
-*   **Boiling Point**: **The specific temperature at which a liquid becomes a gas**.
-*   **Electrical Conductivity**: A physical property describing **how well a substance allows electricity to flow through the substance**.
+Key [physical properties](https://en.wikipedia.org/wiki/Physical_property) include:
+*   **[Mass](https://en.wikipedia.org/wiki/Mass)**: A [physical property](https://en.wikipedia.org/wiki/Physical_property) measuring the amount of [matter](https://en.wikipedia.org/wiki/Matter) in an object.
+*   **[Volume](https://en.wikipedia.org/wiki/Volume)**: A [physical property](https://en.wikipedia.org/wiki/Physical_property) measuring the amount of three-dimensional [space](https://en.wikipedia.org/wiki/Space) an object occupies.
+*   **[Density](https://en.wikipedia.org/wiki/Density)**: The relationship between [mass](https://en.wikipedia.org/wiki/Mass) and [volume](https://en.wikipedia.org/wiki/Volume). **[Density](https://en.wikipedia.org/wiki/Density) is a [physical property](https://en.wikipedia.org/wiki/Physical_property) defined as the [mass](https://en.wikipedia.org/wiki/Mass) per unit [volume](https://en.wikipedia.org/wiki/Volume) of a substance** (Density = Mass / Volume). 
+*   **[Color](https://en.wikipedia.org/wiki/Color)**: The visual [hue](https://en.wikipedia.org/wiki/Hue) of an object. Yes, simply looking at something's **[color](https://en.wikipedia.org/wiki/Color) is classified as a [physical property](https://en.wikipedia.org/wiki/Physical_property)**.
+*   **[Melting Point](https://en.wikipedia.org/wiki/Melting_point)**: **The specific [temperature](https://en.wikipedia.org/wiki/Temperature) at which a [solid](https://en.wikipedia.org/wiki/Solid) becomes a liquid**.
+*   **[Boiling Point](https://en.wikipedia.org/wiki/Boiling_point)**: **The specific [temperature](https://en.wikipedia.org/wiki/Temperature) at which a liquid becomes a [gas](https://en.wikipedia.org/wiki/Gas)**.
+*   **[Electrical Conductivity](https://en.wikipedia.org/wiki/Electrical_resistivity_and_conductivity)**: A [physical property](https://en.wikipedia.org/wiki/Physical_property) describing **how well a substance allows [electricity](https://en.wikipedia.org/wiki/Electricity) to flow through the substance**.
 
-### Chemical Properties: The Potential for Transformation
-A **chemical property describes the ability of a substance to undergo a specific chemical change to form a new substance**. You can only observe a chemical property during a chemical reaction.
+### [Chemical Properties](https://en.wikipedia.org/wiki/Chemical_property): The Potential for Transformation
+A **[chemical property](https://en.wikipedia.org/wiki/Chemical_property) describes the ability of a substance to undergo a specific chemical change to form a new substance**. You can only observe a [chemical property](https://en.wikipedia.org/wiki/Chemical_property) during a [chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction).
 
-Key chemical properties include:
-*   **Flammability**: Indicates **how easily a substance can catch fire**. 
-*   **Reactivity**: Describes **how readily a substance undergoes a chemical reaction with another substance**.
-*   **Toxicity**: Describes **the degree to which a substance can harm living organisms**.
+Key [chemical properties](https://en.wikipedia.org/wiki/Chemical_property) include:
+*   **Flammability**: Indicates **how easily a substance can catch [fire](https://en.wikipedia.org/wiki/Fire)**. 
+*   **Reactivity**: Describes **how readily a substance undergoes a [chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction) with another substance**.
+*   **[Toxicity](https://en.wikipedia.org/wiki/Toxicity)**: Describes **the degree to which a substance can harm living [organisms](https://en.wikipedia.org/wiki/Organism)**.
 
 ---
 
 ## 3. The Dance of the Particles: States of Matter
 
-Why is ice hard, water wet, and steam invisible? It's all about energy and movement. **The four fundamental states of matter are solid, liquid, gas, and plasma**.
+Why is [ice](https://en.wikipedia.org/wiki/Ice) hard, [water](https://en.wikipedia.org/wiki/Water) wet, and [steam](https://en.wikipedia.org/wiki/Steam) invisible? It's all about [energy](https://en.wikipedia.org/wiki/Energy) and movement. **The four fundamental states of matter are [solid](https://en.wikipedia.org/wiki/Solid), liquid, [gas](https://en.wikipedia.org/wiki/Gas), and [plasma](https://en.wikipedia.org/wiki/Plasma_%28physics%29)**.
 
-The secret to moving between these states is thermal energy (heat). **Adding thermal energy to a substance increases the kinetic energy of the particles in the substance**, making them move faster and spread apart. Conversely, **removing thermal energy from a substance decreases the kinetic energy of the particles in the substance**, slowing them down.
+The secret to moving between these states is [thermal energy](https://en.wikipedia.org/wiki/Thermal_energy) (heat). **Adding [thermal energy](https://en.wikipedia.org/wiki/Thermal_energy) to a substance increases the [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) of the particles in the substance**, making them move faster and spread apart. Conversely, **removing [thermal energy](https://en.wikipedia.org/wiki/Thermal_energy) from a substance decreases the [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) of the particles in the substance**, slowing them down.
 
 Let's look at the properties of each state:
 
 | State of Matter | Shape & Volume | Particle Behavior |
 | :--- | :--- | :--- |
-| **Solid** | **A solid has a definite shape** and **a definite volume**. | **The particles in a solid are tightly packed together in fixed positions**. They essentially vibrate in place. |
-| **Liquid** | **A liquid takes the shape of the container holding the liquid**, but **a liquid has a definite volume**. | **The particles in a liquid are close together**, but they have enough kinetic energy that they **can slide past one another freely**. |
-| **Gas** | **A gas does not have a definite shape** and **does not have a definite volume**. It expands to fill its container. | **The particles in a gas are widely spaced** and **move rapidly in all directions**. |
-| **Plasma** | No definite shape or volume. | **A plasma is a highly energized state of matter consisting of a gas of ions and free electrons**. It takes incredible energy to strip electrons from atoms! **Lightning consists largely of plasma**, and out in the universe, **stars consist largely of plasma**. |
+| **[Solid](https://en.wikipedia.org/wiki/Solid)** | **A [solid](https://en.wikipedia.org/wiki/Solid) has a definite shape** and **a definite [volume](https://en.wikipedia.org/wiki/Volume)**. | **The particles in a [solid](https://en.wikipedia.org/wiki/Solid) are tightly packed together in fixed positions**. They essentially vibrate in place. |
+| **Liquid** | **A liquid takes the shape of the container holding the liquid**, but **a liquid has a definite [volume](https://en.wikipedia.org/wiki/Volume)**. | **The particles in a liquid are close together**, but they have enough [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) that they **can slide past one another freely**. |
+| **[Gas](https://en.wikipedia.org/wiki/Gas)** | **A [gas](https://en.wikipedia.org/wiki/Gas) does not have a definite shape** and **does not have a definite [volume](https://en.wikipedia.org/wiki/Volume)**. It expands to fill its container. | **The particles in a [gas](https://en.wikipedia.org/wiki/Gas) are widely spaced** and **move rapidly in all directions**. |
+| **[Plasma](https://en.wikipedia.org/wiki/Plasma_%28physics%29)** | No definite shape or [volume](https://en.wikipedia.org/wiki/Volume). | **A [plasma](https://en.wikipedia.org/wiki/Plasma_%28physics%29) is a highly energized state of matter consisting of a [gas](https://en.wikipedia.org/wiki/Gas) of [ions](https://en.wikipedia.org/wiki/Ion) and free [electrons](https://en.wikipedia.org/wiki/Electron)**. It takes incredible [energy](https://en.wikipedia.org/wiki/Energy) to strip [electrons](https://en.wikipedia.org/wiki/Electron) from [atoms](https://en.wikipedia.org/wiki/Atom)! **[Lightning](https://en.wikipedia.org/wiki/Lightning) consists largely of [plasma](https://en.wikipedia.org/wiki/Plasma_%28physics%29)**, and out in the [universe](https://en.wikipedia.org/wiki/Universe), **[stars](https://en.wikipedia.org/wiki/Star) consist largely of [plasma](https://en.wikipedia.org/wiki/Plasma_%28physics%29)**. |
 
 ### Phase Transitions: Shifting States
-When thermal energy changes, matter undergoes a phase transition. Keep in mind, no matter how much the substance changes visually, these are purely physical shifts.
+When [thermal energy](https://en.wikipedia.org/wiki/Thermal_energy) changes, [matter](https://en.wikipedia.org/wiki/Matter) undergoes a phase transition. Keep in mind, no matter how much the substance changes visually, these are purely physical shifts.
 
-*   **Melting**: The phase transition from a solid to a liquid.
-*   **Freezing**: The phase transition from a liquid to a solid.
-*   **Vaporization**: The phase transition from a liquid to a gas.
-    *   *Note the difference:* **Evaporation is a type of vaporization that occurs only on the surface of a liquid** (like a puddle drying in the sun). **Boiling is a type of vaporization that occurs throughout the entire volume of a liquid** (like a rolling boil in a pasta pot).
-*   **Condensation**: The phase transition from a gas to a liquid (like dew forming on morning grass).
-*   **Sublimation**: The phase transition directly from a solid to a gas without passing through the liquid phase. **Dry ice undergoes sublimation at room temperature**, releasing spooky fog without ever melting into a liquid puddle!
-*   **Deposition**: The phase transition directly from a gas to a solid without passing through the liquid phase. **The formation of frost on a cold window is an example of deposition**, where water vapor in the air instantly turns to solid ice.
+*   **[Melting](https://en.wikipedia.org/wiki/Melting)**: The phase transition from a [solid](https://en.wikipedia.org/wiki/Solid) to a liquid.
+*   **Freezing**: The phase transition from a liquid to a [solid](https://en.wikipedia.org/wiki/Solid).
+*   **Vaporization**: The phase transition from a liquid to a [gas](https://en.wikipedia.org/wiki/Gas).
+    *   *Note the difference:* **[Evaporation](https://en.wikipedia.org/wiki/Evaporation) is a type of vaporization that occurs only on the surface of a liquid** (like a puddle drying in the [sun](https://en.wikipedia.org/wiki/Sun)). **[Boiling](https://en.wikipedia.org/wiki/Boiling) is a type of vaporization that occurs throughout the entire [volume](https://en.wikipedia.org/wiki/Volume) of a liquid** (like a rolling boil in a pasta pot).
+*   **[Condensation](https://en.wikipedia.org/wiki/Condensation)**: The phase transition from a [gas](https://en.wikipedia.org/wiki/Gas) to a liquid (like [dew](https://en.wikipedia.org/wiki/Dew) forming on morning grass).
+*   **[Sublimation](https://en.wikipedia.org/wiki/Sublimation_%28phase_transition%29)**: The phase transition directly from a [solid](https://en.wikipedia.org/wiki/Solid) to a [gas](https://en.wikipedia.org/wiki/Gas) without passing through the liquid phase. **Dry ice undergoes [sublimation](https://en.wikipedia.org/wiki/Sublimation_%28phase_transition%29) at room temperature**, releasing spooky fog without ever [melting](https://en.wikipedia.org/wiki/Melting) into a liquid puddle!
+*   **Deposition**: The phase transition directly from a [gas](https://en.wikipedia.org/wiki/Gas) to a [solid](https://en.wikipedia.org/wiki/Solid) without passing through the liquid phase. **The formation of frost on a cold window is an example of deposition**, where water vapor in the [air](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) instantly turns to [solid](https://en.wikipedia.org/wiki/Solid) [ice](https://en.wikipedia.org/wiki/Ice).
 
 ---
 
-## 4. Metamorphosis: Changes in Matter
+## 4. Metamorphosis: Changes in [Matter](https://en.wikipedia.org/wiki/Matter)
 
 One of the most important concepts for an elementary student to grasp is the difference between a substance simply changing its "outfit" and fundamentally changing its "identity." 
 
 ### Physical Changes: A Change of Wardrobe
-**A physical change alters the form or appearance of a substance without creating a new substance**. The molecules are exactly the same before and after.
+**A physical change alters the form or appearance of a substance without creating a new substance**. The [molecules](https://en.wikipedia.org/wiki/Molecule) are exactly the same before and after.
 
 Examples of physical changes:
 *   **Tearing a piece of paper is a physical change**. It’s smaller, but it’s still paper.
-*   **Melting ice into liquid water is a physical change**. H₂O is still H₂O. Therefore, **changes of state are always classified as physical changes**.
-*   **Dissolving salt into water is a physical change**. If you boil the water away, the salt is still sitting right there in the pan. 
+*   **[Melting](https://en.wikipedia.org/wiki/Melting) [ice](https://en.wikipedia.org/wiki/Ice) into liquid [water](https://en.wikipedia.org/wiki/Water) is a physical change**. H₂O is still H₂O. Therefore, **changes of state are always classified as physical changes**.
+*   **Dissolving salt into [water](https://en.wikipedia.org/wiki/Water) is a physical change**. If you [boil](https://en.wikipedia.org/wiki/Boiling) the [water](https://en.wikipedia.org/wiki/Water) away, the salt is still sitting right there in the pan. 
 
 ### Chemical Changes: Baking a New Reality
 **A chemical change results in the formation of one or more new substances with different properties**. You cannot easily hit the "undo" button on a chemical change.
 
 Examples of chemical changes:
-*   **The rusting of iron is a chemical change**. Iron reacts with oxygen to form iron oxide (rust). 
-*   **Burning wood is a chemical change**. The wood turns into ash, carbon dioxide, and water vapor.
-*   **Baking a cake is a chemical change**. The heat causes the flour, eggs, and sugar to react and form a spongy new substance. You can’t un-bake a cake!
+*   **The rusting of iron is a chemical change**. Iron reacts with [oxygen](https://en.wikipedia.org/wiki/Oxygen) to form iron oxide (rust). 
+*   **Burning [wood](https://en.wikipedia.org/wiki/Wood) is a chemical change**. The [wood](https://en.wikipedia.org/wiki/Wood) turns into [ash](https://en.wikipedia.org/wiki/Ash), [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide), and water vapor.
+*   **[Baking](https://en.wikipedia.org/wiki/Baking) a [cake](https://en.wikipedia.org/wiki/Cake) is a chemical change**. The heat causes the [flour](https://en.wikipedia.org/wiki/Flour), [eggs](https://en.wikipedia.org/wiki/Egg_as_food), and [sugar](https://en.wikipedia.org/wiki/Sugar) to react and form a spongy new substance. You can’t un-bake a [cake](https://en.wikipedia.org/wiki/Cake)!
 
 **How to Spot a Chemical Change (The 4 Clues):**
-Nature usually gives us hints when a chemical reaction takes place:
-1.  **The production of a new gas during a reaction often indicates a chemical change** (like bubbles fizzing when you mix baking soda and vinegar).
-2.  **A sudden unexpected change in color during a reaction can indicate a chemical change**.
-3.  **The formation of a solid precipitate from two liquid solutions indicates a chemical change**. You mix two clear liquids, and suddenly a powdery solid drops out of them!
+Nature usually gives us hints when a [chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction) takes place:
+1.  **The production of a new [gas](https://en.wikipedia.org/wiki/Gas) during a reaction often indicates a chemical change** (like bubbles fizzing when you mix [baking soda](https://en.wikipedia.org/wiki/Sodium_bicarbonate) and [vinegar](https://en.wikipedia.org/wiki/Vinegar)).
+2.  **A sudden unexpected change in [color](https://en.wikipedia.org/wiki/Color) during a reaction can indicate a chemical change**.
+3.  **The formation of a [solid](https://en.wikipedia.org/wiki/Solid) precipitate from two liquid [solutions](https://en.wikipedia.org/wiki/Solution) indicates a chemical change**. You mix two clear liquids, and suddenly a powdery [solid](https://en.wikipedia.org/wiki/Solid) drops out of them!
 4.  **The release or absorption of heat without an external source indicates a chemical change**. If a beaker suddenly gets hot or freezing cold on its own after mixing two chemicals, a reaction is occurring.
 
-> **The Ultimate Rule of the Universe: The Law of Conservation of Mass**
-> Here is a brilliant truth about our universe. **The Law of Conservation of Mass states that matter is neither created nor destroyed during an ordinary chemical reaction**. You cannot make atoms appear out of thin air, and you cannot banish them into nothingness. Because of this, **the total mass of the reactants in a chemical reaction exactly equals the total mass of the products**. If you burn a 10-pound log in a perfectly sealed glass box, the ash, smoke, and gases trapped inside will weigh exactly 10 pounds.
+> **The Ultimate Rule of the [Universe](https://en.wikipedia.org/wiki/Universe): The [Law of Conservation of Mass](https://en.wikipedia.org/wiki/Conservation_of_mass)**
+> Here is a brilliant truth about our [universe](https://en.wikipedia.org/wiki/Universe). **The [Law of Conservation of Mass](https://en.wikipedia.org/wiki/Conservation_of_mass) states that [matter](https://en.wikipedia.org/wiki/Matter) is neither created nor destroyed during an ordinary [chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction)**. You cannot make [atoms](https://en.wikipedia.org/wiki/Atom) appear out of thin air, and you cannot banish them into nothingness. Because of this, **the total [mass](https://en.wikipedia.org/wiki/Mass) of the reactants in a [chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction) exactly equals the total [mass](https://en.wikipedia.org/wiki/Mass) of the products**. If you burn a 10-pound log in a perfectly sealed glass box, the [ash](https://en.wikipedia.org/wiki/Ash), smoke, and [gases](https://en.wikipedia.org/wiki/Gas) trapped inside will weigh exactly 10 pounds.
 
 ---
 
-## 5. Nature's Salad Bowl: Mixtures and Solutions
+## 5. Nature's Salad Bowl: [Mixtures](https://en.wikipedia.org/wiki/Mixture) and [Solutions](https://en.wikipedia.org/wiki/Solution)
 
-Most things in the real world are not purely one element or one compound. They are mixed together.
+Most things in the real world are not purely one [element](https://en.wikipedia.org/wiki/Chemical_element) or one [compound](https://en.wikipedia.org/wiki/Chemical_compound). They are mixed together.
 
-**A mixture is a combination of two or more substances that are not chemically combined**. Because they aren't chemically bonded, **each substance in a mixture retains its own individual chemical properties**. Because they are just hanging out together, **mixtures can be separated by physical means**.
+**A [mixture](https://en.wikipedia.org/wiki/Mixture) is a combination of two or more substances that are not chemically combined**. Because they aren't chemically bonded, **each substance in a [mixture](https://en.wikipedia.org/wiki/Mixture) retains its own individual [chemical properties](https://en.wikipedia.org/wiki/Chemical_property)**. Because they are just hanging out together, **[mixtures](https://en.wikipedia.org/wiki/Mixture) can be separated by physical means**.
 
-### Types of Mixtures
+### Types of [Mixtures](https://en.wikipedia.org/wiki/Mixture)
 
-**1. Heterogeneous Mixtures**
-A **heterogeneous mixture contains substances that are not evenly distributed throughout**. If you take two scoops of it, they might look completely different.
-*   **A bowl of trail mix is an example of a heterogeneous mixture**. You might get lots of M&Ms in one handful, and mostly raisins in the next.
-*   A **suspension is a heterogeneous mixture containing large solid particles that will settle upon standing**. Think of muddy water: eventually, the dirt sinks to the bottom.
+**1. [Heterogeneous Mixtures](https://en.wikipedia.org/wiki/Mixture)**
+A **[heterogeneous mixture](https://en.wikipedia.org/wiki/Mixture) contains substances that are not evenly distributed throughout**. If you take two scoops of it, they might look completely different.
+*   **A bowl of [trail mix](https://en.wikipedia.org/wiki/Trail_mix) is an example of a [heterogeneous mixture](https://en.wikipedia.org/wiki/Mixture)**. You might get lots of [M&Ms](https://en.wikipedia.org/wiki/M%26M%27s) in one handful, and mostly [raisins](https://en.wikipedia.org/wiki/Raisin) in the next.
+*   A **suspension is a [heterogeneous mixture](https://en.wikipedia.org/wiki/Mixture) containing large [solid](https://en.wikipedia.org/wiki/Solid) particles that will settle upon standing**. Think of muddy water: eventually, the dirt sinks to the bottom.
 
-**2. Homogeneous Mixtures (Solutions)**
-A **homogeneous mixture contains substances that are evenly distributed** and **appears uniform throughout**. Every single drop or scoop is perfectly identical. In science, **a solution is another name for a homogeneous mixture**.
+**2. [Homogeneous Mixtures](https://en.wikipedia.org/wiki/Mixture) ([Solutions](https://en.wikipedia.org/wiki/Solution))**
+A **[homogeneous mixture](https://en.wikipedia.org/wiki/Mixture) contains substances that are evenly distributed** and **appears uniform throughout**. Every single drop or scoop is perfectly identical. In [science](https://en.wikipedia.org/wiki/Science), **a [solution](https://en.wikipedia.org/wiki/Solution) is another name for a [homogeneous mixture](https://en.wikipedia.org/wiki/Mixture)**.
 
-Let’s look at the anatomy of a solution:
-*   **Solute**: **The substance that is dissolved in a solution**.
-*   **Solvent**: **The substance that does the dissolving in a solution**.
-*   *Example:* **In a saltwater solution, salt acts as the solute** and **water acts as the solvent**. 
-*   Because so many things can dissolve in water, **water is commonly referred to as the universal solvent**.
+Let’s look at the anatomy of a [solution](https://en.wikipedia.org/wiki/Solution):
+*   **[Solute](https://en.wikipedia.org/wiki/Solution)**: **The substance that is dissolved in a [solution](https://en.wikipedia.org/wiki/Solution)**.
+*   **[Solvent](https://en.wikipedia.org/wiki/Solvent)**: **The substance that does the dissolving in a [solution](https://en.wikipedia.org/wiki/Solution)**.
+*   *Example:* **In a saltwater [solution](https://en.wikipedia.org/wiki/Solution), salt acts as the [solute](https://en.wikipedia.org/wiki/Solution)** and **[water](https://en.wikipedia.org/wiki/Water) acts as the [solvent](https://en.wikipedia.org/wiki/Solvent)**. 
+*   Because so many things can dissolve in [water](https://en.wikipedia.org/wiki/Water), **[water](https://en.wikipedia.org/wiki/Water) is commonly referred to as the [universal solvent](https://en.wikipedia.org/wiki/Solvent)**.
 
-Solutions aren't just liquids! **An alloy is a solid solution composed of two or more metals**. For example, **steel is an example of an alloy** (mostly iron mixed homogeneously with carbon). 
+[Solutions](https://en.wikipedia.org/wiki/Solution) aren't just liquids! **An [alloy](https://en.wikipedia.org/wiki/Alloy) is a [solid](https://en.wikipedia.org/wiki/Solid) [solution](https://en.wikipedia.org/wiki/Solution) composed of two or more [metals](https://en.wikipedia.org/wiki/Metal)**. For example, **steel is an example of an [alloy](https://en.wikipedia.org/wiki/Alloy)** (mostly iron mixed homogeneously with carbon). 
 
 ### Separating the Pieces
-Because mixtures are physical combinations, we can use their physical properties to separate them.
-*   **Filtration**: **A separation method used to remove solid particles from a liquid in a heterogeneous mixture**. Think of a coffee filter catching the coffee grounds while the liquid passes through.
-*   **Distillation**: **A separation method that separates homogeneous mixtures based on differences in boiling points**. If you boil saltwater, the water vaporizes (and can be cooled and collected as pure water), leaving the solid salt behind.
+Because [mixtures](https://en.wikipedia.org/wiki/Mixture) are physical combinations, we can use their [physical properties](https://en.wikipedia.org/wiki/Physical_property) to separate them.
+*   **Filtration**: **A separation method used to remove [solid](https://en.wikipedia.org/wiki/Solid) particles from a liquid in a [heterogeneous mixture](https://en.wikipedia.org/wiki/Mixture)**. Think of a [coffee filter](https://en.wikipedia.org/wiki/Coffee_filter) catching the coffee grounds while the liquid passes through.
+*   **[Distillation](https://en.wikipedia.org/wiki/Distillation)**: **A separation method that separates [homogeneous mixtures](https://en.wikipedia.org/wiki/Mixture) based on differences in [boiling points](https://en.wikipedia.org/wiki/Boiling_point)**. If you [boil](https://en.wikipedia.org/wiki/Boiling) saltwater, the [water](https://en.wikipedia.org/wiki/Water) vaporizes (and can be cooled and collected as pure [water](https://en.wikipedia.org/wiki/Water)), leaving the [solid](https://en.wikipedia.org/wiki/Solid) salt behind.
 
 ---
 
 ### The Final Takeaway
-The universe is magnificently organized. From the tiny protons in the dense nucleus to the rapid, wildly moving particles of a boiling gas, the rules of matter govern everything around us. By understanding how physical and chemical properties dictate the behavior of atoms, elements, compounds, and mixtures, you now hold the keys to explaining the physical world. Take these concepts, step into your classroom, and show your students the beautiful, invisible architecture of reality!
+The [universe](https://en.wikipedia.org/wiki/Universe) is magnificently organized. From the tiny [protons](https://en.wikipedia.org/wiki/Proton) in the dense nucleus to the rapid, wildly moving particles of a boiling [gas](https://en.wikipedia.org/wiki/Gas), the rules of [matter](https://en.wikipedia.org/wiki/Matter) govern everything around us. By understanding how [physical](https://en.wikipedia.org/wiki/Physical_property) and [chemical properties](https://en.wikipedia.org/wiki/Chemical_property) dictate the behavior of [atoms](https://en.wikipedia.org/wiki/Atom), [elements](https://en.wikipedia.org/wiki/Chemical_element), [compounds](https://en.wikipedia.org/wiki/Chemical_compound), and [mixtures](https://en.wikipedia.org/wiki/Mixture), you now hold the keys to explaining the physical world. Take these concepts, step into your classroom, and show your students the beautiful, invisible architecture of reality!

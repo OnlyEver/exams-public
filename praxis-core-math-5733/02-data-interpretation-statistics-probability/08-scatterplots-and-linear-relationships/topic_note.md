@@ -1,10 +1,10 @@
-Let me ask you a question. How do we know if anything in this universe is related to anything else? 
+Let me ask you a question. How do we know if anything in this [universe](https://en.wikipedia.org/wiki/Universe) is related to anything else? 
 
-Think about it! Does studying more hours *really* guarantee a higher test score? Does the weight of a car affect its gas mileage? Do people who eat more cheese live longer? 
+Think about it! Does studying more hours *really* guarantee a higher test score? Does the weight of a car affect its gas mileage? Do people who eat more [cheese](https://en.wikipedia.org/wiki/Cheese) live longer? 
 
-As human beings, our brains are obsessed with finding patterns. But the world is messy. Things don't happen in perfect, predictable little boxes. If you want to uncover the hidden rules governing nature, economics, or human behavior, you can't just stare at a spreadsheet full of raw numbers until your eyes cross. You have to *draw a picture* of those numbers.
+As human beings, our [brains](https://en.wikipedia.org/wiki/Human_brain) are obsessed with finding patterns. But the world is messy. Things don't happen in perfect, predictable little boxes. If you want to uncover the hidden rules governing [nature](https://en.wikipedia.org/wiki/Nature), [economics](https://en.wikipedia.org/wiki/Economics), or human behavior, you can't just stare at a [spreadsheet](https://en.wikipedia.org/wiki/Spreadsheet) full of raw numbers until your eyes cross. You have to *draw a picture* of those numbers.
 
-That brings us to one of the most elegant, powerful tools in all of mathematics: the scatterplot. For the Praxis Core Mathematics exam, you don't just need to know what a scatterplot is—you need to understand *how to read the stories it tells us*. 
+That brings us to one of the most elegant, powerful tools in all of [mathematics](https://en.wikipedia.org/wiki/Mathematics): the [scatterplot](https://en.wikipedia.org/wiki/Scatter_plot). For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you don't just need to know what a scatterplot is—you need to understand *how to read the stories it tells us*. 
 
 Let's dive in, map things out, and learn how to see the patterns hiding in plain sight.
 
@@ -12,26 +12,26 @@ Let's dive in, map things out, and learn how to see the patterns hiding in plain
 
 ## 1. The Canvas of Data: What is a Scatterplot?
 
-Imagine you have a blank sheet of paper. In mathematics, we call this flat surface a **coordinate plane**. 
+Imagine you have a blank sheet of paper. In mathematics, we call this flat surface a **[coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)**. 
 
 > **A scatterplot is a two-dimensional graph consisting of plotted points on a coordinate plane.** 
 
-Why do we scatter these points around? Because **a scatterplot displays the relationship between two numerical variables.** We are trying to see if Variable A and Variable B are secretly talking to each other. 
+Why do we scatter these points around? Because **a scatterplot displays the relationship between two [numerical variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29).** We are trying to see if Variable A and Variable B are secretly talking to each other. 
 
-Now, a quick caveat about the *kind* of data we use here: **scatterplots are primarily designed to map continuous numeric data rather than categorical data.** You wouldn't use a scatterplot to figure out if people who prefer the color blue also like golden retrievers. "Blue" and "Dog" are categories. Scatterplots demand *numbers*—things that stretch out along an infinite continuum, like temperature, money, height, or time.
+Now, a quick caveat about the *kind* of data we use here: **scatterplots are primarily designed to map continuous numeric data rather than [categorical data](https://en.wikipedia.org/wiki/Categorical_variable).** You wouldn't use a scatterplot to figure out if people who prefer the [color](https://en.wikipedia.org/wiki/Color) blue also like [golden retrievers](https://en.wikipedia.org/wiki/Golden_Retriever). "Blue" and "Dog" are categories. Scatterplots demand *numbers*—things that stretch out along an infinite continuum, like [temperature](https://en.wikipedia.org/wiki/Temperature), [money](https://en.wikipedia.org/wiki/Money), [height](https://en.wikipedia.org/wiki/Human_height), or [time](https://en.wikipedia.org/wiki/Time).
 
 ### Setting the Stage: The Axes
 To make our 2D graph, we need a frame of reference. We draw two perpendicular lines that cross like a giant "L".
 
 **The Horizontal Axis:**
-*   **The horizontal axis is called the x-axis.** Think of the horizon—it goes left to right.
-*   **The horizontal axis of a scatterplot represents the independent variable.** This is the variable we think is doing the influencing. It's the starting point. 
-*   Because we think it *explains* what happens next, **the independent variable is often referred to as the explanatory variable.** 
+*   **The horizontal axis is called the [x-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** Think of the [horizon](https://en.wikipedia.org/wiki/Horizon)—it goes left to right.
+*   **The horizontal axis of a scatterplot represents the [independent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).** This is the variable we think is doing the influencing. It's the starting point. 
+*   Because we think it *explains* what happens next, **the independent variable is often referred to as the [explanatory variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).** 
 
 **The Vertical Axis:**
-*   **The vertical axis is called the y-axis.** It runs straight up and down.
-*   **The vertical axis of a scatterplot represents the dependent variable.** This is the variable that changes *in response* to the independent variable. 
-*   Because it responds, **the dependent variable is often referred to as the response variable.**
+*   **The vertical axis is called the [y-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** It runs straight up and down.
+*   **The vertical axis of a scatterplot represents the [dependent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).** This is the variable that changes *in response* to the independent variable. 
+*   Because it responds, **the dependent variable is often referred to as the [response variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).**
 
 Imagine we are testing how the number of hours studied affects a student's final test score. "Hours Studied" goes on the horizontal x-axis (it's the independent, explanatory variable). The "Test Score" goes on the vertical y-axis (it's the dependent, response variable). The score *depends* on the hours studied.
 
@@ -39,18 +39,18 @@ Imagine we are testing how the number of hours studied affects a student's final
 
 ## 2. Pinning the Butterfly: How to Plot a Point
 
-Okay, so we have our axes. Now, how do we actually get the data onto the graph? 
+Okay, so we have our axes. Now, how do we actually get the [data](https://en.wikipedia.org/wiki/Data) onto the graph? 
 
-In a scatterplot, we are dealing with individual observations. Maybe we are looking at one specific student named Sarah. Sarah studied for 4 hours and scored an 85. 
+In a scatterplot, we are dealing with individual [observations](https://en.wikipedia.org/wiki/Observation). Maybe we are looking at one specific student named Sarah. Sarah studied for 4 hours and scored an 85. 
 
 **Each single point on a scatterplot represents one observation consisting of two paired numerical values.** For Sarah, those paired values are 4 and 85. They are eternally linked. 
 
-To put Sarah on the graph, we use an **ordered pair of coordinates**, which looks like this: **(4, 85)**. 
-**The position of a point on a scatterplot is determined by an ordered pair of coordinates.**
+To put Sarah on the graph, we use an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) of coordinates**, which looks like this: **(4, 85)**. 
+**The position of a point on a scatterplot is determined by an ordered pair of [coordinates](https://en.wikipedia.org/wiki/Coordinate_system).**
 
 Here is the foolproof, step-by-step way to plot that point:
 
-1.  **Walk into the hotel lobby (The X-Value):** **The first number in an ordered pair indicates the distance along the horizontal axis.** So, starting at the zero corner (the origin), you walk to the right along the x-axis until you hit the number 4. **Plotting a point on a scatterplot requires locating the data point's x-value on the horizontal axis.**
+1.  **Walk into the hotel lobby (The X-Value):** **The first number in an ordered pair indicates the distance along the horizontal axis.** So, starting at the zero corner (the [origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29)), you walk to the right along the x-axis until you hit the number 4. **Plotting a point on a scatterplot requires locating the data point's x-value on the horizontal axis.**
 2.  **Take the elevator up (The Y-Value):** **The second number in an ordered pair indicates the distance along the vertical axis.** From the number 4 on the horizontal axis, you ride the imaginary elevator straight up until you reach the level of 85. **Plotting a point on a scatterplot requires elevating to the height of the corresponding y-value on the vertical axis.**
 
 Boom! You draw your dot. You’ve just plotted a single observation. Now, do that fifty more times for fifty more students, and you have a scatterplot.
@@ -78,10 +78,10 @@ Now imagine mapping the *Age of a Car in Years* (x-axis) versus the *Value of th
 *   Visually, **the data points in a negative linear relationship generally trend downward from left to right across the scatterplot.** They look like a slide you are going down.
 
 ### Story 3: Absolutely No Relationship
-What if we mapped *Shoe Size* (x-axis) versus *Math Test Score* (y-axis)? Having big feet doesn't make you better at algebra. 
+What if we mapped *Shoe Size* (x-axis) versus *Math Test Score* (y-axis)? Having big feet doesn't make you better at [algebra](https://en.wikipedia.org/wiki/Algebra). 
 
 *   **A scatterplot indicates no relationship when the data points are randomly distributed across the coordinate plane.** It just looks like a screen door or a starry night sky. 
-*   **A lack of a discernible directional pattern in a scatterplot indicates zero correlation between the variables.** There is no underlying connection.
+*   **A lack of a discernible directional pattern in a scatterplot indicates zero [correlation](https://en.wikipedia.org/wiki/Correlation) between the variables.** There is no underlying connection.
 
 | Type of Relationship | What it means | Visual Direction (Left to Right) | Example |
 | :--- | :--- | :--- | :--- |
@@ -93,13 +93,13 @@ What if we mapped *Shoe Size* (x-axis) versus *Math Test Score* (y-axis)? Having
 
 ## 4. Modeling Nature: Trend Lines and Slopes
 
-When we spot a linear relationship, we want to summarize it. We do this by drawing a straight line through the "cloud" of points. 
+When we spot a linear relationship, we want to summarize it. We do this by drawing a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) through the "cloud" of points. 
 
 > **A trend line is a straight line drawn through the center of the data points on a scatterplot to model the underlying relationship.** 
 
 Because it represents the "average" path of all the data, **a trend line is frequently called a line of best fit.** It’s as if the points were magnetic, and the line rests in the exact equilibrium of their magnetic pull.
 
-Here is the beautiful, mathematical truth about trend lines: their steepness—which we call *slope*—perfectly matches the direction of the relationship.
+Here is the beautiful, mathematical truth about trend lines: their steepness—which we call *[slope](https://en.wikipedia.org/wiki/Slope)*—perfectly matches the direction of the relationship.
 
 *   **The mathematical slope of a trend line in a positive linear relationship is a positive number.** (e.g., *m = 2*)
 *   **The mathematical slope of a trend line in a negative linear relationship is a negative number.** (e.g., *m = -0.5*)
@@ -116,11 +116,11 @@ Not all relationships are equally powerful. Sometimes variables are tightly link
 
 Nature rarely plays perfectly by the rules. Sometimes, you get a piece of data that makes absolutely no sense compared to the rest of the group. 
 
-Suppose you are looking at a scatterplot showing the relationship between income and the square footage of a person's house. It's a strong, positive linear relationship. But way off in the upper-left corner of the graph, there is a dot. It represents someone with almost zero income, living in a massive 15,000-square-foot mansion. (Maybe they inherited it, or won the lottery!)
+Suppose you are looking at a scatterplot showing the relationship between income and the [square footage](https://en.wikipedia.org/wiki/Square_foot) of a person's house. It's a strong, positive linear relationship. But way off in the upper-left corner of the graph, there is a dot. It represents someone with almost zero income, living in a massive 15,000-square-foot mansion. (Maybe they inherited it, or won the lottery!)
 
 **An outlier in a scatterplot is a specific data point located abnormally far away from the general cluster of points.** 
 
-Outliers are crucial. In a dry textbook, an outlier is just an annoying error you throw away. But to a real scientist or educator, an outlier is an invitation to investigate. *Why* is that point so far away? Is it a data entry error? Or did we just discover something entirely new? When reading scatterplots on the Praxis exam, always be prepared to identify the point that radically defies the trend line. 
+Outliers are crucial. In a dry textbook, an outlier is just an annoying error you throw away. But to a real [scientist](https://en.wikipedia.org/wiki/Scientist) or educator, an outlier is an invitation to investigate. *Why* is that point so far away? Is it a data entry error? Or did we just discover something entirely new? When reading scatterplots on the Praxis exam, always be prepared to identify the point that radically defies the trend line. 
 
 ---
 
