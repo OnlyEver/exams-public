@@ -49,6 +49,18 @@
           "companion_solution": "We convert the official ETS syllabus into a full learning map with topic-sized notes and consistent concept coverage for retention."
         },
         {
+          "repo_folder": "praxis-7811-elementary-education-content-knowledge-for-teaching",
+          "name": "Elementary Education: Content Knowledge for Teaching",
+          "exam_slug": "praxis-7811-elementary-education-content-knowledge-for-teaching",
+          "theme_color": "#2563EB",
+          "hero_headline": "Pass Praxis 7811 with classroom-accurate exam coverage",
+          "hero_subheadline": "Master every tested subtest in focused 15-minute topics mapped directly to the official ETS Study Companion.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most Praxis prep is either too generic or fragmented, so candidates struggle to prioritize what is truly test-relevant.",
+          "companion_solution": "We convert the official ETS syllabus into a complete topic map with retention-focused notes and consistent concept coverage."
+        },
+        {
           "repo_folder": "praxis-core-math-5733",
           "name": "Praxis Core Academic Skills for Educators: Mathematics",
           "exam_slug": "praxis-core-math-5733",
