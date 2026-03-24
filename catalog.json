@@ -37,6 +37,18 @@
       "description": "Exam-aligned prep for future educators with clear, structured math coverage built directly from official certification blueprints.",
       "exams": [
         {
+          "repo_folder": "praxis-5001-elementary-education-multiple-subjects",
+          "name": "Praxis Elementary Education: Multiple Subjects",
+          "exam_slug": "praxis-5001-elementary-education-multiple-subjects",
+          "theme_color": "#2563EB",
+          "hero_headline": "Pass Praxis 5001 with official-objective coverage",
+          "hero_subheadline": "Study every tested domain in focused 15-minute topics mapped directly to the ETS Study Companion.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most Praxis prep mixes signal with noise, so candidates spend time on content that is not tightly aligned to test objectives.",
+          "companion_solution": "We convert the official ETS syllabus into a full learning map with topic-sized notes and consistent concept coverage for retention."
+        },
+        {
           "repo_folder": "praxis-core-math-5733",
           "name": "Praxis Core Academic Skills for Educators: Mathematics",
           "exam_slug": "praxis-core-math-5733",

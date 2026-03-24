@@ -1,0 +1,1023 @@
+{
+  "exam": {
+    "name": "Praxis Elementary Education: Multiple Subjects",
+    "code": "5001",
+    "provider": "ETS",
+    "syllabus_verified": false,
+    "syllabus_verified_date": "2026-03-23",
+    "generated_date": "2026-03-23",
+    "category_name": "Teacher Certification",
+    "category_slug": "teacher-certification",
+    "category_description": "Exam-aligned prep for future K-6 educators with complete, syllabus-mapped coverage across reading, math, social studies, and science.",
+    "exam_slug": "praxis-5001-elementary-education-multiple-subjects",
+    "theme_color": "#2563EB",
+    "hero_headline": "Pass Praxis 5001 with official-objective coverage",
+    "hero_subheadline": "Study every tested domain in focused 15-minute topics mapped directly to the ETS Study Companion.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most Praxis prep mixes signal with noise, so candidates spend time on content that is not tightly aligned to test objectives.",
+    "companion_solution": "We convert the official ETS syllabus into a full learning map with topic-sized notes and consistent concept coverage for retention."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "reading-and-language-arts",
+      "title": "Reading and Language Arts",
+      "weight": 0.33,
+      "description": "Foundational reading skills, comprehension of literature and informational texts, writing, speaking, and listening.",
+      "directory": "01-reading-and-language-arts",
+      "topics": [
+        {
+          "order": 1,
+          "id": "phonological-and-phonemic-awareness",
+          "title": "Phonological and Phonemic Awareness",
+          "directory": "01-phonological-and-phonemic-awareness",
+          "path": "01-reading-and-language-arts/01-phonological-and-phonemic-awareness",
+          "description": "Understanding the role of phonological awareness in literacy, including blending, segmenting, substituting, and deleting sounds.",
+          "learning_objectives": [
+            "Explain the importance of phonological awareness as a foundational literacy skill.",
+            "Identify and provide examples of phonemes, syllables, onsets, and rimes.",
+            "Demonstrate blending, segmenting, substituting, and deleting phonemes and syllables."
+          ],
+          "references": [
+            "https://www.readingrockets.org/reading-101/reading-101-course/modules/phonological-and-phonemic-awareness/introduction",
+            "https://www.understood.org/en/articles/phonological-awareness-what-it-is-and-how-it-works"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "phonics-and-word-analysis",
+          "title": "Phonics and Word Analysis",
+          "directory": "02-phonics-and-word-analysis",
+          "path": "01-reading-and-language-arts/02-phonics-and-word-analysis",
+          "description": "The role of phonics and word analysis in literacy, including letter-sound correspondence and syllabication patterns.",
+          "learning_objectives": [
+            "Distinguish among common letter-sound correspondences and spelling conventions.",
+            "Differentiate high-frequency sight words from decodable words.",
+            "Identify roots and affixes to decode unfamiliar words.",
+            "Differentiate syllabication patterns such as open, closed, and CVe."
+          ],
+          "references": [
+            "https://www.readingrockets.org/reading-101/reading-101-course/modules/phonics/introduction",
+            "https://iris.peabody.vanderbilt.edu/module/sec-rdng/cresource/q2/p05/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "reading-fluency",
+          "title": "Reading Fluency",
+          "directory": "03-reading-fluency",
+          "path": "01-reading-and-language-arts/03-reading-fluency",
+          "description": "Understanding reading fluency, its components, and its impact on reading comprehension.",
+          "learning_objectives": [
+            "Define fluency and its related terms: accuracy, rate, and prosody.",
+            "Explain the impact of reading fluency on overall text comprehension."
+          ],
+          "references": [
+            "https://www.readingrockets.org/reading-101/reading-101-course/modules/fluency/introduction"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "comprehending-literature",
+          "title": "Comprehending Literature",
+          "directory": "04-comprehending-literature",
+          "path": "01-reading-and-language-arts/04-comprehending-literature",
+          "description": "Using key ideas and details to comprehend literary texts, including themes, characters, and plot.",
+          "learning_objectives": [
+            "Identify the key details, moral, and theme of a literary text citing specific textual evidence.",
+            "Analyze the characters, setting, and plot of a literary text.",
+            "Make inferences from a literary text and support them with appropriate evidence."
+          ],
+          "references": [
+            "https://www.readingrockets.org/reading-101/reading-101-course/modules/comprehension/introduction"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "comprehending-informational-text",
+          "title": "Comprehending Informational Text",
+          "directory": "05-comprehending-informational-text",
+          "path": "01-reading-and-language-arts/05-comprehending-informational-text",
+          "description": "Analyzing key details, main ideas, and relationships in informational texts.",
+          "learning_objectives": [
+            "Identify the key details and central idea of an informational text.",
+            "Analyze the relationships among individuals, events, ideas, and concepts in an informational text.",
+            "Summarize information and evaluate key claims in an informational text."
+          ],
+          "references": [
+            "https://www.readingrockets.org/reading-101/reading-101-course/modules/comprehension/informational-text"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "text-features-and-structures",
+          "title": "Text Features and Structures",
+          "directory": "06-text-features-and-structures",
+          "path": "01-reading-and-language-arts/06-text-features-and-structures",
+          "description": "Understanding how features and structures of texts across genres affect comprehension.",
+          "learning_objectives": [
+            "Identify structural elements of literature across genres, such as casts of characters or rhyme and meter.",
+            "Use text features like headings, sidebars, and hyperlinks to locate information.",
+            "Identify organizational structures of informational text, such as cause/effect and problem/solution."
+          ],
+          "references": [
+            "https://www.readingrockets.org/article/implementing-text-structure-strategy-your-classroom"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "point-of-view-in-texts",
+          "title": "Point of View in Texts",
+          "directory": "07-point-of-view-in-texts",
+          "path": "01-reading-and-language-arts/07-point-of-view-in-texts",
+          "description": "Understanding the concept of point of view and how it impacts the structure and meaning of a text.",
+          "learning_objectives": [
+            "Identify an author's point of view in various genres using textual evidence.",
+            "Compare multiple accounts of the same event or topic to identify similarities or differences in point of view.",
+            "Identify how point of view impacts the overall structure of a text."
+          ],
+          "references": [
+            "https://www.readwritethink.org/professional-development/strategy-guides/teaching-point-view-with"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "text-complexity-and-leveling",
+          "title": "Text Complexity and Leveling",
+          "directory": "08-text-complexity-and-leveling",
+          "path": "01-reading-and-language-arts/08-text-complexity-and-leveling",
+          "description": "Knowing the role of text complexity in reading development and how to measure it.",
+          "learning_objectives": [
+            "Explain the three factors that measure text complexity: quantitative, qualitative, and reader/task.",
+            "Identify features of text-leveling systems."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/module/sec-rdng/cresource/q2/p05/",
+            "https://www.ascd.org/el/articles/understanding-text-complexity"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "characteristics-of-writing-types",
+          "title": "Characteristics of Writing Types",
+          "directory": "09-characteristics-of-writing-types",
+          "path": "01-reading-and-language-arts/09-characteristics-of-writing-types",
+          "description": "Distinguishing among common types of writing such as opinion, informative, and narrative.",
+          "learning_objectives": [
+            "Distinguish among common types of writing: opinion/argument, informative/explanatory, and narrative.",
+            "Identify the purpose, key components, and subgenres of each common type of writing."
+          ],
+          "references": [
+            "https://www.readingrockets.org/reading-101/reading-101-course/modules/writing/introduction"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "effective-writing-and-revisions",
+          "title": "Effective Writing and Revisions",
+          "directory": "10-effective-writing-and-revisions",
+          "path": "01-reading-and-language-arts/10-effective-writing-and-revisions",
+          "description": "Evaluating the appropriateness, organization, and style of writing, and making appropriate revisions.",
+          "learning_objectives": [
+            "Evaluate the appropriateness of a piece of writing for a specific task, purpose, and audience.",
+            "Identify appropriate revisions to strengthen the development, organization, or style of a piece of writing.",
+            "Identify the interrelationships among planning, revising, and editing."
+          ],
+          "references": [
+            "https://www.readingrockets.org/article/teaching-writing-process"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "developmental-stages-of-writing",
+          "title": "Developmental Stages of Writing",
+          "directory": "11-developmental-stages-of-writing",
+          "path": "01-reading-and-language-arts/11-developmental-stages-of-writing",
+          "description": "Understanding the developmental stages of writing from scribbles to conventional spelling.",
+          "learning_objectives": [
+            "Identify the grade-appropriate continuum of student writing.",
+            "Recognize writing stages such as picture, scribble, pre-phonemic, transitional, and standard spelling."
+          ],
+          "references": [
+            "https://braintrusttutors.com/what-are-the-developmental-stages-of-writing-phases-of-development/",
+            "https://empoweredparents.co/stages-of-writing-development/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "digital-tools-and-research-process",
+          "title": "Digital Tools and the Research Process",
+          "directory": "12-digital-tools-and-research-process",
+          "path": "01-reading-and-language-arts/12-digital-tools-and-research-process",
+          "description": "Using digital tools for producing writing and understanding the steps of the research process.",
+          "learning_objectives": [
+            "Identify the characteristics and purposes of digital tools for producing writing and interacting with others.",
+            "Distinguish between primary and secondary sources, and reliable and unreliable sources.",
+            "Distinguish between paraphrasing and plagiarizing."
+          ],
+          "references": [
+            "https://www.commonsense.org/education/digital-citizenship"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "conventions-of-standard-english",
+          "title": "Conventions of Standard English",
+          "directory": "13-conventions-of-standard-english",
+          "path": "01-reading-and-language-arts/13-conventions-of-standard-english",
+          "description": "Applying conventions of standard English grammar, usage, mechanics, and spelling.",
+          "learning_objectives": [
+            "Explain the function of different parts of speech.",
+            "Correct errors in usage, mechanics, and spelling.",
+            "Identify examples of simple, compound, and compound-complex sentence types.",
+            "Identify how varieties of English (dialects, registers) support meaning."
+          ],
+          "references": [
+            "https://owl.purdue.edu/owl/general_writing/grammar/index.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "vocabulary-and-word-meaning",
+          "title": "Vocabulary and Word Meaning",
+          "directory": "14-vocabulary-and-word-meaning",
+          "path": "01-reading-and-language-arts/14-vocabulary-and-word-meaning",
+          "description": "Determining literal and figurative meanings of words and phrases from context and word parts.",
+          "learning_objectives": [
+            "Determine the literal meaning of unknown words using context, syntax, and roots/affixes.",
+            "Identify and interpret types of figurative language.",
+            "Differentiate among the three tiers of vocabulary (conversational, academic, domain-specific)."
+          ],
+          "references": [
+            "https://www.readingrockets.org/reading-101/reading-101-course/modules/vocabulary/introduction"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "speaking-and-listening-skills",
+          "title": "Speaking and Listening Skills",
+          "directory": "15-speaking-and-listening-skills",
+          "path": "01-reading-and-language-arts/15-speaking-and-listening-skills",
+          "description": "Characteristics of effective collaboration, active listening, and engaging oral presentations.",
+          "learning_objectives": [
+            "Identify techniques to communicate effectively for a variety of purposes with diverse partners.",
+            "Identify the characteristics of active listening.",
+            "Identify elements of engaging oral presentations, such as volume, articulation, and audience awareness."
+          ],
+          "references": [
+            "https://www.edutopia.org/article/active-listening-skills-students/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "mathematics",
+      "title": "Mathematics",
+      "weight": 0.2,
+      "description": "Numbers and operations, algebraic thinking, geometry, measurement, data, statistics, and probability.",
+      "directory": "02-mathematics",
+      "topics": [
+        {
+          "order": 1,
+          "id": "base-ten-place-value-system",
+          "title": "Base-10 Place Value System",
+          "directory": "01-base-ten-place-value-system",
+          "path": "02-mathematics/01-base-ten-place-value-system",
+          "description": "Understanding place value, composing and decomposing multi-digit numbers, and using whole-number exponents.",
+          "learning_objectives": [
+            "Write numbers using base-10 numerals, number names, and expanded form.",
+            "Recognize that a digit in one place represents ten times what it represents to its right and one-tenth to its left.",
+            "Use whole-number exponents to denote powers of 10 and round multi-digit numbers."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-place-value-and-decimals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "rational-number-operations",
+          "title": "Rational Number Operations",
+          "directory": "02-rational-number-operations",
+          "path": "02-mathematics/02-rational-number-operations",
+          "description": "Solving multistep problems and understanding algorithms for addition, subtraction, multiplication, and division.",
+          "learning_objectives": [
+            "Solve multistep mathematical and real-world problems using operations on rational numbers.",
+            "Use the inverse relationship between addition/subtraction and multiplication/division.",
+            "Interpret remainders in division problems."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "fractions-and-decimals",
+          "title": "Fractions and Decimals",
+          "directory": "03-fractions-and-decimals",
+          "path": "02-mathematics/03-fractions-and-decimals",
+          "description": "Composing, decomposing, comparing, and representing fractions and decimals.",
+          "learning_objectives": [
+            "Compose and decompose fractions, including the use of unit fractions.",
+            "Represent rational numbers on a number line, with concrete models, and with area models.",
+            "Convert between fractions, decimals, and percents."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/arithmetic/fraction-arithmetic"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "proportional-relationships-and-percents",
+          "title": "Proportional Relationships and Percents",
+          "directory": "04-proportional-relationships-and-percents",
+          "path": "02-mathematics/04-proportional-relationships-and-percents",
+          "description": "Understanding and applying ratios, unit rates, and percents to solve problems.",
+          "learning_objectives": [
+            "Apply concepts of ratios and unit rates to describe relationships between two quantities.",
+            "Understand percent as a rate per 100.",
+            "Use proportional relationships to solve ratio, percent, and unit-rate problems."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion",
+            "https://www.prodigygame.com/main-en/blog/proportional-relationships/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "basic-number-theory",
+          "title": "Basic Number Theory",
+          "directory": "05-basic-number-theory",
+          "path": "02-mathematics/05-basic-number-theory",
+          "description": "Understanding prime and composite numbers, factors, and multiples.",
+          "learning_objectives": [
+            "Identify and use prime and composite numbers.",
+            "Find factors and multiples of whole numbers."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/numbers/prime-composite-number.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "algebraic-expressions-and-equations",
+          "title": "Algebraic Expressions and Equations",
+          "directory": "06-algebraic-expressions-and-equations",
+          "path": "02-mathematics/06-algebraic-expressions-and-equations",
+          "description": "Evaluating, writing, and manipulating simple algebraic expressions and equations.",
+          "learning_objectives": [
+            "Differentiate between algebraic expressions and equations.",
+            "Add, subtract, and use the distributive property to generate equivalent linear algebraic expressions.",
+            "Translate between verbal statements and algebraic expressions or equations."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "linear-equations-and-inequalities",
+          "title": "Linear Equations and Inequalities",
+          "directory": "07-linear-equations-and-inequalities",
+          "path": "02-mathematics/07-linear-equations-and-inequalities",
+          "description": "Solving one-variable linear equations and inequalities and interpreting their solutions.",
+          "learning_objectives": [
+            "Solve multistep one-variable linear equations and inequalities.",
+            "Interpret solutions of multistep one-variable linear equations and inequalities, including graphing on a number line.",
+            "Use linear relationships represented by equations, tables, and graphs to solve problems."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "patterns-and-functions",
+          "title": "Patterns and Functions",
+          "directory": "08-patterns-and-functions",
+          "path": "02-mathematics/08-patterns-and-functions",
+          "description": "Recognizing, extending, and representing numerical and shape patterns.",
+          "learning_objectives": [
+            "Identify, extend, describe, or generate number and shape patterns.",
+            "Make conjectures, predictions, or generalizations based on patterns.",
+            "Identify relationships between corresponding terms of two numerical patterns (e.g., function tables)."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/algebra/sequences-series.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "geometry-and-classification",
+          "title": "Geometry and Classification",
+          "directory": "09-geometry-and-classification",
+          "path": "02-mathematics/09-geometry-and-classification",
+          "description": "Classifying one-, two-, and three-dimensional geometric figures.",
+          "learning_objectives": [
+            "Use definitions to identify lines, rays, segments, parallel lines, and perpendicular lines.",
+            "Classify angles based on their measure.",
+            "Use attributes to classify or draw polygons and solid figures."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/basic-geo/basic-geometry-shapes"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "perimeter-area-and-volume",
+          "title": "Perimeter, Area, and Volume",
+          "directory": "10-perimeter-area-and-volume",
+          "path": "02-mathematics/10-perimeter-area-and-volume",
+          "description": "Solving problems involving the perimeter, area, surface area, and volume of geometric shapes.",
+          "learning_objectives": [
+            "Find the area and perimeter of polygons, including those with fractional side lengths.",
+            "Represent 3D figures with nets to determine surface area.",
+            "Find the volume of right rectangular prisms."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "the-coordinate-plane",
+          "title": "The Coordinate Plane",
+          "directory": "11-the-coordinate-plane",
+          "path": "02-mathematics/11-the-coordinate-plane",
+          "description": "Understanding components of the coordinate plane and graphing ordered pairs.",
+          "learning_objectives": [
+            "Identify the x-axis, y-axis, origin, and four quadrants.",
+            "Solve problems by plotting points and drawing polygons in the coordinate plane."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/cartesian-coordinates.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "measurement-and-conversions",
+          "title": "Measurement and Conversions",
+          "directory": "12-measurement-and-conversions",
+          "path": "02-mathematics/12-measurement-and-conversions",
+          "description": "Solving problems involving measurement, time, money, and unit conversions.",
+          "learning_objectives": [
+            "Solve problems involving elapsed time, money, length, volume, and mass.",
+            "Know relative sizes of US customary and metric units.",
+            "Convert units within both the US customary and metric systems."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/cc-fifth-grade-math/imp-measurement-and-data"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "data-and-statistics",
+          "title": "Data and Statistics",
+          "directory": "13-data-and-statistics",
+          "path": "02-mathematics/13-data-and-statistics",
+          "description": "Basic statistical concepts, measures of center, range, and interpreting data displays.",
+          "learning_objectives": [
+            "Identify statistical questions and solve problems involving mean, median, mode, and range.",
+            "Determine how changes in data affect measures of center or range.",
+            "Interpret displays of data like boxplots, histograms, scatterplots, and line plots."
+          ],
+          "references": [
+            "https://www.khanacademy.org/math/statistics-probability"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "probability-of-events",
+          "title": "Probability of Events",
+          "directory": "14-probability-of-events",
+          "path": "02-mathematics/14-probability-of-events",
+          "description": "Interpreting probabilities relative to the likelihood of events occurring.",
+          "learning_objectives": [
+            "Interpret probabilities relative to likelihood of occurrence.",
+            "Determine the theoretical probability of a specific outcome."
+          ],
+          "references": [
+            "https://www.mathsisfun.com/data/probability.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "social-studies",
+      "title": "Social Studies",
+      "weight": 0.24,
+      "description": "United States History, Government, Citizenship, Geography, Anthropology, Sociology, World History, and Economics.",
+      "directory": "03-social-studies",
+      "topics": [
+        {
+          "order": 1,
+          "id": "european-exploration-and-colonization",
+          "title": "European Exploration and Colonization",
+          "directory": "01-european-exploration-and-colonization",
+          "path": "03-social-studies/01-european-exploration-and-colonization",
+          "description": "Understanding European exploration, colonization in North America, and early expansion.",
+          "learning_objectives": [
+            "Identify the key European nations involved in early exploration of the Americas.",
+            "Describe the impact of colonization and expansion on Native American populations and colonial development."
+          ],
+          "references": [
+            "https://www.history.com/topics/exploration/exploration-of-north-america"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "american-revolution-and-founding",
+          "title": "American Revolution and Founding",
+          "directory": "02-american-revolution-and-founding",
+          "path": "03-social-studies/02-american-revolution-and-founding",
+          "description": "The events of the American Revolution and the founding of the United States nation.",
+          "learning_objectives": [
+            "Explain the causes and major events of the American Revolution.",
+            "Describe the creation of foundational US documents, including the weaknesses of the Articles of Confederation."
+          ],
+          "references": [
+            "https://www.archives.gov/founding-docs"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "major-events-in-us-history",
+          "title": "Major Events in US History",
+          "directory": "03-major-events-in-us-history",
+          "path": "03-social-studies/03-major-events-in-us-history",
+          "description": "Major developments in US History from the founding to the present, including westward expansion and industrialization.",
+          "learning_objectives": [
+            "Identify the causes and effects of westward expansion and 'Manifest Destiny'.",
+            "Understand the impact of the Civil War, industrialization, and the Great Depression."
+          ],
+          "references": [
+            "https://www.history.com/topics/19th-century/manifest-destiny"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "nature-and-forms-of-government",
+          "title": "Nature and Forms of Government",
+          "directory": "04-nature-and-forms-of-government",
+          "path": "03-social-studies/04-nature-and-forms-of-government",
+          "description": "The nature, purpose, and forms of government, focusing on the US federal, state, and local systems.",
+          "learning_objectives": [
+            "Compare democratic governments with other forms of government.",
+            "Explain the separation of powers and the system of checks and balances in the US government.",
+            "Understand the relationship between federal and state governments (federalism)."
+          ],
+          "references": [
+            "https://bensguide.gpo.gov/j-check-balance",
+            "https://www.law.cornell.edu/wex/checks_and_balances"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "key-documents-and-citizenship",
+          "title": "Key Documents and Citizenship",
+          "directory": "05-key-documents-and-citizenship",
+          "path": "03-social-studies/05-key-documents-and-citizenship",
+          "description": "Key historical documents, speeches, and the rights and responsibilities of citizenship in a democracy.",
+          "learning_objectives": [
+            "Analyze the significance of the US Constitution, Declaration of Independence, and Gettysburg Address.",
+            "Identify the rights and responsibilities of citizenship in a democracy."
+          ],
+          "references": [
+            "https://www.archives.gov/founding-docs",
+            "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-rights-and-responsibilities"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "geography-and-human-systems",
+          "title": "Geography and Human Systems",
+          "directory": "06-geography-and-human-systems",
+          "path": "03-social-studies/06-geography-and-human-systems",
+          "description": "World and regional geography, and the interaction of physical and human geographic systems.",
+          "learning_objectives": [
+            "Identify spatial terms, places, and major global regions.",
+            "Understand how humans change the environment and how the environment changes human societies.",
+            "Differentiate among thematic, political, and physical maps."
+          ],
+          "references": [
+            "https://education.nationalgeographic.org/resource/geography"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "major-classical-civilizations",
+          "title": "Major Classical Civilizations",
+          "directory": "07-major-classical-civilizations",
+          "path": "03-social-studies/07-major-classical-civilizations",
+          "description": "Contributions and characteristics of classical civilizations like Egypt, Greece, and Rome.",
+          "learning_objectives": [
+            "List major contributions of ancient Greece (e.g., democracy, architecture) and Rome (e.g., republic, infrastructure).",
+            "Describe aspects of Egyptian political, social, and cultural systems."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/world-history/ancient-medieval"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "basic-economic-concepts",
+          "title": "Basic Economic Concepts",
+          "directory": "08-basic-economic-concepts",
+          "path": "03-social-studies/08-basic-economic-concepts",
+          "description": "Key terms and concepts in economics, including supply, demand, scarcity, and opportunity cost.",
+          "learning_objectives": [
+            "Define scarcity, opportunity cost, supply, and demand.",
+            "Understand how economics affects population, resources, and technology.",
+            "Explain the government's role in the economy."
+          ],
+          "references": [
+            "https://www.stlouisfed.org/education/economic-lowdown-podcast-series"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "science",
+      "title": "Science",
+      "weight": 0.23,
+      "description": "Earth science, life science, and physical science, including science as inquiry.",
+      "directory": "04-science",
+      "topics": [
+        {
+          "order": 1,
+          "id": "structure-and-processes-of-earth",
+          "title": "Structure and Processes of Earth",
+          "directory": "01-structure-and-processes-of-earth",
+          "path": "04-science/01-structure-and-processes-of-earth",
+          "description": "The structure of the solid Earth, hydrosphere, atmosphere, and major Earth processes.",
+          "learning_objectives": [
+            "Describe the layers of the Earth and its atmosphere.",
+            "Identify geological processes like volcanic activity, weathering, and plate tectonics."
+          ],
+          "references": [
+            "https://science.nasa.gov/earth/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "earth-and-the-universe",
+          "title": "Earth and the Universe",
+          "directory": "02-earth-and-the-universe",
+          "path": "04-science/02-earth-and-the-universe",
+          "description": "Understanding stars, galaxies, the solar system, and Earth-Sun-Moon relationships.",
+          "learning_objectives": [
+            "Explain the causes of seasons, tides, and eclipses based on positional relationships.",
+            "Differentiate between inner and outer planets in the solar system."
+          ],
+          "references": [
+            "https://solarsystem.nasa.gov/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "structure-and-function-of-living-systems",
+          "title": "Structure and Function of Living Systems",
+          "directory": "03-structure-and-function-of-living-systems",
+          "path": "04-science/03-structure-and-function-of-living-systems",
+          "description": "Living characteristics, cells, tissues, organs, and major life processes.",
+          "learning_objectives": [
+            "Describe the basic structure and function of cells.",
+            "Explain the functions of major human body systems (e.g., circulatory, digestive)."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/structure-of-a-cell"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "reproduction-and-heredity",
+          "title": "Reproduction and Heredity",
+          "directory": "04-reproduction-and-heredity",
+          "path": "04-science/04-reproduction-and-heredity",
+          "description": "Growth, development, patterns of inheritance, and the molecular basis of heredity.",
+          "learning_objectives": [
+            "Differentiate between dominant and recessive traits.",
+            "Understand basic concepts of genetic inheritance, including how traits are passed from parents to offspring."
+          ],
+          "references": [
+            "https://learn.genetics.utah.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "ecology-and-adaptation",
+          "title": "Ecology and Adaptation",
+          "directory": "05-ecology-and-adaptation",
+          "path": "04-science/05-ecology-and-adaptation",
+          "description": "Change over time, natural selection, adaptation, and interdependence of organisms.",
+          "learning_objectives": [
+            "Explain the concepts of adaptation and natural selection ('survival of the fittest').",
+            "Describe the flow of energy in food chains and food webs.",
+            "Understand how ecosystems are affected by the introduction or removal of species."
+          ],
+          "references": [
+            "https://education.nationalgeographic.org/resource/ecosystem"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "properties-and-structure-of-matter",
+          "title": "Properties and Structure of Matter",
+          "directory": "06-properties-and-structure-of-matter",
+          "path": "04-science/06-properties-and-structure-of-matter",
+          "description": "Physical and chemical properties, changes of state, atoms, and elements.",
+          "learning_objectives": [
+            "Distinguish between physical and chemical properties and changes of matter.",
+            "Identify the basic structure of an atom (protons, neutrons, electrons).",
+            "Understand states of matter and mixtures/solutions."
+          ],
+          "references": [
+            "https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/01%3A_Introduction_to_Chemistry/1.03%3A_Properties_of_Matter",
+            "https://byjus.com/chemistry/properties-of-matter/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "forces-motion-and-energy",
+          "title": "Forces, Motion, and Energy",
+          "directory": "07-forces-motion-and-energy",
+          "path": "04-science/07-forces-motion-and-energy",
+          "description": "Laws of motion, equilibrium, forms of energy, and conservation of energy.",
+          "learning_objectives": [
+            "Explain what causes an object to accelerate, slow down, or remain at rest.",
+            "Describe how energy is transformed from potential to kinetic energy.",
+            "Differentiate between mass and weight."
+          ],
+          "references": [
+            "https://www.physicsclassroom.com/class/newtlaws"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "interactions-of-energy-and-matter",
+          "title": "Interactions of Energy and Matter",
+          "directory": "08-interactions-of-energy-and-matter",
+          "path": "04-science/08-interactions-of-energy-and-matter",
+          "description": "Electricity, magnetism, sound, and light waves.",
+          "learning_objectives": [
+            "Understand how visible light waves differ from sound and water waves.",
+            "Explain properties of light such as reflection and refraction.",
+            "Identify the basic components of a simple electric circuit."
+          ],
+          "references": [
+            "https://phet.colorado.edu/en/simulations/filter?subjects=physics"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "science-as-inquiry",
+          "title": "Science as Inquiry",
+          "directory": "09-science-as-inquiry",
+          "path": "04-science/09-science-as-inquiry",
+          "description": "Understanding science as a human endeavor, the scientific method, and unifying processes.",
+          "learning_objectives": [
+            "Explain the steps involved in scientific inquiry, such as questioning, gathering data, and drawing conclusions.",
+            "Understand how to formulate and test a scientific hypothesis.",
+            "Use appropriate laboratory tools for measurement and experimentation."
+          ],
+          "references": [
+            "https://undsci.berkeley.edu/article/howscienceworks_01"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}
