@@ -2,7 +2,7 @@
 
 Welcome! Pull up a chair. 
 
-Think about how you describe your daily life. If you go to the pizza shop, buy a $4 slice of pizza, and toss $1 into the tip jar, you know right away how much of your allowance you just spent. You don't freeze up and panic! You just do the math in your head. 
+Think about how you describe your daily life. If you go to the pizza shop, buy a \$4 slice of pizza, and toss \$1 into the tip jar, you know right away how much of your allowance you just spent. You don't freeze up and panic! You just do the math in your head. 
 
 But what if you wanted to write that process down so a computer could do it for a million different customers? What if the pizza price changes? What if the tip changes? You need a super cool code that is flexible enough to handle things you don't know yet, but precise enough to get the perfect answer every single time. 
 
@@ -136,9 +136,9 @@ Now we arrive at the coolest part of algebra: building real-world models. This i
 
 ### 1. The Business Model (Linear Costs)
 Imagine you are starting a business selling custom skateboards. 
-Before you build a single board, you have to buy a bunch of tools for $100. You have to pay this no matter what, even if you sell zero skateboards. In algebra, **fixed costs** in a real-world linear model are represented by the constant term in an algebraic equation. (It's a "constant" number because it stays the same, constantly!)
+Before you build a single board, you have to buy a bunch of tools for \$100. You have to pay this no matter what, even if you sell zero skateboards. In algebra, **fixed costs** in a real-world linear model are represented by the constant term in an algebraic equation. (It's a "constant" number because it stays the same, constantly!)
 
-Then, for every skateboard you actually build, you have to buy the wheels and the wood, which cost $20 per board. In algebra, **variable costs** in a real-world linear model are represented by a numerical coefficient multiplied by a variable. If x is the number of boards you make, your variable cost is 20 * x.
+Then, for every skateboard you actually build, you have to buy the wheels and the wood, which cost \$20 per board. In algebra, **variable costs** in a real-world linear model are represented by a numerical coefficient multiplied by a variable. If x is the number of boards you make, your variable cost is 20 * x.
 
 How do we find your total bill? **Total cost** in a linear algebraic model is calculated by adding the fixed cost to the product of the variable rate and the number of items. 
 
@@ -149,7 +149,7 @@ Let's do this step-by-step. Imagine you build 5 skateboards. What is your total 
 4. Plug in your Number of Items: 5.
 5. Multiply the variable rate by the number of items: 20 * 5 = 100.
 6. Add your fixed cost to that product: 100 + 100 = 200.
-7. Your Total Cost is $200!
+7. Your Total Cost is \$200!
 
 ### 2. The Motion Model (Road Trips!)
 If your family is driving down the highway at 60 miles per hour, and you drive for 2 hours, how far did you go? 120 miles! You totally know this already! In math talk, **distance traveled** is modeled by the algebraic equation representing Distance equal to Rate multiplied by Time. (Distance = Rate * Time).
@@ -164,18 +164,18 @@ Let's do a step-by-step road trip:
 Percentages are everywhere, from sales tax on a video game to awesome holiday discounts. 
 
 A **percentage increase** problem (like adding tax or a tip) requires multiplying the original amount by the percentage in decimal form and adding that product to the original amount.
-Let's figure out the tax on a $40 video game, with a 10% tax.
-1. Identify the original amount: $40.
+Let's figure out the tax on a \$40 video game, with a 10% tax.
+1. Identify the original amount: \$40.
 2. Change the percentage into a decimal: 10% becomes 0.10.
-3. Multiply the original amount by the decimal: 40 * 0.10 = 4. (This $4 is your tax!)
-4. Add that product to the original amount: 40 + 4 = 44. Your total is $44!
+3. Multiply the original amount by the decimal: 40 * 0.10 = 4. (This \$4 is your tax!)
+4. Add that product to the original amount: 40 + 4 = 44. Your total is \$44!
 
 A **percentage decrease** problem (like a clearance sale) requires multiplying the original amount by the percentage in decimal form and subtracting that product from the original amount.
-Let's buy a $50 pair of sneakers that are on sale for 20% off.
-1. Identify the original amount: $50.
+Let's buy a \$50 pair of sneakers that are on sale for 20% off.
+1. Identify the original amount: \$50.
 2. Change the percentage into a decimal: 20% becomes 0.20.
-3. Multiply the original amount by the decimal: 50 * 0.20 = 10. (This $10 is your discount!)
-4. Subtract that product from the original amount: 50 - 10 = 40. Your new price is $40!
+3. Multiply the original amount by the decimal: 50 * 0.20 = 10. (This \$10 is your discount!)
+4. Subtract that product from the original amount: 50 - 10 = 40. Your new price is \$40!
 
 ### 4. The Number Theory Riddles
 Sometimes math tests like to give you little number riddles. They usually look something like this: "The sum of three consecutive integers is 42..." 

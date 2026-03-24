@@ -84,15 +84,15 @@ The simplified ratio is **3:4**. It expresses the exact same mathematical realit
 ## 4. Solving Real-World Mixture Puzzles (The "One Part" Trick)
 
 As a teacher, you will face Praxis questions that look like this:
-*A school’s [budget](https://en.wikipedia.org/wiki/Budget) for art, music, and sports is divided in the ratio 2:3:5. If the total budget is $50,000, how much money goes to the music department?*
+*A school’s [budget](https://en.wikipedia.org/wiki/Budget) for art, music, and sports is divided in the ratio 2:3:5. If the total budget is \$50,000, how much money goes to the music department?*
 
 Don't panic! Remember our concrete mix? We solve this using the "One Part" trick. 
 
-1. **Find the total parts:** First, calculate the sum of all parts in the ratio. ($2 + 3 + 5 = 10$ total parts).
+1. **Find the total parts:** First, calculate the sum of all parts in the ratio. (\$2 + 3 + 5 = 10$ total parts).
 2. **Find the value of ONE part:** To find an unknown part-to-whole quantity using a ratio, divide the real-world total quantity by the sum of the ratio parts to find the value of one single ratio part. 
    * $\$50,000 \div 10 \text{ parts} = \$5,000 \text{ per part}$.
 3. **Scale it up:** Now that you know exactly what one "piece" is worth, you can find any specific slice. The music department gets 3 parts. 
-   * $3 \text{ parts} \times \$5,000 = \$15,000$.
+   * \$3 \text{ parts} \times \$5,000 = \$15,000$.
 
 > **Working Backwards:**
 > What if the problem gave you the value of just one part and asked for the total? Easy! The total real-world quantity of a mixture defined by a ratio is calculated by multiplying the value of a single ratio part by the sum of all parts in the ratio.
@@ -139,7 +139,7 @@ Cross-multiplication isn't just for finding missing variables; it is also a [lie
 How do you know if two fractions are truly equivalent? **Two ratios form a true proportion only if their resulting cross-products are perfectly equal.**
 
 If a student asks you, "Is 5/7 equal to 7/9?" you don't need to find a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator). Just cross-multiply!
-* $5 \times 9 = 45$
+* \$5 \times 9 = 45$
 * $7 \times 7 = 49$
 Since 45 does not equal 49, those two ratios do *not* form a true proportion. The balance is broken.
 

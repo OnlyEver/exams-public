@@ -1,6 +1,6 @@
 Welcome to one of the most beautiful and fundamentally important ideas in all of [mathematics](https://en.wikipedia.org/wiki/Mathematics). Seriously! If you want to understand how the [universe](https://en.wikipedia.org/wiki/Universe) scales, how [grocery stores](https://en.wikipedia.org/wiki/Grocery_store) price [apples](https://en.wikipedia.org/wiki/Apple), or how [architects](https://en.wikipedia.org/wiki/Architect) build [skyscrapers](https://en.wikipedia.org/wiki/Skyscraper), you have to understand one profoundly simple trick: **comparison**. 
 
-When we observe the world, [numbers](https://en.wikipedia.org/wiki/Number) sitting alone don't tell us much. If I tell you a [car](https://en.wikipedia.org/wiki/Car) costs $1,000, is that good? It depends on the car! We understand the universe by comparing things to other things. That is the essence of [proportional reasoning](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). 
+When we observe the world, [numbers](https://en.wikipedia.org/wiki/Number) sitting alone don't tell us much. If I tell you a [car](https://en.wikipedia.org/wiki/Car) costs \$1,000, is that good? It depends on the car! We understand the universe by comparing things to other things. That is the essence of [proportional reasoning](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). 
 
 Let’s roll up our sleeves and figure out exactly how these comparisons work, how to visualize them, and how to use them to solve [problems](https://en.wikipedia.org/wiki/Problem_solving).
 
@@ -11,8 +11,8 @@ Let’s roll up our sleeves and figure out exactly how these comparisons work, h
 At its core, **a [ratio](https://en.wikipedia.org/wiki/Ratio) is a mathematical comparison of two [quantities](https://en.wikipedia.org/wiki/Quantity) indicating how many times one value contains or is contained within the other.** Think of it as a [recipe](https://en.wikipedia.org/wiki/Recipe). If you are making the perfect batch of [lemonade](https://en.wikipedia.org/wiki/Lemonade), you might use 3 [cups](https://en.wikipedia.org/wiki/Cup_%28unit%29) of lemon juice for every 4 cups of [water](https://en.wikipedia.org/wiki/Water). 
 
 You can write this exact relationship in three perfectly acceptable ways:
-1.  **Ratios can be expressed using a [colon](https://en.wikipedia.org/wiki/Colon_%28punctuation%29):** $3:4$
-2.  **Ratios can be expressed using the word "to":** $3 \text{ to } 4$
+1.  **Ratios can be expressed using a [colon](https://en.wikipedia.org/wiki/Colon_%28punctuation%29):** \$3:4$
+2.  **Ratios can be expressed using the word "to":** \$3 \text{ to } 4$
 3.  **Ratios can be expressed as a [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29):** $\frac{3}{4}$
 
 > **Crucial Fact:** Do not let the different formatting fool you. **The ratio "3 to 4" is mathematically equivalent to the fraction 3/4.** It is exactly the same concept just wearing a different hat.
@@ -62,7 +62,7 @@ When two things are locked into this kind of perfect harmony, we say they hold a
 If we are looking at how a [dependent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables) ($y$, like money earned) changes based on an [independent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables) ($x$, like hours worked), we can find a magic number that links them. 
 
 **The constant of proportionality is the constant ratio of the dependent variable to the independent variable.** 
-If you make $15 every single hour, $15 is your constant. In [algebra](https://en.wikipedia.org/wiki/Algebra), we write this perfectly as **the linear equation $y = kx$, where the [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) $k$ represents the constant of proportionality.**
+If you make \$15 every single hour, \$15 is your constant. In [algebra](https://en.wikipedia.org/wiki/Algebra), we write this perfectly as **the linear equation $y = kx$, where the [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) $k$ represents the constant of proportionality.**
 
 ### Graphing the Relationship
 If you plot a true proportional relationship on a piece of [graph paper](https://en.wikipedia.org/wiki/Graph_paper), two things must mathematically happen every single time:
@@ -83,7 +83,7 @@ How do we solve it? We use a brilliant algebraic trick.
 **Cross-multiplication is an algebraic method used to solve for an [unknown value](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) in a proportion.** 
 
 Why does cross-multiplication work? It’s not magic; it’s a mathematical certainty! **The cross products of two equivalent fractions are always equal to each other.** 
-*Try it: $\frac{3}{4} = \frac{6}{8}$. Multiply across the diagonals. $3 \times 8 = 24$. And $4 \times 6 = 24$. It works flawlessly!*
+*Try it: $\frac{3}{4} = \frac{6}{8}$. Multiply across the diagonals. \$3 \times 8 = 24$. And \$4 \times 6 = 24$. It works flawlessly!*
 
 ### Building Worlds: The Scale Factor
 Architects and [mapmakers](https://en.wikipedia.org/wiki/Cartography) use proportions to shrink the world down onto paper. They do this using a **[scale factor](https://en.wikipedia.org/wiki/Scale_factor)**, which **is the ratio of a length on a scale drawing to the corresponding length on the actual object.** 
@@ -103,8 +103,8 @@ To be a master of math, you must be able to fluidly convert numbers between [dec
 
 | Operation | The Rule | Example |
 | :--- | :--- | :--- |
-| **Decimal to Percent** | **To convert a decimal number to a percent, multiply the decimal number by 100.** | $0.45 \times 100 = 45\%$ |
-| **Percent to Decimal** | **To convert a percent value to a decimal number, divide the percent value by 100.** | $82\% \div 100 = 0.82$ |
+| **Decimal to Percent** | **To convert a decimal number to a percent, multiply the decimal number by 100.** | \$0.45 \times 100 = 45\%$ |
+| **Percent to Decimal** | **To convert a percent value to a decimal number, divide the percent value by 100.** | \$82\% \div 100 = 0.82$ |
 | **Fraction to Percent** | **To convert a fraction to a percent, divide the numerator by the denominator and multiply the resulting decimal by 100.** | $\frac{3}{4} = 0.75 \rightarrow 75\%$ |
 
 ### Setting Up Percent Problems
@@ -112,7 +112,7 @@ Every percent problem in the world can be solved with one beautifully simple pro
 
 $$\frac{\text{Part}}{\text{Whole}} = \frac{\%}{100}$$
 
-If you just need a quick [calculation](https://en.wikipedia.org/wiki/Calculation), you can use the algebraic shortcut: **To find a specific percent of a given number, convert the percent to a decimal and multiply by the given number.** (e.g., To find 20% of 50, multiply $0.20 \times 50 = 10$).
+If you just need a quick [calculation](https://en.wikipedia.org/wiki/Calculation), you can use the algebraic shortcut: **To find a specific percent of a given number, convert the percent to a decimal and multiply by the given number.** (e.g., To find 20% of 50, multiply \$0.20 \times 50 = 10$).
 
 ---
 
@@ -140,7 +140,7 @@ Finally, let's talk about banking. When you lend out [money](https://en.wikipedi
 *   **$R$** = Rate (the percent)
 *   **$T$** = Time (usually in [years](https://en.wikipedia.org/wiki/Year))
 
-**Warning:** Don't let the formula trap you! **In the simple interest formula, the rate must be expressed as a decimal or fraction before multiplying.** If your interest rate is 5%, you must plug it into the formula as $0.05$. 
+**Warning:** Don't let the formula trap you! **In the simple interest formula, the rate must be expressed as a decimal or fraction before multiplying.** If your interest rate is 5%, you must plug it into the formula as \$0.05$. 
 
 ---
 

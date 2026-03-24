@@ -95,11 +95,11 @@ You will constantly be looking at the math and money side of things:
 *   **A registered nurse assesses a client's financial barriers to obtaining newly prescribed medications.** (If the medicine is too expensive, they won't buy it, and they'll get sick again).
 
 *Here is a step-by-step math example of how a case manager checks if a patient can afford a new medicine:*
-1. Identify the total cost of the medicine. Let's say the medicine costs $200.
+1. Identify the total cost of the medicine. Let's say the medicine costs \$200.
 2. Figure out the fraction or percentage that the health insurance will pay. Let's say insurance pays 80% (which is 80/100).
-3. Calculate the insurance payment. Multiply the cost by the fraction: $200 x 80/100 = $160.
-4. Subtract the insurance payment from the total cost to find out what the patient owes out of their own pocket. $200 - $160 = $40.
-5. Ask the patient if paying $40 every month is a financial barrier. If it is too much, the case manager helps find a cheaper option!
+3. Calculate the insurance payment. Multiply the cost by the fraction: \$200 x 80/100 = \$160.
+4. Subtract the insurance payment from the total cost to find out what the patient owes out of their own pocket. \$200 - $160 = $40.
+5. Ask the patient if paying \$40 every month is a financial barrier. If it is too much, the case manager helps find a cheaper option!
 
 *   **Case managers collaborate with health insurance providers to determine financial coverage for home care services.** 
 *   **Case managers collaborate with health insurance providers to determine financial coverage for durable medical equipment.** (Will their insurance pay for that new wheelchair?)

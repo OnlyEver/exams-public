@@ -55,18 +55,18 @@ Now we get to the most important part for your test: understanding how average n
 ### The Fragile Mean
 The "mean" is the regular average. You find it by adding everything up and dividing by the total number of items. Because every single number gets mixed in, **the mean of a data set is highly sensitive to the presence of outliers.** 
 
-Think about your weekly allowance. Let's say you get $5 a week. 
-*   **An exceptionally large outlier increases the mean of a data set.** If Grandma visits and gives you $100, your average skyrockets! 
-*   **An exceptionally small outlier decreases the mean of a data set.** If you break a vase and your parents give you $0, your average drops. 
+Think about your weekly allowance. Let's say you get \$5 a week. 
+*   **An exceptionally large outlier increases the mean of a data set.** If Grandma visits and gives you \$100, your average skyrockets! 
+*   **An exceptionally small outlier decreases the mean of a data set.** If you break a vase and your parents give you \$0, your average drops. 
 
 Basically, **the presence of an outlier pulls the mathematical mean in the direction of the outlier value.** 
 
 Let's prove it with step-by-step math!
-1. You get $5 a week for 4 weeks. Add them up: 5 + 5 + 5 + 5 = 20.
+1. You get \$5 a week for 4 weeks. Add them up: 5 + 5 + 5 + 5 = 20.
 2. Divide by 4 weeks to find the mean: 20 / 4 = 5. Your average is $5.
 3. On week 5, Grandma gives you $100! Add the new total up: 20 + 100 = 120.
 4. Divide by 5 weeks: 120 / 5 = 24.
-Just one $100 bill pulled your normal $5 average all the way up to $24!
+Just one \$100 bill pulled your normal \$5 average all the way up to \$24!
 
 ### The Unshakable Median
 The "median" works differently. The median is simply the number standing exactly in the middle when you line them all up from smallest to largest. It doesn't care how big the biggest number is. Therefore, **the median of a data set is highly resistant to the mathematical effects of outliers.** 
@@ -76,7 +76,7 @@ In fact, if you have a lot of numbers, **the median of a data set frequently rem
 Let's do the step-by-step math for the median using your allowance:
 1. Write your five weeks of allowance in order from smallest to largest: 5, 5, 5, 5, 100.
 2. Count in from the edges to find the exact middle number.
-3. The middle number is 5! Even with the huge $100 added, the median stayed exactly the same.
+3. The middle number is 5! Even with the huge \$100 added, the median stayed exactly the same.
 
 Because it ignores the crazy numbers, **the median provides a more representative measure of central tendency than the mean for data sets containing extreme outliers.** It tells a much truer story of what usually happens.
 

@@ -32,7 +32,7 @@ Why? Because they are battling it out! The deposit cancels out some of the debt,
 
 Now, look at a perfect tie. **The sum of any integer and the [mathematical opposite](https://en.wikipedia.org/wiki/Additive_inverse) of that exact integer is always equal to zero.** (e.g., $7 + (-7) = 0$). The forces perfectly annihilate one another.
 
-What about [subtraction](https://en.wikipedia.org/wiki/Subtraction)? Here is a brilliant trick: subtraction is just addition wearing a fake mustache. **Subtracting an integer is mathematically equivalent to adding the opposite of that integer.** If I forgive your $50 debt (subtracting $-50$), it’s mathematically the exact same thing as handing you $50 (adding $+50$). 
+What about [subtraction](https://en.wikipedia.org/wiki/Subtraction)? Here is a brilliant trick: subtraction is just addition wearing a fake mustache. **Subtracting an integer is mathematically equivalent to adding the opposite of that integer.** If I forgive your \$50 debt (subtracting \$-50$), it’s mathematically the exact same thing as handing you \$50 (adding $+50$). 
 *   $10 - (-3)$ is fundamentally the same as $10 + 3 = 13$.
 
 ### Multiplying and Dividing Integers

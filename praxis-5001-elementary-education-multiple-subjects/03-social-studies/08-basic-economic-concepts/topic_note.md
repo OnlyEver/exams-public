@@ -25,7 +25,7 @@ But economists have a very specific, beautiful way of measuring the true cost of
 
 > **Opportunity cost** is the specific value of the single next best alternative given up when making a choice. 
 
-Opportunity cost isn't everything you *could* have done; it's the specific value of the *single best* thing you gave up. If you spend $10 on a book, the opportunity cost isn't just the $10; it's the movie ticket you would have bought with that exact $10 if you hadn't bought the book. 
+Opportunity cost isn't everything you *could* have done; it's the specific value of the *single best* thing you gave up. If you spend \$10 on a book, the opportunity cost isn't just the \$10; it's the movie ticket you would have bought with that exact \$10 if you hadn't bought the book. 
 
 ---
 
@@ -51,7 +51,7 @@ Imagine a chaotic farmer's market. Buyers want to pay as little as possible. Sel
 At equilibrium, the market clears. Everyone who wants a strawberry at that price gets one, and every farmer sells out exactly at the end of the day. 
 
 But what if the price is off? 
-* If a farmer charges $10 a berry, nobody buys. **An economic surplus occurs when the quantity supplied of a product exceeds the quantity demanded.** The berries rot, and the farmer is forced to lower the price.
+* If a farmer charges \$10 a berry, nobody buys. **An economic surplus occurs when the quantity supplied of a product exceeds the quantity demanded.** The berries rot, and the farmer is forced to lower the price.
 * If the farmer charges 1 cent a berry, a mob forms and buys them all in five seconds. **An economic shortage occurs when the quantity demanded of a product exceeds the quantity supplied.** The farmer realizes they can raise the price. 
 
 This invisible tug-of-war constantly pushes prices toward equilibrium.
@@ -118,7 +118,7 @@ If GDP goes up year over year, the economy is growing. More stuff is being made,
 
 ### The Value of Money: Inflation and Deflation
 But the value of the money itself can change! 
-* **Inflation is the rate at which the general level of prices for market products rises.** If inflation is high, a gallon of milk that cost $3 yesterday costs $4 today. Because of this, **high inflation decreases the overall purchasing power of a specific national [currency](https://en.wikipedia.org/wiki/Currency).** Your dollar suddenly buys less. 
+* **Inflation is the rate at which the general level of prices for market products rises.** If inflation is high, a gallon of milk that cost \$3 yesterday costs \$4 today. Because of this, **high inflation decreases the overall purchasing power of a specific national [currency](https://en.wikipedia.org/wiki/Currency).** Your dollar suddenly buys less. 
 * The reverse can also happen. **Deflation is a sustained decrease in the general price level of economic output within a nation.** (While cheaper prices sound great, severe deflation often means the economy is grinding to a halt because people stop spending, waiting for things to get even cheaper).
 
 ### How the Government Steers: Fiscal vs. Monetary Policy

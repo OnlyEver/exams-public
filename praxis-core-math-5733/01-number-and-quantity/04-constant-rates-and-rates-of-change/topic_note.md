@@ -54,12 +54,12 @@ Now, let's step out of the car and walk into the [supermarket](https://en.wikipe
 
 Instead of a [rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29) of [speed](https://en.wikipedia.org/wiki/Speed), shoppers look for a **[unit price](https://en.wikipedia.org/wiki/Unit_price)**. 
 
-If a giant crate of 12 [pineapples](https://en.wikipedia.org/wiki/Pineapple) costs $36, is that a good deal? To find out, we need the [unit price](https://en.wikipedia.org/wiki/Unit_price). Just like we found our [speed](https://en.wikipedia.org/wiki/Speed) by [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) [distance](https://en.wikipedia.org/wiki/Distance) by [time](https://en.wikipedia.org/wiki/Time), **the unit price of a product is calculated by dividing the total cost by the number of [units](https://en.wikipedia.org/wiki/Unit_of_measurement).** 
+If a giant crate of 12 [pineapples](https://en.wikipedia.org/wiki/Pineapple) costs \$36, is that a good deal? To find out, we need the [unit price](https://en.wikipedia.org/wiki/Unit_price). Just like we found our [speed](https://en.wikipedia.org/wiki/Speed) by [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) [distance](https://en.wikipedia.org/wiki/Distance) by [time](https://en.wikipedia.org/wiki/Time), **the unit price of a product is calculated by dividing the total cost by the number of [units](https://en.wikipedia.org/wiki/Unit_of_measurement).** 
 
-$36 [divided](https://en.wikipedia.org/wiki/Division_%28mathematics%29) by 12 [pineapples](https://en.wikipedia.org/wiki/Pineapple) means the [unit price](https://en.wikipedia.org/wiki/Unit_price) is $3 *per* pineapple. 
+\$36 [divided](https://en.wikipedia.org/wiki/Division_%28mathematics%29) by 12 [pineapples](https://en.wikipedia.org/wiki/Pineapple) means the [unit price](https://en.wikipedia.org/wiki/Unit_price) is \$3 *per* pineapple. 
 
 And if you know the [unit price](https://en.wikipedia.org/wiki/Unit_price), you have the power to predict the future of your wallet. Let's say you decide to buy 50 [pineapples](https://en.wikipedia.org/wiki/Pineapple) for a massive neighborhood [luau](https://en.wikipedia.org/wiki/Luau). **Total cost based on a constant unit price equals the unit price [multiplied](https://en.wikipedia.org/wiki/Multiplication) by the total [quantity](https://en.wikipedia.org/wiki/Quantity) purchased.** 
-At $3 a pineapple, multiplied by 50 pineapples, your total cost is $150. It’s the exact same mathematical machinery as multiplying your [speed](https://en.wikipedia.org/wiki/Speed) by your [time](https://en.wikipedia.org/wiki/Time) to get your [distance](https://en.wikipedia.org/wiki/Distance)! 
+At \$3 a pineapple, multiplied by 50 pineapples, your total cost is \$150. It’s the exact same mathematical machinery as multiplying your [speed](https://en.wikipedia.org/wiki/Speed) by your [time](https://en.wikipedia.org/wiki/Time) to get your [distance](https://en.wikipedia.org/wiki/Distance)! 
 
 ---
 
@@ -112,7 +112,7 @@ We want to get rid of "minutes". So we multiply by our [conversion factor](https
 
 $$ \frac{10 \text{ gallons}}{1 \text{ minute}} \times \frac{60 \text{ minutes}}{1 \text{ hour}} $$
 
-The "minutes" visually cancel each other out. You multiply straight across: $10 \times 60 = 600$. 
+The "minutes" visually cancel each other out. You multiply straight across: \$10 \times 60 = 600$. 
 Your new [rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29) is **600 [gallons](https://en.wikipedia.org/wiki/Gallon) per [hour](https://en.wikipedia.org/wiki/Hour)**. 
 
 Did the water suddenly start blasting out of the [hose](https://en.wikipedia.org/wiki/Hose) faster? No! The physical reality of the water is identical. We just changed its clothes. We changed the [units](https://en.wikipedia.org/wiki/Unit_of_measurement) without changing the actual mathematical value of the flow.
@@ -137,10 +137,10 @@ $$ \frac{60 \text{ \cancel{miles}}}{1 \text{ \cancel{hour}}} \times \frac{5,280 
 The [miles](https://en.wikipedia.org/wiki/Mile) cancel. The [hours](https://en.wikipedia.org/wiki/Hour) cancel. The [minutes](https://en.wikipedia.org/wiki/Minute) cancel. The only words left standing are "feet" on the top and "seconds" on the bottom. 
 
 Do the math on the numbers: 
-Top: $60 \times 5,280 \times 1 \times 1 = 316,800$
+Top: \$60 \times 5,280 \times 1 \times 1 = 316,800$
 Bottom: $1 \times 1 \times 60 \times 60 = 3,600$
 
-$316,800 \text{ feet} \div 3,600 \text{ seconds} = \mathbf{88 \text{ feet per second}}.$
+\$316,800 \text{ feet} \div 3,600 \text{ seconds} = \mathbf{88 \text{ feet per second}}.$
 
 Think about that. When you are casually driving down the [highway](https://en.wikipedia.org/wiki/Highway) at 60 [mph](https://en.wikipedia.org/wiki/Miles_per_hour), you are traveling 88 [feet](https://en.wikipedia.org/wiki/Foot_%28unit%29) *every single [second](https://en.wikipedia.org/wiki/Second)*. By understanding [rates](https://en.wikipedia.org/wiki/Rate_%28mathematics%29), you uncover the profound, hidden [speed](https://en.wikipedia.org/wiki/Speed) of everyday life. 
 

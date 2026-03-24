@@ -2,7 +2,7 @@
 
 Welcome to the world of linear equations! Now, I know what you might be thinking: *“Professor, a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) is the most boring thing in the universe. It just sits there on the page.”* 
 
-But that’s exactly where you’re wrong! A line is a story of *constant, unyielding change*. Everything in nature that moves at a steady pace—a car driving down the highway at 60 miles per hour, your paycheck coming in at $20 an hour, a pool draining at 5 gallons a minute—leaves a straight line as its footprint. If you can understand the line, you can understand exactly how these systems behave, not just today, but forever into the future. 
+But that’s exactly where you’re wrong! A line is a story of *constant, unyielding change*. Everything in nature that moves at a steady pace—a car driving down the highway at 60 miles per hour, your paycheck coming in at \$20 an hour, a pool draining at 5 gallons a minute—leaves a straight line as its footprint. If you can understand the line, you can understand exactly how these systems behave, not just today, but forever into the future. 
 
 To pass the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), we can't just memorize formulas. We have to *feel* the lines. We need to know how fast they change (the **[slope](https://en.wikipedia.org/wiki/Slope)**) and where they anchor to our world (the **intercepts**). Let’s dive in and see how beautifully simple this actually is.
 
@@ -35,7 +35,7 @@ Here is the most crucial, defining secret of a straight line: **The slope of a s
 
 If you pick two points close together, or two points thousands of miles apart on that same line, the ratio of rise to run will reduce to the exact same number. That unwavering constancy is literally what *makes* the line straight!
 
-We can see this rule play out in data tables, too. **A table of $(x, y)$ values represents a linear relationship if the ratio of the change in $y$ to the change in $x$ is identical across all adjacent pairs of points.** If the $y$-values jump by 4 every time the $x$-values jump by 2, that ratio ($4/2 = 2$) is your constant slope.
+We can see this rule play out in data tables, too. **A table of $(x, y)$ values represents a linear relationship if the ratio of the change in $y$ to the change in $x$ is identical across all adjacent pairs of points.** If the $y$-values jump by 4 every time the $x$-values jump by 2, that ratio (\$4/2 = 2$) is your constant slope.
 
 ---
 
@@ -47,7 +47,7 @@ Not all slopes are created equal. Depending on the ratio of rise to run, lines e
 | :--- | :--- | :--- |
 | **Positive Slope** | **A line with a positive slope slants upward from left to right.** | As $x$ increases, $y$ increases. Both the rise and run share the same [sign](https://en.wikipedia.org/wiki/Sign_%28mathematics%29). |
 | **Negative Slope** | **A line with a negative slope slants downward from left to right.** | As $x$ increases, $y$ decreases. The rise is negative while the run is positive. |
-| **Zero Slope** | **A perfectly horizontal line has a slope of exactly zero.** | There is absolutely no vertical change (rise = 0). Since $0$ divided by any number is $0$, the slope is $0$. |
+| **Zero Slope** | **A perfectly horizontal line has a slope of exactly zero.** | There is absolutely no vertical change (rise = 0). Since \$0$ divided by any number is $0$, the slope is \$0$. |
 | **Undefined Slope** | **A perfectly vertical line has an undefined slope.** | There is absolutely no horizontal change (run = 0). In mathematics, [dividing by zero is impossible](https://en.wikipedia.org/wiki/Division_by_zero)—it breaks the rules of arithmetic! Therefore, the slope doesn't exist; it's *undefined*. |
 
 ---
@@ -56,7 +56,7 @@ Not all slopes are created equal. Depending on the ratio of rise to run, lines e
 
 Lines don't just float in a void; they are drawn on a coordinate plane featuring an $x$-axis and a $y$-axis. The points where our lines crash into these axes are incredibly important. We call them the **intercepts**. 
 
-In real-world terms, an intercept often represents a starting point (like having $50 before you start earning your hourly wage) or a finishing point (like when a drained pool hits 0 gallons).
+In real-world terms, an intercept often represents a starting point (like having \$50 before you start earning your hourly wage) or a finishing point (like when a drained pool hits 0 gallons).
 
 ### The Y-Intercept
 **The $y$-intercept of a line is the exact point where the line crosses the [$y$-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** 

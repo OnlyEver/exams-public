@@ -70,7 +70,7 @@ If you want a simple shortcut, we use the "Desired over Have" formula. **The bas
 
 ## 3. The Rules of Precision: Rounding and Zeros
 
-Now, let's talk about the danger of the decimal point. A misplaced decimal is like adding an extra zero to a price tag—it changes a $5 toy into a $50 toy! In medicine, giving 10 times too much medicine is incredibly dangerous. So, we have strict rules for writing numbers.
+Now, let's talk about the danger of the decimal point. A misplaced decimal is like adding an extra zero to a price tag—it changes a \$5 toy into a \$50 toy! In medicine, giving 10 times too much medicine is incredibly dangerous. So, we have strict rules for writing numbers.
 
 *   **Leading Zeros:** If a dose is less than one whole number, medication doses expressed as a decimal less than 1.0 require a leading zero to prevent medication administration errors. You write **0.5 mg**, never *.5 mg*. Without the big zero in front, someone might miss the tiny dot and give 5 mg by mistake!
 *   **Trailing Zeros:** On the flip side, **trailing zeros are never used in medication charting or dosage calculation answers.** You write **5 mg**, never *5.0 mg*. If someone doesn't see the dot, *5.0* suddenly looks like *50*! 

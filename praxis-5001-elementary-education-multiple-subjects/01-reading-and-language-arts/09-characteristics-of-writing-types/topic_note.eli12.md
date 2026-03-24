@@ -27,8 +27,8 @@ People sometimes use these words to mean the same thing, but in writing, they ar
 Think of presenting verifiable evidence like solving a math problem to prove you deserve a larger allowance for your chores. You can't just say, "I work hard!" You have to prove it step-by-step:
 1. Write down the time you spend on chores: 2 hours mowing the lawn and 1 hour washing dishes.
 2. Add your chore hours together: 2 + 1 = 3 total hours a week.
-3. Multiply those hours by a fair hourly rate, let's say $4 an hour: 3 * 4 = $12 of hard work. 
-4. State your final proof: Since your current allowance is only $10, and you proved you do $12 worth of work, asking for a raise is perfectly logical!
+3. Multiply those hours by a fair hourly rate, let's say \$4 an hour: 3 * 4 = \$12 of hard work. 
+4. State your final proof: Since your current allowance is only \$10, and you proved you do \$12 worth of work, asking for a raise is perfectly logical!
 
 Also, a good debater knows they cannot just ignore the other side's points. Therefore, **argumentative essays often address opposing viewpoints through counterarguments**. This means you mention what the other person might say (like, "I know Mom says I don't need a phone"), and then you explain why they are wrong. 
 

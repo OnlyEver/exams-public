@@ -93,22 +93,22 @@ It means the exact same thing as 18:24, but it is way easier to read!
 ## 4. Solving Real-World Mixture Puzzles (The "One Part" Trick)
 
 Sometimes you will get a puzzle like this:
-*You and your friends earn $50 total from doing yard work. You agree to split the money between three people (Alex, Taylor, and Sam) using the ratio 2:3:5. How much money does Taylor get?*
+*You and your friends earn \$50 total from doing yard work. You agree to split the money between three people (Alex, Taylor, and Sam) using the ratio 2:3:5. How much money does Taylor get?*
 
 Don't stress! We use the "One Part" trick. 
 
 Here are the steps to find Taylor's share:
 1. Find the total parts: Add the ratio numbers together. 2 + 3 + 5 = 10 total parts.
 2. Find the value of one part: **To find an unknown part-to-whole quantity using a ratio, divide the real-world total quantity by the sum of the ratio parts to find the value of one single ratio part.** 
-   * $50 / 10 parts = $5 for each part.
+   * \$50 / 10 parts = \$5 for each part.
 3. Scale it up for Taylor: Taylor gets 3 parts. Multiply Taylor's parts by the value of one part. 
-   * 3 parts x $5 = $15. Taylor gets $15!
+   * 3 parts x \$5 = $15. Taylor gets $15!
 
 > **Working Backwards:**
-> What if you only knew that one "part" of the yard work money was worth $5, and you wanted to figure out how much the whole group made? That's simple too! **The total real-world quantity of a mixture defined by a ratio is calculated by multiplying the value of a single ratio part by the sum of all parts in the ratio.**
+> What if you only knew that one "part" of the yard work money was worth \$5, and you wanted to figure out how much the whole group made? That's simple too! **The total real-world quantity of a mixture defined by a ratio is calculated by multiplying the value of a single ratio part by the sum of all parts in the ratio.**
 > Let's do it step-by-step:
 > 1. Find the sum of all parts in the ratio: 2 + 3 + 5 = 10 parts.
-> 2. Multiply the total parts by the value of one single part: 10 parts x $5 = $50 total.
+> 2. Multiply the total parts by the value of one single part: 10 parts x \$5 = \$50 total.
 
 ---
 

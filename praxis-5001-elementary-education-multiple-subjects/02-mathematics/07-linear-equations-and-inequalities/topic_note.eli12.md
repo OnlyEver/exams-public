@@ -107,16 +107,16 @@ Now, let's zoom out. Why do we care about x and y? Because they help us predict 
 
 A linear relationship represents a constant rate of change between an independent variable and a dependent variable. The independent variable is the input (like how many hours you work), and the dependent variable is the output (like how much money you earn). 
 
-Imagine you get a starting bonus of $10 just for agreeing to pull weeds in a garden, plus $5 for every hour you work. Your total money (y) depends on hours worked (x). The equation is y = 5x + 10.
+Imagine you get a starting bonus of \$10 just for agreeing to pull weeds in a garden, plus \$5 for every hour you work. Your total money (y) depends on hours worked (x). The equation is y = 5x + 10.
 
 Look at the pieces of this real-world equation:
-*   In a linear equation representing a real-world scenario, the coefficient attached to the variable typically represents the constant rate of change. (The $5 you earn per hour).
-*   In a linear equation representing a real-world scenario, the constant term typically represents the initial starting value. (The $10 bonus just for starting).
+*   In a linear equation representing a real-world scenario, the coefficient attached to the variable typically represents the constant rate of change. (The \$5 you earn per hour).
+*   In a linear equation representing a real-world scenario, the constant term typically represents the initial starting value. (The \$10 bonus just for starting).
 
 We can look at this relationship in three cool ways:
 
 ### 1. In a Table
-If we track your hours and your money in a chart, a pattern shows up. A table of values represents a linear relationship if the ratio of the change in the output variable to the change in the input variable remains constant throughout the table. That just means every time your hours go up by 1, your money goes up by exactly $5. That steady, never-changing pattern is what makes it "linear."
+If we track your hours and your money in a chart, a pattern shows up. A table of values represents a linear relationship if the ratio of the change in the output variable to the change in the input variable remains constant throughout the table. That just means every time your hours go up by 1, your money goes up by exactly \$5. That steady, never-changing pattern is what makes it "linear."
 
 ### 2. On a Graph
 If you take that table and draw dots on a grid, something magic happens. The graph of a linear relationship on a coordinate plane is always a perfectly straight line. It never wiggles or bends. 
@@ -125,7 +125,7 @@ When you look at this straight line, check out where it crashes into the main gr
 *   The x-intercept of a linear graph is the coordinate point where the line crosses the horizontal x-axis.
 *   The y-intercept of a linear graph is the coordinate point where the line crosses the vertical y-axis.
 
-What does that vertical crossing actually tell us? The y-intercept of a linear graph visually represents the initial value of the relationship when the independent variable is equal to zero. On your chore graph, the line crosses the y-axis at 10. At zero hours worked, you already have your $10 starting bonus!
+What does that vertical crossing actually tell us? The y-intercept of a linear graph visually represents the initial value of the relationship when the independent variable is equal to zero. On your chore graph, the line crosses the y-axis at 10. At zero hours worked, you already have your \$10 starting bonus!
 
 ### 3. As a Prediction Tool
 The absolute best superpower of a linear relationship is being able to predict the future. Substituting a specific value for the independent variable into a linear equation yields the exact corresponding value of the dependent variable. 
@@ -136,7 +136,7 @@ Let's do the math step-by-step for y = 5x + 10:
 1. Replace the x with the number 8. Now we have y = 5(8) + 10.
 2. Multiply 5 by 8. (5 times 8 is 40). Now we have y = 40 + 10.
 3. Add 40 and 10 together. (40 + 10 = 50).
-4. You now know the exact dependent value: you will make $50!
+4. You now know the exact dependent value: you will make \$50!
 
 ---
 

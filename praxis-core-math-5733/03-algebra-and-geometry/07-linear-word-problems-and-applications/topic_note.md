@@ -47,7 +47,7 @@ To model this, we use the most famous, most useful formula in basic [algebra](ht
 This isn't just a jumble of letters; it is a story. Let's break down the characters in this story.
 
 ### The Slope ($m$) and The Y-Intercept ($b$)
-*   **The variable $m$ in the equation $y = mx + b$ represents the [slope](https://en.wikipedia.org/wiki/Slope) or rate of change.** In a real-world scenario, a repeating per-unit rate corresponds to the slope of the constructed linear equation. Think of words like *per, each,* or *every*. ($50 *per* hour, $2 *each* apple).
+*   **The variable $m$ in the equation $y = mx + b$ represents the [slope](https://en.wikipedia.org/wiki/Slope) or rate of change.** In a real-world scenario, a repeating per-unit rate corresponds to the slope of the constructed linear equation. Think of words like *per, each,* or *every*. (\$50 *per* hour, \$2 *each* apple).
 *   **The variable $b$ in the equation $y = mx + b$ represents the y-intercept or initial value.** A fixed starting amount in a real-world scenario corresponds to the y-intercept of the constructed linear equation. This is your flat fee, your down payment, or your starting distance. It happens exactly *once*.
 
 ### Independent vs. Dependent Variables
@@ -56,7 +56,7 @@ Now, what about the $x$ and the $y$?
 *   **The Dependent Variable ($y$):** This is the output. It *depends* on whatever happened with $x$. Very often on the [Praxis](https://en.wikipedia.org/wiki/Praxis_test), the dependent variable in a linear word problem frequently represents an accumulated total cost.
 
 ### Building the Equation: Total Cost
-Let's put it all together. Imagine a plumber charges a $75 flat fee just to show up at your house, and then $50 for every hour he works. 
+Let's put it all together. Imagine a plumber charges a \$75 flat fee just to show up at your house, and then \$50 for every hour he works. 
 
 How do we build an equation for your final bill? **Constructing a total cost linear equation requires adding the fixed initial value to the product of the rate and the independent variable.**
 
@@ -82,17 +82,17 @@ Think of an [algebraic equation](https://en.wikipedia.org/wiki/Algebraic_equatio
 > *   **Addition is the inverse mathematical operation of subtraction.** (If a number is being subtracted from your variable, add it to both sides!)
 > *   **Multiplication is the inverse mathematical operation of division.** (If your variable is divided by a number, multiply both sides by that number!)
 
-Let's look at our plumber from earlier. Suppose your total bill ($y$) was $225. How many hours did the plumber work?
+Let's look at our plumber from earlier. Suppose your total bill ($y$) was \$225. How many hours did the plumber work?
 
-**Equation:** $225 = 50x + 75$
+**Equation:** \$225 = 50x + 75$
 
 **Step 1: Isolate the term with the variable.** We need to get rid of the "$+ 75$". Since addition is the inverse of subtraction, we subtract 75 from both sides.
-$225 - 75 = 50x + 75 - 75$
-$150 = 50x$
+\$225 - 75 = 50x + 75 - 75$
+\$150 = 50x$
 
 **Step 2: Isolate the variable completely.** The $x$ is being multiplied by 50. Since division is the inverse of multiplication, we divide both sides by 50.
-$150 \div 50 = x$
-$3 = x$
+\$150 \div 50 = x$
+\$3 = x$
 
 The plumber worked for 3 hours. You just unwrapped the present!
 
@@ -111,7 +111,7 @@ Notice how this is just a stripped-down version of $y = mx + b$? Your distance (
 You did the math. You got $x = 3$. Are you done? **No!** A great [mathematician](https://en.wikipedia.org/wiki/Mathematician), and a great teacher, always double-checks their work. 
 
 First, the mechanical check. **Verifying an algebraic solution requires substituting the calculated numerical value back into the original word problem constraints.** 
-If we think the plumber worked 3 hours, plug 3 back into the original setup. Does $50(3) + 75$ equal $225$? Yes: $150 + 75 = 225$. The math is solid.
+If we think the plumber worked 3 hours, plug 3 back into the original setup. Does \$50(3) + 75$ equal $225$? Yes: \$150 + 75 = 225$. The math is solid.
 
 Second, the *logical* check. This is where you bring your human brain back into the equation. Math is perfectly [logical](https://en.wikipedia.org/wiki/Logic), but it doesn't know the context of your word problem. It just cranks out numbers.
 
@@ -121,7 +121,7 @@ Imagine you are solving a problem to figure out how many buses you need to rent 
 Math says: "You need 4.2 buses."
 Reality says: "You cannot rent 0.2 of a school bus." 
 
-Because of real-world constraints, you must [round up](https://en.wikipedia.org/wiki/Rounding) to 5 buses to fit everyone. Similarly, if you solve a time/distance equation and find that the time traveled was $-4$ hours, you must discard that solution. Time cannot be [negative](https://en.wikipedia.org/wiki/Negative_number)! Never let the algebra override your common sense.
+Because of real-world constraints, you must [round up](https://en.wikipedia.org/wiki/Rounding) to 5 buses to fit everyone. Similarly, if you solve a time/distance equation and find that the time traveled was \$-4$ hours, you must discard that solution. Time cannot be [negative](https://en.wikipedia.org/wiki/Negative_number)! Never let the algebra override your common sense.
 
 ---
 

@@ -70,7 +70,7 @@ If your numbers add up to 799 or 805, you know you made a little mistake in your
 
 Sometimes math problems give you a mystery. Instead of telling you the total amount of kids, they tell you about just one slice and ask you to figure out the whole pizza!
 
-Imagine a graph showing how a town spends its money. You don't know the total money, but you see the "Parks" slice is 15%. A note says the parks got $45,000. 
+Imagine a graph showing how a town spends its money. You don't know the total money, but you see the "Parks" slice is 15%. A note says the parks got \$45,000. 
 
 How do we find the total town money? We just run our math in reverse!
 
@@ -79,10 +79,10 @@ How do we find the total town money? We just run our math in reverse!
 
 Let's solve the mystery step-by-step:
 1. Convert the 15% to a decimal by dividing by 100: 15 / 100 = 0.15.
-2. Take the exact amount of money for that slice ($45,000).
+2. Take the exact amount of money for that slice (\$45,000).
 3. Divide that amount by your decimal: 45,000 / 0.15 = 300,000.
 
-The total money the town has is $300,000! You used one little slice to figure out the whole pie.
+The total money the town has is \$300,000! You used one little slice to figure out the whole pie.
 
 ---
 

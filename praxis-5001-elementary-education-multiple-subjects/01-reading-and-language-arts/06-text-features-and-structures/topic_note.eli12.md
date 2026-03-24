@@ -91,7 +91,7 @@ Here is a quick math example to show how cause and effect outcomes work:
 Let's say you did extra chores this week (the cause), so you earned a bonus allowance (the effect outcome). 
 1.  **Step 1:** You start with your normal weekly allowance of $10.
 2.  **Step 2:** You earn a $5 bonus because you washed the car (10 + 5).
-3.  **Step 3:** Your final outcome is $15!
+3.  **Step 3:** Your final outcome is \$15!
 
 ### 3. The Innovator
 Sometimes, an author isn't just giving you facts; they want to help fix something that is broken.

@@ -109,8 +109,8 @@ Here is a super cool concept. The direction of the line tells you *what* is happ
 **The steepness of a line segment on a line graph visually represents the rate of change of the measured variable.** 
 
 Think about riding your bike up a hill. If you ride up a gentle hill, you're going up slowly. If you try to ride up a cliff, you're going up incredibly fast. The exact same idea applies to our graphs!
-*   **A steeper slope on a line graph indicates a faster rate of mathematical change.** If you get $50 for your birthday in one day, the line connecting yesterday to today will shoot straight up like a steep cliff.
-*   **A flatter slope on a line graph indicates a slower rate of mathematical change.** If you only save $1 a week, the line will look like a gentle, lazy ramp.
+*   **A steeper slope on a line graph indicates a faster rate of mathematical change.** If you get \$50 for your birthday in one day, the line connecting yesterday to today will shoot straight up like a steep cliff.
+*   **A flatter slope on a line graph indicates a slower rate of mathematical change.** If you only save \$1 a week, the line will look like a gentle, lazy ramp.
 
 ### Complexity: Multiple Lines and Mathematical Prophecy
 

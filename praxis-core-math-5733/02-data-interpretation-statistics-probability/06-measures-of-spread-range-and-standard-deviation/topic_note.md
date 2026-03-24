@@ -36,7 +36,7 @@ The range is incredibly easy to calculate, but it comes with a massive [mathemat
 
 Because of this, **the range is highly sensitive to outliers.** 
 
-Imagine if we looked at the salaries of ten people in a coffee shop. Nine of them make between $30,000 and $40,000 a year. The range of their salaries is $10,000. But then, a [billionaire](https://en.wikipedia.org/wiki/Billionaire) walks in to buy an [espresso](https://en.wikipedia.org/wiki/Espresso). Suddenly, the "maximum" value in our data set jumps to $1,000,000,000. Our range is now $999,970,000! Does that accurately describe the spread of the people in the room? Not at all. One extreme outlier ruined the whole calculation. 
+Imagine if we looked at the salaries of ten people in a coffee shop. Nine of them make between \$30,000 and \$40,000 a year. The range of their salaries is \$10,000. But then, a [billionaire](https://en.wikipedia.org/wiki/Billionaire) walks in to buy an [espresso](https://en.wikipedia.org/wiki/Espresso). Suddenly, the "maximum" value in our data set jumps to \$1,000,000,000. Our range is now \$999,970,000! Does that accurately describe the spread of the people in the room? Not at all. One extreme outlier ruined the whole calculation. 
 
 To get a more robust picture of our data, we need a tool that pays attention to *every single number* in the set, not just the two at the very edges. 
 
@@ -102,8 +102,8 @@ What happens to the shape of the data? *Nothing.* The entire cluster of scores j
 *   The old minimum (40) becomes 50. 
 *   The old maximum (60) becomes 70. 
 
-What is the new range? $70 - 50 = 20$. 
-What was the old range? $60 - 40 = 20$. 
+What is the new range? \$70 - 50 = 20$. 
+What was the old range? \$60 - 40 = 20$. 
 
 The distance between the students didn't change! Therefore:
 > **Adding a constant value to every number in a data set does not change the range of the data set.**
@@ -114,14 +114,14 @@ If you shift data by adding or subtracting, the center moves, but the *spread* s
 
 ### Scenario B: Multiplying by a Constant (The "Scale")
 
-Now imagine a different teacher. Instead of giving 10 flat bonus points, they decide to boost everyone's score by giving them a 10% increase. Mathematically, the teacher multiplies every student's score by $1.1$. 
+Now imagine a different teacher. Instead of giving 10 flat bonus points, they decide to boost everyone's score by giving them a 10% increase. Mathematically, the teacher multiplies every student's score by \$1.1$. 
 
 Let's look at what happens. 
-*   The student who scored a 40 now has a $44$. 
-*   The student who scored a 60 now has a $66$. 
+*   The student who scored a 40 now has a \$44$. 
+*   The student who scored a 60 now has a \$66$. 
 
-What was the old range? $60 - 40 = 20$. 
-What is the new range? $66 - 44 = 22$. 
+What was the old range? \$60 - 40 = 20$. 
+What is the new range? \$66 - 44 = 22$. 
 
 The spread *grew*! Why? Because multiplication acts like a magnifying glass. The bigger numbers got a bigger boost than the smaller numbers, stretching the data out like a [rubber band](https://en.wikipedia.org/wiki/Rubber_band). 
 

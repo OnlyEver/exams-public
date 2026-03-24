@@ -84,9 +84,9 @@ But what if you want to track things as they build up? Suppose you are saving yo
 For this, we use cumulative frequency. **Cumulative frequency is the running total of frequencies from the lowest recorded category up to a specific designated category.** It builds up just like a snowball rolling down a hill, getting bigger and bigger!
 
 Here is how you calculate it step-by-step:
-1. Start with the lowest category amount (Week 1 = $5).
-2. Look at the very next category amount (Week 2 = $10).
-3. Add the new amount to your running total: $5 + $10 = $15. Your cumulative frequency up to week two is $15!
+1. Start with the lowest category amount (Week 1 = \$5).
+2. Look at the very next category amount (Week 2 = \$10).
+3. Add the new amount to your running total: $5 + $10 = \$15. Your cumulative frequency up to week two is \$15!
 
 ---
 

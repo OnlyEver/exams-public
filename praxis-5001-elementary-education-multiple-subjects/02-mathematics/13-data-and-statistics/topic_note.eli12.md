@@ -21,31 +21,31 @@ When you have a massive pile of different numbers, your brain automatically want
 ### The Mean: The Mathematical Seesaw
 Most people call this the average. **The mean is the mathematical sum of all data values divided by the total number of data values.** 
 
-Let's find the mean for a group of three kids getting their weekly allowance. One gets $2, one gets $4, and one gets $9. 
+Let's find the mean for a group of three kids getting their weekly allowance. One gets $2, one gets $4, and one gets \$9. 
 Step 1: Add all the data values together (2 + 4 + 9 = 15).
 Step 2: Count how many data values you have (we have 3 kids).
 Step 3: Divide your sum from Step 1 by your count from Step 2 (15 / 3 = 5). 
-The mean allowance is $5!
+The mean allowance is \$5!
 
 Think of the mean like kids playing on a seesaw. **The mean represents the mathematical balance point for a set of numerical data.** It tries to keep everything perfectly level. 
 
 Because it’s trying to balance everything, the mean reacts to every change:
 *   If a new kid joins who gets $10 a week (which is bigger than our $5 mean), it tips the seesaw up! **Adding a new data value strictly greater than the current mean increases the overall mean of the dataset.**
-*   If a new kid joins who gets $2 a week, it tips the seesaw down. **Adding a new data value strictly less than the current mean decreases the overall mean of the dataset.**
-*   If a new kid joins who gets exactly $5? **Adding a new data value exactly equal to the current mean results in no change to the overall mean.**
+*   If a new kid joins who gets \$2 a week, it tips the seesaw down. **Adding a new data value strictly less than the current mean decreases the overall mean of the dataset.**
+*   If a new kid joins who gets exactly \$5? **Adding a new data value exactly equal to the current mean results in no change to the overall mean.**
 
-Because the mean tries so hard to balance every single dollar, it has a big weakness. What if a billionaire kid joins the group with a $1,000 allowance? **An extreme outlier value disproportionately affects the mean compared to the median.** The mean shoots way up, even though almost no one actually gets that much money.
+Because the mean tries so hard to balance every single dollar, it has a big weakness. What if a billionaire kid joins the group with a \$1,000 allowance? **An extreme outlier value disproportionately affects the mean compared to the median.** The mean shoots way up, even though almost no one actually gets that much money.
 
 ### The Median: The Unshakable Middle
 If the mean is a delicate balancing act on a seesaw, the median is just a kid standing right in the middle of a line. 
 
 **The median is the exact middle value of a dataset ordered from least to greatest.** 
-Let's find the median for our original allowance group: $2, $4, and $9.
+Let's find the median for our original allowance group: \$2, \$4, and \$9.
 Step 1: Put the numbers in order from smallest to biggest: 2, 4, 9.
 Step 2: Cross off one number from each end until you reach the center.
-Step 3: The number left exactly in the middle is 4. The median is $4!
+Step 3: The number left exactly in the middle is 4. The median is \$4!
 
-But what if you have 4 kids? ($2, $4, $8, $10). There is no single middle! **The median of an even-numbered dataset is the arithmetic mean of the two middlemost values.**
+But what if you have 4 kids? (\$2, $4, $8, \$10). There is no single middle! **The median of an even-numbered dataset is the arithmetic mean of the two middlemost values.**
 Step 1: Put the numbers in order: 2, 4, 8, 10.
 Step 2: Find the two middle numbers: 4 and 8.
 Step 3: Add those two middle numbers together (4 + 8 = 12).

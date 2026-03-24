@@ -28,9 +28,9 @@ When you are figuring out how much a comic book costs, or counting your allowanc
 > **The Golden Rule of Money Math:**
 > **Adding or subtracting monetary amounts requires aligning the decimal points to ensure dollars are added to dollars and cents are added to cents.**
 
-If you don't line up the dots, you might accidentally add a dime to a ten-dollar bill and think you have eleven dollars instead of $10.10! Let's look at how to do this right:
+If you don't line up the dots, you might accidentally add a dime to a ten-dollar bill and think you have eleven dollars instead of \$10.10! Let's look at how to do this right:
 
-**Example: Adding $10.00 and $0.10 (a dime)**
+**Example: Adding \$10.00 and \$0.10 (a dime)**
 1.  **Step 1:** Write down your first amount: 10.00
 2.  **Step 2:** Write down your second amount right underneath it: 0.10
 3.  **Step 3:** Make sure the decimal point in 10.00 is perfectly lined up over the decimal point in 0.10.

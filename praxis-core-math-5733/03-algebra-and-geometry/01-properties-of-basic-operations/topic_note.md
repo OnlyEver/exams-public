@@ -27,8 +27,8 @@ Instead of exhaustively writing out $5 + 5 + 5 + 5 = 20$, some incredibly clever
 Now, let's talk about the physical space of a [math](https://en.wikipedia.org/wiki/Mathematics) problem. Can you move the furniture around without breaking the house? 
 
 ### The Swapping Rule
-Imagine I hand you a [$10 bill](https://en.wikipedia.org/wiki/United_States_ten-dollar_bill) and then a $5 bill. You have $15. 
-Now imagine I hand you a $5 bill first, and then a [$10 bill](https://en.wikipedia.org/wiki/United_States_ten-dollar_bill). You still have $15! 
+Imagine I hand you a [\$10 bill](https://en.wikipedia.org/wiki/United_States_ten-dollar_bill) and then a \$5 bill. You have $15. 
+Now imagine I hand you a $5 bill first, and then a [\$10 bill](https://en.wikipedia.org/wiki/United_States_ten-dollar_bill). You still have \$15! 
 
 **Swapping the order of [numbers](https://en.wikipedia.org/wiki/Number) in an [addition](https://en.wikipedia.org/wiki/Addition) problem does not change the final [sum](https://en.wikipedia.org/wiki/Summation).** 
 
@@ -36,7 +36,7 @@ Because [multiplication](https://en.wikipedia.org/wiki/Multiplication) is just r
 
 But watch out! This freedom doesn't apply to everything. What happens if we mess with [subtraction](https://en.wikipedia.org/wiki/Subtraction) or [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29)? 
 
-If you have $10 and you owe me $2 ($10 - 2$), you have $8 left. But what if we swap it? What is $2 - 10$? Now you are $8 in [debt](https://en.wikipedia.org/wiki/Debt) (-$8). The results are entirely different. Similarly, $10 \div 2 = 5$, but $2 \div 10 = 0.2$. 
+If you have \$10 and you owe me \$2 ($10 - 2$), you have \$8 left. But what if we swap it? What is \$2 - 10$? Now you are \$8 in [debt](https://en.wikipedia.org/wiki/Debt) (-\$8). The results are entirely different. Similarly, \$10 \div 2 = 5$, but \$2 \div 10 = 0.2$. 
 
 Let's summarize this reality:
 
@@ -50,7 +50,7 @@ Let's summarize this reality:
 ### The Grouping Rule (The "[VIP](https://en.wikipedia.org/wiki/Very_important_person) Section")
 In [math](https://en.wikipedia.org/wiki/Mathematics), parentheses `( )` are like the [VIP](https://en.wikipedia.org/wiki/Very_important_person) section at a party. They tell you, "Do the [math](https://en.wikipedia.org/wiki/Mathematics) in here *first*." But does the [VIP](https://en.wikipedia.org/wiki/Very_important_person) section actually matter for the final outcome?
 
-Imagine you are [adding](https://en.wikipedia.org/wiki/Addition) up the cost of a [burger](https://en.wikipedia.org/wiki/Hamburger) ($5), [fries](https://en.wikipedia.org/wiki/French_fries) ($3), and a [soda](https://en.wikipedia.org/wiki/Soft_drink) ($2). 
+Imagine you are [adding](https://en.wikipedia.org/wiki/Addition) up the cost of a [burger](https://en.wikipedia.org/wiki/Hamburger) (\$5), [fries](https://en.wikipedia.org/wiki/French_fries) (\$3), and a [soda](https://en.wikipedia.org/wiki/Soft_drink) (\$2). 
 Does it matter if you add the [burger](https://en.wikipedia.org/wiki/Hamburger) and [fries](https://en.wikipedia.org/wiki/French_fries) first, and then the [soda](https://en.wikipedia.org/wiki/Soft_drink)? 
 $(5 + 3) + 2 = 8 + 2 = 10$
 

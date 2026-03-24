@@ -51,7 +51,7 @@ Think of Tukey's 1.5 multiplier as a mathematical leash. If a data point pulls s
 
 Now we arrive at the absolute most critical concept for the Praxis Core Mathematics exam: understanding how statistical measures react to an outlier. 
 
-Let's do a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment). Imagine you are sitting in a [coffee shop](https://en.wikipedia.org/wiki/Coffeehouse) with four friends. The average (mean) [net worth](https://en.wikipedia.org/wiki/Net_worth) of the five of you is, say, $50,000. Suddenly, [billionaire](https://en.wikipedia.org/wiki/Billionaire) tech-mogul [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) walks through the door and joins your table. What happens to the mean net worth of the group? It skyrockets to billions of dollars! Are any of *you* suddenly billionaires? No. But the *mean* implies you are. 
+Let's do a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment). Imagine you are sitting in a [coffee shop](https://en.wikipedia.org/wiki/Coffeehouse) with four friends. The average (mean) [net worth](https://en.wikipedia.org/wiki/Net_worth) of the five of you is, say, \$50,000. Suddenly, [billionaire](https://en.wikipedia.org/wiki/Billionaire) tech-mogul [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) walks through the door and joins your table. What happens to the mean net worth of the group? It skyrockets to billions of dollars! Are any of *you* suddenly billionaires? No. But the *mean* implies you are. 
 
 ### The Fragile Mean
 Because you calculate the mean by adding up every single value and dividing by the count, **the mean of a data set is highly sensitive to the presence of outliers.** It acts like a powerful [magnet](https://en.wikipedia.org/wiki/Magnet). 

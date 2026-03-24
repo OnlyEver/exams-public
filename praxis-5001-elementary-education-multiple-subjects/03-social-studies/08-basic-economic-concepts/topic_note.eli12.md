@@ -27,7 +27,7 @@ Economists have a cool way of measuring the true cost of your choices.
 
 Opportunity cost isn't *everything* you could have done; it's just the very best thing you gave up. Let's look at how to figure this out with some simple step-by-step math!
 
-1. **Look at your choices:** Let's say you have $15. Your top choice is a new t-shirt ($15). Your second best choice is going to the movies ($15). 
+1. **Look at your choices:** Let's say you have \$15. Your top choice is a new t-shirt (\$15). Your second best choice is going to the movies (\$15). 
 2. **Make your decision:** You buy the t-shirt. 
 3. **Identify exactly what you gave up:** You gave up the movie ticket. 
 
@@ -60,12 +60,12 @@ But what if the price is wrong? Let's use some step-by-step math to see what hap
 
 **An economic surplus occurs when the quantity supplied of a product exceeds the quantity demanded.**
 1. The cafeteria makes 50 slices of pizza (quantity supplied = 50).
-2. They charge $10 a slice, so only 10 kids buy it (quantity demanded = 10).
+2. They charge \$10 a slice, so only 10 kids buy it (quantity demanded = 10).
 3. Subtract demand from supply (50 - 10 = 40). The cafeteria has a surplus of 40 leftover slices! They will have to lower the price tomorrow.
 
 **An economic shortage occurs when the quantity demanded of a product exceeds the quantity supplied.**
 1. The cafeteria makes 20 slices of pizza (quantity supplied = 20).
-2. They charge $1 a slice, so 60 kids want to buy it (quantity demanded = 60).
+2. They charge \$1 a slice, so 60 kids want to buy it (quantity demanded = 60).
 3. Subtract supply from demand (60 - 20 = 40). There is a shortage of 40 slices, and 40 kids go hungry! The cafeteria will realize they can raise the price tomorrow.
 
 ---
@@ -130,7 +130,7 @@ If GDP goes up year over year, the economy is growing. More stuff is being made!
 
 ### The Value of Money: Inflation and Deflation
 But the value of the money itself can change! 
-* **Inflation is the rate at which the general level of prices for market products rises.** If inflation is high, a burger that cost $3 yesterday might cost $5 today. Because of this, **high inflation decreases the overall purchasing power of a specific national currency.** Your dollar suddenly buys less. 
+* **Inflation is the rate at which the general level of prices for market products rises.** If inflation is high, a burger that cost \$3 yesterday might cost \$5 today. Because of this, **high inflation decreases the overall purchasing power of a specific national currency.** Your dollar suddenly buys less. 
 * The reverse can also happen. **Deflation is a sustained decrease in the general price level of economic output within a nation.** (Things get cheaper over a long time, which sounds cool, but usually means the economy is in trouble because people stop spending money).
 
 ### How the Government Steers: Fiscal vs. Monetary Policy
@@ -151,12 +151,12 @@ How do they control the economy? Through interest rates—which is the "price" o
 * If the economy is growing *too* fast, leading to high inflation, the Fed raises interest rates (hitting the brakes). Borrowing becomes expensive, spending slows down, and prices stop rising so fast. 
 
 Let's look at a step-by-step math example of how a bank uses interest rates:
-1. You want to borrow $100 from the bank to buy a fancy skateboard.
+1. You want to borrow \$100 from the bank to buy a fancy skateboard.
 2. The bank's interest rate is 5%.
 3. To find out what you owe extra, multiply the amount by the rate (100 x 0.05 = 5). 
-4. Add the extra $5 to your original $100. You owe the bank $105 total! 
+4. Add the extra \$5 to your original \$100. You owe the bank \$105 total! 
 
-If the central bank raises that rate to 10%, you'd owe $110, which might make you decide *not* to borrow the money at all, slowing down your spending.
+If the central bank raises that rate to 10%, you'd owe \$110, which might make you decide *not* to borrow the money at all, slowing down your spending.
 
 ---
 

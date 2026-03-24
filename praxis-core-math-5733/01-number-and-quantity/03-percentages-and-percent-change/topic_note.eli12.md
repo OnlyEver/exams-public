@@ -98,7 +98,7 @@ Let's solve it:
 
 The world is always changing. Prices go up, and your favorite game's player count goes down. When things change, we don't just care about the exact number of the change; we care about how big that change *feels*. 
 
-If someone gives you $10, is that a lot? Well, if you only had $1, getting $10 is huge! But if you already had $10,000, you wouldn't even notice $10. **Percent change calculates the relative size of the change between an original value and a new value.**
+If someone gives you \$10, is that a lot? Well, if you only had \$1, getting \$10 is huge! But if you already had \$10,000, you wouldn't even notice \$10. **Percent change calculates the relative size of the change between an original value and a new value.**
 
 Here is the best way to find percent change:
 
@@ -129,21 +129,21 @@ Let's talk about the real world: spending your allowance or birthday money.
 * **Discounts involve subtracting a specified percentage of the original price from the total cost.** 
 * **Sales tax involves adding a specified percentage of the purchase price to the total cost.**
 
-Most people figure out a discount the long, slow way: find the discount amount, then subtract it. For example, finding 20% off a $50 video game takes a few steps. 
+Most people figure out a discount the long, slow way: find the discount amount, then subtract it. For example, finding 20% off a \$50 video game takes a few steps. 
 
 But there is a trick! We can do it in one fast step using multipliers. 
 
 Think about it: if a game is 20% off, that means you are paying for 80% of it! (100% - 20% = 80%). 
 * **Multiplying a number by 1 minus the decimal rate calculates the final amount after a percent decrease.** 
-  Let's calculate a 20% discount on a $50 game:
+  Let's calculate a 20% discount on a \$50 game:
   1. Subtract the decimal rate from 1: 1 - 0.20 = 0.80
-  2. Multiply the original price by that number: 50 * 0.80 = $40.
+  2. Multiply the original price by that number: 50 * 0.80 = \$40.
 
 The exact same trick works for taxes. If you are paying an 8% sales tax, you are paying for the whole item (100%) plus the tax (8%), which means you pay 108% of the price.
 * **Multiplying a number by 1 plus the decimal rate calculates the final amount after a percent increase.**
-  Let's calculate an 8% tax on a $50 game:
+  Let's calculate an 8% tax on a \$50 game:
   1. Add the decimal rate to 1: 1 + 0.08 = 1.08
-  2. Multiply the original price by that number: 50 * 1.08 = $54.
+  2. Multiply the original price by that number: 50 * 1.08 = \$54.
 
 ### Bringing It All Together
 

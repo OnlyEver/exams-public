@@ -44,7 +44,7 @@ So what does the franchise get to do? Look at the Tenth Amendment, my friend! Th
 
 But sometimes, both Corporate and the Franchise need to use the exact same kitchen tools. We call these concurrent powers, which are governmental authorities shared simultaneously by both the federal and state governments. Both the federal and state governments hold the concurrent power to levy and collect financial taxes (they both want a slice of your paycheck!). Both the federal and state governments hold the concurrent power to establish judicial court systems. And both the federal and state governments hold the concurrent power to borrow money. 
 
-Now, what happens if Corporate says "Tacos are $5" and the Franchise says "Tacos are illegal"? Who wins the cage match? The Constitution has a pre-determined winner. The Supremacy Clause of the United States Constitution establishes federal laws as the highest law of the land! If they clash, federal law permanently overrides state law in the event of a direct legal conflict between the two. Corporate drops the hammer. Game over. 
+Now, what happens if Corporate says "Tacos are \$5" and the Franchise says "Tacos are illegal"? Who wins the cage match? The Constitution has a pre-determined winner. The Supremacy Clause of the United States Constitution establishes federal laws as the highest law of the land! If they clash, federal law permanently overrides state law in the event of a direct legal conflict between the two. Corporate drops the hammer. Game over. 
 
 But down at the very bottom, in the trenches, scrubbing the grease traps, you have the shift managers. I'm talking about local governments, which include city councils, county commissions, and municipal authorities. 
 

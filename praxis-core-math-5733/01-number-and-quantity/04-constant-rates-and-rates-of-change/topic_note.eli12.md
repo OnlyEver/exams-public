@@ -54,23 +54,23 @@ Now, let's leave the car and grab some pizza. The math of driving is the exact s
 
 When buying things, we look for a **unit price** instead of a speed. 
 
-If a giant box of 12 pizza slices costs $36, is that a good deal? We need to find the unit price to know. **The unit price of a product is calculated by dividing the total cost by the number of units.** 
+If a giant box of 12 pizza slices costs \$36, is that a good deal? We need to find the unit price to know. **The unit price of a product is calculated by dividing the total cost by the number of units.** 
 
 Here is how to do the math step-by-step:
-1. Find the total cost: $36.
+1. Find the total cost: \$36.
 2. Find the number of units: 12 slices.
 3. Divide the cost by the units: 36 / 12 = 3.
 
-The unit price is $3 *per* slice. 
+The unit price is \$3 *per* slice. 
 
 Once you know the unit price, you can figure out the cost for any party. Let's say you want to buy 50 slices for a massive birthday party. **Total cost based on a constant unit price equals the unit price multiplied by the total quantity purchased.** 
 
 Here is how to do the math step-by-step:
-1. Find the unit price: $3.
+1. Find the unit price: \$3.
 2. Find the total quantity you want: 50 slices.
 3. Multiply them: 3 * 50 = 150.
 
-Your total cost is $150. It’s the exact same math as multiplying your speed by your time to get your distance!
+Your total cost is \$150. It’s the exact same math as multiplying your speed by your time to get your distance!
 
 ---
 

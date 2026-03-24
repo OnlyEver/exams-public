@@ -2,7 +2,7 @@
 
 Welcome! Pull up a chair. 
 
-Think about how you describe the world around you. If you go to a [coffee shop](https://en.wikipedia.org/wiki/Coffeehouse), buy a $4 [latte](https://en.wikipedia.org/wiki/Latte), and leave a [tip](https://en.wikipedia.org/wiki/Gratuity), you know intuitively how much [money](https://en.wikipedia.org/wiki/Money) you spent. You don't freeze up and say, "I am incapable of calculating this!" You just do it.
+Think about how you describe the world around you. If you go to a [coffee shop](https://en.wikipedia.org/wiki/Coffeehouse), buy a \$4 [latte](https://en.wikipedia.org/wiki/Latte), and leave a [tip](https://en.wikipedia.org/wiki/Gratuity), you know intuitively how much [money](https://en.wikipedia.org/wiki/Money) you spent. You don't freeze up and say, "I am incapable of calculating this!" You just do it.
 
 But what if you want to write that process down so a computer can do it for a million different customers? What if the latte price changes? What if the tip changes? You need a [language](https://en.wikipedia.org/wiki/Language) that is flexible enough to handle the unknown, but precise enough to give you a perfect answer every single time. 
 
@@ -53,12 +53,12 @@ Most of translation is simply knowing your vocabulary. Words in English map dire
 
 **🚨 THE REVERSAL TRAP! (Pay Close Attention Here)**
 
-Addition is commutative, meaning $5 + 3$ is the same as $3 + 5$. Subtraction, however, is notoriously stubborn. $5 - 3$ is NOT the same as $3 - 5$. Therefore, the order in which you write your [terms](https://en.wikipedia.org/wiki/Term_%28mathematics%29) matters immensely!
+Addition is commutative, meaning \$5 + 3$ is the same as \$3 + 5$. Subtraction, however, is notoriously stubborn. $5 - 3$ is NOT the same as \$3 - 5$. Therefore, the order in which you write your [terms](https://en.wikipedia.org/wiki/Term_%28mathematics%29) matters immensely!
 
 > **The Reversal Rule**
 > The phrase **"subtracted from"** reverses the standard left-to-right order of operands in a subtraction expression. 
 
-If I say "Take 5 subtracted from 20," you don't write $5 - 20$. You write $20 - 5$. The "from" tells you what you started with!
+If I say "Take 5 subtracted from 20," you don't write \$5 - 20$. You write $20 - 5$. The "from" tells you what you started with!
 
 The exact same reversal happens with "less than." Think about money: If I have $x$ dollars less than your $y$ dollars, how do we write my [wealth](https://en.wikipedia.org/wiki/Wealth)? We start with yours, and take away mine. Therefore, the verbal phrase **"x less than y"** translates algebraically to the expression $y - x$. Do not write $x - y$!
 
@@ -68,7 +68,7 @@ The exact same reversal happens with "less than." Think about money: If I have $
 *   The word **"times"** indicates the mathematical operation of multiplication.
 *   The word **"twice"** indicates the mathematical operation of multiplying a [quantity](https://en.wikipedia.org/wiki/Quantity) by the number two ($2x$).
 
-There is also a hidden multiplication word that sneaks past people all the time: the word **"of"**. When the word "of" immediately follows a [fraction](https://en.wikipedia.org/wiki/Fraction) or [percentage](https://en.wikipedia.org/wiki/Percentage), it indicates the mathematical operation of multiplication. If I want "half *of* ten", I calculate $\frac{1}{2} \times 10$. If I want "20% *of* $x$", I calculate $0.20x$. 
+There is also a hidden multiplication word that sneaks past people all the time: the word **"of"**. When the word "of" immediately follows a [fraction](https://en.wikipedia.org/wiki/Fraction) or [percentage](https://en.wikipedia.org/wiki/Percentage), it indicates the mathematical operation of multiplication. If I want "half *of* ten", I calculate $\frac{1}{2} \times 10$. If I want "20% *of* $x$", I calculate \$0.20x$. 
 
 [Division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) is the act of splitting things into groups.
 *   The word **"quotient"** indicates the mathematical operation of division.
@@ -113,7 +113,7 @@ Whenever you see a phrase ask for a "sum" or a "difference" and then immediately
 
 Sometimes the [universe](https://en.wikipedia.org/wiki/Universe) isn't perfectly balanced. Sometimes, things are heavier, taller, or more expensive than other things. When a relationship is not an equation, it is an **[inequality](https://en.wikipedia.org/wiki/Inequality_%28mathematics%29)**.
 
-Earlier, we learned that "less than" means subtraction ($3$ less than $x$ is $x - 3$). But what happens if we add our verb "is" into the mix? 
+Earlier, we learned that "less than" means subtraction (\$3$ less than $x$ is $x - 3$). But what happens if we add our verb "is" into the mix? 
 
 The phrase **"is less than"** indicates a mathematical inequality rather than an operation of subtraction. 
 *   "3 less than $x$" $\rightarrow x - 3$ (An expression)
@@ -133,9 +133,9 @@ Now we arrive at the crown jewel of algebra: building real-world models. This is
 
 ### 1. The [Business Model](https://en.wikipedia.org/wiki/Business_model) (Linear Costs)
 Imagine you are starting a [business](https://en.wikipedia.org/wiki/Business) printing custom [t-shirts](https://en.wikipedia.org/wiki/T-shirt). 
-Before you print a single shirt, you have to buy a [printing press](https://en.wikipedia.org/wiki/Printing_press) for $500. You have to pay this no matter what. In algebra, **[fixed costs](https://en.wikipedia.org/wiki/Fixed_cost)** in a real-world [linear model](https://en.wikipedia.org/wiki/Linear_model) are represented by the **constant term** in an algebraic equation. (It's a constant because it doesn't change, no matter how many shirts you make).
+Before you print a single shirt, you have to buy a [printing press](https://en.wikipedia.org/wiki/Printing_press) for \$500. You have to pay this no matter what. In algebra, **[fixed costs](https://en.wikipedia.org/wiki/Fixed_cost)** in a real-world [linear model](https://en.wikipedia.org/wiki/Linear_model) are represented by the **constant term** in an algebraic equation. (It's a constant because it doesn't change, no matter how many shirts you make).
 
-Then, for every t-shirt you actually print, you have to buy the blank shirt and the [ink](https://en.wikipedia.org/wiki/Ink), which costs $3 per shirt. In algebra, **variable costs** in a real-world linear model are represented by a **numerical [coefficient](https://en.wikipedia.org/wiki/Coefficient) multiplied by a variable**. If $x$ is the number of shirts, your variable cost is $3x$.
+Then, for every t-shirt you actually print, you have to buy the blank shirt and the [ink](https://en.wikipedia.org/wiki/Ink), which costs \$3 per shirt. In algebra, **variable costs** in a real-world linear model are represented by a **numerical [coefficient](https://en.wikipedia.org/wiki/Coefficient) multiplied by a variable**. If $x$ is the number of shirts, your variable cost is $3x$.
 
 How do we find your total bill? **Total cost** in a linear algebraic model is calculated by adding the fixed cost to the product of the variable rate and the number of items. 
 
@@ -148,18 +148,18 @@ If you are driving down the [highway](https://en.wikipedia.org/wiki/Highway) at 
 $$D = R \times T$$
 *(Or simply $d = rt$)*
 
-If a Praxis question says, "A train leaves [Chicago](https://en.wikipedia.org/wiki/Chicago) traveling at $x$ miles per hour for 4 hours, and covers 300 miles," you can snap that right into the model: $300 = x \cdot 4$, or $4x = 300$. 
+If a Praxis question says, "A train leaves [Chicago](https://en.wikipedia.org/wiki/Chicago) traveling at $x$ miles per hour for 4 hours, and covers 300 miles," you can snap that right into the model: \$300 = x \cdot 4$, or $4x = 300$. 
 
 ### 3. The Percentage Models ([Taxes](https://en.wikipedia.org/wiki/Tax) and Sales)
 Percentages are everywhere, from [sales tax](https://en.wikipedia.org/wiki/Sales_tax) to [Black Friday](https://en.wikipedia.org/wiki/Black_Friday_%28shopping%29) discounts. 
 
 A **percentage increase** problem (like adding tax or a tip) requires multiplying the original amount by the percentage in [decimal](https://en.wikipedia.org/wiki/Decimal) form and adding that product to the original amount.
-Let $x$ be the original price. If there is an 8% tax, the tax is $0.08x$. 
+Let $x$ be the original price. If there is an 8% tax, the tax is \$0.08x$. 
 The total you pay is: $x + 0.08x$. 
-*(Note: Because $1x + 0.08x = 1.08x$, you can also just multiply the original amount by $1.08$!)*
+*(Note: Because $1x + 0.08x = 1.08x$, you can also just multiply the original amount by \$1.08$!)*
 
 A **percentage decrease** problem (like a [clearance sale](https://en.wikipedia.org/wiki/Sales_promotion)) requires multiplying the original amount by the percentage in decimal form and subtracting that product from the original amount.
-If a $50 [jacket](https://en.wikipedia.org/wiki/Jacket) is 20% off, the discount is $0.20 \times 50$. 
+If a \$50 [jacket](https://en.wikipedia.org/wiki/Jacket) is 20% off, the discount is $0.20 \times 50$. 
 The new price is the original minus the discount: $50 - (0.20 \times 50)$. 
 
 ### 4. The Number Theory Riddles

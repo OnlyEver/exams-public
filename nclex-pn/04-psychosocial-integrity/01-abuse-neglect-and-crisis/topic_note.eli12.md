@@ -30,11 +30,11 @@ Not all wounds show up on the skin. Psychological abuse hurts a person's feeling
 *   **The Vanishing Assets:** Older adults are big targets for people trying to steal their money. **Financial abuse is indicated by a sudden unexplained lack of funds for a client's essential needs**. 
 
 Let's use some simple step-by-step math to see how a nurse might spot this financial abuse:
-1. Start with the client's monthly money for basics: $200.
+1. Start with the client's monthly money for basics: \$200.
 2. Subtract the cost of their weekly groceries: 200 - 80 = 120.
 3. Subtract the cost of their necessary daily medicine: 120 - 40 = 80.
-4. The client should still have exactly $80 left in their account. 
-If they suddenly have $0 and cannot buy their food, that missing money is a giant red flag!
+4. The client should still have exactly \$80 left in their account. 
+If they suddenly have \$0 and cannot buy their food, that missing money is a giant red flag!
 
 *   Additionally, **missing personal property or valuables from a client's room is a potential sign of financial abuse**. 
 *   Finally, **abrupt unexplainable changes to a client's legal financial documents suggest financial exploitation**. If someone suddenly changes who gets their house or money when they are confused, someone is probably tricking them.

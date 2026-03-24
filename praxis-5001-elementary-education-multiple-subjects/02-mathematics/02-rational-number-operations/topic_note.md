@@ -105,16 +105,16 @@ Now we step out of the pristine classroom and into the messy real world. **Divis
 When you do [long division](https://en.wikipedia.org/wiki/Long_division), you sometimes get a number left over at the bottom. The math tells you it's there, but your common sense has to decide what to do with it. Let's look at the three ways the real world handles remainders.
 
 ### 1. The Discarded Remainder
-**In some real-world division problems, the remainder must be completely discarded.** Imagine you have $20 and comic books cost $6 each. $20 \div 6$ is $3$ with a remainder of $2$. The store isn't going to sell you $2/6$ of a comic book! **When determining how many full items can be purchased with a set amount of money, the remainder of the division operation is discarded.** 
-*   **Rule:** **When discarding a remainder in a division problem, the final answer is solely the [whole number](https://en.wikipedia.org/wiki/Integer) quotient.** You just buy 3 comic books and keep your $2.
+**In some real-world division problems, the remainder must be completely discarded.** Imagine you have \$20 and comic books cost \$6 each. $20 \div 6$ is $3$ with a remainder of $2$. The store isn't going to sell you $2/6$ of a comic book! **When determining how many full items can be purchased with a set amount of money, the remainder of the division operation is discarded.** 
+*   **Rule:** **When discarding a remainder in a division problem, the final answer is solely the [whole number](https://en.wikipedia.org/wiki/Integer) quotient.** You just buy 3 comic books and keep your \$2.
 
 ### 2. The Rounded-Up Remainder
-**In some real-world division problems, the remainder requires [rounding](https://en.wikipedia.org/wiki/Rounding) the quotient up to the next consecutive whole number.** Suppose you are taking 20 kids on a field trip, and each minivan holds 6 kids. $20 \div 6$ is $3$ with a remainder of $2$. If you only order 3 minivans, 2 kids are left crying on the curb! 
+**In some real-world division problems, the remainder requires [rounding](https://en.wikipedia.org/wiki/Rounding) the quotient up to the next consecutive whole number.** Suppose you are taking 20 kids on a field trip, and each minivan holds 6 kids. \$20 \div 6$ is $3$ with a remainder of \$2$. If you only order 3 minivans, 2 kids are left crying on the curb! 
 *   **Rule:** **When determining the number of containers or vehicles needed to hold a specific quantity, any remainder requires rounding up the quotient to the next whole container or vehicle.** You need 4 minivans. 
 
 ### 3. The Continuous Remainder
 **In some real-world division problems, the remainder is expressed as a fraction or decimal to represent a precise shared continuous quantity.** Imagine you have 20 pounds of clay to divide equally among 6 art students. Clay can be cut to any size! 
-*   **Rule:** **When dividing a continuous quantity like food or fabric equally, the remainder is typically expressed as a fraction or decimal.** Each student gets $3 \frac{2}{6}$ (or $3 \frac{1}{3}$) pounds of clay. 
+*   **Rule:** **When dividing a continuous quantity like food or fabric equally, the remainder is typically expressed as a fraction or decimal.** Each student gets \$3 \frac{2}{6}$ (or $3 \frac{1}{3}$) pounds of clay. 
 
 ---
 

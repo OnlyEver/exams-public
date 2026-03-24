@@ -12,7 +12,7 @@ As an [elementary educator](https://en.wikipedia.org/wiki/Primary_education), yo
 
 Before we can build a sentence, we need to understand our [vocabulary](https://en.wikipedia.org/wiki/Vocabulary). Let’s look at the basic building blocks of [algebra](https://en.wikipedia.org/wiki/Algebra). 
 
-Imagine you’re running a bakery. You don't know how many cakes you're going to sell today, but you know you charge $20 per cake, and you have to pay a flat fee of $50 for rent. We can represent your daily profit with a simple mathematical phrase: **$20x - 50$**. 
+Imagine you’re running a bakery. You don't know how many cakes you're going to sell today, but you know you charge \$20 per cake, and you have to pay a flat fee of \$50 for rent. We can represent your daily profit with a simple mathematical phrase: **$20x - 50$**. 
 
 Let's break this down into its anatomical parts:
 

@@ -100,7 +100,7 @@ A **linear relationship** represents a [constant rate of change](https://en.wiki
 If you are a plumber who charges a \$50 flat fee just to show up, plus \$100 for every hour you work, your cost ($y$) depends on your hours worked ($x$). The equation is $y = 100x + 50$.
 
 Look at the anatomy of this real-world equation:
-*   **In a linear equation representing a real-world scenario, the coefficient attached to the variable typically represents the constant rate of change.** ($100 per hour).
+*   **In a linear equation representing a real-world scenario, the coefficient attached to the variable typically represents the constant rate of change.** (\$100 per hour).
 *   **In a linear equation representing a real-world scenario, the constant term typically represents the initial starting value.** (The \$50 flat fee).
 
 We can track this relationship in three different ways:
@@ -120,7 +120,7 @@ What does that vertical crossing actually mean? **The y-intercept of a linear gr
 ### 3. As a Prediction Tool
 The ultimate superpower of a linear relationship is its ability to look into the future. **Substituting a specific value for the independent variable into a linear equation yields the exact corresponding value of the dependent variable.** 
 
-If you want to know what the plumber will charge for an agonizing 12-hour job, you don't need to guess. You just substitute $12$ for the independent variable $x$: 
+If you want to know what the plumber will charge for an agonizing 12-hour job, you don't need to guess. You just substitute \$12$ for the independent variable $x$: 
 $y = 100(12) + 50 = 1200 + 50 = 1250$.
 You now know the exact dependent value: \$1,250.
 

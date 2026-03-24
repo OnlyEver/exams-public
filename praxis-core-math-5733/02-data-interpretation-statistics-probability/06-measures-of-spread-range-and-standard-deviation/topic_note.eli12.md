@@ -46,12 +46,12 @@ The range is super easy to calculate, but it has a massive blind spot. The calcu
 
 Because of this, **the range is highly sensitive to outliers.** (An outlier is a weird number that is way higher or way lower than the rest of the group).
 
-Imagine we look at the weekly allowance of ten kids. Nine of them get between $10 and $20 a week. The range is normally $10. But then, a famous kid movie star joins the group. Suddenly, the maximum allowance is $1,000,000. Let's find the new range:
-Step 1: Find the new max ($1,000,000).
-Step 2: Find the min ($10).
+Imagine we look at the weekly allowance of ten kids. Nine of them get between \$10 and \$20 a week. The range is normally \$10. But then, a famous kid movie star joins the group. Suddenly, the maximum allowance is \$1,000,000. Let's find the new range:
+Step 1: Find the new max (\$1,000,000).
+Step 2: Find the min (\$10).
 Step 3: Subtract the min from the max: 1,000,000 - 10 = 999,990.
 
-Our range is now $999,990! Does that actually describe what *most* kids in the group get for their allowance? Not at all. One giant outlier ruined the whole math problem. 
+Our range is now \$999,990! Does that actually describe what *most* kids in the group get for their allowance? Not at all. One giant outlier ruined the whole math problem. 
 
 To get a better picture of our numbers, we need a tool that looks at *every single number* in the set, not just the highest and lowest. 
 

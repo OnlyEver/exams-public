@@ -53,7 +53,7 @@ To model this, we use the most famous, most useful formula in basic algebra.
 This isn't just a jumble of letters; it is a story. Let's break down the characters in this story.
 
 ### The Slope (m) and The Y-Intercept (b)
-*   The variable m in the equation y = mx + b represents the slope or rate of change. A repeating per-unit rate in a real-world scenario corresponds to the slope of the constructed linear equation. Think of words like *per, each,* or *every*. ($10 *per* week in allowance, 2 slices *each* person).
+*   The variable m in the equation y = mx + b represents the slope or rate of change. A repeating per-unit rate in a real-world scenario corresponds to the slope of the constructed linear equation. Think of words like *per, each,* or *every*. (\$10 *per* week in allowance, 2 slices *each* person).
 *   The variable b in the equation y = mx + b represents the y-intercept or initial value. A fixed starting amount in a real-world scenario corresponds to the y-intercept of the constructed linear equation. This is your starting cash, your base score, or your starting distance. It happens exactly *once*.
 
 ### Independent vs. Dependent Variables
@@ -62,13 +62,13 @@ Now, what about the x and the y?
 *   **The Dependent Variable (y):** This is the output. It *depends* on whatever happened with x. The dependent variable in a linear word problem frequently represents an accumulated total cost.
 
 ### Building the Equation: Total Cost
-Let's put it all together. Imagine a plumber charges a $75 flat fee just to show up at your house, and then $50 for every hour he works. 
+Let's put it all together. Imagine a plumber charges a \$75 flat fee just to show up at your house, and then \$50 for every hour he works. 
 
 How do we build an equation for your final bill? Constructing a total cost linear equation requires adding the fixed initial value to the product of the rate and the independent variable.
 
 Let's do this step-by-step:
-1. **Step 1:** Find the fixed initial value (b). Here, it is the $75 flat fee just for showing up.
-2. **Step 2:** Find the rate (m). Here, it is the $50 per hour.
+1. **Step 1:** Find the fixed initial value (b). Here, it is the \$75 flat fee just for showing up.
+2. **Step 2:** Find the rate (m). Here, it is the \$50 per hour.
 3. **Step 3:** Identify the independent variable (x). Here, it is the number of hours worked.
 4. **Step 4:** Set up the dependent variable (y). Here, it is the unknown Total Cost.
 5. **Step 5:** Write out the equation: y = 50x + 75.
@@ -87,7 +87,7 @@ Solving a linear equation requires applying inverse mathematical operations to i
 > *   Addition is the inverse mathematical operation of subtraction. (If a number is being subtracted, you add it to both sides. If it is being added, you subtract it!)
 > *   Multiplication is the inverse mathematical operation of division. (If your variable is divided by a number, multiply both sides! If it is being multiplied, divide both sides!)
 
-Let's look at our plumber from earlier. Suppose your total bill (y) was $225. How many hours did the plumber work?
+Let's look at our plumber from earlier. Suppose your total bill (y) was \$225. How many hours did the plumber work?
 
 1. **Step 1: Write your equation.** 
    225 = 50x + 75

@@ -1,6 +1,6 @@
 # Understanding Slope and Intercepts: The Architecture of Lines
 
-Welcome to the world of lines! You might think drawing a straight line is boring. But lines actually tell awesome stories about things that change at a steady speed. Think about earning $10 an hour in allowance, or your character in a video game running at exactly 5 meters per second. If you track that on a graph, it makes a perfectly straight line! We need to know how fast they change (the **slope**) and where they start (the **intercepts**). Let's figure out how this works!
+Welcome to the world of lines! You might think drawing a straight line is boring. But lines actually tell awesome stories about things that change at a steady speed. Think about earning \$10 an hour in allowance, or your character in a video game running at exactly 5 meters per second. If you track that on a graph, it makes a perfectly straight line! We need to know how fast they change (the **slope**) and where they start (the **intercepts**). Let's figure out how this works!
 
 ---
 

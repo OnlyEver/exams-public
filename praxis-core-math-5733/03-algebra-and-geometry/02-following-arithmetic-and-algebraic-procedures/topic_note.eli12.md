@@ -72,7 +72,7 @@ These mathematical loops come in different styles.
 
 | Sequence Type | How It Grows | Example |
 | :--- | :--- | :--- |
-| **Arithmetic Sequence** | **An arithmetic sequence adds a constant numerical difference to the previous term to generate the next term.** Think of getting a steady $5 allowance every single week. | 2, 5, 8, 11... (Base case is 2. The rule is to add 3 each time). |
+| **Arithmetic Sequence** | **An arithmetic sequence adds a constant numerical difference to the previous term to generate the next term.** Think of getting a steady \$5 allowance every single week. | 2, 5, 8, 11... (Base case is 2. The rule is to add 3 each time). |
 | **Geometric Sequence** | **A geometric sequence multiplies the previous term by a constant numerical ratio to generate the next term.** Think of a zombie game where one zombie bites two people, and then those two bite four people. It explodes in size! | 3, 6, 12, 24... (Base case is 3. The rule is to multiply by 2 each time). |
 
 ### The Crown Jewel: Fibonacci

@@ -15,7 +15,7 @@ Before you can solve a problem, you have to build the math sentence. This means 
 ### Step 1: Silence the Noise
 Here is a funny truth about real life: it usually gives you way more information than you actually need. 
 
-Imagine a problem says: *"Mr. Thompson, a 42-year-old teacher, is buying 3 boxes of markers that cost $4 each."* 
+Imagine a problem says: *"Mr. Thompson, a 42-year-old teacher, is buying 3 boxes of markers that cost \$4 each."* 
 
 Does his age matter at all to how much money he is spending? Nope! This brings us to our very first rule: **Extraneous numerical information in a word problem must be identified and excluded before translating the scenario into a mathematical equation.** (Extraneous just means extra, useless stuff!) 
 
@@ -173,10 +173,10 @@ Sometimes, the regular "0-4 stay, 5-9 go up" rule doesn't work in real life. You
 ### 1. The Economy of Decimals: Financial Calculations
 Money has its own special rule. Unless a problem tells you something different, remember this: **Financial calculations in standard word problems generally require rounding to the nearest hundredth to accurately represent cents.** 
 
-1. Step 1: Imagine you do math to split a huge pizza bill, and your calculator says your share is $5.347.
+1. Step 1: Imagine you do math to split a huge pizza bill, and your calculator says your share is \$5.347.
 2. Step 2: You cannot hand your friend 5.347 dollars. Our smallest coin is a penny (one hundredth of a dollar).
 3. Step 3: Round to the nearest hundredth (the cents place). The target is 4, the boss is 7.
-4. Step 4: The 4 pushes up to a 5. The real-world answer is $5.35.
+4. Step 4: The 4 pushes up to a 5. The real-world answer is \$5.35.
 
 ### 2. The Ceiling Rule: Containers and Capacity
 Imagine you are filling up buckets with 14.2 gallons of water. How many 1-gallon buckets do you need to buy at the store? 

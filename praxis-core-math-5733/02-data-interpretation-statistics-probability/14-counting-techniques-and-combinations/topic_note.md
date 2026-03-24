@@ -82,9 +82,9 @@ If I want to know how many ways I can arrange 5 different books on a shelf, I ca
 
 $5 \times 4 \times 3 \times 2 \times 1 = 120$
 
-Instead of writing all that out, we just write **$5!$** (read as "five factorial"). 
+Instead of writing all that out, we just write **\$5!$** (read as "five factorial"). 
 
-There is one brilliant, slightly mind-bending fact you must memorize for your exam: **The value of [zero factorial](https://en.wikipedia.org/wiki/Empty_product) ($0!$) is defined mathematically as exactly one.** 
+There is one brilliant, slightly mind-bending fact you must memorize for your exam: **The value of [zero factorial](https://en.wikipedia.org/wiki/Empty_product) (\$0!$) is defined mathematically as exactly one.** 
 Why? Think about it logically. How many ways can you arrange absolutely nothing? There is exactly *one* way to do it: by doing nothing! It’s a beautifully elegant [mathematical truth](https://en.wikipedia.org/wiki/Truth).
 
 ---
@@ -108,7 +108,7 @@ Because combinations group identical sets of items together into a single outcom
 
 But how do we calculate combinations mathematically? We use our trusty permutations, and then we "[divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) out" the duplicates. 
 
-If we choose 3 people from a group, there are $3!$ (or 6) ways to rearrange those specific 3 people. To find the combinations, we calculate the permutations first, and then [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) by the number of ways those chosen items can be internally arranged. 
+If we choose 3 people from a group, there are \$3!$ (or 6) ways to rearrange those specific 3 people. To find the combinations, we calculate the permutations first, and then [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) by the number of ways those chosen items can be internally arranged. 
 
 Therefore, **the formula for calculating combinations [divides](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the total number of permutations by the factorial of the number of chosen items.** 
 

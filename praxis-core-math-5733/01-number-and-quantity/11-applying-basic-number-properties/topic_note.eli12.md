@@ -117,7 +117,7 @@ It works with subtraction as well. **The distributive property of multiplication
 ### Why do we care?
 Because it basically turns you into a human calculator. **Applying the distributive property enables mental math calculations by breaking down a difficult multiplication problem into the sum (or difference) of two easier multiplication problems.**
 
-Imagine you are saving your allowance to buy 6 video games that cost $98 each. How much money do you need?
+Imagine you are saving your allowance to buy 6 video games that cost \$98 each. How much money do you need?
 1. The math problem is 6 * 98.
 2. 98 is really close to 100. So let's write 98 as a small subtraction problem: (100 - 2).
 3. Now our problem looks like this: 6 * (100 - 2).

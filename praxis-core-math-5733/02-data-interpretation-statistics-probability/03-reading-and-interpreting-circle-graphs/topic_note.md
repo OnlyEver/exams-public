@@ -63,7 +63,7 @@ The sum of the numerical amounts of all individual categories in a circle graph 
 
 Sometimes the Praxis exam likes to flip the script. They won't give you the total. Instead, they’ll give you the value of one specific slice and ask you to figure out the size of the whole pie. 
 
-Imagine a circle graph of a town’s budget. You don't know the total budget, but you see that the "Parks and Recreation" sector is labeled as **15%**, and a footnote tells you that this department received **$45,000**. 
+Imagine a circle graph of a town’s budget. You don't know the total budget, but you see that the "Parks and Recreation" sector is labeled as **15%**, and a footnote tells you that this department received **\$45,000**. 
 
 How do we find the total budget? We just run our calculation engine in reverse! 
 
@@ -73,10 +73,10 @@ If *Total × Decimal = Category Amount*, then we can use basic [algebra](https:/
 > To determine the total dataset amount from a known category amount and its percentage, divide the category amount by the percentage expressed as a decimal.
 
 Let's plug our numbers in:
-1. Convert 15% to a decimal: $0.15$
-2. Divide the category amount by the decimal: $45,000 \div 0.15 = 300,000$
+1. Convert 15% to a decimal: \$0.15$
+2. Divide the category amount by the decimal: \$45,000 \div 0.15 = 300,000$
 
-The total town budget is $300,000. It’s a beautiful, [logical](https://en.wikipedia.org/wiki/Logic) deduction. You pulled the entirety of the dataset out of a single slice!
+The total town budget is \$300,000. It’s a beautiful, [logical](https://en.wikipedia.org/wiki/Logic) deduction. You pulled the entirety of the dataset out of a single slice!
 
 ---
 

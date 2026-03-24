@@ -96,10 +96,10 @@ Mercantilism was an economic theory driving European colonization that measured 
 Under this system, colonies established under mercantilist policies existed to supply raw materials to the mother country and serve as exclusive markets for manufactured goods. 
 
 **Step-by-Step Math:** Let's look at how a "favorable balance of trade" made the mother country rich:
-1. First, the mother country (like England) forces its colony to sell raw materials, like basic cotton, for super cheap. Let's say England pays the colony $2.
-2. Next, England takes that $2 cotton back home and uses factories to turn it into fancy shirts.
-3. Then, England forces the colony to buy those finished shirts back for $10!
-4. Finally, let's calculate the profit: $10 (money made) - $2 (money spent) = $8 profit! The mother country gets rich, and the colony loses out.
+1. First, the mother country (like England) forces its colony to sell raw materials, like basic cotton, for super cheap. Let's say England pays the colony \$2.
+2. Next, England takes that \$2 cotton back home and uses factories to turn it into fancy shirts.
+3. Then, England forces the colony to buy those finished shirts back for \$10!
+4. Finally, let's calculate the profit: \$10 (money made) - \$2 (money spent) = \$8 profit! The mother country gets rich, and the colony loses out.
 
 ### The Triangular Trade and Human Cost
 Because the mother countries wanted to get as rich as possible, they needed tons of raw materials. European demand for labor-intensive cash crops like tobacco and sugar drove the importation of enslaved African laborers to the Americas. 

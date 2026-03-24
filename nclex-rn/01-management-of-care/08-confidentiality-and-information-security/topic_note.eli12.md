@@ -123,11 +123,11 @@ Why are these rules so strict? Because breaking them hurts people, and the punis
 
 If someone accidentally or purposely breaks the HIPAA rules, they have to pay massive fines. Let's look at the math to see how bad it can be:
 
-Suppose the government decides to fine an individual nurse $50,000 for snooping, and they fine the hospital $1,000,000 because they didn't train the nurse well. If this happens twice, what is the total fine?
+Suppose the government decides to fine an individual nurse \$50,000 for snooping, and they fine the hospital \$1,000,000 because they didn't train the nurse well. If this happens twice, what is the total fine?
 
 1.  First, calculate the fines against the nurses: 2 mistakes * $50,000 = $100,000.
 2.  Next, calculate the fines against the hospital: 2 mistakes * $1,000,000 = $2,000,000.
-3.  Add them together to find the total penalty: $100,000 + $2,000,000 = $2,100,000!
+3.  Add them together to find the total penalty: $100,000 + $2,000,000 = \$2,100,000!
 
 As you can see from the math:
 *   **Federal penalties for medical privacy violations include significant financial fines against the healthcare facility.** 
