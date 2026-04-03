@@ -2,17 +2,19 @@
 
 Hello there! Let’s talk about lines. Now, I know what you might be thinking. *Lines? We’ve been drawing lines since [kindergarten](https://en.wikipedia.org/wiki/Kindergarten). What more is there to say?* 
 
-But here is the beautiful secret of [mathematics](https://en.wikipedia.org/wiki/Mathematics): a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) isn’t just a mark on a piece of paper. A straight line is the universe’s way of visualizing **constant change**. Whether you are looking at a car driving at a steady speed, a savings account growing with simple interest, or the steady drain of water from a tank, you are looking at a line. 
+But here is the beautiful secret of [mathematics](https://en.wikipedia.org/wiki/Mathematics): a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) isn’t just a mark on a piece of paper. A straight line is the universe’s way of visualizing **constant change**. Whether you are looking at a car driving at a steady speed, a savings account growing with [simple interest](https://en.wikipedia.org/wiki/Interest), or the steady drain of water from a tank, you are looking at a line. 
 
 For your [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you aren't just expected to recognize a line; you are expected to be its architect. You need to know how to build a line from scratch, how to manipulate its structure, and how to translate it into different mathematical "languages." 
 
-Grab a cup of coffee. Let’s dive into the machinery of linear equations.
+Grab a cup of [coffee](https://en.wikipedia.org/wiki/Coffee). Let’s dive into the machinery of [linear equations](https://en.wikipedia.org/wiki/Linear_equation).
 
 ---
 
 ## 1. The Engine of the Line: Understanding Slope
 
 Before we can build an [equation](https://en.wikipedia.org/wiki/Equation), we have to understand what makes a line unique. If you place a single dot on a [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), an infinite number of lines can spin through it like a propeller. What locks a line into place? Its trajectory. Its steepness. Its **[slope](https://en.wikipedia.org/wiki/Slope)**.
+
+![A standard Cartesian coordinate system showing the horizontal x-axis and vertical y-axis. While infinite lines can pass through a single point, a specific slope locks a line into a single trajectory.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
 
 > **The Concept of Slope**
 > **The slope of a straight line is defined as the [ratio](https://en.wikipedia.org/wiki/Ratio) of the vertical change to the horizontal change between two distinct points on the line.** 
@@ -26,19 +28,23 @@ If we have two specific points, $(x_1, y_1)$ and $(x_2, y_2)$, we can find the s
 
 In this mathematical formula for the slope between two points, the $y$'s represent the vertical change (rise), and the $x$'s represent the horizontal change (run).
 
+![Slope is calculated as the ratio of vertical change (the rise, or change in y) to horizontal change (the run, or change in x) between two distinct points on a line.](https://wikipedia.org/wiki/Special:Redirect/file/Wiki_slope_in_2d.svg)
+
 ### The Four Personalities of Slope
 Slopes tell a story just by looking at their sign. We always read mathematical [graphs](https://en.wikipedia.org/wiki/Graph_of_a_function) exactly like we read a book in [English](https://en.wikipedia.org/wiki/English_language): **from left to right**. 
 
 1. **Positive Slope:** **A linear equation with a positive slope represents a line that rises from left to right on a coordinate plane.** Think of climbing up a mountain. As $x$ increases, $y$ increases.
-2. **Negative Slope:** **A linear equation with a negative slope represents a line that falls from left to right on a coordinate plane.** Think of skiing down a mountain. As $x$ increases, $y$ decreases.
+2. **Negative Slope:** **A linear equation with a negative slope represents a line that falls from left to right on a coordinate plane.** Think of [skiing](https://en.wikipedia.org/wiki/Skiing) down a mountain. As $x$ increases, $y$ decreases.
 3. **Zero Slope:** Imagine walking on a perfectly flat floor. There is horizontal movement, but absolutely no vertical movement. Therefore, **a perfectly horizontal line has a slope of exactly zero.** 
 4. **Undefined Slope:** Now imagine stepping up to a completely sheer cliff face. You are looking at infinite vertical change but zero horizontal change. In mathematics, [dividing by zero](https://en.wikipedia.org/wiki/Division_by_zero) is logically impossible—it breaks the rules of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic). Because of this, **a perfectly vertical line has an undefined slope.**
+
+![Attempting to divide by zero results in a mathematical error. Because calculating the slope of a vertical line requires division by a horizontal change of zero, its slope is mathematically undefined.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
 
 ---
 
 ## 2. The Two Great Costumes of a Line
 
-In the world of algebra, we generally dress straight lines in one of two "costumes." These are the **Point-Slope Form** and the **Slope-Intercept Form**. 
+In the world of [algebra](https://en.wikipedia.org/wiki/Algebra), we generally dress straight lines in one of two "costumes." These are the **Point-Slope Form** and the **Slope-Intercept Form**. 
 
 Neither is inherently "better" than the other. They just serve entirely different purposes. One is the builder's workshop—where we construct the line from raw materials. The other is the finished portrait—polished, clean, and easy to read. 
 
@@ -47,7 +53,7 @@ Let's look at the differences before we break them down individually.
 | Feature | Point-Slope Form | Slope-Intercept Form |
 | :--- | :--- | :--- |
 | **Formula** | $y - y_1 = m(x - x_1)$ | $y = mx + b$ |
-| **What it reveals** | The slope ($m$) and *any* known point $(x_1, y_1)$ | The slope ($m$) and the specific y-intercept ($b$) |
+| **What it reveals** | The slope ($m$) and *any* known point $(x_1, y_1)$ | The slope ($m$) and the specific [y-intercept](https://en.wikipedia.org/wiki/Y-intercept) ($b$) |
 | **Best used for...** | Building the initial equation from raw data. | Graphing the line and finding the starting value. |
 
 Let's explore how these forms work under the hood.
@@ -58,7 +64,7 @@ Let's explore how these forms work under the hood.
 
 Imagine you are a detective. You know exactly two things about a suspect's trajectory: you know their current location (a single point), and you know the [speed and direction](https://en.wikipedia.org/wiki/Velocity) they are traveling (the slope). That is all you need to track them forever!
 
-This is where Point-Slope form shines. **The point-slope form is typically used as the initial algebraic setup when writing an equation based on one specific coordinate point and a given rate of change.**
+This is where Point-Slope form shines. **The point-slope form is typically used as the initial algebraic setup when writing an equation based on one specific coordinate point and a given [rate of change](https://en.wikipedia.org/wiki/Derivative).**
 
 > **Point-Slope Form:**
 > **$y - y_1 = m(x - x_1)$**
@@ -100,15 +106,17 @@ Let's make sure we are crystal clear on this. The coordinate plane has a horizon
 
 Think of the y-axis as a starting line in a race, where [time](https://en.wikipedia.org/wiki/Time) $x = 0$. Because the line is crossing the vertical axis, it hasn't moved left or right at all. Therefore, **the coordinates of a y-intercept always take the form of $(0, b)$.** If your equation is $y = 2x + 5$, your y-intercept is exactly at the coordinate $(0, 5)$. 
 
+![The y-intercept visually represents the exact coordinate where a line crosses the vertical y-axis. At this point, the x-value is always zero.](https://wikipedia.org/wiki/Special:Redirect/file/Y-intercept.svg)
+
 ---
 
 ## 5. The Art of Translation: Converting Between Forms
 
-Often on the Praxis Core, you will be given raw data (a point and a slope) but the multiple-choice answers will all be written in slope-intercept form ($y = mx + b$). 
+Often on the Praxis Core, you will be given raw data (a point and a slope) but the [multiple-choice](https://en.wikipedia.org/wiki/Multiple_choice) answers will all be written in slope-intercept form ($y = mx + b$). 
 
 This means you must become a translator. You must build the equation in point-slope form, and then mechanically convert it into slope-intercept form. It takes exactly two algebraic steps.
 
-**Converting a linear equation from point-slope form to slope-intercept form requires [distributing](https://en.wikipedia.org/wiki/Distributive_property) the slope value across the terms inside the parentheses.** Once you've done that, **the final step in converting a linear equation from point-slope form to slope-intercept form involves algebraically isolating the variable $y$ on one side of the equation.**
+**Converting a linear equation from point-slope form to slope-intercept form requires [distributing](https://en.wikipedia.org/wiki/Distributive_property) the slope value across the terms inside the parentheses.** Once you've done that, **the final step in converting a linear equation from point-slope form to slope-intercept form involves algebraically [isolating](https://en.wikipedia.org/wiki/Equation_solving) the variable $y$ on one side of the equation.**
 
 Let’s watch this translation in action. 
 
@@ -172,7 +180,7 @@ This makes perfect, intuitive sense. A horizontal line means that no matter how 
 ### Vertical Lines
 Vertical lines are the true rebels. Remember, a perfectly vertical line has an *undefined* slope. Because the slope cannot be defined as a number, we cannot use $y = mx + b$ or $y - y_1 = m(x - x_1)$. The standard formulas break down!
 
-But think about the geometry of a vertical line. No matter how far up or down you go on the $y$-axis, your left-to-right position never changes. The $x$ value is locked in place. 
+But think about the [geometry](https://en.wikipedia.org/wiki/Geometry) of a vertical line. No matter how far up or down you go on the $y$-axis, your left-to-right position never changes. The $x$ value is locked in place. 
 
 Therefore, **the equation of a vertical line crossing the x-axis at the value $a$ is written simply as $x = a$.** If a line plunges straight down through the x-axis at $3$, its equation is simply $x = 3$. 
 

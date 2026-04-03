@@ -6,6 +6,8 @@ Numbers are more like [biological cells](https://en.wikipedia.org/wiki/Cell_%28b
 
 Let’s roll up our sleeves and tear some numbers apart.
 
+![Integers can be visualized as fixed, evenly spaced building blocks on an infinitely long number line.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
+
 ---
 
 ## Part 1: Anatomy of a Number: Factors and Multiples
@@ -17,6 +19,8 @@ Imagine you’re playing with building blocks. You have a big block, say, a $12$
 > **A [factor](https://en.wikipedia.org/wiki/Divisor) of a whole number is an [integer](https://en.wikipedia.org/wiki/Integer) that [divides](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the whole number without leaving a [remainder](https://en.wikipedia.org/wiki/Remainder).**
 
 Think of factors as the exact ingredients that "fit" perfectly inside a number. When you divide $12$ by $3$, you get exactly $4$. No messy [decimals](https://en.wikipedia.org/wiki/Decimal), no leftovers. That means $3$ and $4$ are factors of $12$.
+
+![Factors act as perfect building blocks. For example, the factors of 10 (1, 2, 5, and 10) are the only integers that perfectly measure its total length without leaving a gap or remainder.](https://wikipedia.org/wiki/Special:Redirect/file/Composite_number_Cuisenaire_rods_10.svg)
 
 Now, let's establish a couple of universal truths—the "freebies" of the math world:
 * **The number 1 is a factor of every whole number.** You can always divide any number by $1$ and get a whole number. 
@@ -41,6 +45,8 @@ What are those two factors? Let’s look at $7$. What integers can divide $7$ cl
 > **A [composite number](https://en.wikipedia.org/wiki/Composite_number) is a whole number greater than 1 that has more than two distinct positive factors.**
 
 Take $8$. Its factors are $1, 2, 4,$ and $8$. Because it has more than just two factors, it's composite. It’s an assemblage of smaller prime parts ($2 \times 2 \times 2$).
+
+![Unlike prime numbers, which can only be represented physically as a single straight line, composite numbers can be arranged into multiple rectangular arrays to visualize their various factors.](https://wikipedia.org/wiki/Special:Redirect/file/Primes-vs-composites.svg)
 
 *Wait a minute,* you might ask, *what about the number 1?* 
 
@@ -89,6 +95,8 @@ If you have an even number of marbles, every marble has a partner. Nobody is lef
 > **An [odd number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29) is any integer that leaves a remainder of 1 when divided by 2.**
 
 If you have an odd number of marbles, you pair them all up until, tragically, one marble is left totally alone. That lone leftover "remainder of 1" is the defining feature of an odd number.
+
+![An even number like 6 can be divided evenly into two groups without leftovers, whereas an odd number like 5 cannot be split in half cleanly.](https://wikipedia.org/wiki/Special:Redirect/file/Parity_of_5_and_6_Cuisenaire_rods.svg)
 
 Now, a question that stops many students in their tracks: *Is zero even or odd?* 
 Let’s use our definition. Can you divide \$0$ by $2$? Yes! \$0 \div 2 = 0$, with no remainder. There are no leftover marbles. Therefore, mathematically, **[the number 0 is an even number](https://en.wikipedia.org/wiki/Parity_of_zero).**
@@ -144,6 +152,8 @@ You are looking for the *largest shared ingredient*.
 * The factors of \$18$ are: $1, 2, 3, 6, 9, 18$
 
 They share $1, 2, 3,$ and \$6$. The absolute largest integer in both lists is \$6$. Therefore, the GCF of \$12$ and \$18$ is $6$. 
+
+![The Greatest Common Factor represents the largest shared component that can evenly measure two different quantities. Here, a 12-by-12 square is the greatest common divisor that perfectly tiles both the dimensions of 24 and 60.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
 
 ### Least Common Multiple (LCM)
 

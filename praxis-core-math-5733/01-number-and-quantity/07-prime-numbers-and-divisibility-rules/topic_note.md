@@ -2,6 +2,8 @@
 
 Hello there! Imagine, for a moment, that you are a [physicist](https://en.wikipedia.org/wiki/Physicist) taking apart the universe to find the [fundamental particles](https://en.wikipedia.org/wiki/Elementary_particle)—the [electrons](https://en.wikipedia.org/wiki/Electron), the [quarks](https://en.wikipedia.org/wiki/Quark), the indivisible bits of [reality](https://en.wikipedia.org/wiki/Reality). Well, as [educators](https://en.wikipedia.org/wiki/Teacher) looking at the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), we get to do the exact same thing, but with *[numbers](https://en.wikipedia.org/wiki/Number)*. 
 
+![Just as physicists use the Standard Model to categorize indivisible elementary particles like quarks and electrons, mathematicians break composite numbers down into fundamental primes.](https://wikipedia.org/wiki/Special:Redirect/file/Standard_Model_of_Elementary_Particles.svg)
+
 When we look at numbers, we aren't just looking at abstract squiggles on a page. We are looking at [structures](https://en.wikipedia.org/wiki/Mathematical_structure). Some structures can be broken down into smaller pieces, and some are as basic as they come. Today, we are going to dive into the molecular [chemistry](https://en.wikipedia.org/wiki/Chemistry) of [math](https://en.wikipedia.org/wiki/Mathematics): how numbers are built, how to break them apart, and how they interact with one another.
 
 Let's roll up our sleeves and look at the [atoms](https://en.wikipedia.org/wiki/Atom) of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic).
@@ -11,6 +13,8 @@ Let's roll up our sleeves and look at the [atoms](https://en.wikipedia.org/wiki/
 ## Part I: The Atoms and the Molecules
 
 When you try to arrange blocks into a perfect [rectangle](https://en.wikipedia.org/wiki/Rectangle), a number like 12 gives you options: a 3-by-4 grid, a 2-by-6 grid, or even a 1-by-12 line. But if you have 7 blocks, you're stuck. You can only make a straight line of 7. It cannot be broken down further. This physical reality points us to the two fundamental types of numbers.
+
+![Composite numbers (like 12) can be physically arranged into various rectangular grids, whereas prime numbers (like 7) can only form a single straight line.](https://wikipedia.org/wiki/Special:Redirect/file/Primes-vs-composites.svg)
 
 > **A [prime number](https://en.wikipedia.org/wiki/Prime_number) is a [whole number](https://en.wikipedia.org/wiki/Integer) strictly greater than 1 that has exactly two distinct positive [divisors](https://en.wikipedia.org/wiki/Divisor): 1 and the number itself.**
 
@@ -84,6 +88,8 @@ Commit these to memory. They are not just tricks; they are the structural realit
 
 Numbers don't just exist in a vacuum; they interact. And sometimes we want to know what two numbers have in common. Suppose you are tiling a floor or cutting ribbon, and you want to find the absolute largest piece that fits perfectly into two different dimensions.
 
+![The Greatest Common Divisor visually represented: finding the largest possible square tile (12x12) that perfectly fills a rectangular space of two different dimensions (24x60) without leaving a remainder.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
+
 > **The [Greatest Common Divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of two or more integers is the largest positive integer that divides each of the integers without leaving a [remainder](https://en.wikipedia.org/wiki/Remainder).**
 *(Note for the exam: **The term Greatest Common Divisor is mathematically synonymous with the term Greatest Common Factor**.)*
 
@@ -106,6 +112,8 @@ The GCD is 12! It's the absolute largest number that divides perfectly into both
 What happens if you compare two numbers, like 8 and 15, and they share absolutely no prime factors? ($8 = 2^3$, and $15 = 3 \times 5$). Their only common divisor is the number 1. 
 We have a special term for this: **Two numbers are considered [relatively prime](https://en.wikipedia.org/wiki/Coprime_integers) if the Greatest Common Divisor of the two numbers is exactly 1.** They don't share any mathematical [DNA](https://en.wikipedia.org/wiki/DNA)!
 
+![Mechanical gears often utilize relatively prime numbers of teeth (like 13 and 21) to ensure that the same teeth do not repeatedly strike one another, taking advantage of the fact that the numbers share no common divisors.](https://wikipedia.org/wiki/Special:Redirect/file/Gears_large.jpg)
+
 ---
 
 ## Part V: Stepping Forward (The Least Common Multiple)
@@ -116,6 +124,8 @@ While divisors look *backward* to what makes a number, multiples look *forward* 
 
 Think of a multiple as footsteps. The multiples of 4 are 4, 8, 12, 16, 20...
 When we look at two different numbers, we often want to know when their footsteps will eventually land on the exact same spot. Think of [gears](https://en.wikipedia.org/wiki/Gear) turning, or [planets](https://en.wikipedia.org/wiki/Planet) orbiting the sun. When do they align? 
+
+![Intermeshing gears beautifully illustrate the Least Common Multiple. If one gear has 24 teeth and another has 36, they will return to their exact starting alignment only after 72 total teeth have passed.](https://wikipedia.org/wiki/Special:Redirect/file/Animated_two_spur_gears_1_2.gif)
 
 > **The [Least Common Multiple](https://en.wikipedia.org/wiki/Least_common_multiple) of two or more integers is the smallest positive integer that is divisible by each of the original integers.**
 

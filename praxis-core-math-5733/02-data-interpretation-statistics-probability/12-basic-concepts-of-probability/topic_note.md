@@ -1,36 +1,40 @@
 ## The Nature of the Unknown: An Introduction to Probability
 
-Imagine you're standing at the edge of the [universe](https://en.wikipedia.org/wiki/Universe), looking into the [future](https://en.wikipedia.org/wiki/Future). You don't know exactly what’s going to happen next. Will it [rain](https://en.wikipedia.org/wiki/Rain) tomorrow? Will you draw the [Ace of Spades](https://en.wikipedia.org/wiki/Ace_of_spades)? Will the bus arrive on time? We can't predict the future with absolute certainty—but nature has given us a trick. We can measure our ignorance. 
+Imagine you're standing at the edge of the [universe](https://en.wikipedia.org/wiki/Universe), looking into the [future](https://en.wikipedia.org/wiki/Future). You don't know exactly what’s going to happen next. Will it [rain](https://en.wikipedia.org/wiki/Rain) tomorrow? Will you draw the [Ace of Spades](https://en.wikipedia.org/wiki/Ace_of_spades)? Will the bus arrive on time? We can't predict the future with absolute certainty—but nature has given us a trick. We can measure our [ignorance](https://en.wikipedia.org/wiki/Ignorance). 
 
-That measurement is what we call **probability**. At its core, **probability is a [mathematical](https://en.wikipedia.org/wiki/Mathematics) measure of the likelihood that a specific [event](https://en.wikipedia.org/wiki/Event_%28probability_theory%29) will occur.** It is the language we use to quantify [uncertainty](https://en.wikipedia.org/wiki/Uncertainty). 
+That measurement is what we call **[probability](https://en.wikipedia.org/wiki/Probability)**. At its core, **probability is a [mathematical](https://en.wikipedia.org/wiki/Mathematics) measure of the [likelihood](https://en.wikipedia.org/wiki/Probability) that a specific [event](https://en.wikipedia.org/wiki/Event_%28probability_theory%29) will occur.** It is the language we use to quantify [uncertainty](https://en.wikipedia.org/wiki/Uncertainty). 
 
-For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you don't need to be a fortune teller to solve probability problems. You just need to understand the mechanics of how we count possibilities. Let’s roll up our sleeves and figure out how to mathematically map the unknown!
+For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you don't need to be a [fortune teller](https://en.wikipedia.org/wiki/Fortune_telling) to solve probability problems. You just need to understand the mechanics of how we count possibilities. Let’s roll up our sleeves and figure out how to mathematically map the unknown!
 
 ---
 
 ## The Anatomy of an Experiment
 
-Before we can calculate anything, we have to define the sandbox we are playing in. In probability, we are always observing some sort of "experiment"—like [flipping a coin](https://en.wikipedia.org/wiki/Coin_flipping) or pulling a card from a [deck](https://en.wikipedia.org/wiki/Standard_52-card_deck). 
+Before we can calculate anything, we have to define the sandbox we are playing in. In probability, we are always observing some sort of "[experiment](https://en.wikipedia.org/wiki/Experiment_%28probability_theory%29)"—like [flipping a coin](https://en.wikipedia.org/wiki/Coin_flipping) or pulling a card from a [deck](https://en.wikipedia.org/wiki/Standard_52-card_deck). 
 
-Whenever you run an experiment, you produce a **sample space**. Think of the sample space as the absolute boundaries of your universe. **A sample space is the complete set of all possible distinct outcomes of an experiment.** If a result isn't in the sample space, it simply doesn't exist in our experiment. 
+Whenever you run an experiment, you produce a **[sample space](https://en.wikipedia.org/wiki/Sample_space)**. Think of the sample space as the absolute boundaries of your universe. **A sample space is the complete [set](https://en.wikipedia.org/wiki/Set_%28mathematics%29) of all possible distinct outcomes of an experiment.** If a result isn't in the sample space, it simply doesn't exist in our experiment. 
 
 Inside that sample space, we are usually looking for something specific to happen. We call this an **[event](https://en.wikipedia.org/wiki/Event_%28probability_theory%29)**. In mathematical terms, **an event is a defined set of outcomes resulting from a [statistical](https://en.wikipedia.org/wiki/Statistics) experiment.** 
 
-When an event is as basic as it gets, we call it a **simple event**. **A simple event is a mathematical event that consists of exactly one single outcome.** For instance, if you are rolling a [die](https://en.wikipedia.org/wiki/Dice), rolling a "3" is a simple event. There is only one way it can happen. Conversely, rolling an "[even number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29)" is a [compound event](https://en.wikipedia.org/wiki/Event_%28probability_theory%29), because it includes three distinct outcomes (2, 4, and 6).
+![A Venn diagram illustrating a sample space containing two defined events: odd numbers and prime numbers.](https://wikipedia.org/wiki/Special:Redirect/file/Sample_space.png)
 
-Now, what do we call the outcomes we actually *want* to happen? We call them **favorable outcomes**. **Favorable outcomes are the specific outcomes from a sample space that satisfy the defined conditions of a target event.** The word "favorable" doesn't mean it's necessarily a *good* thing (your event could be "getting struck by lightning"), it just means it's the specific thing we are trying to measure.
+When an event is as basic as it gets, we call it a **[simple event](https://en.wikipedia.org/wiki/Elementary_event)**. **A simple event is a mathematical event that consists of exactly one single outcome.** For instance, if you are rolling a [die](https://en.wikipedia.org/wiki/Dice), rolling a "3" is a simple event. There is only one way it can happen. Conversely, rolling an "[even number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29)" is a [compound event](https://en.wikipedia.org/wiki/Event_%28probability_theory%29), because it includes three distinct outcomes (2, 4, and 6).
+
+Now, what do we call the outcomes we actually *want* to happen? We call them **[favorable outcomes](https://en.wikipedia.org/wiki/Outcome_%28probability%29)**. **Favorable outcomes are the specific outcomes from a sample space that satisfy the defined conditions of a target event.** The word "favorable" doesn't mean it's necessarily a *good* thing (your event could be "getting struck by [lightning](https://en.wikipedia.org/wiki/Lightning_strike)"), it just means it's the specific thing we are trying to measure.
 
 ---
 
 ## The Golden Rule: Theoretical Probability
 
-How do we actually calculate the probability of an event? We use the foundational rule of theoretical probability. It is beautifully simple:
+How do we actually calculate the probability of an event? We use the foundational rule of [theoretical probability](https://en.wikipedia.org/wiki/Classical_definition_of_probability). It is beautifully simple:
 
 > **The theoretical probability of an event equals the number of favorable outcomes divided by the total number of possible outcomes.**
 > 
 > *Probability = (Favorable Outcomes) / (Total Possible Outcomes)*
 
-But hold on! There is a catch. Nature isn't always fair, but our basic [math](https://en.wikipedia.org/wiki/Mathematics) assumes it is. **Theoretical probability requires the assumption that all possible outcomes in a given sample space are equally likely to occur.** If you are using a loaded die, or a coin with a weight taped to one side, this beautifully simple [formula](https://en.wikipedia.org/wiki/Formula) falls apart. 
+But hold on! There is a catch. Nature isn't always fair, but our basic [math](https://en.wikipedia.org/wiki/Mathematics) assumes it is. **Theoretical probability requires the assumption that all possible outcomes in a given sample space are [equally likely](https://en.wikipedia.org/wiki/Equiprobability) to occur.** If you are using a [loaded die](https://en.wikipedia.org/wiki/Dice%23Loaded_dice), or a coin with a weight taped to one side, this beautifully simple [formula](https://en.wikipedia.org/wiki/Formula) falls apart. 
+
+![Unlike a fair coin, tossing an asymmetrical object like a thumbtack produces outcomes that are not equally likely, meaning basic theoretical probability formulas cannot be strictly applied.](https://wikipedia.org/wiki/Special:Redirect/file/Brass_thumbtack.jpg)
 
 ### The Mathematical Boundaries of Reality (0 to 1)
 
@@ -40,7 +44,7 @@ How big or small can a probability be? Can you have a [negative](https://en.wiki
 *   **An event with a probability of exactly 0 is impossible and cannot occur.** 
 *   **An event with a probability of exactly 1 is absolutely certain to occur.** 
 
-Because probability lives between 0 and 1, a **numerical probability value can be mathematically represented as a [fraction](https://en.wikipedia.org/wiki/Fraction)** (like $\frac{1}{2}$), **as a [decimal](https://en.wikipedia.org/wiki/Decimal)** (like $0.5$), or **as a [percentage](https://en.wikipedia.org/wiki/Percentage)** (like $50\%$). They are all just different dialects of the same mathematical language.
+Because probability lives between 0 and 1, a **numerical probability value can be mathematically represented as a [fraction](https://en.wikipedia.org/wiki/Fraction)** (like $\frac{1}{2}$), **as a [decimal](https://en.wikipedia.org/wiki/Decimal)** (like $0.5$), or **as a [percentage](https://en.wikipedia.org/wiki/Percentage)** (like $50\%$). They are all just different [dialects](https://en.wikipedia.org/wiki/Dialect) of the same mathematical language.
 
 Furthermore, if we map out every single possibility in our universe, the parts must make up the whole. Therefore, **the [sum](https://en.wikipedia.org/wiki/Summation) of the individual probabilities of all distinct possible outcomes within a single sample space equals exactly 1.** If you add up the probabilities of every single thing that *could* happen, you get 100% certainty that *something* will happen.
 
@@ -55,6 +59,8 @@ Because the sum of all probabilities in a sample space equals 1, the math is del
 >
 > *P(Not Event) = 1 - P(Event)*
 
+![In this diagram, the red area represents the complement of event A—encompassing every possible outcome in the defined universe (U) that is not part of the target event.](https://wikipedia.org/wiki/Special:Redirect/file/Venn1010.svg)
+
 ---
 
 ## The Classic Laboratory: Coins, Dice, and Cards
@@ -62,9 +68,11 @@ Because the sum of all probabilities in a sample space equals 1, the math is del
 To test these ideas, probability relies on three classic instruments. You must be intimately familiar with them for the Praxis exam.
 
 ### 1. The Coin
-The simplest universe possible. **A standard fair coin possesses exactly two distinct physical faces.** What are they? **The two faces of a standard coin are universally referred to as [heads and tails](https://en.wikipedia.org/wiki/Coin_flipping).** 
+The simplest universe possible. **A standard [fair coin](https://en.wikipedia.org/wiki/Fair_coin) possesses exactly two distinct physical faces.** What are they? **The two faces of a standard coin are universally referred to as [heads and tails](https://en.wikipedia.org/wiki/Coin_flipping).** 
 *   **Total possible outcomes:** 2
 *   **P(Heads):** $\frac{1}{2}$, or $0.5$, or $50\%$
+
+![Flipping a standard fair coin creates a sample space with exactly two equally likely outcomes: heads and tails.](https://wikipedia.org/wiki/Special:Redirect/file/Coin_tossing.JPG)
 
 ### 2. The Die
 Let's step it up to six [dimensions](https://en.wikipedia.org/wiki/Dimension). **A standard fair six-sided [die](https://en.wikipedia.org/wiki/Dice) features the numerical values 1, 2, 3, 4, 5, and 6 on its respective faces.** 
@@ -72,21 +80,25 @@ Let's step it up to six [dimensions](https://en.wikipedia.org/wiki/Dimension). *
 *   **P(Rolling a 4):** $\frac{1}{6}$ (This is a simple event!)
 *   **P(Rolling a 7):** $0$ (This is impossible!)
 
+![A standard six-sided die provides six possible distinct outcomes for any single roll, each with an equal 1 in 6 probability.](https://wikipedia.org/wiki/Special:Redirect/file/6sided_dice_(cropped).jpg)
+
 ### 3. The Deck of Cards
 This is where students often trip up, but if you look at the structure, it's a masterpiece of mathematical [symmetry](https://en.wikipedia.org/wiki/Symmetry). 
 
-**A standard deck of playing cards contains exactly 52 cards when jokers are excluded.** This 52-card deck is perfectly compartmentalized: **a standard 52-card deck of playing cards is divided into exactly four equal suits.**
+**A standard deck of [playing cards](https://en.wikipedia.org/wiki/Playing_card) contains exactly 52 cards when [jokers](https://en.wikipedia.org/wiki/Joker_%28playing_card%29) are excluded.** This 52-card deck is perfectly compartmentalized: **a standard 52-card deck of playing cards is divided into exactly four equal [suits](https://en.wikipedia.org/wiki/Suit_%28cards%29).**
 
-What are the suits? **The four suits in a standard deck of playing cards are hearts, diamonds, [clubs](https://en.wikipedia.org/wiki/Clubs_%28suit%29), and [spades](https://en.wikipedia.org/wiki/Spades_%28suit%29).** 
+What are the suits? **The four suits in a standard deck of playing cards are [hearts](https://en.wikipedia.org/wiki/Hearts_%28suit%29), [diamonds](https://en.wikipedia.org/wiki/Diamonds_%28suit%29), [clubs](https://en.wikipedia.org/wiki/Clubs_%28suit%29), and [spades](https://en.wikipedia.org/wiki/Spades_%28suit%29).** 
 
-Because 52 divided by 4 is 13, **each individual suit in a standard 52-card deck of playing cards contains exactly 13 distinct cards** (Ace, 2 through 10, Jack, [Queen](https://en.wikipedia.org/wiki/Queen_%28playing_card%29), King).
+Because 52 divided by 4 is 13, **each individual suit in a standard 52-card deck of playing cards contains exactly 13 distinct cards** ([Ace](https://en.wikipedia.org/wiki/Ace), 2 through 10, [Jack](https://en.wikipedia.org/wiki/Jack_%28playing_card%29), [Queen](https://en.wikipedia.org/wiki/Queen_%28playing_card%29), [King](https://en.wikipedia.org/wiki/King_%28playing_card%29)).
+
+![The complete sample space of a standard 52-card deck, organized by its four mathematically symmetric suits: Clubs, Diamonds, Hearts, and Spades.](https://wikipedia.org/wiki/Special:Redirect/file/Svg-cards-2.0.svg)
 
 | Suit | Color | Number of Cards | Probability of Drawing Suit |
 | :--- | :--- | :--- | :--- |
-| **Hearts** ♥ | [Red](https://en.wikipedia.org/wiki/Red) | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
-| **Diamonds** ♦ | [Red](https://en.wikipedia.org/wiki/Red) | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
-| **[Clubs](https://en.wikipedia.org/wiki/Clubs_%28suit%29)** ♣ | Black | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
-| **[Spades](https://en.wikipedia.org/wiki/Spades_%28suit%29)** ♠ | Black | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
+| **[Hearts](https://en.wikipedia.org/wiki/Hearts_%28suit%29)** ♥ | [Red](https://en.wikipedia.org/wiki/Red) | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
+| **[Diamonds](https://en.wikipedia.org/wiki/Diamonds_%28suit%29)** ♦ | [Red](https://en.wikipedia.org/wiki/Red) | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
+| **[Clubs](https://en.wikipedia.org/wiki/Clubs_%28suit%29)** ♣ | [Black](https://en.wikipedia.org/wiki/Black) | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
+| **[Spades](https://en.wikipedia.org/wiki/Spades_%28suit%29)** ♠ | [Black](https://en.wikipedia.org/wiki/Black) | 13 | $\frac{13}{52} = \frac{1}{4}$ or 25% |
 
 If the Praxis asks you for the theoretical probability of drawing a King, you count your favorable outcomes (there are 4 Kings in the deck) and divide by the total possible outcomes (52 cards). $\frac{4}{52}$ simplifies to $\frac{1}{13}$. Beautiful!
 
@@ -99,18 +111,23 @@ Theoretical probability tells us what *should* happen in a perfect, abstract uni
 ### Experimental Probability
 If you flip a fair coin 100 times, theoretically, you should get exactly 50 heads. But if you actually do it, you might get 54 heads, or 47 heads. 
 
-This introduces our reality check: **experimental probability**. Instead of relying on abstract math, **experimental probability is calculated by dividing the observed number of times an event occurred by the total number of trials conducted.**
+This introduces our reality check: **[experimental probability](https://en.wikipedia.org/wiki/Empirical_probability)**. Instead of relying on abstract math, **experimental probability is calculated by dividing the observed number of times an event occurred by the total number of [trials](https://en.wikipedia.org/wiki/Experiment_%28probability_theory%29) conducted.**
 
 > *Experimental Probability = (Observed Occurrences) / (Total Number of Trials)*
 
-If a baseball player gets a hit 30 times out of 100 at-bats, their experimental probability of getting a hit (their [batting average](https://en.wikipedia.org/wiki/Batting_average_%28baseball%29)!) is $\frac{30}{100}$ or $0.300$. We didn't deduce this from the shape of the bat; we deduced it from observing reality.
+If a [baseball player](https://en.wikipedia.org/wiki/Baseball_player) gets a hit 30 times out of 100 [at-bats](https://en.wikipedia.org/wiki/At_bat), their experimental probability of getting a hit (their [batting average](https://en.wikipedia.org/wiki/Batting_average_%28baseball%29)!) is $\frac{30}{100}$ or $0.300$. We didn't deduce this from the shape of the bat; we deduced it from observing reality.
+
+![A baseball player's batting average is a real-world example of experimental probability, calculated using observed past performance rather than theoretical deductions.](https://wikipedia.org/wiki/Special:Redirect/file/Ichiro_Suzuki_bottom_of_the_3rd_inning_July_6_2009.JPG)
 
 ### Geometric Probability
-Finally, what if our sample space isn't made up of [discrete](https://en.wikipedia.org/wiki/Discrete_mathematics), countable objects like cards or coin flips? What if our sample space is a continuous physical space, like a [dartboard](https://en.wikipedia.org/wiki/Darts) or a piece of string?
+Finally, what if our sample space isn't made up of [discrete](https://en.wikipedia.org/wiki/Discrete_mathematics), countable objects like cards or coin flips? What if our sample space is a [continuous](https://en.wikipedia.org/wiki/Continuum_%28mathematics%29) physical space, like a [dartboard](https://en.wikipedia.org/wiki/Darts) or a piece of string?
 
-When we map probability onto physical dimensions, we use **geometric probability**.
+When we map probability onto physical dimensions, we use **[geometric probability](https://en.wikipedia.org/wiki/Geometric_probability)**.
 
-1.  **Probability by Area:** Imagine throwing a dart randomly at a board. **Geometric probability calculates likelihood by dividing a specific target geometric area by the total available area.** If you have a square target of 10 [square inches](https://en.wikipedia.org/wiki/Square_inch) painted onto a wall that is 100 square inches, the probability of a random dart hitting the target is $\frac{10}{100}$ or $10\%$.
+1.  **Probability by [Area](https://en.wikipedia.org/wiki/Area):** Imagine throwing a dart randomly at a board. **Geometric probability calculates likelihood by dividing a specific target geometric area by the total available area.** If you have a square target of 10 [square inches](https://en.wikipedia.org/wiki/Square_inch) painted onto a wall that is 100 square inches, the probability of a random dart hitting the target is $\frac{10}{100}$ or $10\%$.
+
+![A dartboard relies on geometric probability, where the likelihood of a random dart hitting a specific scoring region is proportional to that region's physical area relative to the whole board.](https://wikipedia.org/wiki/Special:Redirect/file/Dartboard_diagram.svg)
+
 2.  **Probability by [Length](https://en.wikipedia.org/wiki/Length):** Now imagine a [bird](https://en.wikipedia.org/wiki/Bird) landing randomly on a [telephone wire](https://en.wikipedia.org/wiki/Utility_pole). **Geometric probability calculates likelihood by dividing a specific target geometric length by the total available length.** If a wire is 50 [feet](https://en.wikipedia.org/wiki/Foot_%28unit%29) long, and a 5-foot section of it sits directly above your newly washed car, the probability of the bird landing precisely on that 5-foot section is $\frac{5}{50}$ or $10\%$.
 
 ---

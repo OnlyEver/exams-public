@@ -17,6 +17,8 @@ At its core, **a [percentage](https://en.wikipedia.org/wiki/Percentage) represen
 > **The Universal Symbol:** **The [mathematical symbol](https://en.wikipedia.org/wiki/Mathematical_symbol) used to denote a [percentage](https://en.wikipedia.org/wiki/Percentage) is [%](https://en.wikipedia.org/wiki/Percent_sign).** 
 > If you look closely at that symbol, it practically screams its own definition: a [slash](https://en.wikipedia.org/wiki/Slash_%28punctuation%29) for [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) and two [zeros](https://en.wikipedia.org/wiki/0). It’s a scrambled up "/100"!
 
+![The percent symbol (%) visually represents a fraction over 100, comprising a division slash and two zeros.](https://wikipedia.org/wiki/Special:Redirect/file/Unicode_0x0025.svg)
+
 When we talk about [quantities](https://en.wikipedia.org/wiki/Quantity):
 * **[100 percent](https://en.wikipedia.org/wiki/100_%28number%29) represents the entire whole of a given [quantity](https://en.wikipedia.org/wiki/Quantity).** If you eat 100% of a [pizza](https://en.wikipedia.org/wiki/Pizza), the pizza is gone. 
 * But the [universe](https://en.wikipedia.org/wiki/Universe) doesn't stop at 100. **A [percentage](https://en.wikipedia.org/wiki/Percentage) greater than 100 represents an amount strictly larger than the original whole quantity.** If a [balloon](https://en.wikipedia.org/wiki/Balloon) inflates to 150% of its original size, it is now one-and-a-half times as large as it used to be!
@@ -84,6 +86,8 @@ Here is the foolproof [algorithm](https://en.wikipedia.org/wiki/Algorithm) for f
 1. **Find the Absolute Difference:** **The first step in finding [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference) is calculating the [absolute difference](https://en.wikipedia.org/wiki/Absolute_difference) between the new value and the original value.** Just [subtract](https://en.wikipedia.org/wiki/Subtraction) the smaller [number](https://en.wikipedia.org/wiki/Number) from the larger number. This is the pure, physical amount of change.
 2. **Compare to the Original:** **To calculate [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference), [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the [absolute difference](https://en.wikipedia.org/wiki/Absolute_difference) by the original value and [multiply](https://en.wikipedia.org/wiki/Multiplication) the result by 100.** 
 
+![Absolute difference measures the raw, physical distance between an original value and a new value on a number line, representing the pure amount of change before it is scaled.](https://wikipedia.org/wiki/Special:Redirect/file/Absolute_difference.svg)
+
 > **THE [GOLDEN RULE](https://en.wikipedia.org/wiki/Golden_Rule) OF [PERCENT CHANGE](https://en.wikipedia.org/wiki/Relative_change_and_difference):**
 > If you are going to make a mistake on the Praxis, it will be right here. **The [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) in a [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference) calculation must always be the original starting value.** Never the new value! Always ask yourself: *"Where did the story start?"*
 
@@ -116,9 +120,13 @@ Think about it: if a shirt is 20% off, that means you are *paying* 80% of the or
 * **[Multiplying](https://en.wikipedia.org/wiki/Multiplication) a [number](https://en.wikipedia.org/wiki/Number) by 1 minus the [decimal](https://en.wikipedia.org/wiki/Decimal) rate calculates the final amount after a [percent decrease](https://en.wikipedia.org/wiki/Relative_change_and_difference).** 
   *Shortcut: $\$50 \times (1 - 0.20) = \$50 \times 0.80 = \$40$.*
 
+![A real-world 20% discount. Using the multiplier trick, calculating a 20% reduction is as simple as multiplying the original price by 0.80.](https://wikipedia.org/wiki/Special:Redirect/file/Shop_placard_showing_20%25_reduction.JPG)
+
 The same beautiful [logic](https://en.wikipedia.org/wiki/Logic) applies to [taxes](https://en.wikipedia.org/wiki/Tax) or [markups](https://en.wikipedia.org/wiki/Markup_%28business%29). If you are paying an 8% [sales tax](https://en.wikipedia.org/wiki/Sales_tax), you are paying for the entire item ($100\%$) *plus* the tax ($8\%$), for a total of $108\%$ of the original price.
 * **[Multiplying](https://en.wikipedia.org/wiki/Multiplication) a [number](https://en.wikipedia.org/wiki/Number) by 1 plus the [decimal](https://en.wikipedia.org/wiki/Decimal) rate calculates the final amount after a [percent increase](https://en.wikipedia.org/wiki/Relative_change_and_difference).**
   *Shortcut: A \$50 item with 8% tax $\rightarrow \$50 \times (1 + 0.08) = \$50 \times 1.08 = \$54$.*
+
+![A receipt demonstrating an 8.5% sales tax. Instead of calculating the tax and adding it to the subtotal, multiplying the subtotal by 1.085 computes the final total in one step.](https://wikipedia.org/wiki/Special:Redirect/file/Receipt_California_restaurant_2006.jpg)
 
 ### Bringing It All Together
 

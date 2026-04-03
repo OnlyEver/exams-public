@@ -2,7 +2,7 @@
 
 Welcome to the machinery of [mathematics](https://en.wikipedia.org/wiki/Mathematics). 
 
-When most people look at an [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) problem, they see a rigid set of instructions—a chore to be slogged through from left to right. But mathematics isn't about mindless calculation; it's about seeing the hidden structures of the universe and using them to your advantage. For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), your goal isn't just to memorize Latin-sounding words like "commutative" and "distributive." Your goal is to become a master manipulator of numbers.
+When most people look at an [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) problem, they see a rigid set of instructions—a chore to be slogged through from left to right. But mathematics isn't about mindless calculation; it's about seeing the hidden structures of the universe and using them to your advantage. For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), your goal isn't just to memorize [Latin](https://en.wikipedia.org/wiki/Latin)-sounding words like "commutative" and "distributive." Your goal is to become a master manipulator of numbers.
 
 Think of basic number properties as the "rules of the game" in [physics](https://en.wikipedia.org/wiki/Physics). If you know the rules, you don't have to work hard; you can work *smart*. You can shift numbers around, regroup them, and break them apart so that the arithmetic practically solves itself in your head. 
 
@@ -10,15 +10,17 @@ Let's look at how we can playfully—but legally—bend mathematical expressions
 
 ---
 
-## 1. The Art of Rearranging: The Commutative Property
+## 1. The Art of Rearranging: The [Commutative Property](https://en.wikipedia.org/wiki/Commutative_property)
 
 Have you ever packed a suitcase? If you toss your shirts in first and then your socks, you get a packed suitcase. If you toss your socks in first and then your shirts, you end up with the exact same packed suitcase. The order of the action simply doesn't matter. 
 
-This brings us to our first fundamental rule. **The commutative property of [addition](https://en.wikipedia.org/wiki/Addition) states that changing the order of addends does not change the resulting [sum](https://en.wikipedia.org/wiki/Summation).** 
+This brings us to our first fundamental rule. **The [commutative property](https://en.wikipedia.org/wiki/Commutative_property) of [addition](https://en.wikipedia.org/wiki/Addition) states that changing the order of addends does not change the resulting [sum](https://en.wikipedia.org/wiki/Summation).** 
 
 > **The Rule of Moving Things Around (Addition)**
-> The algebraic representation of the commutative property of addition is exactly this:
+> The [algebraic](https://en.wikipedia.org/wiki/Algebra) representation of the commutative property of addition is exactly this:
 > **$a + b = b + a$**
+
+![Using physical blocks makes the commutative property of addition easy to see: 4 + 2 yields the exact same total as 2 + 4.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionComm01.svg)
 
 The same delightful [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28mathematics%29) exists in [multiplication](https://en.wikipedia.org/wiki/Multiplication). Imagine a grid of dots on a page: 3 rows of 4 dots. If you rotate the page 90 degrees, it becomes 4 rows of 3 dots. The total number of dots hasn't changed! **The commutative property of multiplication states that changing the order of factors does not change the resulting [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29).** 
 
@@ -48,7 +50,9 @@ In mathematics, you must remember the limits of your tools:
 If the commutative property is about moving physical locations, the associative property is about *who is talking to whom*. 
 
 > **[Order of Operations](https://en.wikipedia.org/wiki/Order_of_operations) Context**
-> Before we regroup things, remember a fundamental truth of math grammar: **Grouping symbols such as parentheses dictate which arithmetic operations must be performed first within an algebraic expression.**
+> Before we regroup things, remember a fundamental truth of math grammar: **Grouping symbols such as [parentheses](https://en.wikipedia.org/wiki/Bracket) dictate which arithmetic operations must be performed first within an [algebraic expression](https://en.wikipedia.org/wiki/Algebraic_expression).**
+
+![The standard order of operations dictates that expressions grouped within parentheses must be evaluated first before moving on to multiplication, division, addition, or subtraction.](https://wikipedia.org/wiki/Special:Redirect/file/Order_of_operations.svg)
 
 Now, imagine a conversation between three friends: Alice, Bob, and Charlie. If Alice and Bob are whispering together, and then Charlie joins in, it’s the same group of friends as if Bob and Charlie were whispering and Alice joined them. The grouping changes, but the party is exactly the same.
 
@@ -57,6 +61,8 @@ Now, imagine a conversation between three friends: Alice, Bob, and Charlie. If A
 > **The Rule of Grouping (Addition)**
 > The algebraic representation of the associative property of addition is that the grouped sum of $a$ and $b$ plus $c$ equals $a$ plus the grouped sum of $b$ and $c$:
 > **$(a + b) + c = a + (b + c)$**
+
+![The associative property of addition demonstrated with segmented rods: grouping the 1 and 3 first, or grouping the 2 and 1 first, both result in the same total length of 6.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionAsc.svg)
 
 Similarly, **the associative property of multiplication states that changing the grouping of factors does not change the resulting product.**
 
@@ -104,7 +110,9 @@ And it works equally well with subtraction. **The distributive property of multi
 > **$a(b - c) = ab - ac$**
 
 ### Why do we care?
-Because it turns you into a human calculator. **Applying the distributive property enables [mental math](https://en.wikipedia.org/wiki/Mental_calculation) calculations by breaking down a difficult multiplication problem into the sum (or difference) of two easier multiplication problems.**
+Because it turns you into a [human calculator](https://en.wikipedia.org/wiki/Mental_calculator). **Applying the distributive property enables [mental math](https://en.wikipedia.org/wiki/Mental_calculation) calculations by breaking down a difficult multiplication problem into the sum (or difference) of two easier multiplication problems.**
+
+![Mastering the distributive property allows you to break down complicated multiplication problems into manageable mental calculations.](https://wikipedia.org/wiki/Special:Redirect/file/Mental_calculation_at_primary_school.jpg)
 
 Let's say you're at the store, and you need to buy 6 items that cost $\$98$ each. You *could* grab a pencil, write down $98 \times 6$, carry the numbers... or you could use the distributive property over subtraction.
 
@@ -123,7 +131,7 @@ You didn't have to name the property to use it—you just applied it to bend the
 
 ---
 
-## 4. The Unsung Heroes: Identities, Zeros, and Inverses
+## 4. The Unsung Heroes: [Identities](https://en.wikipedia.org/wiki/Identity_element), Zeros, and [Inverses](https://en.wikipedia.org/wiki/Inverse_element)
 
 To truly understand how math behaves, you need to understand the structural "anchor points" of our [number system](https://en.wikipedia.org/wiki/Numeral_system). These properties might seem incredibly obvious, but they are the foundational rules that allow algebra to even exist.
 
@@ -131,19 +139,24 @@ To truly understand how math behaves, you need to understand the structural "anc
 An "identity" in math is an operation that lets you step up to a number, do something to it, and leave it completely unchanged.
 
 * **The [additive identity property](https://en.wikipedia.org/wiki/Additive_identity) states that the sum of any given number and [zero](https://en.wikipedia.org/wiki/0) is the original given number.** ($7 + 0 = 7$). Zero is the mirror of addition.
-* **The multiplicative identity property states that the product of any given number and [one](https://en.wikipedia.org/wiki/1) is the original given number.** ($14 \times 1 = 14$). One is the mirror of multiplication.
+
+![Adding a set with zero elements to an existing set results in no change to the total quantity, visually illustrating the additive identity property.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionZero.svg)
+
+* **The [multiplicative identity property](https://en.wikipedia.org/wiki/Multiplicative_identity) states that the product of any given number and [one](https://en.wikipedia.org/wiki/1) is the original given number.** ($14 \times 1 = 14$). One is the mirror of multiplication.
 
 ### The Annihilator: Property of Zero
 While zero does nothing in addition, it is incredibly powerful in multiplication. It destroys everything it touches.
-* **The multiplicative property of zero states that the product of any number and zero is exactly zero.** ($4,923,194 \times 0 = 0$). 
+* **The [multiplicative property of zero](https://en.wikipedia.org/wiki/Zero-product_property) states that the product of any number and zero is exactly zero.** ($4,923,194 \times 0 = 0$). 
 
 ### Pushing the Undo Button: The Inverse Properties
 If you do an operation, how do you undo it to get back to your blank slate (your identities)? You use inverses.
 
-**The additive inverse of a given number is the unique number that yields zero when added to the given number.**
+**The [additive inverse](https://en.wikipedia.org/wiki/Additive_inverse) of a given number is the unique number that yields zero when added to the given number.**
 If you step forward 5 spaces, how do you get back to zero? You step backwards 5 spaces. 
-> **Fact:** **The additive inverse of a positive number is the [negative](https://en.wikipedia.org/wiki/Negative_number) counterpart of the identical magnitude.**
+> **Fact:** **The additive inverse of a positive number is the [negative](https://en.wikipedia.org/wiki/Negative_number) counterpart of the identical [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29).**
 > *Example:* The additive inverse of $12$ is $-12$, because $12 + (-12) = 0$.
+
+![A number line perfectly visualizes additive inverses: moving a set magnitude in the positive direction is exactly canceled out by moving the same magnitude in the negative direction back to zero.](https://wikipedia.org/wiki/Special:Redirect/file/Number_line_with_numbers_-3_to_3.svg)
 
 **The [multiplicative inverse](https://en.wikipedia.org/wiki/Multiplicative_inverse) of a given nonzero number is the unique number that yields one when multiplied by the given number.**
 If you multiply a number by $4$, how do you get back to $1$? You multiply by $\frac{1}{4}$!

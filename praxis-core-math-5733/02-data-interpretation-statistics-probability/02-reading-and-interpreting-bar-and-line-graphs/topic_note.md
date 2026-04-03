@@ -2,11 +2,13 @@
 
 Welcome! I am so absolutely thrilled you’re here. You are training to be [educators](https://en.wikipedia.org/wiki/Teacher), which means you are going to be professional sense-makers for the next generation. But before you can make sense of the world for your students, you have to make sense of the [data](https://en.wikipedia.org/wiki/Data) that surrounds *you*. 
 
-Think about it: the modern world is absolutely swimming in an ocean of numbers. Test scores, attendance trends, demographic shifts, school budget allocations—it’s a chaotic symphony of data! If you just stare at a raw [spreadsheet](https://en.wikipedia.org/wiki/Spreadsheet) filled with thousands of numbers, your eyes will glaze over. It’s unreadable. The human brain simply didn't evolve to look at a grid of [decimals](https://en.wikipedia.org/wiki/Decimal) and intuitively understand what it all means. 
+Think about it: the modern world is absolutely swimming in an ocean of numbers. Test scores, attendance trends, [demographic shifts](https://en.wikipedia.org/wiki/Demography), school budget allocations—it’s a chaotic symphony of data! If you just stare at a raw [spreadsheet](https://en.wikipedia.org/wiki/Spreadsheet) filled with thousands of numbers, your eyes will glaze over. It’s unreadable. The human brain simply didn't evolve to look at a grid of [decimals](https://en.wikipedia.org/wiki/Decimal) and intuitively understand what it all means. 
 
-So, what did humanity invent to solve this? We invented a way to turn abstract math into *geometry*. 
+![Raw numerical data in a spreadsheet can be overwhelming and visually impenetrable, which is why humanity developed graphical methods to translate numbers into easily readable geometry.](https://wikipedia.org/wiki/Special:Redirect/file/LibreOffice_7.2.4.1_Calc_with_csv_screenshot.png)
 
-We translate numerical data into pictures so our [visual cortex](https://en.wikipedia.org/wiki/Visual_cortex) can instantly grasp the truth of a situation. That’s what a mathematical graph is: a visual story. Today, we are going to learn how to read those stories fluently, specifically focusing on the two most powerful tools in your data-visualization toolkit: **bar graphs** and **line graphs**. 
+So, what did humanity invent to solve this? We invented a way to turn abstract math into *[geometry](https://en.wikipedia.org/wiki/Geometry)*. 
+
+We translate numerical data into pictures so our [visual cortex](https://en.wikipedia.org/wiki/Visual_cortex) can instantly grasp the truth of a situation. That’s what a mathematical graph is: a visual story. Today, we are going to learn how to read those stories fluently, specifically focusing on the two most powerful tools in your [data-visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization) toolkit: **[bar graphs](https://en.wikipedia.org/wiki/Bar_chart)** and **[line graphs](https://en.wikipedia.org/wiki/Line_chart)**. 
 
 Let's dive right in and see how the magic works.
 
@@ -18,7 +20,9 @@ Before we look at specific types of charts, we need to understand the stage upon
 
 First, let's talk about the marquee outside the theater. **The title of a mathematical graph explicitly describes the overall subject matter being depicted.** But it does more than just give you a broad topic; **the title of a mathematical graph explicitly describes the relationship between the plotted [variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29).** If you see a graph titled *"Reading Fluency Scores vs. Hours of Weekly Practice,"* it immediately tells you that we are investigating how one specific thing behaves in relation to another. *Never* skip the title. It’s the easiest way to orient your mind before you look at a single number.
 
-Next, we look at the physical framework. Graphs are built on [axes](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)—usually a horizontal one and a vertical one. The anchor of this entire system is the **[origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29)**, which is **the specific coordinate point where the horizontal axis and the vertical axis intersect on a graph**. This is ground zero. It is the starting line from which all our visual measurements begin.
+Next, we look at the physical framework. Graphs are built on [axes](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)—usually a horizontal one and a vertical one. The anchor of this entire system is the **[origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29)**, which is **the specific [coordinate point](https://en.wikipedia.org/wiki/Point_%28geometry%29) where the horizontal axis and the vertical axis intersect on a graph**. This is ground zero. It is the starting line from which all our visual measurements begin.
+
+![A standard coordinate plane. The origin, marked in purple at (0, 0), serves as the universal anchor point where the vertical and horizontal axes intersect.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
 
 Now, sometimes graphs are telling complicated stories involving multiple groups. How do we keep them straight without cluttering the picture with text? We use a **legend**! A legend is your [decoder ring](https://en.wikipedia.org/wiki/Secret_decoder_ring); **a legend provides the definitions for different colors, patterns, or line styles utilized within a graph.** 
 
@@ -34,13 +38,15 @@ You will be able to spot this mathematical shortcut if you look closely: **scale
 
 Why? Imagine School A has a $96\%$ passing rate and School B has a $98\%$ passing rate. If the axis has a scale break and starts at $95\%$, the bar for School B will literally be three times taller than the bar for School A! An untrained reader looks at that and gasps, *"Wow! School B is doing three times better!"* But they aren't. They are merely $2$ [percentage points](https://en.wikipedia.org/wiki/Percentage_point) better. The physical geometry of the picture has been distorted by the scale break. Always check your axes!
 
+![The graph on the left uses a scale break to omit the lower portion of the vertical axis, creating a misleading visual illusion of a massive gap. The full-scale graph on the right reveals the true, much smaller proportion between the values.](https://wikipedia.org/wiki/Special:Redirect/file/Misusestatistics_0001.png)
+
 ---
 
 ## Part 2: Bar Graphs (The Masters of Comparison)
 
-Alright, let's look at our first major category. When you have discrete, separate buckets of things—like different grade levels, distinct subjects, or favorite colors—you want a bar graph. 
+Alright, let's look at our first major category. When you have [discrete](https://en.wikipedia.org/wiki/Continuous_and_discrete_variables), separate buckets of things—like different grade levels, distinct subjects, or favorite colors—you want a bar graph. 
 
-Fundamentally, **a bar graph uses rectangular bars to represent the frequencies or values of discrete categories.** 
+Fundamentally, **a bar graph uses rectangular bars to represent the [frequencies](https://en.wikipedia.org/wiki/Frequency_%28statistics%29) or values of discrete categories.** 
 
 The absolute genius of a bar graph lies in its central rule of honesty: **The length of each bar in a bar graph is [directly proportional](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) to the numerical value that specific bar represents.** If Category A has a value of $10$ and Category B has a value of $20$, the bar for Category B must be exactly twice as long. You are letting the sheer physical size of the [rectangle](https://en.wikipedia.org/wiki/Rectangle) do the comparative math for your brain.
 
@@ -48,13 +54,13 @@ The absolute genius of a bar graph lies in its central rule of honesty: **The le
 
 Graph-makers have flexibility in how they build these. **Bar graphs can be oriented with bars running either [vertically](https://en.wikipedia.org/wiki/Vertical_and_horizontal) or horizontally.** 
 
-Let's picture a standard vertical bar graph. Because the bars are standing up like buildings, **the horizontal axis of a vertical bar graph typically denotes the distinct categories being compared** (e.g., "Freshmen", "Sophomores", "Juniors", "Seniors"). 
+Let's picture a standard vertical bar graph. Because the bars are standing up like buildings, **the horizontal axis of a vertical bar graph typically denotes the distinct categories being compared** (e.g., "[Freshmen](https://en.wikipedia.org/wiki/Freshman)", "[Sophomores](https://en.wikipedia.org/wiki/Sophomore)", "[Juniors](https://en.wikipedia.org/wiki/Junior_%28education%29)", "[Seniors](https://en.wikipedia.org/wiki/Senior_%28education%29)"). 
 
 Meanwhile, **the vertical axis of a vertical bar graph typically denotes the continuous numerical scale for the quantities being measured** (e.g., "Number of Students"). 
 
 ### How to Read and Analyze a Bar Graph
 
-When you look at a bar graph, your brain instantly performs a [sorting](https://en.wikipedia.org/wiki/Sorting) operation without you even realizing it. Because of the proportional rule, **comparing the heights of different bars in a bar graph visually reveals which categories have the largest and smallest absolute values.** You can spot the tallest "building" in the skyline in a fraction of a second.
+When you look at a bar graph, your brain instantly performs a [sorting](https://en.wikipedia.org/wiki/Sorting) operation without you even realizing it. Because of the proportional rule, **comparing the heights of different bars in a bar graph visually reveals which categories have the largest and smallest [absolute values](https://en.wikipedia.org/wiki/Absolute_value).** You can spot the tallest "building" in the skyline in a fraction of a second.
 
 But what if the Praxis exam asks you for a specific mathematical calculation? 
 
@@ -68,8 +74,8 @@ Sometimes, the world is more complex than simple distinct categories. What if we
 
 | Graph Type | How it Works | Why We Use It |
 | :--- | :--- | :--- |
-| **Grouped Bar Graph** | **A grouped bar graph displays multiple bars side-by-side for each distinct category to facilitate sub-group comparisons.** | It allows you to instantly compare the sub-groups directly against each other (e.g., comparing the boy bar right next to the girl bar in the Freshman category). |
-| **Stacked Bar Graph** | **A stacked bar graph divides a single vertical or horizontal bar into separate segments.** | It shows you the *total* [volume](https://en.wikipedia.org/wiki/Volume) of the category by the overall height, while **each segment within a stacked bar graph shows the relative contribution of a sub-group to the total category value.** It’s like a layered cake! |
+| **[Grouped Bar Graph](https://en.wikipedia.org/wiki/Bar_chart)** | **A grouped bar graph displays multiple bars side-by-side for each distinct category to facilitate sub-group comparisons.** | It allows you to instantly compare the sub-groups directly against each other (e.g., comparing the boy bar right next to the girl bar in the Freshman category). |
+| **[Stacked Bar Graph](https://en.wikipedia.org/wiki/Bar_chart)** | **A stacked bar graph divides a single vertical or horizontal bar into separate segments.** | It shows you the *total* [volume](https://en.wikipedia.org/wiki/Volume) of the category by the overall height, while **each segment within a stacked bar graph shows the relative contribution of a sub-group to the total category value.** It’s like a layered cake! |
 
 ---
 
@@ -77,13 +83,15 @@ Sometimes, the world is more complex than simple distinct categories. What if we
 
 If bar graphs are [photographs](https://en.wikipedia.org/wiki/Photography) comparing different things at a single moment, line graphs are *[movies](https://en.wikipedia.org/wiki/Film)*. They show us things in motion. 
 
-**A line graph uses individual data points connected by straight [line segments](https://en.wikipedia.org/wiki/Line_segment) to represent quantitative data.** 
+**A line graph uses individual [data points](https://en.wikipedia.org/wiki/Data_point) connected by straight [line segments](https://en.wikipedia.org/wiki/Line_segment) to represent quantitative data.** 
 
-The defining characteristic of these graphs is their relationship with time. **Line graphs are primarily used to display how a specific numerical variable changes over a continuous progression of [time](https://en.wikipedia.org/wiki/Time).** If you want to know how a student's reading comprehension score changed from September to May, you use a line graph. 
+The defining characteristic of these graphs is their relationship with time. **Line graphs are primarily used to display how a specific numerical variable changes over a continuous progression of [time](https://en.wikipedia.org/wiki/Time).** If you want to know how a student's [reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension) score changed from September to May, you use a line graph. 
 
 Because time marches steadily forward, the axes are highly standardized:
-*   **The horizontal axis of a line graph almost always represents chronological time intervals** (days, months, years moving from left to right).
+*   **The horizontal axis of a line graph almost always represents [chronological time](https://en.wikipedia.org/wiki/Chronology) intervals** (days, months, years moving from left to right).
 *   **The vertical axis of a line graph represents the numerical value of the specific quantitative variable being tracked over time.**
+
+![A classic line graph tracking population changes across decades. The horizontal axis reliably marks the chronological progression of time, while the vertical axis tracks the fluctuating numerical variable.](https://wikipedia.org/wiki/Special:Redirect/file/Pushkin_population_history.svg)
 
 ### Decoding the Slopes: The Direction of Change
 
@@ -91,29 +99,35 @@ When you look at the line segments connecting the data points, they are speaking
 
 1.  **The Ascent:** **An upward-sloping line segment on a line graph indicates an increase in the measured numerical value during that specific time interval.** The variable is growing. 
 2.  **The Descent:** **A downward-sloping line segment on a line graph indicates a decrease in the measured numerical value during that specific time interval.** The variable is shrinking.
-3.  **The Plateau:** What if the line is perfectly flat? **A perfectly horizontal line segment on a line graph indicates that the measured numerical value remained constant during that specific time interval.** Nothing changed. The system was at rest.
+3.  **The Plateau:** What if the line is perfectly flat? **A perfectly horizontal line segment on a line graph indicates that the measured numerical value remained [constant](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) during that specific time interval.** Nothing changed. The system was [at rest](https://en.wikipedia.org/wiki/Rest_%28physics%29).
 
 ### Steepness: The Rate of Change
 
 Here is a profound concept that separates an average graph reader from an elite one. The direction of the line tells you *what* is happening (going up or down), but the physical *[slant](https://en.wikipedia.org/wiki/Slope)* of the line tells you *how fast* it is happening!
 
-**The [steepness](https://en.wikipedia.org/wiki/Slope) of a line segment on a line graph visually represents the rate of change of the measured variable.** 
+**The [steepness](https://en.wikipedia.org/wiki/Slope) of a line segment on a line graph visually represents the [rate of change](https://en.wikipedia.org/wiki/Derivative) of the measured variable.** 
 
 Think about climbing a hill. If you walk up a gentle incline, you're gaining [elevation](https://en.wikipedia.org/wiki/Elevation) slowly. If you scale a sheer cliff wall, you're gaining elevation rapidly. The exact same physics apply to our visual data!
 *   **A steeper slope on a line graph indicates a faster rate of mathematical change.** If a [stock price](https://en.wikipedia.org/wiki/Share_price) [crashes](https://en.wikipedia.org/wiki/Stock_market_crash) overnight, the line connecting yesterday to today will look almost like a vertical cliff face.
 *   **A flatter slope on a line graph indicates a slower rate of mathematical change.** If a tree grows just a tiny bit over a decade, the line will look like a gentle, lazy ramp.
 
+![A graph of the 1987 Dow Jones stock market crash. The extreme, near-vertical downward slope instantly communicates an incredibly rapid rate of negative change.](https://wikipedia.org/wiki/Special:Redirect/file/Black_Monday_Dow_Jones.svg)
+
 ### Complexity: Multiple Lines and Mathematical Prophecy
 
-Just as we can group bar graphs, we can layer line graphs to find deeper truths. **Multiple distinct lines can be plotted on the same line graph to compare data trends among different entities over the identical time period.** Imagine plotting the average math scores of three different school districts over the last ten years on the same set of axes (using a legend to tell them apart, of course!). You could instantly see whose scores are climbing the steepest and whose are falling behind.
+Just as we can group bar graphs, we can layer line graphs to find deeper truths. **Multiple distinct lines can be plotted on the same line graph to compare data trends among different entities over the identical time period.** Imagine plotting the average math scores of three different [school districts](https://en.wikipedia.org/wiki/School_district) over the last ten years on the same set of axes (using a legend to tell them apart, of course!). You could instantly see whose scores are climbing the steepest and whose are falling behind.
 
 Finally, line graphs allow us to do something incredibly cool: they allow us to guess the unseen. 
 
-Because we assume a continuous flow between data points, we can make mathematical estimations. Let's say we have a data point for the year $2020$ and a data point for the year $2022$, but we lost the data for $2021$. We can just look at where the line connects the two known years and guess the middle. This is called **[interpolation](https://en.wikipedia.org/wiki/Interpolation)**.
+Because we assume a continuous flow between data points, we can make mathematical [estimations](https://en.wikipedia.org/wiki/Estimation). Let's say we have a data point for the year $2020$ and a data point for the year $2022$, but we lost the data for $2021$. We can just look at where the line connects the two known years and guess the middle. This is called **[interpolation](https://en.wikipedia.org/wiki/Interpolation)**.
 > **Interpolation on a line graph involves estimating a missing numerical value mathematically positioned between two explicitly plotted data points.** 
+
+![By assuming a continuous trend and connecting known data points (red dots) with a line, we can confidently interpolate the missing values that fall in the gaps between them.](https://wikipedia.org/wiki/Special:Redirect/file/Interpolation_example_linear.svg)
 
 But what if we want to predict the future? What if we have data up to the year $2026$, and we want to guess what will happen in $2027$? We can extend the line outward following its current [trajectory](https://en.wikipedia.org/wiki/Trajectory)! This is called **[extrapolation](https://en.wikipedia.org/wiki/Extrapolation)**.
 > **Extrapolation on a line graph involves predicting a future numerical value mathematically positioned outside the range of existing plotted data points.** 
+
+![Extrapolation extends the established mathematical trend of the known data points (red) outward to predict an unknown future value (represented by the blue box).](https://wikipedia.org/wiki/Special:Redirect/file/Extrapolation_example.svg)
 
 *A quick warning:* Extrapolation is incredibly useful, but it requires faith that the current trend will continue without changing. Nature and reality are rarely that cooperative forever!
 
@@ -125,6 +139,6 @@ My friends, look at what you've learned. You aren't just looking at shapes on a 
 
 When you see a bar graph, you are witnessing the elegant geometry of direct comparison, using proportion to strip away the noise and find the absolute differences between categories. When you see a line graph, you are reading the narrative of time, using the steepness of slopes to feel the [velocity](https://en.wikipedia.org/wiki/Velocity) of change. You know to check your titles, honor the origin, consult the legend, and guard your mind against the deceptive illusions of the scale break.
 
-You now have the precise, foundational knowledge to conquer this topic on the Praxis Core exam. More importantly, you have the visual literacy required to be an outstanding, data-informed educator. 
+You now have the precise, foundational knowledge to conquer this topic on the Praxis Core exam. More importantly, you have the [visual literacy](https://en.wikipedia.org/wiki/Visual_literacy) required to be an outstanding, data-informed educator. 
 
 Now, go out there and make sense of the world!

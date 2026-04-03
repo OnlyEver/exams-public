@@ -1,10 +1,10 @@
-Let’s do an experiment. Imagine a [fly](https://en.wikipedia.org/wiki/Fly) lands on a massive, blank, white wall. You are on the [phone](https://en.wikipedia.org/wiki/Telephone) with a friend, and you need to tell them exactly, precisely, without a shadow of a doubt, where that fly is. 
+Let’s do an [experiment](https://en.wikipedia.org/wiki/Experiment). Imagine a [fly](https://en.wikipedia.org/wiki/Fly) lands on a massive, blank, white wall. You are on the [phone](https://en.wikipedia.org/wiki/Telephone) with a friend, and you need to tell them exactly, precisely, without a shadow of a doubt, where that fly is. 
 
 You can’t say "it's kind of near the top middle," because what does that mean? [Mathematics](https://en.wikipedia.org/wiki/Mathematics) despises "kind of." Mathematics demands [precision](https://en.wikipedia.org/wiki/Accuracy_and_precision). 
 
-So, what do you do? You invent a grid. You draw two [lines](https://en.wikipedia.org/wiki/Line_%28geometry%29). You create a [map](https://en.wikipedia.org/wiki/Map). 
+So, what do you do? You invent a [grid](https://en.wikipedia.org/wiki/Regular_grid). You draw two [lines](https://en.wikipedia.org/wiki/Line_%28geometry%29). You create a [map](https://en.wikipedia.org/wiki/Map). 
 
-Welcome to the world of coordinate geometry. In the 17th century, a [mathematician](https://en.wikipedia.org/wiki/Mathematician) named René Descartes was supposedly staring at a fly on his ceiling when he realized that any position on a flat surface could be described by just two [numbers](https://en.wikipedia.org/wiki/Number). This singular, beautiful insight bridged the gap between [algebra](https://en.wikipedia.org/wiki/Algebra) ([equations](https://en.wikipedia.org/wiki/Equation)) and geometry (shapes). Suddenly, we could *draw* math. 
+Welcome to the world of [coordinate geometry](https://en.wikipedia.org/wiki/Analytic_geometry). In the 17th century, a [mathematician](https://en.wikipedia.org/wiki/Mathematician) named [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) was supposedly staring at a fly on his ceiling when he realized that any position on a flat [surface](https://en.wikipedia.org/wiki/Surface_%28mathematics%29) could be described by just two [numbers](https://en.wikipedia.org/wiki/Number). This singular, beautiful insight bridged the gap between [algebra](https://en.wikipedia.org/wiki/Algebra) ([equations](https://en.wikipedia.org/wiki/Equation)) and [geometry](https://en.wikipedia.org/wiki/Geometry) ([shapes](https://en.wikipedia.org/wiki/Shape)). Suddenly, we could *draw* math. 
 
 To conquer the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test) Mathematics exam, you must become intimately familiar with this landscape. Let's take a walk through it.
 
@@ -12,16 +12,16 @@ To conquer the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test) Mathemat
 
 To find our fly, we need reference points. We start by drawing two fundamental [axes](https://en.wikipedia.org/wiki/Cartesian_coordinate_system). Think of them as the foundation of a city grid. 
 
-**The [Cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) consists of a horizontal [number line](https://en.wikipedia.org/wiki/Number_line) and a vertical number line that intersect at a [right angle](https://en.wikipedia.org/wiki/Right_angle).** 
+**The [Cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) consists of a horizontal [number line](https://en.wikipedia.org/wiki/Number_line) and a vertical number line that [intersect](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) at a [right angle](https://en.wikipedia.org/wiki/Right_angle).** 
 
 *   **The x-axis:** This is your ground floor. **The horizontal number line in a Cartesian coordinate system is called the [x-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** It measures movement left and right.
 *   **The y-axis:** This is your elevator. **The vertical number line in a Cartesian coordinate system is called the [y-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** It measures movement up and down.
 
-Right where these two lines crash into each other—dead center in our two-dimensional universe—is our ground zero. **The point where the x-axis and the y-axis intersect is called the [origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29).** Because we haven’t moved left, right, up, or down from this exact spot, **the [coordinates](https://en.wikipedia.org/wiki/Coordinate_system) of the origin on a Cartesian coordinate plane are always (0, 0).**
+Right where these two lines crash into each other—dead center in our [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) universe—is our ground zero. **The [point](https://en.wikipedia.org/wiki/Point_%28geometry%29) where the x-axis and the y-axis intersect is called the [origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29).** Because we haven’t moved left, right, up, or down from this exact spot, **the [coordinates](https://en.wikipedia.org/wiki/Coordinate_system) of the origin on a Cartesian coordinate plane are always (0, 0).**
 
 ### How to Find Your Way: Ordered Pairs
 
-To locate any point on this vast, infinite plane, you need a set of instructions. We give these instructions as an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (x, y)**, which **identifies the exact location of a point on the [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** 
+To locate any point on this vast, infinite [plane](https://en.wikipedia.org/wiki/Plane_%28geometry%29), you need a set of instructions. We give these instructions as an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (x, y)**, which **identifies the exact location of a point on the [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** 
 
 Why is it "ordered"? Because the alphabet matters! The *x* always comes before the *y*. 
 
@@ -30,9 +30,11 @@ Why is it "ordered"? Because the alphabet matters! The *x* always comes before t
 
 Let's say you have the point (4, 3). You always start at the origin (0,0). The 4 tells you to walk four steps horizontally. The 3 tells you to take the elevator three steps vertically. 
 
-Now, mathematicians love to invent fancy names for simple concepts, usually derived from Latin, just to keep everyone on their toes. If you see these terms on the Praxis, don't panic:
+Now, mathematicians love to invent fancy names for simple concepts, usually derived from [Latin](https://en.wikipedia.org/wiki/Latin), just to keep everyone on their toes. If you see these terms on the Praxis, don't panic:
 *   **The x-coordinate in an ordered pair is also known as the [abscissa](https://en.wikipedia.org/wiki/Abscissa_and_ordinate).** 
 *   **The y-coordinate in an ordered pair is also known as the [ordinate](https://en.wikipedia.org/wiki/Abscissa_and_ordinate).** 
+
+![A Cartesian coordinate plane displaying the origin at (0,0) and several plotted points visually defined by their (x, y) ordered pairs.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
 
 ### The Directions of Space
 
@@ -45,16 +47,18 @@ Our number lines extend infinitely in both directions, which means we need a way
 
 ### The Four Quadrants: Dividing the Infinite
 
-When you take a blank plane and slash it with a horizontal line and a vertical line, you chop it into four distinct sections. **The intersection of the x-axis and y-axis divides the coordinate plane into four distinct regions called quadrants.**
+When you take a blank plane and slash it with a horizontal line and a vertical line, you chop it into four distinct sections. **The intersection of the x-axis and y-axis divides the coordinate plane into four distinct regions called [quadrants](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29).**
 
-By mathematical [convention](https://en.wikipedia.org/wiki/Convention_%28norm%29), **quadrants are traditionally numbered [counterclockwise](https://en.wikipedia.org/wiki/Clockwise) starting from the top right quadrant.** We use Roman numerals for them. Understanding the "signs" of these quadrants is a fantastic shortcut for checking your work on the exam.
+By mathematical [convention](https://en.wikipedia.org/wiki/Convention_%28norm%29), **quadrants are traditionally numbered [counterclockwise](https://en.wikipedia.org/wiki/Clockwise) starting from the top right quadrant.** We use [Roman numerals](https://en.wikipedia.org/wiki/Roman_numeral) for them. Understanding the "signs" of these quadrants is a fantastic shortcut for checking your work on the exam.
 
-| Quadrant | Location | X-Coordinate | Y-Coordinate | Description |
+![The coordinate plane is divided into four distinct quadrants, numbered counterclockwise from I to IV, each with a unique combination of positive and negative coordinate signs.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian_coordinates_2D.svg)
+
+| [Quadrant](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29) | Location | X-Coordinate | Y-Coordinate | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| **Quadrant I** | Top Right | Positive (+) | Positive (+) | **Quadrant I contains points with a positive x-coordinate and a positive y-coordinate.** (e.g., 3, 5) |
-| **Quadrant II** | Top Left | Negative (-) | Positive (+) | **Quadrant II contains points with a negative x-coordinate and a positive y-coordinate.** (e.g., -2, 4) |
-| **Quadrant III** | Bottom Left | Negative (-) | Negative (-) | **Quadrant III contains points with a negative x-coordinate and a negative y-coordinate.** (e.g., -6, -1) |
-| **Quadrant IV** | Bottom Right | Positive (+) | Negative (-) | **Quadrant IV contains points with a positive x-coordinate and a negative y-coordinate.** (e.g., 7, -8) |
+| **[Quadrant I](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29)** | Top Right | Positive (+) | Positive (+) | **Quadrant I contains points with a positive x-coordinate and a positive y-coordinate.** (e.g., 3, 5) |
+| **[Quadrant II](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29)** | Top Left | Negative (-) | Positive (+) | **Quadrant II contains points with a negative x-coordinate and a positive y-coordinate.** (e.g., -2, 4) |
+| **[Quadrant III](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29)** | Bottom Left | Negative (-) | Negative (-) | **Quadrant III contains points with a negative x-coordinate and a negative y-coordinate.** (e.g., -6, -1) |
+| **[Quadrant IV](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29)** | Bottom Right | Positive (+) | Negative (-) | **Quadrant IV contains points with a positive x-coordinate and a negative y-coordinate.** (e.g., 7, -8) |
 
 ***
 
@@ -64,20 +68,22 @@ Now that we have our grid, let's look at the [objects](https://en.wikipedia.org/
 
 But what *is* a line, algebraically speaking? 
 
-> **A linear equation is an algebraic equation in which each [term](https://en.wikipedia.org/wiki/Term_%28mathematics%29) is either a constant or the [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of a constant and a single [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) to the first [power](https://en.wikipedia.org/wiki/Exponentiation).**
+> **A [linear equation](https://en.wikipedia.org/wiki/Linear_equation) is an [algebraic equation](https://en.wikipedia.org/wiki/Algebraic_equation) in which each [term](https://en.wikipedia.org/wiki/Term_%28mathematics%29) is either a [constant](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) or the [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of a constant and a single [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) to the first [power](https://en.wikipedia.org/wiki/Exponentiation).**
 
 Look at that definition carefully. "To the first power." That means you won't see an $x^2$ or a $y^3$. You won't see variables multiplying each other like $xy$. Just plain old $x$ and plain old $y$, perhaps multiplied by a number (like $3x$ or $-2y$), or just a lone number sitting by itself (a constant). 
 
-Because there are no [squares](https://en.wikipedia.org/wiki/Square_%28algebra%29) or [cubes](https://en.wikipedia.org/wiki/Cube_%28algebra%29) to make the path curve or bend, the relationship between $x$ and $y$ is entirely locked in. For every step you take in $x$, you take a totally predictable number of steps in $y$. Because of this rigid, unbroken rhythm, **the [graph](https://en.wikipedia.org/wiki/Graph_of_a_function) of a linear equation on a Cartesian coordinate plane is always a straight line.**
+Because there are no [squares](https://en.wikipedia.org/wiki/Square_%28algebra%29) or [cubes](https://en.wikipedia.org/wiki/Cube_%28algebra%29) to make the path [curve](https://en.wikipedia.org/wiki/Curve) or bend, the relationship between $x$ and $y$ is entirely locked in. For every step you take in $x$, you take a totally predictable number of steps in $y$. Because of this rigid, unbroken rhythm, **the [graph](https://en.wikipedia.org/wiki/Graph_of_a_function) of a linear equation on a Cartesian coordinate plane is always a straight line.**
 
 How many points do you need to draw one of these lines? Think about it physically. If I give you just one point, you could draw an infinite number of lines spinning through it like a pinwheel. But if I give you two dots on a piece of paper, there is only *one* possible straight line you can draw connecting them. Therefore, **a minimum of two distinct points is required to graph a specific straight line on a coordinate plane.**
 
+![The continuous, proportional relationship between variables in a linear equation results in a straight line, which can be defined simply by connecting any two distinct points that solve the equation.](https://wikipedia.org/wiki/Special:Redirect/file/Linear_Function_Graph.svg)
+
 ### Intercepts: Crossing the Borders
 
-The most famous points on any line are the places where it crashes through our axes. We call these the intercepts. They are incredibly useful because they are incredibly easy to calculate. 
+The most famous points on any line are the places where it crashes through our axes. We call these the [intercepts](https://en.wikipedia.org/wiki/y-intercept). They are incredibly useful because they are incredibly easy to calculate. 
 
-*   **The x-intercept of a line is the exact point where the line crosses the x-axis.** Think about what happens when you are standing on the ground floor (the x-axis). You haven't gone up, and you haven't gone down. Therefore, **the y-coordinate of any x-intercept point is always exactly zero.** (It looks like $(x, 0)$).
-*   Likewise, **the y-intercept of a line is the exact point where the line crosses the y-axis.** If you are on the elevator shaft (the y-axis), you haven't stepped left or right. Thus, **the x-coordinate of any y-intercept point is always exactly zero.** (It looks like $(0, y)$).
+*   **The [x-intercept](https://en.wikipedia.org/wiki/y-intercept) of a line is the exact point where the line crosses the x-axis.** Think about what happens when you are standing on the ground floor (the x-axis). You haven't gone up, and you haven't gone down. Therefore, **the y-coordinate of any x-intercept point is always exactly zero.** (It looks like $(x, 0)$).
+*   Likewise, **the [y-intercept](https://en.wikipedia.org/wiki/y-intercept) of a line is the exact point where the line crosses the y-axis.** If you are on the elevator shaft (the y-axis), you haven't stepped left or right. Thus, **the x-coordinate of any y-intercept point is always exactly zero.** (It looks like $(0, y)$).
 
 **Graphing trick:** Want to draw a line fast? Find where $x$ is $0$, find where $y$ is $0$. **To plot a line using the x-intercept and y-intercept, graph the two intercept points on the axes and draw a straight line through them.** Boom. You’ve graphed the line.
 
@@ -85,7 +91,7 @@ The most famous points on any line are the places where it crashes through our a
 
 ## Slope: The Heartbeat of the Line
 
-If intercepts tell us *where* the line lives, the [slope](https://en.wikipedia.org/wiki/Slope) tells us *how* the line behaves. **The slope of a line measures the steepness and the direction of that line.** It is the mathematical translation of a mountain's grade.
+If intercepts tell us *where* the line lives, the [slope](https://en.wikipedia.org/wiki/Slope) tells us *how* the line behaves. **The slope of a line measures the [steepness](https://en.wikipedia.org/wiki/Grade_%28slope%29) and the direction of that line.** It is the mathematical translation of a mountain's grade.
 
 How do we measure steepness? We compare how much we go *up* against how much we go *over*. 
 
@@ -94,6 +100,8 @@ How do we measure steepness? We compare how much we go *up* against how much we 
 If you have two points, let's call them $(x_1, y_1)$ and $(x_2, y_2)$, finding the slope is just a matter of finding the difference in their heights divided by the difference in their horizontal positions. 
 
 **The [formula](https://en.wikipedia.org/wiki/Formula) for the slope between two points $(x_1, y_1)$ and $(x_2, y_2)$ is $m = \frac{y_2 - y_1}{x_2 - x_1}$.**
+
+![Slope is calculated as the ratio of the vertical change (rise, or Δy) to the horizontal change (run, or Δx) between two given points on a line.](https://wikipedia.org/wiki/Special:Redirect/file/Wiki_slope_in_2d.svg)
 
 ### Reading the Slope
 
@@ -110,6 +118,8 @@ What happens when we push the slope to its absolute limits?
 Imagine a road with no incline whatsoever. You run and run, but you never rise. Your "rise" is [zero](https://en.wikipedia.org/wiki/0). Zero divided by any number is zero. Therefore, **a line with a slope of zero forms a perfectly horizontal line on the coordinate plane.** 
 Because this line never goes up or down, its y-value never changes! It ignores $x$ entirely. **The equation of a horizontal line is written in the form $y = c$, where $c$ is a constant number.** (For example, $y = 4$ is a horizontal line cutting through the y-axis at 4).
 
+![A horizontal line has a slope of exactly zero, meaning the y-value remains constant across all points on the x-axis.](https://wikipedia.org/wiki/Special:Redirect/file/Graph_of_a_horizontal_line.jpg)
+
 **Scenario B: The Cliff.**
 Now imagine a sheer, vertical cliff. You are rising infinitely, but you have exactly zero horizontal movement (your "run" is zero). Let's look at our slope formula: $m = \frac{\text{rise}}{0}$. 
 What happens when you [divide a number by zero](https://en.wikipedia.org/wiki/Division_by_zero) in mathematics? The universe breaks! It's a logical impossibility. Because of this, **the slope of any perfectly vertical line is mathematically [undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29).** 
@@ -124,7 +134,7 @@ A linear equation can put on different outfits depending on what information it 
 ### 1. The Slope-Intercept Form (The Crowd Favorite)
 This is the most famous equation in all of algebra. 
 
-> **The slope-intercept form of a linear equation is represented by the formula $y = mx + b$.**
+> **The [slope-intercept form](https://en.wikipedia.org/wiki/Linear_equation) of a linear equation is represented by the formula $y = mx + b$.**
 
 Why do we love this form? Because it hands you the two most important pieces of information about a line on a silver platter. 
 *   **In the slope-intercept equation $y = mx + b$, the variable $m$ represents the slope of the line.** (The multiplier of $x$ tells you the rise over run).
@@ -135,6 +145,8 @@ Why do we love this form? Because it hands you the two most important pieces of 
 For example, if you have $y = \frac{2}{3}x + 1$:
 1. Put a dot at $(0, 1)$ on the y-axis.
 2. From there, use your slope: go UP 2 (rise), and RIGHT 3 (run) to find your next dot at $(3, 3)$. Draw your line!
+
+![An example of a graphed line (y = 0.5x - 1) built directly from its y-intercept (b = -1) and a positive slope (m = 0.5).](https://wikipedia.org/wiki/Special:Redirect/file/Graph_(y_%3D_0.5x_-_1).svg)
 
 *A crucial warning:* Remember our vertical cliff? A vertical line has an undefined slope, meaning there is no number we can plug in for $m$. Because of this limitation, **the graph of a vertical line cannot be written in the slope-intercept form $y = mx + b$.**
 
@@ -156,7 +168,7 @@ Here, $m$ is your slope, and $(x_1, y_1)$ is any specific, known point on your l
 
 ## Summary: Mastering the Grid
 
-The Cartesian coordinate plane isn't just a bunch of boxes on a piece of graph paper. It is a brilliant system for translating algebraic truth (equations) into geometric reality (lines). 
+The Cartesian coordinate plane isn't just a bunch of boxes on a piece of [graph paper](https://en.wikipedia.org/wiki/Graph_paper). It is a brilliant system for translating algebraic truth (equations) into geometric reality (lines). 
 
 When you sit down for the Praxis Core exam, see the grid for what it is. Look at an ordered pair and see the horizontal abscissa and the vertical ordinate. Look at $y = mx + b$ and immediately visualize where the line starts ($b$) and how steep it climbs ($m$). Know that a zero slope gives you a flat horizon ($y = c$) and an undefined slope creates a sheer cliff ($x = c$). 
 

@@ -1,31 +1,41 @@
 Welcome, friends! Let’s talk about the magic trick at the heart of [algebra](https://en.wikipedia.org/wiki/Algebra). 
 
-Have you ever looked at an [algebraic equation](https://en.wikipedia.org/wiki/Algebraic_equation) and felt like it was hiding something from you? A secret number wearing a mask called $x$? Well, the entire process of algebra is simply the art of unmasking that number. It’s a game of balance, [logic](https://en.wikipedia.org/wiki/Logic), and systematic deduction. 
+![The term "algebra" originates from the title of this 9th-century book by mathematician al-Khwarizmi, which established the foundational rules for balancing and solving equations.](https://wikipedia.org/wiki/Special:Redirect/file/Image-Al-Kit%C4%81b_al-mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-muq%C4%81bala.jpg)
 
-Today, we are going completely under the hood of **Solving Linear Equations in One Variable** so that you don't just memorize the steps for your [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test) exam, but you fundamentally *understand* them. When you understand the machinery, the math stops being a chore and starts being a puzzle—and a highly satisfying one at that. Let’s dive in!
+Have you ever looked at an [algebraic equation](https://en.wikipedia.org/wiki/Algebraic_equation) and felt like it was hiding something from you? A secret number wearing a mask called $x$? Well, the entire process of algebra is simply the art of unmasking that number. It’s a game of balance, [logic](https://en.wikipedia.org/wiki/Logic), and systematic [deduction](https://en.wikipedia.org/wiki/Deductive_reasoning). 
+
+Today, we are going completely under the hood of **Solving [Linear Equations in One Variable](https://en.wikipedia.org/wiki/Linear_equation)** so that you don't just memorize the steps for your [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test) exam, but you fundamentally *understand* them. When you understand the machinery, the math stops being a chore and starts being a puzzle—and a highly satisfying one at that. Let’s dive in!
 
 ## The Anatomy of an Equation
 
 First, what exactly are we dealing with? 
 
-> A **linear equation in one [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29)** is an algebraic equation that can be written in the [standard form](https://en.wikipedia.org/wiki/Canonical_form) **ax + b = c**. 
+> A **[linear equation](https://en.wikipedia.org/wiki/Linear_equation) in one [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29)** is an algebraic equation that can be written in the [standard form](https://en.wikipedia.org/wiki/Canonical_form) **ax + b = c**. 
+
+![A visual breakdown of algebraic notation showing how coefficients, variables, mathematical operators, and constants are structured within an expression.](https://wikipedia.org/wiki/Special:Redirect/file/Algebraic_equation_notation.svg)
 
 In this standard form, $x$ is our mystery variable, while $a$, $b$, and $c$ are just regular numbers. Notice that there are no [squared terms](https://en.wikipedia.org/wiki/Square_%28algebra%29) ($x^2$) or [square roots](https://en.wikipedia.org/wiki/Square_root) of $x$. It’s "linear" because if you were to map it out, it would form a perfectly [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29). 
+
+![When mapped onto a Cartesian coordinate system, the solutions to a linear equation form a perfectly straight line, illustrating exactly why these equations are called "linear."](https://wikipedia.org/wiki/Special:Redirect/file/Graph_(y_%3D_0.5x_-_1).svg)
 
 Our ultimate mission when handed one of these equations is **isolating a variable**. What does that mean? **Isolating a variable means mathematically manipulating an equation so the target variable stands completely alone on one side of the [equal sign](https://en.wikipedia.org/wiki/Equals_sign).** 
 
 We want to transform our messy equation into a crystal clear statement: $x = \text{something}$. 
 
+![The first recorded use of the equals sign by mathematician Robert Recorde in 1557, standardizing the fundamental mathematical symbol used to denote balance across equations.](https://wikipedia.org/wiki/Special:Redirect/file/First_Equation_Ever.png)
+
 ### The Golden Rule of Balance: Properties of Equality
 
 Imagine an old-school brass [balance scale](https://en.wikipedia.org/wiki/Weighing_scale). If it is perfectly level, it means the weight on the left is exactly equal to the weight on the right. If you add an apple to the left side, the scale tips. To restore balance, you *must* add an identical apple to the right side. 
 
+![A traditional balance scale serves as the perfect visual metaphor for the Properties of Equality: any operation performed on one side of an equation must be exactly mirrored on the other to maintain mathematical equilibrium.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
+
 This physical reality is governed by four fundamental mathematical laws:
 
-*   **The Addition Property of Equality** states that adding the same number to both sides of an equation maintains absolute equality.
-*   **The Subtraction Property of Equality** states that subtracting the exact same number from both sides of an equation maintains absolute equality.
-*   **The Multiplication Property of Equality** states that multiplying both sides of an equation by the same non-zero number maintains equality.
-*   **The Division Property of Equality** states that dividing both sides of an equation by the same non-zero number maintains equality.
+*   **The [Addition Property of Equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29)** states that adding the same number to both sides of an equation maintains absolute [equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29).
+*   **The [Subtraction Property of Equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29)** states that subtracting the exact same number from both sides of an equation maintains absolute equality.
+*   **The [Multiplication Property of Equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29)** states that multiplying both sides of an equation by the same non-zero number maintains equality.
+*   **The [Division Property of Equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29)** states that dividing both sides of an equation by the same non-zero number maintains equality.
 
 Whatever you do to the left side of the equal sign, you must do the exact same thing to the right. No exceptions!
 
@@ -33,7 +43,7 @@ Whatever you do to the left side of the equal sign, you must do the exact same t
 
 ## The Mechanics of "Undoing": Inverse Operations
 
-To isolate a variable, we have to strip away all the numbers surrounding it. We do this by utilizing **inverse operations**, which are pairs of specific mathematical [operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) that systematically undo each other. 
+To isolate a variable, we have to strip away all the numbers surrounding it. We do this by utilizing **[inverse operations](https://en.wikipedia.org/wiki/Inverse_operation)**, which are pairs of specific mathematical [operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) that systematically undo each other. 
 
 Think of it like tying and untying a shoelace. If a number is tied to our variable via one operation, we use the inverse operation to untie it.
 
@@ -68,7 +78,7 @@ Imagine your variable is the center of an onion. You have to peel it from the ou
 
 ## The Pre-Game Routine: Simplifying the Mess
 
-Sometimes an equation is an absolute mess of parentheses and scattered variables. Before we can even *think* about applying our Properties of Equality to move numbers across the equal sign, we need to clean house. 
+Sometimes an equation is an absolute mess of [parentheses](https://en.wikipedia.org/wiki/Bracket) and scattered variables. Before we can even *think* about applying our Properties of Equality to move numbers across the equal sign, we need to clean house. 
 
 ### 1. Busting Out of Parentheses
 **The [Distributive Property](https://en.wikipedia.org/wiki/Distributive_property) must often be applied to eliminate parentheses before attempting to isolate a variable in a linear equation.** 
@@ -79,7 +89,7 @@ What exactly is this property?
 If you see $2(x + 4)$, the 2 is waiting outside the door to multiply with *everything* inside. You distribute it: $(2 \cdot x) + (2 \cdot 4)$, which simplifies to $2x + 8$. Now the parentheses are gone!
 
 ### 2. Combining Like Terms
-Once parentheses are cleared, you might see a long string of [terms](https://en.wikipedia.org/wiki/Term_%28mathematics%29). We need to group the family members together. **Like terms are algebraic terms that contain the exact same variables raised to the exact same [exponent powers](https://en.wikipedia.org/wiki/Exponentiation).** For example, $3x$ and $5x$ are like terms. $3x$ and $7y$ are not. $4x$ and $4x^2$ are not. 
+Once parentheses are cleared, you might see a long string of [terms](https://en.wikipedia.org/wiki/Term_%28mathematics%29). We need to group the family members together. **[Like terms](https://en.wikipedia.org/wiki/Like_terms) are algebraic terms that contain the exact same variables raised to the exact same [exponent powers](https://en.wikipedia.org/wiki/Exponentiation).** For example, $3x$ and $5x$ are like terms. $3x$ and $7y$ are not. $4x$ and $4x^2$ are not. 
 
 Crucially, **like terms must be combined on each independent side of a linear equation before applying properties of equality across the equal sign.** If the left side of your equation is $3x + 2 + 4x$, combine the $x$'s *first* to make $7x + 2$. Clean your own room before you worry about the neighbor's!
 
@@ -117,14 +127,14 @@ Sometimes, you start doing algebra, the variables completely cancel each other o
 
 No! **The mathematical statement 5 = 5 is an example of a true statement indicating an equation has [infinitely many](https://en.wikipedia.org/wiki/Infinity) possible solutions.** 
 
-We call this an **identity equation**, which is **a mathematical equation that is true for all possible [real numerical values](https://en.wikipedia.org/wiki/Real_number) of the variable.** You could plug in 1, 100, or negative a billion, and both sides would perfectly match. **Solving an identity linear equation algebraically results in a true numerical statement containing no remaining variables.**
+We call this an **[identity equation](https://en.wikipedia.org/wiki/Identity_%28mathematics%29)**, which is **a mathematical equation that is true for all possible [real numerical values](https://en.wikipedia.org/wiki/Real_number) of the variable.** You could plug in 1, 100, or negative a billion, and both sides would perfectly match. **Solving an identity linear equation algebraically results in a true numerical statement containing no remaining variables.**
 
 ### Destiny 3: No Solution
 What if the variables cancel out, but you are left with nonsense? 
 
 **The mathematical statement 3 = 7 is an example of a completely false statement indicating an equation has absolutely no solution.** 
 
-There is no world, no universe, and no number you can plug into that equation to make it work. **A linear equation with no solution results in a mathematically false statement after all variables are algebraically eliminated.** If you hit a paradox like this, you simply write "No Solution" and proudly walk away.
+There is no world, no universe, and no number you can plug into that equation to make it work. **A linear equation with no solution results in a mathematically false statement after all variables are algebraically eliminated.** If you hit a [paradox](https://en.wikipedia.org/wiki/Paradox) like this, you simply write "No Solution" and proudly walk away.
 
 ---
 
@@ -132,7 +142,7 @@ There is no world, no universe, and no number you can plug into that equation to
 
 Here is my absolute favorite thing about algebra: *You never have to guess if you are right on an exam.* The math provides its own built-in lie detector test! 
 
-**Checking an algebraic solution requires substituting the calculated numerical value back into the original equation in place of the corresponding variable.**
+**Checking an algebraic solution requires [substituting](https://en.wikipedia.org/wiki/Substitution_%28algebra%29) the calculated numerical value back into the original equation in place of the corresponding variable.**
 
 Let’s say you solved an equation and got $x = 3$. Don't just circle it and hope for the best. Take that $3$ and plug it back into the original, untouched equation wherever you see an $x$. 
 

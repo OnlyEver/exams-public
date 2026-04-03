@@ -24,34 +24,51 @@ Always ask yourself: *What is the specific question being asked?* Let the final 
 ### Step 2: The Rosetta Stone of Math
 Once you've filtered out the noise, you need to translate the remaining English words into math. Certain words are historical triggers. They are flashing [neon signs](https://en.wikipedia.org/wiki/Neon_sign) telling you exactly which operation to use. 
 
+![Just as the historical Rosetta Stone allowed scholars to decode ancient texts, specific English vocabulary words act as translation keys to decode real-world scenarios into pure mathematics.](https://wikipedia.org/wiki/Special:Redirect/file/Rosetta_Stone_BW.jpeg)
+
 Here is your translation guide:
 
 #### The Language of Addition (+)
 When parts are coming together to form a greater whole, you are [adding](https://en.wikipedia.org/wiki/Addition). 
+
+![Visual representation of addition: bringing discrete parts together to form a greater total sum.](https://wikipedia.org/wiki/Special:Redirect/file/Addition01.svg)
+
 *   **Sum**: The word **sum** in a mathematical word problem indicates an [addition](https://en.wikipedia.org/wiki/Addition) operation. (e.g., "The [sum](https://en.wikipedia.org/wiki/Summation) of 4 and 5" is \$4 + 5$).
 *   **More than**: The phrase **more than** in a mathematical word problem indicates an addition operation. (e.g., "6 more than 10" is \$10 + 6$).
 *   **Altogether**: The word **altogether** in a mathematical word problem indicates an addition operation. (e.g., "How many [apples](https://en.wikipedia.org/wiki/Apple) altogether?")
 
 #### The Language of Subtraction (–)
 When we are finding the gap between two numbers, or when something is being taken away, we [subtract](https://en.wikipedia.org/wiki/Subtraction).
+
+![Visual representation of subtraction: identifying the remaining difference after a specific quantity is removed.](https://wikipedia.org/wiki/Special:Redirect/file/Subtraction01.svg)
+
 *   **Difference**: The word **difference** in a mathematical word problem indicates a [subtraction](https://en.wikipedia.org/wiki/Subtraction) operation. (e.g., "The difference between 10 and 4" is \$10 - 4$).
 *   **Less than**: The phrase **less than** in a mathematical word problem indicates a subtraction operation. (e.g., "5 [less than](https://en.wikipedia.org/wiki/Inequality_%28mathematics%29) 12" is \$12 - 5$).
 *   **Remaining**: The word **remaining** in a mathematical word problem indicates a subtraction operation. (e.g., "How many [pencils](https://en.wikipedia.org/wiki/Pencil) are remaining?")
 
 #### The Language of Multiplication (×)
 [Multiplication](https://en.wikipedia.org/wiki/Multiplication) is really just hyper-fast, scaled addition. 
+
+![Multiplication as scaled addition: calculating the total product by combining multiple equal-sized groups.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_4_bags_3_marbles.svg)
+
 *   **Product**: The word **product** in a mathematical word problem indicates a multiplication operation. (e.g., "The [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of 3 and 4" is \$3 \times 4$).
 *   **Times**: The word **times** in a mathematical word problem indicates a multiplication operation. (e.g., "5 times the amount").
 *   **Of (The Secret Agent)**: This is a crucial one! **The word *of* immediately following a [fraction](https://en.wikipedia.org/wiki/Fraction) or [percentage](https://en.wikipedia.org/wiki/Percentage) indicates a multiplication operation.** If you want "half *of* 10," you write $\frac{1}{2} \times 10$. If you want "20% *of* 50," you write \$0.20 \times 50$. 
 
 #### The Language of Division (÷)
 [Division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) is the act of carving the universe into portions.
+
+![Visual representation of division: carving a total quantity into equal, discrete portions to find the quotient.](https://wikipedia.org/wiki/Special:Redirect/file/Divide12by3.svg)
+
 *   **Quotient**: The word **quotient** in a mathematical word problem indicates a division operation. (e.g., "The [quotient](https://en.wikipedia.org/wiki/Quotient) of 20 and 4" is \$20 \div 4$).
 *   **Split equally**: The phrase **split equally** in a mathematical word problem indicates a division operation. (e.g., "The prize was split equally among 4 people").
 *   **Per**: The word **per** in a mathematical word problem often indicates a division operation. If a [car](https://en.wikipedia.org/wiki/Car) goes "60 [miles](https://en.wikipedia.org/wiki/Mile) *per* [hour](https://en.wikipedia.org/wiki/Hour)," you are dividing miles by hours ($\frac{60}{1}$). 
 
 #### The Language of Equality (=)
 Every sentence needs a [verb](https://en.wikipedia.org/wiki/Verb). In mathematical sentences (equations), the verb is almost always the [equals sign](https://en.wikipedia.org/wiki/Equals_sign). 
+
+![The first recorded use of the equals sign by Robert Recorde in 1557, which serves as the essential linking verb in mathematical translation.](https://wikipedia.org/wiki/Special:Redirect/file/First_Equation_Ever.png)
+
 *   **Is**: **The word *is* in a mathematical word problem translates to an equals sign.** (e.g., "Half of 10 *is* 5" translates directly to $\frac{1}{2} \times 10 = 5$).
 
 ---
@@ -64,6 +81,8 @@ Does anyone need to know a [length](https://en.wikipedia.org/wiki/Length) down t
 
 ### Knowing Your Place (Values)
 Before we round, we have to know exactly where to point our [laser](https://en.wikipedia.org/wiki/Laser). The Praxis exam will frequently ask you to round to a specific [decimal place](https://en.wikipedia.org/wiki/Decimal_representation). 
+
+![A breakdown of positional notation, identifying the decimal separator and the specific place values mapping to its right.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
 
 Imagine the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) is a wall. As we walk to the right of that wall, we are breaking a whole unit into smaller and smaller fractions:
 *   **Tenths**: **The tenths place is the first numerical position to the right of the decimal point.** (e.g., in \$3.141$, the **1** is in the tenths place).

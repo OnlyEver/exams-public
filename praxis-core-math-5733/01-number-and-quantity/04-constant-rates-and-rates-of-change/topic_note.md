@@ -34,6 +34,8 @@ So, 50 [miles](https://en.wikipedia.org/wiki/Mile) *per* [hour](https://en.wikip
 
 Let's look closer at driving, because it's something we intuitively feel in our bones. On the [dashboard](https://en.wikipedia.org/wiki/Dashboard) of your car, your [speedometer](https://en.wikipedia.org/wiki/Speedometer) reads in a very specific [unit rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29). **The abbreviation 'mph' stands for [miles per hour](https://en.wikipedia.org/wiki/Miles_per_hour).** 
 
+![A car's speedometer calculates and displays an instantaneous unit rate, showing exactly how many miles or kilometers the vehicle will travel for every single hour of driving.](https://wikipedia.org/wiki/Special:Redirect/file/_Ford_Mondeo_MK3_ST220_-_Speedometer.jpg)
+
 When you travel at a constant [rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29)—meaning you lock in your [cruise control](https://en.wikipedia.org/wiki/Cruise_control) and don't speed up or slow down—[distance](https://en.wikipedia.org/wiki/Distance), rate, and [time](https://en.wikipedia.org/wiki/Time) lock together in a perfect, unbreakable dance. If you know any two of them, you can instantly find the third. 
 
 Let's lay out the rules of this dance:
@@ -69,12 +71,18 @@ Up to this point, we've been using our minds and our [calculators](https://en.wi
 
 We use a [coordinate plane](https://en.wikipedia.org/wiki/Coordinate_system) (a [graph](https://en.wikipedia.org/wiki/Graph_of_a_function) with an [x-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) and a [y-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)). Let's graph our road trip, putting [Time](https://en.wikipedia.org/wiki/Time) on the horizontal x-axis, and [Distance](https://en.wikipedia.org/wiki/Distance) on the vertical y-axis. 
 
+![A standard coordinate plane is used to visually map the relationship between two changing quantities, mapping the independent variable to the horizontal x-axis and the dependent variable to the vertical y-axis.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
+
 Because we are using [cruise control](https://en.wikipedia.org/wiki/Cruise_control), our [speed](https://en.wikipedia.org/wiki/Speed) isn't jumping around. It is constant. But what does a **constant rate of change** actually mean? **A constant [rate of change](https://en.wikipedia.org/wiki/Rate_%28mathematics%29) means a [dependent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables) changes by an identical amount for every one-unit increase in the [independent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).** 
 For every exactly 1 [hour](https://en.wikipedia.org/wiki/Hour) you move to the right on your [graph](https://en.wikipedia.org/wiki/Graph_of_a_function), you go exactly 50 [miles](https://en.wikipedia.org/wiki/Mile) up on your graph. 1 hour, 50 miles. Another hour, another 50 miles. 
 
 When you connect these dots, what happens? **The [slope](https://en.wikipedia.org/wiki/Slope) of a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) on a [coordinate plane](https://en.wikipedia.org/wiki/Coordinate_system) represents a constant [rate of change](https://en.wikipedia.org/wiki/Rate_%28mathematics%29).** Because you haven't gone anywhere at hour zero, **a graph illustrating a constant rate of change from a starting value of zero forms a straight line passing through the [origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29).** 
 
+![When a constant rate of change starts from an initial value of zero, it forms a straight proportional line that passes directly through the origin (0,0).](https://wikipedia.org/wiki/Special:Redirect/file/Linear_Function_Graph.svg)
+
 Think about how incredibly powerful that is. The steepness of that line—the [slope](https://en.wikipedia.org/wiki/Slope)—*is* your [speed](https://en.wikipedia.org/wiki/Speed). A steeper line means you are moving faster. A shallower line means you are moving slower.
+
+![The slope of a line visually represents a constant rate of change by comparing the vertical change (Δy) to the horizontal change (Δx).](https://wikipedia.org/wiki/Special:Redirect/file/Wiki_slope_in_2d.svg)
 
 And here is my favorite trick. If you have a [graph](https://en.wikipedia.org/wiki/Graph_of_a_function) in front of you and you want to instantly know the [unit rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29) without doing any heavy calculation, just look at the number 1 on the horizontal axis. Look straight up from the 1 until you hit the line, and then look over to the vertical y-axis to read the number. 
 

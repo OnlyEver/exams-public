@@ -14,7 +14,11 @@ What is an [integer](https://en.wikipedia.org/wiki/Integer)? Simply put, **integ
 
 Right in the dead center of this line sits **[zero](https://en.wikipedia.org/wiki/0)**. Zero is a fascinating character. **Zero is an integer that is neither positive nor negative.** It’s the absolute balance point, the fulcrum of the mathematical seesaw. 
 
+![Positive and negative integers arranged as discrete, equally spaced points on an infinitely long number line, radiating outward from zero.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
+
 When we talk about an integer, we often want to know its sheer "size" or [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29), regardless of whether it's positive or negative. We call this its **[absolute value](https://en.wikipedia.org/wiki/Absolute_value)**. Think of it spatially: **the absolute value of an integer represents the [distance](https://en.wikipedia.org/wiki/Distance) of that specific integer from zero on a number line.** Because distance is inherently physical, absolute value is always positive (or zero). The absolute value of $-5$ is $5$. The absolute value of $5$ is also $5$. They both sit exactly five steps away from zero.
+
+![The absolute value of an integer represents its spatial distance from zero on the number line, which is why it is always expressed as a positive quantity.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
 
 ### Adding and Subtracting Integers
 
@@ -30,9 +34,11 @@ But what happens when the signs clash? What if you have a deposit and a debt?
 
 Why? Because they are battling it out! The deposit cancels out some of the debt, or vice versa. The winner of this battle dictates the [sign](https://en.wikipedia.org/wiki/Sign_%28mathematics%29) of the answer. **When adding integers with different signs, the final sum takes the sign of the integer with the larger absolute value.** If your debt ($|-10| = 10$) is bigger than your deposit ($|4| = 4$), you're still in debt ($-6$). 
 
+![When adding positive and negative integers, the number with the larger absolute value dictates the mathematical sign of the resulting sum.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionRules.svg)
+
 Now, look at a perfect tie. **The sum of any integer and the [mathematical opposite](https://en.wikipedia.org/wiki/Additive_inverse) of that exact integer is always equal to zero.** (e.g., $7 + (-7) = 0$). The forces perfectly annihilate one another.
 
-What about [subtraction](https://en.wikipedia.org/wiki/Subtraction)? Here is a brilliant trick: subtraction is just addition wearing a fake mustache. **Subtracting an integer is mathematically equivalent to adding the opposite of that integer.** If I forgive your \$50 debt (subtracting \$-50$), it’s mathematically the exact same thing as handing you \$50 (adding $+50$). 
+What about [subtraction](https://en.wikipedia.org/wiki/Subtraction)? Here is a brilliant trick: subtraction is just addition wearing a fake mustache. **Subtracting an integer is mathematically equivalent to adding the opposite of that integer.** If I forgive your \$50 debt (subtracting $-50$), it’s mathematically the exact same thing as handing you \$50 (adding $+50$). 
 *   $10 - (-3)$ is fundamentally the same as $10 + 3 = 13$.
 
 ### Multiplying and Dividing Integers
@@ -54,6 +60,8 @@ Zero behaves like a mathematical [black hole](https://en.wikipedia.org/wiki/Blac
 
 > 🛑 **[Feynman's](https://en.wikipedia.org/wiki/Richard_Feynman) Warning:** Why is [division by zero](https://en.wikipedia.org/wiki/Division_by_zero) undefined? Imagine dividing 10 apples into groups of zero. How many groups do you have? You could make an [infinite](https://en.wikipedia.org/wiki/Infinity) number of zero-apple groups and never use up your 10 apples! The universe’s logic simply breaks down. Never divide by zero.
 
+![Because dividing by zero produces an undefined mathematical state, calculators will halt operations and return an error rather than attempting to calculate an impossible quotient.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
+
 ---
 
 ## Part 2: Fractions — Slicing Up the Universe
@@ -67,6 +75,8 @@ Every fraction has two critical components:
 
 If you have $\frac{3}{8}$ of a pizza, the denominator ($8$) tells you the pizza was sliced into eight equal pieces. The numerator ($3$) tells you that you get to eat three of them. 
 
+![A visual representation of fractions: the denominator indicates the total number of equal slices the whole is divided into, while the numerator indicates how many of those slices are present.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
+
 And remember our black hole? **A fraction possessing a zero in the denominator position is mathematically undefined.** You cannot have a pizza sliced into zero total pieces!
 
 ### Adding and Subtracting Fractions (Finding Common Ground)
@@ -78,6 +88,8 @@ Therefore:
 *   **Subtracting mathematical fractions requires all involved fractions to possess a common denominator.**
 
 You have to slice the pieces so they are the same size before you can combine them. How? By finding the [least common multiple](https://en.wikipedia.org/wiki/Least_common_multiple). **The least common multiple of two denominators serves as the [lowest common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) for fraction addition.** For $3$ and $4$, the lowest common denominator is $12$.
+
+![To combine fractions of different sizes, such as halves and quarters, they must first be converted into a common denominator so the quantities can be accurately added.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_fractions.svg)
 
 Once your slices are the same size, the rule is brilliantly simple:
 *   **To add fractions sharing a common denominator, calculate the [sum](https://en.wikipedia.org/wiki/Addition) of the numerators and keep the original denominator exactly the same.** 
@@ -136,6 +148,8 @@ Let's look at the geography to the right of the [decimal point](https://en.wikip
 *   **The first [place value](https://en.wikipedia.org/wiki/Positional_notation) directly to the right of a decimal point is called the tenths place.** ($\frac{1}{10}$)
 *   **The second place value directly to the right of a decimal point is called the hundredths place.** ($\frac{1}{100}$)
 *   **The third place value directly to the right of a decimal point is called the thousandths place.** ($\frac{1}{1000}$)
+
+![The anatomy of a decimal number, demonstrating how each place value to the right of the decimal point represents an explicitly decreasing power of ten.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
 
 ### Adding and Subtracting Decimals
 

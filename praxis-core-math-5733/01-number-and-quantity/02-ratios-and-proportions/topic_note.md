@@ -35,6 +35,8 @@ One of the most powerful things about ratios is their versatility.
 
 When a ratio compares two quantities with entirely different units of measurement, it earns a special title: it is specifically classified as a **[rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29)**. Think of your car's [speedometer](https://en.wikipedia.org/wiki/Speedometer)—[miles per hour](https://en.wikipedia.org/wiki/Miles_per_hour) is a rate! 
 
+![A car's speedometer displays a practical unit rate, measuring the distance traveled relative to a single hour of time.](https://wikipedia.org/wiki/Special:Redirect/file/_Ford_Mondeo_MK3_ST220_-_Speedometer.jpg)
+
 Furthermore, if we boil that rate down so that the second quantity in the comparison is exactly one, we call it a **[unit rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29)**. For example, converting "150 miles / 3 hours" down to "50 miles / 1 hour" gives us a unit rate of 50 miles per hour. Unit rates are the ultimate tool for comparing different [prices](https://en.wikipedia.org/wiki/Price) at the [grocery store](https://en.wikipedia.org/wiki/Grocery_store).
 
 ---
@@ -65,14 +67,20 @@ In our concrete example, $1 + 2 + 3 = 6$. So, there are 6 total parts in this [m
 
 Imagine taking a photograph on your phone and zooming in. The image gets larger, but the picture doesn't distort. The width and the height grow in lockstep. This is the essence of **[equivalent ratios](https://en.wikipedia.org/wiki/Ratio)**: distinct ratio expressions that represent the exact same relationship between quantities. 
 
+![A standard 4:3 aspect ratio ensures that the relationship between width and height remains constant and proportional, regardless of the overall image size.](https://wikipedia.org/wiki/Special:Redirect/file/Aspect-ratio-4x3.svg)
+
 How do we create them? We scale them!
 * **[Multiplying](https://en.wikipedia.org/wiki/Multiplication)** every [term](https://en.wikipedia.org/wiki/Term_%28mathematics%29) of a ratio by the same non-zero number creates an equivalent ratio. (e.g., 1:2 becomes 3:6 if we multiply both sides by 3).
 * **[Dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29)** every term of a ratio by the same non-zero number creates an equivalent ratio. (e.g., 10:20 becomes 1:2 if we divide both sides by 10).
 
 The number we use to perform this magic has a name. A **[scale factor](https://en.wikipedia.org/wiki/Scale_factor)** is the single multiplier used to scale all quantities in a given ratio up or down proportionally. 
 
+![Multiplying a base value by a specific scale factor increases its size while maintaining its fundamental proportional relationship.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_scaling.svg)
+
 ### Stripping it Down to the Studs
 In mathematics, we like things clean and tidy. Just like fractions, ratios are simplified to their lowest terms by dividing all quantities within the ratio by their **[greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor)** (GCF). 
+
+![The greatest common factor of two numbers can be geometrically visualized as the largest square tile that perfectly divides a rectangle of those dimensions.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
 
 Take the ratio 18:24. The largest number that perfectly divides both 18 and 24 is 6. 
 * $18 \div 6 = 3$
@@ -109,6 +117,8 @@ Look at the wording closely. A *ratio* acts as an independent mathematical expre
 
 A proportion is typically written in the fractional format:
 ### $$\frac{a}{b} = \frac{c}{d}$$
+
+![A proportion acts as a mathematical balance scale, requiring both independent ratio expressions to carry the exact same mathematical weight.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
 
 It is a declaration of perfect mathematical balance. It tells us that the relationship scaling *a* to *b* is the exact same mechanism scaling *c* to *d*.
 

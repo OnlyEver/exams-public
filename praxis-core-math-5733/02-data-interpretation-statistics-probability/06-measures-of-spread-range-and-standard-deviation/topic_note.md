@@ -6,7 +6,7 @@ But let’s look closer. In Class A, every single student scored exactly a 75%. 
 
 This is exactly why we can't just rely on averages. To tell the full story of a set of numbers, we need a way to describe the differences *between* the numbers. This brings us to a beautiful concept in [statistics](https://en.wikipedia.org/wiki/Statistics): **[measures of spread](https://en.wikipedia.org/wiki/Statistical_dispersion)**. Simply put, measures of spread describe how varied the values are within a single [data set](https://en.wikipedia.org/wiki/Data_set). They tell us about the width, the scatter, and the unpredictability of our numbers. 
 
-For the [Praxis Core Math exam](https://en.wikipedia.org/wiki/Praxis_test), you need to master two major measures of spread: the **range** and the **[standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)**. Let’s roll up our sleeves and figure out how they work.
+For the [Praxis Core Math exam](https://en.wikipedia.org/wiki/Praxis_test), you need to master two major measures of spread: the **[range](https://en.wikipedia.org/wiki/Range_%28statistics%29)** and the **[standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)**. Let’s roll up our sleeves and figure out how they work.
 
 ---
 
@@ -16,6 +16,8 @@ If you want to understand the spread of a data set in exactly five seconds, you 
 
 > **Definition:** The **range** of a data set is the difference between the [maximum value](https://en.wikipedia.org/wiki/Sample_maximum_and_minimum) and the [minimum value](https://en.wikipedia.org/wiki/Sample_maximum_and_minimum).
 
+![A box plot visually represents the range of a data set by charting the total distance between the absolute minimum and maximum values.](https://wikipedia.org/wiki/Special:Redirect/file/Box-Plot_mit_Min-Max_Abstand.png)
+
 When a student calculates the range, they do it by simply subtracting the minimum value from the maximum value in a data set. 
 
 Imagine you are charting the daily high [temperatures](https://en.wikipedia.org/wiki/Temperature) over a week in two different cities:
@@ -23,7 +25,7 @@ Imagine you are charting the daily high [temperatures](https://en.wikipedia.org/
 *   **[Denver, CO](https://en.wikipedia.org/wiki/Denver):** 45, 50, 65, 75, 80, 85, 90
 
 In San Diego, the max is 77 and the min is 72. 
-$77 - 72 = 5$. The range is 5 degrees. 
+$77 - 72 = 5$. The range is 5 [degrees](https://en.wikipedia.org/wiki/Degree_%28temperature%29). 
 
 In Denver, the max is 90 and the min is 45. 
 $90 - 45 = 45$. The range is 45 degrees.
@@ -34,11 +36,11 @@ Notice something important here about how we talk about these numbers: **the ran
 
 The range is incredibly easy to calculate, but it comes with a massive [mathematical](https://en.wikipedia.org/wiki/Mathematics) blind spot. Because the calculation of the range relies *exclusively* on the two extreme values of a data set, it ignores absolutely everything happening in the middle. 
 
-Because of this, **the range is highly sensitive to outliers.** 
+Because of this, **the range is highly sensitive to [outliers](https://en.wikipedia.org/wiki/Outlier).** 
 
-Imagine if we looked at the salaries of ten people in a coffee shop. Nine of them make between \$30,000 and \$40,000 a year. The range of their salaries is \$10,000. But then, a [billionaire](https://en.wikipedia.org/wiki/Billionaire) walks in to buy an [espresso](https://en.wikipedia.org/wiki/Espresso). Suddenly, the "maximum" value in our data set jumps to \$1,000,000,000. Our range is now \$999,970,000! Does that accurately describe the spread of the people in the room? Not at all. One extreme outlier ruined the whole calculation. 
+Imagine if we looked at the [salaries](https://en.wikipedia.org/wiki/Salary) of ten people in a coffee shop. Nine of them make between \$30,000 and \$40,000 a year. The range of their salaries is \$10,000. But then, a [billionaire](https://en.wikipedia.org/wiki/Billionaire) walks in to buy an [espresso](https://en.wikipedia.org/wiki/Espresso). Suddenly, the "maximum" value in our data set jumps to \$1,000,000,000. Our range is now \$999,970,000! Does that accurately describe the spread of the people in the room? Not at all. One extreme outlier ruined the whole calculation. 
 
-To get a more robust picture of our data, we need a tool that pays attention to *every single number* in the set, not just the two at the very edges. 
+To get a more [robust](https://en.wikipedia.org/wiki/Robust_statistics) picture of our data, we need a tool that pays attention to *every single number* in the set, not just the two at the very edges. 
 
 ---
 
@@ -47,6 +49,8 @@ To get a more robust picture of our data, we need a tool that pays attention to 
 If the range is a quick glance at the data, the standard deviation is a deep [MRI scan](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging). 
 
 > **Definition:** **Standard deviation** measures the typical [distance](https://en.wikipedia.org/wiki/Distance) of individual data points from the mean (average) of the data set.
+
+![Standard deviation measures the spread of data around the mean. In a typical normal distribution, the majority of data points fall within one standard deviation from the center.](https://wikipedia.org/wiki/Special:Redirect/file/Standard_deviation_diagram.svg)
 
 Think about that phrase: *typical distance from the mean*. Instead of just looking at the top and bottom numbers, standard deviation asks, "On average, how far away is every single data point from the center?" 
 
@@ -61,7 +65,7 @@ When you look at standard deviation on the Praxis exam, you aren't just calculat
 *   **A low standard deviation** indicates that the data points tend to be clustered closely around the mean. The numbers are tight, consistent, and predictable. 
 *   **A high standard deviation** indicates that the data points are spread out over a wide range of values. The numbers are scattered, unpredictable, and varied.
 
-Let's think about boundaries. Standard deviation measures *distance*, and distance cannot be negative. Therefore, **standard deviation can never be a negative number.** You can't be "-5 feet" away from the center of a room! 
+Let's think about boundaries. Standard deviation measures *distance*, and distance cannot be negative. Therefore, **standard deviation can never be a [negative number](https://en.wikipedia.org/wiki/Negative_number).** You can't be "-5 feet" away from the center of a room! 
 
 The absolute lowest standard deviation you can ever possibly have is [zero](https://en.wikipedia.org/wiki/0). But what does that actually *look* like? **A standard deviation of exactly zero means that every single value in the data set is identical.** If I survey five people and they are all exactly 25 years old, the mean is 25, and nobody deviates from that mean by even a single second. The standard deviation is 0.
 
@@ -84,7 +88,9 @@ You don't need a calculator to compare them. You just need to look at the shape 
 | **Larger Standard Deviation** | Exhibits **greater overall [variability](https://en.wikipedia.org/wiki/Statistical_dispersion)**. | A wide, flat hill. The data is smeared across a wide spectrum of possibilities. |
 | **Smaller Standard Deviation** | Exhibits **greater overall consistency**. | A tall, narrow spike. The data is bunched up tightly together in one place. |
 
-If you are hiring an employee for a factory assembly line where precision is life-or-death, you don't just want an employee with a fast average time; you want an employee with a **small standard deviation**. You want them to perform with *greater overall consistency* every single time. 
+![Two data sets can share the exact same average but have completely different spreads. The red distribution has a small standard deviation (a tall, narrow spike), while the blue distribution has a large standard deviation (a wide, flat hill).](https://wikipedia.org/wiki/Special:Redirect/file/Comparison_standard_deviations.svg)
+
+If you are hiring an employee for a factory [assembly line](https://en.wikipedia.org/wiki/Assembly_line) where precision is life-or-death, you don't just want an employee with a fast average time; you want an employee with a **small standard deviation**. You want them to perform with *greater overall consistency* every single time. 
 
 ---
 
@@ -102,8 +108,8 @@ What happens to the shape of the data? *Nothing.* The entire cluster of scores j
 *   The old minimum (40) becomes 50. 
 *   The old maximum (60) becomes 70. 
 
-What is the new range? \$70 - 50 = 20$. 
-What was the old range? \$60 - 40 = 20$. 
+What is the new range? $70 - 50 = 20$. 
+What was the old range? $60 - 40 = 20$. 
 
 The distance between the students didn't change! Therefore:
 > **Adding a constant value to every number in a data set does not change the range of the data set.**
@@ -114,18 +120,20 @@ If you shift data by adding or subtracting, the center moves, but the *spread* s
 
 ### Scenario B: Multiplying by a Constant (The "Scale")
 
-Now imagine a different teacher. Instead of giving 10 flat bonus points, they decide to boost everyone's score by giving them a 10% increase. Mathematically, the teacher multiplies every student's score by \$1.1$. 
+Now imagine a different teacher. Instead of giving 10 flat bonus points, they decide to boost everyone's score by giving them a 10% increase. Mathematically, the teacher multiplies every student's score by $1.1$. 
 
 Let's look at what happens. 
-*   The student who scored a 40 now has a \$44$. 
-*   The student who scored a 60 now has a \$66$. 
+*   The student who scored a 40 now has a $44$. 
+*   The student who scored a 60 now has a $66$. 
 
-What was the old range? \$60 - 40 = 20$. 
-What is the new range? \$66 - 44 = 22$. 
+What was the old range? $60 - 40 = 20$. 
+What is the new range? $66 - 44 = 22$. 
 
-The spread *grew*! Why? Because multiplication acts like a magnifying glass. The bigger numbers got a bigger boost than the smaller numbers, stretching the data out like a [rubber band](https://en.wikipedia.org/wiki/Rubber_band). 
+The spread *grew*! Why? Because multiplication acts like a [magnifying glass](https://en.wikipedia.org/wiki/Magnifying_glass). The bigger numbers got a bigger boost than the smaller numbers, stretching the data out like a [rubber band](https://en.wikipedia.org/wiki/Rubber_band). 
 
 If you take the old range (20) and multiply it by our constant (1.1), you get the new range (22). It's a perfect mathematical relationship! 
+
+![Multiplying data by a constant scales the values, stretching the distance between them on the number line and proportionally increasing both the range and standard deviation.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_scaling.svg)
 
 > **Multiplying every number in a data set by a positive constant multiplies the range by that exact same constant.** 
 > 
@@ -145,4 +153,4 @@ To wrap this up, when you sit down at the computer to take your Praxis Core Math
 4.  **Zero means clones.** A standard deviation of exactly zero means every data point is identical. It can never be negative!
 5.  **Shift vs. Scale.** Adding to data moves the center but leaves the spread alone. Multiplying the data stretches the spread by that exact same multiplier.
 
-Math isn't just about crunching numbers; it's about describing the real world. The range and standard deviation are your vocabulary words for describing consistency, volatility, and the beautifully varied nature of the data around us. Keep these concepts straight, and you'll nail the statistics section of your exam!
+Math isn't just about crunching numbers; it's about describing the real world. The range and standard deviation are your vocabulary words for describing consistency, [volatility](https://en.wikipedia.org/wiki/Volatility_%28finance%29), and the beautifully varied nature of the data around us. Keep these concepts straight, and you'll nail the statistics section of your exam!

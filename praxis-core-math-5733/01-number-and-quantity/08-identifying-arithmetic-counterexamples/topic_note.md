@@ -4,6 +4,8 @@ Welcome! Pull up a chair. Today, we're going to talk about one of the most excit
 
 In everyday life, we make broad [generalizations](https://en.wikipedia.org/wiki/Generalization). "Birds fly." "Wood floats." "Ice is cold." We accept these statements because they are *mostly* true. If someone points to a [penguin](https://en.wikipedia.org/wiki/Penguin) and says, "That bird doesn't fly," we just shrug and say it's an exception to the rule. 
 
+![Although penguins share the general bone structure of flighted birds, their wings have evolved into stout fins for swimming, making them a classic real-world exception to the generalization that "all birds fly."](https://wikipedia.org/wiki/Special:Redirect/file/Penguin_Wing.svg)
+
 But mathematics is not everyday life. Mathematics is a universe of absolute precision. In math, there are no "exceptions to the rule." If a rule has an exception, **the rule is dead.** 
 
 This brings us to our weapon of choice for the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test): the [counterexample](https://en.wikipedia.org/wiki/Counterexample).
@@ -23,6 +25,8 @@ To win against them, you don't need to write a ten-page [proof](https://en.wikip
 
 By finding that one exception, a counterexample proves that a proposed mathematical rule does not apply universally. It’s like finding a single crack in a massive [dam](https://en.wikipedia.org/wiki/Dam); the whole structure comes tumbling down.
 
+![A single counterexample acts like a structural flaw in a massive dam; once exposed, the entire mathematical rule collapses.](https://wikipedia.org/wiki/Special:Redirect/file/(IDAHO-L-0010)_Teton_Dam_Flood_-_Newdale.jpg)
+
 ### The Trap of "Almost Always"
 
 Imagine a student is testing the claim: *"All [prime numbers](https://en.wikipedia.org/wiki/Prime_number) are [odd numbers](https://en.wikipedia.org/wiki/Parity_%28mathematics%29)."* 
@@ -33,6 +37,8 @@ They test 7, 11, 13, 17, and 19. All odd!
 They might be tempted to stop there and say the statement is true. But here is the trap: **The existence of multiple examples supporting a mathematical statement does not prove the absence of a counterexample.** You can have a billion examples that work perfectly, but they don't mean a thing if the billion-and-first example fails. 
 
 In this case, **the [number two](https://en.wikipedia.org/wiki/2) serves as a counterexample to the false mathematical statement claiming all prime numbers are odd numbers.** The number 2 is prime, but it is entirely [even](https://en.wikipedia.org/wiki/Parity_%28mathematics%29). Boom. The claim is shattered.
+
+![The Sieve of Eratosthenes demonstrates why 2 is the only even prime number: after identifying 2 as prime, every subsequent even number is crossed out as a composite multiple of 2.](https://wikipedia.org/wiki/Special:Redirect/file/Sieve_of_Eratosthenes_animation.gif)
 
 ---
 
@@ -74,6 +80,8 @@ Zero breaks almost everything it touches. It collapses multiplication, it makes 
 * **The False Claim:** *"Division by any real number yields a real number."*
 * **The Counterexample:** Take the number 10 and try to [divide it by 0](https://en.wikipedia.org/wiki/Division_by_zero). $10 \div 0$ is mathematically [undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29). It does not yield a real number. Therefore, **the number zero serves as a counterexample to the false statement claiming division by any real number yields a real number.**
 
+![Calculators are programmed to halt and display an error when asked to divide by zero, reflecting the fact that the operation is mathematically undefined and cannot yield a real number.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
+
 ### 2. The Shrink-Rays: Proper Fractions
 When we are kids, we are taught that multiplication makes things bigger and division makes things smaller. That [intuition](https://en.wikipedia.org/wiki/Intuition) is completely wrong once you introduce proper fractions (fractions strictly between 0 and 1, like $1/2$ or $0.5$).
 * **The False Claim:** *"[Squaring](https://en.wikipedia.org/wiki/Square_%28algebra%29) a number always produces a larger number."*
@@ -85,6 +93,9 @@ When we are kids, we are taught that multiplication makes things bigger and divi
 Negative integers (-1, -2, -3...) are fantastic for breaking claims involving addition, [roots](https://en.wikipedia.org/wiki/nth_root), and [exponents](https://en.wikipedia.org/wiki/Exponentiation). They act like a mirror universe where our standard intuitions are reversed.
 * **The False Claim:** *"The sum of two numbers is always greater than either individual number."*
 * **The Counterexample:** Add $-5$ and $-3$. The sum is $-8$. Is $-8$ greater than $-5$? No, it's further down the [number line](https://en.wikipedia.org/wiki/Number_line). **Negative integers serve as counterexamples to the false claim that the sum of two numbers is always greater than either individual number.**
+
+![On a number line, moving further to the left into the negative integers results in smaller values, contradicting the intuition that adding numbers always yields a larger result.](https://wikipedia.org/wiki/Special:Redirect/file/Number_line_with_numbers_-3_to_3.svg)
+
 * **The False Claim:** *"The [cube](https://en.wikipedia.org/wiki/Cube_%28algebra%29) of any non-zero integer is a positive integer."*
 * **The Counterexample:** Let's test a negative integer. Let's cube $-2$. $(-2) \times (-2) \times (-2) = -8$. **Negative integers serve as counterexamples to the false statement claiming the cube of any non-zero integer is a positive integer.**
 

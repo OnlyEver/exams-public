@@ -1,6 +1,8 @@
 Welcome! Pull up a chair. Today, we’re going to explore a tremendously powerful piece of mathematical machinery: **[Exponents](https://en.wikipedia.org/wiki/Exponentiation) and [Roots](https://en.wikipedia.org/wiki/nth_root)**. 
 
-If you want to understand how the universe scales up—how bacteria multiply, how [compound interest](https://en.wikipedia.org/wiki/Compound_interest) balloons, or how gravity behaves over astronomical distances—you need exponents. And if you want to reverse that process, scaling things back down to their fundamental origins, you need roots. 
+If you want to understand how the universe scales up—how [bacteria multiply](https://en.wikipedia.org/wiki/Bacterial_growth), how [compound interest](https://en.wikipedia.org/wiki/Compound_interest) balloons, or how [gravity](https://en.wikipedia.org/wiki/Gravity) behaves over [astronomical distances](https://en.wikipedia.org/wiki/Distance_%28astronomy%29)—you need exponents. And if you want to reverse that process, scaling things back down to their fundamental origins, you need roots. 
+
+![Exponential growth curves illustrate how applying exponents scales values upwards rapidly, accurately modeling real-world phenomena like compounding interest and bacterial multiplication.](https://wikipedia.org/wiki/Special:Redirect/file/Exponential.svg)
 
 For the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test), you don’t just need to memorize a list of disconnected rules. You need to understand *how the machinery works*. When you understand the "why," the "how" becomes trivial. Let’s dive in.
 
@@ -40,9 +42,9 @@ Any number divided by itself is $1$. So, $\frac{125}{125} = 1$.
 But if we apply the **Quotient Rule**, we subtract the exponents: $3 - 3 = 0$. So, the result is $5^0$.
 Because both approaches must be mathematically true, $5^0$ *must* equal $1$. 
 
-> **The Zero Rule:** Any non-zero number raised to the power of zero is exactly equal to [one](https://en.wikipedia.org/wiki/1). 
+> **The Zero Rule:** Any [non-zero number](https://en.wikipedia.org/wiki/Non-zero) raised to the power of zero is exactly equal to [one](https://en.wikipedia.org/wiki/1). 
 
-Ah, but did you notice the caveat? *Non-zero number.* What happens if we ask the universe to evaluate [$0^0$](https://en.wikipedia.org/wiki/Zero_to_the_power_of_zero)? The rules of exponents demand it should be $1$, but the rules of zero demand it should be $0$. The math breaks down in a spectacular contradiction! Therefore:
+Ah, but did you notice the caveat? *Non-zero number.* What happens if we ask the universe to evaluate [$0^0$](https://en.wikipedia.org/wiki/Zero_to_the_power_of_zero)? The rules of exponents demand it should be $1$, but the rules of zero demand it should be $0$. The math breaks down in a spectacular [contradiction](https://en.wikipedia.org/wiki/Contradiction)! Therefore:
 
 > **Warning:** The number 0 raised to the power of 0 is a mathematically [undefined expression](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29). Do not let the exam trick you on this!
 
@@ -83,23 +85,27 @@ For the Praxis Core, you must recognize these foundational building blocks insta
 *   The number **[1](https://en.wikipedia.org/wiki/1)** is a perfect square because 1 multiplied by 1 equals 1.
 *   The number **[4](https://en.wikipedia.org/wiki/4)** is a perfect square because 2 multiplied by 2 equals 4.
 *   The number **[9](https://en.wikipedia.org/wiki/9)** is a perfect square because 3 multiplied by 3 equals 9.
-*   The number **16** is a perfect square because 4 multiplied by 4 equals 16.
-*   The number **25** is a perfect square because 5 multiplied by 5 equals 25.
+*   The number **[16](https://en.wikipedia.org/wiki/16)** is a perfect square because 4 multiplied by 4 equals 16.
+*   The number **[25](https://en.wikipedia.org/wiki/25)** is a perfect square because 5 multiplied by 5 equals 25.
+
+![Perfect squares, such as 16, get their name because they can be visualized geometrically as a perfectly proportioned square grid.](https://wikipedia.org/wiki/Special:Redirect/file/Square_number_16_as_sum_of_gnomons.svg)
 
 ### The Wild World of Irrational Numbers
 
 But the universe isn't always perfectly clean, is it? What happens if you try to take the [square root of 2](https://en.wikipedia.org/wiki/Square_root_of_2)? No integer works. $1 \times 1$ is too small, and $2 \times 2$ is too big. Even fractions fail us. 
 
-This introduces us to the **irrational numbers**. 
+![Despite having a chaotic, non-terminating decimal value in arithmetic, the irrational square root of 2 exists perfectly in reality as the hypotenuse of a right triangle with legs of length 1.](https://wikipedia.org/wiki/Special:Redirect/file/Square_root_of_2_triangle.svg)
+
+This introduces us to the **[irrational numbers](https://en.wikipedia.org/wiki/Irrational_number)**. 
 > **Definition:** An irrational number is a real number that cannot be written as a simple fraction of two integers. 
 
-If you try to write them as [decimals](https://en.wikipedia.org/wiki/Decimal), something wild happens. **The [decimal representation](https://en.wikipedia.org/wiki/Decimal_representation) of an irrational number never terminates and never forms a [repeating pattern](https://en.wikipedia.org/wiki/Repeating_decimal).** It goes on forever, chaotic and [infinite](https://en.wikipedia.org/wiki/Infinity), down to the very limits of calculation.
+If you try to write them as [decimals](https://en.wikipedia.org/wiki/Decimal), something wild happens. **The [decimal representation](https://en.wikipedia.org/wiki/Decimal_representation) of an irrational number never [terminates](https://en.wikipedia.org/wiki/Terminating_decimal) and never forms a [repeating pattern](https://en.wikipedia.org/wiki/Repeating_decimal).** It goes on forever, chaotic and [infinite](https://en.wikipedia.org/wiki/Infinity), down to the very limits of calculation.
 
 ### The Art of Estimation
 
 Because irrational roots are infinite, we can't write down their exact value in decimal form on the exam. Instead, we [approximate](https://en.wikipedia.org/wiki/Approximation).
 
-How do we estimate the square root of a messy number, like $\sqrt{20}$? We use our clean perfect squares as guideposts! **Estimating the square root of a non-perfect square involves identifying the two [consecutive](https://en.wikipedia.org/wiki/Sequence) perfect squares that the target number falls between.** 
+How do we [estimate](https://en.wikipedia.org/wiki/Estimation) the square root of a messy number, like $\sqrt{20}$? We use our clean perfect squares as guideposts! **Estimating the square root of a non-perfect square involves identifying the two [consecutive](https://en.wikipedia.org/wiki/Sequence) perfect squares that the target number falls between.** 
 
 Think about it like this: **The square root of a given non-perfect square always lies strictly between the square roots of the closest perfect squares below and above the given number.**
 
@@ -112,10 +118,13 @@ Let's estimate $\sqrt{20}$:
 
 For the Praxis Core, there are a handful of famous irrational numbers that show up so frequently you shouldn't waste time estimating them from scratch. You should memorize their standard [approximations](https://en.wikipedia.org/wiki/Approximation). 
 
-Let's start with the undisputed king of irrational numbers: **Pi ($\pi$)**.
-*   **What is it?** The mathematical constant pi is an irrational number representing the [ratio](https://en.wikipedia.org/wiki/Ratio) of a [circle's](https://en.wikipedia.org/wiki/Circle) [circumference](https://en.wikipedia.org/wiki/Circumference) to its [diameter](https://en.wikipedia.org/wiki/Diameter). Take any circle in the universe, wrap a string around its outside (circumference), and lay that string across the circle's width (diameter). It will always stretch exactly $\pi$ times across. 
-*   **The Decimal:** The mathematical constant pi is approximately equal to **3.14**.
-*   **The Fraction:** The mathematical constant pi is frequently approximated in calculations using the fraction **22/7**. (Note: 22/7 is $3.1428...$ while $\pi$ is $3.1415...$ so the fraction is a fantastic, but not perfect, shortcut!).
+Let's start with the undisputed king of irrational numbers: **[Pi ($\pi$)](https://en.wikipedia.org/wiki/Pi)**.
+*   **What is it?** The [mathematical constant](https://en.wikipedia.org/wiki/Mathematical_constant) pi is an irrational number representing the [ratio](https://en.wikipedia.org/wiki/Ratio) of a [circle's](https://en.wikipedia.org/wiki/Circle) [circumference](https://en.wikipedia.org/wiki/Circumference) to its [diameter](https://en.wikipedia.org/wiki/Diameter). Take any circle in the universe, wrap a string around its outside (circumference), and lay that string across the circle's width (diameter). It will always stretch exactly $\pi$ times across. 
+
+![An animation demonstrating the geometric definition of pi: unrolling the circumference of a circle with a diameter of 1 yields a length of exactly π.](https://wikipedia.org/wiki/Special:Redirect/file/Pi-unrolled-720.gif)
+
+*   **The Decimal:** The mathematical constant pi is approximately equal to **[3.14](https://en.wikipedia.org/wiki/Pi)**.
+*   **The Fraction:** The mathematical constant pi is frequently [approximated](https://en.wikipedia.org/wiki/Approximations_of_pi) in calculations using the fraction **[22/7](https://en.wikipedia.org/wiki/Approximations_of_pi)**. (Note: 22/7 is $3.1428...$ while $\pi$ is $3.1415...$ so the fraction is a fantastic, but not perfect, shortcut!).
 
 Now, let's look at the most famous irrational square roots. Commit these to memory:
 
@@ -123,7 +132,7 @@ Now, let's look at the most famous irrational square roots. Commit these to memo
 | :--- | :--- | :--- | :--- |
 | **[$\sqrt{2}$](https://en.wikipedia.org/wiki/Square_root_of_2)** | The [square root of 2](https://en.wikipedia.org/wiki/Square_root_of_2) is an irrational number. | The square root of 2 is approximately equal to **[1.414](https://en.wikipedia.org/wiki/Square_root_of_2)**. | It must live between $\sqrt{1}$ (1) and $\sqrt{4}$ (2). It is closer to 1. |
 | **[$\sqrt{3}$](https://en.wikipedia.org/wiki/Square_root_of_3)** | The [square root of 3](https://en.wikipedia.org/wiki/Square_root_of_3) is an irrational number. | The square root of 3 is approximately equal to **[1.732](https://en.wikipedia.org/wiki/Square_root_of_3)**. | It lives between $\sqrt{1}$ and $\sqrt{4}$, but is closer to 4. |
-| **$\sqrt{5}$** | The square root of 5 is an irrational number. | The square root of 5 is approximately equal to **2.236**. | It lives between $\sqrt{4}$ (2) and $\sqrt{9}$ (3). It is very close to 4! |
+| **[$\sqrt{5}$](https://en.wikipedia.org/wiki/Square_root_of_5)** | The [square root of 5](https://en.wikipedia.org/wiki/Square_root_of_5) is an irrational number. | The square root of 5 is approximately equal to **[2.236](https://en.wikipedia.org/wiki/Square_root_of_5)**. | It lives between $\sqrt{4}$ (2) and $\sqrt{9}$ (3). It is very close to 4! |
 | **[$\sqrt{10}$](https://en.wikipedia.org/wiki/Square_root)** | The [square root of 10](https://en.wikipedia.org/wiki/Square_root) is an irrational number. | The square root of 10 is approximately equal to **3.162**. | It lives just past $\sqrt{9}$ (which is exactly 3). |
 
 ---

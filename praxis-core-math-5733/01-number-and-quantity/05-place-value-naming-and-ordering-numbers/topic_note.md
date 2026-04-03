@@ -14,6 +14,8 @@ Let’s dive in.
 
 Our numbering system is an elegant piece of technology known as the [base-10 system](https://en.wikipedia.org/wiki/Decimal). Why ten? Probably because humans have ten fingers. But the true power of this system is that the exact same symbol—say, a "7"—can represent seven apples, seventy apples, or seven-thousandths of an apple, depending entirely on where you park it.
 
+![The ten digits on human hands are widely considered the physical, anatomical origin of our base-10 numerical system.](https://wikipedia.org/wiki/Special:Redirect/file/Two_hand%2C_ten_fingers.jpg)
+
 ### The Whole Number Hierarchy
 Let’s start with solid, whole [integers](https://en.wikipedia.org/wiki/Integer). 
 
@@ -28,6 +30,8 @@ But *why* does it inflate? Because of a strict, governing law of our mathematica
 > **The base-10 number system dictates that each place value is ten times the value of the place immediately to the right.**
 
 Every step left is a [multiplication](https://en.wikipedia.org/wiki/Multiplication) by ten. A $1$ in the tens place is worth ten times more than a $1$ in the ones place. 
+
+![Visualizing the base-10 system: Each step to the left represents a ten-fold increase in mathematical magnitude, rapidly scaling from a single unit up to one million.](https://wikipedia.org/wiki/Special:Redirect/file/Visualisation_1_million.svg)
 
 ### The Missing Hero: Zero
 Imagine I want to write the number "five hundred and two." I put a $5$ in the hundreds place, and a $2$ in the ones place. But if I just push them together, I get $52$. The $5$ has lost its power; it slipped into the tens place!
@@ -112,6 +116,8 @@ To the right of zero lies the territory of assets and growth. **[Positive number
 
 To the left of zero lies the mirror universe of deficits, debts, and freezing temperatures. **[Negative numbers](https://en.wikipedia.org/wiki/Negative_number) are always located to the left of zero on a horizontal number line.**
 
+![A standard horizontal number line illustrating that positive integers strictly extend to the right of zero (blue), while negative integers strictly extend to the left (red).](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
+
 Because of the supreme law of the number line (values *must* increase left to right), we arrive at an inescapable truth:
 > **Any positive number is strictly greater than any negative number.**
 
@@ -164,6 +170,8 @@ Clearly, $7$ slices out of $12$ ($7/12$) is greater than $5$ slices out of $12$ 
 This is where intelligent students make their most common mistakes. The negative side of the number line plays tricks on the human brain. 
 
 To understand negatives, we have to talk about **[absolute value](https://en.wikipedia.org/wiki/Absolute_value)**. Absolute value is simply a number's physical distance from zero, stripping away the negative sign. The absolute value of $-99$ is $99$. 
+
+![Absolute value visually represents a number's physical distance from zero on the number line, completely independent of its positive or negative direction.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
 
 If someone says you have a "larger absolute value" in the negative realm, it means you have a *larger debt*. Is having a larger debt a good thing? No! It makes you poorer. 
 
