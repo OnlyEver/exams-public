@@ -1,0 +1,815 @@
+{
+  "exam": {
+    "name": "English Language Arts: Content Knowledge",
+    "code": "5038",
+    "provider": "ETS",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-04",
+    "generated_date": "2026-04-04",
+    "category_name": "Teacher Certification",
+    "category_slug": "teacher-certification",
+    "category_description": "Exam-aligned prep for prospective secondary English teachers with syllabus-mapped coverage across reading, language and vocabulary, and writing, speaking, and listening.",
+    "exam_slug": "praxis-5038-english-language-arts-content-knowledge",
+    "theme_color": "#2563EB",
+    "hero_headline": "Pass Praxis 5038 with ELA content knowledge you can apply on test day",
+    "hero_subheadline": "Work through every domain in focused 15-minute topics aligned to the official ETS Study Companion.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most Praxis ELA prep scatters practice without a clear map of what the exam actually weights—reading, conventions, and communication skills blur together.",
+    "companion_solution": "We translate the official ETS syllabus into a complete topic map with retention-focused notes and consistent coverage of literature, informational text, and language use.",
+    "learner_profile": "Aspiring secondary English teacher building deep content knowledge for literature, informational texts, language conventions, and communication. Responds to passage-based reasoning, grammar-in-context items, and writing- and speaking-focused scenarios."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "reading",
+      "title": "Reading",
+      "weight": 0.38,
+      "description": "Study of literature (stories, drama, poetry) and informational texts (literary nonfiction, essays, biographies, speeches).",
+      "directory": "01-reading",
+      "topics": [
+        {
+          "order": 1,
+          "id": "major-works-and-authors-of-literature",
+          "title": "Major Works and Authors of Literature",
+          "directory": "01-major-works-and-authors-of-literature",
+          "path": "01-reading/01-major-works-and-authors-of-literature",
+          "description": "Familiarity with prominent works and authors across United States, British, World, and Young Adult literature.",
+          "learning_objectives": [
+            "Identify the authors and titles of major works of fiction, poetry, drama, and literary nonfiction."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "historical-cultural-and-literary-contexts",
+          "title": "Historical, Cultural, and Literary Contexts",
+          "directory": "02-historical-cultural-and-literary-contexts",
+          "path": "01-reading/02-historical-cultural-and-literary-contexts",
+          "description": "Understanding the context of major literary works to enhance reading comprehension and analysis.",
+          "learning_objectives": [
+            "Identify the historical, cultural, or literary context of major works of fiction, poetry, drama, and literary nonfiction."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "characteristics-of-primary-literary-genres",
+          "title": "Characteristics of Primary Literary Genres",
+          "directory": "03-characteristics-of-primary-literary-genres",
+          "path": "01-reading/03-characteristics-of-primary-literary-genres",
+          "description": "Identifying typical features of genres and applying correct terminology.",
+          "learning_objectives": [
+            "Identify typical characteristics of a genre.",
+            "Apply correct terminology for a genre (e.g., stanza versus paragraph)."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "characteristics-of-major-literary-forms",
+          "title": "Characteristics of Major Literary Forms",
+          "directory": "04-characteristics-of-major-literary-forms",
+          "path": "01-reading/04-characteristics-of-major-literary-forms",
+          "description": "Distinguishing major forms within genres through structural and content differences.",
+          "learning_objectives": [
+            "Identify characteristics of major forms within each genre through distinctions in structure and content (e.g., sonnets versus ballads, satire versus realism)."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "textual-evidence-and-interpretations-of-literary-texts",
+          "title": "Textual Evidence and Interpretations of Literary Texts",
+          "directory": "05-textual-evidence-and-interpretations-of-literary-texts",
+          "path": "01-reading/05-textual-evidence-and-interpretations-of-literary-texts",
+          "description": "Using text effectively to deduce meaning, both literal and figurative, and support literary analysis.",
+          "learning_objectives": [
+            "Comprehend the literal and figurative meanings of a text.",
+            "Draw inferences from a text.",
+            "Determine the textual evidence that supports an analysis of a literary text."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "developing-themes-in-literature",
+          "title": "Developing Themes in Literature",
+          "directory": "06-developing-themes-in-literature",
+          "path": "01-reading/06-developing-themes-in-literature",
+          "description": "Analyzing how central ideas and themes are developed, including universal themes and allusions.",
+          "learning_objectives": [
+            "Identify the theme(s) or central idea(s) of a given text.",
+            "Analyze how a theme or central idea is developed throughout one or more works.",
+            "Recognize universal themes from myths, traditional stories, or religious works and how they are rendered or alluded to."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "literary-elements-and-textual-meaning",
+          "title": "Literary Elements and Textual Meaning",
+          "directory": "07-literary-elements-and-textual-meaning",
+          "path": "01-reading/07-literary-elements-and-textual-meaning",
+          "description": "Understanding how plot, point of view, tone, characterization, and setting shape the narrative.",
+          "learning_objectives": [
+            "Analyze the impact of differences in the points of view of characters and/or narrators.",
+            "Analyze the structure of a plot.",
+            "Analyze how different elements contribute to mood, tone, and conflict.",
+            "Analyze how particular lines of dialogue or story events impact meaning.",
+            "Analyze the text for character development."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "figurative-language-and-its-effect",
+          "title": "Figurative Language and its Effect",
+          "directory": "08-figurative-language-and-its-effect",
+          "path": "01-reading/08-figurative-language-and-its-effect",
+          "description": "Identifying and interpreting metaphor, hyperbole, imagery, and other rhetorical figures in literature.",
+          "learning_objectives": [
+            "Identify examples of various types of figurative language (e.g., extended metaphor, imagery, hyperbole).",
+            "Interpret figurative language in context and analyze its role in the text."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "poetic-devices-and-structure",
+          "title": "Poetic Devices and Structure",
+          "directory": "09-poetic-devices-and-structure",
+          "path": "01-reading/09-poetic-devices-and-structure",
+          "description": "Analyzing how elements like rhythm, rhyme scheme, and stanza format contribute to a poem's overall effect.",
+          "learning_objectives": [
+            "Analyze how poetic devices (e.g., rhyme scheme, rhythm, figurative language) contribute to meaning in a poem.",
+            "Analyze how structure (e.g., stanza, free verse, concrete poem) contributes to meaning in a poem."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "reading-strategies-for-comprehension",
+          "title": "Reading Strategies for Comprehension",
+          "directory": "10-reading-strategies-for-comprehension",
+          "path": "01-reading/10-reading-strategies-for-comprehension",
+          "description": "Using and evaluating predictions, summaries, and text connections to support active reading.",
+          "learning_objectives": [
+            "Identify literacy skills to support active reading (e.g., text-to-self connection, prediction, summarizing).",
+            "Evaluate a summary of a passage.",
+            "Evaluate the strength of a prediction based on textual evidence."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "research-based-strategies-for-reading-instruction",
+          "title": "Research-Based Strategies for Reading Instruction",
+          "directory": "11-research-based-strategies-for-reading-instruction",
+          "path": "01-reading/11-research-based-strategies-for-reading-instruction",
+          "description": "Applying educational research to classroom practices for teaching reading.",
+          "learning_objectives": [
+            "Recognize commonly used research-based strategies for teaching reading (e.g., activating prior knowledge, modeling metacognitive practices).",
+            "Evaluate the effectiveness of specific strategies to support a particular reading task.",
+            "Interpret research and apply it to particular reading instruction challenges."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "literary-theories-for-ela-educators",
+          "title": "Literary Theories for ELA Educators",
+          "directory": "12-literary-theories-for-ela-educators",
+          "path": "01-reading/12-literary-theories-for-ela-educators",
+          "description": "Familiarity with major critical theories used to interpret and critique literature.",
+          "learning_objectives": [
+            "Recognize ways literary theories (e.g., reader-response, feminist criticism) are used to interpret and critique texts."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "textual-evidence-and-interpretations-of-informational-texts",
+          "title": "Textual Evidence and Interpretations of Informational Texts",
+          "directory": "13-textual-evidence-and-interpretations-of-informational-texts",
+          "path": "01-reading/13-textual-evidence-and-interpretations-of-informational-texts",
+          "description": "Evaluating non-fiction texts by drawing inferences and citing textual evidence.",
+          "learning_objectives": [
+            "Comprehend literal and figurative meanings of an informational text.",
+            "Draw inferences from an informational text.",
+            "Determine the textual evidence that supports an analysis of an informational text."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "organizational-patterns-and-text-structures",
+          "title": "Organizational Patterns and Text Structures",
+          "directory": "14-organizational-patterns-and-text-structures",
+          "path": "01-reading/14-organizational-patterns-and-text-structures",
+          "description": "Understanding how organizational frameworks build the central idea in informational reading.",
+          "learning_objectives": [
+            "Identify the central idea of an informational text.",
+            "Analyze how an author develops or refines a central idea.",
+            "Identify the organizational pattern (e.g., problem-solution, cause-effect, sequence).",
+            "Analyze how ideas are connected and distinguished.",
+            "Identify how text features (e.g., index, glossary, headings) contribute to the central idea."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "word-choice-connotation-and-denotation",
+          "title": "Word Choice, Connotation, and Denotation",
+          "directory": "15-word-choice-connotation-and-denotation",
+          "path": "01-reading/15-word-choice-connotation-and-denotation",
+          "description": "Analyzing vocabulary choices, technical language, and implicit vs explicit text meanings.",
+          "learning_objectives": [
+            "Distinguish between connotation and denotation.",
+            "Identify how technical language is used.",
+            "Distinguish between what the text says explicitly and what may be inferred."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 16,
+          "id": "rhetorical-strategies-purpose-and-perspective",
+          "title": "Rhetorical Strategies, Purpose, and Perspective",
+          "directory": "16-rhetorical-strategies-purpose-and-perspective",
+          "path": "01-reading/16-rhetorical-strategies-purpose-and-perspective",
+          "description": "Evaluating how authors use rhetoric such as satire, irony, and hyperbole to convey their point of view.",
+          "learning_objectives": [
+            "Determine an author's point of view or purpose.",
+            "Analyze how an author uses rhetoric to support point of view and/or purpose.",
+            "Recognize rhetorical strategies (e.g., satire, irony, understatement, hyperbole)."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 17,
+          "id": "methods-of-appeal-and-persuasion",
+          "title": "Methods of Appeal and Persuasion",
+          "directory": "17-methods-of-appeal-and-persuasion",
+          "path": "01-reading/17-methods-of-appeal-and-persuasion",
+          "description": "Identifying and evaluating the effectiveness of persuasive techniques targeted at specific audiences.",
+          "learning_objectives": [
+            "Identify methods of appeal or persuasion (e.g., expert opinion, generalization, testimonial).",
+            "Evaluate the effectiveness of an author's methods of appeal.",
+            "Understand how technical or non-technical language is used to appeal to a targeted audience."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 18,
+          "id": "developing-and-supporting-a-written-argument",
+          "title": "Developing and Supporting a Written Argument",
+          "directory": "18-developing-and-supporting-a-written-argument",
+          "path": "01-reading/18-developing-and-supporting-a-written-argument",
+          "description": "Critiquing arguments, examining evidence validity, and identifying logical fallacies.",
+          "learning_objectives": [
+            "Evaluate the argument and specific claims in a text.",
+            "Determine an author's purpose and evaluate reasoning.",
+            "Evaluate whether evidence is relevant, factual, and/or sufficient.",
+            "Identify false statements and fallacious reasoning (e.g., slippery slope, red herring, strawman)."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 19,
+          "id": "interpreting-media-and-non-print-texts",
+          "title": "Interpreting Media and Non-Print Texts",
+          "directory": "19-interpreting-media-and-non-print-texts",
+          "path": "01-reading/19-interpreting-media-and-non-print-texts",
+          "description": "Evaluating information across diverse media formats and recognizing inherent persuasive techniques.",
+          "learning_objectives": [
+            "Evaluate multiple sources of information presented in different media or formats.",
+            "Determine persuasive techniques used in different media."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "language-use-and-vocabulary",
+      "title": "Language Use and Vocabulary",
+      "weight": 0.25,
+      "description": "Understanding conventions of standard English, vocabulary development, dialect variations, and language acquisition strategies.",
+      "directory": "02-language-use-and-vocabulary",
+      "topics": [
+        {
+          "order": 1,
+          "id": "standard-english-grammar-and-mechanics",
+          "title": "Standard English Grammar and Mechanics",
+          "directory": "01-standard-english-grammar-and-mechanics",
+          "path": "02-language-use-and-vocabulary/01-standard-english-grammar-and-mechanics",
+          "description": "Identifying parts of speech and mechanics while correcting grammatical errors.",
+          "learning_objectives": [
+            "Explain the function of different parts of speech.",
+            "Identify errors in standard English grammar, usage, syntax, and mechanics.",
+            "Justify grammar, usage, syntax, and mechanics choices (e.g., colon versus semicolon)."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "usage-and-syntax-in-standard-english",
+          "title": "Usage and Syntax in Standard English",
+          "directory": "02-usage-and-syntax-in-standard-english",
+          "path": "02-language-use-and-vocabulary/02-usage-and-syntax-in-standard-english",
+          "description": "Recognizing sentence structures and components for accurate English usage.",
+          "learning_objectives": [
+            "Identify different components of sentences (e.g., clauses, phrases).",
+            "Identify different structures of sentences (e.g., simple, complex, compound)."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "affixes-context-and-syntax-for-word-meaning",
+          "title": "Affixes, Context, and Syntax for Word Meaning",
+          "directory": "03-affixes-context-and-syntax-for-word-meaning",
+          "path": "02-language-use-and-vocabulary/03-affixes-context-and-syntax-for-word-meaning",
+          "description": "Strategies to determine the meaning of unknown words utilizing structural analysis and context clues.",
+          "learning_objectives": [
+            "Apply knowledge of affixes to determine word meaning.",
+            "Use context clues to determine word meaning.",
+            "Apply knowledge of syntax to determine word meaning."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "nuances-of-word-meaning-and-figures-of-speech",
+          "title": "Nuances of Word Meaning and Figures of Speech",
+          "directory": "04-nuances-of-word-meaning-and-figures-of-speech",
+          "path": "02-language-use-and-vocabulary/04-nuances-of-word-meaning-and-figures-of-speech",
+          "description": "Interpreting word subtleties and examining figurative expressions within standard English contexts.",
+          "learning_objectives": [
+            "Analyze nuances of word meaning.",
+            "Analyze figures of speech in linguistic contexts."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "print-and-digital-reference-materials",
+          "title": "Print and Digital Reference Materials",
+          "directory": "05-print-and-digital-reference-materials",
+          "path": "02-language-use-and-vocabulary/05-print-and-digital-reference-materials",
+          "description": "Selecting appropriate tools like dictionaries, glossaries, and style manuals to enhance language usage.",
+          "learning_objectives": [
+            "Determine the most appropriate print or digital reference material (spell checker, style manual, dictionary, glossary) for a particular language usage task."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "variations-in-dialect-and-diction",
+          "title": "Variations in Dialect and Diction",
+          "directory": "06-variations-in-dialect-and-diction",
+          "path": "02-language-use-and-vocabulary/06-variations-in-dialect-and-diction",
+          "description": "Understanding linguistic diversity across regions, times, and cultures, and recognizing appropriate contexts.",
+          "learning_objectives": [
+            "Identify variation in dialect and diction across regions, cultural groups, and time periods.",
+            "Understand the concept of dialect and its appropriateness depending on purpose and audience."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "research-based-approaches-for-language-acquisition",
+          "title": "Research-Based Approaches for Language Acquisition",
+          "directory": "07-research-based-approaches-for-language-acquisition",
+          "path": "02-language-use-and-vocabulary/07-research-based-approaches-for-language-acquisition",
+          "description": "Familiarity with tested strategies to assist diverse learners in acquiring standard English language skills.",
+          "learning_objectives": [
+            "Recognize examples of commonly used research-based strategies for language acquisition.",
+            "Evaluate the effectiveness of specific strategies to support language acquisition."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "supporting-vocabulary-development-for-diverse-learners",
+          "title": "Supporting Vocabulary Development for Diverse Learners",
+          "directory": "08-supporting-vocabulary-development-for-diverse-learners",
+          "path": "02-language-use-and-vocabulary/08-supporting-vocabulary-development-for-diverse-learners",
+          "description": "Instructional methods addressing particular challenges in building student vocabulary.",
+          "learning_objectives": [
+            "Evaluate the effectiveness of specific strategies to support vocabulary development.",
+            "Interpret research and apply it to particular instructional challenges related to language acquisition and vocabulary development."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "writing-speaking-and-listening",
+      "title": "Writing, Speaking, and Listening",
+      "weight": 0.37,
+      "description": "Mastery of writing modes, research practices, effective presentations, digital media, assessment methods, and inclusive ELA practices.",
+      "directory": "03-writing-speaking-and-listening",
+      "topics": [
+        {
+          "order": 1,
+          "id": "characteristics-of-various-writing-modes",
+          "title": "Characteristics of Various Writing Modes",
+          "directory": "01-characteristics-of-various-writing-modes",
+          "path": "03-writing-speaking-and-listening/01-characteristics-of-various-writing-modes",
+          "description": "Identifying the distinctions between argumentative, informative, and narrative writing formats.",
+          "learning_objectives": [
+            "Distinguish between common modes of writing (e.g., argumentative, informative/explanatory, narrative).",
+            "Identify examples of common types within modes of writing (e.g., journal, letter, essay, speech).",
+            "Determine which mode is the most appropriate for an author's purpose and audience."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "task-purpose-and-audience-in-writing",
+          "title": "Task, Purpose, and Audience in Writing",
+          "directory": "02-task-purpose-and-audience-in-writing",
+          "path": "03-writing-speaking-and-listening/02-task-purpose-and-audience-in-writing",
+          "description": "Understanding how situational awareness shapes effective writing choices.",
+          "learning_objectives": [
+            "Identify how the task, purpose, or intended audience affects a piece of writing.",
+            "Choose the most appropriate type of writing for a task, purpose, and audience.",
+            "Evaluate the effectiveness of a piece of writing for a specific task, purpose, and audience."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "characteristics-of-clear-and-coherent-writing",
+          "title": "Characteristics of Clear and Coherent Writing",
+          "directory": "03-characteristics-of-clear-and-coherent-writing",
+          "path": "03-writing-speaking-and-listening/03-characteristics-of-clear-and-coherent-writing",
+          "description": "Organizing, transitioning, and applying stylistic choices to produce structurally sound text.",
+          "learning_objectives": [
+            "Identify details that develop a main idea.",
+            "Organize a text clearly and coherently with varied and effective transitions.",
+            "Justify stylistic choices within a piece of writing.",
+            "Introduce, develop, and conclude a text effectively."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "effective-and-ethical-research-practices",
+          "title": "Effective and Ethical Research Practices",
+          "directory": "04-effective-and-ethical-research-practices",
+          "path": "03-writing-speaking-and-listening/04-effective-and-ethical-research-practices",
+          "description": "Evaluating credibility of sources and implementing correct citation mechanisms.",
+          "learning_objectives": [
+            "Identify relevant information during research on a given topic.",
+            "Evaluate the credibility of a print or digital source.",
+            "Identify effective research practices (e.g., formulating a question, narrowing a topic).",
+            "Identify the components of a citation and cite source material appropriately."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "components-of-effective-speech-and-presentation-delivery",
+          "title": "Components of Effective Speech and Presentation Delivery",
+          "directory": "05-components-of-effective-speech-and-presentation-delivery",
+          "path": "03-writing-speaking-and-listening/05-components-of-effective-speech-and-presentation-delivery",
+          "description": "Techniques for eye contact, visual aids, tone, and logical presentation of information.",
+          "learning_objectives": [
+            "Identify characteristics of effective delivery of a speech or presentation.",
+            "Evaluate the advantages and disadvantages of using different media to present ideas.",
+            "Determine whether information is presented clearly, concisely, and logically."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "effective-use-of-digital-media-in-ela",
+          "title": "Effective Use of Digital Media in ELA",
+          "directory": "06-effective-use-of-digital-media-in-ela",
+          "path": "03-writing-speaking-and-listening/06-effective-use-of-digital-media-in-ela",
+          "description": "Instructional methods for adopting technological tools like blogs, wikis, and presentation software.",
+          "learning_objectives": [
+            "Identify techniques for instructing students to choose and use technological tools for effective communication.",
+            "Evaluate the effectiveness of specific technology-based strategies to achieve enhanced understanding of communication goals."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "research-based-approaches-to-teaching-writing",
+          "title": "Research-Based Approaches to Teaching Writing",
+          "directory": "07-research-based-approaches-to-teaching-writing",
+          "path": "03-writing-speaking-and-listening/07-research-based-approaches-to-teaching-writing",
+          "description": "Identifying and applying strategies such as systematic instruction and modeling in the ELA classroom.",
+          "learning_objectives": [
+            "Recognize commonly used research-based strategies (e.g., explicit, systematic writing instruction; modeling) for teaching components of writing.",
+            "Identify research-based strategies for teaching particular writing tasks.",
+            "Interpret research and apply it to particular writing instruction challenges."
+          ],
+          "references": [
+            "https://www.mometrix.com/academy/praxis-ii/english-content-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "assessing-reading-writing-speaking-and-listening",
+          "title": "Assessing Reading, Writing, Speaking, and Listening",
+          "directory": "08-assessing-reading-writing-speaking-and-listening",
+          "path": "03-writing-speaking-and-listening/08-assessing-reading-writing-speaking-and-listening",
+          "description": "Methods and effectiveness of formative and summative assessments, including rubrics and conferring.",
+          "learning_objectives": [
+            "Recognize a variety of research-based approaches to and purposes of formative and summative assessment.",
+            "Evaluate the effectiveness of approaches to assessment of reading, writing, speaking, and listening (e.g., use of rubrics, conferencing techniques)."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "components-of-effective-oral-communication",
+          "title": "Components of Effective Oral Communication",
+          "directory": "09-components-of-effective-oral-communication",
+          "path": "03-writing-speaking-and-listening/09-components-of-effective-oral-communication",
+          "description": "Promoting productive participation and active listening in group and individual settings.",
+          "learning_objectives": [
+            "Identify a variety of techniques (e.g., selecting age-appropriate topics, ensuring accountability) to ensure productive participation and active listening in collaborative discussions.",
+            "Evaluate the effectiveness of specific strategies for students initiating and participating effectively in discussions."
+          ],
+          "references": [
+            "https://study.com/academy/course/praxis-ii-english-language-arts-content-knowledge-5038-study-guide-test-prep.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "diverse-perspectives-and-inclusive-instruction",
+          "title": "Diverse Perspectives and Inclusive Instruction",
+          "directory": "10-diverse-perspectives-and-inclusive-instruction",
+          "path": "03-writing-speaking-and-listening/10-diverse-perspectives-and-inclusive-instruction",
+          "description": "Utilizing knowledge of students' backgrounds, identities, and cultures to create responsive curriculum.",
+          "learning_objectives": [
+            "Use knowledge of students' individual and group identities to plan instruction responsive to their needs.",
+            "Know strategies for creating a safe environment for reading, writing, speaking, and listening to take place."
+          ],
+          "references": [
+            "https://www.ets.org/praxis/prepare/materials/5038"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}
