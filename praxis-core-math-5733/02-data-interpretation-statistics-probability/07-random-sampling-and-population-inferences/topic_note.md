@@ -1,121 +1,83 @@
-Let me ask you a question. Suppose you are cooking a colossal, fifty-gallon vat of [minestrone soup](https://en.wikipedia.org/wiki/Minestrone) for a school banquet. You’ve tossed in the [tomatoes](https://en.wikipedia.org/wiki/Tomato), the [beans](https://en.wikipedia.org/wiki/Bean), the [pasta](https://en.wikipedia.org/wiki/Pasta), and the [spices](https://en.wikipedia.org/wiki/Spice). How do you know if the soup tastes right? 
+Imagine a chef tasting a massive cauldron of soup. To determine if the broth requires more salt, the chef does not need to consume the entire pot. Provided the soup is thoroughly stirred, a single spoonful reveals the exact flavor profile of the thousands of spoonfuls that remain. This elegantly simple physical act captures the profound mathematical essence of [statistical sampling](https://en.wikipedia.org/wiki/Sampling_%28statistics%29). We can uncover the truth about a massive, unwieldy whole by carefully examining a very small, well-chosen part. 
 
-Do you have to drink the entire fifty gallons to find out? 
+## The Architecture of Inquiry: Populations and Samples
 
-Of course not! That would be absurd. What you do is grab a [wooden spoon](https://en.wikipedia.org/wiki/Wooden_spoon), give the vat a tremendous, swirling stir, and take a single sip. From that one tiny spoonful, you instantly know if the *entire fifty gallons* needs more [salt](https://en.wikipedia.org/wiki/Salt). 
+To understand how [statisticians](https://en.wikipedia.org/wiki/Statistician) measure the world, we must first agree on the boundaries of what we are measuring. Every statistical study begins with a **[population](https://en.wikipedia.org/wiki/Statistical_population)**. A population is the entire group of individuals or objects of interest in a statistical study. If you are studying the voting habits of teachers in the United States, all 3.8 million teachers constitute your population. 
 
-This, my friends, is the profound, almost magical premise of [statistics](https://en.wikipedia.org/wiki/Statistics). We don't need to measure everything. We just need to measure a well-chosen *piece* of everything. 
+However, interviewing millions of people is logistically impossible. Therefore, we extract a **[sample](https://en.wikipedia.org/wiki/Sample_%28statistics%29)**. A sample is a smaller subset of individuals selected from a larger population.
 
-If you understand the "soup principle," you are already halfway to mastering **[Random Sampling](https://en.wikipedia.org/wiki/Sampling_%28statistics%29) and [Population Inferences](https://en.wikipedia.org/wiki/Statistical_inference)** for your [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test). Let’s dive into the fascinating machinery of how we use small numbers to reveal grand truths about the world.
+![A Venn diagram illustrating a sample (S) as a smaller mathematical subset extracted from a larger total population (R).](https://wikipedia.org/wiki/Special:Redirect/file/SubsetMine.png)
 
-## The Big Picture: [Populations](https://en.wikipedia.org/wiki/Statistical_population) vs. [Samples](https://en.wikipedia.org/wiki/Sample_%28statistics%29)
+The ultimate goal of this extraction is to formulate **[statistical inferences](https://en.wikipedia.org/wiki/Statistical_inference)**, which are mathematical conclusions drawn about an entire population based on [data collected](https://en.wikipedia.org/wiki/Data_collection) from a sample. The great triumph of modern [statistics](https://en.wikipedia.org/wiki/Statistics) is that it proves we do not need to measure everything to know almost everything—provided our spoonful of soup is truly representative. 
 
-Before we do any math, we need to know what we are talking about. In [statistical studies](https://en.wikipedia.org/wiki/Statistics), everything boils down to two distinct groups:
+## The Critical Need for Randomness
 
-> **The Population:** A **[population](https://en.wikipedia.org/wiki/Statistical_population)** is the entire group of individuals or objects of interest in a statistical study. (This is the fifty-gallon vat of soup. It could be every [registered voter](https://en.wikipedia.org/wiki/Voter_registration) in the country, or every [lightbulb](https://en.wikipedia.org/wiki/Incandescent_light_bulb) produced by a factory in a year).
->
-> **The Sample:** A **[sample](https://en.wikipedia.org/wiki/Sample_%28statistics%29)** is a smaller [subset](https://en.wikipedia.org/wiki/Subset) of individuals selected from a larger population. (This is the single spoonful you taste).
+If a chef fails to stir the cauldron, a spoonful drawn from the surface might be entirely watery broth, while a spoonful from the bottom might be purely sediment. In statistical terms, this failure to mix creates a **[biased sample](https://en.wikipedia.org/wiki/Sampling_bias)**, which forms when a selection process favors certain members of a population over others. 
 
-![A sample is a carefully selected subset of a larger population. We measure the sample to make mathematical inferences about the entire group.](https://wikipedia.org/wiki/Special:Redirect/file/SubsetMine.png)
+Statistical inferences derived from a biased sample inaccurately represent the total population. They are mathematically useless, no matter how brilliantly the resulting [data is analyzed](https://en.wikipedia.org/wiki/Data_analysis). 
 
-The ultimate goal of statistics is to make **[statistical inferences](https://en.wikipedia.org/wiki/Statistical_inference)**—these are mathematical conclusions drawn about an entire population based on [data](https://en.wikipedia.org/wiki/Data) collected from a sample. 
+To prevent this, statisticians rely on **[random sampling](https://en.wikipedia.org/wiki/Simple_random_sample)**. Random sampling is a selection method where every member of the population has an [equal probability](https://en.wikipedia.org/wiki/Equiprobability) of being chosen. Because it does not favor any specific subgroup, random sampling minimizes [selection bias](https://en.wikipedia.org/wiki/Selection_bias). Consequently, it yields a **[representative sample](https://en.wikipedia.org/wiki/Sample_%28statistics%29)**—one that accurately reflects the true characteristics of the overall population.
 
-But here is the catch: you can only trust your inference if your sample is a **[representative sample](https://en.wikipedia.org/wiki/Representative_sample)**. A representative sample accurately reflects the true characteristics of the overall population. If your vat of soup is 20% beans, your spoonful better be roughly 20% beans, too! 
+## Methods of Selection: Stirring the Mathematical Pot
 
-So, how do we guarantee our spoonful is representative? 
+How exactly do we ensure our sample is random? Statisticians have developed specific architectures of selection to guarantee unbiased data. 
 
-## The Power of [Randomness](https://en.wikipedia.org/wiki/Randomness)
+### Sound, Random Methodologies
 
-Human beings are terrible at picking things fairly. If I ask you to pick a "random" student from your classroom, your brain is going to sabotage you. You'll likely pick the student making [eye contact](https://en.wikipedia.org/wiki/Eye_contact) with you, or the one wearing a bright red shirt. 
+- **[Simple Random Sample](https://en.wikipedia.org/wiki/Simple_random_sample):** The purest form of selection. A simple random sample ensures that every possible group of a specific size has an identical [probability](https://en.wikipedia.org/wiki/Probability) of selection. Imagine assigning every student in a school a number and having a computer blindly select one hundred numbers. 
 
-Whenever a selection process favors certain members of a population over others, you have created a **[biased sample](https://en.wikipedia.org/wiki/Sampling_bias)**. And let me be clear: **statistical inferences derived from a biased sample inaccurately represent the total population**. If you skim your soup spoon across the very top of the vat, you are only going to taste the oil floating there. Your conclusion—"This soup is entirely oil!"—will be mathematically precise, but entirely false. 
+![In a simple random sample, individuals are selected entirely by chance, ensuring every possible subset has an equal probability of selection.](https://wikipedia.org/wiki/Special:Redirect/file/Simple_random_sampling.PNG)
 
-To defeat bias, we must surrender our choices to the cold, beautiful indifference of [mathematics](https://en.wikipedia.org/wiki/Mathematics). We must use **[random sampling](https://en.wikipedia.org/wiki/Sampling_%28statistics%29)**.
+- **[Stratified Random Sampling](https://en.wikipedia.org/wiki/Stratified_sampling):** Sometimes a population has critical underlying divisions. Stratified random sampling divides a population into distinct [homogeneous](https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity) subgroups (such as separating a high school by grade level). Once separated, it selects random individuals proportionally from predefined homogeneous subgroups. 
 
-**Random sampling** is a selection method where every member of the population has an equal [probability](https://en.wikipedia.org/wiki/Probability) of being chosen. When we let chance do the picking, we strip away human [prejudice](https://en.wikipedia.org/wiki/Prejudice). Because of this, random sampling minimizes **[selection bias](https://en.wikipedia.org/wiki/Selection_bias)** and creates a [dataset](https://en.wikipedia.org/wiki/Data_set) we can actually trust.
+![Stratified sampling involves dividing a diverse population into homogeneous subgroups before randomly selecting individuals from within each group.](https://wikipedia.org/wiki/Special:Redirect/file/Stratified_sampling.PNG)
 
-![In simple random sampling, individuals are selected entirely by chance, removing human bias and creating a highly representative subset.](https://wikipedia.org/wiki/Special:Redirect/file/Simple_random_sampling.PNG)
+- **[Cluster Sampling](https://en.wikipedia.org/wiki/Cluster_sampling):** When a population is geographically spread out, cluster sampling divides a population into distinct separate groups (or "clusters," like individual classrooms). Then, rather than picking a few students from every room, cluster sampling randomly selects *entire* predefined groups to form a statistical sample.
 
-### The Good: Four Ways to Sample Randomly
+![Cluster sampling divides a population into groups, and then randomly selects entire groups rather than individuals.](https://wikipedia.org/wiki/Special:Redirect/file/Cluster_sampling.PNG)
 
-Statistician toolkits are filled with clever ways to randomize. You need to know these four methods:
+- **[Systematic Sampling](https://en.wikipedia.org/wiki/Systematic_sampling):** This method establishes a mechanical rhythm. Systematic sampling selects individuals at a regular numerical interval from a randomized population list—for example, standing at an entrance and surveying every $10^{\text{th}}$ person who walks through the door.
 
-| Method | How it Works | [Feynman's](https://en.wikipedia.org/wiki/Richard_Feynman) Intuitive Example |
-| :--- | :--- | :--- |
-| **[Simple Random Sample](https://en.wikipedia.org/wiki/Simple_random_sample)** | Ensures that **every possible group of a specific size has an identical probability of selection**. | Putting every student's name in a giant hat and drawing 30 blindly. Any combination of 30 names has the exact same chance of being pulled. |
-| **[Stratified Random Sampling](https://en.wikipedia.org/wiki/Stratified_sampling)** | Divides a population into distinct [homogeneous](https://en.wikipedia.org/wiki/Homogeneity_%28statistics%29) subgroups ([strata](https://en.wikipedia.org/wiki/Stratum_%28statistics%29)), then selects random individuals proportionally from those predefined subgroups. | Dividing the school into Freshmen, [Sophomores](https://en.wikipedia.org/wiki/Sophomore), [Juniors](https://en.wikipedia.org/wiki/Junior_%28education%29), and [Seniors](https://en.wikipedia.org/wiki/Senior_%28education%29), then randomly picking 10% of the students from *each* grade. |
-| **[Cluster Sampling](https://en.wikipedia.org/wiki/Cluster_sampling)** | Divides a population into distinct separate groups (clusters), then randomly selects **entire predefined groups** to form a statistical sample. | The school is already divided into 50 [homerooms](https://en.wikipedia.org/wiki/Homeroom). You randomly select 3 of those homerooms, and survey *every* student in them. |
-| **[Systematic Sampling](https://en.wikipedia.org/wiki/Systematic_sampling)** | Selects individuals at a regular numerical interval from a randomized population list. | You have an [alphabetical](https://en.wikipedia.org/wiki/Alphabetical_order) list of the whole school. You roll a [die](https://en.wikipedia.org/wiki/Dice) to pick a starting name, and then survey every 15th student on the list. |
+![Systematic sampling relies on a fixed, regular interval to select individuals from a randomized population list.](https://wikipedia.org/wiki/Special:Redirect/file/Systematic_sampling.PNG)
 
-### The Bad: Danger Zones of Non-Random Sampling
+### Flawed, Non-Random Methodologies
 
-Sometimes, researchers get lazy. They abandon randomness and fall into traps that routinely destroy their data. Watch out for these:
+Not all sampling methods yield mathematical truth. Certain intuitive methods consistently destroy the validity of data.
 
-*   **[Convenience Sampling](https://en.wikipedia.org/wiki/Convenience_sampling):** This is a non-random selection method involving individuals who are most readily accessible to a researcher. Think of the student who stands directly outside the [cafeteria](https://en.wikipedia.org/wiki/Cafeteria) doors and only surveys the first twenty people who walk by. **Convenience sampling routinely introduces severe selection bias into statistical data** because the people closest to you rarely represent the rich diversity of the whole population.
-*   **Voluntary Response Sampling:** This occurs when individuals self-select to participate in a statistical study—like an [internet poll](https://en.wikipedia.org/wiki/Opinion_poll) or a restaurant comment card. Here is human nature for you: **voluntary response sampling generally attracts individuals with strong opinions**. The people who think the food was "okay" don't write comment cards! Only the thrilled and the furious respond. Therefore, **voluntary response sampling reliably introduces selection bias into statistical datasets**.
+- **[Convenience Sampling](https://en.wikipedia.org/wiki/Convenience_sampling):** This is a [non-random selection method](https://en.wikipedia.org/wiki/Nonprobability_sampling) involving individuals who are most readily accessible to a researcher. A teacher asking only the students in their front row for feedback is using convenience sampling. Because it ignores the wider population, convenience sampling routinely introduces severe selection bias into statistical data.
+- **Voluntary Response Sampling:** This occurs when individuals [self-select](https://en.wikipedia.org/wiki/Self-selection_bias) to participate in a statistical study, such as an [online poll](https://en.wikipedia.org/wiki/Opinion_poll) or a mail-in survey. Human nature dictates that voluntary response sampling generally attracts individuals with strong opinions—people rarely take the time to fill out a survey if they are indifferent. Because the quiet majority is excluded, voluntary response sampling reliably introduces selection bias into statistical datasets.
 
-## Doing the Math: Proportions and Predictions
+## Scaling Up: The Mathematics of Inference
 
-Alright, you've used a brilliant simple random sample. You surveyed 200 [high school](https://en.wikipedia.org/wiki/High_school) students and found that 30 of them are [left-handed](https://en.wikipedia.org/wiki/Handedness). What do you do with this number?
+Once we have extracted a representative sample, we must translate our local data into global knowledge. We do this by establishing a **[sample proportion](https://en.wikipedia.org/wiki/Population_proportion)**. 
 
-First, you calculate your **[sample proportion](https://en.wikipedia.org/wiki/Population_proportion)**. A sample proportion is calculated by dividing the number of individuals in a sample with a specific trait by the total [sample size](https://en.wikipedia.org/wiki/Sample_size_determination). 
+> **Formula for Sample Proportion:**
+> A sample proportion is calculated by dividing the number of individuals in a sample with a specific trait by the total [sample size](https://en.wikipedia.org/wiki/Sample_size).
+> $$p = \frac{\text{Number of individuals with trait}}{\text{Total sample size}}$$
 
-> **Formula: Sample Proportion**
-> $\text{Sample Proportion} = \frac{\text{Number with Trait}}{\text{Total Sample Size}}$
+Crucially, a sample proportion serves as the mathematical estimate for a specific trait's [prevalence](https://en.wikipedia.org/wiki/Prevalence) within an entire population. 
 
-In our example, the sample proportion is $\frac{30}{200}$, which simplifies to $\frac{3}{20}$, or $0.15$ (which is $15\%$).
+For example, if you survey a random sample of $200$ students and discover that $30$ of them are [left-handed](https://en.wikipedia.org/wiki/Handedness), your sample proportion is $\frac{30}{200}$, or $0.15$ ($15$). Because you used random sampling, it is highly probable that roughly $15$ of the *entire* school is left-handed.
 
-Why is this [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) so important? Because **a sample proportion serves as the mathematical [estimate](https://en.wikipedia.org/wiki/Estimator) for a specific trait's [prevalence](https://en.wikipedia.org/wiki/Prevalence) within an entire population**. If $15\%$ of our perfectly randomized sample is left-handed, we can infer that approximately $15\%$ of the *entire school* is left-handed. 
+![Ancient stenciled hands at the Cueva de las Manos. Because left-hand stencils make up over 90% of the artwork, archaeologists can mathematically infer the overwhelming prevalence of right-handedness in the historical population.](https://wikipedia.org/wiki/Special:Redirect/file/SantaCruz-CuevaManos-P2210651b.jpg)
 
-### Scaling Up (The Praxis Core Favorite)
+> **Praxis Core Mathematics Application:**
+> The [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test) requires test-takers to scale a sample proportion up to a predicted total population count. 
 
-Here is a gold-star fact: **The Praxis Core Mathematics exam requires test-takers to scale a sample proportion up to a predicted total population count.** 
+How do we perform this scaling? Predicting a total population count for a specific trait requires [multiplying](https://en.wikipedia.org/wiki/Multiplication) the sample proportion by the total population size. 
 
-If you know the proportion of the sample, you can predict the headcount for the whole population! 
+If that same school has a total population of $1,400$ students, you simply multiply the population by your estimated proportion:
+$$1,400 \times 0.15 = 210$$
+We can mathematically infer that approximately $210$ students in the entire school are left-handed.
 
-> **Formula: Population Prediction**
-> $\text{Predicted Population Count} = \text{Sample Proportion} \times \text{Total Population Size}$
+## The Margins of Reality: Variability and Error
 
-**Let's walk through a Praxis-style scenario:**
-*A researcher takes a simple random sample of 400 voters in a town and finds that 250 of them support building a new [library](https://en.wikipedia.org/wiki/Library). If there are 18,000 total registered voters in the town, what is the best estimate for the total number of voters who support the library?*
+Nature is not perfectly rigid, and statistics must account for the natural static of reality. If you take a spoonful of soup and count exactly five carrots, and then take a second spoonful, you might only count four carrots. Both spoonfuls are accurate representations, but they differ slightly. 
 
-1.  **Find the sample proportion:** $\frac{250}{400} = \frac{25}{40} = \frac{5}{8}$ (or $0.625$)
-2.  **Predicting a total population count for a specific trait requires multiplying the sample proportion by the total population size:** 
-    $\frac{5}{8} \times 18,000$
-3.  **Do the [arithmetic](https://en.wikipedia.org/wiki/Arithmetic):** 
-    $18,000 \div 8 = 2,250$
-    $2,250 \times 5 = 11,250$
+This is known as **[sampling variability](https://en.wikipedia.org/wiki/Sampling_error)**, which describes the phenomenon where different random samples drawn from the same population yield slightly different mathematical results. 
 
-Boom! You can confidently predict that roughly 11,250 voters support the new library. You didn't have to knock on 18,000 doors. You used the beautiful leverage of [proportional mathematics](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29).
+Because we acknowledge that our sample proportion is an [estimate](https://en.wikipedia.org/wiki/Estimator) rather than a divine truth, we use a **[margin of error](https://en.wikipedia.org/wiki/Margin_of_error)**. The margin of error defines the expected numerical deviation between a calculated [sample statistic](https://en.wikipedia.org/wiki/Statistic) and an actual [population parameter](https://en.wikipedia.org/wiki/Statistical_parameter). You will often see this represented in [polling data](https://en.wikipedia.org/wiki/Opinion_poll) as "$\pm 3$". It is mathematics admitting its own slight, measurable [uncertainty](https://en.wikipedia.org/wiki/Uncertainty).
 
-## Wiggle Room: Margin of Error and Variability
+There is, however, a reliable way to shrink this uncertainty. If you want a more precise estimate of the soup's flavor, use a larger spoon. In statistics, increasing the [sample size](https://en.wikipedia.org/wiki/Sample_size) reduces the margin of error in population estimates. By sampling more individuals, the chaotic quirks of individual variation cancel each other out, drawing your sample proportion ever closer to the undeniable truth of the population.
 
-Let's put on our [physicist](https://en.wikipedia.org/wiki/Physicist) hats for a moment. In the real world, things are a little bit messy. 
-
-If I take a simple random sample of 200 students today and find $15\%$ are left-handed, and then I take *another* entirely new random sample of 200 students tomorrow, will I get exactly $15\%$ again? Probably not. I might get $14\%$, or $16.5\%$. 
-
-This is known as **[sampling variability](https://en.wikipedia.org/wiki/Sampling_distribution)**. Sampling variability describes the phenomenon where different random samples drawn from the same population yield slightly different mathematical results. It’s just the natural "wobble" of the universe. It doesn't mean you made a mistake; it's just what happens when you take a spoonful instead of drinking the whole pot.
-
-Because of this natural wobble, [statisticians](https://en.wikipedia.org/wiki/Statistician) never claim their sample proportion is a perfect, absolute fact about the population. Instead, they give themselves a buffer. 
-
-This buffer is called the **[margin of error](https://en.wikipedia.org/wiki/Margin_of_error)**. The margin of error defines the expected numerical deviation between a calculated [sample statistic](https://en.wikipedia.org/wiki/Statistic) and an actual [population parameter](https://en.wikipedia.org/wiki/Statistical_parameter). 
-
-You see this on the news all the time: *"Candidate A is [polling](https://en.wikipedia.org/wiki/Opinion_poll) at 52%, with a margin of error of plus or minus 3%."* This means the true population percentage is likely dancing somewhere between $49\%$ and $55\%$.
-
-**How do we shrink the margin of error?**
-What if a $3\%$ wobble is too much? What if we want to be highly [precise](https://en.wikipedia.org/wiki/Accuracy_and_precision)? There is a direct, mechanical relationship you must know: **increasing the sample size reduces the margin of error in population estimates**. 
-
-If tasting one spoonful of soup leaves you slightly uncertain about the [seasoning](https://en.wikipedia.org/wiki/Seasoning), tasting *three* spoonfuls will give you a much tighter, more accurate estimate of the flavor. More data equals less wobble. A sample of 2,000 people will inevitably have a smaller margin of error than a sample of 200 people. 
-
-![As sample size increases, the distribution curve visually narrows. This mathematical relationship demonstrates how gathering a larger sample reduces the margin of error and provides a far more precise estimate of the true population.](https://wikipedia.org/wiki/Special:Redirect/file/Margin-of-error-95.svg)
-
-## Summary for the Exam
-
-When you sit down to take your Praxis exam, remember the fundamental story:
-1. We want to know about the vast **[population](https://en.wikipedia.org/wiki/Statistical_population)**, but we can only afford to measure a small **[sample](https://en.wikipedia.org/wiki/Sample_%28statistics%29)**.
-2. We protect our data from **[bias](https://en.wikipedia.org/wiki/Bias_%28statistics%29)** by using rigid **[random sampling](https://en.wikipedia.org/wiki/Sampling_%28statistics%29)** methods (Simple, Stratified, Cluster, Systematic). We run far away from Convenience and Voluntary Response sampling.
-3. We calculate our **[sample proportion](https://en.wikipedia.org/wiki/Population_proportion)** ($\frac{\text{trait}}{\text{total}}$).
-4. We multiply that proportion by the massive population size to make our **[inference](https://en.wikipedia.org/wiki/Statistical_inference)** and predict the final headcount.
-5. And finally, we embrace that there is a **[margin of error](https://en.wikipedia.org/wiki/Margin_of_error)** due to **[sampling variability](https://en.wikipedia.org/wiki/Sampling_distribution)**, which we can always crush down by simply making our sample bigger!
-
-The universe is vast and [chaotic](https://en.wikipedia.org/wiki/Chaos_theory), but with a clever little random sample and some [elementary fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29), you can comprehend it all. Good luck!
+![As sample size increases (shown on the right), the probability distribution narrows, demonstrating how larger samples mathematically reduce the margin of error (shown on the left).](https://wikipedia.org/wiki/Special:Redirect/file/Margin-of-error-95.svg)
