@@ -15,7 +15,13 @@ Children don't learn by absorbing rules from a chalkboard; they learn by touchin
     *   **Base-ten block units specifically represent the ones place in [whole number](https://en.wikipedia.org/wiki/Natural_number) arithmetic.**
     *   **Base-ten block rods specifically represent the tens place in whole number arithmetic.**
     *   **Base-ten block flats specifically represent the hundreds place in whole number arithmetic.**
+
+    ![Base-ten blocks concretely model place value, with units representing ones, rods representing tens, and flats representing hundreds.](https://wikipedia.org/wiki/Special:Redirect/file/ZR1000_(Dienes-Material).jpg)
+
 *   **[Cuisenaire rods](https://en.wikipedia.org/wiki/Cuisenaire_rods):** These are **colored physical manipulatives used to represent different whole numbers proportionally by length**. Because they don't have individual units marked on them, they brilliantly force students to think about relational lengths rather than just counting.
+
+    ![Cuisenaire rods use proportional lengths of colored blocks to help students explore relational whole number values without relying on counting individual units.](https://wikipedia.org/wiki/Special:Redirect/file/Cuisenaire_staircase.JPG)
+
 *   **[Number bonds](https://en.wikipedia.org/wiki/Number_bond):** These diagrams **visually display the part-whole relationship between a primary whole number and its constituent numerical parts** (like a circle for 10 branching into a 7 and a 3).
 *   **[Tape diagrams](https://en.wikipedia.org/wiki/Tape_diagram):** Crucial for [word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29), **tape diagrams model mathematical word problems using connected rectangular boxes to represent [proportional](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) part-whole relationships.**
 
@@ -32,6 +38,8 @@ We frame addition in different ways depending on the scenario:
 
 We also represent this physically. **A [number line](https://en.wikipedia.org/wiki/Number_line) represents addition as a physical movement to the right from a starting value.** If a student is adding $4 + 3$, they start at 4 and physically hop 3 spaces to the right. 
 
+![A conceptual model of addition bringing together quantities, such as combining a group of 3 apples and a group of 2 apples to find a sum of 5.](https://wikipedia.org/wiki/Special:Redirect/file/Addition01.svg)
+
 ### Properties of Addition
 You need to know the laws governing addition, not to make kids memorize the names, but because these laws give students the flexibility to manipulate numbers in their heads!
 
@@ -41,8 +49,12 @@ You need to know the laws governing addition, not to make kids memorize the name
 | **Associative** | **The [associative property](https://en.wikipedia.org/wiki/Associative_property) of addition states that the grouping of addends does not change the sum.** | **The equation $(a + b) + c = a + (b + c)$ is the algebraic representation of the associative property of addition.** |
 | **Identity** | **The [additive identity](https://en.wikipedia.org/wiki/Additive_identity) property states that adding [zero](https://en.wikipedia.org/wiki/0) to any number yields that same original number.** | $a + 0 = a$ |
 
+![The commutative property of addition demonstrated using blocks, illustrating that changing the order of addends yields the same total.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionComm01.svg)
+
 ### Algorithms, Strategies, and Misconceptions
 Let's talk about the **standard algorithm for multi-digit addition**. You know it well: it **requires strictly aligning the [digits](https://en.wikipedia.org/wiki/Numerical_digit) vertically by place value before adding.** But jumping straight to this algorithm is where students stumble. 
+
+![The standard addition algorithm relies on precise place value alignment and proper regrouping (carrying) to accurately combine multi-digit numbers.](https://wikipedia.org/wiki/Special:Redirect/file/Addition_with_carry.png)
 
 > **🚨 The Classic Misconception:**
 > Imagine a student who writes $34 + 9 = 313$. What on earth happened?
@@ -62,6 +74,9 @@ If addition is bringing together, subtraction is pulling apart. Fundamentally, *
 ### Conceptual Models of Subtraction
 Subtraction isn't just "take-away." Students must understand all its faces:
 1.  **The Take-Away Model:** I have 5 balloons, 2 pop. **The take-away model of subtraction involves physically removing a specific quantity from an initial whole.**
+
+    ![A visual representation of the take-away model of subtraction, demonstrating the removal of a specific quantity from an initial whole to find the difference.](https://wikipedia.org/wiki/Special:Redirect/file/Subtraction01.svg)
+
 2.  **The Missing Addend Model:** I have 2 dollars. I need 5 dollars to buy a toy. How much more do I need? Here, we **view a subtraction problem as an addition problem with an unknown part** ($2 + ? = 5$).
 3.  **The Comparison Model:** Sarah has 5 apples, Tim has 2. How many more does Sarah have? **The comparison model of subtraction determines the numerical difference in size or amount between two separate quantities.**
 
@@ -84,6 +99,9 @@ Now we step up in complexity. At its root, **multiplication calculates the total
 ### Conceptual Models of Multiplication
 Just as before, we map this to real life:
 *   **Equal Groups Model:** 4 bags, each with 3 apples. **The equal groups model of multiplication involves a specific number of sets containing an identical number of items per set.**
+
+    ![The equal groups model of multiplication visualizing a product as distinct sets containing an identical number of items, such as 4 bags of 3 marbles.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_4_bags_3_marbles.svg)
+
 *   **Repeated Addition:** **[Repeated addition](https://en.wikipedia.org/wiki/Multiplication_and_repeated_addition) models multiplication by adding the same starting number a specific number of times** ($3 + 3 + 3 + 3 = 12$).
 *   **Array Model:** Picture eggs in a carton. **An array model of multiplication represents mathematical [factors](https://en.wikipedia.org/wiki/Divisor) as distinct rows and columns of individual items.**
 *   **Area Model:** For larger numbers, we draw! **An area model represents multiplication using a [rectangle](https://en.wikipedia.org/wiki/Rectangle) divided into smaller proportional rectangles based on the place values of the factors.**
@@ -125,6 +143,8 @@ This is highly tested, so pay attention! Division comes in two distinct pedagogi
 To represent division, we often use **strip diagrams**. Similar to tape diagrams, **[strip diagrams](https://en.wikipedia.org/wiki/Tape_diagram) visually represent division by showing a total rectangular length [partitioned](https://en.wikipedia.org/wiki/Partition_of_a_set) into equal internal segments.** 
 
 When numbers get large, traditional "[long division](https://en.wikipedia.org/wiki/Long_division)" can seem like abstract sorcery to a child. Enter the **partial quotients method**. **The partial quotients method involves repeatedly subtracting friendly [multiples](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29) of the [divisor](https://en.wikipedia.org/wiki/Divisor) from the [dividend](https://en.wikipedia.org/wiki/Division_%28mathematics%29) until reaching zero or a remainder.** If dividing $150 \div 6$, a student might think, "Well, $6 \times 10 = 60$, I'll subtract 60. I can subtract another 60. That leaves 30, which is $6 \times 5$. The answer is $10 + 10 + 5 = 25$." It allows students to divide using numbers they are comfortable with!
+
+![The standard long division algorithm involves a sequence of division, multiplication, and subtraction steps that can often mask the underlying place value concepts for students.](https://wikipedia.org/wiki/Special:Redirect/file/Long_division.JPG)
 
 And what happens when things don't divide perfectly? We get a remainder. **A mathematical [remainder](https://en.wikipedia.org/wiki/Remainder) represents the leftover numerical quantity that cannot be evenly divided into full groups.** Context determines what we do with it—do we ignore it, [round up](https://en.wikipedia.org/wiki/Rounding), or split it into [fractions](https://en.wikipedia.org/wiki/Fraction)? That's the beauty of math tied to the real world.
 

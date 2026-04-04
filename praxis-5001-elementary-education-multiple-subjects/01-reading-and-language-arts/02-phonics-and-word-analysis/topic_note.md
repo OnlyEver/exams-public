@@ -18,6 +18,8 @@ So, what exactly are we connecting? We are connecting *[phonemes](https://en.wik
 *   A **[phoneme](https://en.wikipedia.org/wiki/Phoneme)** is the smallest unit of spoken language that makes a difference in a word's meaning. Think of it as a single [quantum](https://en.wikipedia.org/wiki/Quantum_%28physics%29) of sound. If you change the /b/ in *bat* to /c/, you get *cat*. That single sound shift changes the entire universe of the word.
 *   **[Graphemes](https://en.wikipedia.org/wiki/Grapheme)** are written letters or groups of letters that represent a single [phoneme](https://en.wikipedia.org/wiki/Phoneme). It is the visual ink on the page that acts as a placeholder for that puff of sound.
 
+![Even though these letters look physically different in various fonts or handwritings, they all represent the same visual English grapheme for the letter 'a'.](https://wikipedia.org/wiki/Special:Redirect/file/A-small_glyphs.svg)
+
 ### When Consonants Collide: Blends vs. Digraphs
 Now, here is where things get interesting. Sometimes we push [consonant](https://en.wikipedia.org/wiki/Consonant) [graphemes](https://en.wikipedia.org/wiki/Grapheme) right next to each other. When they collide, two different things can happen—a *[blend](https://en.wikipedia.org/wiki/Consonant_blend)* or a *[digraph](https://en.wikipedia.org/wiki/Digraph_%28orthography%29)*. Think of it like mixing a salad versus baking a cake.
 
@@ -53,6 +55,8 @@ However, sometimes a vowel team refuses to stand still. Instead of making one fl
 *   **[Diphthongs](https://en.wikipedia.org/wiki/Diphthong)** are gliding [vowel sounds](https://en.wikipedia.org/wiki/Vowel) formed by a combination of two adjacent [vowels](https://en.wikipedia.org/wiki/Vowel) in a single [syllable](https://en.wikipedia.org/wiki/Syllable). Your jaw and lips literally shift position as you pronounce them!
 *   Common examples of [diphthongs](https://en.wikipedia.org/wiki/Diphthong) include the letter pairs **oi** (boil), **oy** (toy), **ou** (cloud), and **ow** (cow). 
 
+![A traditional vowel quadrilateral mapping the physical position of the tongue and jaw. When producing a diphthong, the speaker's mouth physically glides between different positions within this space during a single syllable.](https://wikipedia.org/wiki/Special:Redirect/file/Vowel_quadrilateral_(IPA_1949).svg)
+
 ---
 
 ## 3. Reading the Code: Decoding vs. Memorizing
@@ -86,6 +90,8 @@ We have two places we can stick an [affix](https://en.wikipedia.org/wiki/Affix):
 1.  **[Prefixes](https://en.wikipedia.org/wiki/Prefix)** are [affixes](https://en.wikipedia.org/wiki/Affix) added to the *beginning* of a [root word](https://en.wikipedia.org/wiki/Root_%28linguistics%29) (like *un-* in *unhappy*).
 2.  **[Suffixes](https://en.wikipedia.org/wiki/Suffix)** are [affixes](https://en.wikipedia.org/wiki/Affix) added to the *end* of a [root word](https://en.wikipedia.org/wiki/Root_%28linguistics%29) (like *-ness* in *happiness*).
 
+![A structural word analysis tree showing how the root word "depend" is modified by bound morphemes (prefixes and suffixes) to systematically build the complex word "independently."](https://wikipedia.org/wiki/Special:Redirect/file/Independently_morphology_tree.png)
+
 ### The Two Flavors of Suffixes
 Now, pay close attention, because [suffixes](https://en.wikipedia.org/wiki/Suffix) come in two very distinct structural flavors depending on what kind of job they do:
 
@@ -97,6 +103,8 @@ Now, pay close attention, because [suffixes](https://en.wikipedia.org/wiki/Suffi
 ## 5. The Rhythm of Language: Syllabication Patterns
 
 Finally, we arrive at the macro-structure of the word: the [syllable](https://en.wikipedia.org/wiki/Syllable). A **[syllable](https://en.wikipedia.org/wiki/Syllable)** is a unit of [pronunciation](https://en.wikipedia.org/wiki/Pronunciation) containing exactly *one* [vowel sound](https://en.wikipedia.org/wiki/Vowel). Every time you hear a [vowel sound](https://en.wikipedia.org/wiki/Vowel), a [syllable](https://en.wikipedia.org/wiki/Syllable) has been born. 
+
+![The architectural breakdown of a syllable. The "nucleus" always contains the vowel sound, while the surrounding consonants act as the onset and coda.](https://wikipedia.org/wiki/Special:Redirect/file/Syllable_illustration_1.svg)
 
 To help students decode longer words, we categorize [syllables](https://en.wikipedia.org/wiki/Syllable) into six predictable patterns. Learn these six, and you hold the master key to English [pronunciation](https://en.wikipedia.org/wiki/Pronunciation):
 

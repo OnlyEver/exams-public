@@ -4,6 +4,8 @@ As a future [elementary educator](https://en.wikipedia.org/wiki/Primary_educatio
 
 Your job is to help them understand the "[Russian Nesting Dolls](https://en.wikipedia.org/wiki/Matryoshka_doll)" of our society—from the inner doll of their own [family](https://en.wikipedia.org/wiki/Family), all the way out to the massive outer shell of the [federal government](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States). Let's break down the concepts, the facts, and exactly how you can help young minds grasp them.
 
+![Just as a matryoshka doll contains nested layers, our society is organized from the smallest localized unit (the family) outward to the largest overarching jurisdiction (the federal government).](https://wikipedia.org/wiki/Special:Redirect/file/Floral_matryoshka_set_2_smallest_doll_nested.JPG)
+
 ---
 
 ## Part 1: The Inner Dolls – Families, Communities, and the Birth of Rules
@@ -27,6 +29,8 @@ Here is a classic cognitive hurdle your elementary students will face: they stru
 
 When little Johnny asks if it's "against the law" to [chew gum](https://en.wikipedia.org/wiki/Chewing_gum) in class, you have the perfect teaching moment! It’s a *rule*, not a law, because Mrs. Smith's classroom is a specific group, not a recognized government jurisdiction.
 
+![Breaking a localized rule in a family or classroom often results in an immediate, localized consequence, such as a time-out. This differs from breaking a law, which carries systemic legal consequences enforced by the state.](https://wikipedia.org/wiki/Special:Redirect/file/Ett_hem_(26_akvareller)_(Carl_Larsson)_-_Nationalmuseum_-_24208.tif)
+
 ---
 
 ## Part 2: The Layer Cake of Government – Understanding Federalism
@@ -43,7 +47,10 @@ Let’s look at who handles what. This is where your students' misconceptions th
 
 ### 1. The Federal Government (The Big Picture)
 The federal government handles the massive, overarching issues that affect the entire nation as a unified front. 
-*   **Money:** Imagine if [New York](https://en.wikipedia.org/wiki/New_York_%28state%29) and [Texas](https://en.wikipedia.org/wiki/Texas) had different [currencies](https://en.wikipedia.org/wiki/Currency). Chaos! **The federal government holds the [exclusive power](https://en.wikipedia.org/wiki/Enumerated_powers_%28United_States%29) to print and coin money.** (So when a student asks where a [\\\$10 bill](https://en.wikipedia.org/wiki/United_States_ten-dollar_bill) comes from, you can tell them exactly who prints it!)
+*   **Money:** Imagine if [New York](https://en.wikipedia.org/wiki/New_York_%28state%29) and [Texas](https://en.wikipedia.org/wiki/Texas) had different [currencies](https://en.wikipedia.org/wiki/Currency). Chaos! **The federal government holds the [exclusive power](https://en.wikipedia.org/wiki/Enumerated_powers_%28United_States%29) to print and coin money.** (So when a student asks where a [\$10 bill](https://en.wikipedia.org/wiki/United_States_ten-dollar_bill) comes from, you can tell them exactly who prints it!)
+
+![Because the U.S. Constitution grants the federal government exclusive power to coin money, historical and modern currency—like this 1914 ten-dollar bill—is issued by a unified national system rather than individual states.](https://wikipedia.org/wiki/Special:Redirect/file/US-%2410-FRN-1914-Fr-919a.jpg)
+
 *   **Defense & [Diplomacy](https://en.wikipedia.org/wiki/Diplomacy):** **The federal government holds the exclusive authority to [declare war](https://en.wikipedia.org/wiki/Declaration_of_war_by_the_United_States) and maintain a [national military](https://en.wikipedia.org/wiki/United_States_Armed_Forces).** Furthermore, **the federal government negotiates [treaties](https://en.wikipedia.org/wiki/Treaty) with foreign nations.**
 *   **Business Across Borders:** **The federal government is solely responsible for regulating [interstate commerce](https://en.wikipedia.org/wiki/Interstate_Commerce_Clause).** If goods are crossing state lines, the federal government makes the rules so [trade](https://en.wikipedia.org/wiki/Trade) runs smoothly.
 
@@ -53,10 +60,15 @@ This is the layer that will directly employ *you*! It handles the major [infrast
 *   **Licenses:** **State governments hold the authority to issue [driver licenses](https://en.wikipedia.org/wiki/Driver%27s_licenses_in_the_United_States) and [marriage licenses](https://en.wikipedia.org/wiki/Marriage_license).**
 *   **Elections:** *Teacher Alert!* This is a highly tested concept and a common adult misconception. The federal government does *not* run elections. **State governments are responsible for conducting local and national [elections](https://en.wikipedia.org/wiki/Elections_in_the_United_States).** Even when we elect a U.S. President, it is the states that actually print the [ballots](https://en.wikipedia.org/wiki/Ballot) and count the votes.
 
+![While the president is a federal official, the actual administration of elections—including the printing of ballots, securing of polling locations, and counting of votes—is an essential power delegated entirely to state governments.](https://wikipedia.org/wiki/Special:Redirect/file/Election_Day_2020_(50564518207).jpg)
+
 ### 3. Local Governments (Daily Life)
 Local government is the most visible to your elementary students. When they hear a siren or see a [garbage truck](https://en.wikipedia.org/wiki/Garbage_truck), they are watching local government in action.
 *   **Safety:** **Local governments are responsible for organizing [municipal police](https://en.wikipedia.org/wiki/Municipal_police) and [municipal fire departments](https://en.wikipedia.org/wiki/Fire_department).**
 *   **Daily Services:** **Local governments oversee daily municipal services like [garbage collection](https://en.wikipedia.org/wiki/Waste_collection) and [water processing](https://en.wikipedia.org/wiki/Water_treatment).** When you turn on the tap, thank your local [water district](https://en.wikipedia.org/wiki/Utility_district).
+
+![Local municipalities manage the highly visible daily services that keep communities functioning, such as waste collection, sanitation, and water treatment.](https://wikipedia.org/wiki/Special:Redirect/file/US_Garbage_Truck.jpg)
+
 *   **Land Use:** Have your students ever wondered why someone doesn't build a noisy, smelly [factory](https://en.wikipedia.org/wiki/Factory) right next to their quiet neighborhood park? It’s because **local governments manage local [zoning laws](https://en.wikipedia.org/wiki/Zoning_in_the_United_States) and maintain [municipal parks](https://en.wikipedia.org/wiki/Urban_park).**
 
 ---
@@ -72,6 +84,8 @@ Think of it as things that *everyone* needs to do to survive as a government.
 *   **Justice:** **The power to establish [court systems](https://en.wikipedia.org/wiki/Judiciary) is a concurrent power held by both state and federal governments.** You have [state courts](https://en.wikipedia.org/wiki/State_court_%28United_States%29) for state crimes, and [federal courts](https://en.wikipedia.org/wiki/United_States_federal_courts) for [federal crimes](https://en.wikipedia.org/wiki/Federal_crime_in_the_United_States).
 *   **Infrastructure:** **The power to build and maintain roads is a concurrent power shared by local, state, and federal governments.** (Local fills the [potholes](https://en.wikipedia.org/wiki/Pothole) on [Main Street](https://en.wikipedia.org/wiki/Main_Street), State builds the [highways](https://en.wikipedia.org/wiki/Highway), Federal funds the [Interstate systems](https://en.wikipedia.org/wiki/Interstate_Highway_System)).
 
+![Infrastructure requires concurrent effort. While the federal government funds massive interstate highway systems, local and state governments handle the day-to-day maintenance, such as filling localized potholes.](https://wikipedia.org/wiki/Special:Redirect/file/Potholes_-_at_the_junction_of_Philip_Lane_N15_and_Mount_Pleasant_Road_N17.jpg)
+
 ### 🥊 The "Who Wins" Rule: The Supremacy Clause
 What happens if a state law and a federal law actively clash? If they punch each other, who stays standing? The Constitution has a built-in referee. **The [Supremacy Clause](https://en.wikipedia.org/wiki/Supremacy_Clause) of the United States Constitution dictates that federal law overrides state law in cases of direct conflict.** The federal law is the [supreme law of the land](https://en.wikipedia.org/wiki/Law_of_the_land).
 
@@ -82,6 +96,8 @@ What happens if a state law and a federal law actively clash? If they punch each
 Within each level of government, we have another brilliant defense against [tyranny](https://en.wikipedia.org/wiki/Tyranny). At the federal, state, and local levels, power isn't given to just one person. It is divided horizontally. 
 
 **The United States Constitution divides the federal government into the [legislative](https://en.wikipedia.org/wiki/Legislature), [executive](https://en.wikipedia.org/wiki/Executive_%28government%29), and [judicial](https://en.wikipedia.org/wiki/Judiciary) branches.** 
+
+![The United States employs a trias politica model, horizontally separating power across the Legislative, Executive, and Judicial branches to establish a system of checks and balances.](https://wikipedia.org/wiki/Special:Redirect/file/Separation_of_powers.png)
 
 Why make it so complicated? 
 1.  **[Separation of powers](https://en.wikipedia.org/wiki/Separation_of_powers_in_the_United_States)** ensures that no single branch of government gains [absolute control](https://en.wikipedia.org/wiki/Dictatorship) over the entire system. 

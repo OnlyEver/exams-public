@@ -21,6 +21,8 @@ Imagine you draw a timeline on the whiteboard. On the left edge, you place the [
 
 If a student sees two events spaced an inch apart, they assume only a little bit of time passed between them! Because of this, **teachers must explicitly teach the mathematical concept of scale** when introducing timelines to students. A timeline isn't just a reading activity; it is a math lesson. The distance on the line must mathematically represent the duration of time.
 
+![Visual models, such as compressing the chronology of the universe into a single "Cosmic Calendar" year, can help students conceptualize the mathematical scale of deep time.](https://wikipedia.org/wiki/Special:Redirect/file/The_Cosmic_Calendar_Concept_%E2%80%93_deep_time_and_cosmic_history_as_one_year_(time-lapse_and_annotations).gif)
+
 ### The Vocabulary of Time Periods
 To navigate timelines, students need the vocabulary of duration:
 *   A **[decade](https://en.wikipedia.org/wiki/Decade)** is a continuous period of ten years.
@@ -42,6 +44,8 @@ Here is the trickiest part of the dating system, and a phenomenal place to trip 
 
 **BCE dates count backward toward [year zero](https://en.wikipedia.org/wiki/Year_zero), while CE dates count forward from year one.** 
 However, **there is no year zero in the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)!** The timeline jumps directly from December 31, 1 BCE to January 1, 1 CE. If a student is trying to calculate the time elapsed between 5 BCE and 5 CE, they can't just add 5 + 5. They have to account for the missing zero. 
+
+![The historical "Anno Domini" (AD) dating system, seen here inscribed on a cathedral, translates to "in the year of the Lord" and is functionally equivalent to the modern secular CE (Common Era).](https://wikipedia.org/wiki/Special:Redirect/file/Austria_Klagenfurt_Dome_12.jpg)
 
 ---
 
@@ -69,6 +73,8 @@ Think of it as the raw, unedited footage of history.
 *   An [autobiography](https://en.wikipedia.org/wiki/Autobiography) (a person writing about their own life) is categorized as a primary historical source.
 *   **Primary sources provide direct unfiltered evidence about a historical event, object, or person.**
 
+![A primary source, such as this facsimile of Anne Frank's diary, provides a first-hand account directly from the historical period being studied.](https://wikipedia.org/wiki/Special:Redirect/file/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg)
+
 **A [secondary source](https://en.wikipedia.org/wiki/Secondary_source) is created by someone who did not experience first-hand or participate in the historical events described.** 
 Secondary sources analyze, interpret, or synthesize information gathered from primary sources. 
 *   Modern history [textbooks](https://en.wikipedia.org/wiki/Textbook) are examples of secondary historical sources.
@@ -76,12 +82,16 @@ Secondary sources analyze, interpret, or synthesize information gathered from pr
 *   A [biography](https://en.wikipedia.org/wiki/Biography) written years after the subject's death is categorized as a secondary historical source.
 *   **Secondary sources provide broad historical context that is often lacking in isolated primary documents.**
 
+![Encyclopedias are classic examples of secondary sources. They synthesize and analyze information gathered from numerous primary sources to provide broader historical context.](https://wikipedia.org/wiki/Special:Redirect/file/Encyclopaedia_Britannica_15_with_2002.jpg)
+
 ### 🛑 The "Primary Means Perfect" Misconception
 Here is a scenario you will see on your exam and in your classroom: A student looks at a diary entry from a [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) soldier and a modern textbook account of the same battle. The diary entry contradicts the textbook. The student says, "The diary must be right because the soldier was actually there!"
 
 > **Crucial Misconception:** Elementary students frequently hold the misconception that a primary source is always more accurate than a secondary source.
 
 Hold the phone! Being there doesn't make you an omniscient, unbiased narrator. **Primary sources frequently contain factual inaccuracies, exaggerations, or highly limited personal perspectives.** A soldier in the [trenches](https://en.wikipedia.org/wiki/Trench_warfare) only sees the mud in front of his face; he doesn't know the grand strategy of the generals. The secondary source has the benefit of [hindsight](https://en.wikipedia.org/wiki/Hindsight_bias), allowing the author to synthesize multiple viewpoints to find the broader truth.
+
+![Union soldiers entrenched during the Civil War. A primary account from a soldier in this trench would be limited to their immediate, narrow perspective rather than the broader strategic reality of the battle.](https://wikipedia.org/wiki/Special:Redirect/file/Union_soldiers_entrenched_along_the_west_bank_of_the_Rappahannock_River_at_Fredericksburg%2C_Virginia_(111-B-157).jpg)
 
 ### The Source Evaluation Toolkit
 To train your students out of blindly trusting whatever they read, you must teach them to interrogate the text. 
@@ -105,6 +115,8 @@ For example, a student might read about [18th-century](https://en.wikipedia.org/
 
 How do we fix this? **[Contextualization](https://en.wikipedia.org/wiki/Contextualization).** Contextualization involves placing a historical source within its original era to properly understand the source's meaning. Teachers should guide students to avoid presentism by explicitly contextualizing the historical norms of the era being studied. When kids understand that [germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_disease) hadn't been discovered yet, the leeches suddenly make a bizarre kind of sense within the context of the era!
 
+![To combat presentism, educators must contextualize historical practices. The medical use of leeches appears foolish to modern students only until they understand that it predated the discovery of the germ theory of disease.](https://wikipedia.org/wiki/Special:Redirect/file/Haemadipsa_zeylanica_japonica.jpg)
+
 ---
 
 ## Part 5: Instructional Strategies for the Elementary Classroom
@@ -125,6 +137,8 @@ What if your students can't read yet? They can still be historians!
 **Visual primary sources** like historical [photographs](https://en.wikipedia.org/wiki/Photography) are highly appropriate for early elementary students lacking advanced reading skills. You can teach sourcing, bias, and context just by having students critically analyze a photograph.
 
 Better yet, bring history into the physical world using **[Material Culture](https://en.wikipedia.org/wiki/Material_culture)**. Material culture includes physical objects from the past used as primary historical sources (e.g., old [coins](https://en.wikipedia.org/wiki/Coin), an antique [butter churn](https://en.wikipedia.org/wiki/Butter_churn), a [rotary phone](https://en.wikipedia.org/wiki/Rotary_dial)). Analyzing material culture allows non-reading students to engage meaningfully in the historical inquiry process. They can hold an object, ask questions about its design, and infer what life was like for the people who used it.
+
+![A rotary telephone dial is an engaging piece of material culture. Early readers can analyze its physical design to infer how communication technology has changed since "the olden days."](https://wikipedia.org/wiki/Special:Redirect/file/Rotarydial.JPG)
 
 ---
 

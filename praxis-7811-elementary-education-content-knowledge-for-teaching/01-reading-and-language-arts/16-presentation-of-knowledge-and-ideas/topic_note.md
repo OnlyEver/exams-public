@@ -19,6 +19,8 @@ To establish a **clear line of [reasoning](https://en.wikipedia.org/wiki/Reason)
 But how do they know which transitions to use? They need a [map](https://en.wikipedia.org/wiki/Map). 
 **[Graphic organizers](https://en.wikipedia.org/wiki/Graphic_organizer) help elementary students visually map the sequence of their ideas before presenting.** Whether it's a [flow chart](https://en.wikipedia.org/wiki/Flowchart), a [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram), or a sequence ladder, moving thoughts from the [abstract](https://en.wikipedia.org/wiki/Abstraction) [ether](https://en.wikipedia.org/wiki/Aether_%28classical_element%29) of the brain onto a physical piece of paper offloads the [cognitive burden](https://en.wikipedia.org/wiki/Cognitive_load). They can *see* the structure before they have to *speak* it.
 
+![A flowchart allows students to map their ideas sequentially, visually organizing their line of reasoning before drafting their speech.](https://wikipedia.org/wiki/Special:Redirect/file/LampFlowchart.svg)
+
 ### The Four Great Text Structures
 
 How we arrange ideas depends entirely on what we are trying to [explain](https://en.wikipedia.org/wiki/Explanation). You must explicitly teach students how to select a structural framework for their presentations. 
@@ -29,6 +31,8 @@ How we arrange ideas depends entirely on what we are trying to [explain](https:/
 | **Spatial Order** | A text structure that organizes information according to physical location. | Describing the [geography](https://en.wikipedia.org/wiki/Geography) of a state, the layout of a [space station](https://en.wikipedia.org/wiki/Space_station), or layers of the [rainforest](https://en.wikipedia.org/wiki/Rainforest). |
 | **Cause-and-Effect** | Requires presenters to clearly link an action to its corresponding outcome. | Explaining why the [dinosaurs went extinct](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) or why adding [baking soda](https://en.wikipedia.org/wiki/Sodium_bicarbonate) to [vinegar](https://en.wikipedia.org/wiki/Vinegar) makes a [volcano](https://en.wikipedia.org/wiki/Volcano) erupt. |
 | **Problem-and-Solution**| Organizes ideas by first detailing an issue and then proposing a remedy. | Persuasive presentations, like why the school needs a [recycling program](https://en.wikipedia.org/wiki/Recycling) or how to protect an [endangered animal](https://en.wikipedia.org/wiki/Endangered_species). |
+
+![A diagram of a butterfly's life cycle provides a clear chronological structure, allowing an audience to follow a sequence of events in the exact order they naturally occur.](https://wikipedia.org/wiki/Special:Redirect/file/Butterfly_life_cycle_diagram_in_English.svg)
 
 > **Pedagogical Pivot: Supporting [English Language Learners](https://en.wikipedia.org/wiki/English_as_a_second_or_foreign_language) (ELLs)**
 > Imagine trying to sequence a complex cause-and-effect argument in a language you are just learning. The [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) is immense! **Providing sentence frames helps English Language Learners orally structure a logical sequence of ideas.** By giving them the structural skeleton (e.g., *"The most significant problem with X is _____ ; therefore, we must _____"*), you free up their [mental RAM](https://en.wikipedia.org/wiki/Working_memory) to focus on the *content* rather than wrestling with the [syntax](https://en.wikipedia.org/wiki/Syntax). 
@@ -61,6 +65,8 @@ Let’s talk about the physical act of speaking. To be understood, a speaker mus
 
 Have you ever listened to a robotic [text-to-speech](https://en.wikipedia.org/wiki/Speech_synthesis) voice from the 1990s? It's incredibly hard to focus on, right? That’s because it lacks prosody. **Strong prosody improves the clarity of an oral presentation** by using pitch and rhythm to highlight important words and signal the ends of sentences. 
 
+![Visualizing speech prosody reveals the complex shifts in pitch and rhythm that humans use to convey meaning—vocal mechanics that presenters must learn to control to maintain audience engagement.](https://wikipedia.org/wiki/Special:Redirect/file/SP_25_black_text.png)
+
 But what happens when little Tommy stands up to give his report on [Jupiter](https://en.wikipedia.org/wiki/Jupiter)? His heart races, his palms sweat, and he reads a five-minute presentation in forty-five seconds flat. **Elementary students frequently speak too quickly during oral presentations due to [performance anxiety](https://en.wikipedia.org/wiki/Stage_fright).** 
 
 How do we fix this? You can’t just yell, "Slow down!" from the back of the room. They literally cannot hear how fast they are going; their [adrenaline](https://en.wikipedia.org/wiki/Adrenaline) is drowning you out. Instead, use [technology](https://en.wikipedia.org/wiki/Technology). **[Recording audio](https://en.wikipedia.org/wiki/Sound_recording_and_reproduction) allows students to independently monitor and adjust their speaking pace during rehearsals.** Let them listen to themselves. The realization is immediate: *"Wow, I sound like a [chipmunk](https://en.wikipedia.org/wiki/Chipmunk)!"* 
@@ -89,6 +95,8 @@ A common misconception students have is that a slide should contain their entire
 
 How do we help students decide what media to use and where? Through planning. **Digital [storyboarding](https://en.wikipedia.org/wiki/Storyboard) helps students plan the specific integration of visual media with oral narration.** Before they ever open [presentation software](https://en.wikipedia.org/wiki/Presentation_program), have them draw out frames. *What will the audience see on screen? What will I be saying at that exact moment?* 
 
+![A storyboard template encourages students to plan the synchronization of their spoken words with corresponding visual slides.](https://wikipedia.org/wiki/Special:Redirect/file/Storyboard_template_example.svg)
+
 When they select their media, teach them to be strategic:
 *   **Charts and graphs assist audiences in interpreting numerical data during an oral presentation.** If a student is reporting on local rainfall, a [bar graph](https://en.wikipedia.org/wiki/Bar_chart) is infinitely clearer than reciting a list of numbers. 
 *   **Audio clips embedded in a presentation can provide [primary source](https://en.wikipedia.org/wiki/Primary_source) evidence for historical topics.** Giving a presentation on the [Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_rights_movement)? Embed a 10-second clip of [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)'s actual voice. It transports the audience in a way a quote on a screen cannot.
@@ -99,6 +107,8 @@ When they select their media, teach them to be strategic:
 Here is a beautiful piece of pedagogical [synergy](https://en.wikipedia.org/wiki/Synergy): teaching students to use media well doesn't just help the presenter; it helps the audience. **[Multimedia](https://en.wikipedia.org/wiki/Multimedia) tools provide [scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding) for struggling readers to access complex academic texts.** 
 
 If you have a student in the audience who reads two grade levels behind, listening to a high-level academic presentation might overwhelm their [working memory](https://en.wikipedia.org/wiki/Working_memory). But if the presenter uses a clean [diagram](https://en.wikipedia.org/wiki/Diagram) to explain a complex scientific concept, you have just provided a visual anchor. The image supports the spoken word, ensuring the content is accessible to everyone in the room.
+
+![Baddeley and Hitch's model of working memory demonstrates how visual and auditory information are processed simultaneously. Pairing clean visual diagrams with spoken words maximizes audience comprehension without causing cognitive overload.](https://wikipedia.org/wiki/Special:Redirect/file/Baddeley_and_Hitch's_Working_Memory_Model.png)
 
 ---
 

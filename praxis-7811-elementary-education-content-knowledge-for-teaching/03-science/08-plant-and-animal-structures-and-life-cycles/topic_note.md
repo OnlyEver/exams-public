@@ -21,22 +21,46 @@ Why do kids think this? Because animals run, roar, and bite. Plants just... sit 
 
 Let's look at the plant's toolkit:
 *   **[Roots](https://en.wikipedia.org/wiki/Root):** These aren't just strings holding the plant in the dirt. **Plant roots serve as structural anchors to hold the plant firmly in the ground** against the tearing force of wind and rain. But they are also active miners—they are **external structures that absorb [water](https://en.wikipedia.org/wiki/Water) from the [soil](https://en.wikipedia.org/wiki/Soil).**
+
+![Primary and secondary roots in a cotton plant, demonstrating their ability to act as extensive structural anchors and subterranean water-absorbers.](https://wikipedia.org/wiki/Special:Redirect/file/Primary_and_secondary_cotton_roots.jpg)
+
 *   **[Stems](https://en.wikipedia.org/wiki/Plant_stem):** Think of stems as a combination of skyscraper scaffolding and indoor plumbing. Physically, **plant stems are structures that physically support leaves and [flowers](https://en.wikipedia.org/wiki/Flower)**, reaching up to outcompete neighbors for [sunlight](https://en.wikipedia.org/wiki/Sunlight). Internally, **plant stems contain [vascular tissues](https://en.wikipedia.org/wiki/Vascular_tissue) that transport water and [nutrients](https://en.wikipedia.org/wiki/Nutrient) throughout the organism.**
+
+![A cross-section of a celery stalk provides a highly visible, classroom-friendly example of vascular bundles (xylem and phloem) that transport water and nutrients.](https://wikipedia.org/wiki/Special:Redirect/file/Celery_cross_section.jpg)
+
 *   **[Leaves](https://en.wikipedia.org/wiki/Leaf):** These are the solar panels. **Leaves are external plant structures primarily responsible for capturing sunlight for [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis).** 
 *   **Armor and Weaponry:** Plants can't run away from a hungry [deer](https://en.wikipedia.org/wiki/Deer). Instead, they fight back chemically and physically. **[Bark](https://en.wikipedia.org/wiki/Bark_%28botany%29) is a tough external plant structure that protects the inner tissues from physical damage** (and freezing temperatures). Meanwhile, **[thorns](https://en.wikipedia.org/wiki/Thorns%2C_spines%2C_and_prickles) are external plant structures adapted to deter [herbivores](https://en.wikipedia.org/wiki/Herbivore) from eating the plant.** 
+
+![Thorns on a blackberry branch serve as an effective external defensive adaptation to deter hungry herbivores.](https://wikipedia.org/wiki/Special:Redirect/file/Thorns_on_a_blackberry_branch_in_Norrkila.jpg)
+
 *   **Reproductive Structures:** To make the next generation, [angiosperms](https://en.wikipedia.org/wiki/Angiosperm) (flowering plants) use **flowers, which are external plant structures containing the reproductive organs**. [Gymnosperms](https://en.wikipedia.org/wiki/Gymnosperm) (like [pine trees](https://en.wikipedia.org/wiki/Pine)) don't use flowers; instead, **[cones](https://en.wikipedia.org/wiki/Conifer_cone) are the reproductive structures of gymnosperm plants.**
+
+![A structural diagram of a mature angiosperm flower, the primary external structure containing the plant's reproductive organs.](https://wikipedia.org/wiki/Special:Redirect/file/Mature_flower_diagram.svg)
 
 ### The Animal Arsenal
 Animals have an easier time capturing your students' imaginations because **animal structures support specific behaviors required for finding food or escaping [predators](https://en.wikipedia.org/wiki/Predation).** 
 
 Externally, survival often comes down to armor, [disguise](https://en.wikipedia.org/wiki/Camouflage), or specialized tools:
 *   **[Animal shells](https://en.wikipedia.org/wiki/Animal_shell) are external structures that provide physical protection from predators** (think of a [turtle](https://en.wikipedia.org/wiki/Turtle) pulling into a mobile fortress).
+
+![A sagittal cross-section of a tortoise skeleton reveals how its shell is not just a house, but a fully integrated structural adaptation for physical protection.](https://wikipedia.org/wiki/Special:Redirect/file/Turtle_skeleton_cross-section%2C_labelled_as_infographic.svg)
+
 *   **[Camouflage](https://en.wikipedia.org/wiki/Camouflage) is a structural adaptation that allows animals to blend into their surrounding environment**, serving as an invisibility cloak for both the hunter and the hunted.
+
+![The disruptively patterned plumage of the African scops owl acts as a structural adaptation, providing near-perfect camouflage against tree bark.](https://wikipedia.org/wiki/Special:Redirect/file/African_Scops_owl.jpg)
+
 *   **A [bird beak](https://en.wikipedia.org/wiki/Beak) is an external structure whose specific shape is adapted to the bird's primary food source.** A [hawk](https://en.wikipedia.org/wiki/Hawk)'s hooked beak tears meat, while a [hummingbird](https://en.wikipedia.org/wiki/Hummingbird)'s needle-like beak probes for [nectar](https://en.wikipedia.org/wiki/Nectar). This is a perfect example to teach your students that you can look at an animal's face and guess what it eats!
+
+![A comparison of bird beaks, demonstrating how different species have highly specialized beak shapes structurally adapted to their distinct feeding methods.](https://wikipedia.org/wiki/Special:Redirect/file/BirdBeaksA.svg)
 
 Internally, animals are heavily engineered to keep the machine running:
 *   **Breathing:** To extract [oxygen](https://en.wikipedia.org/wiki/Oxygen), environments demand different tools. **Fish [gills](https://en.wikipedia.org/wiki/Gill) are internal structures specialized for extracting dissolved oxygen from water.** But on land, **[lungs](https://en.wikipedia.org/wiki/Lung) are internal structures in [terrestrial animals](https://en.wikipedia.org/wiki/Terrestrial_animal) responsible for exchanging gases with the [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth).**
+
+![The bright red internal structure of fish gills is highly specialized for extracting dissolved oxygen from aquatic environments.](https://wikipedia.org/wiki/Special:Redirect/file/Tuna_Gills_in_Situ_cut.jpg)
+
 *   **The Command Center:** How does an animal know *when* to use its structures? **Internal [sensory organs](https://en.wikipedia.org/wiki/Sense_organ) detect environmental signals** (a sudden shadow, the smell of food). Then, **the [brain](https://en.wikipedia.org/wiki/Brain)—an internal animal structure—processes information received from sensory organs** and commands the body to act.
+
+![A comparative diagram of vertebrate brains, highlighting the internal command center that processes sensory information to direct an animal's behavior.](https://wikipedia.org/wiki/Special:Redirect/file/Vertebrate-brain-regions_small.png)
 
 ---
 
@@ -48,8 +72,17 @@ When teaching this, draw your students' attention to *patterns of interaction* b
 
 ### How Parents Protect and Provide
 1.  **Architecture for Babies:** **Many bird species construct [nests](https://en.wikipedia.org/wiki/Bird_nest) to shield [eggs](https://en.wikipedia.org/wiki/Egg_%28biology%29) and hatchlings from predators.** But it's not just a fortress; it's a blanket. **Bird nests provide [thermal insulation](https://en.wikipedia.org/wiki/Thermal_insulation) to protect offspring from extreme weather conditions.**
+
+![A female Calliope hummingbird caring for her chicks in a well-insulated cup nest, a prime example of parental behavioral adaptation to shield offspring.](https://wikipedia.org/wiki/Special:Redirect/file/Calliope-nest_edit.jpg)
+
 2.  **Feeding from Within:** **[Mammalian](https://en.wikipedia.org/wiki/Mammal) mothers produce [milk](https://en.wikipedia.org/wiki/Milk) to provide essential nutrients to newborn offspring.** This internal structural adaptation drastically increases early survival.
+
+![A female elk nursing her young. The production of milk is a physiological adaptation unique to mammals that guarantees newborn nutrition.](https://wikipedia.org/wiki/Special:Redirect/file/Wapiti_(01)_2006-09-19.JPG)
+
 3.  **Extreme Heating:** Look at the harshest environments. **[Emperor penguin](https://en.wikipedia.org/wiki/Emperor_penguin) parents huddle around their chicks to provide body heat in freezing environments.** It's a behavioral adaptation compensating for an extreme [climate](https://en.wikipedia.org/wiki/Climate).
+
+![Emperor penguins exhibit specialized parental behavior by huddling together to provide shared body heat and shelter for their chicks in freezing Antarctic climates.](https://wikipedia.org/wiki/Special:Redirect/file/Kaiserpinguine_mit_Jungen.jpg)
+
 4.  **Homeschooling Hunters:** Parenting isn't just about feeding; it's about teaching. **Adult [cheetahs](https://en.wikipedia.org/wiki/Cheetah) bring live [prey](https://en.wikipedia.org/wiki/Predation) to their cubs to teach the cubs [hunting skills](https://en.wikipedia.org/wiki/Hunting).** 
 
 ### How Offspring Ask for Help
@@ -67,6 +100,8 @@ What exactly *is* a life cycle?
 
 Children often view death as an accident—a mistake that happens because a predator attacked or a [disease](https://en.wikipedia.org/wiki/Disease) struck. As a teacher, you must frame death biologically. **Teaching plant and animal life cycles requires emphasizing the cyclic nature of species survival.** The individual must eventually die to make room, resources, and energy for the next generation. **Reproduction ensures the continuation of a [species](https://en.wikipedia.org/wiki/Species) despite the eventual death of individual organisms.** It is a beautiful, self-sustaining loop.
 
+![Death is a vital stage in any biological cycle; decomposing animal corpses are recycled by the ecosystem, providing energy and nutrients for the next generation of living organisms.](https://wikipedia.org/wiki/Special:Redirect/file/Male_Lion_and_Cub_Chitwa_South_Africa_Luca_Galuzzi_2004.JPG)
+
 ### Variations in Time
 Another trap students fall into: **students sometimes mistakenly believe that an organism's life cycle must take a long time.** 
 
@@ -82,12 +117,20 @@ Animals take different pathways to adulthood. The most magical of these is [meta
 | **Complete Metamorphosis** | **Involves a drastic anatomical change between the larval stage and the adult stage.** The organism completely dissolves and rebuilds itself. | **The life cycle of a butterfly involves four distinct stages known as complete metamorphosis:** <br>1. **Egg** <br>2. **Larva** (caterpillar) <br>3. **Pupa** (chrysalis) <br>4. **Adult** (butterfly). |
 | **Incomplete Metamorphosis** | **Consists of three life stages: egg, nymph, and adult.** The juvenile looks like a tiny, wingless version of the adult. | **A grasshopper is an example of an insect that undergoes incomplete metamorphosis.** |
 
+![A comparison between complete metamorphosis (holometabolous), where the larva drastically transforms into a distinct adult, and incomplete metamorphosis (hemimetabolous), where the nymph simply sheds its exoskeleton to become a larger adult.](https://wikipedia.org/wiki/Special:Redirect/file/Holometabolous_vs._Hemimetabolous.svg)
+
 Amphibians also do something spectacular. **The life cycle of a [frog](https://en.wikipedia.org/wiki/Frog) includes an aquatic [tadpole](https://en.wikipedia.org/wiki/Tadpole) stage with [gills](https://en.wikipedia.org/wiki/Gill)**, tying them to the water. But as they grow, they lose those internal structures; **adult frogs possess [lungs](https://en.wikipedia.org/wiki/Lung) for breathing atmospheric air** and move onto the land. 
+
+![The life cycle of a green frog illustrates the anatomical shift from fully aquatic tadpoles bearing gills to terrestrial adults breathing with lungs.](https://wikipedia.org/wiki/Special:Redirect/file/Greenfrog_life_stages.svg)
 
 And what about us? **Most mammal species give birth to [live young](https://en.wikipedia.org/wiki/Viviparity).** But nature loves an exception, which kids find delightful: **[Monotremes](https://en.wikipedia.org/wiki/Monotreme) are a unique group of mammals that lay eggs** (like the [platypus](https://en.wikipedia.org/wiki/Platypus) and [echidna](https://en.wikipedia.org/wiki/Echidna)).
 
+![The platypus is a monotreme, a unique type of mammal that defies typical mammalian life cycles by laying eggs instead of giving birth to live young.](https://wikipedia.org/wiki/Special:Redirect/file/Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg)
+
 ### Plant Reproduction (Beyond the Seed)
 When we teach plant life cycles, we usually start with the classic bean in a plastic cup. We teach that **the life cycle of a flowering plant typically begins with the [germination](https://en.wikipedia.org/wiki/Germination) of a [seed](https://en.wikipedia.org/wiki/Seed).** We explain that **[pollination](https://en.wikipedia.org/wiki/Pollination) is a necessary event for [sexual reproduction](https://en.wikipedia.org/wiki/Sexual_reproduction) in flowering plants**, allowing the flower to turn into a [fruit](https://en.wikipedia.org/wiki/Fruit) holding new seeds.
+
+![The standard developmental stages of seed germination, beginning with the emergence of the radicle (root) and eventually pushing up the cotyledon and true leaves.](https://wikipedia.org/wiki/Special:Redirect/file/Stages_of_germination_in_pea_plants.svg)
 
 But relying *only* on the bean-in-a-cup experiment creates a conceptual blind spot.
 
@@ -95,7 +138,12 @@ But relying *only* on the bean-in-a-cup experiment creates a conceptual blind sp
 
 You have to break this assumption! Introduce them to the rule-breakers:
 *   **[Ferns](https://en.wikipedia.org/wiki/Fern) and [mosses](https://en.wikipedia.org/wiki/Moss) reproduce by releasing [spores](https://en.wikipedia.org/wiki/Spore)**, acting much more like [fungi](https://en.wikipedia.org/wiki/Fungus) than flowering [oaks](https://en.wikipedia.org/wiki/Oak).
+
+![Fungi, along with non-flowering plants like ferns and mosses, reproduce by releasing massive quantities of airborne spores instead of utilizing seeds.](https://wikipedia.org/wiki/Special:Redirect/file/Puffballs_emitting_spores.jpg)
+
 *   **Some plants can reproduce [vegetatively](https://en.wikipedia.org/wiki/Vegetative_reproduction) from cuttings or [runners](https://en.wikipedia.org/wiki/Stolon).** Think of [strawberries](https://en.wikipedia.org/wiki/Strawberry) sending out horizontal vines (runners) to clone themselves, or a [potato](https://en.wikipedia.org/wiki/Potato) sprouting in the pantry. No seeds required!
+
+![Strawberry plants can bypass seeds entirely by reproducing vegetatively, sending out horizontal runners (stolons) to grow identical new plants.](https://wikipedia.org/wiki/Special:Redirect/file/Fragaria_hybrid_Lipstick.jpg)
 
 ### The Teacher's Takeaway
 When you stand in front of your classroom, remember that you are pulling back the curtain on the universe. Teach them that a [thorn](https://en.wikipedia.org/wiki/Thorns%2C_spines%2C_and_prickles) isn't just sharp; it's a silent weapon. A [nest](https://en.wikipedia.org/wiki/Bird_nest) isn't just twigs; it's an insulated nursery. And [death](https://en.wikipedia.org/wiki/Death) isn't a failure; it is the vital turning of the wheel that allows the whole magnificent system to keep running. Connect these structures, behaviors, and cycles into one cohesive story, and your students won't just learn [biology](https://en.wikipedia.org/wiki/Biology)—they'll learn to see the world differently.

@@ -2,9 +2,13 @@
 
 Imagine you are learning to drive a car with a [manual transmission](https://en.wikipedia.org/wiki/Manual_transmission) for the very first time. Your [brain](https://en.wikipedia.org/wiki/Brain) is entirely consumed by the mechanics: *Press the [clutch](https://en.wikipedia.org/wiki/Clutch). Shift the gear. Ease off the clutch. Press the gas.* If someone in the passenger seat asks you a complex question about [philosophy](https://en.wikipedia.org/wiki/Philosophy), you’d probably stall the car! Your [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) is maxed out just trying to operate the machine.
 
+![A standard shift pattern for a 5-speed manual transmission. Just as new drivers must consciously memorize these mechanical positions, early readers must dedicate their full cognitive capacity to sounding out individual letters.](https://wikipedia.org/wiki/Special:Redirect/file/Manual_Layout.svg)
+
 But what happens five years later? You shift gears automatically. You can debate philosophy, drink your [coffee](https://en.wikipedia.org/wiki/Coffee), and navigate traffic effortlessly. The mechanics have become invisible. 
 
 This is exactly what happens in a child's brain as they learn to read. **The [National Reading Panel](https://en.wikipedia.org/wiki/National_Reading_Panel) identified reading fluency as one of the five essential components of [reading instruction](https://en.wikipedia.org/wiki/Reading_instruction)** for a profound reason: **Fluency serves as the critical bridge between [word decoding](https://en.wikipedia.org/wiki/Word_recognition) and [reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension).** 
+
+![Functional imaging reveals the complex neural networks that activate during literacy acquisition. As a student's reading fluency increases, these pathways become highly automated, freeing up mental energy.](https://wikipedia.org/wiki/Special:Redirect/file/Brain_pathways_for_mirror_discrimination_learning_during_literacy_acquisition.jpg)
 
 When a student has to sound out every single letter, their mental energy is completely tapped out. **Poor reading fluency can cause students to forget the beginning of a sentence by the time the student reaches the end.** They might accurately decode the words "The," "dog," "barked," and "loudly," but they have no idea what the sentence means. By contrast, **high reading fluency frees up [cognitive resources](https://en.wikipedia.org/wiki/Cognition) for the reader to focus on text comprehension.** 
 
@@ -24,8 +28,12 @@ Many people mistakenly think "fluency" just means "reading fast." That is danger
 
 However, as a teacher, you must be incredibly careful here: **emphasizing extreme [reading speed](https://en.wikipedia.org/wiki/Speed_reading) can negatively impact a student's reading prosody and reading comprehension.** We don't want [auctioneers](https://en.wikipedia.org/wiki/Auctioneer); we want readers. The goal is an *appropriate* rate. In fact, **fluent readers actively adapt reading rates based on the complexity and purpose of the target text.** They slow down for a dense [science](https://en.wikipedia.org/wiki/Science) article and speed up for a lighthearted [comic strip](https://en.wikipedia.org/wiki/Comic_strip).
 
+![A plot tracking the eye movements (saccades and fixations) of a rapid reader. While fluent readers process text quickly, artificially pushing for extreme reading speeds often results in skipped words and a breakdown in comprehension.](https://wikipedia.org/wiki/Special:Redirect/file/Reading_Fixations_Saccades.jpg)
+
 ### 3. Prosody
 Prosody is the music of [spoken language](https://en.wikipedia.org/wiki/Spoken_language). **Prosody involves reading with appropriate expression, [intonation](https://en.wikipedia.org/wiki/Intonation_%28linguistics%29), pitch, and phrasing.** Without it, **a lack of reading fluency often manifests as slow, halting, or robotic-sounding [oral reading](https://en.wikipedia.org/wiki/Reading_aloud).** 
+
+![A visual representation of speech prosody, showing how pitch and periodic energy continuously fluctuate. These natural vocal variations give spoken language its "music," which fluent readers successfully replicate when reading text aloud.](https://wikipedia.org/wiki/Special:Redirect/file/SP_25_black_text.png)
 
 Prosody is composed of three interconnected elements:
 *   **[Phrasing](https://en.wikipedia.org/wiki/Phrase) is a component of prosody that involves grouping words together into meaningful [grammatical units](https://en.wikipedia.org/wiki/Constituent_%28linguistics%29).** (Instead of reading "The... big... brown... dog... ran," they read "The big brown dog [pause] ran.")
@@ -49,6 +57,8 @@ As a teacher, how do you know what your students are doing inside their heads? *
 Your primary tool is the running record. **A running record is a [formative assessment](https://en.wikipedia.org/wiki/Formative_assessment) tool used to analyze a student's reading accuracy and self-correction rate.** 
 
 While taking a running record, you aren't just counting errors; you are doing detective work. **[Miscue analysis](https://en.wikipedia.org/wiki/Miscue_analysis) involves analyzing a student's reading errors to understand the student's specific decoding struggles.** If the text says *horse* and the child reads *house*, they are struggling with medial [vowel](https://en.wikipedia.org/wiki/Vowel) teams. If they read *pony*, they are over-relying on picture clues and ignoring letter sounds.
+
+![Standard notation codes used by educators during a running record. These symbols allow teachers to document omissions, substitutions, and self-corrections in real-time as a student reads aloud.](https://wikipedia.org/wiki/Special:Redirect/file/Running_Record_Codes.png)
 
 ### The Three Levels of Text
 To improve fluency, you must put the right book in the student's hands. We categorize text into three distinct levels based on word recognition accuracy:
@@ -74,6 +84,8 @@ When a student gets stuck, they instinctively pull from three different toolboxe
 1.  **[Semantic](https://en.wikipedia.org/wiki/Semantics) context refers to using the meaning of surrounding words to determine a misread word.** (e.g., If they read "The [monkey](https://en.wikipedia.org/wiki/Monkey) climbed the *track*" instead of *tree*, semantic context tells them monkeys don't climb tracks).
 2.  **[Syntactic](https://en.wikipedia.org/wiki/Syntax) context involves using the [grammatical structure](https://en.wikipedia.org/wiki/Grammar) of a sentence to self-correct reading errors.** (e.g., They know a [noun](https://en.wikipedia.org/wiki/Noun) should follow an [adjective](https://en.wikipedia.org/wiki/Adjective), so reading a [verb](https://en.wikipedia.org/wiki/Verb) there sounds "wrong" to their ear).
 3.  **Graphophonic cues involve using letter-sound relationships to self-correct word recognition errors.** (e.g., "Wait, that word starts with a 'b', so it can't be *tree*.")
+
+![A constituency-based parse tree demonstrating how a sentence is broken into noun and verb phrases. When readers utilize syntactic context clues, they subconsciously rely on these underlying grammatical structures to realize when a misread word does not fit.](https://wikipedia.org/wiki/Special:Redirect/file/ParseTree.svg)
 
 ### The Self-Correction Rate Formula
 You can quantify a student's self-monitoring ability mathematically:
@@ -106,6 +118,8 @@ Instead, use these highly effective, active strategies. **Repeated oral reading 
 Reading fluency is wonderful for a paragraph, but what happens when a student has to read a 10-page [chapter](https://en.wikipedia.org/wiki/Chapter_%28books%29)? This is where [stamina](https://en.wikipedia.org/wiki/Endurance) comes in.
 
 **Reading stamina is a student's ability to focus and read independently for sustained periods of time.** 
+
+![An animation of eye fixations progressing through text. Maintaining this steady, focused visual tracking and cognitive processing over long periods requires significant reading stamina.](https://wikipedia.org/wiki/Special:Redirect/file/EyeFixationsReading.gif)
 
 Why is this essential? Beyond fostering a lifelong love of books, **silent reading stamina is critical for completing [standardized assessments](https://en.wikipedia.org/wiki/Standardized_test) and long-form reading assignments.** If a student's stamina gives out at minute 15, they will fail a 60-minute reading test regardless of their decoding skills.
 

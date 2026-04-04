@@ -24,6 +24,8 @@ When you take your class on a [field trip](https://en.wikipedia.org/wiki/Field_t
 
 You must correct this! Over millions of years, [water](https://en.wikipedia.org/wiki/Water) seeping through the [ground](https://en.wikipedia.org/wiki/Groundwater) carries minerals that slowly replace the [calcium](https://en.wikipedia.org/wiki/Calcium) in the bones, [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29) by cell. What remains is a [rock](https://en.wikipedia.org/wiki/Rock_%28geology%29) shaped exactly like the original bone. 
 
+![Although a museum skeleton looks like bone, the original organic material has been completely replaced by minerals over millions of years.](https://wikipedia.org/wiki/Special:Redirect/file/FMNH_SUE_Trex.jpg)
+
 ### Body Fossils vs. Trace Fossils
 
 There are two main chapters in our Earth scrapbook. You'll want to teach your students to distinguish between them:
@@ -33,11 +35,15 @@ There are two main chapters in our Earth scrapbook. You'll want to teach your st
 | **[Body Fossils](https://en.wikipedia.org/wiki/Fossil)** | **Body fossils are the preserved remains of the actual organism.** | **[Bones](https://en.wikipedia.org/wiki/Bone), [shells](https://en.wikipedia.org/wiki/Seashell), and [teeth](https://en.wikipedia.org/wiki/Tooth) are examples of body fossils.** |
 | **[Trace Fossils](https://en.wikipedia.org/wiki/Trace_fossil)** | **Trace fossils are preserved records of biological activity.** They show us *[behavior](https://en.wikipedia.org/wiki/Behavior)*, not the body itself. | **[Footprints](https://en.wikipedia.org/wiki/Footprint), [burrows](https://en.wikipedia.org/wiki/Burrow), and [coprolites](https://en.wikipedia.org/wiki/Coprolite) are examples of trace fossils.** (Pro-tip: "Coprolites" is fossilized [poop](https://en.wikipedia.org/wiki/Feces). Tell your 3rd graders this, and you'll have their undivided attention for the rest of the year!) |
 
+![Trace fossils, such as this fossilized carnivore coprolite (feces), preserve records of biological activity and behavior rather than the organism's physical body.](https://wikipedia.org/wiki/Special:Redirect/file/Tyrannosaurus_rex_Coprolite_Poozeum.jpg)
+
 ### Reading the Layers: Sedimentary Rock
 
 How do we know how old these clues are? Nature files her paperwork [chronologically](https://en.wikipedia.org/wiki/Chronology). **[Sedimentary rock](https://en.wikipedia.org/wiki/Sedimentary_rock) layers help scientists determine the [relative ages](https://en.wikipedia.org/wiki/Relative_dating) of fossils.** The rule is beautifully simple: **older sedimentary rock layers are naturally [deposited](https://en.wikipedia.org/wiki/Deposition_%28geology%29) beneath younger sedimentary rock layers.** If you find a [trilobite](https://en.wikipedia.org/wiki/Trilobite) in the bottom layer and a fish in the top layer, the trilobite is older.
 
 These layers also tell us about ancient, shifting [landscapes](https://en.wikipedia.org/wiki/Landscape). For instance, **the presence of [marine fossils](https://en.wikipedia.org/wiki/Marine_life) on dry mountainsides indicates that the specific landmass was once completely submerged underwater.** When your students find fossilized seashells at the top of a hiking trail, you can blow their minds by explaining they are standing on the floor of an ancient [ocean](https://en.wikipedia.org/wiki/Ocean)!
+
+![Sedimentary rock layers act as a chronological scrapbook. The lowest layers represent the oldest environments, while upper layers hold younger fossils.](https://wikipedia.org/wiki/Special:Redirect/file/SEUtahStrat.JPG)
 
 ---
 
@@ -53,6 +59,8 @@ It starts with a simple fact: **organisms within the exact same [species](https:
 
 These aren't superpowers; they are random [genetic](https://en.wikipedia.org/wiki/Genetics) rolls of the dice. However, in the brutal arithmetic of the wild, **variations in physical characteristics can provide a [survival advantage](https://en.wikipedia.org/wiki/Fitness_%28biology%29) within a specific environment.** Furthermore, **variations in physical characteristics can provide a [reproductive advantage](https://en.wikipedia.org/wiki/Differential_reproduction) within a specific environment.** If a [female](https://en.wikipedia.org/wiki/Female) bird prefers [males](https://en.wikipedia.org/wiki/Male) with brighter [feathers](https://en.wikipedia.org/wiki/Feather), a bright-feathered male has a reproductive advantage, even if his colors make him easier for [predators](https://en.wikipedia.org/wiki/Predation) to spot!
 
+![Natural variation within a single species, such as the different coloration in these peppered moths, provides the genetic raw material for natural selection to act upon.](https://wikipedia.org/wiki/Special:Redirect/file/Lichte_en_zwarte_versie_berkenspanner_crop.jpg)
+
 ### The [Statistical](https://en.wikipedia.org/wiki/Statistics) Reality of Evolution
 
 Here is the beating heart of Darwin's theory: **Individuals possessing advantageous [traits](https://en.wikipedia.org/wiki/Phenotypic_trait) are statistically more likely to [survive and reproduce](https://en.wikipedia.org/wiki/Reproduction).** 
@@ -65,6 +73,8 @@ When teaching natural selection, you must aggressively guard against two deeply 
 
 > **Misconception 1: The "Trying" Myth.** A common elementary student misconception is that individual organisms [intentionally](https://en.wikipedia.org/wiki/Teleology_in_biology) change their physical traits to survive. 
 *How to fix it:* [Giraffes](https://en.wikipedia.org/wiki/Giraffe) did not "[stretch their necks](https://en.wikipedia.org/wiki/Lamarckism)" because they *wanted* to reach higher leaves. Giraffes that *happen* to be born with randomly longer necks got more food, survived, and had more babies than the short-necked ones. Nature has no intent.
+
+![Addressing the "trying" myth: Giraffes did not acquire long necks by intentionally stretching. Random genetic variations for longer necks simply provided a survival and reproductive advantage.](https://wikipedia.org/wiki/Special:Redirect/file/Giraffe_feeding%2C_Tanzania.jpg)
 
 > **Misconception 2: The "Perfection" Myth.** A common elementary student misconception is that evolution means a species is constantly [progressing toward absolute perfection](https://en.wikipedia.org/wiki/Orthogenesis).
 *How to fix it:* Evolution isn't building the "perfect" animal; it’s just building an animal that is "good enough" to survive *right now*. If the environment changes, what was "perfect" yesterday might get you killed tomorrow.
@@ -83,6 +93,8 @@ Adaptations come in two flavors:
    * *Example:* **A bird's specific [beak](https://en.wikipedia.org/wiki/Beak) shape is an example of a physical adaptation for acquiring food.** A [pelican](https://en.wikipedia.org/wiki/Pelican) has a scoop for fish; a [hummingbird](https://en.wikipedia.org/wiki/Hummingbird) has a straw for [nectar](https://en.wikipedia.org/wiki/Nectar). 
 2. **[Behavioral adaptations](https://en.wikipedia.org/wiki/Ethology) involve actions an organism takes to survive.**
    * *Example:* **Seasonal [bird migration](https://en.wikipedia.org/wiki/Bird_migration) is an example of a behavioral adaptation.** Nobody teaches a [goose](https://en.wikipedia.org/wiki/Goose) to fly south; the [instinct](https://en.wikipedia.org/wiki/Instinct) is hardwired into their genetics.
+
+![A comparison of bird beaks illustrates how specific physical adaptations correspond directly to the unique environmental challenges and food sources of an organism.](https://wikipedia.org/wiki/Special:Redirect/file/BirdBeaksA.svg)
 
 ### Pedagogical Strategies for the Classroom
 
@@ -103,6 +115,8 @@ Here is a semantic trap your students will fall into, and you need to be ready f
 | **[Acclimation](https://en.wikipedia.org/wiki/Acclimatization)** | Temporary, physical adjustment happening to an **individual** within its own lifetime. | A [dog](https://en.wikipedia.org/wiki/Dog) grows a slightly thicker coat in the [winter](https://en.wikipedia.org/wiki/Winter) and sheds it in the [summer](https://en.wikipedia.org/wiki/Summer). |
 
 If a student says, "I adapted to the cold room by putting on a [sweater](https://en.wikipedia.org/wiki/Sweater)," you must gently correct them: "You *acclimated* to the room! Adapting would mean your great-great-great grandchildren are born wearing sweaters!"
+
+![The specialized blubber and fur of a polar bear represent population-level evolutionary adaptations developed over countless generations, not an individual's short-term acclimation.](https://wikipedia.org/wiki/Special:Redirect/file/Polar_Bear_AdF.jpg)
 
 ---
 
@@ -131,6 +145,8 @@ Because environments *do* change, nature has an insurance policy: Biodiversity. 
 Why does this matter? Imagine a forest where every single [tree](https://en.wikipedia.org/wiki/Tree) is the exact same species of [pine](https://en.wikipedia.org/wiki/Pine). If a [disease](https://en.wikipedia.org/wiki/Plant_pathology) comes along that specifically attacks that pine, the entire forest dies. The [ecosystem collapses](https://en.wikipedia.org/wiki/Ecosystem_collapse). 
 
 Now, imagine a forest with pines, [oaks](https://en.wikipedia.org/wiki/Oak), [maples](https://en.wikipedia.org/wiki/Maple), [ferns](https://en.wikipedia.org/wiki/Fern), and [mosses](https://en.wikipedia.org/wiki/Moss). If the pine disease hits, the pines might die, but the oaks and maples stand strong. The birds still have branches, the squirrels still have [acorns](https://en.wikipedia.org/wiki/Acorn). **High biodiversity generally increases the [resilience](https://en.wikipedia.org/wiki/Ecological_resilience) of an ecosystem to sudden environmental changes.** 
+
+![Ecosystems with high biodiversity, such as tropical rainforests, contain a wide variety of species, making the entire biological community significantly more resilient to environmental changes and disease.](https://wikipedia.org/wiki/Special:Redirect/file/Amazon_Manaus_forest.jpg)
 
 ## Bringing It All Together
 

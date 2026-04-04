@@ -21,6 +21,8 @@ Let’s look at two men who practically built the modern American [economy](http
 > A **monopoly** occurs when a single [company](https://en.wikipedia.org/wiki/Company) completely controls an entire [industry](https://en.wikipedia.org/wiki/Industry). 
 > *Teaching Tip:* Ask your students to imagine playing the [board game](https://en.wikipedia.org/wiki/Board_game) *[Monopoly](https://en.wikipedia.org/wiki/Monopoly_%28game%29)*. What happens when one player owns all the properties on the board? They get to set the prices as high as they want, and everyone else goes broke. That’s exactly what Americans feared these [corporations](https://en.wikipedia.org/wiki/Corporation) were doing!
 
+![A 1904 political cartoon depicting John D. Rockefeller's Standard Oil Company as a massive octopus. This visual helps students understand the public fear of monopolies controlling entire industries and governments.](https://wikipedia.org/wiki/Special:Redirect/file/Standard_oil_octopus_loc_color.jpg)
+
 Meanwhile, **Andrew Carnegie dominated the American [steel industry](https://en.wikipedia.org/wiki/History_of_the_steel_industry_%281850%E2%80%931970%29) during the late nineteenth century**. [Steel](https://en.wikipedia.org/wiki/Steel) was the magic ingredient of the era—it built the [railroads](https://en.wikipedia.org/wiki/History_of_rail_transport_in_the_United_States), the [bridges](https://en.wikipedia.org/wiki/Bridge), and the [skyscrapers](https://en.wikipedia.org/wiki/Skyscraper).
 
 ### How Did They Do It? (The Strategies)
@@ -31,12 +33,16 @@ Rockefeller and Carnegie used two brilliant, albeit cutthroat, [business strateg
 | **[Horizontal Integration](https://en.wikipedia.org/wiki/Horizontal_integration)** | A business strategy involving the [acquisition](https://en.wikipedia.org/wiki/Mergers_and_acquisitions) of competing companies within the same industry. | You buy out every single rival pizza shop in town. Now, you are the only place to buy [pizza](https://en.wikipedia.org/wiki/Pizza). | Rockefeller (buying rival [oil refineries](https://en.wikipedia.org/wiki/Oil_refinery)). |
 | **[Vertical Integration](https://en.wikipedia.org/wiki/Vertical_integration)** | A business strategy involving the control of all steps in the [manufacturing](https://en.wikipedia.org/wiki/Manufacturing) process of a product. | You buy the [dairy farm](https://en.wikipedia.org/wiki/Dairy_farming) for the [cheese](https://en.wikipedia.org/wiki/Cheese), the [wheat fields](https://en.wikipedia.org/wiki/Wheat) for the [dough](https://en.wikipedia.org/wiki/Dough), and the delivery trucks. You control the whole process! | Carnegie. **Andrew Carnegie used vertical integration to control [iron mines](https://en.wikipedia.org/wiki/Iron_ore), railroads, and [steel mills](https://en.wikipedia.org/wiki/Steel_mill).** |
 
+![A simple flowchart diagram contrasting horizontal integration (acquiring competitors in the same industry layer) with vertical integration (owning multiple steps of the production and supply chain).](https://wikipedia.org/wiki/Special:Redirect/file/Integration_in_English.svg)
+
 ### Heroes or Villains?
 Because of these tactics, [public opinion](https://en.wikipedia.org/wiki/Public_opinion) was split. 
 *   **[Robber Baron](https://en.wikipedia.org/wiki/Robber_baron_%28industrialist%29)**: This term describes powerful nineteenth-century [industrialists](https://en.wikipedia.org/wiki/Industrialist) who allegedly used ruthless business practices to amass wealth. 
 *   **[Captain of Industry](https://en.wikipedia.org/wiki/Captain_of_industry)**: Conversely, this term describes wealthy [entrepreneurs](https://en.wikipedia.org/wiki/Entrepreneurship) whose business building contributed positively to the economic growth of the country.
 
 > **Pedagogical Goldmine:** Have your students [debate](https://en.wikipedia.org/wiki/Debate) these two terms! To add nuance, introduce the concept of **[philanthropy](https://en.wikipedia.org/wiki/Philanthropy)**, which involves donating large amounts of personal wealth to [charitable](https://en.wikipedia.org/wiki/Charitable_organization) causes. Before he died, **Andrew Carnegie donated millions of dollars to build [public libraries](https://en.wikipedia.org/wiki/Carnegie_library) across the United States.** Was he a Robber Baron who exploited workers, or a Captain of Industry who built America and gave back? It's a fantastic [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking) exercise for upper elementary students.
+
+![The Carnegie Free Library in Braddock, Pennsylvania, built in 1888. Showing students tangible philanthropic projects complicates the legacy of Gilded Age industrialists.](https://wikipedia.org/wiki/Special:Redirect/file/BCL_1024x768.jpg)
 
 ---
 
@@ -51,10 +57,14 @@ When teaching this, ground it in the physical senses. Tell your students to imag
 *   **Late nineteenth-century tenements typically lacked adequate [ventilation](https://en.wikipedia.org/wiki/Ventilation_%28architecture%29).** Fresh air was a luxury.
 *   **Late nineteenth-century tenements usually lacked sufficient [indoor plumbing](https://en.wikipedia.org/wiki/Plumbing).** Imagine an entire floor of families sharing a single bucket or an [outhouse](https://en.wikipedia.org/wiki/Outhouse) in the alley. 
 
+![Looking down the narrow airshaft of a New York City dumbbell tenement around 1900. This perspective emphasizes the cramped, dark, and poorly ventilated conditions urban immigrants endured.](https://wikipedia.org/wiki/Special:Redirect/file/Airshaft_of_a_dumbbell_tenement%2C_New_York_City%2C_taken_from_the_roof%2C_ca._1900_-_NARA_-_535468.jpg)
+
 ### Jacob Riis and Visual Empathy
 The wealthy folks living on the nice side of town had no idea this was happening. It took a [muckraking](https://en.wikipedia.org/wiki/Muckraker) [journalist](https://en.wikipedia.org/wiki/Journalism) to open their eyes. **[Jacob Riis](https://en.wikipedia.org/wiki/Jacob_Riis) published the [photojournalism](https://en.wikipedia.org/wiki/Photojournalism) book *[How the Other Half Lives](https://en.wikipedia.org/wiki/How_the_Other_Half_Lives)* in 1890.** This groundbreaking book **documented the harsh living conditions in [New York City](https://en.wikipedia.org/wiki/New_York_City) [slums](https://en.wikipedia.org/wiki/Slum).**
 
 > *Teaching Tip:* Don't just lecture about Jacob Riis—*show* his [photographs](https://en.wikipedia.org/wiki/Photography). Elementary students are highly [visual learners](https://en.wikipedia.org/wiki/Visual_learning). Showing them the [flash-photography](https://en.wikipedia.org/wiki/Flash_%28photography%29) images of barefoot children sleeping on city grates builds immediate historical empathy. 
+
+![A flash photograph taken by Jacob Riis around 1890 showing homeless children sleeping on a city grate. Showing students raw visual evidence like this builds immediate historical empathy.](https://wikipedia.org/wiki/Special:Redirect/file/Sleeping%2C_homeless_children_-_Jacob_Riis.jpg)
 
 ---
 
@@ -67,6 +77,8 @@ Here is where your students will lean in: **Many late nineteenth-century factori
 
 Make this relatable. Look around your classroom of 10-year-olds and tell them, "If we lived in 1895, half of you wouldn't be in school right now. You’d be in a [coal mine](https://en.wikipedia.org/wiki/Coal_mining) or a [textile mill](https://en.wikipedia.org/wiki/Textile_manufacturing)." 
 *   **Factory conditions for [child laborers](https://en.wikipedia.org/wiki/Child_labor) included long working hours and exposure to dangerous machinery.** Children were actually prized because their tiny fingers could reach into jammed, moving gears—a terrifying and often tragic reality.
+
+![Young "breaker boys" sorting coal in a Pennsylvania mine in 1911. Images of children in soot-covered industrial settings make the realities of late 19th-century labor visually undeniable.](https://wikipedia.org/wiki/Special:Redirect/file/Pennsylvania_breaker_boys_1911.jpg)
 
 ### Pushing Back: The Rise of Unions
 Workers eventually realized that while a single individual could easily be fired, a united group could not be ignored. Thus, **[labor unions](https://en.wikipedia.org/wiki/Trade_union) formed to advocate for better wages, safer working conditions, and shorter working hours for employees.** 
@@ -95,6 +107,8 @@ During the New Immigration wave, **many individuals came from countries like [It
 ### Processing and Prejudice
 Where did these millions of New Immigrants arrive? **[Ellis Island](https://en.wikipedia.org/wiki/Ellis_Island) opened as a federal immigration processing station in [New York Harbor](https://en.wikipedia.org/wiki/New_York_Harbor) in 1892.** Before they could start their new lives, **millions of European immigrants were medically and legally inspected at Ellis Island before entering the United States.** [Doctors](https://en.wikipedia.org/wiki/Physician) would literally chalk symbols on their coats if they suspected a [disease](https://en.wikipedia.org/wiki/Disease)!
 
+![Newly arrived immigrants disembarking at Ellis Island in 1902. Millions of individuals passed through this facility, undergoing medical and legal processing before entering the United States.](https://wikipedia.org/wiki/Special:Redirect/file/Ellis_island_1902.jpg)
+
 Unfortunately, the welcome wasn't always warm. This era saw a sharp rise in **[nativism](https://en.wikipedia.org/wiki/Nativism_%28politics%29), which is a political policy or sentiment that favors native-born inhabitants over immigrants.** Driven by fear of job competition and cultural differences, **nativist sentiment in the late nineteenth century led to [discrimination](https://en.wikipedia.org/wiki/Discrimination) against newly arrived Southern and Eastern European immigrants.**
 
 ### Finding a Foothold
@@ -104,10 +118,14 @@ To help them survive and assimilate, [social reformers](https://en.wikipedia.org
 
 The most famous pioneer of this movement was **[Jane Addams](https://en.wikipedia.org/wiki/Jane_Addams), who co-founded [Hull House](https://en.wikipedia.org/wiki/Hull_House) in [Chicago](https://en.wikipedia.org/wiki/Chicago) in 1889.** Addams was a true hero of the [Progressive Era](https://en.wikipedia.org/wiki/Progressive_Era). **Hull House served as a prominent settlement house offering [English classes](https://en.wikipedia.org/wiki/English_as_a_second_or_foreign_language) and [childcare](https://en.wikipedia.org/wiki/Child_care) to immigrant families**, giving them the tools they needed to build a life in their new country.
 
+![The Jane Addams Hull House in Chicago. As a pioneering settlement house, it became a cornerstone for immigrants needing social services, childcare, and educational resources.](https://wikipedia.org/wiki/Special:Redirect/file/UIC_Hull_House.JPG)
+
 ---
 
 ### Final Thoughts for the Classroom
 
 When you are standing in front of your class, remember that the late 19th and early 20th centuries aren't just a list of vocabulary words. It is a spectacular story of transformation! It's the story of Carnegie's steel reaching for the sky, Riis's [camera](https://en.wikipedia.org/wiki/Camera) flashing in the dark tenements, children fighting for the right to go to school instead of the factory, and millions of immigrants bravely passing through Ellis Island to chase the [American Dream](https://en.wikipedia.org/wiki/American_Dream).
+
+![The Statue of Liberty in New York Harbor. For millions of immigrants arriving by sea, this iconic statue was their first glimpse of the United States and came to symbolize the hope of the American Dream.](https://wikipedia.org/wiki/Special:Redirect/file/Statueofliberty.JPG)
 
 Master these narratives, understand *why* they happened, and you won't just pass your Content Knowledge exam—you will profoundly inspire the next generation of students!

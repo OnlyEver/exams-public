@@ -18,6 +18,10 @@ If a student opens a map, they are suddenly bombarded with lines, colors, and [s
 2.  **A [compass rose](https://en.wikipedia.org/wiki/Compass_rose)** indicates the [cardinal directions](https://en.wikipedia.org/wiki/Cardinal_direction) of [North](https://en.wikipedia.org/wiki/North), [South](https://en.wikipedia.org/wiki/South), [East](https://en.wikipedia.org/wiki/East), and [West](https://en.wikipedia.org/wiki/West) on a map. 
 3.  **A [map scale](https://en.wikipedia.org/wiki/Scale_%28map%29)** represents the proportional relationship between a measured distance on the map and the actual distance on Earth. Without a scale, a student might think it only takes five minutes to walk across [Texas](https://en.wikipedia.org/wiki/Texas)!
 
+![A compass rose anchors the map by visually indicating the cardinal directions, preventing students from confusing "North" with "Up."](https://wikipedia.org/wiki/Special:Redirect/file/Brosen_windrose.svg)
+
+![A graphic map scale provides the proportional relationship between the model and reality, helping students translate measured distance on paper to actual distance on the ground.](https://wikipedia.org/wiki/Special:Redirect/file/Map_scale_-_8km%2C_5mi.png)
+
 > **🚨 The "Up" Misconception!**
 > Elementary students often incorrectly assume that the top of a map always represents a higher physical [elevation](https://en.wikipedia.org/wiki/Elevation) rather than the cardinal direction North. Because maps hang on walls, kids internalize "top = up." When [rivers](https://en.wikipedia.org/wiki/River) flow South on a map, a child will say the river is "flowing down." You must explicitly teach that North is a *direction on the ground*, not a path into the [sky](https://en.wikipedia.org/wiki/Sky)!
 
@@ -33,6 +37,8 @@ Different questions require different maps. Your students need to recognize thre
 Let's look closer at the **topographical map**. This one melts students' brains because it asks them to see 3D shapes in 2D lines. The secret is all in the spacing of the **contour lines**:
 *   **Closer contour lines** on a topographical map indicate a steeper geographical [slope](https://en.wikipedia.org/wiki/Grade_%28slope%29). (The pancakes are stacked right on top of each other!)
 *   **Widely spaced contour lines** on a topographical map indicate a gentle slope or relatively [flat land](https://en.wikipedia.org/wiki/Plain). (The pancakes are spread out!)
+
+![This diagram demonstrates how 3D elevation is translated into 2D contour lines. Notice how the lines cluster closely together where the slope is steepest.](https://wikipedia.org/wiki/Special:Redirect/file/Courbe_niveau.svg)
 
 ---
 
@@ -58,6 +64,8 @@ How do we fix this? Let's break it down logically.
 *   **The Anchor:** **The Prime Meridian is the central line of longitude located at exactly zero degrees.** 
 *   **The Division:** **The Prime Meridian divides the Earth into the [Eastern Hemisphere](https://en.wikipedia.org/wiki/Eastern_Hemisphere) and the [Western Hemisphere](https://en.wikipedia.org/wiki/Western_Hemisphere).**
 
+![The geographic coordinate system overlays an invisible grid of horizontal latitude lines and vertical longitude lines onto the Earth's spherical shape to pinpoint absolute location.](https://wikipedia.org/wiki/Special:Redirect/file/Latitude_and_longitude_graticule_on_a_sphere.svg)
+
 ### The Time Travel Trick: The International Date Line
 If you travel east, time gets later. If you travel west, time gets earlier. But what happens if you just keep going? The Earth is round; you can't go back in time forever! We needed a reset button. 
 
@@ -66,6 +74,8 @@ Enter the **[International Date Line](https://en.wikipedia.org/wiki/Internationa
 This is where the magic happens:
 *   **Crossing the International Date Line from west to east requires subtracting exactly one day from the [calendar](https://en.wikipedia.org/wiki/Calendar).** (Imagine flying from [Tokyo](https://en.wikipedia.org/wiki/Tokyo), [Japan](https://en.wikipedia.org/wiki/Japan) to [Hawaii](https://en.wikipedia.org/wiki/Hawaii). You just went "back in time" to yesterday!)
 *   **Crossing the International Date Line from east to west requires adding exactly one day to the calendar.** (Imagine flying from [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) to [Sydney](https://en.wikipedia.org/wiki/Sydney), [Australia](https://en.wikipedia.org/wiki/Australia). Welcome to tomorrow!)
+
+![The International Date Line zig-zags through the Pacific Ocean around the 180° longitude mark, serving as the official start and end point for calendar days.](https://wikipedia.org/wiki/Special:Redirect/file/International_Date_Line.png)
 
 ---
 
@@ -78,6 +88,10 @@ Earth's surface is a masterpiece, carved by water, [rock](https://en.wikipedia.o
 *   **An [isthmus](https://en.wikipedia.org/wiki/Isthmus)** is a narrow strip of land connecting two much larger landmasses. *(Think of [Panama](https://en.wikipedia.org/wiki/Panama) acting as a narrow [land-bridge](https://en.wikipedia.org/wiki/Land_bridge) holding North and South America together.)*
 *   **A [strait](https://en.wikipedia.org/wiki/Strait)** is a naturally formed, narrow body of water connecting two larger bodies of water. *(The [Strait of Gibraltar](https://en.wikipedia.org/wiki/Strait_of_Gibraltar) connects the [Mediterranean Sea](https://en.wikipedia.org/wiki/Mediterranean_Sea) to the [Atlantic Ocean](https://en.wikipedia.org/wiki/Atlantic_Ocean) like a watery hallway.)*
 *   **A [delta](https://en.wikipedia.org/wiki/River_delta)** is a triangular landform created by the [deposition](https://en.wikipedia.org/wiki/Deposition_%28geology%29) of [sediment](https://en.wikipedia.org/wiki/Sediment) at the [mouth of a river](https://en.wikipedia.org/wiki/River_mouth). *(As a river hits the ocean, it gets tired, slows down, and drops all the mud it was carrying, fanning out like a triangle.)*
+
+![The Strait of Gibraltar connects the Mediterranean Sea to the Atlantic Ocean, acting as a naturally formed, narrow watery hallway between the landmasses of Europe and Africa.](https://wikipedia.org/wiki/Special:Redirect/file/ISS-44_Strait_of_Gibraltar.jpg)
+
+![A satellite view of the Nile Delta in false color, beautifully illustrating how the river fans out into a triangular shape as it drops its sediment load into the sea.](https://wikipedia.org/wiki/Special:Redirect/file/Nile_delta_landsat_false_color.jpg)
 
 ---
 
@@ -103,12 +117,18 @@ Nature can be violent and immediate.
 *   **[Volcanic eruptions](https://en.wikipedia.org/wiki/Volcanic_eruption)** cause rapid physical changes to the landscape by instantly depositing massive volumes of new [lava](https://en.wikipedia.org/wiki/Lava) and [ash](https://en.wikipedia.org/wiki/Volcanic_ash). A mountain can blow its top off in a single afternoon!
 *   **[Landslides](https://en.wikipedia.org/wiki/Landslide)** cause short-term physical changes by quickly moving large amounts of earth and rock down a steep slope, completely reshaping a hillside in seconds.
 
+![Volcanic eruptions, like this explosive event at Tavurvur, demonstrate how the Earth's surface can undergo dramatic and violent physical changes in a matter of hours.](https://wikipedia.org/wiki/Special:Redirect/file/Tavurvur_volcano_edit.jpg)
+
 #### Long-Term Physical Changes (The Slow Stuff)
 Most of the Earth's grandeur is the result of unfathomable patience.
 *   **[Plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)** is the long-term geological process of the Earth's solid [lithospheric](https://en.wikipedia.org/wiki/Lithosphere) plates shifting over the molten [mantle](https://en.wikipedia.org/wiki/Mantle_%28geology%29). Kids think the ground is solid; you get to blow their minds by telling them we are surfing on rock-rafts over a sea of [magma](https://en.wikipedia.org/wiki/Magma)!
 *   **The gradual collision of tectonic plates over millions of years creates long-term physical changes such as new [mountain ranges](https://en.wikipedia.org/wiki/Mountain_range).** The [Himalayas](https://en.wikipedia.org/wiki/Himalayas) are just two plates moving in slow-motion toward each other, crumpling upward.
 *   **[Glaciation](https://en.wikipedia.org/wiki/Glaciation)** is a long-term physical change where massive moving [ice sheets](https://en.wikipedia.org/wiki/Ice_sheet) permanently reshape the land by carving deep [valleys](https://en.wikipedia.org/wiki/Valley). (Glaciers act like giant, slow-moving ice-bulldozers).
 *   **Rivers cause long-term physical changes to the Earth by gradually carving deep [canyons](https://en.wikipedia.org/wiki/Canyon) into the [bedrock](https://en.wikipedia.org/wiki/Bedrock) over millions of years.** Just look at the [Grand Canyon](https://en.wikipedia.org/wiki/Grand_Canyon): the [Colorado River](https://en.wikipedia.org/wiki/Colorado_River) is a patient artist that has been cutting through rock drop by drop.
+
+![Earth's rigid lithosphere is fractured into massive tectonic plates that slowly surf over the molten mantle, driving long-term geological changes like mountain building.](https://wikipedia.org/wiki/Special:Redirect/file/Plates_tect2_en.svg)
+
+![The Grand Canyon is a masterpiece of long-term weathering and erosion, gradually carved out over millions of years by the persistent flow of the Colorado River.](https://wikipedia.org/wiki/Special:Redirect/file/Grand_Canyon_from_air.JPG)
 
 ***
 

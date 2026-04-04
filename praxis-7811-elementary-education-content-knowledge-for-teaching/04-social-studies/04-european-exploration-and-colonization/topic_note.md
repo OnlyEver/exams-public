@@ -22,6 +22,8 @@ If you want to explain this to a fifth grader, tell them mercantilism is a rigge
 ### The Search for a Shortcut
 In the late 1400s, Europe desperately wanted trade goods from [Asia](https://en.wikipedia.org/wiki/Asia), but the overland routes were blocked or highly taxed. This led to a famous navigational error: **[Christopher Columbus](https://en.wikipedia.org/wiki/Christopher_Columbus) reached the [Americas](https://en.wikipedia.org/wiki/Americas) in [1492](https://en.wikipedia.org/wiki/1492) while seeking a western sea route to Asia.** He didn't know a massive continent was in the way!
 
+![Map of Christopher Columbus's four voyages to the Americas between 1492 and 1503, illustrating his path across the Atlantic in search of Asia.](https://wikipedia.org/wiki/Special:Redirect/file/Viajes_de_colon_en.svg)
+
 Once Europeans realized the Americas were not Asia, they started looking for a way *through* them. Enter the **[Northwest Passage](https://en.wikipedia.org/wiki/Northwest_Passage)**, which was a theorized sea route across [North America](https://en.wikipedia.org/wiki/North_America) connecting the [Atlantic](https://en.wikipedia.org/wiki/Atlantic_Ocean) and [Pacific Oceans](https://en.wikipedia.org/wiki/Pacific_Ocean). This mythical shortcut was the golden ticket. In fact, the search for the Northwest Passage drove much of the early French, Dutch, and English exploration of North America. 
 
 Let's look at the early claimants who mapped this new world:
@@ -48,7 +50,11 @@ France, meanwhile, was far to the north where agriculture was tough. Therefore, 
 ### The Columbian Exchange
 Regardless of whether Europeans came to conquer or trade, they brought an invisible passenger. The **[Columbian Exchange](https://en.wikipedia.org/wiki/Columbian_exchange)** involved the widespread transfer of [plants](https://en.wikipedia.org/wiki/Plant), [animals](https://en.wikipedia.org/wiki/Animal), [culture](https://en.wikipedia.org/wiki/Culture), and [diseases](https://en.wikipedia.org/wiki/Disease) between the Americas and the [Old World](https://en.wikipedia.org/wiki/Old_World). 
 
+![Diagram illustrating the Columbian Exchange, showing the specific plants, animals, and diseases transferred between the Old World and the Americas.](https://wikipedia.org/wiki/Special:Redirect/file/BRI_Columbian_Exchange.jpg)
+
 We got [tomatoes](https://en.wikipedia.org/wiki/Tomato), [potatoes](https://en.wikipedia.org/wiki/Potato), and [corn](https://en.wikipedia.org/wiki/Maize). [Europe](https://en.wikipedia.org/wiki/Europe) brought [horses](https://en.wikipedia.org/wiki/Horse), [wheat](https://en.wikipedia.org/wiki/Wheat), and, devastatingly, [pathogens](https://en.wikipedia.org/wiki/Pathogen). [European diseases](https://en.wikipedia.org/wiki/Virgin_soil_epidemic) introduced through the Columbian Exchange decimated Native American populations due to a lack of [natural immunity](https://en.wikipedia.org/wiki/Immunity_%28medical%29). This demographic collapse is one of the most vital—and tragic—turning points in human history.
+
+![A 16th-century illustration from the Florentine Codex depicting Nahua people suffering from smallpox, a devastating disease introduced by Europeans.](https://wikipedia.org/wiki/Special:Redirect/file/FlorentineCodex_BK12_F54_smallpox.jpg)
 
 ---
 
@@ -59,6 +65,8 @@ England was late to the colonization party. Their first attempt was **[Roanoke](
 Learning from Roanoke, the English tried again. **[Jamestown](https://en.wikipedia.org/wiki/Jamestown%2C_Virginia)** became the first permanent English settlement in North America, established in [Virginia](https://en.wikipedia.org/wiki/Colony_of_Virginia) in **[1607](https://en.wikipedia.org/wiki/1607)**. But Jamestown was a disaster at first—built on a swamp and filled with gentlemen who refused to farm. 
 
 What saved Jamestown? A weed. **[John Rolfe](https://en.wikipedia.org/wiki/John_Rolfe) introduced a successful strain of [tobacco](https://en.wikipedia.org/wiki/Tobacco) to the Jamestown settlement.** Tobacco became the primary [cash crop](https://en.wikipedia.org/wiki/Cash_crop) that ensured the economic survival of the Virginia colony.
+
+![A 1670 illustration of a tobacco plantation in Virginia, highlighting the labor-intensive cash crop that economically saved the Jamestown settlement.](https://wikipedia.org/wiki/Special:Redirect/file/Tobacco_cultivation_(Virginia%2C_ca._1670).jpg)
 
 With economic survival secured, political organization followed. In **[1619](https://en.wikipedia.org/wiki/1619)**, the **[Virginia House of Burgesses](https://en.wikipedia.org/wiki/House_of_Burgesses) was established.** Why does this matter for your exam? Because the Virginia House of Burgesses served as the **first democratically-elected legislative body** in [British North America](https://en.wikipedia.org/wiki/British_America). The seeds of [American democracy](https://en.wikipedia.org/wiki/Politics_of_the_United_States) were planted here.
 
@@ -71,6 +79,8 @@ Further north, the English settlement was driven not by gold, but by "God."
 ### The Pilgrims
 The [Pilgrims](https://en.wikipedia.org/wiki/Pilgrims_%28Plymouth_Colony%29) founded the **[Plymouth Colony](https://en.wikipedia.org/wiki/Plymouth_Colony) in [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts) in [1620](https://en.wikipedia.org/wiki/1620)**. Before they even stepped off the boat, they realized they were outside the jurisdiction of their charter. To avoid chaos, the Pilgrims signed the **[Mayflower Compact](https://en.wikipedia.org/wiki/Mayflower_Compact) in [1620](https://en.wikipedia.org/wiki/1620)** before disembarking their ship.
 *Why teach this?* Because the Mayflower Compact established a foundational model for self-government and majority rule in the English colonies. It is the grandfather of the [US Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States).
+
+![Depiction of the signing of the Mayflower Compact, the foundational document establishing self-government for the Plymouth Colony.](https://wikipedia.org/wiki/Special:Redirect/file/Mayflower_compact.jpg)
 
 ### The Puritans
 Ten years later, a much larger, better-funded group arrived: The [Puritans](https://en.wikipedia.org/wiki/Puritans) established the **[Massachusetts Bay Colony](https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony) in [1630](https://en.wikipedia.org/wiki/1630)**.
@@ -87,6 +97,8 @@ The Puritans were notoriously strict. If you disagreed with them, you got kicked
 ## Part 5: Geography is Destiny (The 13 Colonies Demystified)
 
 If you memorize one pedagogical truth for this exam, let it be this: **[Geography](https://en.wikipedia.org/wiki/Geography) and [climate](https://en.wikipedia.org/wiki/Climate) determined the distinct economic development of the three major English colonial regions.** You don't have to memorize a random list of colonial exports if you understand the dirt and the weather!
+
+![Map of the Thirteen Colonies color-coded by region: New England (dark red), Middle (bright red), and Southern (red-brown) colonies.](https://wikipedia.org/wiki/Special:Redirect/file/Thirteencolonies_politics_cropped.jpg)
 
 | Colonial Region | Colonies Included | Geography & Climate | Economy & Society |
 | :--- | :--- | :--- | :--- |
@@ -114,6 +126,8 @@ Tragically, the roots of this system were already planted. **The first [enslaved
 
 This reliance on enslaved labor became the backbone of the **[Triangular Trade](https://en.wikipedia.org/wiki/Triangular_trade)**, a multilateral system of trading connecting Europe, [Africa](https://en.wikipedia.org/wiki/Africa), and the Americas. The most horrific leg of this trade was the **[Middle Passage](https://en.wikipedia.org/wiki/Middle_Passage)**, the brutal sea journey undertaken by enslaved people from [West Africa](https://en.wikipedia.org/wiki/West_Africa) to the Americas. 
 
+![Map detailing the Triangular Trade routes across the Atlantic, including the brutal Middle Passage that brought enslaved Africans to the Americas.](https://wikipedia.org/wiki/Special:Redirect/file/Triangle_trade2.png)
+
 ---
 
 ## Part 7: The Shifts that Shaped America
@@ -127,6 +141,8 @@ As English colonists rapidly expanded their towns in New England, tensions with 
 By the 1730s, many felt the colonies had lost their religious zeal. This sparked the **[First Great Awakening](https://en.wikipedia.org/wiki/First_Great_Awakening)**, a period of intense religious revivalism in the American colonies during the **1730s and 1740s**. 
 
 Why does a religious revival matter to a historian? Because of *how* people worshipped. Fiery preachers like [Jonathan Edwards](https://en.wikipedia.org/wiki/Jonathan_Edwards_%28theologian%29) and [George Whitefield](https://en.wikipedia.org/wiki/George_Whitefield) held massive open-air sermons. They told people they didn't need a high-ranking priest to communicate with God. The First Great Awakening encouraged an individualistic approach to religion that challenged traditional church authority. 
+
+![Evangelical minister George Whitefield preaching to a large outdoor crowd, illustrating the popular and emotional religious revival of the First Great Awakening.](https://wikipedia.org/wiki/Special:Redirect/file/George_Whitefield_preaching.jpg)
 
 *Pedagogical Connection:* If colonists learn they can challenge the absolute authority of the Church in the 1740s, what do you think they are going to do to the absolute authority of the British King in the 1770s? The Great Awakening laid the psychological groundwork for the [American Revolution](https://en.wikipedia.org/wiki/American_Revolution)!
 

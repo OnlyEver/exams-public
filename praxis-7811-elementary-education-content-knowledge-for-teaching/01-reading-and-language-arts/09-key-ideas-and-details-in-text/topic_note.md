@@ -1,5 +1,7 @@
 Hello there! Come on in, grab a seat. Today, we’re going to talk about something that feels like pure magic, though it’s actually a beautiful, intricate mechanical process happening inside the human [brain](https://en.wikipedia.org/wiki/Human_brain). 
 
+![A sagittal section of the human brain, the complex biological engine where the cognitive processes of reading comprehension occur.](https://wikipedia.org/wiki/Special:Redirect/file/Human_brain.jpg)
+
 We are going to talk about *[reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension)*. But not just what it is—we’re going to talk about how you, as a [teacher](https://en.wikipedia.org/wiki/Teacher), can actually pop open the hood and show a child how the engine works. 
 
 Think about what happens when a third-grader looks at a page. They are translating squiggly black lines into sounds, stringing those sounds into [words](https://en.wikipedia.org/wiki/Word), and then—if everything goes right—those words blossom into vivid worlds, complex arguments, and profound ideas inside their [minds](https://en.wikipedia.org/wiki/Mind). But what happens when a student reads the words perfectly but has *no idea* what the text actually meant? 
@@ -21,6 +23,8 @@ But what if you ask, "Who is the man?" The text never says his name. To answer t
 > **Inferential meaning** requires [readers](https://en.wikipedia.org/wiki/Reading) to combine textual clues with their own background knowledge. 
 
 In [cognitive psychology](https://en.wikipedia.org/wiki/Cognitive_psychology), a reader's existing background knowledge is referred to as **[schema](https://en.wikipedia.org/wiki/Schema_%28psychology%29)**. If a child grew up in a culture that does not celebrate [Christmas](https://en.wikipedia.org/wiki/Christmas), they have no schema for [Santa Claus](https://en.wikipedia.org/wiki/Santa_Claus). They cannot make the [inference](https://en.wikipedia.org/wiki/Inference), no matter how perfectly they decode the words! Comprehension isn't just about reading the text; it's about colliding the text with the child's schema.
+
+![An archetypal depiction of Santa Claus. A student must possess this specific cultural schema to successfully infer his identity from indirect textual clues.](https://wikipedia.org/wiki/Special:Redirect/file/Jolly-old-saint-nick.gif)
 
 ### How do we teach inferences?
 Making an inference is an invisible, internal act. Kids who struggle with reading often think their peers are just "smart" or "magical" because they get the right answers. We have to make the invisible visible. 
@@ -58,6 +62,8 @@ How does the author prove this central idea? By using **supporting details**—s
 | **Central Idea** | The specific point the author is making. | *Volcanoes are destructive but also create new, fertile land.* |
 | **Supporting Detail** | Facts/examples that prove the central idea. | *[Ash](https://en.wikipedia.org/wiki/Volcanic_ash) from [eruptions](https://en.wikipedia.org/wiki/Volcanic_eruption) introduces rich [minerals](https://en.wikipedia.org/wiki/Mineral) into the [soil](https://en.wikipedia.org/wiki/Soil).* |
 
+![A cross-section diagram of a stratovolcano. Visual aids in informational texts provide supporting details that reinforce the author's central idea.](https://wikipedia.org/wiki/Special:Redirect/file/Volcano_scheme.svg)
+
 ### Summarizing Nonfiction
 When a student grasps the central idea and the supporting details, they are ready to summarize. **[Summarizing](https://en.wikipedia.org/wiki/Summary)** requires a reader to briefly restate the most important points of a text. 
 
@@ -69,6 +75,8 @@ Informational texts aren't just lists of facts; they are meticulously organized.
 1. **Cause-and-Effect Relationships**: Informational texts frequently organize ideas by explaining how one event makes another happen. You can teach students to hunt for **signal words like 'because,' 'therefore,' and 'as a result,'** which act as textual markers of [cause-and-effect](https://en.wikipedia.org/wiki/Causality) relationships.
 2. **Sequential or Chronological Relationships**: Often used in history or "how-to" science texts. Here, informational texts frequently organize ideas in the order they occur. Teach them to look for **signal words like 'first,' 'next,' and 'finally'**, the distinct textual markers of [sequential](https://en.wikipedia.org/wiki/Chronology) relationships.
 3. **Compare-and-Contrast Relationships**: When texts examine the similarities and differences between two subjects (e.g., [Frogs](https://en.wikipedia.org/wiki/Frog) vs. [Toads](https://en.wikipedia.org/wiki/Toad)), informational texts frequently organize ideas using compare-and-contrast relationships. To help kids visualize this abstract relationship, **[Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram)** are [graphic organizers](https://en.wikipedia.org/wiki/Graphic_organizer) commonly used to map them out. 
+
+![A Venn diagram is a highly effective graphic organizer for visually mapping the similarities and differences in a compare-and-contrast text structure.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_diagram_of_legs_and_flying.svg)
 
 ---
 
@@ -88,6 +96,8 @@ To help them organize their thoughts, the **'Somebody Wanted But So Then' (SWBST
 *   **So:** So, her [fairy godmother](https://en.wikipedia.org/wiki/Fairy_godmother) magically created a [carriage](https://en.wikipedia.org/wiki/Carriage) for her.
 *   **Then:** Then, she went to the ball and met the [prince](https://en.wikipedia.org/wiki/Prince).
 
+![Familiar narratives like Cinderella serve as excellent pedagogical tools for introducing the Somebody-Wanted-But-So-Then summarizing framework.](https://wikipedia.org/wiki/Special:Redirect/file/Cinderella_by_Elenore_Abbott.jpg)
+
 ### Breaking Down the Narrative: Story Maps
 To help students isolate specific narrative elements before they summarize, we use **story maps**—graphic organizers used to help students isolate narrative elements like characters and settings. Let's look closely at those two elements.
 
@@ -103,6 +113,8 @@ A story's **[setting](https://en.wikipedia.org/wiki/Setting_%28narrative%29)** e
 
 But here is the truly brilliant thing to teach your students: Setting isn't just a painted backdrop. **A narrative setting often creates specific constraints or opportunities that directly cause [plot](https://en.wikipedia.org/wiki/Plot_%28narrative%29) events.** If a story is set during a [blizzard](https://en.wikipedia.org/wiki/Blizzard), the constraint (extreme cold) might force the [protagonist](https://en.wikipedia.org/wiki/Protagonist) to take shelter in a spooky [cave](https://en.wikipedia.org/wiki/Cave). The setting *causes* the plot!
 
+![A severe blizzard setting imposes immediate physical constraints on a protagonist, demonstrating how setting can actively drive plot events.](https://wikipedia.org/wiki/Special:Redirect/file/Nearwhiteoutinminnesota.JPG)
+
 ### The Meaning of it All: Theme vs. Moral
 
 Finally, we arrive at the heart of [literature](https://en.wikipedia.org/wiki/Literature). Why do we tell stories? To share truths about the [human condition](https://en.wikipedia.org/wiki/Human_condition). 
@@ -115,6 +127,8 @@ A **[theme](https://en.wikipedia.org/wiki/Theme_%28narrative%29)** is the underl
 
 So how does a theme differ from a moral? 
 A **[moral](https://en.wikipedia.org/wiki/Moral)** is a specific, practical life lesson explicitly taught by a narrative. While themes are usually implicit and require inferences, morals are often handed right to the reader. To teach morals, educators frequently use **[fables](https://en.wikipedia.org/wiki/Fable)**, which are a traditional [genre](https://en.wikipedia.org/wiki/Genre) of literature explicitly designed to conclude with a stated moral (think of [Aesop](https://en.wikipedia.org/wiki/Aesop)’s "[The Tortoise and the Hare](https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare)", which directly ends with the moral: *"Slow and steady wins the race"*). 
+
+![Arthur Rackham's 1912 illustration of Aesop's "The Tortoise and the Hare," a fable explicitly designed to deliver a straightforward moral lesson.](https://wikipedia.org/wiki/Special:Redirect/file/Tortoise_and_hare_rackham.jpg)
 
 ---
 

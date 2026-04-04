@@ -6,6 +6,8 @@ But as an [elementary teacher](https://en.wikipedia.org/wiki/Primary_education),
 
 Let's break down the mechanics of reading into a blueprint you can actually use.
 
+![Teaching a child to read physically rewires their brain, creating new neural pathways and synaptic connections to link visual symbols with spoken language.](https://wikipedia.org/wiki/Special:Redirect/file/Chemical_synapse_schema_cropped.jpg)
+
 ---
 
 ## Part 1: The Grand Blueprint (How We Teach)
@@ -18,6 +20,8 @@ So, how do we teach this? Do we just surround them with good books and hope they
 
 > **The Gold Standard of Reading Instruction**
 > We use **[systematic phonics instruction](https://en.wikipedia.org/wiki/Phonics)**, which involves teaching [letter-sound relationships](https://en.wikipedia.org/wiki/Grapheme) in a clearly defined, carefully selected, logical sequence. We pair this with **[explicit phonics instruction](https://en.wikipedia.org/wiki/Phonics)**, meaning we do the direct teaching of specific letter-sound relationships rather than relying on student discovery. We don't hide the ball. We tell them exactly how the code works.
+
+![The 2000 National Reading Panel report established systematic and explicit phonics as the scientifically backed gold standard for reading instruction.](https://wikipedia.org/wiki/Special:Redirect/file/REPORT_OF_THE_NATIONAL_READING_PANEL_(IA_gov.gpo.fdsys.CHRG-106shrg66481).pdf)
 
 When teaching this code, you'll generally use two approaches:
 1.  **[Synthetic phonics](https://en.wikipedia.org/wiki/Synthetic_phonics):** You teach students to convert individual letters into sounds and then blend the sounds together to form recognizable words (e.g., /s/ /i/ /t/ becomes *sit*). 
@@ -101,6 +105,8 @@ We attach bound morphemes to words via [affixes](https://en.wikipedia.org/wiki/A
 *   A **[prefix](https://en.wikipedia.org/wiki/Prefix)** is an affix added to the *beginning* of a base word or [root](https://en.wikipedia.org/wiki/Root_%28linguistics%29) to change the meaning of the base word (e.g., *un*happy).
 *   A **[suffix](https://en.wikipedia.org/wiki/Suffix)** is an affix added to the *end* of a base word or root to alter the [grammatical function](https://en.wikipedia.org/wiki/Grammatical_category) or meaning of the base word.
 
+![A morphological breakdown of the word "independently" into its root word (a free morpheme) and its various affixes (bound morphemes).](https://wikipedia.org/wiki/Special:Redirect/file/Independently_morphology_tree.png)
+
 **Suffix Sub-types: A Critical Distinction**
 Not all suffixes do the same job!
 1.  **[Inflectional Suffix](https://en.wikipedia.org/wiki/Inflection):** Think of this as giving a word a new coat of paint. It changes the [tense](https://en.wikipedia.org/wiki/Grammatical_tense), [number](https://en.wikipedia.org/wiki/Grammatical_number), or [degree](https://en.wikipedia.org/wiki/Comparison_%28grammar%29) of a word *without* changing the word's fundamental [part of speech](https://en.wikipedia.org/wiki/Part_of_speech). (e.g., adding *-ed* to *jump* makes it *jumped*. It's still a [verb](https://en.wikipedia.org/wiki/Verb). Adding *-s* to *cat* makes it *cats*. Still a [noun](https://en.wikipedia.org/wiki/Noun)). 
@@ -113,6 +119,8 @@ Not all suffixes do the same job!
 Let's look at the internal anatomy of a single spoken syllable. A syllable can often be split into two parts:
 *   The **[onset](https://en.wikipedia.org/wiki/Syllable_onset)** is the initial consonant or consonant cluster of a spoken syllable that precedes the vowel sound (e.g., the /str/ in *street*).
 *   The **[rime](https://en.wikipedia.org/wiki/Syllable_rime)** is the part of a spoken syllable that includes the vowel sound and any subsequent consonant sounds (e.g., the /eet/ in *street*). 
+
+![Structural diagram of a spoken syllable divided into its initial onset and subsequent rime.](https://wikipedia.org/wiki/Special:Redirect/file/Syllable_onset_rhyme.svg)
 
 Why do we care about onsets and rimes? Because they help us build **[word families](https://en.wikipedia.org/wiki/Word_family)**! A word family is a group of words that share the same exact rime and therefore share a common [spelling pattern](https://en.wikipedia.org/wiki/Orthography) (e.g., *cat, bat, mat, sat*). 
 
@@ -134,6 +142,8 @@ This brings us to **[decodability](https://en.wikipedia.org/wiki/Decodable_text)
 For decades, teachers thought sight words were memorized visually, like taking a photograph of the shape of the word. We'd put them on [flashcards](https://en.wikipedia.org/wiki/Flashcard) and drill them. **This is false.**
 
 Current [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) reveals that we store words via **orthographic mapping**. This is the cognitive process readers use to form permanent mental connections between letters and sounds to store words for instant retrieval. Your [brain](https://en.wikipedia.org/wiki/Brain) maps the sounds it hears to the letters it sees, cementing it in [long-term memory](https://en.wikipedia.org/wiki/Long-term_memory). 
+
+![Modern reading instruction relies heavily on cognitive science, an interdisciplinary field combining psychology, linguistics, and neuroscience to understand how the human brain processes and maps text.](https://wikipedia.org/wiki/Special:Redirect/file/Cognitive_Science_Hexagon.svg)
 
 **Pedagogical Pivot: Teaching Irregular Words**
 Because of orthographic mapping, how should you teach a tricky, irregular sight word like "said"? Do you just tell them to memorize the shape? No! 

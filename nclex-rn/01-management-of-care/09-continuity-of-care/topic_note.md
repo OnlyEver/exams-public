@@ -2,6 +2,8 @@
 
 Imagine a world-class [relay team](https://en.wikipedia.org/wiki/Relay_race). You have four of the fastest runners on the planet. The starting gun goes off, the first runner sprints with blazing speed, reaches the next runner, and… drops the baton. What happens? They lose. It doesn’t matter how fast they were; if the transition fails, the whole race fails.
 
+![Nursing handoffs function like a relay race; a flawless baton pass of critical patient information is required to maintain safety and continuity of care.](https://wikipedia.org/wiki/Special:Redirect/file/Relay_race_baton_pass.jpg)
+
 [Nursing](https://en.wikipedia.org/wiki/Nursing) is the ultimate relay race. You can provide the most phenomenal, [evidence-based care](https://en.wikipedia.org/wiki/Evidence-based_nursing) during your twelve-hour shift, but if you drop the "baton"—the vital information about your patient—during a handoff, admission, transfer, or discharge, the [patient's safety](https://en.wikipedia.org/wiki/Patient_safety) crashes. 
 
 This critical concept is what we call **[Continuity of Care](https://en.wikipedia.org/wiki/Continuity_of_care)**. It is the art and science of ensuring seamless transitions in [healthcare](https://en.wikipedia.org/wiki/Health_care). Let's break down exactly how you, as a soon-to-be [Registered Nurse](https://en.wikipedia.org/wiki/Registered_nurse), are going to master this relay race for the [NCLEX](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination) and, more importantly, for your patients.
@@ -55,6 +57,9 @@ Next, we establish the clinical baseline. Remember this rule for the NCLEX: **An
 During the [admission interview](https://en.wikipedia.org/wiki/Medical_history), you must tackle three crucial elements:
 1.  **Home Medications:** **A nursing admission history must include an inventory of the client's current home medications.** You need the exact names, dosages, and frequencies of everything they pop, swallow, or inject at home, including [over-the-counter](https://en.wikipedia.org/wiki/Over-the-counter_drug) supplements. 
 2.  **Advance Directives:** **The nurse must assess the client's [advance directive](https://en.wikipedia.org/wiki/Advance_healthcare_directive) status during the admission process.** We need to know their wishes regarding [life-sustaining treatment](https://en.wikipedia.org/wiki/Life_support) *before* an emergency happens. 
+
+![A medical refusal of treatment form, which serves as a type of advance directive to guide care decisions if the patient becomes incapacitated.](https://wikipedia.org/wiki/Special:Redirect/file/Refusal_of_treatment_form.jpg)
+
 3.  **Discharge Planning:** This sounds like a paradox, but **[discharge planning](https://en.wikipedia.org/wiki/Discharge_planning) formally begins at the exact time of client admission.** Why? Because the moment they arrive, our ultimate goal is getting them safely out. We need to know their home living situation immediately to anticipate what they'll need upon exit.
 
 ---
@@ -72,6 +77,8 @@ When do we do this? At *every* major transition!
 
 If you remember nothing else about meds, remember that reconciliation is your primary shield against [polypharmacy](https://en.wikipedia.org/wiki/Polypharmacy) disasters.
 
+![Polypharmacy, commonly defined as the concurrent use of five or more medications, significantly increases the risk of adverse drug interactions without meticulous medication reconciliation.](https://wikipedia.org/wiki/Special:Redirect/file/Datos_Pegados_ff93.jpg)
+
 ---
 
 ## Part 4: Changing Lanes (Transfers)
@@ -82,7 +89,11 @@ If you are transferring a patient to another unit, communication happens *before
 
 During this verbal report, **a transfer report must explicitly state the client's current [resuscitation](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation) code status.** The receiving nurse must know instantly whether this patient is a Full Code or a [Do Not Resuscitate](https://en.wikipedia.org/wiki/Do_not_resuscitate) (DNR) the moment they roll through the double doors.
 
+![A Do Not Attempt Cardiopulmonary Resuscitation (DNACPR) form is a critical piece of clinical information that must be verbally communicated prior to transferring a patient to ensure interventions align with their wishes.](https://wikipedia.org/wiki/Special:Redirect/file/Scotland_DNACPR_-_obverse.png)
+
 What if they are leaving your building entirely? **Interfacility transfers require a complete copy of the client's [medical record](https://en.wikipedia.org/wiki/Medical_record) to accompany the client.** The receiving facility needs the whole map of the patient's journey, not just a summary. 
+
+![When a patient is transferred to an external facility, a comprehensive copy of their physical or electronic medical record must accompany them to ensure continuity of care.](https://wikipedia.org/wiki/Special:Redirect/file/US_Navy_041019-N-5821P-019_Airman_Lauren_Thurgood_of_Las_Vegas%2C_Nev.%2C_pulls_patient_medical_records_in_the_inpatient_ward_aboard_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk.jpg)
 
 ---
 
@@ -93,6 +104,8 @@ We've treated the patient, they are stable, and it's time to go home. But contin
 To safely discharge a patient, you must communicate in a way they actually understand. **Discharge instructions must be provided in the client's preferred [primary language](https://en.wikipedia.org/wiki/First_language).** If they speak Spanish, handing them an English pamphlet is practically [clinical negligence](https://en.wikipedia.org/wiki/Medical_malpractice). Use an [interpreter service](https://en.wikipedia.org/wiki/Language_interpretation) to provide the instructions.
 
 Furthermore, these instructions cannot be vague. **Written discharge instructions must list specific [signs or symptoms](https://en.wikipedia.org/wiki/Medical_sign) requiring immediate medical attention.** Don't just write "Call the doctor if you feel bad." Write, "Call 911 if you experience [shortness of breath](https://en.wikipedia.org/wiki/Shortness_of_breath) at rest, or if your incision drains yellow [pus](https://en.wikipedia.org/wiki/Pus)."
+
+![Discharge instructions must include specific, observable clinical signs requiring medical intervention, such as the presentation of an abscess draining purulent exudate (pus).](https://wikipedia.org/wiki/Special:Redirect/file/Abszess.jpg)
 
 Finally, teaching isn't teaching unless learning has occurred. **The nurse must document the client's comprehension of the provided discharge instructions.** (Hint: Use the "[teach-back](https://en.wikipedia.org/wiki/Teach-back_method)" method, and document that the patient successfully demonstrated understanding).
 

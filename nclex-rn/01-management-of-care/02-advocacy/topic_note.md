@@ -4,6 +4,8 @@ Welcome. Pull up a chair.
 
 When you look at a [hospital](https://en.wikipedia.org/wiki/Hospital) from the outside, it looks like a place of absolute scientific precision. You have [algorithms](https://en.wikipedia.org/wiki/Medical_algorithm), [standard operating protocols](https://en.wikipedia.org/wiki/Standard_operating_procedure), and sophisticated [machinery](https://en.wikipedia.org/wiki/Medical_equipment). But when you step inside and look closely at the *human* element, you realize the [healthcare system](https://en.wikipedia.org/wiki/Health_system) is actually a chaotic, overwhelming maze. Imagine being a [patient](https://en.wikipedia.org/wiki/Patient)—sick, tired, and suddenly thrust into the cockpit of a [747](https://en.wikipedia.org/wiki/Boeing_747) without a flight manual. 
 
+![To a patient, navigating the healthcare system can feel as overwhelming and complex as operating a commercial airliner's cockpit without training.](https://wikipedia.org/wiki/Special:Redirect/file/Iran_Air_Boeing_747-200_cockpit_Sharifi.jpg)
+
 Who makes sure they don’t crash? **You do.** 
 
 As a [registered nurse](https://en.wikipedia.org/wiki/Registered_nurse), your job is not just passing [meds](https://en.wikipedia.org/wiki/Medication) or starting [IVs](https://en.wikipedia.org/wiki/Intravenous_therapy). **The registered nurse acts to protect the client's [legal](https://en.wikipedia.org/wiki/Law) and [ethical](https://en.wikipedia.org/wiki/Nursing_ethics) rights.** You are the shield, the translator, and the anchor. Let's break down the mechanics of what it actually means to be a [client advocate](https://en.wikipedia.org/wiki/Patient_advocacy) for the [NCLEX-RN](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination).
@@ -19,12 +21,16 @@ But here is the trick: a client cannot be autonomous if they are kept in the dar
 ### The Mechanics of [Informed Consent](https://en.wikipedia.org/wiki/Informed_consent)
 For a decision to be truly autonomous, the client needs data. **The registered nurse ensures the client has sufficient information to make informed healthcare decisions.** Now, you aren't necessarily the one *performing* the [surgery](https://en.wikipedia.org/wiki/Surgery), but **client advocacy includes verifying that the client understands the [risks](https://en.wikipedia.org/wiki/Risk) of proposed [treatments](https://en.wikipedia.org/wiki/Therapy)**, as well as **verifying that the client understands the benefits of proposed treatments.** If the [doctor](https://en.wikipedia.org/wiki/Physician) explains a [procedure](https://en.wikipedia.org/wiki/Medical_procedure) and leaves the room, and the client looks at you and says, "Wait, what did he just say?", *consent has not been achieved.* You must stop the line.
 
+![A standard informed consent document. The nurse's role extends beyond obtaining a signature to verifying that the patient genuinely comprehends the proposed treatments and risks.](https://wikipedia.org/wiki/Special:Redirect/file/PARAMOUNT_Eli_Lilly_Informed_Consent_Document.djvu)
+
 > **The [Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) Rule of Consent:** Information isn't just about handing over a piece of paper; it's about checking for *true [comprehension](https://en.wikipedia.org/wiki/Understanding)*.
 
 ### The Law of [Self-Determination](https://en.wikipedia.org/wiki/Self-determination)
 The [federal government](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States) recognized that patients were getting bulldozed by the medical machine, so they created a fundamental rule. **The [Patient Self-Determination Act (PSDA)](https://en.wikipedia.org/wiki/Patient_Self-Determination_Act) requires healthcare facilities to inform clients of their right to accept medical treatment**, and equally importantly, **it requires healthcare facilities to inform clients of their [right to refuse medical treatment](https://en.wikipedia.org/wiki/Refusal_of_medical_assistance).** 
 
 And remember this crucial fact: human beings are allowed to change their minds! **[Competent](https://en.wikipedia.org/wiki/Capacity_%28law%29) clients possess the legal right to change their mind about treatment options at any time.** Even if they are prepped for surgery and the IV is in—if they say "stop," you stop. 
+
+![A medical refusal of treatment form. Competent patients maintain the legal right to halt or refuse medical procedures at any time, even after initial consent.](https://wikipedia.org/wiki/Special:Redirect/file/Refusal_of_treatment_form.jpg)
 
 ---
 
@@ -64,6 +70,8 @@ Why? Because of the human element.
 
 One of the main culprits? Us. Our brains. **[Implicit bias](https://en.wikipedia.org/wiki/Implicit_stereotype) in healthcare contributes directly to disparities in treatment outcomes among [minority populations](https://en.wikipedia.org/wiki/Minority_group).** When healthcare providers unconsciously hold [stereotypes](https://en.wikipedia.org/wiki/Stereotype), it alters how they assess [pain](https://en.wikipedia.org/wiki/Pain_management), order tests, and listen to clients. 
 
+![The stereotype content model illustrates how unconscious cognitive biases regarding a group's perceived warmth and competence can inappropriately alter patient assessments and care delivery.](https://wikipedia.org/wiki/Special:Redirect/file/Mixed_stereotype_content_model_(Fiske_et_al.).png)
+
 ### The Universal Standard of Care
 To combat this, **The [American Nurses Association](https://en.wikipedia.org/wiki/American_Nurses_Association) [Code of Ethics](https://en.wikipedia.org/wiki/Nursing_ethics) requires nurses to practice with respect for the inherent [dignity](https://en.wikipedia.org/wiki/Dignity) of every person.** 
 
@@ -85,7 +93,11 @@ Let's circle back to autonomy. Remember: autonomy requires comprehension. What h
 
 You cannot rely on the client's 12-year-old [bilingual](https://en.wikipedia.org/wiki/Bilingualism) daughter to [translate](https://en.wikipedia.org/wiki/Translation) a surgical consent. That is dangerous, unethical, and illegal. **The registered nurse advocates for access to [certified medical interpreters](https://en.wikipedia.org/wiki/Medical_interpretation) for clients with [limited English proficiency](https://en.wikipedia.org/wiki/Limited_English_proficiency).** 
 
+![A healthcare provider utilizes a trained medical interpreter to communicate with a patient, ensuring accurate medical translation and safeguarding the patient's autonomy.](https://wikipedia.org/wiki/Special:Redirect/file/US_Navy_091010-F-3177P-029_Maj._Scott_Hughes_gathers_medical_information_from_a_patient_with_the_help_of_Hasbi%2C_a_local_interpreter.jpg)
+
 > **The Legal Backbone:** Why is this so strict? Because **[Title VI of the Civil Rights Act](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964) mandates language assistance services in federally funded healthcare programs.** Denying a patient a certified interpreter isn't just poor practice; it is a violation of their federal [civil rights](https://en.wikipedia.org/wiki/Civil_rights). 
+
+![Title VI of the Civil Rights Act of 1964 provides the legal backbone that mandates language assistance services in any healthcare facility receiving federal funding.](https://wikipedia.org/wiki/Special:Redirect/file/Civilrightsact1964.jpg)
 
 ## Final Thoughts for the Exam
 

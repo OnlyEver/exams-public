@@ -2,6 +2,8 @@ Imagine for a moment that you are trapped in a [soundproof](https://en.wikipedia
 
 In [healthcare](https://en.wikipedia.org/wiki/Health_care), a severe illness, a [traumatic brain injury](https://en.wikipedia.org/wiki/Traumatic_brain_injury), or the progression of [dementia](https://en.wikipedia.org/wiki/Dementia) can build that glass box around a [patient](https://en.wikipedia.org/wiki/Patient). They lose their voice. They lose their capacity. So, as [nurses](https://en.wikipedia.org/wiki/Nursing), how do we ensure they can still speak? How do we ensure their [autonomy](https://en.wikipedia.org/wiki/Autonomy) isn't stripped away the moment their [vocal cords](https://en.wikipedia.org/wiki/Vocal_cords) or their [consciousness](https://en.wikipedia.org/wiki/Consciousness) fails them? 
 
+![Brain atrophy in severe Alzheimer's disease. The physical deterioration of brain tissue illustrates why patients progressively lose decision-making capacity and need advance directives.](https://wikipedia.org/wiki/Special:Redirect/file/Alzheimers_brain.jpg)
+
 We use **[advance directives](https://en.wikipedia.org/wiki/Advance_healthcare_directive)**.
 
 Welcome to the profound, deeply human intersection of [nursing](https://en.wikipedia.org/wiki/Nursing), [law](https://en.wikipedia.org/wiki/Law), and [ethics](https://en.wikipedia.org/wiki/Ethics). Today, we are going completely under the hood of **Advance Directives, Self-Determination, and Life Planning**. We aren’t just going to memorize definitions; we are going to understand the *mechanics* of human autonomy. By the end of this guide, you will know exactly how to protect your patients' [rights](https://en.wikipedia.org/wiki/Patients%27_rights) when they need you the most. Let’s dive in.
@@ -19,6 +21,8 @@ Because of this federal law, **the Patient Self-Determination Act requires [heal
 > 
 > As long as they are legally [competent](https://en.wikipedia.org/wiki/Competence_%28law%29), if a patient looks at a life-saving [blood transfusion](https://en.wikipedia.org/wiki/Blood_transfusion) or a [ventilator](https://en.wikipedia.org/wiki/Ventilator) and says, "No, thank you," we must honor it. The nurse must respect a client's self-determination regarding the decision to initiate [palliative care](https://en.wikipedia.org/wiki/Palliative_care) over [curative treatments](https://en.wikipedia.org/wiki/Curative_care). It is *their* life, *their* body, and *their* choice. 
 
+![A standard Refusal of Treatment form. The Patient Self-Determination Act legally protects a competent patient's right to execute such documents, even if refusing care has life-threatening consequences.](https://wikipedia.org/wiki/Special:Redirect/file/Refusal_of_treatment_form.jpg)
+
 Of course, to make these choices, the client must actually understand them. Therefore, the nurse must provide **language-appropriate educational materials** regarding self-determination rights to the client. If they speak [Spanish](https://en.wikipedia.org/wiki/Spanish_language), handing them a dense legal packet in [English](https://en.wikipedia.org/wiki/English_language) isn't just unhelpful—it's practically a violation of the spirit of the PSDA.
 
 ## The Instruments of Autonomy: Advance Directives
@@ -30,6 +34,8 @@ An advance directive is a [legal document](https://en.wikipedia.org/wiki/Documen
 But here is the catch: **A client must possess [legal competence](https://en.wikipedia.org/wiki/Competence_%28law%29) to create a valid advance directive.** You cannot build the [life raft](https://en.wikipedia.org/wiki/Lifeboat) *after* you’ve started drowning. You have to do it while your mind is clear. 
 
 And because autonomy is fluid, **a competent client holds the right to alter or [revoke](https://en.wikipedia.org/wiki/Revocation) an advance directive at any time.** If they wake up on a Tuesday and decide they actually *do* want a [feeding tube](https://en.wikipedia.org/wiki/Feeding_tube) after initially refusing one in their paperwork, they can tear the old directive up. The competent patient *always* overrides the paper.
+
+![A patient with a nasogastric feeding tube. Because autonomy is fluid, a competent patient always retains the right to alter or revoke their advance directive regarding interventions like artificial nutrition.](https://wikipedia.org/wiki/Special:Redirect/file/Man_with_NG_feeding_tube_wearing_a_zebra_baseball_cap.jpg)
 
 ### The Two Primary Types of Advance Directives
 
@@ -64,9 +70,13 @@ Let's talk about the [Do Not Resuscitate](https://en.wikipedia.org/wiki/Do_not_r
 
 A living will is a piece of paper drawn up by [lawyers](https://en.wikipedia.org/wiki/Lawyer) and patients. A DNR is a *medical order* written by a [doctor](https://en.wikipedia.org/wiki/Physician) or [NP](https://en.wikipedia.org/wiki/Nurse_practitioner). If a patient with a living will stating "No [CPR](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation)" suddenly [codes](https://en.wikipedia.org/wiki/Cardiac_arrest) in your unit, but there is no signed DNR *medical order* in the [chart](https://en.wikipedia.org/wiki/Medical_record), you generally must initiate CPR until the provider writes the DNR order based on that living will. The living will tells the doctor to write the order; it is *not* the order itself.
 
+![Cardiopulmonary resuscitation (CPR) chest compressions. Without a specific, provider-signed Do Not Resuscitate (DNR) medical order, nurses must initiate life-saving measures during a code, even if a living will generally refuses them.](https://wikipedia.org/wiki/Special:Redirect/file/Chest_compressions.gif)
+
 ## Life Planning: Beyond the Immediate Crisis
 
 Life planning isn't just about refusing ventilators. It's a holistic look at the [end of life](https://en.wikipedia.org/wiki/End-of-life_care). **Life planning encompasses discussions regarding [organ donation](https://en.wikipedia.org/wiki/Organ_donation) preferences prior to a client's incapacitation.** 
+
+![An organ donor card. Comprehensive life planning involves discussing and documenting organ donation preferences well before a patient becomes incapacitated.](https://wikipedia.org/wiki/Special:Redirect/file/NHS_Organ_Donor_Card.png)
 
 These are heavy, deeply emotional conversations. As a nurse, you do not have to carry this entire burden alone. **The nurse should facilitate a consultation with [social services](https://en.wikipedia.org/wiki/Social_services) to assist a client with complex life planning decisions.** [Social workers](https://en.wikipedia.org/wiki/Social_work) and [case managers](https://en.wikipedia.org/wiki/Case_management_%28US_healthcare_system%29) are wizards at navigating the financial, legal, and emotional webs of end-of-life care. Bring them in!
 
@@ -77,6 +87,9 @@ So, what is your actual job in all of this? Your job spans three distinct phases
 ### 1. The Documentation Architect
 If the patient's wishes aren't documented, they essentially don't exist in the eyes of the hospital system.
 *   **The EHR:** The nurse **must document whether a client possesses an advance directive in the [electronic health record](https://en.wikipedia.org/wiki/Electronic_health_record).** 
+
+![A sample electronic health record (EHR) interface. The nurse is responsible for ensuring the patient's advance directive status is clearly documented and accessible in the system.](https://wikipedia.org/wiki/Special:Redirect/file/Electronic_medical_record.jpg)
+
 *   **The Chart:** The nurse **must place a physical or digital copy of the client's advance directive in the [medical chart](https://en.wikipedia.org/wiki/Medical_record).** A patient saying "I have it at home in a safe" doesn't help anyone at 3:00 AM during a [code blue](https://en.wikipedia.org/wiki/Hospital_emergency_codes).
 *   **The Handoff:** The nurse **must communicate the client's advance directive status during handoff reporting to the [interdisciplinary team](https://en.wikipedia.org/wiki/Interdisciplinarity).** *"Mr. Smith in Room 4 is a [full code](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation), but he has a DPOA on file—his daughter, Sarah."*
 
@@ -90,11 +103,16 @@ You are the translator of medical and legal jargon.
 > **NO.** 
 > **A nurse providing direct care to a client cannot legally serve as a [witness](https://en.wikipedia.org/wiki/Witness) to the client's advance directive signature.** Why? Because it is a massive [conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest)! The law wants totally neutral, objective witnesses (like a [notary](https://en.wikipedia.org/wiki/Notary_public) or non-clinical administrative staff) to ensure no one in the hospital is [coercing](https://en.wikipedia.org/wiki/Coercion) the patient.
 
+![An official notary public seal. To prevent conflicts of interest and coercion, advance directives should be witnessed by a neutral third party, such as a notary, rather than the nurse providing direct care.](https://wikipedia.org/wiki/Special:Redirect/file/NYS-Notary-Seal.jpg)
+
 ### 3. The Fierce Advocate
 This is where you earn your stripes. Sometimes, a patient’s wishes will clash with what the family wants, or even what the medical team wants to do. When that happens, the nurse becomes the ultimate defender of the patient's autonomy.
 
 *   **Defending Against the Family:** Family members often panic and demand we "do everything" even when the patient's living will says "do nothing." Remember this rule: **An advance directive supersedes the medical decisions of family members if those decisions conflict with the documented wishes.** Therefore, **the nurse must advocate for the client's documented end-of-life choices when family members disagree with the advance directive.** 
 *   **Defending Against the Staff:** Doctors and fellow nurses are fixers. We want to save lives. But **the nurse must intervene if a healthcare staff member attempts a [medical intervention](https://en.wikipedia.org/wiki/Medical_procedure) that contradicts the client's advance directive.** If the [respiratory therapist](https://en.wikipedia.org/wiki/Respiratory_therapist) is about to [intubate](https://en.wikipedia.org/wiki/Tracheal_intubation) a patient whose living will and matching DNR explicitly forbid it, you step in and stop them. 
+
+![Endotracheal intubation using a laryngoscope. The nurse must fiercely advocate for the patient by intervening if other staff members attempt invasive procedures that explicitly contradict the patient's advance directive.](https://wikipedia.org/wiki/Special:Redirect/file/Intubaci%C3%B3n_endotraqueal-8.jpg)
+
 *   **Leading the Care Team:** It is not enough that *you* know the patient's wishes. **The nurse must assess whether [assistive personnel](https://en.wikipedia.org/wiki/Unlicensed_assistive_personnel) (UAPs/[CNA](https://en.wikipedia.org/wiki/Certified_Nursing_Assistant)) understand the specific limitations of care outlined in a client's advance directive.** If a patient is strictly [comfort care](https://en.wikipedia.org/wiki/Palliative_care), the CNA needs to know so they don't inappropriately trigger a massive, traumatic emergency response.
 
 ## Final Thoughts

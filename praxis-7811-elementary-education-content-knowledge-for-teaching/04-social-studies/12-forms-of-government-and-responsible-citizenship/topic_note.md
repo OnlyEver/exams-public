@@ -8,6 +8,8 @@ For the Elementary Education Content Knowledge for Teaching (CKT) exam, you don�
 
 Let’s take this apart like a beautiful [pocket watch](https://en.wikipedia.org/wiki/Pocket_watch), look at the [gears](https://en.wikipedia.org/wiki/Gear), and figure out how to teach it.
 
+![Just like the intricate gears of a pocket watch, a government is a complex machine made of distinct, interconnected parts that must work together to maintain order.](https://wikipedia.org/wiki/Special:Redirect/file/Pocketwatch_cutaway_drawing.jpg)
+
 ---
 
 ## Part I: Who is the Boss? (Forms of Government)
@@ -35,9 +37,14 @@ But *how* do the people hold that power? This is where students get confused, an
 
 *   **Direct Democracy**: **In a [direct democracy](https://en.wikipedia.org/wiki/Direct_democracy), citizens vote directly on laws and government actions without [intermediaries](https://en.wikipedia.org/wiki/Representative_democracy).** 
     *   *Classroom analogy:* If you ask the class to raise their hands to [vote](https://en.wikipedia.org/wiki/Voting) on whether to have extra recess or a [pizza party](https://en.wikipedia.org/wiki/Pizza_party), that is a direct democracy. Every single citizen’s hand is counted toward the final law.
+
+![In a direct democracy, such as this cantonal assembly in Switzerland, citizens gather in person to vote directly on laws and policies rather than relying on elected officials to do it for them.](https://wikipedia.org/wiki/Special:Redirect/file/Landsgemeinde_Glarus_2006.jpg)
+
 *   **Representative Democracy**: **In a [representative democracy](https://en.wikipedia.org/wiki/Representative_democracy), citizens elect officials to make policy decisions on their behalf.** 
     *   *Classroom analogy:* Instead of everyone voting on recess, the class elects a [Student Council](https://en.wikipedia.org/wiki/Student_council) Representative. That representative goes to a school-wide meeting and votes on behalf of your class. 
 *   **Republic**: This is a major stumbling block! Many adults mistakenly think a [republic](https://en.wikipedia.org/wiki/Republic) and a democracy are two completely different things. **A republic is a type of representative democracy featuring an elected [head of state](https://en.wikipedia.org/wiki/Head_of_state) rather than a monarch.** The [United States](https://en.wikipedia.org/wiki/United_States) is a republic. We do not have a king, and we elect representatives (like [Senators](https://en.wikipedia.org/wiki/United_States_Senate) and the [President](https://en.wikipedia.org/wiki/President_of_the_United_States)) to make decisions for us.
+
+![The U.S. House of Representatives is a key component of the American republic, illustrating how citizens across different states elect specific representatives to hold political power on their behalf.](https://wikipedia.org/wiki/Special:Redirect/file/USHouseStructure2012-2022_SeatsByState.png)
 
 ---
 
@@ -65,6 +72,8 @@ Imagine a group project where one student gets to write the script, direct the p
 *   **The [legislative branch](https://en.wikipedia.org/wiki/Legislature) of the United States government is responsible for writing laws.** ([Congress](https://en.wikipedia.org/wiki/United_States_Congress): The architects).
 *   **The [executive branch](https://en.wikipedia.org/wiki/Executive_%28government%29) of the United States government is responsible for enforcing laws.** (The President & [Agencies](https://en.wikipedia.org/wiki/United_States_federal_executive_departments): The builders and police).
 *   **The [judicial branch](https://en.wikipedia.org/wiki/Judiciary) of the United States government is responsible for interpreting laws.** (The [Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States) & [Federal Courts](https://en.wikipedia.org/wiki/United_States_federal_courts): The referees).
+
+![A structural diagram of the U.S. federal government showing the distinct separation of powers between the Legislative, Executive, and Judicial branches.](https://wikipedia.org/wiki/Special:Redirect/file/Political_System_of_the_United_States.svg)
 
 ### Checks and Balances: The Friction in the Machine
 Separation of powers is just drawing lines on a map. What happens when a branch steps over the line? 
@@ -105,6 +114,8 @@ Rights are protective bubbles around the individual. Some rights belong to every
 *   **[Freedom of religion](https://en.wikipedia.org/wiki/Freedom_of_religion) is a fundamental right allowing citizens to practice any faith or no faith at all.** The government cannot force you to pray, nor can it stop you from praying.
 *   **The right to a [trial by a jury of peers](https://en.wikipedia.org/wiki/Jury_trial) is a constitutional protection for individuals accused of crimes.** If you are accused, the government cannot just throw you in a [dungeon](https://en.wikipedia.org/wiki/Dungeon). Everyday people will listen to the evidence and decide your fate.
 
+![The First Amendment explicitly protects fundamental universal rights—such as religion, speech, and assembly—creating a protective boundary around individuals that the government cannot legally breach.](https://wikipedia.org/wiki/Special:Redirect/file/Newseum_5_Freedoms_1st_Amendment.jpg)
+
 **Exclusive Privileges (For U.S. Citizens Only):**
 While anyone in the U.S. has the right to free speech, certain keys to the machinery are heavily restricted:
 *   **The right to [vote in federal elections](https://en.wikipedia.org/wiki/Voting_rights_in_the_United_States) is a privilege restricted exclusively to United States citizens.** 
@@ -119,6 +130,9 @@ While anyone in the U.S. has the right to free speech, certain keys to the machi
 *   **Obeying local, state, and federal [laws](https://en.wikipedia.org/wiki/Law) is a mandatory civic duty for all individuals within a jurisdiction.** (Stopping at [red lights](https://en.wikipedia.org/wiki/Traffic_light) isn't a suggestion).
 *   **[Paying taxes](https://en.wikipedia.org/wiki/Taxation_in_the_United_States) is a legal obligation required to fund public services and government operations.** Roads, schools, and fire trucks aren't free. You *must* pay your share.
 *   **Serving on a [jury](https://en.wikipedia.org/wiki/Jury_duty) when summoned is a mandatory legal obligation for eligible United States citizens.** Remember that constitutional right to a jury of peers? That system only works if *you* show up to be the peer. You cannot simply ignore the [summons](https://en.wikipedia.org/wiki/Summons).
+
+![A jury summons is a legally mandated civic duty, not a voluntary responsibility. The judicial system's guarantee of a trial by a jury of peers relies entirely on citizens fulfilling this mandatory obligation.](https://wikipedia.org/wiki/Special:Redirect/file/Jury_summons.jpg)
+
 *   **Registering for the [Selective Service](https://en.wikipedia.org/wiki/Selective_Service_System) is a legal requirement for most male United States citizens upon turning eighteen years old.** In the event of a national emergency requiring a [military draft](https://en.wikipedia.org/wiki/Conscription_in_the_United_States), the government must know who is available. 
 
 **Civic Responsibilities = "The Ought-Tos"**

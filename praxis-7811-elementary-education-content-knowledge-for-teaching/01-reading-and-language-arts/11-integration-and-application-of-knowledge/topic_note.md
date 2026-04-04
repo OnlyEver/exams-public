@@ -23,6 +23,8 @@ You will need to teach your students the difference between:
 *   **Relevant evidence:** This is evidence that [logically connects](https://en.wikipedia.org/wiki/Logical_consequence) to the author's central claim. (A solid table leg).
 *   **Irrelevant evidence:** This lacks a logical connection to the author's central claim. (A stick lying on the floor that does nothing to hold up the table).
 
+![A visual map of an argument's architecture, demonstrating how underlying premises and evidence logically support the overarching conclusion or claim.](https://wikipedia.org/wiki/Special:Redirect/file/Argument_terminology_used_in_logic_(en).svg)
+
 ### The Battlefield of Truth: Fact, Opinion, and Validity
 
 Here is where the waters get muddy for an eight-year-old. How do we know if an argument is *[valid](https://en.wikipedia.org/wiki/Validity_%28logic%29)*? **A valid argument relies on [verifiable evidence](https://en.wikipedia.org/wiki/Verifiability) rather than solely on the author's [personal opinions](https://en.wikipedia.org/wiki/Opinion).** 
@@ -64,6 +66,9 @@ Why would two texts on the exact same topic look different? Because of [human na
 
 1.  **The Synthesis Starting Line:** True synthesis is a high-level [cognitive skill](https://en.wikipedia.org/wiki/Cognitive_skill). So, how do we start small? **Elementary readers synthesize texts by creating a combined list of newly learned facts from multiple sources on a single topic.** Think of this as the "gathering phase."
 2.  **The Trusty Venn Diagram:** To structure this, you will use a classic visual. **A [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram) is a visual tool consisting of overlapping circles used to compare and contrast ideas across two texts.** 
+
+![Venn diagrams visually organize synthesis by mapping the overlapping similarities (the center intersection) and isolated differences between two distinct concepts or texts.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_diagram_of_legs_and_flying.svg)
+
 3.  **The "Conflicting Facts" Crisis:** **Students frequently struggle to synthesize information when multiple texts present conflicting facts about the same topic.** If Book A says [T-Rex](https://en.wikipedia.org/wiki/Tyrannosaurus) was a [scavenger](https://en.wikipedia.org/wiki/Scavenger), and Book B says T-Rex was an [apex predator](https://en.wikipedia.org/wiki/Apex_predator), an elementary student’s brain hits a [blue screen of death](https://en.wikipedia.org/wiki/Blue_screen_of_death). They want one right answer. 
 4.  **The Solution - Finding the Thread:** When panic ensues over conflicting texts, **teachers guide synthesis by asking students to identify the common theme shared by several distinct texts.** (e.g., "Even though they disagree on *how* the T-Rex ate, what do both texts agree on about the T-Rex's environment?")
 
@@ -89,6 +94,8 @@ Let's look at your toolkit of informational visuals:
 *   **Graphs:** These **visually represent [numerical data](https://en.wikipedia.org/wiki/Data) to make [statistical trends](https://en.wikipedia.org/wiki/Trend_estimation) easier to understand.** (A [bar graph](https://en.wikipedia.org/wiki/Bar_chart) makes it instantly obvious that "more kids like [pizza](https://en.wikipedia.org/wiki/Pizza) than [broccoli](https://en.wikipedia.org/wiki/Broccoli)").
 *   **Captions:** The crucial glue! **[Captions](https://en.wikipedia.org/wiki/Photo_caption) provide explanatory text directly linking a visual image to the main text's content.** 
 
+![Informational diagrams, such as this model of the water cycle, translate abstract scientific systems into concrete visual paths using explicit text labels and directional arrows.](https://wikipedia.org/wiki/Special:Redirect/file/HydrologicalCycle1.png)
+
 ### 🛑 Teacher’s Corner: The Pedagogy of Visuals
 
 You might assume that kids automatically know how to look at a picture. They don't! 
@@ -98,7 +105,12 @@ You might assume that kids automatically know how to look at a picture. They don
 Here is how you leverage visuals as an elite teacher:
 *   **The Pre-Game:** **Teachers conduct a picture walk before reading a text to help students build relevant background knowledge.** By flipping through the illustrations and diagrams *before* tackling the dense text, students form mental file folders ready to receive the words.
 *   **Scaffolding Language:** Visuals are an absolute lifeline for language learners. **Visual text features serve as instructional scaffolds for [English Language Learners](https://en.wikipedia.org/wiki/English_as_a_second_or_foreign_language) encountering unfamiliar [academic vocabulary](https://en.wikipedia.org/wiki/Vocabulary).** If an ELL student doesn't know the word "[photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)," a diagram showing the [sun](https://en.wikipedia.org/wiki/Sun), a [leaf](https://en.wikipedia.org/wiki/Leaf), and an arrow makes the academic vocabulary accessible. 
+
+![Visuals serve as powerful instructional scaffolds for English Language Learners. By pairing academic vocabulary with recognizable symbols like the sun and a leaf, abstract concepts like photosynthesis become accessible.](https://wikipedia.org/wiki/Special:Redirect/file/Simple_photosynthesis_overview.svg)
+
 *   **Explicit Instruction:** Do not assume a graph makes sense to a struggling reader. **Students with [reading disabilities](https://en.wikipedia.org/wiki/Reading_disability) benefit from [explicit teacher instruction](https://en.wikipedia.org/wiki/Direct_instruction) on how to interpret informational charts.** You have to model pointing to the [X-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), reading the [Y-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), and tracing your finger to find where the data meets. 
+
+![Reading graphs is a learned mechanical skill. Students often need explicit teacher instruction to understand how to trace the X-axis and Y-axis to locate intersecting data points.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
 
 ---
 

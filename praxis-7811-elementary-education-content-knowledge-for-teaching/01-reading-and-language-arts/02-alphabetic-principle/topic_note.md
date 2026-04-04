@@ -6,6 +6,8 @@ We call this magic [reading](https://en.wikipedia.org/wiki/Reading). But before 
 
 We aren't just going to memorize [definitions](https://en.wikipedia.org/wiki/Definition) today. We are going to look under the hood of how a child’s [brain](https://en.wikipedia.org/wiki/Brain) actually wires itself for [literacy](https://en.wikipedia.org/wiki/Literacy), why some kids get stuck, and the exact [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) moves you must make to get them unstuck. Let's dive in.
 
+![Neuroimaging maps the distinct neural pathways that develop as a child's brain actively wires itself for literacy and mirror discrimination.](https://wikipedia.org/wiki/Special:Redirect/file/Brain_pathways_for_mirror_discrimination_learning_during_literacy_acquisition.jpg)
+
 ---
 
 ## 1. The Anatomy of the Code: Phonemes, Graphemes, and the Alphabet
@@ -29,6 +31,8 @@ But there's a visual hurdle. **[Visual discrimination](https://en.wikipedia.org/
 
 Furthermore, **an [uppercase letter](https://en.wikipedia.org/wiki/Letter_case) and its corresponding [lowercase letter](https://en.wikipedia.org/wiki/Letter_case) can have completely different visual shapes** (think 'A' vs 'a', or 'G' vs 'g'). Yet, magically to the child, **an uppercase letter and its corresponding lowercase letter represent the identical phoneme.** 
 
+![Uppercase and lowercase letters often possess entirely different visual shapes despite representing the identical phoneme, posing a major challenge for early visual discrimination.](https://wikipedia.org/wiki/Special:Redirect/file/A_(capital_and_small).svg)
+
 ---
 
 ## 2. Hearing the Music: Phonemic and Phonological Awareness
@@ -39,6 +43,8 @@ We start broad with **[Phonological awareness](https://en.wikipedia.org/wiki/Pho
 If we slice a single syllable into two pieces, we get its onset and rime:
 *   **An [onset](https://en.wikipedia.org/wiki/Syllable) is the initial [consonant](https://en.wikipedia.org/wiki/Consonant) or [consonant cluster](https://en.wikipedia.org/wiki/Consonant_cluster) that precedes the [vowel](https://en.wikipedia.org/wiki/Vowel) in a syllable.** (e.g., the /st/ in *stop*).
 *   **A [rime](https://en.wikipedia.org/wiki/Syllable) is the vowel and any subsequent consonants within a single syllable.** (e.g., the /op/ in *stop*).
+
+![A structural diagram of a syllable separated into its onset (initial consonant) and rime (vowel and subsequent consonants).](https://wikipedia.org/wiki/Special:Redirect/file/Syllable_onset_rhyme.svg)
 
 But to unlock the alphabetic principle, we have to zoom in closer than syllables. We have to reach the level of the *phoneme*.
 
@@ -74,10 +80,14 @@ You do not teach phonics by casually pointing out letters when you happen to rea
 **[Explicit](https://en.wikipedia.org/wiki/Direct_instruction) phonics instruction involves a teacher directly explaining and [modeling](https://en.wikipedia.org/wiki/Observational_learning) specific letter-sound relationships.** You leave nothing to chance. 
 **[Systematic](https://en.wikipedia.org/wiki/System) phonics instruction introduces letter-sound correspondences in a pre-planned logical [sequence](https://en.wikipedia.org/wiki/Sequence).**
 
+![The 2000 report by the National Reading Panel established systematic and explicit phonics as a scientifically backed cornerstone of effective reading instruction.](https://wikipedia.org/wiki/Special:Redirect/file/REPORT_OF_THE_NATIONAL_READING_PANEL_(IA_gov.gpo.fdsys.CHRG-106shrg66481).pdf)
+
 What does a smart, systematic sequence look like? It doesn't start with A, B, C. 
 
 ### Start with High-Utility Letters
 **[High-utility letters](https://en.wikipedia.org/wiki/Letter_frequency) appear frequently in English words** (letters like A, M, S, T, I, P). **Systematic phonics programs introduce high-utility letters early in the instructional sequence.** Why? Because **introducing high-utility letters early allows students to rapidly begin decoding simple words.** If I teach you A, M, S, and T, you can immediately read *am, at, mat, sat, Sam*. If I teach you X, Q, and Z first, you can read... nothing.
+
+![A heavily used keyboard visually demonstrates letter frequency in English; high-utility letters like A, S, T, and N are taught early in systematic phonics to accelerate decoding.](https://wikipedia.org/wiki/Special:Redirect/file/Worn_keyboard_of_English_speaker.jpg)
 
 ### Separate the Twins (Visual and Auditory Confusion)
 Our brains wire by [association](https://en.wikipedia.org/wiki/Association_%28psychology%29), which means similarities cause [traffic jams](https://en.wikipedia.org/wiki/Traffic_congestion) in young minds.
@@ -144,6 +154,8 @@ As a teacher, you must act as a [diagnostician](https://en.wikipedia.org/wiki/Me
 A four-year-old points to the [golden arches](https://en.wikipedia.org/wiki/Golden_Arches) and shouts, "McDonald's!" Are they reading? No. 
 **Environmental print consists of words and [logos](https://en.wikipedia.org/wiki/Logo) frequently seen in everyday life.** **Recognizing environmental print relies on [visual memory](https://en.wikipedia.org/wiki/Visual_memory) rather than the application of the alphabetic principle.** Do not mistake logo-recognition for decoding skills.
 
+![Recognizing ubiquitous environmental print, such as the McDonald's Golden Arches, relies on visual memory and context rather than actual phonemic decoding.](https://wikipedia.org/wiki/Special:Redirect/file/McDonald's_Golden_Arches.svg)
+
 ### Backwards Letters: Dyslexia or Normal?
 A [first-grader](https://en.wikipedia.org/wiki/First_grade) writes the word "dog" but makes the 'd' face backward so it looks like "bog." [Panic](https://en.wikipedia.org/wiki/Panic) sets in for the [parents](https://en.wikipedia.org/wiki/Parent). "Is it [dyslexia](https://en.wikipedia.org/wiki/Dyslexia)?!" 
 Take a breath. **Reversing letters like b and d is a normal [developmental stage](https://en.wikipedia.org/wiki/Child_development) for young emerging readers.** Remember, their brains are still adapting to the idea that visual orientation changes a symbol's meaning. Therefore, **writing letters backwards does not necessarily indicate dyslexia in early [elementary](https://en.wikipedia.org/wiki/Elementary_school_%28United_States%29) students.**
@@ -160,6 +172,8 @@ For example, a student wants to write "jump" but writes "J-P", or wants to write
 ## Summary for the Aspiring Teacher
 
 To master the Alphabetic Principle for your [exam](https://en.wikipedia.org/wiki/Test_%28assessment%29)—and more importantly, for your future classroom—remember your role. You are taking children from a world of purely continuous, overlapping speech sounds (phonemes) and carefully, systematically locking those sounds into visual symbols (graphemes). 
+
+![A speech spectrogram illustrates that spoken words are essentially continuous, overlapping sounds, lacking the clear boundaries of written text.](https://wikipedia.org/wiki/Special:Redirect/file/Spectrogram_of_I_owe_you.png)
 
 You use explicit, synthetic phonics. You teach high-utility letters first. You separate the b's and d's. You leverage continuous sounds to teach blending. And above all, you watch their errors—their invented spelling, their partial-alphabetic guessing—not as failures, but as exactly what they are: the beautiful, messy, predictable phases of the human brain cracking the greatest code ever written. 
 

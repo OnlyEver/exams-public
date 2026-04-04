@@ -27,6 +27,8 @@ Your students will use these terms interchangeably, but as the teacher, you need
 *   **[Mass](https://en.wikipedia.org/wiki/Mass) measures the amount of matter contained within an object.** Because it’s about the sheer amount of "stuff" inside an object, **an object's mass remains constant regardless of the local [gravitational pull](https://en.wikipedia.org/wiki/Gravity).** If a student takes their textbook to the [Moon](https://en.wikipedia.org/wiki/Moon), its mass doesn't change.
 *   **Weight measures the [force of gravity](https://en.wikipedia.org/wiki/Gravity) exerted on an object.** Because it is a measure of a gravitational force, **an object's weight changes depending on the local gravitational pull.** That same textbook weighs much less on the Moon! 
 
+![An illustration showing that an object's mass remains constant across planets, while its weight changes dramatically due to differences in gravitational pull.](https://wikipedia.org/wiki/Special:Redirect/file/Mass_versus_weight_in_earth_and_mars.svg)
+
 ---
 
 ## Part II: The Journey of a Measurer (How Students Learn)
@@ -49,6 +51,8 @@ Why do we do this? Because it creates a wonderful, instructive mess. If I measur
 
 **Using non-standard units helps students understand the need for [standard units](https://en.wikipedia.org/wiki/Unit_of_measurement) by demonstrating inconsistencies in measurements between different measurers.** 
 
+![Historical hand-based measurements, such as the hand span, are classic examples of non-standard units that naturally vary between individuals, demonstrating the need for standardization.](https://wikipedia.org/wiki/Special:Redirect/file/Hand_Units_of_Measurement.PNG)
+
 ### Step 3: Standard Measurement Units
 Once students realize that "Mr. Feynman's foot" is a terrible universal standard, they are ready for the real deal. **Standard measurement units provide a consistent, universally understood language for communicating measurements.** When we say "inches" or "[centimeters](https://en.wikipedia.org/wiki/Centimetre)," everyone in the world knows exactly how much space we mean.
 
@@ -68,6 +72,8 @@ Watch closely when young students line up paperclips to measure a pencil. You wi
 ### The Ruler Dilemmas
 **A ruler is a measurement tool used to measure length in standard units like inches or centimeters.** It seems simple to us, but a ruler is actually a highly abstract [number line](https://en.wikipedia.org/wiki/Number_line). 
 
+![A standard ruler is fundamentally a physical number line, where linear measurements correspond to the intervals between numbers rather than a count of the individual hash marks.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
+
 *   **The "Start at One" Error:** **A common student misconception when using a standard ruler is aligning the object with the number one mark instead of the zero mark.** They do this because when humans count objects, we start at "one." They haven't realized that a ruler doesn't count *lines*; it counts *the spaces (intervals) between the lines*. 
 *   **The Broken Ruler Test:** The ultimate way to check if a student truly understands length is to hand them a broken ruler (e.g., one that starts at the 3-inch mark). **When measuring with a broken ruler missing the zero mark, students must count the number of unit intervals rather than reading the final number on the tool.** If a crayon stretches from the 3-inch mark to the 7-inch mark, the student who just reads the end number says "7 inches." The student who understands intervals counts the spaces: 4, 5, 6, 7... "It's 4 inches!"
 
@@ -75,6 +81,8 @@ Watch closely when young students line up paperclips to measure a pencil. You wi
 When we move to 2D space, we don't iterate in a line; we tile. **[Tiling](https://en.wikipedia.org/wiki/Tessellation) is the process of covering a two-dimensional shape with square units without gaps or overlaps to determine the shape's area.** 
 
 *   **The Area/Perimeter Confusion:** When students transition from tiling physical squares to using formulas (Area = Length × Width), things get jumbled. **Students often confuse [perimeter](https://en.wikipedia.org/wiki/Perimeter) and area by adding the side lengths instead of multiplying the dimensions when calculating the area of a [rectangle](https://en.wikipedia.org/wiki/Rectangle).** If a rectangle is 4 by 5, they'll add 4+5+4+5=18, rather than multiplying 4×5=20. Always bring them back to the physical tiles: "If we drew the squares inside, would there only be 18? No, there would be 4 rows of 5!"
+
+![Visualizing area as a tiled grid helps students understand why we multiply length by width, preventing them from mistakenly adding the side lengths as they would for perimeter.](https://wikipedia.org/wiki/Special:Redirect/file/Illustration_for_the_area_of_a_rectangle.svg)
 
 ### Conservation (The Piagetian Hurdles)
 Students also have to overcome their own visual biases. Developmentally, young minds are easily tricked by appearances.
@@ -102,6 +110,9 @@ Selecting the proper tool is about matching the attribute to the instrument.
 *   **A ruler** measures length in standard units.
 *   **A [balance scale](https://en.wikipedia.org/wiki/Weighing_scale) is a measurement tool used to determine the mass or weight of an object.** It literally balances the downward pull of two objects against each other.
 *   **A [graduated cylinder](https://en.wikipedia.org/wiki/Graduated_cylinder) is a precision measurement tool used to measure liquid volume or capacity.** Why not just use a [beaker](https://en.wikipedia.org/wiki/Beaker_%28glassware%29)? Because the narrowness of the cylinder allows for a highly precise reading of the liquid's surface level (the [meniscus](https://en.wikipedia.org/wiki/Meniscus_%28liquid%29)).
+
+![To achieve a precise volumetric reading in a graduated cylinder, one must measure from the bottom of the liquid's concave curve, known as the meniscus.](https://wikipedia.org/wiki/Special:Redirect/file/Reading_the_meniscus.svg)
+
 *   **A [protractor](https://en.wikipedia.org/wiki/Protractor) is a mathematical tool used to measure angles in [degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).** It measures rotational space, not linear space!
 
 ---
@@ -133,8 +144,12 @@ You will teach two entirely different measurement systems. One is a marvel of ma
 *   *Volume/Capacity:* 
     *   **One [liter](https://en.wikipedia.org/wiki/Litre) is exactly equal to 1,000 [milliliters](https://en.wikipedia.org/wiki/Millilitre).**
 
+![The metric system elegantly scales properties using base-10 mathematics, connecting volume and mass directly (e.g., 1 cubic centimeter of water equals 1 milliliter and weighs 1 gram).](https://wikipedia.org/wiki/Special:Redirect/file/Visualisation_litre_gram.svg)
+
 ### System 2: The U.S. Customary System (The Historical Quirk)
 **The [United States Customary system](https://en.wikipedia.org/wiki/United_States_customary_units) is a measurement system that does not follow a strict base-10 numerical structure.** It is based on historical markers (a foot was literally based on a human [foot](https://en.wikipedia.org/wiki/Foot_%28unit%29)). Because it lacks a unified base, students simply must memorize the [conversion factors](https://en.wikipedia.org/wiki/Conversion_factor).
+
+![Historical public measurement standards, like these informal benchmarks erected in Greenwich, illustrate the quirky, non-base-10 origins of the U.S. Customary and Imperial measurement systems.](https://wikipedia.org/wiki/Special:Redirect/file/Imperial_Standards_of_Length%2C_Greenwich.jpg)
 
 **Crucial U.S. Customary Equivalencies to Memorize:**
 *   *Length:*

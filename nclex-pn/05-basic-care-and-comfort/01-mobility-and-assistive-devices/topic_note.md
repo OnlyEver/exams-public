@@ -1,10 +1,10 @@
-# The [Physics](https://en.wikipedia.org/wiki/Physics) of the [Human Body](https://en.wikipedia.org/wiki/Human_body): Mobility, Immobility, and Assistive Devices
+# The [Physics](https://en.wikipedia.org/wiki/Physics) of the [Human Body](https://en.wikipedia.org/wiki/Human_body): Mobility, Immobility, and [Assistive Devices](https://en.wikipedia.org/wiki/Assistive_technology)
 
-Welcome, future [nurses](https://en.wikipedia.org/wiki/Nurse)! Think of the [human body](https://en.wikipedia.org/wiki/Human_body) as an incredibly complex, brilliant piece of machinery. When it moves, the gears are turning, the fluids are pumping, and the [electrical systems](https://en.wikipedia.org/wiki/Nervous_system) are firing beautifully. But what happens when you take this magnificent machine and leave it parked in bed for days on end? 
+Welcome, future [nurses](https://en.wikipedia.org/wiki/Nurse)! Think of the [human body](https://en.wikipedia.org/wiki/Human_body) as an incredibly complex, brilliant piece of machinery. When it moves, the gears are turning, the [fluids](https://en.wikipedia.org/wiki/Body_fluid) are pumping, and the [electrical systems](https://en.wikipedia.org/wiki/Nervous_system) are firing beautifully. But what happens when you take this magnificent machine and leave it parked in [bed](https://en.wikipedia.org/wiki/Bed) for days on end? 
 
-Things start to break down. Gravity, which usually works *with* us, suddenly becomes our enemy. Fluids pool. Muscles shrink. [Bones](https://en.wikipedia.org/wiki/Bone) dissolve. 
+Things start to break down. [Gravity](https://en.wikipedia.org/wiki/Gravity), which usually works *with* us, suddenly becomes our enemy. Fluids pool. [Muscles shrink](https://en.wikipedia.org/wiki/Muscle_atrophy). [Bones](https://en.wikipedia.org/wiki/Bone) dissolve. 
 
-In this session, we are going to explore the profound [mechanics](https://en.wikipedia.org/wiki/Mechanics) of mobility. We’ll look at how we assess our patients' movement, how we protect them when they cannot move, and the precise physics of using assistive devices to get them back on their feet. Let’s dive right in!
+In this session, we are going to explore the profound [mechanics](https://en.wikipedia.org/wiki/Mechanics) of mobility. We’ll look at how we assess our patients' movement, how we protect them when they cannot move, and the precise physics of using [assistive devices](https://en.wikipedia.org/wiki/Assistive_technology) to get them back on their feet. Let’s dive right in!
 
 ---
 
@@ -12,43 +12,53 @@ In this session, we are going to explore the profound [mechanics](https://en.wik
 
 Before you test-fly an [airplane](https://en.wikipedia.org/wiki/Airplane), what do you do? You check the instruments. As a [nurse](https://en.wikipedia.org/wiki/Nurse), you never blindly launch a patient into space—meaning, you never just pull someone out of bed. 
 
-First and foremost, **nurses must assess a client's baseline mobility level before attempting to transfer the client.** We need to know what they could do yesterday to know what is safe to do today. Similarly, **nurses must assess a client's muscle strength before initiating [ambulation](https://en.wikipedia.org/wiki/Walking).** If the engine has no horsepower, that plane isn't flying.
+First and foremost, **nurses must assess a client's baseline mobility level before attempting to transfer the client.** We need to know what they could do yesterday to know what is safe to do today. Similarly, **nurses must assess a client's [muscle strength](https://en.wikipedia.org/wiki/Physical_strength) before initiating [ambulation](https://en.wikipedia.org/wiki/Walking).** If the engine has no [horsepower](https://en.wikipedia.org/wiki/Horsepower), that plane isn't flying.
 
 To quantify this, we use a universal language: **The muscle strength grading scale ranges from zero to five.** 
 
 | Grade | Clinical Presentation | What it Means |
 | :--- | :--- | :--- |
 | **0** | No contraction | The battery is dead. A muscle strength grade of zero indicates **no visible [muscle contraction](https://en.wikipedia.org/wiki/Muscle_contraction)** and absolutely **no [palpable](https://en.wikipedia.org/wiki/Palpation) muscle contraction**. You look, you feel, and there is nothing. |
-| **...** | *Varying degrees of weakness* | *The muscle can move slightly, perhaps with gravity eliminated or with partial resistance.* |
+| **...** | *Varying degrees of weakness* | *The muscle can move slightly, perhaps with [gravity](https://en.wikipedia.org/wiki/Gravity) eliminated or with partial [resistance](https://en.wikipedia.org/wiki/Physical_strength).* |
 | **5** | Normal | The engine is fully charged! A muscle strength grade of five indicates **normal muscle strength against full resistance**. |
 
-Finally, once the patient is up, we watch them walk. The **nurse evaluates a client's [gait](https://en.wikipedia.org/wiki/Gait_%28human%29) to determine the risk for [falls](https://en.wikipedia.org/wiki/Falling_%28accident%29).** How is their balance? Are they shuffling? By simply observing the mechanics of their stride, we predict and prevent disasters.
+Finally, once the patient is up, we watch them walk. The **nurse evaluates a client's [gait](https://en.wikipedia.org/wiki/Gait_%28human%29) to determine the risk for [falls](https://en.wikipedia.org/wiki/Falling_%28accident%29).** How is their [balance](https://en.wikipedia.org/wiki/Balance_%28ability%29)? Are they shuffling? By simply observing the mechanics of their stride, we predict and prevent disasters.
+
+![Observing the mechanics of a client's normal walking gait helps nurses identify abnormalities and assess fall risks.](https://wikipedia.org/wiki/Special:Redirect/file/Muybridge_human_male_walking_animated.gif)
 
 ---
 
 ## 2. The Danger of Stagnation: Complications of Immobility
 
-If you leave a machine sitting idle, the oil thickens, the joints rust, and the battery drains. The human body is remarkably similar. Let's look at what happens system by system when a patient is immobilized.
+If you leave a machine sitting idle, the oil thickens, the [joints](https://en.wikipedia.org/wiki/Joint) rust, and the battery drains. The human body is remarkably similar. Let's look at what happens system by system when a patient is immobilized.
 
 ### [Cardiovascular](https://en.wikipedia.org/wiki/Circulatory_system) and [Respiratory](https://en.wikipedia.org/wiki/Respiratory_system) Mayhem
-[Blood](https://en.wikipedia.org/wiki/Blood) is supposed to flow. When a patient lies still, **immobility increases the risk of [deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis) (DVT) due to venous stasis.** The blood just sits there in the legs like water in a stagnant pond, and stagnant water clots. 
+[Blood](https://en.wikipedia.org/wiki/Blood) is supposed to flow. When a patient lies still, **immobility increases the risk of [deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis) (DVT) due to [venous stasis](https://en.wikipedia.org/wiki/Venous_stasis).** The blood just sits there in the legs like water in a stagnant pond, and stagnant water [clots](https://en.wikipedia.org/wiki/Thrombus). 
 
-Furthermore, the [cardiovascular system](https://en.wikipedia.org/wiki/Circulatory_system) forgets how to fight gravity. When the patient finally tries to sit up, gravity pulls the blood down, and because the [vascular system](https://en.wikipedia.org/wiki/Blood_vessel) is "asleep," **immobility increases the risk of orthostatic hypotension during position changes.** 
+![When blood pools in the lower extremities due to immobility, stagnant venous blood can coagulate into a deep vein thrombosis (DVT).](https://wikipedia.org/wiki/Special:Redirect/file/Blausen_0290_DeepVeinThrombosis.png)
+
+Furthermore, the [cardiovascular system](https://en.wikipedia.org/wiki/Circulatory_system) forgets how to fight gravity. When the patient finally tries to sit up, gravity pulls the blood down, and because the [vascular system](https://en.wikipedia.org/wiki/Blood_vessel) is "asleep," **immobility increases the risk of [orthostatic hypotension](https://en.wikipedia.org/wiki/Orthostatic_hypotension) during position changes.** 
 
 In the [lungs](https://en.wikipedia.org/wiki/Lung), gravity is equally relentless. **Immobility causes pooling of [respiratory secretions](https://en.wikipedia.org/wiki/Phlegm) in the lower lung fields.** When [mucus](https://en.wikipedia.org/wiki/Mucus) sits in the lungs, two things happen: 
-1. The tiny air sacs collapse, meaning **pooling of respiratory secretions from immobility increases the risk of [atelectasis](https://en.wikipedia.org/wiki/Atelectasis).**
+1. The tiny [air sacs](https://en.wikipedia.org/wiki/Alveolus) collapse, meaning **pooling of respiratory secretions from immobility increases the risk of [atelectasis](https://en.wikipedia.org/wiki/Atelectasis).**
 2. [Bacteria](https://en.wikipedia.org/wiki/Bacteria) throw a party in that warm, dark fluid, meaning **pooling of respiratory secretions from immobility increases the risk of [pneumonia](https://en.wikipedia.org/wiki/Pneumonia).**
+
+![Pooling of respiratory secretions blocks tiny airways, causing the alveoli to collapse in a condition known as atelectasis.](https://wikipedia.org/wiki/Special:Redirect/file/Atelectasis.png)
 
 ### The [Musculoskeletal](https://en.wikipedia.org/wiki/Human_musculoskeletal_system) and [Gastrointestinal](https://en.wikipedia.org/wiki/Human_gastrointestinal_tract) Standstill
 [Muscles](https://en.wikipedia.org/wiki/Muscle) and [bones](https://en.wikipedia.org/wiki/Bone) operate on a strict "use it or lose it" policy. 
-* **Prolonged immobility leads to muscle atrophy** (they literally shrink away).
-* If joints aren't moved, the connective tissue freezes, meaning **prolonged immobility leads to joint contractures**.
-* Because there is no mechanical weight-bearing stress on the [skeleton](https://en.wikipedia.org/wiki/Human_skeleton), the body thinks it doesn't need a strong frame. **Immobility causes increased calcium excretion from bones.** This excess calcium floods the [bloodstream](https://en.wikipedia.org/wiki/Blood) and filters through the [kidneys](https://en.wikipedia.org/wiki/Kidney), which **increases the risk of renal calculi** (kidney stones). 
+* **Prolonged immobility leads to [muscle atrophy](https://en.wikipedia.org/wiki/Muscle_atrophy)** (they literally shrink away).
+* If joints aren't moved, the [connective tissue](https://en.wikipedia.org/wiki/Connective_tissue) freezes, meaning **prolonged immobility leads to [joint contractures](https://en.wikipedia.org/wiki/Contracture)**.
+* Because there is no mechanical [weight-bearing](https://en.wikipedia.org/wiki/Weight-bearing) stress on the [skeleton](https://en.wikipedia.org/wiki/Human_skeleton), the body thinks it doesn't need a strong frame. **Immobility causes increased [calcium](https://en.wikipedia.org/wiki/Calcium) excretion from bones.** This excess calcium floods the [bloodstream](https://en.wikipedia.org/wiki/Blood) and filters through the [kidneys](https://en.wikipedia.org/wiki/Kidney), which **increases the risk of [renal calculi](https://en.wikipedia.org/wiki/Kidney_stone_disease)** (kidney stones). 
 
-Meanwhile, inside the [gut](https://en.wikipedia.org/wiki/Gastrointestinal_tract), things slow down to a crawl. **Immobility decreases gastrointestinal motility**, and as the [stool](https://en.wikipedia.org/wiki/Human_feces) sits in the colon absorbing [water](https://en.wikipedia.org/wiki/Water), this **decreased gastrointestinal motility from immobility leads to constipation.** 
+![Prolonged immobility leads directly to muscle atrophy, as unused muscle tissue gradually shrinks and weakens.](https://wikipedia.org/wiki/Special:Redirect/file/1025_Atrophy.png)
 
-### The Integumentary Breakdown
-Finally, think of the [skin](https://en.wikipedia.org/wiki/Human_skin). **Sustained pressure on tissue from immobility leads to pressure injuries.** The weight of the body pinches the capillary beds closed, starving the skin of [oxygen](https://en.wikipedia.org/wiki/Oxygen) until the tissue simply dies. 
+Meanwhile, inside the [gut](https://en.wikipedia.org/wiki/Gastrointestinal_tract), things slow down to a crawl. **Immobility decreases gastrointestinal motility**, and as the [stool](https://en.wikipedia.org/wiki/Human_feces) sits in the [colon](https://en.wikipedia.org/wiki/Large_intestine) absorbing [water](https://en.wikipedia.org/wiki/Water), this **decreased gastrointestinal motility from immobility leads to [constipation](https://en.wikipedia.org/wiki/Constipation).** 
+
+### The [Integumentary](https://en.wikipedia.org/wiki/Integumentary_system) Breakdown
+Finally, think of the [skin](https://en.wikipedia.org/wiki/Human_skin). **Sustained pressure on tissue from immobility leads to [pressure injuries](https://en.wikipedia.org/wiki/Pressure_ulcer).** The weight of the body pinches the [capillary beds](https://en.wikipedia.org/wiki/Capillary) closed, starving the skin of [oxygen](https://en.wikipedia.org/wiki/Oxygen) until the tissue simply dies. 
+
+![Common pressure points where sustained physical weight pinches capillary beds closed, leading to tissue death and pressure injuries.](https://wikipedia.org/wiki/Special:Redirect/file/Pressure_ulcer_points.svg)
 
 ---
 
@@ -58,18 +68,22 @@ To fight the decay of immobility, we use motion, mechanical assistance, and stri
 
 ### Defeating Pressure and Sheer
 To prevent those devastating pressure injuries, we have a biological clock we must obey:
-* **Nurses must reposition bedridden clients at least every two hours.**
-* **Nurses must reposition chair-bound clients at least every one hour.** (Why faster in a chair? Because all the body's weight is concentrated on a much smaller surface area—the ischial tuberosities!).
+* **Nurses must reposition [bedridden](https://en.wikipedia.org/wiki/Bed_rest) clients at least every two hours.**
+* **Nurses must reposition chair-bound clients at least every one hour.** (Why faster in a chair? Because all the body's weight is concentrated on a much smaller surface area—the [ischial tuberosities](https://en.wikipedia.org/wiki/Ischial_tuberosity)!).
 
-When moving clients in bed, we never just drag them. Dragging rips the [top layer of skin](https://en.wikipedia.org/wiki/Epidermis) away from the bottom layer. Instead, **a friction-reducing device decreases sheer forces on the client's skin during bed repositioning.**
+When moving clients in bed, we never just drag them. Dragging rips the [top layer of skin](https://en.wikipedia.org/wiki/Epidermis) away from the bottom layer. Instead, **a friction-reducing device decreases [sheer forces](https://en.wikipedia.org/wiki/Shear_force) on the client's skin during bed repositioning.**
 
-> **Special Case: The Logroll**
-> If you have a patient with a broken back, you cannot twist their spine. **Clients with spinal cord injuries require the logrolling technique for repositioning.** Why? Because **the logrolling technique keeps the client's spinal column in strict alignment during movement.** This is a team effort; **logrolling a client requires a minimum of two [healthcare workers](https://en.wikipedia.org/wiki/Health_professional).**
+> **Special Case: The [Logroll](https://en.wikipedia.org/wiki/Logrolling_%28medicine%29)**
+> If you have a patient with a [broken back](https://en.wikipedia.org/wiki/Spinal_fracture), you cannot twist their [spine](https://en.wikipedia.org/wiki/Vertebral_column). **Clients with [spinal cord injuries](https://en.wikipedia.org/wiki/Spinal_cord_injury) require the [logrolling](https://en.wikipedia.org/wiki/Logrolling_%28medicine%29) technique for repositioning.** Why? Because **the logrolling technique keeps the client's [spinal column](https://en.wikipedia.org/wiki/Vertebral_column) in strict alignment during movement.** This is a team effort; **logrolling a client requires a minimum of two [healthcare workers](https://en.wikipedia.org/wiki/Health_professional).**
+> 
+> ![The logrolling technique requires a team of health professionals to keep the client's spinal column in strict alignment during movement.](https://wikipedia.org/wiki/Special:Redirect/file/Relevage_planche_rotation.png)
 
 ### Defeating Blood Clots and Lung Collapse
 To fight off [DVT](https://en.wikipedia.org/wiki/Deep_vein_thrombosis), we need to artificially recreate the pumping action of the leg muscles. We do this in two ways:
-1. **Sequential compression devices (SCDs)** actively squeeze the legs. These **promote venous return**, and this **enhanced venous return from sequential compression devices prevents deep vein thrombosis.**
+1. **[Sequential compression devices](https://en.wikipedia.org/wiki/Intermittent_pneumatic_compression) (SCDs)** actively squeeze the legs. These **promote venous return**, and this **enhanced venous return from sequential compression devices prevents deep vein thrombosis.**
 2. **[Anti-embolism stockings](https://en.wikipedia.org/wiki/Compression_stockings)** (often called TED hose) passively **apply graduated [pressure](https://en.wikipedia.org/wiki/Pressure) to promote venous return.** But remember, they are tight! Therefore, **nurses must remove anti-embolism stockings at least once per shift to assess the underlying skin.**
+
+![Anti-embolism stockings apply graduated pressure to the legs to artificially promote venous return and prevent blood clots.](https://wikipedia.org/wiki/Special:Redirect/file/Knee-high_and_thigh-high_anti-embolism_compression_stockings.jpg)
 
 To protect the lungs, **clients must perform [deep breathing exercises](https://en.wikipedia.org/wiki/Diaphragmatic_breathing) to prevent atelectasis during bed rest.** But the absolute best [medicine](https://en.wikipedia.org/wiki/Medicine) for both the lungs and the blood is getting up. **Early [ambulation](https://en.wikipedia.org/wiki/Walking) prevents respiratory complications of immobility.** 
 
@@ -77,16 +91,16 @@ Before that early ambulation, remember our lesson on orthostatic hypotension? We
 
 ---
 
-## 4. Keeping the Gears Oiled: Range of Motion (ROM)
+## 4. Keeping the Gears Oiled: [Range of Motion](https://en.wikipedia.org/wiki/Range_of_motion) (ROM)
 
 If a patient cannot walk yet, we must still keep their joints lubricated and muscles stretched through Range of Motion (ROM) exercises.
 * **Active range of motion exercises are performed independently by the client.** They do the work.
-* **Passive range of motion exercises are performed by the caregiver for the client.** *We* do the work.
+* **Passive range of motion exercises are performed by the [caregiver](https://en.wikipedia.org/wiki/Caregiver) for the client.** *We* do the work.
 
 When performing passive ROM, you must protect the structural integrity of the joint. **Caregivers must support the joint [proximally](https://en.wikipedia.org/wiki/Anatomical_terms_of_location)** (above the joint) AND **[distally](https://en.wikipedia.org/wiki/Anatomical_terms_of_location)** (below the joint) **during passive range of motion exercises.** 
 
 > **The Golden Rules of Range of Motion:**
-> 1. **Range of motion exercises must be stopped immediately if the client experiences pain.**
+> 1. **Range of motion exercises must be stopped immediately if the client experiences [pain](https://en.wikipedia.org/wiki/Pain).**
 > 2. **Range of motion exercises must be stopped immediately if joint resistance is met.**
 > 3. **Joints must never be forced beyond their normal [physiological](https://en.wikipedia.org/wiki/Physiology) range of motion limits.** 
 > *We are nurses, not interrogators. If the body says "stop," we stop!*
@@ -97,7 +111,9 @@ When performing passive ROM, you must protect the structural integrity of the jo
 
 When it is finally time to move a patient, [physics](https://en.wikipedia.org/wiki/Physics) is your best friend. 
 
-First, secure your center of gravity. **A gait belt is placed securely around the client's [waist](https://en.wikipedia.org/wiki/Waist) prior to ambulation.** This gives you a mechanical handle on the patient's center of mass. When lifting, **the nurse must grasp the gait belt using an underhand grip during client transfers.** An underhand grip locks your wrist and recruits your powerful [bicep muscles](https://en.wikipedia.org/wiki/Biceps), whereas an overhand grip relies on weak finger strength.
+First, secure your [center of gravity](https://en.wikipedia.org/wiki/Center_of_mass). **A [gait belt](https://en.wikipedia.org/wiki/Gait_belt) is placed securely around the client's [waist](https://en.wikipedia.org/wiki/Waist) prior to ambulation.** This gives you a mechanical handle on the patient's center of mass. When lifting, **the nurse must grasp the gait belt using an underhand grip during client transfers.** An underhand grip locks your [wrist](https://en.wikipedia.org/wiki/Wrist) and recruits your powerful [bicep muscles](https://en.wikipedia.org/wiki/Biceps), whereas an overhand grip relies on weak finger strength.
+
+![A gait belt secured around the client's waist provides the nurse with a mechanical handle on the patient's center of mass during transfers.](https://wikipedia.org/wiki/Special:Redirect/file/Ceinture_de_marche.jpg)
 
 When doing a bed-to-[wheelchair](https://en.wikipedia.org/wiki/Wheelchair) transfer:
 * **The wheelchair is positioned on the client's stronger side.** This allows the patient to pivot on their reliable, good leg.
@@ -107,17 +123,19 @@ When doing a bed-to-[wheelchair](https://en.wikipedia.org/wiki/Wheelchair) trans
 
 ## 6. Tools for the Journey: Assistive Devices
 
-When a patient needs a little extra structural support, we give them extensions for their body. Let’s look at the correct mechanics for canes, [walkers](https://en.wikipedia.org/wiki/Walker_%28mobility%29), and [crutches](https://en.wikipedia.org/wiki/Crutch).
+When a patient needs a little extra structural support, we give them extensions for their body. Let’s look at the correct mechanics for [canes](https://en.wikipedia.org/wiki/Assistive_cane), [walkers](https://en.wikipedia.org/wiki/Walker_%28mobility%29), and [crutches](https://en.wikipedia.org/wiki/Crutch).
 
 ### Canes: The Third Leg
 A cane widens the base of support. **Quad canes provide a wider base of support than standard straight canes** because they have four points of contact with the ground instead of one. 
 
+![A quad cane provides a wider, more stable base of support compared to a standard straight cane due to its four points of ground contact.](https://wikipedia.org/wiki/Special:Redirect/file/Quadcane.jpg)
+
 **Proper Fit:** 
 * **The top of the cane must align with the client's [greater trochanter](https://en.wikipedia.org/wiki/Greater_trochanter)** (the bony prominence of the upper [femur](https://en.wikipedia.org/wiki/Femur)).
-* **The client's elbow must be flexed at a 15- to 30-degree angle while holding a cane.** 
+* **The client's [elbow](https://en.wikipedia.org/wiki/Elbow) must be [flexed](https://en.wikipedia.org/wiki/Flexion) at a 15- to 30-degree angle while holding a cane.** 
 
 **Proper Use:**
-* Counterintuitively to some, **a client must hold a cane on the unaffected side of the body.** Why? Because as you step with the bad leg, your [body weight](https://en.wikipedia.org/wiki/Human_body_weight) naturally shifts to the good side. Holding the cane on the good side creates a wide, supportive triangle. 
+* Counterintuitively to some, **a client must hold a cane on the unaffected side of the body.** Why? Because as you step with the bad leg, your [body weight](https://en.wikipedia.org/wiki/Human_body_weight) naturally shifts to the good side. Holding the cane on the good side creates a wide, supportive [triangle](https://en.wikipedia.org/wiki/Triangle). 
 * **The Sequence:**
   1. **When walking with a cane, the client first moves the cane forward.**
   2. **After moving the cane forward, the client steps forward with the affected leg.** (The weak leg and the cane now share the load).
@@ -134,17 +152,21 @@ Walkers provide immense stability, but they must be sized and moved precisely.
 * **To ambulate with a walker, the client first advances the walker forward.**
 * **After advancing a walker, the client steps forward with the affected leg.**
 * **After moving the affected leg into a walker, the client steps forward with the unaffected leg.**
-* *Safety check:* **Standard non-wheeled walkers must be completely lifted off the ground to move forward.** If a patient drags it, they will trip. Conversely, while wheeled walkers don't need lifting, **wheeled walkers are contraindicated for clients who have unpredictable balance issues** because they can roll away from the patient!
-* Getting up: **Clients must never pull on the walker to stand up from a seated position.** Walkers are light and will flip over. Instead, **clients must use the armrests of a chair for [leverage](https://en.wikipedia.org/wiki/Mechanical_advantage) when standing up to use a walker.**
+* *Safety check:* **Standard non-wheeled walkers must be completely lifted off the ground to move forward.** If a patient drags it, they will trip. Conversely, while wheeled walkers don't need lifting, **wheeled walkers are [contraindicated](https://en.wikipedia.org/wiki/Contraindication) for clients who have unpredictable balance issues** because they can roll away from the patient!
+* Getting up: **Clients must never pull on the walker to stand up from a seated position.** Walkers are light and will flip over. Instead, **clients must use the [armrests](https://en.wikipedia.org/wiki/Armrest) of a chair for [leverage](https://en.wikipedia.org/wiki/Mechanical_advantage) when standing up to use a walker.**
+
+![Standard non-wheeled walkers must be fully lifted with each step to avoid tripping, providing immense stability but requiring balance and arm strength.](https://wikipedia.org/wiki/Special:Redirect/file/A_woman_supporting_herself_with_a_walking_frame.jpg)
 
 ### Crutches: The [Pendulum](https://en.wikipedia.org/wiki/Pendulum) Walk
 Crutches require the most coordination and upper body strength. 
 
 **Proper Fit:**
 * **Crutch pads must rest one to two inches below the client's [axilla](https://en.wikipedia.org/wiki/Axilla)** (armpit). 
-* Why the gap? The axilla contains a delicate, beautiful web of nerves. **Placing crutch pads directly into the axilla causes [brachial plexus](https://en.wikipedia.org/wiki/Brachial_plexus) nerve damage.** 
+* Why the gap? The axilla contains a delicate, beautiful web of [nerves](https://en.wikipedia.org/wiki/Nerve). **Placing crutch pads directly into the axilla causes [brachial plexus](https://en.wikipedia.org/wiki/Brachial_plexus) [nerve damage](https://en.wikipedia.org/wiki/Nerve_injury).** 
 * Instead, **clients must bear their weight on the hand grips of the crutches.** 
 * To ensure proper blood flow and leverage, **the hand grips of the crutches must allow for a 20- to 30-degree elbow flexion.**
+
+![The brachial plexus is a complex web of nerves running through the axilla (armpit). Resting body weight on crutch pads can crush these nerves, causing severe damage.](https://wikipedia.org/wiki/Special:Redirect/file/Brachial_Plexus.png)
 
 **The Crutch Gaits:**
 Depending on their weight-bearing status, patients will use different "gaits" (walking patterns).
@@ -154,7 +176,7 @@ Depending on their weight-bearing status, patients will use different "gaits" (w
 | **Two-Point Gait** | **The two-point crutch gait requires the client to move one crutch simultaneously with the opposite leg.** It looks like natural walking. | **Requires partial weight-bearing status on both legs.** |
 | **Three-Point Gait** | **In the three-point crutch gait, the client moves both crutches forward simultaneously with the affected leg.** | **Requires the client to bear all weight on the unaffected leg.** (The affected leg never touches the floor). |
 | **Four-Point Gait** | **The four-point crutch gait provides the maximum base of support.** It is slow and steady. Sequence: <br>1. **Begins by advancing one crutch forward.** <br>2. **Client moves the opposite foot forward.** <br>3. **Client advances the second crutch.** <br>4. **Client moves the remaining foot forward.** | Requires weight-bearing on both legs. |
-| **Swing-Through Gait** | **Requires the client to advance both crutches simultaneously.** Then, **the client swings both legs forward past the crutches simultaneously.** | Used often by [paraplegic](https://en.wikipedia.org/wiki/Paraplegia) clients with weight-supporting braces. |
+| **Swing-Through Gait** | **Requires the client to advance both crutches simultaneously.** Then, **the client swings both legs forward past the crutches simultaneously.** | Used often by [paraplegic](https://en.wikipedia.org/wiki/Paraplegia) clients with weight-supporting [braces](https://en.wikipedia.org/wiki/Orthotics). |
 
 **Mastering Stairs with Crutches:**
 Think of [stairs](https://en.wikipedia.org/wiki/Stairs) logically. When you go up, you want your strongest muscle doing the lifting. When you go down, you want your tools catching your fall. Remember the classic saying: *"Up with the good, down with the bad."*

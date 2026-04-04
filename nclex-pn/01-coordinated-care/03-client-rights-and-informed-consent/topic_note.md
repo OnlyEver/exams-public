@@ -19,6 +19,8 @@ Alongside autonomy comes the [right to privacy](https://en.wikipedia.org/wiki/Ri
 
 **The [Health Insurance Portability and Accountability Act](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) (HIPAA)** establishes national standards to protect individuals' [medical records](https://en.wikipedia.org/wiki/Medical_record). HIPAA is the fortress walls around a client's data. As a [nurse](https://en.wikipedia.org/wiki/Nurse), you are the guard at the gate. 
 
+![Chart detailing common types of HIPAA violations, emphasizing the importance of strictly controlling access to protected health information.](https://wikipedia.org/wiki/Special:Redirect/file/Hipaa_Violations_by_Type_-_Pie_Chart.png)
+
 Here is the single, golden rule of HIPAA for the [practical nurse](https://en.wikipedia.org/wiki/Licensed_practical_nurse): **Nurses must only share client [health information](https://en.wikipedia.org/wiki/Health_information) with individuals directly involved in the client's care.**
 *   *Curious about the celebrity down the hall?* Not your patient, not your business.
 *   *Want to give an update to a patient’s friendly neighbor in the [waiting room](https://en.wikipedia.org/wiki/Waiting_room)?* Absolutely not, unless you have explicit permission.
@@ -40,6 +42,8 @@ When a client refuses, we do not just say "Okay!" and walk away. That would be [
 
 Once they understand the consequences and still say no, the [paperwork](https://en.wikipedia.org/wiki/Paperwork) begins. If it isn't [documented](https://en.wikipedia.org/wiki/Medical_record), legally, it didn't happen. Therefore, **the nurse must document a client's refusal of treatment in the [electronic health record](https://en.wikipedia.org/wiki/Electronic_health_record) (EHR).** 
 
+![A typical view of an electronic health record (EHR) system, where all patient decisions, including treatment refusals, must be legally documented.](https://wikipedia.org/wiki/Special:Redirect/file/Electronic_medical_record.jpg)
+
 ### Against Medical Advice (AMA)
 What happens if a client decides to pack their bags and walk out the door in the middle of a critical treatment? We call this leaving [Against Medical Advice](https://en.wikipedia.org/wiki/Against_medical_advice) (AMA). You cannot physically stop them—that would be [battery](https://en.wikipedia.org/wiki/Battery_%28tort%29) or [false imprisonment](https://en.wikipedia.org/wiki/False_imprisonment). But the stakes are high, so the [chain of command](https://en.wikipedia.org/wiki/Chain_of_command) must move at lightning speed: **Leaving a facility against medical advice requires the nurse to notify the [healthcare provider](https://en.wikipedia.org/wiki/Health_professional) immediately.** The provider needs the opportunity to explain the risks of leaving before the client exits the building.
 
@@ -50,6 +54,8 @@ What happens if a client decides to pack their bags and walk out the door in the
 Now we arrive at the crown jewel of healthcare law: **[Informed consent](https://en.wikipedia.org/wiki/Informed_consent)**. 
 
 > **Informed consent** is a legal process granting permission for a specific treatment or procedure. 
+
+![An Ottoman Empire document from 1539, representing one of the earliest recorded examples of an informed consent agreement between a surgeon and a patient's family.](https://wikipedia.org/wiki/Special:Redirect/file/First_informed_consent_document_Turkey_1539.png)
 
 It is not just a piece of paper; it is a *process* of [education](https://en.wikipedia.org/wiki/Patient_education), understanding, and agreement. To make this work, healthcare law strictly divides the labor between the [Healthcare Provider](https://en.wikipedia.org/wiki/Health_professional) (HCP) and the [Practical Nurse](https://en.wikipedia.org/wiki/Licensed_practical_nurse) (PN).
 
@@ -95,6 +101,8 @@ You cannot enter a legally binding [contract](https://en.wikipedia.org/wiki/Cont
 
 If you gave your patient IV [morphine](https://en.wikipedia.org/wiki/Morphine) for [pain](https://en.wikipedia.org/wiki/Pain) 20 minutes ago, they cannot sign a consent form for tomorrow's surgery. The consent must be obtained *before* the mind-altering drugs are administered, or deferred until the drugs have completely worn off.
 
+![An ampoule of morphine. Administration of any mind-altering opioid or CNS depressant immediately invalidates a patient's legal capacity to sign a consent form.](https://wikipedia.org/wiki/Special:Redirect/file/Morphine_Monojet.jpg)
+
 ### The Language Barrier
 Imagine someone trying to explain the risks of a [cardiac catheterization](https://en.wikipedia.org/wiki/Cardiac_catheterization) to you in a [language](https://en.wikipedia.org/wiki/Language) you do not speak. You would be terrified, and you certainly wouldn't be "informed." 
 
@@ -111,6 +119,8 @@ So, who exactly is legally allowed to put ink on the paper? It depends entirely 
 ### The Standard Rule
 *   **A [competent](https://en.wikipedia.org/wiki/Competence_%28law%29) [adult](https://en.wikipedia.org/wiki/Adult) who is 18 years of age or older may legally provide their own informed consent.** 
 
+![A global map showing the legal age of majority. In regions marked in green, the age is 18, which is the standard threshold for medical consent in the United States.](https://wikipedia.org/wiki/Special:Redirect/file/Age_of_Majority_-_Global.svg)
+
 ### Minors and Emancipation
 Generally, anyone under 18 cannot sign a legal contract. For them, **a [parent](https://en.wikipedia.org/wiki/Parent) or [legal guardian](https://en.wikipedia.org/wiki/Legal_guardian) must provide informed consent for an unemancipated [minor](https://en.wikipedia.org/wiki/Minor_%28law%29).** 
 
@@ -124,12 +134,16 @@ How does a minor become emancipated? The law recognizes three main pathways:
 ### Incapacity and Proxies
 What happens if a competent adult loses their capacity? Suppose an elderly client develops advanced [dementia](https://en.wikipedia.org/wiki/Dementia), or a patient suffers a severe [traumatic brain injury](https://en.wikipedia.org/wiki/Traumatic_brain_injury). They can no longer understand risks and benefits. 
 
+![A CT scan showing a severe traumatic brain injury (subdural hematoma with midline shift). Patients with such profound neurological deficits lack the capacity to consent, requiring a healthcare proxy.](https://wikipedia.org/wiki/Special:Redirect/file/Trauma_subdural_arrows.jpg)
+
 In these cases, we look for a proxy. **A legally designated [healthcare proxy](https://en.wikipedia.org/wiki/Healthcare_proxy) may provide informed consent for a client lacking decision-making capacity.** This is a person the client chose, ahead of time, to speak for them when their own voice fades.
 
 But what if they never appointed a proxy? We don't just guess. **[State laws](https://en.wikipedia.org/wiki/State_law_%28United_States%29) designate a hierarchy of [family members](https://en.wikipedia.org/wiki/Family) to make healthcare decisions for an incapacitated client lacking a designated proxy.** (Usually, this hierarchy flows from [spouse](https://en.wikipedia.org/wiki/Spouse), to adult [children](https://en.wikipedia.org/wiki/Child), to parents, to adult [siblings](https://en.wikipedia.org/wiki/Sibling)). 
 
 ### The Ultimate Exception: Emergencies
 Now, let's look at the ultimate exception to the rule. A client is rushed through the [ambulance](https://en.wikipedia.org/wiki/Ambulance) bay doors. They are [unconscious](https://en.wikipedia.org/wiki/Unconsciousness), profusely [bleeding](https://en.wikipedia.org/wiki/Bleeding) from a ruptured [spleen](https://en.wikipedia.org/wiki/Spleen), and there is no family in sight. We don't have time to find a proxy, and we certainly don't have time to go to [court](https://en.wikipedia.org/wiki/Court). Do we just let them die because we don't have a signed piece of paper?
+
+![The spleen is a highly vascular abdominal organ. A ruptured spleen causes rapid, life-threatening internal bleeding, triggering the legal provision for implied consent to allow immediate surgical intervention.](https://wikipedia.org/wiki/Special:Redirect/file/3D_Medical_Animation_Spleen_Anatomy.jpg)
 
 Absolutely not. The law is designed to protect life. 
 

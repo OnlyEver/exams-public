@@ -2,6 +2,8 @@ Imagine a [ship](https://en.wikipedia.org/wiki/Ship) sailing into a brutal, unpr
 
 In [healthcare](https://en.wikipedia.org/wiki/Health_care), your client is the captain of their own ship. As long as they are awake and aware, they give the orders. But [human biology](https://en.wikipedia.org/wiki/Human_biology) is incredibly fragile, and a sudden [stroke](https://en.wikipedia.org/wiki/Stroke), [trauma](https://en.wikipedia.org/wiki/Major_trauma), or progression of a [terminal illness](https://en.wikipedia.org/wiki/Terminal_illness) can instantly strip a client of their ability to [communicate](https://en.wikipedia.org/wiki/Communication). 
 
+![Sudden neurological events, such as an ischemic or hemorrhagic stroke, can instantly deprive a client of their cognitive capacity and ability to communicate their healthcare preferences.](https://wikipedia.org/wiki/Special:Redirect/file/Ischemic_Stroke.svg)
+
 This is where **[Advance Directives](https://en.wikipedia.org/wiki/Advance_healthcare_directive)** come into play. They are the [captain’s log](https://en.wikipedia.org/wiki/Logbook) for future care. 
 
 In this guide, we are going to tear apart the mechanics of advance directives, explore the profound [legal rights](https://en.wikipedia.org/wiki/Rights) of the [patient](https://en.wikipedia.org/wiki/Patient), and define exactly what it means to be a fierce, unyielding [nurse](https://en.wikipedia.org/wiki/Nurse) [advocate](https://en.wikipedia.org/wiki/Patient_advocacy). We won't just memorize the rules—we are going to understand *why* they exist, so when you sit down for the [NCLEX-PN](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination), the right answers will feel like second nature.
@@ -37,6 +39,8 @@ There are two primary pillars of advance directives. Think of the first as the "
 A **[living will](https://en.wikipedia.org/wiki/Advance_healthcare_directive)** dictates specific medical treatments a client accepts or refuses during a terminal illness or state of [permanent unconsciousness](https://en.wikipedia.org/wiki/Persistent_vegetative_state). 
 
 It is a literal checklist of interventions. Do they want a [feeding tube](https://en.wikipedia.org/wiki/Feeding_tube)? Do they want to be placed on a [mechanical ventilator](https://en.wikipedia.org/wiki/Mechanical_ventilation)? The living will maps out the specific boundaries of their [bodily autonomy](https://en.wikipedia.org/wiki/Bodily_integrity) when they can no longer speak for themselves. 
+
+![A living will explicitly dictates whether a patient accepts or refuses specific life-sustaining interventions, such as mechanical ventilation, in the event of incapacitation.](https://wikipedia.org/wiki/Special:Redirect/file/Respiratory_therapist.jpg)
 
 ### Pillar 2: Durable Power of Attorney for Healthcare (The "Who")
 Sometimes, a piece of paper isn't enough to handle the complex, evolving realities of a [medical crisis](https://en.wikipedia.org/wiki/Medical_emergency). You need a [human being](https://en.wikipedia.org/wiki/Human) to make judgment calls. 
@@ -93,6 +97,8 @@ To stop paramedics from performing [CPR](https://en.wikipedia.org/wiki/Cardiopul
 
 > **What is a DNR?** A Do Not Resuscitate order is a medical order written by a healthcare provider instructing staff not to attempt cardiopulmonary resuscitation. 
 
+![A Do Not Resuscitate (DNR) order is a distinct, standalone medical document required by emergency personnel to legally withhold resuscitation, functionally separate from a standard advance directive.](https://wikipedia.org/wiki/Special:Redirect/file/Scotland_DNACPR_-_obverse.png)
+
 How does a client get a DNR? Often, it stems from their advance directive! **A client's living will can stipulate the specific conditions under which a Do Not Resuscitate order should be initiated.** When the client enters the hospital, the doctor reads the living will, sees the client's wishes, and officially writes the DNR medical order in the chart. 
 
 ---
@@ -125,6 +131,8 @@ As a practical nurse, you play a vital role in their [education](https://en.wiki
 3. **Assess the Client's Comprehension:** Never assume a client understands what "[intubation](https://en.wikipedia.org/wiki/Tracheal_intubation)" means just because they nod their head. **The practical nurse evaluates the client's verbalized understanding of existing advance directives.** How? **The practical nurse utilizes [open-ended questions](https://en.wikipedia.org/wiki/Open-ended_question) to assess a client's comprehension of the medical terms in their living will.** *(e.g., "Can you explain to me what your understanding of a feeding tube is?")*
 4. **Discuss and Respect:** You must **discuss identified treatment options with the client and respect the decisions made.**
 5. **Escalate When Necessary:** What happens if you ask an open-ended question, and the client's answer reveals they have absolutely no idea what they just signed? **The practical nurse must report to the [registered nurse](https://en.wikipedia.org/wiki/Registered_nurse) if a client demonstrates a lack of understanding regarding proposed treatment options.** The RN and the healthcare provider must then step in to re-educate and re-evaluate the client's competency and [consent](https://en.wikipedia.org/wiki/Informed_consent).
+
+![Evaluating a client's comprehension of medical jargon is a critical nursing role. The client must accurately understand proposed interventions, such as endotracheal intubation, to provide truly informed consent or refusal.](https://wikipedia.org/wiki/Special:Redirect/file/Endotracheal_Tube.png)
 
 ---
 

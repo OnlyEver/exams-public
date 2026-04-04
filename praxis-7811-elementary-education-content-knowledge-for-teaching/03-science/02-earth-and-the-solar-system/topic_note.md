@@ -22,6 +22,8 @@ The first fundamental truth we must teach is that **Earth rotates on an invisibl
 
 Now, which way are we spinning? **Earth rotates on its axis from [west to east](https://en.wikipedia.org/wiki/Prograde_and_retrograde_motion).** Because we are moving eastward, the things in the sky appear to be rushing at us from the other direction. Therefore, **Earth's rotation from west to east causes the Sun to appear to move across the sky from [east to west](https://en.wikipedia.org/wiki/Diurnal_motion).** 
 
+![Animation showing how Earth's continuous rotation relative to a stationary light source creates the 24-hour cycle of day and night.](https://wikipedia.org/wiki/Special:Redirect/file/Earth_rotation.gif)
+
 > **Pedagogy in Action: The Globe and the Flashlight**
 > Do not just read this to your students. **[Physical models](https://en.wikipedia.org/wiki/Physical_model) using a stationary [light source](https://en.wikipedia.org/wiki/Light_source) and a rotating [globe](https://en.wikipedia.org/wiki/Globe) effectively help elementary students visualize day and night patterns.** 
 > 
@@ -62,6 +64,8 @@ Now, we must address the single most pervasive [misconception](https://en.wikipe
 > 
 > If distance caused the seasons, January would be our summer. 
 
+![An exaggerated view of Earth's elliptical orbit demonstrating that our closest approach to the Sun (perihelion) occurs during the Northern Hemisphere's winter, debunking the distance misconception.](https://wikipedia.org/wiki/Special:Redirect/file/Seasons1.svg)
+
 So, what *is* the cause? The hero of our story is the tilt. 
 
 ### The Magic Angle: 23.5 Degrees
@@ -73,6 +77,8 @@ Imagine walking around a [lamp](https://en.wikipedia.org/wiki/Lamp_%28electrical
 
 *   **When the Northern Hemisphere is tilted toward the Sun, the Northern Hemisphere experiences summer.**
 *   **When the Northern Hemisphere is tilted away from the Sun, the Northern Hemisphere experiences winter.**
+
+![Diagram illustrating how Earth's 23.5-degree axial tilt remains fixed as it revolves around the Sun, causing the Northern and Southern Hemispheres to alternate leaning toward the Sun's light.](https://wikipedia.org/wiki/Special:Redirect/file/North_season.jpg)
 
 ### Why Tilt Equals [Temperature](https://en.wikipedia.org/wiki/Temperature)
 Why does leaning toward the Sun make it hot? It comes down to the geometry of light.
@@ -89,6 +95,8 @@ There is an exception to this rule: the middle. **Locations on Earth's [equator]
 
 ### Graphing the Year
 As teachers, we want to bring [math](https://en.wikipedia.org/wiki/Mathematics) into our science. **Graphing sunrise and sunset times over a complete year reveals a cyclical pattern of daylight duration.** If your students chart the daylight hours from [September](https://en.wikipedia.org/wiki/September) to [June](https://en.wikipedia.org/wiki/June), they will see a beautiful [wave](https://en.wikipedia.org/wiki/Wave), dipping down to its lowest point in December (the [winter solstice](https://en.wikipedia.org/wiki/Winter_solstice)) and rising steadily through the [spring](https://en.wikipedia.org/wiki/Spring_%28season%29). It teaches them that [nature](https://en.wikipedia.org/wiki/Nature) is predictable and rhythmic.
+
+![A graph charting daylight hours throughout the year across different latitudes, revealing the predictable wave-like patterns caused by Earth's tilt and orbit.](https://wikipedia.org/wiki/Special:Redirect/file/Hours_of_daylight_vs_latitude_vs_day_of_year_cmglee.svg)
 
 We can also track seasonal shadows. Remember how shadows are shortest when the sun is highest? Well, the Sun's maximum height changes throughout the year due to the tilt!
 *   **At solar noon, winter shadows are longer than summer shadows in the same geographic location.** 
@@ -108,11 +116,15 @@ Our journey wouldn't be complete without looking up at night. Just as the Sun he
 First, consider the span of a single night. Have you ever done a [time-lapse](https://en.wikipedia.org/wiki/Time-lapse_photography) of the night sky? The stars appear to swirl in great arcs. 
 *   **The [apparent daily motion](https://en.wikipedia.org/wiki/Diurnal_motion) of stars across the night sky is caused by Earth's daily rotation.** Just like the Sun, the stars aren't swirling around us; we are turning beneath them.
 
+![A long-exposure photograph capturing star trails, which visually record the Earth's rotation beneath the night sky.](https://wikipedia.org/wiki/Special:Redirect/file/Earth_Rotation_(Nepal%2C_Himalayas).jpg)
+
 There is one star, however, that refuses to dance. 
 *   **The [North Star (Polaris)](https://en.wikipedia.org/wiki/Polaris) appears nearly stationary in the Northern Hemisphere's night sky.** 
 *   **The North Star appears stationary because the North Star closely aligns with Earth's axis of rotation.** 
 
 Imagine holding an [umbrella](https://en.wikipedia.org/wiki/Umbrella) over your head and spinning it. The edges of the umbrella blur past you, but the very tip of the umbrella—right where the pole goes through—stays perfectly still. Earth's axis points almost exactly at Polaris, so as we spin, it acts as the stable [pivot point](https://en.wikipedia.org/wiki/Pivot) of the night sky.
+
+![Long-exposure photography reveals stars appearing to revolve around Polaris, the North Star, which remains nearly stationary because it aligns with Earth's axis of rotation.](https://wikipedia.org/wiki/Special:Redirect/file/Star_Trail_above_Beccles_-_geograph.org.uk_-_1855505.jpg)
 
 ### The Seasonal Shift of Stars
 Have you ever noticed that [Orion the Hunter](https://en.wikipedia.org/wiki/Orion_%28constellation%29) dominates the winter sky, but is nowhere to be found in the summer? 

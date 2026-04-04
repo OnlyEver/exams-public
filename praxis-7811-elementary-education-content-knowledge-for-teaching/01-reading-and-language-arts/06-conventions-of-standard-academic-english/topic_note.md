@@ -13,6 +13,8 @@ To build a sturdy [sentence](https://en.wikipedia.org/wiki/Sentence_%28linguisti
 ### Phrases vs. Clauses
 The fundamental difference between a phrase and a clause comes down to a specific engine: the [subject](https://en.wikipedia.org/wiki/Subject_%28grammar%29)-[verb](https://en.wikipedia.org/wiki/Verb) combination.
 
+![A constituent structure tree visualizes how sentences are built from nested noun and prepositional phrases, centered around a subject and a verb.](https://wikipedia.org/wiki/Special:Redirect/file/Constituent_structure_analysis_English_sentence.svg)
+
 *   **A [phrase](https://en.wikipedia.org/wiki/Phrase) is a group of related [words](https://en.wikipedia.org/wiki/Word) lacking a subject-verb combination.** Think of "in the dark woods" or "running quickly." They paint a picture, but they have no engine.
 *   **An [independent clause](https://en.wikipedia.org/wiki/Independent_clause) contains a subject and a verb AND expresses a complete thought.** It can stand entirely on its own. ("The dog barked.")
 *   **A [dependent clause](https://en.wikipedia.org/wiki/Dependent_clause) contains a subject and a verb, BUT it does not express a complete thought.** ("Because the dog barked...") It leaves you hanging, waiting for the rest of the story.
@@ -92,6 +94,8 @@ Ah, the [apostrophe](https://en.wikipedia.org/wiki/Apostrophe). It has two—and
 
 **Where students go wrong:** Students frequently misapply apostrophes to make regular [nouns](https://en.wikipedia.org/wiki/Noun) plural. You will see *"apple's for sale"* constantly. You must explicitly teach that plurals do not get apostrophes!
 
+![The "greengrocer's apostrophe" is a widespread error in which an apostrophe is improperly used to make a noun plural.](https://wikipedia.org/wiki/Special:Redirect/file/Greengrocer's_apostrophe_correction.jpg)
+
 Furthermore, **students often confuse the [possessive pronoun](https://en.wikipedia.org/wiki/Possessive) "its" with the contraction "it's"**.
 *   **The contraction "it's"** represents the phrase "it is" or "it has".
 *   **The [pronoun](https://en.wikipedia.org/wiki/Pronoun) "its"** does *not* use an apostrophe to show possession. (Just like *his* or *hers* doesn't have an apostrophe!).
@@ -117,6 +121,8 @@ Now we look inside the words themselves. How are they [spelled](https://en.wikip
 
 ### Morphology (The Meaning System)
 While orthography is about spelling, **morphology is the study of the internal structure of words.** We break words down into **[morphemes](https://en.wikipedia.org/wiki/Morpheme)**, which are the smallest units of meaning in a language. 
+
+![A morphological tree diagram breaking down the word "independently" into its distinct morphemes, illustrating how prefixes and suffixes attach to a base word.](https://wikipedia.org/wiki/Special:Redirect/file/Independently_morphology_tree.png)
 
 Understanding the core of a word is crucial:
 *   **A base word** functions as a standalone meaningful word. (e.g., *build* in *rebuild*).

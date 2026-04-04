@@ -10,6 +10,8 @@ Let’s explore this [century](https://en.wikipedia.org/wiki/Century) of radical
 
 Think of the early [1900s](https://en.wikipedia.org/wiki/1900s_%28decade%29) as a crowded room where everyone is heavily armed and tied together with invisible strings ([alliances](https://en.wikipedia.org/wiki/Military_alliance)). If one person trips, everyone falls. That was [Europe](https://en.wikipedia.org/wiki/Europe) in [1914](https://en.wikipedia.org/wiki/1914). 
 
+![Map illustrating the opposing military alliances in Europe prior to World War I, representing the invisible strings that pulled nations into a global conflict.](https://wikipedia.org/wiki/Special:Redirect/file/Map_Europe_alliances_1914-en.svg)
+
 But why did [America](https://en.wikipedia.org/wiki/United_States) care? For a while, we didn't. **[Woodrow Wilson](https://en.wikipedia.org/wiki/Woodrow_Wilson) served as the [United States president](https://en.wikipedia.org/wiki/President_of_the_United_States) during [World War I](https://en.wikipedia.org/wiki/World_War_I)**, and his initial promise was to keep us out of it. However, the dynamics shifted, and **the [United States](https://en.wikipedia.org/wiki/United_States) entered [World War I](https://en.wikipedia.org/wiki/World_War_I) in [1917](https://en.wikipedia.org/wiki/1917)**. 
 
 Why the change of heart? Two massive triggers:
@@ -33,6 +35,8 @@ The intellectual foundation was laid decades earlier when **[Elizabeth Cady Stan
 
 How did they win? Not just by asking nicely. **The [women's suffrage movement](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_States) utilized parades and [civil disobedience](https://en.wikipedia.org/wiki/Civil_disobedience) to secure voting rights.** They blocked traffic, picketed the [White House](https://en.wikipedia.org/wiki/White_House), and went to jail. It was loud, disruptive, and incredibly brave.
 
+![Women suffragists marching down Fifth Avenue in New York City in 1917, demonstrating the highly visible and disruptive tactics used to secure voting rights.](https://wikipedia.org/wiki/Special:Redirect/file/Suffragists_Parade_Down_Fifth_Avenue%2C_1917.JPG)
+
 Finally, victory: **The ratification of the [19th Amendment](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) occurred in [1920](https://en.wikipedia.org/wiki/1920)**, and **the [19th Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) granted women the right to vote.**
 
 > **⚠️ Pedagogical Warning: The Illusion of Immediate Equality**
@@ -54,6 +58,8 @@ What was the "gas"? Three deep systemic failures:
 
 By the time the dust settled—literally, as **the [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl) exacerbated agricultural devastation across the [Great Plains](https://en.wikipedia.org/wiki/Great_Plains) during the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression)**—the country was in ruins. **[United States](https://en.wikipedia.org/wiki/United_States) [unemployment](https://en.wikipedia.org/wiki/Unemployment_in_the_United_States) reached approximately 25 percent in [1933](https://en.wikipedia.org/wiki/1933).** One in four workers had nothing.
 
+![Farm machinery buried by wind-blown dirt in South Dakota in 1936. The Dust Bowl severely worsened the economic collapse of the Great Depression for agricultural communities.](https://wikipedia.org/wiki/Special:Redirect/file/Dust_Bowl_-_Dallas%2C_South_Dakota_1936.jpg)
+
 ### Upgrading the System: The [New Deal](https://en.wikipedia.org/wiki/New_Deal)
 To fix this, **[Franklin D. Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt) introduced the [New Deal](https://en.wikipedia.org/wiki/New_Deal) in the [1930s](https://en.wikipedia.org/wiki/1930s).** 
 
@@ -63,6 +69,8 @@ To fix this, **[Franklin D. Roosevelt](https://en.wikipedia.org/wiki/Franklin_D.
 | :--- | :--- | :--- |
 | **The [Civilian Conservation Corps](https://en.wikipedia.org/wiki/Civilian_Conservation_Corps)** | A **[New Deal](https://en.wikipedia.org/wiki/New_Deal) program employing young men in environmental projects.** | The government hired kids to plant billions of trees and build [national parks](https://en.wikipedia.org/wiki/National_park) so they could send paychecks home to their starving families. |
 | **The [Social Security Act of 1935](https://en.wikipedia.org/wiki/Social_Security_Act)** | **Established a system of old-age benefits for workers.** | A nationwide piggy bank to ensure that when you get too old to work, you don't instantly become poor. |
+
+![Young men in the Civilian Conservation Corps (CCC) building infrastructure. New Deal programs provided paychecks to starving families by creating government-funded environmental and public works jobs.](https://wikipedia.org/wiki/Special:Redirect/file/Civilian_Conservation_Corps_-_NARA_-_195832.jpg)
 
 **The Big Takeaway:** **The [New Deal](https://en.wikipedia.org/wiki/New_Deal) permanently expanded the regulatory role of the [federal government](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States) in the [United States economy](https://en.wikipedia.org/wiki/Economy_of_the_United_States).** Before [FDR](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt), people thought the government should leave the economy alone. After [FDR](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt), the government became the ultimate safety net.
 
@@ -74,10 +82,14 @@ The [Great Depression](https://en.wikipedia.org/wiki/Great_Depression) didn't tr
 
 **The [Japanese military](https://en.wikipedia.org/wiki/Imperial_Japanese_Armed_Forces) attacked [Pearl Harbor](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor) on [December 7, 1941](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor).** This devastating surprise attack **prompted the [United States](https://en.wikipedia.org/wiki/United_States) to declare war on [Japan](https://en.wikipedia.org/wiki/Empire_of_Japan)**, officially dragging [America](https://en.wikipedia.org/wiki/United_States) into [World War II](https://en.wikipedia.org/wiki/World_War_II).
 
+![The USS Arizona burning after the surprise attack on Pearl Harbor, the catalyst that directly prompted the United States to enter World War II.](https://wikipedia.org/wiki/Special:Redirect/file/The_USS_Arizona_(BB-39)_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg)
+
 ### The Home Front
 To win a global war, you need stuff—lots of it. **American involvement in [World War II](https://en.wikipedia.org/wiki/World_War_II) shifted the domestic economy to massive wartime manufacturing.** The country transformed overnight. Car factories started building [tanks](https://en.wikipedia.org/wiki/Tank). [Typewriter](https://en.wikipedia.org/wiki/Typewriter) factories built [machine guns](https://en.wikipedia.org/wiki/Machine_gun). 
 
 And who built them? Women. With millions of men deployed overseas, **wartime production during [World War II](https://en.wikipedia.org/wiki/World_War_II) created massive factory employment opportunities for women.** (Think [Rosie the Riveter](https://en.wikipedia.org/wiki/Rosie_the_Riveter)!)
+
+![Women assembling aircraft components during World War II. The massive wartime manufacturing effort created unprecedented industrial employment opportunities for American women.](https://wikipedia.org/wiki/Special:Redirect/file/Women_working_at_Douglas_Aircraft.jpg)
 
 ### The End of the War
 Leadership transitioned during the war's final, brutal phase. **[Franklin D. Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt) served as the [United States president](https://en.wikipedia.org/wiki/President_of_the_United_States) for the majority of [World War II](https://en.wikipedia.org/wiki/World_War_II)**, but he died in office. **[Harry S. Truman](https://en.wikipedia.org/wiki/Harry_S._Truman) served as the [United States president](https://en.wikipedia.org/wiki/President_of_the_United_States) at the conclusion of [World War II](https://en.wikipedia.org/wiki/World_War_II).**
@@ -94,6 +106,8 @@ Imagine two giants trapped in a room, both holding [dynamite](https://en.wikiped
 
 **The [Cold War](https://en.wikipedia.org/wiki/Cold_War) was a period of geopolitical tension between the [United States](https://en.wikipedia.org/wiki/United_States) and the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) from [1947](https://en.wikipedia.org/wiki/1947) to [1991](https://en.wikipedia.org/wiki/1991).** They rarely fought each other directly; instead, they played a global game of [chess](https://en.wikipedia.org/wiki/Chess).
 
+![A global map illustrating Cold War alliances, highlighting the geopolitical and military division between the United States and its allies versus the Soviet Union and its satellite states.](https://wikipedia.org/wiki/Special:Redirect/file/Cold_War_Map_1980.svg)
+
 The [US](https://en.wikipedia.org/wiki/United_States) strategy was simple: **The [United States](https://en.wikipedia.org/wiki/United_States) [policy of containment](https://en.wikipedia.org/wiki/Containment) aimed to prevent the global spread of [communism](https://en.wikipedia.org/wiki/Communism).** If the Soviets tried to influence a country, [America](https://en.wikipedia.org/wiki/United_States) stepped in to stop it. This policy had massive, bloody consequences:
 * **The [United States](https://en.wikipedia.org/wiki/United_States) participated in the [Korean War](https://en.wikipedia.org/wiki/Korean_War) to contain the spread of [communism](https://en.wikipedia.org/wiki/Communism).**
 * **The [United States](https://en.wikipedia.org/wiki/United_States) participated in the [Vietnam War](https://en.wikipedia.org/wiki/Vietnam_War) to contain the spread of [communism](https://en.wikipedia.org/wiki/Communism).**
@@ -101,6 +115,8 @@ The [US](https://en.wikipedia.org/wiki/United_States) strategy was simple: **The
 Sometimes, the stare-down almost turned fatal. **The [Cuban Missile Crisis of 1962](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis) brought the [United States](https://en.wikipedia.org/wiki/United_States) and the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) close to [nuclear war](https://en.wikipedia.org/wiki/Nuclear_warfare)** when Soviet missiles were discovered just 90 miles off the coast of [Florida](https://en.wikipedia.org/wiki/Florida). 
 
 But it wasn't all just weapons—it was a battle of prestige and technology. This rivalry fueled the [Space Race](https://en.wikipedia.org/wiki/Space_Race), culminating when **the [United States](https://en.wikipedia.org/wiki/United_States) [Apollo 11](https://en.wikipedia.org/wiki/Apollo_11) mission successfully landed astronauts on the [moon](https://en.wikipedia.org/wiki/Moon) in [1969](https://en.wikipedia.org/wiki/1969).**
+
+![Astronaut Buzz Aldrin saluting the American flag on the lunar surface in 1969, marking the culmination of the Space Race fueled by Cold War rivalry.](https://wikipedia.org/wiki/Special:Redirect/file/Buzz_salutes_the_U.S._Flag.jpg)
 
 ---
 
@@ -112,11 +128,15 @@ The legal turning point arrived when **the [Supreme Court](https://en.wikipedia.
 
 But changing the law isn't the same as changing reality. It took ordinary people taking extraordinary risks to force change. **The [Montgomery Bus Boycott](https://en.wikipedia.org/wiki/Montgomery_bus_boycott) began in [1955](https://en.wikipedia.org/wiki/1955)**. How did it start? It **started after [Rosa Parks](https://en.wikipedia.org/wiki/Rosa_Parks) refused to surrender a bus seat to a white passenger.** 
 
+![Rosa Parks being fingerprinted following her arrest for refusing to surrender her segregated bus seat, an act of civil disobedience that ignited the Montgomery Bus Boycott.](https://wikipedia.org/wiki/Special:Redirect/file/Rosa_Parks_being_fingerprinted_by_Deputy_Sheriff_D.H._Lackey_after_being_arrested_for_refusing_to_give_up_her_seat_for_a_white_passenger_on_a_segregated_municipal_bus_in_Montgomery%2C_Alabama.jpg)
+
 The movement's core philosophy was brilliant and deeply demanding. **[Nonviolent protest](https://en.wikipedia.org/wiki/Nonviolence) was a primary strategy employed by [civil rights movement](https://en.wikipedia.org/wiki/Civil_rights_movement) leaders like [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)** By peacefully absorbing violence, they forced the entire nation to watch the brutality of [segregation](https://en.wikipedia.org/wiki/Racial_segregation_in_the_United_States) on their new [television sets](https://en.wikipedia.org/wiki/Television).
 
 The momentum peaked when **[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) delivered the ['I Have a Dream' speech](https://en.wikipedia.org/wiki/I_Have_a_Dream) in [1963](https://en.wikipedia.org/wiki/1963)** at the [March on Washington](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom), leading to landmark legislative victories:
 * **The [Civil Rights Act of 1964](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964) outlawed employment discrimination based on race.**
 * **The [Voting Rights Act of 1965](https://en.wikipedia.org/wiki/Voting_Rights_Act_of_1965) banned [literacy tests](https://en.wikipedia.org/wiki/Literacy_test) at polling places**, tearing down the very barriers that had blocked [Black](https://en.wikipedia.org/wiki/African_Americans) voters since the [19th Amendment](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution).
+
+![President Lyndon B. Johnson signing the Civil Rights Act of 1964 into law, with Dr. Martin Luther King Jr. and other key movement leaders standing behind him.](https://wikipedia.org/wiki/Special:Redirect/file/Lyndon_Johnson_signing_Civil_Rights_Act%2C_July_2%2C_1964.jpg)
 
 > **⚠️ Pedagogical Warning: The "Happily Ever After" Fallacy**
 > **Elementary students often mistakenly believe the [Civil Rights movement](https://en.wikipedia.org/wiki/Civil_rights_movement) ended completely with the passage of [1960s](https://en.wikipedia.org/wiki/1960s) legislation.** They think [MLK](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) gave a speech, a law was signed, and [racism](https://en.wikipedia.org/wiki/Racism) vanished. As a teacher, you must connect the historical [civil rights movement](https://en.wikipedia.org/wiki/Civil_rights_movement) to ongoing, modern-day struggles for [equity](https://en.wikipedia.org/wiki/Social_equity), housing, and justice. History is not a closed book!
@@ -133,10 +153,14 @@ In the [1970s](https://en.wikipedia.org/wiki/1970s) and [80s](https://en.wikiped
 
 Then came the true catalyst: **The [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) became publicly accessible in [1991](https://en.wikipedia.org/wiki/1991).** (Notice the date! [1991](https://en.wikipedia.org/wiki/1991) is the exact year the [Cold War](https://en.wikipedia.org/wiki/Cold_War) ended. As geopolitical walls fell, digital walls fell, too). 
 
+![The NeXT Computer used by Sir Tim Berners-Lee to host the world's first World Wide Web server in 1991, effectively launching the modern Information Age.](https://wikipedia.org/wiki/Special:Redirect/file/First_Web_Server.jpg)
+
 **The [Information Age](https://en.wikipedia.org/wiki/Information_Age) accelerated [economic globalization](https://en.wikipedia.org/wiki/Economic_globalization) by enabling instantaneous international data transfer.** You can explain this to students by pointing out that a shoe designer in [New York](https://en.wikipedia.org/wiki/New_York_City) can email blueprints to a factory in [Vietnam](https://en.wikipedia.org/wiki/Vietnam) in two seconds, and the financial transaction can be processed in [London](https://en.wikipedia.org/wiki/London) a millisecond later. The world is now a single, deeply connected neighborhood.
 
 > **⚠️ Pedagogical Warning: The "Before [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)" Blindspot**
 > Here is a deeply practical teaching challenge: **Elementary students often struggle to conceptualize historical research methods predating the [internet](https://en.wikipedia.org/wiki/Internet).** They literally cannot fathom how someone found information without [Google](https://en.wikipedia.org/wiki/Google). When teaching this era, physically show them [encyclopedias](https://en.wikipedia.org/wiki/Encyclopedia), explain the [Dewey Decimal System](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification), or describe library [microfilms](https://en.wikipedia.org/wiki/Microform). Helping them understand *how* information used to be scarce helps them appreciate *why* the [Information Age](https://en.wikipedia.org/wiki/Information_Age) is such a profound leap in human history!
+
+![A librarian teaching children about the Dewey Decimal Classification system in the 1960s. Visualizing pre-internet research helps elementary students grasp the revolutionary impact of the Information Age.](https://wikipedia.org/wiki/Special:Redirect/file/Edmonton_Librarian_teaching_students_about_the_Dewey_Decimal_System_(32848929670).jpg)
 
 ---
 

@@ -16,6 +16,8 @@ Notice the phrasing: *responsibility for the performance*. If I ask an assistive
 
 If you delegate a task, you still own the outcome. If the UAP takes a [blood pressure](https://en.wikipedia.org/wiki/Blood_pressure), gets an abnormally low reading, doesn't tell you, and the patient crashes—*you* are accountable. You cannot shrug and say, "Well, I told them to do it!" The buck stops with you. 
 
+![Measuring blood pressure involves understanding both systolic and diastolic readings. While a UAP can perform the mechanical measurement, the delegating nurse retains full accountability for interpreting the clinical significance of the results.](https://wikipedia.org/wiki/Special:Redirect/file/Blood_pressure_measurement_principle.svg)
+
 > An **assignment**, on the other hand, is the routine distribution of client care duties among unit staff members during a designated work period. 
 
 Assignments are about dividing up the workload based on [scope of practice](https://en.wikipedia.org/wiki/Scope_of_practice). When you arrive for your shift, the [charge nurse](https://en.wikipedia.org/wiki/Charge_nurse) *assigns* you four clients. You are responsible *and* accountable for them. When you look at your fellow PNs, **a practical nurse can assign the care of stable clients with predictable health outcomes to another [licensed practical nurse](https://en.wikipedia.org/wiki/Licensed_practical_nurse).** You are handing over both the responsibility and the accountability within their licensed scope.
@@ -91,6 +93,8 @@ If you see these on the NCLEX-PN, immediately recognize them as out of bounds fo
 *   **No High-Risk Feeding:** **Unlicensed assistive personnel are prohibited from feeding clients who are on active aspiration precautions.** If a client has [dysphagia](https://en.wikipedia.org/wiki/Dysphagia) (difficulty swallowing) from a [stroke](https://en.wikipedia.org/wiki/Stroke), feeding them requires vigilant observation of their [swallowing reflex](https://en.wikipedia.org/wiki/Swallowing) and airway status. 
 *   **No Meds:** **A practical nurse cannot delegate standard medication administration to unlicensed assistive personnel in an acute care setting.** (There are rare exceptions in certain [long-term care](https://en.wikipedia.org/wiki/Long-term_care) or home settings with highly specialized med-aides depending on state law, but on the NCLEX for an acute care hospital, the answer is a hard *no*).
 
+![A barium swallow study demonstrating pulmonary aspiration. Tasks like feeding clients with dysphagia or administering enteral tube feedings carry a high risk of aspiration, requiring continuous clinical assessment that cannot be delegated to assistive personnel.](https://wikipedia.org/wiki/Special:Redirect/file/Aspiration_on_barium_swallow.jpg)
+
 ***
 
 ## Navigating Changing Tides: When Assignments Must Change
@@ -101,6 +105,8 @@ Imagine you’ve delegated the routine vital signs of a client to a UAP. Suddenl
 
 But what if the client's deterioration or newly prescribed care requires skills that are totally outside your scope of practice as a PN? Perhaps they need a specific type of [central line](https://en.wikipedia.org/wiki/Central_venous_catheter) care or an [IV push](https://en.wikipedia.org/wiki/Intravenous_therapy) medication that PNs are not legally permitted to administer.
 
+![A central venous access device (such as a non-tunneled CVC) enters the central circulation. Caring for these lines involves high-risk, complex interventions that typically fall outside a practical nurse's scope of practice, requiring reassignment.](https://wikipedia.org/wiki/Special:Redirect/file/Blausen_0181_Catheter_CentralVenousAccessDevice_NonTunneled.png)
+
 Here is exactly what you do:
 1.  **A practical nurse must notify the [registered nurse](https://en.wikipedia.org/wiki/Registered_nurse) supervisor immediately when a client's condition requires a change in staff assignments.** Do not try to be a hero and work outside your scope.
 2.  **A practical nurse must request an assignment change from a supervisor if an assigned client requires complex interventions outside the scope of practice of a practical nurse.** 
@@ -108,6 +114,8 @@ Here is exactly what you do:
 ### Knowing Your Own Limits
 
 Professionalism isn't just knowing what you *can* do; it is being fiercely honest about what you *can't* do. Let’s say the supervisor assigns you a client who requires [peritoneal dialysis](https://en.wikipedia.org/wiki/Peritoneal_dialysis). It’s technically within a PN's scope in your state, *but* you have never been trained on it and have never done it. 
+
+![Continuous Ambulatory Peritoneal Dialysis (CAPD) is a complex procedure involving the infusion and drainage of dialysate into the abdominal cavity. A nurse must refuse this assignment if they lack the specific, documented competency to perform it safely.](https://wikipedia.org/wiki/Special:Redirect/file/Blausen_0160_CAPD.png)
 
 Do you watch a quick [YouTube](https://en.wikipedia.org/wiki/YouTube) video and hope for the best? Absolutely not! **A practical nurse must refuse an assignment and notify the supervisor if the practical nurse lacks the specific training to perform a required task safely.** Refusing an unsafe assignment isn't [insubordination](https://en.wikipedia.org/wiki/Insubordination); it is the ultimate act of [patient advocacy](https://en.wikipedia.org/wiki/Patient_advocacy). You tell the supervisor, "I am not competent in this specific skill, and it would be unsafe for the client. I need to be reassigned, or I need an instructor to guide me."
 

@@ -10,58 +10,68 @@ Let’s dive into the fascinating, invisible [forces](https://en.wikipedia.org/w
 
 ## The Chemical Landscape: Information is Your Best Armor
 
-Before you touch any chemical, you need the blueprints of what you are dealing with. In a hospital, we clean with highly reactive agents. These aren't your standard household [soaps](https://en.wikipedia.org/wiki/Soap). 
+Before you touch any chemical, you need the blueprints of what you are dealing with. In a hospital, we clean with highly [reactive](https://en.wikipedia.org/wiki/Reactivity_%28chemistry%29) agents. These aren't your standard household [soaps](https://en.wikipedia.org/wiki/Soap). 
 
-Every [healthcare facility](https://en.wikipedia.org/wiki/Health_facility) mandates the availability of **[Safety Data Sheets (SDS)](https://en.wikipedia.org/wiki/Safety_data_sheet)** for all hazardous chemicals used on the premises. Think of an SDS as the absolute, standardized instruction manual for a chemical hazard. It tells you its reactivity, what to do if you [swallow it](https://en.wikipedia.org/wiki/Swallowing), and how to safely handle it. 
+Every [healthcare facility](https://en.wikipedia.org/wiki/Health_facility) mandates the availability of **[Safety Data Sheets (SDS)](https://en.wikipedia.org/wiki/Safety_data_sheet)** for all hazardous [chemicals](https://en.wikipedia.org/wiki/Chemical_substance) used on the premises. Think of an SDS as the absolute, standardized instruction manual for a [chemical hazard](https://en.wikipedia.org/wiki/Chemical_hazard). It tells you its reactivity, what to do if you [swallow it](https://en.wikipedia.org/wiki/Swallowing), and how to safely handle it. 
 
-When you are preparing to use hazardous cleaning agents, you must protect your most sensitive mucosa. **Nurses must wear protective eye [goggles](https://en.wikipedia.org/wiki/Goggles)** when there is a risk of chemical splashes. You cannot afford to let a corrosive molecule find its way into your [cornea](https://en.wikipedia.org/wiki/Cornea). The SDS will always tell you exactly what armor you need. Read it. Respect it.
+![Standardized GHS hazard pictograms found on Safety Data Sheets (SDS) and chemical labels, indicating specific chemical dangers like flammability and corrosivity.](https://wikipedia.org/wiki/Special:Redirect/file/GHS_HAZCOM_Safety_Labels.jpg)
+
+When you are preparing to use hazardous cleaning agents, you must protect your most sensitive [mucosa](https://en.wikipedia.org/wiki/Mucous_membrane). **Nurses must wear protective eye [goggles](https://en.wikipedia.org/wiki/Goggles)** when there is a risk of chemical splashes. You cannot afford to let a [corrosive](https://en.wikipedia.org/wiki/Corrosive_substance) [molecule](https://en.wikipedia.org/wiki/Molecule) find its way into your [cornea](https://en.wikipedia.org/wiki/Cornea). The SDS will always tell you exactly what armor you need. Read it. Respect it.
 
 ---
 
 ## The Combustible Environment: Fire and Flammables
 
-Now, let's talk about fire. Fire needs three things: fuel, heat, and oxygen. As a nurse, you are frequently handing the universe extra doses of two out of three. 
+Now, let's talk about fire. Fire needs [three things: fuel, heat, and oxygen](https://en.wikipedia.org/wiki/Fire_triangle). As a nurse, you are frequently handing the universe extra doses of two out of three. 
 
-Consider hand hygiene. **Alcohol-based [hand rubs](https://en.wikipedia.org/wiki/Hand_sanitizer) contain high concentrations of alcohol and are highly flammable.** They are essentially liquid fuel. When you rub them on your hands, the [friction](https://en.wikipedia.org/wiki/Friction) generates slight heat, and the alcohol [evaporates](https://en.wikipedia.org/wiki/Evaporation) rapidly. Until your hands are completely dry, you are wearing highly combustible gloves.
+![The Fire Triangle illustrates the three elements required for combustion: heat, fuel, and oxygen. In healthcare, alcohol rubs often provide fuel, while supplemental oxygen creates an oxygen-enriched environment.](https://wikipedia.org/wiki/Special:Redirect/file/Fire_triangle.svg)
+
+Consider [hand hygiene](https://en.wikipedia.org/wiki/Hand_washing). **Alcohol-based [hand rubs](https://en.wikipedia.org/wiki/Hand_sanitizer) contain high concentrations of [alcohol](https://en.wikipedia.org/wiki/Alcohol_%28chemistry%29) and are highly [flammable](https://en.wikipedia.org/wiki/Flammability).** They are essentially liquid [fuel](https://en.wikipedia.org/wiki/Fuel). When you rub them on your hands, the [friction](https://en.wikipedia.org/wiki/Friction) generates slight [heat](https://en.wikipedia.org/wiki/Heat), and the alcohol [evaporates](https://en.wikipedia.org/wiki/Evaporation) rapidly. Until your hands are completely dry, you are wearing highly combustible gloves.
 
 But the real wild card is oxygen. People think of oxygen as "air," but in pure form, it is a highly reactive gas. **[Oxygen](https://en.wikipedia.org/wiki/Oxygen) actively supports [combustion](https://en.wikipedia.org/wiki/Combustion) and significantly increases the risk of rapidly spreading [fires](https://en.wikipedia.org/wiki/Fire).** It doesn’t burn by itself, but it makes everything else burn hotter, faster, and with terrifying efficiency. 
 
-Because of this intense [chemistry](https://en.wikipedia.org/wiki/Chemistry), **[oxygen therapy](https://en.wikipedia.org/wiki/Oxygen_therapy) environments require the strict removal of flammable items like petroleum-based lip balms.** If a patient is wearing [petroleum jelly](https://en.wikipedia.org/wiki/Petroleum_jelly) on their lips and an ignition source (like [static electricity](https://en.wikipedia.org/wiki/Static_electricity) or a spark) occurs near the oxygen cannula, the patient's face can quite literally catch fire. We swap petroleum out for water-based lubricants. Always look at the environment through the lens of [thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics).
+Because of this intense [chemistry](https://en.wikipedia.org/wiki/Chemistry), **[oxygen therapy](https://en.wikipedia.org/wiki/Oxygen_therapy) environments require the strict removal of flammable items like [petroleum-based](https://en.wikipedia.org/wiki/Petroleum) lip balms.** If a patient is wearing [petroleum jelly](https://en.wikipedia.org/wiki/Petroleum_jelly) on their lips and an [ignition source](https://en.wikipedia.org/wiki/Ignition) (like [static electricity](https://en.wikipedia.org/wiki/Static_electricity) or a [spark](https://en.wikipedia.org/wiki/Spark_%28fire%29)) occurs near the [oxygen cannula](https://en.wikipedia.org/wiki/Nasal_cannula), the patient's face can quite literally catch fire. We swap petroleum out for water-based [lubricants](https://en.wikipedia.org/wiki/Lubricant). Always look at the environment through the lens of [thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics).
 
 ---
 
 ## The Microscopic Battlefield: Biohazards and Sharps
 
-**Biohazardous materials in healthcare settings include [blood](https://en.wikipedia.org/wiki/Blood), [body fluids](https://en.wikipedia.org/wiki/Body_fluid), and human [tissue](https://en.wikipedia.org/wiki/Tissue_%28biology%29).** These aren't just fluids; they are potential vectors. The core concept here is containment. **Proper disposal of biohazardous waste prevents the transmission of bloodborne pathogens and [infectious agents](https://en.wikipedia.org/wiki/Pathogen)** like [HIV](https://en.wikipedia.org/wiki/HIV), Hepatitis B, and [Hepatitis C](https://en.wikipedia.org/wiki/Hepatitis_C).
+**[Biohazardous](https://en.wikipedia.org/wiki/Biological_hazard) materials in healthcare settings include [blood](https://en.wikipedia.org/wiki/Blood), [body fluids](https://en.wikipedia.org/wiki/Body_fluid), and human [tissue](https://en.wikipedia.org/wiki/Tissue_%28biology%29).** These aren't just fluids; they are potential [vectors](https://en.wikipedia.org/wiki/Vector_%28epidemiology%29). The core concept here is containment. **Proper disposal of biohazardous waste prevents the transmission of [bloodborne pathogens](https://en.wikipedia.org/wiki/Bloodborne_pathogen) and [infectious agents](https://en.wikipedia.org/wiki/Pathogen)** like [HIV](https://en.wikipedia.org/wiki/HIV), [Hepatitis B](https://en.wikipedia.org/wiki/Hepatitis_B), and [Hepatitis C](https://en.wikipedia.org/wiki/Hepatitis_C).
 
 ### The Physics of Sharps Containers
-A used [needle](https://en.wikipedia.org/wiki/Hypodermic_needle) is a biohazardous dagger. Therefore, **sharps containers must be constructed of puncture-resistant and leak-proof materials.** But here is where human [error](https://en.wikipedia.org/wiki/Human_error) creeps in: overfilling. When you force a needle into a full container, the base of the needle can puncture the side, or another needle can pop out. This is why **sharps containers must be replaced when the containers reach three-quarters full.** Not completely full. Three-quarters. It is a mathematical margin of safety.
+A used [needle](https://en.wikipedia.org/wiki/Hypodermic_needle) is a biohazardous dagger. Therefore, **[sharps containers](https://en.wikipedia.org/wiki/Sharps_container) must be constructed of puncture-resistant and leak-proof materials.** But here is where human [error](https://en.wikipedia.org/wiki/Human_error) creeps in: overfilling. When you force a needle into a full container, the base of the needle can puncture the side, or another needle can pop out. This is why **sharps containers must be replaced when the containers reach three-quarters full.** Not completely full. Three-quarters. It is a mathematical margin of safety.
+
+![A puncture-resistant sharps container. These must be replaced when three-quarters full to prevent accidental needlesticks from overfilled needles puncturing the sides or protruding from the top.](https://wikipedia.org/wiki/Special:Redirect/file/Sharps_Container.jpg)
 
 > **The Golden Rule of Needles**
 > **Needles must never be recapped using a two-handed technique.**
 > Bringing a needle toward a tiny plastic cap held by your opposite hand is a statistical probability of disaster. Your hands shake, [depth perception](https://en.wikipedia.org/wiki/Depth_perception) fails, and you puncture your own finger. 
 
-If recapping a needle is *absolutely necessary* (perhaps drawing up a specific [medication](https://en.wikipedia.org/wiki/Medication) away from the bedside), you must use physics to your advantage. **The one-handed scoop technique minimizes the risk of accidental needle-stick injuries.** You leave the cap on the table, use the needle to "scoop" it up with one hand, and then push it against a hard surface to secure it. Your opposing hand is completely out of the equation.
+If recapping a needle is *absolutely necessary* (perhaps drawing up a specific [medication](https://en.wikipedia.org/wiki/Medication) away from the bedside), you must use physics to your advantage. **The one-handed scoop technique minimizes the risk of accidental [needle-stick injuries](https://en.wikipedia.org/wiki/Needlestick_injury).** You leave the cap on the table, use the needle to "scoop" it up with one hand, and then push it against a hard surface to secure it. Your opposing hand is completely out of the equation.
 
 ### The "Red Bag" Economy
 Every [student nurse](https://en.wikipedia.org/wiki/Nursing_student) falls into the trap of overusing the red biohazard bags. Let’s clarify the rules of engagement.
 
 **Red biohazard bags are strictly reserved for materials heavily saturated with blood or infectious body fluids.** Think of it as liquid-yielding. If you squeeze the [dressing](https://en.wikipedia.org/wiki/Dressing_%28medical%29) and blood drips out, it goes in the red bag. 
 
-Conversely, **medical items containing only trace amounts of blood do not require disposal in a red biohazard bag.** A tiny dot of blood on an alcohol prep pad after a fingerstick? That goes in the regular trash. Red bag waste is highly regulated, incinerated at extreme temperatures, and incredibly expensive. We don’t waste it on a band-aid. 
+Conversely, **medical items containing only trace amounts of blood do not require disposal in a red biohazard bag.** A tiny dot of blood on an alcohol prep pad after a [fingerstick](https://en.wikipedia.org/wiki/Fingerstick)? That goes in the regular trash. Red bag waste is highly regulated, [incinerated](https://en.wikipedia.org/wiki/Incineration) at extreme temperatures, and incredibly expensive. We don’t waste it on a band-aid. 
 
 ### Spills and Dilutions
 If you drop a blood tube and it shatters, you now have a microscopic minefield on the floor. First step? Protect yourself. **Blood spill cleanup requires the nurse to don appropriate [personal protective equipment (PPE)](https://en.wikipedia.org/wiki/Personal_protective_equipment) prior to starting the process.** You cannot help a patient if you become a patient.
 
-Once you are armored up, you attack the spill with chemistry. **Healthcare blood spills are commonly cleaned using a 1:10 bleach-to-water dilution.** The [sodium hypochlorite](https://en.wikipedia.org/wiki/Sodium_hypochlorite) in the bleach rapidly [denatures](https://en.wikipedia.org/wiki/Denaturation_%28biochemistry%29) the [proteins](https://en.wikipedia.org/wiki/Protein) of the bloodborne pathogens, rendering them completely harmless. 
+Once you are armored up, you attack the spill with chemistry. **Healthcare blood spills are commonly cleaned using a 1:10 [bleach](https://en.wikipedia.org/wiki/Bleach)-to-water dilution.** The [sodium hypochlorite](https://en.wikipedia.org/wiki/Sodium_hypochlorite) in the bleach rapidly [denatures](https://en.wikipedia.org/wiki/Denaturation_%28biochemistry%29) the [proteins](https://en.wikipedia.org/wiki/Protein) of the bloodborne pathogens, rendering them completely harmless. 
+
+![Chemical agents like sodium hypochlorite (bleach) denature the proteins of bloodborne pathogens. Much like cooking an egg changes the structure of albumin, bleach irreversibly alters viral and bacterial proteins, neutralizing the threat.](https://wikipedia.org/wiki/Special:Redirect/file/Protein_Denaturation.png)
 
 ---
 
 ## Cellular Assassins: Chemotherapy Handling
 
-Now we move from biological hazards to synthetic ones. **[Chemotherapy](https://en.wikipedia.org/wiki/Chemotherapy) drugs require specialized hazardous waste handling protocols.** These medications are cytotoxic—meaning they are literally designed to kill rapidly dividing [cells](https://en.wikipedia.org/wiki/Cell_%28biology%29). The drug doesn't know the difference between the patient's [tumor cells](https://en.wikipedia.org/wiki/Neoplasm) and your healthy [stem cells](https://en.wikipedia.org/wiki/Stem_cell). 
+Now we move from biological hazards to synthetic ones. **[Chemotherapy](https://en.wikipedia.org/wiki/Chemotherapy) drugs require specialized hazardous waste handling protocols.** These medications are [cytotoxic](https://en.wikipedia.org/wiki/Cytotoxicity)—meaning they are literally designed to kill rapidly dividing [cells](https://en.wikipedia.org/wiki/Cell_%28biology%29). The drug doesn't know the difference between the patient's [tumor cells](https://en.wikipedia.org/wiki/Neoplasm) and your healthy [stem cells](https://en.wikipedia.org/wiki/Stem_cell). 
 
-To handle these cellular poisons safely, **nurses handling chemotherapy medications must wear double gloves and a fluid-resistant gown.** Why double gloves? Because many chemotherapy agents can permeate standard latex or [nitrile](https://en.wikipedia.org/wiki/Nitrile_rubber) over time. The second glove provides an essential barrier of depth. 
+![Cytotoxic chemotherapy drugs target cells undergoing active division in the cell cycle. Because they cannot distinguish between a patient's tumor cells and a nurse's healthy dividing cells, strict PPE is required.](https://wikipedia.org/wiki/Special:Redirect/file/Cell_cycle_simple.png)
+
+To handle these cellular poisons safely, **nurses handling chemotherapy medications must wear double [gloves](https://en.wikipedia.org/wiki/Medical_glove) and a fluid-resistant [gown](https://en.wikipedia.org/wiki/Isolation_gown).** Why double gloves? Because many chemotherapy agents can [permeate](https://en.wikipedia.org/wiki/Permeation) standard [latex](https://en.wikipedia.org/wiki/Latex) or [nitrile](https://en.wikipedia.org/wiki/Nitrile_rubber) over time. The second glove provides an barrier of depth. 
 
 When the [infusion](https://en.wikipedia.org/wiki/Intravenous_therapy) is done, the bags and tubing cannot go into the regular trash or even the standard red biohazard bag. **Cytotoxic waste must be disposed of in a designated hazardous waste container** (often a bright yellow bin). 
 
@@ -69,35 +79,43 @@ When the [infusion](https://en.wikipedia.org/wiki/Intravenous_therapy) is done, 
 
 ## The Emitting Patient: Internal Radiation Therapy
 
-This is my favorite part of the curriculum because it is pure physics applied to human care. **Internal radiation therapy** (often called [brachytherapy](https://en.wikipedia.org/wiki/Brachytherapy)) involves placing a [radioactive source](https://en.wikipedia.org/wiki/Radioactive_decay) directly inside the patient's body—often to treat cervical or prostate cancers. 
+This is my favorite part of the curriculum because it is pure physics applied to human care. **Internal radiation therapy** (often called [brachytherapy](https://en.wikipedia.org/wiki/Brachytherapy)) involves placing a [radioactive source](https://en.wikipedia.org/wiki/Radioactive_decay) directly inside the patient's body—often to treat [cervical](https://en.wikipedia.org/wiki/Cervical_cancer) or [prostate cancers](https://en.wikipedia.org/wiki/Prostate_cancer). 
 
-While the source is inside, the *patient themselves* is emitting radiation. To keep healthcare workers and the public safe, we rely on the holy trinity of [radiation safety](https://en.wikipedia.org/wiki/Radiation_protection):
+![In cervical brachytherapy, applicators are inserted to deliver internal radiation directly to the tumor. The patient themselves becomes a temporary source of ionizing radiation during this treatment.](https://wikipedia.org/wiki/Special:Redirect/file/Diagram_showing_the_position_of_the_applicators_for_internal_radiotherapy_for_cervical_cancer_CRUK_344.svg)
+
+While the source is inside, the *patient themselves* is emitting [radiation](https://en.wikipedia.org/wiki/Ionizing_radiation). To keep healthcare workers and the public safe, we rely on the holy trinity of [radiation safety](https://en.wikipedia.org/wiki/Radiation_protection):
 
 > **The Holy Trinity of Radiation Safety**
 > **The core fundamental principles of radiation safety for healthcare personnel are time, distance, and shielding.** 
 > *   **Time:** Minimize exposure duration.
-> *   **Distance:** Maximize physical space from the source (Inverse Square Law).
-> *   **Shielding:** Put dense atomic matter (like lead) between you and the source.
+> *   **Distance:** Maximize physical space from the source ([Inverse Square Law](https://en.wikipedia.org/wiki/Inverse-square_law)).
+> *   **Shielding:** Put dense atomic matter (like [lead](https://en.wikipedia.org/wiki/Lead)) between you and the source.
 
 Let's break down how we apply these three principles to clinical practice.
 
 ### Shielding
-Because the patient is actively emitting, **internal radiation therapy requires the patient to be placed in a private room.** Furthermore, **patients receiving internal radiation therapy must have access to a private bathroom** so their radioactive excretions or dislodged sources do not expose a roommate. 
+Because the patient is actively emitting, **internal radiation therapy requires the patient to be placed in a private room.** Furthermore, **patients receiving internal radiation therapy must have access to a private bathroom** so their radioactive [excretions](https://en.wikipedia.org/wiki/Excretion) or dislodged sources do not expose a roommate. 
 
 When you go into that room to care for them, you must consider your own biology. Rapidly dividing cells are most susceptible to radiation. Therefore, **pregnant healthcare workers must not be assigned to care for a patient receiving internal radiation therapy.** The [fetus](https://en.wikipedia.org/wiki/Fetus) is in a constant state of rapid [cellular division](https://en.wikipedia.org/wiki/Cell_division) and is incredibly vulnerable. 
 
-For the non-pregnant nurses providing care, **lead aprons must be worn by healthcare providers when prolonged close physical contact with an internal radiation patient is necessary.** The dense molecular structure of the lead absorbs the radioactive scatter before it hits your [internal organs](https://en.wikipedia.org/wiki/Organ_%28biology%29).
+For the non-pregnant nurses providing care, **[lead aprons](https://en.wikipedia.org/wiki/Lead_apron) must be worn by healthcare providers when prolonged close physical contact with an internal radiation patient is necessary.** The dense [molecular structure](https://en.wikipedia.org/wiki/Molecular_geometry) of the lead absorbs the radioactive scatter before it hits your [internal organs](https://en.wikipedia.org/wiki/Organ_%28biology%29).
+
+![Different types of ionizing radiation require specific shielding. Gamma rays emitted during internal radiation therapy require dense atomic matter, such as a lead apron, to effectively absorb the energy.](https://wikipedia.org/wiki/Special:Redirect/file/Alfa_beta_gamma_radiation.svg)
 
 To track your exposure, **healthcare workers must wear a personal [dosimeter](https://en.wikipedia.org/wiki/Dosimeter) badge when caring for a patient undergoing internal radiation therapy.** 
 *   **A personal dosimeter badge measures the total accumulated radiation exposure for a specific healthcare worker over time.** 
-*   It is essentially a highly sensitive light-meter for invisible energy. 
+*   It is essentially a highly sensitive [light-meter](https://en.wikipedia.org/wiki/Light_meter) for invisible energy. 
 *   Because it tracks *your* specific cellular risk, **personal dosimeter badges must never be shared among different healthcare personnel.** Doing so ruins the data and blinds us to your actual radiation exposure.
+
+![A personal dosimeter tracks cumulative radiation exposure over time. It must be worn individually and never shared to accurately measure the specific healthcare worker's exposure risk.](https://wikipedia.org/wiki/Special:Redirect/file/Crocus-p1020509.jpg)
 
 ### Time and Distance (Visitor Protocols)
 The rules for visitors are strict, governed entirely by the mathematics of [radiation decay](https://en.wikipedia.org/wiki/Radioactive_decay) and distance.
 *   **Time:** **Visitors to a patient receiving internal radiation therapy are strictly limited to 30 minutes per day.** 
-*   **Distance:** **Visitors must maintain a physical distance of at least 6 feet from a patient receiving internal radiation therapy.** Why 6 feet? Because of the inverse-square law of physics: the intensity of radiation drops exponentially as you step away from it.
-*   **Vulnerable Populations:** Just like our nursing staff, **pregnant individuals are strictly prohibited from visiting a patient receiving internal radiation therapy.** Furthermore, **children under the age of 16 are prohibited from visiting.** Children's bodies are still actively growing, meaning their cells are dividing rapidly, making them highly sensitive to radiation damage.
+*   **Distance:** **Visitors must maintain a physical distance of at least 6 feet from a patient receiving internal radiation therapy.** Why 6 feet? Because of the inverse-square law of physics: the intensity of radiation drops [exponentially](https://en.wikipedia.org/wiki/Exponential_decay) as you step away from it.
+*   **Vulnerable Populations:** Just like our nursing staff, **pregnant individuals are strictly prohibited from visiting a patient receiving internal radiation therapy.** Furthermore, **children under the age of 16 are prohibited from visiting.** Children's bodies are still actively growing, meaning their cells are dividing rapidly, making them highly sensitive to [radiation damage](https://en.wikipedia.org/wiki/Health_effects_of_radiation).
+
+![The inverse-square law demonstrates that radiation intensity drops exponentially as distance increases. Maintaining a strict 6-foot distance from an emitting patient significantly reduces radiation exposure.](https://wikipedia.org/wiki/Special:Redirect/file/Inverse_square_law.svg)
 
 ### The Dislodgement Protocol: A Locked Room Mystery
 What happens if the radioactive implant falls out of the patient? We have to treat it like a dropped piece of the [sun](https://en.wikipedia.org/wiki/Sun). 
@@ -110,14 +128,14 @@ Before the patient even arrives, two critical items must be in the room:
 
 If you walk in and see the implant on the bed: **A dislodged radiation implant must be immediately picked up with forceps and placed into a lead-lined container.** You do not panic. You do not touch it. You use distance (forceps) and shielding (lead container) to instantly neutralize the threat.
 
-Finally, we come to the great scavenger hunt. **All bed linens must remain inside the internal radiation patient's room until the therapeutic radiation source is removed.** Similarly, **all room trash must remain inside the internal radiation patient's room until the therapeutic radiation source is removed.**
+Finally, we come to the great scavenger hunt. **All [bed linens](https://en.wikipedia.org/wiki/Bedding) must remain inside the internal radiation patient's room until the therapeutic radiation source is removed.** Similarly, **all room trash must remain inside the internal radiation patient's room until the therapeutic radiation source is removed.**
 
-Why on earth would we stockpile dirty laundry and trash in a patient's room? Imagine a tiny radioactive seed gets tangled in the bedsheets, and the laundry staff carts it away down the hall, through the hospital, and into a commercial washing machine. You have just irradiated the entire hospital. **Retaining all linens and trash in the radiation patient's room prevents the accidental disposal of a dislodged radioactive source.** We scan the room, the linens, and the trash with a [Geiger counter](https://en.wikipedia.org/wiki/Geiger_counter) *after* the procedure is finished. Only when the room reads "clear" does the trash leave. 
+Why on earth would we stockpile dirty laundry and trash in a patient's room? Imagine a tiny radioactive seed gets tangled in the bedsheets, and the laundry staff carts it away down the hall, through the hospital, and into a commercial washing machine. You have just [irradiated](https://en.wikipedia.org/wiki/Irradiation) the entire hospital. **Retaining all linens and trash in the radiation patient's room prevents the accidental disposal of a dislodged radioactive source.** We scan the room, the linens, and the trash with a [Geiger counter](https://en.wikipedia.org/wiki/Geiger_counter) *after* the procedure is finished. Only when the room reads "clear" does the trash leave. 
 
 ---
 
 ### Final Thoughts for the NCLEX
 
-Nursing is a beautiful synthesis of biology, chemistry, and physics. When you sit for the [NCLEX-RN](https://en.wikipedia.org/wiki/NCLEX) exam, don't just try to recall disconnected rules. Ask yourself: *What are the forces at play here?* Am I dealing with a [chemical burn](https://en.wikipedia.org/wiki/Chemical_burn), a highly flammable gas, a biological vector, a cellular [poison](https://en.wikipedia.org/wiki/Poison), or a radioactive isotope? 
+Nursing is a beautiful synthesis of biology, chemistry, and physics. When you sit for the [NCLEX-RN](https://en.wikipedia.org/wiki/NCLEX) exam, don't just try to recall disconnected rules. Ask yourself: *What are the forces at play here?* Am I dealing with a [chemical burn](https://en.wikipedia.org/wiki/Chemical_burn), a highly flammable gas, a biological vector, a cellular [poison](https://en.wikipedia.org/wiki/Poison), or a [radioactive isotope](https://en.wikipedia.org/wiki/Radionuclide)? 
 
 If you respect the [microscopic](https://en.wikipedia.org/wiki/Microscopic_scale) and physical realities of these materials, you won't just pass the test. You'll keep yourself, your colleagues, and your patients profoundly safe. Now, study hard, respect the unseen world, and go be brilliant.

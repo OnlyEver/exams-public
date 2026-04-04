@@ -46,6 +46,8 @@ Here is a brilliant piece of trivia to share with your students: the men who sho
 
 To keep things orderly, **[George Washington](https://en.wikipedia.org/wiki/George_Washington) presided over the 1787 [Constitutional Convention](https://en.wikipedia.org/wiki/Constitutional_Convention_%28United_States%29)**. Because he was universally respected, his presence gave the secret meetings legitimacy. But the real intellectual horsepower came from a short, soft-spoken genius. **[James Madison](https://en.wikipedia.org/wiki/James_Madison) is historically recognized as the Father of the Constitution for his pivotal drafting role.** Madison came to Philadelphia with a plan already in his pocket.
 
+![George Washington presides over the 1787 Constitutional Convention in Philadelphia, where delegates scrapped the Articles of Confederation to design an entirely new government.](https://wikipedia.org/wiki/Special:Redirect/file/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg)
+
 ### The Clash of the States: Representation
 The biggest fight at the convention was over a simple question: *Who gets the power?*
 
@@ -61,6 +63,8 @@ The convention almost fell apart over this. How do you solve it? With one of the
 As an elementary educator, you have to approach the topic of slavery with honesty and age-appropriate gravity. The students will ask: *If they were building a free country, why didn't they free the enslaved people?* 
 
 The tragic truth is that [Southern states](https://en.wikipedia.org/wiki/Southern_United_States) threatened to walk away from the new nation entirely if [slavery](https://en.wikipedia.org/wiki/Slavery_in_the_United_States) was banned. To keep the country together, the founders made moral compromises that baked racial inequality right into the founding document. 
+
+![A 1770 map showing the proportion of enslaved populations across the Thirteen Colonies. Southern states leveraged their heavily enslaved populations to demand compromises like the Three-Fifths rule to secure more political power.](https://wikipedia.org/wiki/Special:Redirect/file/Slavery_in_the_13_colonies.jpg)
 
 *   **The [Three-Fifths Compromise](https://en.wikipedia.org/wiki/Three-fifths_Compromise) determined the method for counting enslaved people for purposes of representation and [taxation](https://en.wikipedia.org/wiki/Taxation_in_the_United_States).** The Southern states wanted enslaved people to count toward their population so they could get more power in the House of Representatives, even though those enslaved people had zero rights. 
 *   To settle this, **the [Three-Fifths Compromise](https://en.wikipedia.org/wiki/Three-fifths_Compromise) counted three out of every five enslaved individuals toward a state's total population count.**
@@ -83,6 +87,8 @@ Madison and the [framers](https://en.wikipedia.org/wiki/Founding_Fathers_of_the_
 2.  **[Separation of powers](https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution) divides the federal government into distinct [legislative](https://en.wikipedia.org/wiki/United_States_Congress), [executive](https://en.wikipedia.org/wiki/President_of_the_United_States), and [judicial branches](https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States).** Making the rules (Congress), enforcing the rules (President), and judging if the rules are fair ([Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)).
 3.  **[Checks and balances](https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution%23Checks_and_balances) prevent any single branch of the federal government from gaining excessive power over the other branches.** If Congress writes a bad law, the President can [veto](https://en.wikipedia.org/wiki/Veto) it. If the President does something illegal, Congress can [impeach](https://en.wikipedia.org/wiki/Impeachment_in_the_United_States) them. It’s a giant game of [rock-paper-scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) where no one ever permanently wins!
 
+![A diagram illustrating the separation of powers and the system of checks and balances between the legislative, executive, and judicial branches.](https://wikipedia.org/wiki/Special:Redirect/file/Political_System_of_the_United_States.svg)
+
 ---
 
 ## Part 4: The Great Sales Pitch (Ratification)
@@ -103,6 +109,8 @@ Who wrote them? Three brilliant men working under a secret pen name: **[Alexande
 
 The pitch worked. **The [United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) achieved the required nine-state [ratification](https://en.wikipedia.org/wiki/Ratification_of_the_United_States_Constitution) in 1788.**
 
+![A map detailing the dates the original 13 states ratified the Constitution. The promise to add a Bill of Rights was crucial in persuading Anti-Federalist strongholds to vote for ratification.](https://wikipedia.org/wiki/Special:Redirect/file/Dates_US_Constitution_ratified_by_the_13_States.png)
+
 ### Fulfilling the Promise: The Bill of Rights
 True to their word, once the new government started, Madison drafted the protections the Anti-Federalists demanded. 
 
@@ -114,6 +122,8 @@ The most famous of these is the First Amendment, which acts as the ultimate shie
 *   **The [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) of the United States Constitution protects the [freedom of the press](https://en.wikipedia.org/wiki/Freedom_of_the_press_in_the_United_States).**
 *   **The [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) of the United States Constitution protects the [right to peaceably assemble](https://en.wikipedia.org/wiki/Freedom_of_assembly).**
 *   **The [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) of the United States Constitution protects the [right to petition the government](https://en.wikipedia.org/wiki/Right_to_petition_in_the_United_States).**
+
+![A depiction of the five fundamental freedoms explicitly protected by the First Amendment: religion, speech, press, assembly, and petition.](https://wikipedia.org/wiki/Special:Redirect/file/Newseum_5_Freedoms_1st_Amendment.jpg)
 
 And to ensure the federal government didn't get too greedy with its power, they added the Tenth Amendment. **The [Tenth Amendment](https://en.wikipedia.org/wiki/Tenth_Amendment_to_the_United_States_Constitution) establishes that any power not specifically given to the federal government belongs to the states or the people.** 
 
@@ -139,6 +149,8 @@ Here is a quick cheat sheet you can use to map out these differences for your st
 | **The Economy** | **Favored an economy based on [manufacturing](https://en.wikipedia.org/wiki/Manufacturing_in_the_United_States) and [trade](https://en.wikipedia.org/wiki/Commerce).** | **Favored an [agrarian-based economy](https://en.wikipedia.org/wiki/Agrarianism)** (farming). |
 | **Reading the Rules** | **Supported a loose constructionist interpretation of the United States Constitution** (if it doesn't say I *can't*, that means I *can*). | **Supported a [strict constructionist interpretation](https://en.wikipedia.org/wiki/Strict_constructionism) of the United States Constitution** (if it doesn't explicitly say I *can*, that means I *can't*). |
 
+![A timeline showing the derivation of U.S. political parties, which originated from the bitter ideological divide between Alexander Hamilton and Thomas Jefferson.](https://wikipedia.org/wiki/Special:Redirect/file/Political_Parties_Derivation_in_the_United_States.svg)
+
 Watching his cabinet tear itself apart broke Washington's heart. When he retired, **[George Washington](https://en.wikipedia.org/wiki/George_Washington) explicitly warned the nation against the formation of political parties in his [1796 Farewell Address](https://en.wikipedia.org/wiki/George_Washington%27s_Farewell_Address).** He believed they would divide the country. History, of course, proved him right—the [two-party system](https://en.wikipedia.org/wiki/Two-party_system) was here to stay.
 
 ---
@@ -154,5 +166,7 @@ As a teacher, your job isn't just knowing the facts above; it's anticipating how
 When a student tells you "The Constitution says *'[All men are created equal](https://en.wikipedia.org/wiki/All_men_are_created_equal),'* " you must be ready to gently correct them. 
 Explain to them that the **[Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence)** is a *breakup letter*. It’s a statement of ideals, written in 1776, telling [King George](https://en.wikipedia.org/wiki/George_III) we are leaving because we believe in equality and [life, liberty, and the pursuit of happiness](https://en.wikipedia.org/wiki/Life%2C_Liberty_and_the_pursuit_of_Happiness). 
 The **[Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States)**, written eleven years later in 1787, is the *rulebook*. It tells us how the new club is actually going to be run. 
+
+![The Declaration of Independence and the Constitution on display. It is critical for students to distinguish the 1776 statement of ideals from the 1787 governing rulebook.](https://wikipedia.org/wiki/Special:Redirect/file/The_Declaration_of_Independence_and_The_Constitution_on_Display_in_the_Library_of_Congress_Prior_to_the_Removal_to_the_National_Archives_(35140937496).jpg)
 
 By framing [early American history](https://en.wikipedia.org/wiki/History_of_the_United_States_%281776%E2%80%931789%29) not as a boring list of dates, but as a series of arguments, compromises, and rule-making experiments, you give your students a framework to understand their own world. You show them that government isn't magic—it’s just people, trying their best to figure out how to live together. And that is a lesson they will carry with them long after they leave your classroom.

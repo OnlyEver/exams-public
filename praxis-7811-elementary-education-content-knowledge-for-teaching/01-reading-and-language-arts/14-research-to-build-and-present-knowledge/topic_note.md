@@ -4,6 +4,8 @@ If you are preparing for the Content Knowledge for Teaching exam, you already kn
 
 This brings us to the magnificent, messy, and absolutely essential world of research. In the elementary classroom, we start this journey with **[inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning)**, a [pedagogical approach](https://en.wikipedia.org/wiki/Pedagogy) that frames the research process around student-generated questions. Instead of saying, "Read page 40 about volcanoes," you ask, "Why did [Pompeii](https://en.wikipedia.org/wiki/Pompeii) disappear?" Suddenly, they aren't just reading; they are investigating. 
 
+![A map illustrating the 79 AD eruption of Mount Vesuvius over Pompeii. Investigating real-world phenomena provides an authentic anchor for inquiry-based research.](https://wikipedia.org/wiki/Special:Redirect/file/Mt_Vesuvius_79_AD_eruption_3.svg)
+
 Let's break down the mechanics of how students build and present knowledge, and more importantly, how you can guide them when they stumble.
 
 ---
@@ -18,12 +20,16 @@ Imagine you hand an eight-year-old a 200-page book on [marine biology](https://e
 *   **[Glossaries](https://en.wikipedia.org/wiki/Glossary) define key terms used within a specific text**, serving as a built-in [dictionary](https://en.wikipedia.org/wiki/Dictionary) so the student's reading flow isn't entirely disrupted.
 *   **Headings and subheadings organize text into identifiable topics for easier skimming.** 
 
+![An index allows students to alphabetically locate specific keywords and their corresponding page numbers, bypassing the need to read the entire text.](https://wikipedia.org/wiki/Special:Redirect/file/Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg)
+
 ### Skimming vs. Scanning: The Two Gears of Reading
 Students often confuse these two, but they are entirely different [cognitive tasks](https://en.wikipedia.org/wiki/Cognition). 
 *   **[Skimming](https://en.wikipedia.org/wiki/Speed_reading) involves reading quickly to get a general overview of a text.** (e.g., glancing over the subheadings to see if this chapter is about turtle habitats or turtle diets).
 *   **[Scanning](https://en.wikipedia.org/wiki/Speed_reading) involves reading a text quickly to locate a specific fact or piece of information.** (e.g., darting their eyes around the paragraph looking specifically for the word "jellyfish").
 
 > **Teacher Tip:** Watch for the student who tries to read every single word when they should be scanning. Explicitly teach them to let their eyes "bounce" down the page until they spot their target word!
+
+![A diagram plotting the saccadic eye movements of a reader. When scanning, students must be explicitly taught to let their eyes jump across the text to spot target words.](https://wikipedia.org/wiki/Special:Redirect/file/Reading_Fixations_Saccades.jpg)
 
 ---
 
@@ -35,6 +41,8 @@ Next, they need to write it down. Left to their own devices, elementary students
 
 To make sense of their messy notes, students need visual architecture. **[Graphic organizers](https://en.wikipedia.org/wiki/Graphic_organizer) visually structure information to help students categorize research findings.** 
 *   A classic example? **[Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) are graphic organizers used to compare and contrast information from different texts.** If Timmy is reading one book on [frogs](https://en.wikipedia.org/wiki/Frog) and another on [toads](https://en.wikipedia.org/wiki/Toad), the Venn diagram helps him visually sort what is unique to each and what they share.
+
+![Venn diagrams visually categorize information, allowing students to easily sort unique and shared characteristics when comparing multiple subjects or texts.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_diagram_of_legs_and_flying.svg)
 
 ### Summarizing vs. Synthesizing
 These two concepts are the heartbeat of [reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension), but they are not the same thing. 
@@ -92,6 +100,8 @@ When researching historical events, students need to understand the distance bet
 *   **A [primary source](https://en.wikipedia.org/wiki/Primary_source) is an original, first-hand account of an event or time period.** The creator was actually there! **[Diaries](https://en.wikipedia.org/wiki/Diary), [photographs](https://en.wikipedia.org/wiki/Photography), and [historical letters](https://en.wikipedia.org/wiki/Letter_%28message%29) are examples of primary sources.** 
 *   **A [secondary source](https://en.wikipedia.org/wiki/Secondary_source) provides interpretation, analysis, or commentary on primary sources.** The creator was *not* there, but they studied it. **[Textbooks](https://en.wikipedia.org/wiki/Textbook) and [encyclopedias](https://en.wikipedia.org/wiki/Encyclopedia) are common examples of secondary sources.**
 
+![Original diaries serve as quintessential primary sources, offering unfiltered, first-hand accounts of historical events and time periods.](https://wikipedia.org/wiki/Special:Redirect/file/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg)
+
 *Why it matters to students:* Reading [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln)’s actual letter (primary) gives you his raw feelings. Reading a textbook chapter about Abraham Lincoln (secondary) gives you the historical context of *why* he wrote the letter. Both are vital.
 
 ---
@@ -109,6 +119,8 @@ Students have two distinct ways to use research in their writing, and both have 
 
 > **Crucial Misconception Alert for Teachers!**
 > Students often believe that if they change the words (paraphrase), the idea now belongs to them and they don't need to cite it. *Wrong!* **Paraphrased information requires a formal citation to avoid plagiarism.** Even if you change the outfit, the idea still belongs to the original author.
+
+![A diagram illustrating how simply modifying or rearranging words from an original text still constitutes plagiarism if a citation is not provided.](https://wikipedia.org/wiki/Special:Redirect/file/Plagiarism_diagram.png)
 
 To wrap up their incredible research journey, students will compile a **[bibliography](https://en.wikipedia.org/wiki/Bibliography)**, which is **a formatted list of all sources consulted during a research project.** It sits at the very end of their work like a proud list of the teachers who helped them along the way.
 

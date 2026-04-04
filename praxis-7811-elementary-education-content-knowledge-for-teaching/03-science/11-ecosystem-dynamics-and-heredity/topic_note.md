@@ -21,7 +21,11 @@ But the stage is never static. It shifts.
 ### The Winds of Change
 **Environmental changes can occur through natural processes**, like a [flood](https://en.wikipedia.org/wiki/Flood), a [wildfire](https://en.wikipedia.org/wiki/Wildfire), or a shifting [climate](https://en.wikipedia.org/wiki/Climate_change). However, they aren't exclusively natural. As you and I know, **environmental changes can be caused by [human activities](https://en.wikipedia.org/wiki/Human_impact_on_the_environment)**. For example, **human activities like [deforestation](https://en.wikipedia.org/wiki/Deforestation) disrupt local [habitats](https://en.wikipedia.org/wiki/Habitat)**, removing the shelter and food sources animals rely on. 
 
+![Human activities, such as clearing forests for development, drastically alter local ecosystems by removing vital shelter and food sources for native species.](https://wikipedia.org/wiki/Special:Redirect/file/Hillside_deforestation_in_Rio_de_Janeiro.jpg)
+
 When the environment shifts, the rules of survival shift with it. **Changes in an environment affect the specific types of [plants](https://en.wikipedia.org/wiki/Plant) that can survive in that location**, which in turn ripples up the [food web](https://en.wikipedia.org/wiki/Food_web). Consequently, these **changes in an environment affect the specific types of animals that can survive in that location.** 
+
+![A simplified food web demonstrates how changes at the foundational producer level cascade upward to affect herbivores and apex predators.](https://wikipedia.org/wiki/Special:Redirect/file/FoodWebSimple.svg)
 
 So, what happens to the animals when their home changes? They have a few options:
 1. **Relocation:** Often, **organisms may relocate to new habitats when localized environmental changes occur.** They pack up and [walk](https://en.wikipedia.org/wiki/Walking), [fly](https://en.wikipedia.org/wiki/Flight), or [swim](https://en.wikipedia.org/wiki/Swimming) away to find a new place that meets their needs.
@@ -34,8 +38,12 @@ This is an incredibly common [pedagogical](https://en.wikipedia.org/wiki/Pedagog
 
 > **Teacher Truth:** You must explicitly teach that **individual organisms cannot consciously alter [genetic traits](https://en.wikipedia.org/wiki/Phenotypic_trait) to survive a new environment.** An individual rabbit cannot will itself to grow thicker fur. Instead, the ones that *already* happened to have slightly thicker fur [survived the cold](https://en.wikipedia.org/wiki/Natural_selection) to have babies, while the others did not. 
 
+![Natural selection relies on existing genetic variation. Organisms that already possess advantageous traits for a new environment are the ones that survive and reproduce.](https://wikipedia.org/wiki/Special:Redirect/file/Mutation_and_selection_diagram.svg)
+
 ### Empowering Problem Solvers
 When we teach environmental change, we don't want to leave kids in despair. We want to teach them to make claims on solutions. Since human actions can break an ecosystem, human actions can also fix it. **Solutions to environmental problems often involve [restoring natural habitats](https://en.wikipedia.org/wiki/Ecological_restoration) to support local organisms.** Planting [native trees](https://en.wikipedia.org/wiki/Indigenous_%28ecology%29), cleaning up a local [stream](https://en.wikipedia.org/wiki/Stream), and building [wildlife corridors](https://en.wikipedia.org/wiki/Wildlife_corridor) are all tangible, real-world solutions your students can argue for!
+
+![Wildlife corridors, like this vegetated overpass, are tangible ecological solutions that reconnect fragmented habitats and allow animals to relocate safely.](https://wikipedia.org/wiki/Special:Redirect/file/Wildlife_overpass_in_Singapore.jpeg)
 
 ---
 
@@ -55,9 +63,15 @@ How exactly does a group help individuals survive? We can break this down into t
 | **Finding Food** | **Some animals form groups to increase efficiency in [finding food](https://en.wikipedia.org/wiki/Foraging).** A coordinated team can accomplish what an individual cannot. | **Wolves hunt in [packs](https://en.wikipedia.org/wiki/Pack_%28canine%29) to take down prey larger than a single wolf could defeat alone.** |
 | **Environmental Protection** | The group creates its own [micro-environment](https://en.wikipedia.org/wiki/Microclimate) to withstand brutal elements. | **[Penguins](https://en.wikipedia.org/wiki/Penguin) huddle together in large groups to conserve [body heat](https://en.wikipedia.org/wiki/Thermoregulation)** against the freezing [Antarctic](https://en.wikipedia.org/wiki/Antarctica) winds. |
 
+![A meerkat on sentry duty watches for predators while the rest of the group safely forages, demonstrating the defensive advantage of social living.](https://wikipedia.org/wiki/Special:Redirect/file/Meercat_2018_Auckland_Zoo.jpg)
+
+![A wolf pack works cooperatively to isolate and hunt a bison, enabling them to secure high-energy food they could not obtain individually.](https://wikipedia.org/wiki/Special:Redirect/file/Canis_lupus_pack_surrounding_Bison.jpg)
+
 These are fascinating phenomena for kids to investigate. Furthermore, these groups are incredibly diverse. **Animal survival groups vary greatly in size across different species** (from a small pride of a dozen [lions](https://en.wikipedia.org/wiki/Lion) to a massive [school](https://en.wikipedia.org/wiki/Shoaling_and_schooling) of thousands of [fish](https://en.wikipedia.org/wiki/Fish)), and they **vary greatly in [social structure](https://en.wikipedia.org/wiki/Social_structure) across different species**. 
 
 In the more complex societies, **animal group behavior can involve a [division of labor](https://en.wikipedia.org/wiki/Division_of_labour) among group members.** Think of a [beehive](https://en.wikipedia.org/wiki/Beehive), where you have a [queen](https://en.wikipedia.org/wiki/Queen_bee), nurse bees, [foragers](https://en.wikipedia.org/wiki/Foraging), and guards. Everyone has a job, and the whole mechanism ensures the survival of the individual!
+
+![A honey bee colony relies on a strict division of labor, with specific members assigned to nursing, foraging, and guarding the hive to ensure collective survival.](https://wikipedia.org/wiki/Special:Redirect/file/Natural_Beehive_and_Honeycombs.jpg)
 
 ---
 
@@ -68,6 +82,8 @@ Finally, we arrive at the great mystery of traits. Why does a baby [elephant](ht
 First, let's define our terms. **Biological traits are specific characteristics of an organism.** [Eye color](https://en.wikipedia.org/wiki/Eye_color), [height](https://en.wikipedia.org/wiki/Human_height), [leaf shape](https://en.wikipedia.org/wiki/Glossary_of_leaf_morphology), the stripes on a [tiger](https://en.wikipedia.org/wiki/Tiger)—these are all traits. 
 
 The fundamental rule of heredity is that **[offspring](https://en.wikipedia.org/wiki/Offspring) inherit physical traits directly from biological [parents](https://en.wikipedia.org/wiki/Parent).** Because of this [inheritance](https://en.wikipedia.org/wiki/Heredity), **organisms of the same species share common recognizable traits.** A [golden retriever](https://en.wikipedia.org/wiki/Golden_Retriever) [puppy](https://en.wikipedia.org/wiki/Puppy) looks like a golden retriever, not a [poodle](https://en.wikipedia.org/wiki/Poodle). 
+
+![Offspring inherit specific genetic blueprints from their parents, resulting in shared, observable physical characteristics across generations.](https://wikipedia.org/wiki/Special:Redirect/file/Jug_Ear_Heredity.jpg)
 
 However, as we know, **offspring are not exact identical copies of biological parents.** Because traits are passed down from *both* parents, the resulting offspring is a unique mashup. **[Genetic variation](https://en.wikipedia.org/wiki/Genetic_variation) occurs naturally among offspring produced by the same parents.** Think of your own [siblings](https://en.wikipedia.org/wiki/Sibling)—you share parents, but you look different. **The observable differences in traits among individuals of the same species are called variations.**
 
@@ -86,6 +102,8 @@ It is crucial to teach your students that [nature and nurture](https://en.wikipe
 You need powerful, sticky examples to prove this to your students:
 * **The Animal Example ([Nutrition](https://en.wikipedia.org/wiki/Nutrition)):** A puppy might have the genetics to grow into an enormous, strong dog. But, **a lack of proper nutrition can [stunt the physical growth](https://en.wikipedia.org/wiki/Stunted_growth) of a young animal.** The genes said "grow big," but the environment said "we don't have the fuel for that."
 * **The Plant Example ([Soil](https://en.wikipedia.org/wiki/Soil)):** This one blows kids' minds. **[Soil pH](https://en.wikipedia.org/wiki/Soil_pH) levels dictate the resulting flower color of [hydrangea](https://en.wikipedia.org/wiki/Hydrangea) plants.** If you plant the exact same hydrangea in acidic soil, it grows blue flowers. If you plant it in [alkaline soil](https://en.wikipedia.org/wiki/Alkali_soil), it grows pink flowers! The [genetic code](https://en.wikipedia.org/wiki/Genetic_code) is identical, but the environment completely altered the physical trait.
+
+![Despite having the identical genetic code for flower growth, the final color of a hydrangea is determined entirely by the pH level of the soil it grows in.](https://wikipedia.org/wiki/Special:Redirect/file/Hydrangea_Flower_Color_Based_on_Soil_pH.jpg)
 
 ---
 

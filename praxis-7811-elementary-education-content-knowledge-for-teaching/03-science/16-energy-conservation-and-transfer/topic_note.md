@@ -17,11 +17,15 @@ When your students are at recess kicking a [soccer ball](https://en.wikipedia.or
 1. **Speed:** Imagine a student gently rolling a toy truck across the [carpet](https://en.wikipedia.org/wiki/Carpet). Now imagine them shoving it as hard as they can. **An object possesses more kinetic energy when moving at a faster speed than when moving at a slower speed.** 
 2. **Mass:** Now, let's change the object. Imagine rolling a lightweight [ping-pong ball](https://en.wikipedia.org/wiki/Table_tennis) at 5 [mph](https://en.wikipedia.org/wiki/Miles_per_hour), and then rolling a heavy [bowling ball](https://en.wikipedia.org/wiki/Bowling_ball) at that exact same 5 mph. Which one is going to knock down a set of wooden blocks? The bowling ball, of course. **A heavier object possesses more kinetic energy than a lighter object moving at the exact same speed.**
 
+![A heavier object possesses more kinetic energy than a lighter object moving at the same speed, allowing it to transfer more energy upon collision to knock down obstacles.](https://wikipedia.org/wiki/Special:Redirect/file/Collision_9_Block.gif)
+
 ### 🛑 The "Stationary" Misconception
 Ask an eight-year-old: *"Does this [boulder](https://en.wikipedia.org/wiki/Boulder) sitting at the top of a [hill](https://en.wikipedia.org/wiki/Hill) have energy?"* 
 **A common elementary student misconception is that stationary objects cannot possess any form of energy.** Because they equate energy purely with active motion or living things, a resting rock seems "dead" to them. 
 
 You must help them see the invisible! **Stationary objects can possess [potential energy](https://en.wikipedia.org/wiki/Potential_energy) due to spatial position or internal structure.** That boulder at the top of the hill has [gravitational potential energy](https://en.wikipedia.org/wiki/Gravitational_energy) simply because of its *spatial position* relative to the ground. A stretched [rubber band](https://en.wikipedia.org/wiki/Rubber_band) has [elastic potential energy](https://en.wikipedia.org/wiki/Elastic_energy) because of its *internal structure*. It is energy waiting to happen.
+
+![Even a completely stationary boulder, like this massive balanced rock, possesses significant gravitational potential energy simply due to its elevated position.](https://wikipedia.org/wiki/Special:Redirect/file/Balanced_Rock.jpg)
 
 ---
 
@@ -48,6 +52,8 @@ Energy doesn't always need a physical object to ride on like a bus. It can trave
 | **Sound Energy** | **Energy transfers from one location to another through [sound waves](https://en.wikipedia.org/wiki/Acoustic_wave).** But here is the catch: **Sound energy requires a [physical medium](https://en.wikipedia.org/wiki/Transmission_medium) like a [solid](https://en.wikipedia.org/wiki/Solid), [liquid](https://en.wikipedia.org/wiki/Liquid), or [gas](https://en.wikipedia.org/wiki/Gas) to travel.** It travels by bumping [molecules](https://en.wikipedia.org/wiki/Molecule) into each other. | *Analogy:* A [stadium wave](https://en.wikipedia.org/wiki/Wave_%28audience%29). The people (the medium) don't move across the stadium, but the wave of energy does. If there are no people (a [vacuum](https://en.wikipedia.org/wiki/Vacuum)), the wave cannot exist. (This means all those space-battle explosions in *[Star Wars](https://en.wikipedia.org/wiki/Star_Wars)* would actually be completely silent!) |
 | **Light Energy** | **Energy transfers from one location to another through [light waves](https://en.wikipedia.org/wiki/Light).** Unlike sound, **Light energy does not require a physical medium to travel.** | *Proof for students:* How does the sun's energy reach us? **Light energy can travel through the [vacuum of space](https://en.wikipedia.org/wiki/Outer_space)**, arriving on [Earth](https://en.wikipedia.org/wiki/Earth) to warm our faces without a single molecule needed to carry it. |
 
+![Just like a "stadium wave" where the crowd does not physically travel across the arena but the wave itself does, sound energy requires a physical medium to pass its energy along.](https://wikipedia.org/wiki/Special:Redirect/file/Confed-Cup_2005_-_Laolawelle.JPG)
+
 ---
 
 ## Part 3: Thermal Energy and the "Cold" Illusion
@@ -71,11 +77,18 @@ Energy doesn't just transfer from place to place; it wears different disguises. 
 ### Electrical Magic in the Classroom
 Think of **[electric currents](https://en.wikipedia.org/wiki/Electric_current)**, which are a brilliant way **energy transfers from one location to another**. But [electricity](https://en.wikipedia.org/wiki/Electricity) plays by strict rules. **An [electrical circuit](https://en.wikipedia.org/wiki/Electrical_circuit) must form a continuous, closed loop to transfer [electrical energy](https://en.wikipedia.org/wiki/Electrical_energy) from a source to a device.** If a student is building a flashlight and leaves a wire unattached, the light won't turn on. **An open break in an electrical circuit completely prevents the transfer of electrical energy.**
 
+![A simple diagram showing that an electrical circuit must form a continuous, unbroken loop to successfully transfer electrical energy from a source to a device.](https://wikipedia.org/wiki/Special:Redirect/file/Ohms_law_voltage_source.svg)
+
 When that loop is closed, beautiful transformations happen. Look at the devices around your classroom:
 * **Batteries:** A [battery](https://en.wikipedia.org/wiki/Battery_%28electricity%29) doesn't actually store electricity; **a battery stores [chemical energy](https://en.wikipedia.org/wiki/Chemical_energy).** When hooked up to a circuit, **a battery transforms stored chemical energy into electrical energy.**
 * **Light Bulbs:** Think of the classic **[incandescent light bulb](https://en.wikipedia.org/wiki/Incandescent_light_bulb)**. It **transforms electrical energy into visible light energy.** But have your students ever accidentally touched one? It burns! That is because **an incandescent light bulb transforms electrical energy into thermal energy** as well (a highly inefficient process, which is why we replaced them with [LEDs](https://en.wikipedia.org/wiki/Light-emitting_diode)!).
+  
+  ![A thermal camera image reveals that an incandescent bulb inefficiently transforms much of its electrical energy into thermal energy (heat) rather than visible light.](https://wikipedia.org/wiki/Special:Redirect/file/Thermal_image_of_an_incandescent_light.jpg)
+
 * **Generators:** Think of a [wind turbine](https://en.wikipedia.org/wiki/Wind_turbine) or a [hand-crank](https://en.wikipedia.org/wiki/Crank_%28mechanism%29). **A [generator](https://en.wikipedia.org/wiki/Electric_generator) transforms mechanical motion energy into electrical energy.**
 * **Solar Cells:** The calculator on your desk doesn't need a battery. **A [solar cell](https://en.wikipedia.org/wiki/Solar_cell) transforms light energy directly into electrical energy.**
+  
+  ![A small solar cell on a classic calculator demonstrates a direct transformation of ambient light energy into usable electrical energy.](https://wikipedia.org/wiki/Special:Redirect/file/FX-77.JPG)
 
 ### 🛑 The "Used Up" Misconception
 If a child slides a block across a carpet, it eventually comes to a dead stop. 
@@ -84,6 +97,8 @@ What do they think happened? **A common elementary student misconception is that
 Introduce them to the most sacred rule in all of [science](https://en.wikipedia.org/wiki/Science): **The [Law of Conservation of Energy](https://en.wikipedia.org/wiki/Conservation_of_energy) states that energy can neither be created nor destroyed.** It only changes forms or moves places. **The total amount of energy in a [closed system](https://en.wikipedia.org/wiki/Closed_system) remains constant during energy transfers and transformations.**
 
 So, if the sliding block stopped, where did the kinetic energy go? It rubbed against the carpet fibers. **Energy [dissipation](https://en.wikipedia.org/wiki/Dissipation) into the surrounding environment as invisible heat often makes energy appear to vanish.** The block's kinetic energy wasn't destroyed; it was transformed into thermal energy. The floor actually got a tiny fraction of a degree warmer! By teaching students to hunt for the "missing" energy (usually lost as heat or sound), you turn them into scientific detectives.
+
+![As objects slide across surfaces, kinetic energy is continuously dissipated as heat due to friction, which often leads students to mistakenly believe the energy was destroyed or "used up."](https://wikipedia.org/wiki/Special:Redirect/file/Friction_Animation_2_Blocks.gif)
 
 ---
 
@@ -98,6 +113,8 @@ Challenge your students with a design task. Ask them to design, test, and refine
 1. **Design:** They build a [windmill](https://en.wikipedia.org/wiki/Windmill) with cardboard blades attached to a [spool](https://en.wikipedia.org/wiki/Spool).
 2. **Test:** They turn on a [desk fan](https://en.wikipedia.org/wiki/Mechanical_fan) (transferring electrical to mechanical wind energy) and watch the spool wind the string.
 3. **Refine:** If the bucket barely lifts, ask them *why*. Is energy dissipating as heat because the [axle](https://en.wikipedia.org/wiki/Axle) is too rough? How can they reduce [friction](https://en.wikipedia.org/wiki/Friction) to make the transfer more efficient?
+
+![For centuries, engineers have designed devices like this windpump to intentionally convert mechanical wind energy into lifting power to solve practical human problems.](https://wikipedia.org/wiki/Special:Redirect/file/Old_Windmill.jpg)
 
 ### The Big Takeaway for Your Teaching Practice
 When you teach energy, you are teaching your students to see the invisible ledger of the universe. Every time a ball bounces, a light flickers, or a cold wind blows, energy is transferring, transforming, conserving, and dissipating. By knowing these concepts deeply—and knowing exactly how students misinterpret them—you are armed with the pedagogical power to guide them out of the dark and into the light (which, of course, does not require a medium to travel!). 

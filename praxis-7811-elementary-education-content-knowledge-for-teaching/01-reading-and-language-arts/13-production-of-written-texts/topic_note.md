@@ -4,6 +4,8 @@ Welcome! Pull up a chair. Today, we are going to talk about one of the most magn
 
 If you watch a master at work—a brilliant [novelist](https://en.wikipedia.org/wiki/Novelist) or a persuasive [journalist](https://en.wikipedia.org/wiki/Journalist)—it looks like magic. The words just seem to flow out of their fingertips. But as a teacher, you know a fundamental truth: **writing is not magic; it is [engineering](https://en.wikipedia.org/wiki/Engineering).** It is the messy, laborious process of translating the abstract sparks of thought in our brains into a linear sequence of [symbols](https://en.wikipedia.org/wiki/Symbol) on a page that someone else can decode and understand. 
 
+![Writing is an engineered technology that translates abstract concepts into a linear sequence of standardized symbols.](https://wikipedia.org/wiki/Special:Redirect/file/Comparative_evolution_of_Cuneiform%2C_Egyptian_and_Chinese_characters.svg)
+
 As an aspiring elementary educator, your Content Knowledge for Teaching (CKT) isn’t just about knowing what a [paragraph](https://en.wikipedia.org/wiki/Paragraph) is. It’s about knowing *how children learn to build one*. It is about understanding the [cognitive](https://en.wikipedia.org/wiki/Cognition) traffic jams that happen in an eight-year-old’s head when you say, "Write a story." 
 
 Let's demystify the [writing process](https://en.wikipedia.org/wiki/Writing_process), explore how purpose shapes design, and open up the [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) toolkit you'll use to turn your students from hesitant scribblers into confident authors.
@@ -25,6 +27,8 @@ You wouldn’t build a house without a [blueprint](https://en.wikipedia.org/wiki
 
 If you force a child to write continuous sentences immediately, they will freeze. Their [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) is maxed out. Instead, we externalize their thoughts. **Teachers use [graphic organizers](https://en.wikipedia.org/wiki/Graphic_organizer) during prewriting to help students structure their ideas visually.** Whether it's a [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram), a [mind map](https://en.wikipedia.org/wiki/Mind_map), or a simple [flow chart](https://en.wikipedia.org/wiki/Flowchart), graphic organizers allow students to manipulate concepts before worrying about [syntax](https://en.wikipedia.org/wiki/Syntax).
 
+![Graphic organizers, such as this simple Venn diagram, reduce a student's cognitive load by allowing them to visually sort ideas before writing continuous sentences.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_diagram_of_legs_and_flying.svg)
+
 There is another massive cognitive task happening here. **Determining the target audience during prewriting guides a writer's subsequent [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) choices.** If a fourth-grader is writing about recycling for a kindergartener, they will use simpler words than if they are writing to the mayor. Furthermore, **determining the target audience during prewriting influences the overall [tone](https://en.wikipedia.org/wiki/Tone_%28literature%29) of the final text.** Is this a formal letter? A silly story? We decide *before* we build.
 
 ### 2. Drafting: Pouring the Concrete
@@ -44,8 +48,12 @@ You must teach them that revising is about *ideas*, not *mechanics*. Teach them 
 2.  **Deleting off-topic sentences from a paragraph is a revision strategy.** ("This sentence about your dog is great, but does it belong in a paragraph about the [water cycle](https://en.wikipedia.org/wiki/Water_cycle)? Let's cut it.")
 3.  **Reordering paragraphs to improve logical flow is a revision strategy.** ("What if we told the reader *why* the [volcano](https://en.wikipedia.org/wiki/Volcano) erupted before we described the explosion?")
 
+![Revising for logical flow requires structural changes to the text, such as explaining the internal buildup of magma before describing a surface eruption.](https://wikipedia.org/wiki/Special:Redirect/file/Volcano_scheme.svg)
+
 ### 4. Editing: Sweeping the Floors
 Once the ideas are brilliant and the structure is sound, *then* we worry about the mechanics. **Editing focuses exclusively on correcting errors in spelling, [capitalization](https://en.wikipedia.org/wiki/Capitalization), [punctuation](https://en.wikipedia.org/wiki/Punctuation), and grammar.** 
+
+![During the editing phase, the writer's cognitive focus shifts entirely away from idea generation and strictly toward mechanical corrections.](https://wikipedia.org/wiki/Special:Redirect/file/Paper_Editing.jpg)
 
 This is also an incredible collaborative opportunity. **[Peer review](https://en.wikipedia.org/wiki/Peer_review) provides students with an authentic audience to provide constructive feedback on drafts.** When a student knows their peer is going to read their work, their motivation to fix a [run-on sentence](https://en.wikipedia.org/wiki/Run-on_sentence) skyrockets. They aren't just writing for the teacher anymore; they are writing for the real world.
 
@@ -70,6 +78,8 @@ In the elementary classroom, we break this down into three grand buckets. **The 
 As we noted in the prewriting phase, purpose isn't the only dictator of form; the *audience* sits right next to it on the throne. **Adapting writing style to an audience requires adjusting sentence complexity based on the reader's presumed background knowledge.** 
 
 If your fifth-graders are writing an informational text about the [solar system](https://en.wikipedia.org/wiki/Solar_System) for a peer, they might use complex sentences with terms like "orbital trajectory." If they are adapting that same piece for a first-grade buddy, they need to shorten their sentences and explain concepts using accessible analogies. This is a highly sophisticated cognitive skill that requires explicit modeling.
+
+![Adapting an informational text about a complex topic like the solar system for a younger audience requires a writer to purposefully simplify their vocabulary and concepts.](https://wikipedia.org/wiki/Special:Redirect/file/Solar_System_distance_to_scale.svg)
 
 ---
 
@@ -104,6 +114,8 @@ Before a student ever puts pencil to paper, they need to know what success looks
 ### Modeling the Unseen
 Writing happens inside the head, which means it is invisible. Your job is to make the invisible, visible. 
 *   **Think-Alouds:** **Teachers use [think-aloud](https://en.wikipedia.org/wiki/Think_aloud_protocol) strategies to verbally model their internal decision-making during the writing process.** You stand at the [whiteboard](https://en.wikipedia.org/wiki/Whiteboard) and say out loud, *"Hmm, I want to say the dog ran fast, but 'fast' is boring. What's a better word? Sprinted! Yes, the dog sprinted."* You are showing them the mental gymnastics of word choice.
+
+![By standing at a whiteboard and narrating their word choices out loud, teachers make the invisible, internal decisions of the writing process visible to students.](https://wikipedia.org/wiki/Special:Redirect/file/NCTR_Intern_Claire_Boyle_%2815558843862%29.jpg)
 
 ### Co-Creation
 Sometimes, students aren't ready to fly solo. We use structured scaffolding to share the cognitive load. Pay close attention to the difference between these next two strategies—they are famously tested concepts!

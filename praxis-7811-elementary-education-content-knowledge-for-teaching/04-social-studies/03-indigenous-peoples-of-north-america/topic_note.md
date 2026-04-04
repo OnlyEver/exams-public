@@ -10,6 +10,8 @@ To teach this subject effectively, you must understand not only *what* happened,
 
 Let’s start with a foundational rule for your classroom: **Native American cultures prior to [European contact](https://en.wikipedia.org/wiki/European_colonization_of_the_Americas) were highly diverse.** 
 
+![Map detailing the diverse cultural and environmental regions of Indigenous peoples in North America prior to European contact](https://wikipedia.org/wiki/Special:Redirect/file/North_American_cultural_areas.png)
+
 > **The Classroom Reality:**
 > A common elementary student misconception is that Native Americans were a single monolithic group with identical customs. If you ask a second grader to draw a Native American, they will almost always draw a person in a feathered [headdress](https://en.wikipedia.org/wiki/War_bonnet) standing next to a [tipi](https://en.wikipedia.org/wiki/Tipi), regardless of whether you are studying a tribe from the deserts of [Arizona](https://en.wikipedia.org/wiki/Arizona) or the frozen [tundra](https://en.wikipedia.org/wiki/Tundra) of [Alaska](https://en.wikipedia.org/wiki/Alaska). 
 
@@ -25,6 +27,10 @@ You must dismantle this monolith. To do so, you will show your students that **p
 | **[Great Plains](https://en.wikipedia.org/wiki/Great_Plains)** | When students picture Native Americans, this is usually the region they are thinking of. **A common elementary student misconception is the belief that all Native Americans lived in tipis.** In reality, **tipis were primarily used as portable shelters by [nomadic](https://en.wikipedia.org/wiki/Nomad) tribes of the Great Plains.** Why were they nomadic? Because **Great Plains tribes depended heavily on [bison](https://en.wikipedia.org/wiki/American_bison) for food, clothing, and shelter.** They had to follow the herds! |
 | **[Eastern Woodlands](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Eastern_Woodlands)** | Here, we see incredible agricultural science. **Eastern Woodlands tribes cultivated [corn](https://en.wikipedia.org/wiki/Maize), [beans](https://en.wikipedia.org/wiki/Bean), and [squash](https://en.wikipedia.org/wiki/Squash) together.** This wasn't an accident; it was a biological masterpiece. **Cultivating corn, beans, and squash together is known as the [Three Sisters farming technique](https://en.wikipedia.org/wiki/Three_Sisters_%28agriculture%29).** The corn provides a stalk for the beans to climb, the beans fix [nitrogen](https://en.wikipedia.org/wiki/Nitrogen_fixation) into the soil to feed the plants, and the broad squash leaves provide ground cover to retain moisture and block weeds. |
 | **The [Southeast](https://en.wikipedia.org/wiki/Southeastern_United_States)** | Down south, we find the **[Mississippian culture](https://en.wikipedia.org/wiki/Mississippian_culture).** They were incredible [urban planners](https://en.wikipedia.org/wiki/Urban_planning). **The Mississippian culture in the Southeast built large earthen [mounds](https://en.wikipedia.org/wiki/Mound_Builders) for religious and ceremonial purposes**, creating massive, complex [city-states](https://en.wikipedia.org/wiki/City-state) long before Europeans arrived. |
+
+![The Three Sisters agricultural technique, showing corn providing a stalk for climbing beans, while broad squash leaves cover the ground to retain moisture](https://wikipedia.org/wiki/Special:Redirect/file/Three_Sisters_companion_planting_technique.jpg)
+
+![Artist's reconstruction of Cahokia, illustrating the complex urban planning and massive earthen mounds built by the Mississippian culture](https://wikipedia.org/wiki/Special:Redirect/file/Cahokia_Aerial_HRoe_2015.jpg)
 
 ### Politics, Law, and Knowledge
 
@@ -42,6 +48,8 @@ When Europeans arrived, it wasn’t just a meeting of people; it was a biologica
 
 This exchange had catastrophic consequences. **European diseases such as [smallpox](https://en.wikipedia.org/wiki/Smallpox) decimated Indigenous populations due to a lack of [natural immunity](https://en.wikipedia.org/wiki/Immunity_%28medical%29).** 
 
+![A 16th-century illustration from the Florentine Codex depicting Nahua people suffering from smallpox, a devastating pathogen introduced during the Columbian Exchange](https://wikipedia.org/wiki/Special:Redirect/file/FlorentineCodex_BK12_F54_smallpox.jpg)
+
 But the exchange wasn't only [pathogens](https://en.wikipedia.org/wiki/Pathogen). The Spanish brought animals that fundamentally altered Native life. Most notably, **the introduction of [horses](https://en.wikipedia.org/wiki/Horse) by [Spanish explorers](https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas) drastically changed the hunting practices of Great Plains tribes**, allowing them to travel further and hunt bison with astonishing speed and efficiency.
 
 ### Differing European Agendas
@@ -50,6 +58,8 @@ When teaching the colonial era, help your students see that "Europeans" weren't 
 *   **The [French](https://en.wikipedia.org/wiki/French_colonization_of_the_Americas):** **French colonists generally focused on establishing [fur trading](https://en.wikipedia.org/wiki/North_American_fur_trade) networks with Native American tribes.** Because they needed Native hunters to acquire the furs, the French tended to form more cooperative, inter-dependent relationships.
 *   **The [Spanish](https://en.wikipedia.org/wiki/Spanish_Empire):** The Spanish had two massive goals: God and Gold. **Spanish colonizers frequently sought to convert Native Americans to [Catholicism](https://en.wikipedia.org/wiki/Catholic_Church) through the [mission system](https://en.wikipedia.org/wiki/Spanish_missions_in_the_Americas).** Simultaneously, to extract wealth, **the Spanish [encomienda system](https://en.wikipedia.org/wiki/Encomienda) forced Native Americans into hard labor on agricultural estates.** 
 *   **The [English](https://en.wikipedia.org/wiki/English_colonization_of_the_Americas):** The English weren't as interested in trade or souls; they wanted turf. **English colonists primarily focused on acquiring land for permanent settlements.** This inevitably led to violent clashes as they continually pushed Native peoples off their [ancestral homelands](https://en.wikipedia.org/wiki/Indigenous_land_rights).
+
+![A 1777 illustration showing European and Indigenous peoples engaging in the fur trade, which heavily drove French colonial alliances in North America](https://wikipedia.org/wiki/Special:Redirect/file/Fur_traders_in_canada_1777.jpg)
 
 Through all of this, Native Americans were not passive victims. They were shrewd diplomats. **Native American tribes frequently formed strategic alliances with European powers to gain trade advantages**, often playing the French, Spanish, and English against one another to protect their own interests.
 
@@ -65,6 +75,8 @@ As the [United States](https://en.wikipedia.org/wiki/United_States) was born, th
 In the Southeast, European Americans encountered the [Cherokee](https://en.wikipedia.org/wiki/Cherokee), [Chickasaw](https://en.wikipedia.org/wiki/Chickasaw), [Choctaw](https://en.wikipedia.org/wiki/Choctaw), [Creek](https://en.wikipedia.org/wiki/Muscogee), and [Seminole](https://en.wikipedia.org/wiki/Seminole). **The [Five Civilized Tribes](https://en.wikipedia.org/wiki/Five_Civilized_Tribes) was a term used by European Americans to describe the Cherokee, Chickasaw, Choctaw, Creek, and Seminole** because these nations had adopted many Euro-American cultural practices—including farming techniques, centralized governments, and even written [constitutions](https://en.wikipedia.org/wiki/Constitution)—in an attempt to peacefully coexist and avoid removal.
 
 The most famous example of this adaptation was linguistic. **The Cherokee Nation developed a written [syllabary](https://en.wikipedia.org/wiki/Syllabary) to record their language.** This monumental intellectual achievement was entirely the work of one man: **[Sequoyah](https://en.wikipedia.org/wiki/Sequoyah) created the [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary) in the early nineteenth century**, making the Cherokee people highly literate almost overnight.
+
+![The Cherokee syllabary developed by Sequoyah, a monumental intellectual achievement that allowed the Cherokee language to be written and read](https://wikipedia.org/wiki/Special:Redirect/file/Cherokee_Syllabary_Chart.png)
 
 ### The Tragedy of Removal
 Despite their adaptations, white settlers coveted Native lands in the Southeast, especially after [gold was discovered in Georgia](https://en.wikipedia.org/wiki/Georgia_Gold_Rush). 
@@ -82,7 +94,11 @@ What followed was one of the darkest chapters in American history. **The [Trail 
 *   **Where were they going?** **The destination for the forced relocation during the Trail of Tears was designated as [Indian Territory](https://en.wikipedia.org/wiki/Indian_Territory).** Geographically speaking, **the designated Indian Territory from the 1830s relocation corresponds mostly to the modern state of [Oklahoma](https://en.wikipedia.org/wiki/Oklahoma).**
 *   **What was the cost?** It was an atrocity. **Thousands of Native Americans died from exposure, disease, and starvation during the Trail of Tears.** 
 
+![Map showing the routes of the Trail of Tears, depicting the forced removal of Native nations from the Southeast to designated Indian Territory](https://wikipedia.org/wiki/Special:Redirect/file/Trails_of_Tears_en.png)
+
 Even after removal, the assault on Native culture continued. In the late 19th and early 20th centuries, the US government implemented a new tactic. **[Assimilation policies](https://en.wikipedia.org/wiki/Cultural_assimilation_of_Native_Americans) aimed to strip Native Americans of their cultural identities.** Through horrors like the [boarding school system](https://en.wikipedia.org/wiki/American_Indian_boarding_schools), the government tried to "kill the Indian to save the man," punishing Native children for speaking their languages or practicing their religions. 
+
+![Indigenous pupils posed at the Carlisle Indian Industrial School. Such boarding schools were designed to forcefully assimilate Native children and erase their cultural identities](https://wikipedia.org/wiki/Special:Redirect/file/Carlisle_pupils.jpg)
 
 ---
 
@@ -95,6 +111,8 @@ Now, let's bring this back to your daily life as an elementary educator. How do 
 
 > **The Pedagogical Solution:** 
 > **[Elementary pedagogy](https://en.wikipedia.org/wiki/Pedagogy) emphasizes teaching Native American history through the continuous presence and modern contributions of Indigenous peoples.** Show them modern Cherokee doctors, contemporary Inuit artists, and Haudenosaunee environmental activists. Native American history is [current events](https://en.wikipedia.org/wiki/Current_event)!
+
+![A modern student writing in the Cherokee syllabary at an Oklahoma language immersion school, demonstrating the continuous, living presence of Native American cultures today](https://wikipedia.org/wiki/Special:Redirect/file/Cherokeeclass.png)
 
 ### 2. Elevate Native Voices
 For centuries, history textbooks were written exclusively by European colonizers. To correct this, **elementary education emphasizes using [primary sources](https://en.wikipedia.org/wiki/Primary_source) to teach students about Native American perspectives.** Let your students read the words of Sequoyah, analyze a treaty from the perspective of a tribal chief, or listen to a modern Indigenous storyteller. 

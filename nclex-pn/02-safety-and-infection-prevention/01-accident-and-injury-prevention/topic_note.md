@@ -1,16 +1,16 @@
-Welcome to the fascinating, high-stakes world of Accident and Injury Prevention. I want you to think about something fundamentally profound: when a person enters a [healthcare facility](https://en.wikipedia.org/wiki/Health_facility), they are inherently vulnerable. They are separated from their usual environment, surrounded by strange electrical equipment, subjected to powerful pharmacological agents, and constantly fighting the relentless downward pull of gravity while in a weakened state. 
+Welcome to the fascinating, high-stakes world of [Accident and Injury Prevention](https://en.wikipedia.org/wiki/Injury_prevention). I want you to think about something fundamentally profound: when a person enters a [healthcare facility](https://en.wikipedia.org/wiki/Health_facility), they are inherently vulnerable. They are separated from their usual environment, surrounded by strange [electrical equipment](https://en.wikipedia.org/wiki/Electrical_equipment), subjected to powerful [pharmacological agents](https://en.wikipedia.org/wiki/Pharmacology), and constantly fighting the relentless downward pull of [gravity](https://en.wikipedia.org/wiki/Gravity) while in a weakened state. 
 
-Our job as [nurses](https://en.wikipedia.org/wiki/Nursing) is not just to administer treatments; it is to engineer a fortress of [safety](https://en.wikipedia.org/wiki/Safety) around the client. We do this by applying rigorous [skepticism](https://en.wikipedia.org/wiki/Skepticism), observing the [physical laws of nature](https://en.wikipedia.org/wiki/Physical_law), and utilizing foolproof systems. We have to outsmart errors before they even happen. 
+Our job as [nurses](https://en.wikipedia.org/wiki/Nursing) is not just to administer treatments; it is to engineer a fortress of [safety](https://en.wikipedia.org/wiki/Safety) around the client. We do this by applying rigorous [skepticism](https://en.wikipedia.org/wiki/Skepticism), observing the [physical laws of nature](https://en.wikipedia.org/wiki/Physical_law), and utilizing [foolproof systems](https://en.wikipedia.org/wiki/Fail-safe). We have to outsmart errors before they even happen. 
 
 Let’s dive into the brilliant mechanics of keeping our clients alive, intact, and safe.
 
 ---
 
-## 1. The Epistemology of [Nursing](https://en.wikipedia.org/wiki/Nursing): How Do We Know Who Is Who?
+## 1. The [Epistemology](https://en.wikipedia.org/wiki/Epistemology) of [Nursing](https://en.wikipedia.org/wiki/Nursing): How Do We Know Who Is Who?
 
 If you are going to administer a potent [medication](https://en.wikipedia.org/wiki/Medication) or perform a procedure, you must be absolutely, unequivocally certain of your target. You cannot rely on assumptions. [Human memory](https://en.wikipedia.org/wiki/Memory) is fallible, and [hospital](https://en.wikipedia.org/wiki/Hospital) environments are chaotic. 
 
-Therefore, **[The Joint Commission](https://en.wikipedia.org/wiki/Joint_Commission) requires the use of at least two client identifiers before providing [care, treatment, or services](https://en.wikipedia.org/wiki/Health_care).** Why two? Because redundancy is the foundation of safety engineering. If one system fails (e.g., two [patients](https://en.wikipedia.org/wiki/Patient) share the same last name), the secondary system catches the anomaly.
+Therefore, **[The Joint Commission](https://en.wikipedia.org/wiki/Joint_Commission) requires the use of at least two client identifiers before providing [care, treatment, or services](https://en.wikipedia.org/wiki/Health_care).** Why two? Because [redundancy](https://en.wikipedia.org/wiki/Redundancy_%28engineering%29) is the foundation of [safety engineering](https://en.wikipedia.org/wiki/Safety_engineering). If one system fails (e.g., two [patients](https://en.wikipedia.org/wiki/Patient) share the same last name), the secondary system catches the [anomaly](https://en.wikipedia.org/wiki/Anomaly_%28natural_sciences%29).
 
 ### Acceptable vs. Unacceptable Identifiers
 
@@ -18,42 +18,46 @@ You must use identifiers that belong inherently and permanently to the client or
 
 | **Acceptable Identifiers** | **Why It Works** |
 | :--- | :--- |
-| **First and last name** | Specific to the individual, easily verified verbally. |
+| **[First and last name](https://en.wikipedia.org/wiki/Personal_name)** | Specific to the individual, easily verified verbally. |
 | **[Date of birth](https://en.wikipedia.org/wiki/Birthday)** | A permanent chronological data point unique to the client. |
-| **Assigned [medical record number](https://en.wikipedia.org/wiki/Medical_record)** | A unique, systematically generated alphanumeric code. |
+| **Assigned [medical record number](https://en.wikipedia.org/wiki/Medical_record)** | A unique, systematically generated [alphanumeric](https://en.wikipedia.org/wiki/Alphanumeric) code. |
 
 Now, what should we *never* use? [Geography](https://en.wikipedia.org/wiki/Geography).
 > ⚠️ **Warning:** A client's **room number** or **bed assignment** is **never an acceptable client identifier.** 
 
-Why? Because patients move! They get transferred, beds get swapped, and rooms change. If you rely on "the patient in Bed 3," and [housekeeping](https://en.wikipedia.org/wiki/Housekeeping) just swapped the patient in Bed 3 with someone from Bed 4 while you were on a lunch break, you are about to make a catastrophic medication error. 
+Why? Because patients move! They get transferred, beds get swapped, and rooms change. If you rely on "the patient in Bed 3," and [housekeeping](https://en.wikipedia.org/wiki/Housekeeping) just swapped the patient in Bed 3 with someone from Bed 4 while you were on a lunch break, you are about to make a catastrophic [medication error](https://en.wikipedia.org/wiki/Medication_error). 
 
 ### The Verification Ritual
 Before you ever push a plunger or hand over a pill, you must engage in a ritual of verification: **nurses must check the client identification band against the [medical record](https://en.wikipedia.org/wiki/Medical_record) before administering medications.** 
 
-Now, modern hospitals have a wonderful technological assist: **[barcode scanning systems](https://en.wikipedia.org/wiki/Barcode)**. By scanning the patient’s wristband and the medication, these systems provide an *additional safety measure* during medication administration. But—and pay very close attention here—technology is a safety net, not a replacement for your [brain](https://en.wikipedia.org/wiki/Brain). **Barcode scanning systems do not eliminate the requirement to verbally verify client identifiers.** Scanners glitch. Bands get placed on the wrong wrist by exhausted [triage](https://en.wikipedia.org/wiki/Triage) staff. Always ask, "Can you tell me your name and date of birth?" Technology augments your nursing judgment; it never replaces it.
+Now, modern hospitals have a wonderful technological assist: **[barcode scanning systems](https://en.wikipedia.org/wiki/Barcode)**. By scanning the patient’s [wristband](https://en.wikipedia.org/wiki/Wristband) and the medication, these systems provide an *additional safety measure* during medication administration. But—and pay very close attention here—[technology](https://en.wikipedia.org/wiki/Technology) is a safety net, not a replacement for your [brain](https://en.wikipedia.org/wiki/Brain). **Barcode scanning systems do not eliminate the requirement to verbally verify client identifiers.** Scanners glitch. Bands get placed on the wrong wrist by exhausted [triage](https://en.wikipedia.org/wiki/Triage) staff. Always ask, "Can you tell me your name and date of birth?" Technology augments your nursing judgment; it never replaces it.
+
+![Barcode scanning systems on patient identification wristbands add a critical layer of technological redundancy, but they must always be paired with active verbal verification.](https://wikipedia.org/wiki/Special:Redirect/file/LB2-ADULT-L3_Assembled.jpg)
 
 ---
 
-## 2. [Biochemistry](https://en.wikipedia.org/wiki/Biochemistry) in Action: Identifying and Managing Allergies
+## 2. [Biochemistry](https://en.wikipedia.org/wiki/Biochemistry) in Action: Identifying and Managing [Allergies](https://en.wikipedia.org/wiki/Allergy)
 
-The body’s immune system is a marvel, but sometimes it gets terribly confused, launching a full-scale thermonuclear war against a harmless substance. We call this an allergy.
+The body’s [immune system](https://en.wikipedia.org/wiki/Immune_system) is a marvel, but sometimes it gets terribly confused, launching a full-scale thermonuclear war against a harmless substance. We call this an [allergy](https://en.wikipedia.org/wiki/Allergy).
 
 **Nurses must verify client allergies upon admission to a healthcare facility.** This is the first line of defense. Once verified, **nurses must document all client allergies in the permanent medical record** so the entire [interdisciplinary team](https://en.wikipedia.org/wiki/Interdisciplinarity) can see them. 
 
 To ensure this invisible [physiological](https://en.wikipedia.org/wiki/Physiology) threat is immediately visible to anyone walking into the room, **healthcare facilities typically use [red](https://en.wikipedia.org/wiki/Red) wristbands to alert staff to a client allergy.** Red is the universal color of "Stop and Think."
 
-Before you introduce *any* foreign substance into the client's body, **nurses must verify client allergies in the medication administration record before giving any medication.** 
+Before you introduce *any* foreign substance into the client's body, **nurses must verify client allergies in the [medication administration record](https://en.wikipedia.org/wiki/Medication_administration_record) before giving any medication.** 
 
 ### The [Intravenous](https://en.wikipedia.org/wiki/Intravenous_therapy) Crisis
-Suppose you are infusing an [antibiotic](https://en.wikipedia.org/wiki/Antibiotic) intravenously. Suddenly, your client develops a [rash](https://en.wikipedia.org/wiki/Rash), starts [wheezing](https://en.wikipedia.org/wiki/Wheeze), and their [blood pressure](https://en.wikipedia.org/wiki/Blood_pressure) drops. What is the fundamental, immediate rule of physics and [medicine](https://en.wikipedia.org/wiki/Medicine) here? Stop the exposure! **The immediate nursing action for a suspected allergic reaction during an intravenous infusion is to stop the infusion.** Do not call the doctor first. Do not go look for [epinephrine](https://en.wikipedia.org/wiki/Epinephrine) first. Turn off the tap! You must halt the delivery of the antigen immediately.
+Suppose you are infusing an [antibiotic](https://en.wikipedia.org/wiki/Antibiotic) intravenously. Suddenly, your client develops a [rash](https://en.wikipedia.org/wiki/Rash), starts [wheezing](https://en.wikipedia.org/wiki/Wheeze), and their [blood pressure](https://en.wikipedia.org/wiki/Blood_pressure) drops. What is the fundamental, immediate rule of physics and [medicine](https://en.wikipedia.org/wiki/Medicine) here? Stop the exposure! **The immediate nursing action for a suspected [allergic reaction](https://en.wikipedia.org/wiki/Anaphylaxis) during an intravenous infusion is to stop the infusion.** Do not call the [doctor](https://en.wikipedia.org/wiki/Physician) first. Do not go look for [epinephrine](https://en.wikipedia.org/wiki/Epinephrine) first. Turn off the tap! You must halt the delivery of the [antigen](https://en.wikipedia.org/wiki/Antigen) immediately.
 
-### The Bizarre [Biology](https://en.wikipedia.org/wiki/Biology) of Latex and [Fruit](https://en.wikipedia.org/wiki/Fruit)
-Let’s talk about a very specific and critical allergy: **Latex**. 
+![Urticaria (hives) and flushing on the chest are common physical signs of anaphylaxis, requiring the immediate cessation of any intravenous antigen exposure.](https://wikipedia.org/wiki/Special:Redirect/file/Rash_on_the_chest_of_a_person_with_anaphylaxis.jpg)
+
+### The Bizarre [Biology](https://en.wikipedia.org/wiki/Biology) of [Latex](https://en.wikipedia.org/wiki/Latex) and [Fruit](https://en.wikipedia.org/wiki/Fruit)
+Let’s talk about a very specific and critical allergy: **[Latex](https://en.wikipedia.org/wiki/Latex_allergy)**. 
 Repeated exposure to a [protein](https://en.wikipedia.org/wiki/Protein) makes the immune system more likely to sensitize to it. Because of the frequent medical procedures, [surgeries](https://en.wikipedia.org/wiki/Surgery), and [straight catheterizations](https://en.wikipedia.org/wiki/Urinary_catheterization) they undergo from birth, **clients with [spina bifida](https://en.wikipedia.org/wiki/Spina_bifida) have a high risk of developing a latex allergy.** 
 
-But here is where biology gets truly fascinating. The proteins found in [natural rubber](https://en.wikipedia.org/wiki/Natural_rubber) latex have [molecular structures](https://en.wikipedia.org/wiki/Molecule) that are astonishingly similar to the proteins found in certain fruits. We call this **cross-reactivity**. If your patient’s immune system is trained to attack latex, it will look at a piece of fruit, recognize the molecular shape, and attack it too! 
+But here is where biology gets truly fascinating. The proteins found in [natural rubber](https://en.wikipedia.org/wiki/Natural_rubber) latex have [molecular structures](https://en.wikipedia.org/wiki/Molecule) that are astonishingly similar to the proteins found in certain fruits. We call this **[cross-reactivity](https://en.wikipedia.org/wiki/Cross-reactivity)**. If your patient’s immune system is trained to attack latex, it will look at a piece of fruit, recognize the molecular shape, and attack it too! 
 
-Therefore, remember this peculiar but vital triad: **latex allergies share cross-reactivity with bananas, [avocados](https://en.wikipedia.org/wiki/Avocado), and [kiwis](https://en.wikipedia.org/wiki/Kiwifruit).** If your patient tells you, "Every time I eat an avocado, my lips tingle," you must immediately treat them as a latex-allergy risk!
+Therefore, remember this peculiar but vital triad: **latex allergies share cross-reactivity with [bananas](https://en.wikipedia.org/wiki/Banana), [avocados](https://en.wikipedia.org/wiki/Avocado), and [kiwis](https://en.wikipedia.org/wiki/Kiwifruit).** If your patient tells you, "Every time I eat an avocado, my lips tingle," you must immediately treat them as a latex-allergy risk!
 
 ---
 
@@ -62,16 +66,20 @@ Therefore, remember this peculiar but vital triad: **latex allergies share cross
 A hospital room is a dynamic environment, and as nurses, we have to act as environmental engineers. We are constantly mitigating the risks of gravity (falls) and electricity (shocks and fires).
 
 ### The Lifeline: The Call Light
-A patient who feels isolated will try to do things themselves, often resulting in a fall. **Assessing the client's understanding of the call light system promotes a safe care environment.** It is not enough to just hand it to them; you must know that they *know* how to use it. 
+A patient who feels isolated will try to do things themselves, often resulting in a [fall](https://en.wikipedia.org/wiki/Fall_%28accident%29). **Assessing the client's understanding of the [call light](https://en.wikipedia.org/wiki/Nurse_call_button) system promotes a safe care environment.** It is not enough to just hand it to them; you must know that they *know* how to use it. 
 
 Always, without exception, **nurses must place the call light within the client's continuous reach.** Furthermore, **nurses must educate clients to request assistance before getting out of bed.** 
+
+![A nurse call button must be kept within the patient's continuous physical reach to prevent unassisted, high-risk ambulation.](https://wikipedia.org/wiki/Special:Redirect/file/Intercall_Systems_pancake_cord_set.jpg)
 
 ### Outsmarting Gravity: Bed and Floor [Physics](https://en.wikipedia.org/wiki/Physics)
 When a patient inevitably does try to stand up, we want to minimize the potential [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) of a fall. The higher the bed, the harder the impact. Therefore, **the client bed must be kept in the lowest possible position to minimize fall injury risk.**
 
 And what about [friction](https://en.wikipedia.org/wiki/Friction)? If a client leans on a bed to stand, and that bed rolls, they will hit the floor. **Bed [wheels](https://en.wikipedia.org/wiki/Wheel) must remain locked at all times when a client bed is stationary.** The *only* time you override this rule is when physics demands it: **nurses must unlock bed wheels only during active transport of the client bed.**
 
-To further increase friction between the client and the floor, **clients assessed as a high fall risk must wear non-skid footwear during [ambulation](https://en.wikipedia.org/wiki/Walking).** Slippery hospital [socks](https://en.wikipedia.org/wiki/Sock) on smooth [linoleum](https://en.wikipedia.org/wiki/Linoleum) floors are a recipe for disaster.
+To further increase friction between the client and the floor, **clients assessed as a high fall risk must wear non-skid [footwear](https://en.wikipedia.org/wiki/Footwear) during [ambulation](https://en.wikipedia.org/wiki/Walking).** Slippery hospital [socks](https://en.wikipedia.org/wiki/Sock) on smooth [linoleum](https://en.wikipedia.org/wiki/Linoleum) floors are a recipe for disaster.
+
+![Non-skid socks provide crucial friction between the patient's feet and smooth hospital floors, significantly reducing the risk of a dangerous fall.](https://wikipedia.org/wiki/Special:Redirect/file/Halksockar.JPG)
 
 We also manipulate the visual and physical space. **Adequate [lighting](https://en.wikipedia.org/wiki/Lighting) in the client's room reduces the risk of tripping and falling**, because [humans](https://en.wikipedia.org/wiki/Human) rely on visual contrast to navigate obstacles. Similarly, **nurses must clear the client's floor of clutter to eliminate tripping hazards.** 
 
@@ -79,7 +87,7 @@ If a client has a [cognitive impairment](https://en.wikipedia.org/wiki/Cognitive
 
 ### Managing the Electrical Threat
 Hospitals run on [electricity](https://en.wikipedia.org/wiki/Electricity). But electricity likes to escape its intended pathways. 
-**Nurses must immediately remove frayed [electrical cords](https://en.wikipedia.org/wiki/Power_cord) from the client care environment.** A frayed cord is an exposed wire, and an exposed wire is a spark waiting to ignite oxygen or a shock waiting to stop a heart. 
+**Nurses must immediately remove frayed [electrical cords](https://en.wikipedia.org/wiki/Power_cord) from the client care environment.** A frayed cord is an exposed [wire](https://en.wikipedia.org/wiki/Wire), and an exposed wire is a spark waiting to ignite [oxygen](https://en.wikipedia.org/wiki/Oxygen) or a shock waiting to stop a [heart](https://en.wikipedia.org/wiki/Heart). 
 If a machine starts sparking, smoking, or failing to operate correctly, do not leave it in the room for the next person to find. **Faulty medical equipment must be tagged and removed from the client care area immediately.**
 
 ---
@@ -88,14 +96,22 @@ If a machine starts sparking, smoking, or failing to operate correctly, do not l
 
 Moving a human body from a bed to a [wheelchair](https://en.wikipedia.org/wiki/Wheelchair) requires an understanding of [structural integrity](https://en.wikipedia.org/wiki/Structural_integrity_and_failure)—both the client's and yours.
 
-Before you ever try to lift someone, you have to gather data. **Nurses must determine a client's weight-bearing capacity before initiating any physical transfer.** Can they support their own weight? Can they bear weight on at least one leg? If you don't know the answer, you are guessing, and guessing causes catastrophic [injuries](https://en.wikipedia.org/wiki/Injury).
+Before you ever try to lift someone, you have to gather data. **Nurses must determine a client's [weight-bearing](https://en.wikipedia.org/wiki/Weight-bearing) capacity before initiating any physical transfer.** Can they support their own weight? Can they bear weight on at least one leg? If you don't know the answer, you are guessing, and guessing causes catastrophic [injuries](https://en.wikipedia.org/wiki/Injury).
 
 ### Transfer Tools
 We use [simple machines](https://en.wikipedia.org/wiki/Simple_machine) and tools to distribute [force](https://en.wikipedia.org/wiki/Force) safely.
 
-*   **Gait Belts:** **Gait belts provide a secure grip point for the nurse during client ambulation.** Instead of awkwardly grabbing a client's arm (which can cause a shoulder dislocation or skin tear), you hold the belt at their center of gravity. Crucially, **nurses must apply a gait belt over the client's [clothing](https://en.wikipedia.org/wiki/Clothing) to prevent skin injury.** Friction against bare skin under heavy loads causes [sheer forces](https://en.wikipedia.org/wiki/Shear_stress) that tear the [epidermis](https://en.wikipedia.org/wiki/Epidermis).
-*   **Slide Boards:** If a patient has upper body strength but cannot bear weight on their legs, we use geometry to our advantage. **Slide boards facilitate seated transfers between a bed and a wheelchair**, effectively creating a stable bridge to slide across rather than lifting the client vertically.
-*   **Mechanical Lifts:** What if the patient has zero weight-bearing capacity? We do not use human backs; we use [hydraulics](https://en.wikipedia.org/wiki/Hydraulics). **Mechanical lifts are required to transfer clients who are completely immobile.** Because operating these machines requires balancing a suspended load, navigating machinery, and guiding the client, **mechanical lifts require the assistance of at least two staff members for safe operation.**
+*   **[Gait Belts](https://en.wikipedia.org/wiki/Gait_belt):** **Gait belts provide a secure grip point for the nurse during client ambulation.** Instead of awkwardly grabbing a client's arm (which can cause a [shoulder dislocation](https://en.wikipedia.org/wiki/Dislocated_shoulder) or skin tear), you hold the belt at their [center of gravity](https://en.wikipedia.org/wiki/Center_of_mass). Crucially, **nurses must apply a gait belt over the client's [clothing](https://en.wikipedia.org/wiki/Clothing) to prevent skin injury.** Friction against bare skin under heavy loads causes [sheer forces](https://en.wikipedia.org/wiki/Shear_stress) that tear the [epidermis](https://en.wikipedia.org/wiki/Epidermis).
+
+    ![A gait belt provides a secure mechanical grip at the client's center of gravity and must be applied over clothing to prevent sheer forces from tearing the skin.](https://wikipedia.org/wiki/Special:Redirect/file/Ceinture_de_marche.jpg)
+
+*   **[Slide Boards](https://en.wikipedia.org/wiki/Transfer_board):** If a patient has [upper body](https://en.wikipedia.org/wiki/Torso) strength but cannot bear weight on their legs, we use [geometry](https://en.wikipedia.org/wiki/Geometry) to our advantage. **Slide boards facilitate seated transfers between a bed and a wheelchair**, effectively creating a stable bridge to slide across rather than lifting the client vertically.
+
+    ![A slide board acts as a stable geometric bridge, allowing patients with upper body strength to perform a seated transfer between surfaces without bearing weight on their legs.](https://wikipedia.org/wiki/Special:Redirect/file/Transfer_board_and_patient.jpg)
+
+*   **[Mechanical Lifts](https://en.wikipedia.org/wiki/Patient_lift):** What if the patient has zero weight-bearing capacity? We do not use human backs; we use [hydraulics](https://en.wikipedia.org/wiki/Hydraulics). **Mechanical lifts are required to transfer clients who are completely immobile.** Because operating these machines requires balancing a suspended load, navigating machinery, and guiding the client, **mechanical lifts require the assistance of at least two staff members for safe operation.**
+
+    ![Mechanical patient lifts use hydraulics to safely transfer completely immobile clients, requiring at least two staff members to manage the suspended load and guide the machinery.](https://wikipedia.org/wiki/Special:Redirect/file/Patientenlifter.JPG)
 
 ### Wheelchair Physics
 Let's talk about [Newton's Third Law of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion): For every action, there is an equal and opposite reaction. 
@@ -106,20 +122,22 @@ The reverse is also true! When a client pushes *forward* to stand up, the chair 
 
 ## 5. [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics) and [Combustion](https://en.wikipedia.org/wiki/Combustion): [Fire](https://en.wikipedia.org/wiki/Fire) and Oxygen Safety
 
-[Fire](https://en.wikipedia.org/wiki/Fire) requires three things: heat (a spark), [fuel](https://en.wikipedia.org/wiki/Fuel) (linens, paper), and oxygen. Hospitals are packed with all three. When a fire breaks out, panic is your enemy. Protocol is your savior.
+[Fire](https://en.wikipedia.org/wiki/Fire) requires three things: [heat](https://en.wikipedia.org/wiki/Heat) (a spark), [fuel](https://en.wikipedia.org/wiki/Fuel) (linens, paper), and [oxygen](https://en.wikipedia.org/wiki/Oxygen). Hospitals are packed with all three. When a fire breaks out, [panic](https://en.wikipedia.org/wiki/Panic) is your enemy. Protocol is your savior.
 
 ### The RACE Protocol
-When you encounter a fire, your brain will flood with adrenaline. You must rely on a [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) to guide your actions systematically. **The RACE acronym guides staff actions during a facility fire emergency.**
+When you encounter a fire, your brain will flood with [adrenaline](https://en.wikipedia.org/wiki/Adrenaline). You must rely on a [mnemonic](https://en.wikipedia.org/wiki/Mnemonic) to guide your actions systematically. **The RACE acronym guides staff actions during a facility fire emergency.**
 
 > **R - Rescue:** **The letter R in the RACE fire acronym stands for Rescue clients in immediate danger.** Life safety *always* comes first. Get the people out of the immediate vicinity of the flames.
 >
-> **A - Alarm:** **The letter A in the RACE fire acronym stands for Alarm or activate the fire alarm system.** You cannot fight a fire alone. Pull the alarm so the cavalry (and the fire department) knows to come.
+> **A - Alarm:** **The letter A in the RACE fire acronym stands for Alarm or activate the [fire alarm system](https://en.wikipedia.org/wiki/Fire_alarm_system).** You cannot fight a fire alone. Pull the alarm so the cavalry (and the [fire department](https://en.wikipedia.org/wiki/Fire_department)) knows to come.
 >
-> **C - Confine:** **The letter C in the RACE fire acronym stands for Confine the fire by closing doors.** Fire needs oxygen. By shutting the heavy fire doors in a hospital, you starve the fire of oxygen and block the spread of toxic smoke.
+> **C - Confine:** **The letter C in the RACE fire acronym stands for Confine the fire by closing doors.** Fire needs oxygen. By shutting the heavy [fire doors](https://en.wikipedia.org/wiki/Fire_door) in a hospital, you starve the fire of oxygen and block the spread of toxic [smoke](https://en.wikipedia.org/wiki/Smoke).
 >
-> **E - Extinguish or Evacuate:** **The letter E in the RACE fire acronym stands for Extinguish the fire or Evacuate the area.** If the fire is small (like a trash can), fight it. If it is large, get out!
+> **E - Extinguish or Evacuate:** **The letter E in the RACE fire acronym stands for Extinguish the fire or [Evacuate](https://en.wikipedia.org/wiki/Emergency_evacuation) the area.** If the fire is small (like a trash can), fight it. If it is large, get out!
 
-### The PASS Protocol for Fire Extinguishers
+![Heavy, fire-resistance rated doors are essential for confining a fire and preventing the spread of toxic smoke and flames to other areas of the facility.](https://wikipedia.org/wiki/Special:Redirect/file/Fire_door.jpg)
+
+### The PASS Protocol for [Fire Extinguishers](https://en.wikipedia.org/wiki/Fire_extinguisher)
 If you must extinguish the fire, staring blankly at the red cylinder won't help. You use **The PASS acronym, which provides instructions for the correct use of a fire extinguisher.**
 
 > **P - Pull:** **The letter P in the PASS acronym stands for Pull the pin on the fire extinguisher.** This breaks the tamper seal.
@@ -130,16 +148,20 @@ If you must extinguish the fire, staring blankly at the red cylinder won't help.
 >
 > **S - Sweep:** **The second letter S in the PASS acronym stands for Sweep the extinguisher nozzle from side to side.** This blankets the entire fuel source, smothering the [chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction).
 
+![When using a standard fire extinguisher, staff must follow the PASS protocol: Pull the pin, Aim at the base, Squeeze the handle, and Sweep side to side.](https://wikipedia.org/wiki/Special:Redirect/file/FireExtinguisherABC.jpg)
+
 ### The Dangers of an Oxygen-Enriched Environment
-We frequently administer supplemental oxygen to clients. Oxygen itself is not flammable, but it is an *accelerant*. It causes things that wouldn't normally burn to ignite with explosive ferocity. 
+We frequently administer supplemental oxygen to clients. Oxygen itself is not flammable, but it is an *[accelerant](https://en.wikipedia.org/wiki/Accelerant)*. It causes things that wouldn't normally burn to ignite with explosive ferocity. 
 
-First, consider the storage. Oxygen is kept in highly pressurized metal tanks. If a tank falls over and the valve snaps off, it literally becomes a high-speed missile. Therefore, **oxygen cylinders must be stored in upright carts or stands to prevent tipping.**
+First, consider the storage. Oxygen is kept in highly pressurized metal tanks. If a tank falls over and the valve snaps off, it literally becomes a high-speed missile. Therefore, **[oxygen cylinders](https://en.wikipedia.org/wiki/Oxygen_cylinder) must be stored in upright carts or stands to prevent tipping.**
 
-Next, consider ignition sources. Because oxygen accelerates combustion so violently, **smoking is strictly prohibited in any area where oxygen is in use.** 
+![Highly pressurized oxygen cylinders must be securely stored in upright stands to prevent the valves from breaking off and turning the tanks into dangerous projectiles.](https://wikipedia.org/wiki/Special:Redirect/file/Compressed_gas_cylinders.mapp_and_oxygen.triddle.jpg)
 
-But here is the stealthiest ignition source of all: *static electricity*. When certain fabrics rub together, they strip [electrons](https://en.wikipedia.org/wiki/Electron) from one another, building up a static charge. When that charge jumps to a grounded surface, it creates a microscopic spark. In normal air, this is just an annoying shock. In an oxygen-enriched environment, it is a detonator. 
+Next, consider ignition sources. Because oxygen accelerates combustion so violently, **[smoking](https://en.wikipedia.org/wiki/Smoking) is strictly prohibited in any area where oxygen is in use.** 
 
-**[Synthetic fabrics](https://en.wikipedia.org/wiki/Synthetic_fiber) pose a risk in oxygen-enriched environments due to static electricity sparks.** Materials like [nylon](https://en.wikipedia.org/wiki/Nylon), [polyester](https://en.wikipedia.org/wiki/Polyester), and wool are notorious for generating static. To eliminate this risk, we rely on a material that does not easily generate static charge. **[Cotton](https://en.wikipedia.org/wiki/Cotton) blankets are recommended for clients receiving oxygen therapy to minimize static electricity.** 
+But here is the stealthiest ignition source of all: *[static electricity](https://en.wikipedia.org/wiki/Static_electricity)*. When certain fabrics rub together, they strip [electrons](https://en.wikipedia.org/wiki/Electron) from one another, building up a static charge. When that charge jumps to a grounded surface, it creates a microscopic spark. In normal air, this is just an annoying shock. In an oxygen-enriched environment, it is a detonator. 
+
+**[Synthetic fabrics](https://en.wikipedia.org/wiki/Synthetic_fiber) pose a risk in oxygen-enriched environments due to static electricity sparks.** Materials like [nylon](https://en.wikipedia.org/wiki/Nylon), [polyester](https://en.wikipedia.org/wiki/Polyester), and [wool](https://en.wikipedia.org/wiki/Wool) are notorious for generating static. To eliminate this risk, we rely on a material that does not easily generate static charge. **[Cotton](https://en.wikipedia.org/wiki/Cotton) blankets are recommended for clients receiving [oxygen therapy](https://en.wikipedia.org/wiki/Oxygen_therapy) to minimize static electricity.** 
 
 ---
 

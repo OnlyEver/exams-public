@@ -19,10 +19,16 @@ It has no [length](https://en.wikipedia.org/wiki/Length), no [width](https://en.
 *   If we chop that line, we get **a [line segment](https://en.wikipedia.org/wiki/Line_segment)**, which is a restricted part of a line explicitly bounded by two distinct endpoints. 
 *   If we only chop it once, we create a hybrid: **a [ray](https://en.wikipedia.org/wiki/Ray_%28geometry%29)** has exactly one fixed endpoint and extends [infinitely](https://en.wikipedia.org/wiki/Infinity) in a single continuous direction. Think of a [laser pointer](https://en.wikipedia.org/wiki/Laser_pointer)—it starts in your hand and shoots to the [moon](https://en.wikipedia.org/wiki/Moon).
 
+![A mathematical ray begins at a fixed endpoint (A) and extends infinitely in one direction through other points on the line.](https://wikipedia.org/wiki/Special:Redirect/file/Ray_(A%2C_B%2C_C).svg)
+
 #### When Lines Collide
 Drop two lines onto a flat piece of paper. If they cross, they are **[intersecting lines](https://en.wikipedia.org/wiki/Line%E2%80%93line_intersection)**—straight lines that cross each other at exactly one shared geometric point. 
 
+![Intersecting lines cross each other at exactly one shared geometric point.](https://wikipedia.org/wiki/Special:Redirect/file/Line-Line_Intersection.png)
+
 Now, if they cross with absolute perfection to form exactly a 90-degree intersection, they earn a special name. **[Perpendicular lines](https://en.wikipedia.org/wiki/Perpendicular)** are intersecting lines that cross to form exactly a [ninety-degree angle](https://en.wikipedia.org/wiki/Right_angle).
+
+![Perpendicular lines intersect to form perfect 90-degree right angles, often indicated by small squares at the intersection.](https://wikipedia.org/wiki/Special:Redirect/file/Perpendicular-coloured.svg)
 
 But what if they *never* touch? 
 **[Parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29)** are straight lines situated in the exact same [plane](https://en.wikipedia.org/wiki/Plane_%28geometry%29) that never intersect. Imagine the tracks of a train zooming across the plains. Why doesn't the train derail? Because **the shortest measured [distance](https://en.wikipedia.org/wiki/Distance) between two specific parallel lines remains completely constant at all points.** If that distance changed, the lines would eventually cross!
@@ -36,6 +42,8 @@ Kids love classifying angles. It’s like sorting sizes of shoes:
 *   **[Obtuse angle](https://en.wikipedia.org/wiki/Obtuse_angle):** measures strictly greater than ninety degrees and strictly less than one hundred eighty degrees.
 *   **[Straight angle](https://en.wikipedia.org/wiki/Straight_angle):** measures exactly one hundred eighty degrees (which looks just like a flat line).
 
+![Examples of acute, obtuse, and straight angles. The mathematical classification of an angle depends entirely on its degree measure relative to 90 and 180 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Angle_obtuse_acute_straight.svg)
+
 ---
 
 ### Drawing the Boundaries: [Polygons](https://en.wikipedia.org/wiki/Polygon) and Attributes
@@ -44,6 +52,8 @@ Now we take our line segments and trap some space.
 **A [polygon](https://en.wikipedia.org/wiki/Polygon) is a completely closed two-dimensional figure bounded entirely by straight line segments.** For a [shape](https://en.wikipedia.org/wiki/Shape) to join the prestigious Polygon Club, it must follow strict rules. Chief among them: **a valid polygon cannot contain any [curved](https://en.wikipedia.org/wiki/Curve) outer lines.**
 
 What if there's a tiny break in the fence? Then it's an **open geometric figure**, meaning it contains at least one gap in its outer boundary lines. Because the [perimeter](https://en.wikipedia.org/wiki/Perimeter) isn't sealed, **an open geometric figure cannot mathematically enclose an internal [area](https://en.wikipedia.org/wiki/Area).** Water would just spill right out!
+
+![A geometric figure must be completely closed to be classified as a polygon. Open figures (like the shape on the far left) fail to enclose an internal area.](https://wikipedia.org/wiki/Special:Redirect/file/Assorted_polygons.svg)
 
 #### The "Diamond" Trap: Defining vs. Non-Defining Attributes
 Remember our student with the rotated [square](https://en.wikipedia.org/wiki/Square) calling it a "[diamond](https://en.wikipedia.org/wiki/Lozenge_%28shape%29)"? Here is where you make your money as a teacher. You must help students separate *what a shape mathematically is* from *what a shape looks like today*.
@@ -64,6 +74,8 @@ Turning a [square](https://en.wikipedia.org/wiki/Square) 45 degrees does not mag
 Let's look at the simplest polygons. **A [triangle](https://en.wikipedia.org/wiki/Triangle) is a two-dimensional polygon bounded by exactly three straight sides.** Because the boundary is fully sealed by three sides, **a complete triangle contains exactly three [interior angles](https://en.wikipedia.org/wiki/Internal_angle).** 
 
 Here is the grand, universal rule of triangles: **The mathematical sum of the interior angles of any [planar](https://en.wikipedia.org/wiki/Euclidean_plane) triangle is exactly one hundred eighty degrees.** No matter how you stretch or squish it, those three internal angles will always add up to 180. 
+
+![No matter the specific shape or size of a planar triangle, its three interior angles will always mathematically combine to equal exactly 180 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Triangle_sommeangles.svg)
 
 We can sort [triangles](https://en.wikipedia.org/wiki/Triangle) into two distinct filing cabinets: *By Sides* and *By Angles*.
 
@@ -89,6 +101,8 @@ Let’s add a side. **A [quadrilateral](https://en.wikipedia.org/wiki/Quadrilate
 
 Teaching quadrilaterals requires understanding **hierarchical geometric classification**, which groups individual shapes into broad main categories and specific subcategories based exclusively on shared mathematical attributes. 
 
+![A hierarchical Euler diagram of quadrilaterals. Notice how shapes like the square belong to multiple broader categories simultaneously, inheriting all of their mathematical properties.](https://wikipedia.org/wiki/Special:Redirect/file/Euler_diagram_of_quadrilateral_types.svg)
+
 Here is the secret to mastering the hierarchy: **In strict hierarchical classification, all defining properties of a broader geometric category intrinsically apply to its specialized subcategories.** 
 
 Let's climb the hierarchy:
@@ -100,6 +114,8 @@ Let's climb the hierarchy:
 5.  **[Square](https://en.wikipedia.org/wiki/Square):** The ultimate shape. A square is a specialized rectangle featuring exactly four straight sides of mathematically equal length. 
 
 Because of hierarchical classification, **a geometrically valid square perfectly satisfies all standard defining attributes of a [rectangle](https://en.wikipedia.org/wiki/Rectangle)** (it has four right angles and opposite parallel sides) AND **a geometrically valid square perfectly satisfies all standard defining attributes of a [rhombus](https://en.wikipedia.org/wiki/Rhombus)** (it has four equal sides). A square *is* a rectangle, and a square *is* a rhombus. 
+
+![Because a square features both four right angles and four equal side lengths, it conceptually represents the geometric intersection of a rectangle and a rhombus.](https://wikipedia.org/wiki/Special:Redirect/file/The_square_among_a_family_of_rectangles_or_rhombuses.png)
 
 #### The Great [Trapezoid](https://en.wikipedia.org/wiki/Trapezoid) Controversy
 Prepare yourself, because math [curricula](https://en.wikipedia.org/wiki/Curriculum) are divided on this!
@@ -117,6 +133,8 @@ Once kids grasp defining attributes, bigger polygons become easy to construct.
 *   **[Hexagon](https://en.wikipedia.org/wiki/Hexagon):** A two-dimensional polygon bounded by exactly six straight sides. Just like above, **a newly drawn two-dimensional geometric figure deliberately completely closed with exactly six straight connected bounding sides must necessarily be a hexagon.**
 *   **[Octagon](https://en.wikipedia.org/wiki/Octagon):** A two-dimensional polygon bounded by exactly eight straight sides. ([Stop signs](https://en.wikipedia.org/wiki/Stop_sign) everywhere rejoice).
 
+![The standard stop sign is one of the most universally recognized examples of a regular octagon in the physical world.](https://wikipedia.org/wiki/Special:Redirect/file/STOP_sign.jpg)
+
 ---
 
 ### Shape Shifting: Composing, Decomposing, and [Tangram](https://en.wikipedia.org/wiki/Tangram) Magic
@@ -133,6 +151,8 @@ Here are some classic decompositions you will see in curriculum tasks:
 *   In reverse: **A standard rectangle can be evenly decomposed into two identically sized right triangles by drawing a single straight [diagonal](https://en.wikipedia.org/wiki/Diagonal) line directly from corner to opposite corner.**
 *   Using pattern blocks: **A regular hexagon shape can be evenly decomposed into exactly six identically sized equilateral triangles.** 
 
+![A standard tangram set composed into a square. Tangrams allow students to physically practice composing and decomposing basic geometric shapes.](https://wikipedia.org/wiki/Special:Redirect/file/Tangram_set_00.jpg)
+
 ---
 
 ### Popping off the Paper: The [3rd Dimension](https://en.wikipedia.org/wiki/Three-dimensional_space)
@@ -141,6 +161,8 @@ Finally, we transition from flat paper to the physical world. Three-dimensional 
 *   **A [geometric face](https://en.wikipedia.org/wiki/Face_%28geometry%29)** is a completely flat, two-dimensional outer surface present on a three-dimensional solid mathematical figure.
 *   **A [geometric edge](https://en.wikipedia.org/wiki/Edge_%28geometry%29)** is the straight, one-dimensional line segment located precisely where two flat faces of a three-dimensional solid intersect.
 *   **A [geometric vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29)** on a three-dimensional solid figure is the specific spatial corner point where three or more straight edges intersect.
+
+![Basic three-dimensional geometric solids: a pyramid, a sphere, and a cube. Notice how the round sphere lacks the flat faces and straight edges found on the polyhedra.](https://wikipedia.org/wiki/Special:Redirect/file/Basic_shapes.svg)
 
 Let's look at the solids your elementary students will encounter:
 

@@ -4,6 +4,8 @@ Welcome to the big leagues. Until now, your [nursing education](https://en.wikip
 
 You are no longer just playing a solo instrument; you are conducting the entire orchestra. 
 
+![A nurse inserting an IV cannula. As an RN, your focus will expand from performing individual technical skills like IV insertion to leading and delegating within a care team.](https://wikipedia.org/wiki/Special:Redirect/file/Intravenous_attempt.jpg)
+
 You simply cannot do it all yourself. You must multiply your impact by utilizing your team—[Licensed Practical/Vocational Nurses](https://en.wikipedia.org/wiki/Licensed_practical_nurse) (LPN/VNs) and [Unlicensed Assistive Personnel](https://en.wikipedia.org/wiki/Unlicensed_assistive_personnel) (UAP). But how do you do this safely? How do you ensure the music stays beautiful and the [patient](https://en.wikipedia.org/wiki/Patient) stays safe? That is the art and science of [delegation](https://en.wikipedia.org/wiki/Delegation).
 
 Let's break down the rules of the game.
@@ -23,6 +25,8 @@ But here is the most critical concept you will ever learn about [nursing leaders
 > **The [registered nurse](https://en.wikipedia.org/wiki/Registered_nurse) retains ultimate [accountability](https://en.wikipedia.org/wiki/Accountability) for the outcome of any delegated nursing task.**
 
 You can delegate the *authority* to perform the task, but you can never, ever delegate the *accountability* for the outcome. The buck stops with you. If you delegate a [blood pressure check](https://en.wikipedia.org/wiki/Blood_pressure_measurement) to an assistant, and they do it wrong, resulting in [patient harm](https://en.wikipedia.org/wiki/Patient_safety), *you* are accountable. 
+
+![A nurse taking a patient's blood pressure. While measuring blood pressure is a routine task that can be delegated, the delegating RN retains full accountability for any resulting clinical decisions.](https://wikipedia.org/wiki/Special:Redirect/file/Nurse_checks_blood_pressure.jpg)
 
 Because you are accountable, you must engage in **Supervision**. Supervision is a two-part process. It involves providing guidance to a nursing team member *during* the performance of a delegated task, and it strictly requires the registered nurse to evaluate the outcome of a task *after* completion by a team member. You do not just fire and forget. 
 
@@ -56,6 +60,8 @@ Finally, Right Supervision requires the registered nurse to monitor the performa
 
 There is a wall of separation between what an RN does and what the rest of the team does. It comes down to **nursing judgment**. Any task requiring the "brain work" of the [Nursing Process](https://en.wikipedia.org/wiki/Nursing_process) (ADPIE: [Assessment](https://en.wikipedia.org/wiki/Nursing_assessment), [Diagnosis](https://en.wikipedia.org/wiki/Nursing_diagnosis), [Planning](https://en.wikipedia.org/wiki/Nursing_care_plan), Implementation of teaching, [Evaluation](https://en.wikipedia.org/wiki/Evaluation)) stays with you. 
 
+![Diagram of the five-phase nursing process. The cognitive work of assessment, diagnosis, planning, and evaluation requires independent clinical judgment and can never be delegated.](https://wikipedia.org/wiki/Special:Redirect/file/Nursing_process_(NANDA).svg)
+
 Here are the absolute, non-negotiable limitations on delegation. 
 
 **A registered nurse CANNOT delegate:**
@@ -67,6 +73,8 @@ Here are the absolute, non-negotiable limitations on delegation.
 *   **Tasks requiring independent [clinical judgment](https://en.wikipedia.org/wiki/Clinical_decision-making).** 
 *   **The care of physiologically unstable clients** to a licensed practical nurse.
 *   **[Triage](https://en.wikipedia.org/wiki/Triage) activities in an [emergency setting](https://en.wikipedia.org/wiki/Emergency_department).** (A registered nurse must personally perform triage activities because triage is the ultimate act of rapid, independent clinical judgment).
+
+![A clinical chart showing how abnormal vital signs dictate triage categories. Triage requires rapid synthesis of data to make complex clinical judgments, a responsibility reserved exclusively for the RN.](https://wikipedia.org/wiki/Special:Redirect/file/13049_2012_Article_483_Fig2_HTML.svg)
 
 ---
 
@@ -102,6 +110,8 @@ UAPs (often called [CNAs](https://en.wikipedia.org/wiki/Certified_Nursing_Assist
 
 *A critical safety note:* While a UAP can feed a stable client, unlicensed assistive personnel cannot feed clients with diagnosed swallowing precautions. Why? Because a patient with swallowing precautions (like [dysphagia](https://en.wikipedia.org/wiki/Dysphagia) after a [stroke](https://en.wikipedia.org/wiki/Stroke)) has a high risk of [aspiration](https://en.wikipedia.org/wiki/Pulmonary_aspiration), which violates the "minimal risk of harm" rule. Feeding that specific patient requires clinical observation and judgment.
 
+![A barium swallow study demonstrating pulmonary aspiration. Feeding a patient with a known aspiration risk violates the "minimal risk of harm" rule for delegation, as it requires active clinical observation.](https://wikipedia.org/wiki/Special:Redirect/file/Aspiration_on_barium_swallow.jpg)
+
 ---
 
 ## 5. The Rules of the Road: Law, Policy, and Intervention
@@ -113,6 +123,8 @@ The state Nurse Practice Act dictates the legal parameters of nursing delegation
 
 **Hospital Policy:**
 Hospitals have their own rulebooks. A healthcare organization's internal policies can restrict delegation limits beyond the state Nurse Practice Act. For example, if your state allows LPNs to [draw blood](https://en.wikipedia.org/wiki/Venipuncture), but your specific hospital policy says only RNs and [phlebotomists](https://en.wikipedia.org/wiki/Phlebotomy) can draw blood, you must follow the hospital policy. However, a healthcare organization's internal policies *cannot expand* delegation limits beyond the state Nurse Practice Act. A hospital cannot grant a UAP permission to pass medications if the state law forbids it. 
+
+![A phlebotomist drawing blood. Even if state laws permit an LPN to perform venipuncture, hospital-specific policies can restrict delegation limits further.](https://wikipedia.org/wiki/Special:Redirect/file/Drawing_blood_from_a_vein_through_phlebotomy_and_venipuncture.jpg)
 
 **Refusal and Intervention:**
 What happens if you delegate a task, and the UAP says, "I don't know how to do that"? Listen to them! A delegatee can legally refuse a delegated task if the delegatee lacks the necessary training to perform the task safely. This is actually a feature of a healthy [safety culture](https://en.wikipedia.org/wiki/Safety_culture), not a bug.

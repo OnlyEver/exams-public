@@ -18,6 +18,8 @@ The [RN](https://en.wikipedia.org/wiki/Registered_nurse) is the architect. You a
 *   **The Registered Nurse is responsible for completing the comprehensive initial client [assessment](https://en.wikipedia.org/wiki/Nursing_assessment).**
 *   Teaching also falls to you: **The Registered Nurse provides [client education](https://en.wikipedia.org/wiki/Patient_education) regarding new [medical diagnoses](https://en.wikipedia.org/wiki/Medical_diagnosis)** and **provides initial client education regarding new [medication prescriptions](https://en.wikipedia.org/wiki/Medical_prescription).**
 
+![The Registered Nurse is legally responsible for initial patient education regarding new medical diagnoses and treatment plans.](https://wikipedia.org/wiki/Special:Redirect/file/Black_lung_screening.jpg)
+
 **2. The [Licensed Practical Nurse](https://en.wikipedia.org/wiki/Licensed_practical_nurse) (LPN)**
 If the RN is the architect, the [LPN](https://en.wikipedia.org/wiki/Licensed_practical_nurse) is the highly skilled builder. They execute complex tasks but operate under the blueprint you created. 
 *   Assessment: While you do the initial deep-dive, **the Licensed Practical Nurse monitors ongoing client clinical findings following the Registered Nurse's initial assessment.**
@@ -25,10 +27,14 @@ If the RN is the architect, the [LPN](https://en.wikipedia.org/wiki/Licensed_pra
 *   Procedures: **The Licensed Practical Nurse can perform [sterile](https://en.wikipedia.org/wiki/Asepsis) [dressing changes](https://en.wikipedia.org/wiki/Dressing_%28medical%29) for assigned clients** and **can administer [enteral tube feedings](https://en.wikipedia.org/wiki/Feeding_tube) to stable clients.**
 > **Crucial NCLEX Keyword:** Notice the word **stable**. LPNs care for clients with predictable outcomes. If a patient is [crashing](https://en.wikipedia.org/wiki/Medical_emergency), the RN takes over.
 
+![The LPN's scope of practice includes administering intramuscular and oral medications to clinically stable clients.](https://wikipedia.org/wiki/Special:Redirect/file/Intramuscular_Injection.JPG)
+
 **3. [Unlicensed Assistive Personnel](https://en.wikipedia.org/wiki/Unlicensed_assistive_personnel) (UAP)**
 The [UAPs](https://en.wikipedia.org/wiki/Unlicensed_assistive_personnel) (nursing assistants, techs) are the foundation of basic client functioning. 
 *   **Unlicensed Assistive Personnel assist clients with basic [activities of daily living](https://en.wikipedia.org/wiki/Activities_of_daily_living)** (feeding, bathing, [ambulating](https://en.wikipedia.org/wiki/Walking)).
 *   They also **measure and record routine [vital signs](https://en.wikipedia.org/wiki/Vital_signs) for clinically stable clients.**
+
+![Unlicensed Assistive Personnel (UAP) can be safely delegated the task of measuring and recording routine vital signs for stable clients.](https://wikipedia.org/wiki/Special:Redirect/file/Nurse_checks_blood_pressure.jpg)
 
 ### The Interprofessional Specialists
 
@@ -43,6 +49,8 @@ No single human brain can master all of [medicine](https://en.wikipedia.org/wiki
 | **[Speech-Language Pathologist](https://en.wikipedia.org/wiki/Speech-language_pathology) (SLP)** | The throat and mouth experts. **A speech-language pathologist provides therapy for client communication and [speech impairments](https://en.wikipedia.org/wiki/Speech_disorder), and critically, they **evaluate and treat client swallowing disorders** ([dysphagia](https://en.wikipedia.org/wiki/Dysphagia)).** |
 | **[Registered Dietitian](https://en.wikipedia.org/wiki/Dietitian)** | The fuel scientists. **A registered dietitian designs [therapeutic diets](https://en.wikipedia.org/wiki/Medical_nutrition_therapy) based on individual client nutritional needs.** |
 | **[Respiratory Therapist](https://en.wikipedia.org/wiki/Respiratory_therapist) (RT)** | The airway wizards. **A respiratory therapist administers specific breathing treatments** and will **manage [mechanical ventilation](https://en.wikipedia.org/wiki/Mechanical_ventilation) equipment for [critically ill](https://en.wikipedia.org/wiki/Intensive_care_medicine) clients.** |
+
+![Respiratory therapists are essential interprofessional specialists who manage airways and mechanical ventilation equipment for critically ill patients.](https://wikipedia.org/wiki/Special:Redirect/file/Respiratory_therapist.jpg)
 
 ---
 
@@ -71,6 +79,8 @@ When these orders are placed, the RN has two distinct, critical jobs:
 1.  **The Registered Nurse ensures that updated client [medical records](https://en.wikipedia.org/wiki/Medical_record) are available to consulting healthcare providers.** (You can't expect a specialist to give good advice if you haven't given them the latest [lab work](https://en.wikipedia.org/wiki/Medical_laboratory)!)
 2.  **The Registered Nurse verifies that the client understands the primary purpose of a specialist referral.** (Patients get terrified when new [doctors](https://en.wikipedia.org/wiki/Physician) suddenly appear. It is your job to explain *why* they are going).
 
+![When facilitating a clinical consultation, the RN is responsible for ensuring the consulting specialist has immediate access to all updated patient medical records.](https://wikipedia.org/wiki/Special:Redirect/file/US_Navy_041019-N-5821P-019_Airman_Lauren_Thurgood_of_Las_Vegas%2C_Nev.%2C_pulls_patient_medical_records_in_the_inpatient_ward_aboard_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk.jpg)
+
 ---
 
 ## Part 3: When Gears Grind (Managing Conflict)
@@ -97,6 +107,8 @@ Imagine two nurses, Alex and Jamie, both want [Thanksgiving](https://en.wikipedi
 ### Steps to Resolve and Evaluate Conflict
 If you are the [nurse manager](https://en.wikipedia.org/wiki/Nursing_management) stepping into a warzone, where do you begin? 
 You don't start by issuing commands. **The first step in resolving an active conflict among staff members is to clearly identify the [root cause](https://en.wikipedia.org/wiki/Root_cause_analysis) of the disagreement.** You have to find out *why* the gears are grinding before you apply the oil.
+
+![Effective conflict resolution by a nurse manager requires performing a root cause analysis to identify the fundamental source of a disagreement before intervening.](https://wikipedia.org/wiki/Special:Redirect/file/Root_Cause_Analysis_Tree_Diagram.jpg)
 
 Once you implement a solution, your job still isn't done. You must act like a [scientist](https://en.wikipedia.org/wiki/Scientist) and evaluate your results! How?
 *   Subjective data: **A nurse manager evaluates conflict management outcomes by formally assessing [staff satisfaction](https://en.wikipedia.org/wiki/Job_satisfaction) following the intervention.** (Are the nurses actually happier? Do they feel heard?)

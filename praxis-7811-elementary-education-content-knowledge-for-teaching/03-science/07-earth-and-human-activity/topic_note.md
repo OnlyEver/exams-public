@@ -4,6 +4,8 @@ As an [elementary educator](https://en.wikipedia.org/wiki/Primary_education), yo
 
 We are going to explore the grand ledger of [Earth](https://en.wikipedia.org/wiki/Earth): what [living things](https://en.wikipedia.org/wiki/Life) need, what happens when nature throws a tantrum, how [human beings](https://en.wikipedia.org/wiki/Human) uniquely alter the board, and how we [engineer](https://en.wikipedia.org/wiki/Engineering) our way out of trouble. Let’s dive in.
 
+![Earth is a dynamic, interconnected system where oceanic, atmospheric, and terrestrial forces constantly interact to support life and weather.](https://wikipedia.org/wiki/Special:Redirect/file/Global_View_of_the_Arctic_and_Antarctic.jpg)
+
 ---
 
 ## 1. The Grand Bargain of Survival (Organisms & Their Needs)
@@ -14,9 +16,13 @@ Everything alive is on a strict budget of [resources](https://en.wikipedia.org/w
 
 Where does the [energy](https://en.wikipedia.org/wiki/Energy) come from to maintain all this life? It flows in a clear direction. **[Animals](https://en.wikipedia.org/wiki/Animal) obtain physical [energy](https://en.wikipedia.org/wiki/Energy) by consuming [plants](https://en.wikipedia.org/wiki/Plant)**, or, further up the chain, **[animals](https://en.wikipedia.org/wiki/Animal) obtain physical [energy](https://en.wikipedia.org/wiki/Energy) by consuming other [animals](https://en.wikipedia.org/wiki/Animal)**. 
 
+![Energy strictly flows in a unidirectional path through a food web, beginning with producers (plants) and moving upward to herbivores, carnivores, and eventually decomposers.](https://wikipedia.org/wiki/Special:Redirect/file/FoodWebSimple.svg)
+
 Because of these strict, non-negotiable budgets, **[organisms](https://en.wikipedia.org/wiki/Organism) survive only in environments meeting specific [survival needs](https://en.wikipedia.org/wiki/Basic_needs)**. This simple truth explains global [geography](https://en.wikipedia.org/wiki/Biogeography): it is why **different geographic environments support distinct types of [plants](https://en.wikipedia.org/wiki/Plant)** and **different geographic environments support distinct types of [animals](https://en.wikipedia.org/wiki/Animal)**. 
 
 Take the extremes. A **[desert](https://en.wikipedia.org/wiki/Desert) environment provides very little annual [rainfall](https://en.wikipedia.org/wiki/Rain)**. You can't survive there unless you play by the desert's rules. That is why **[cacti](https://en.wikipedia.org/wiki/Cactus) possess structural [adaptations](https://en.wikipedia.org/wiki/Adaptation) for storing internal [water](https://en.wikipedia.org/wiki/Water)**. 
+
+![Cacti possess physical adaptations, such as fleshy water-storing stems and reduced leaves, allowing them to survive the strict biological budget of an arid desert environment.](https://wikipedia.org/wiki/Special:Redirect/file/Baja_California_Desert.jpg)
 
 And what about humans? We like to think we are above the rules of nature, but look at [human history](https://en.wikipedia.org/wiki/Human_history): **historical [human settlements](https://en.wikipedia.org/wiki/Human_settlement) are predominantly located near [fresh water](https://en.wikipedia.org/wiki/Fresh_water) sources**. We are just as tethered to the physical requirements of life as the cactus.
 
@@ -40,6 +46,8 @@ These events matter to [biologists](https://en.wikipedia.org/wiki/Biologist) bec
 > Here is a crucial distinction for the classroom: **elementary students often incorrectly conflate the scientific cause of a weather hazard with the human impact of that hazard.** 
 > If you ask a 3rd grader, "What is a hurricane?", they might say, "It's when houses get smashed." You must teach them to separate the *[meteorological](https://en.wikipedia.org/wiki/Meteorology) event* ([low pressure](https://en.wikipedia.org/wiki/Low-pressure_area), high [winds](https://en.wikipedia.org/wiki/Wind), heavy rain) from the *human consequence* (flooded basements, broken roofs). 
 
+![A cross-section of a tropical cyclone, illustrating the meteorological mechanics of the storm—such as the low-pressure eye and rotating rainbands—separate from the human impacts it causes on the ground.](https://wikipedia.org/wiki/Special:Redirect/file/Hurricane-en.svg)
+
 ### Engineering Our Way to Safety
 Because we cannot stop the weather, we have to endure it. This is where human brilliance shines: **[engineers](https://en.wikipedia.org/wiki/Engineer) create design solutions to protect [communities](https://en.wikipedia.org/wiki/Community) from [severe weather](https://en.wikipedia.org/wiki/Severe_weather) impacts.** 
 
@@ -53,6 +61,10 @@ Here is how we defend ourselves against specific [hazards](https://en.wikipedia.
 | **Ocean [Storm Surges](https://en.wikipedia.org/wiki/Storm_surge)** | **[Seawalls](https://en.wikipedia.org/wiki/Seawall)** | **[Seawalls](https://en.wikipedia.org/wiki/Seawall) are rigid [coastal defense](https://en.wikipedia.org/wiki/Coastal_management) structures**. Sitting at the edge of the [ocean](https://en.wikipedia.org/wiki/Ocean), **[seawalls](https://en.wikipedia.org/wiki/Seawall) reduce the physical impact of ocean [storm surges](https://en.wikipedia.org/wiki/Storm_surge) on coastal towns**. |
 | **[Tornadoes](https://en.wikipedia.org/wiki/Tornado) / High Winds** | **[Storm Cellars](https://en.wikipedia.org/wiki/Storm_cellar)** | Taking advantage of the earth overhead, **[storm cellars](https://en.wikipedia.org/wiki/Storm_cellar) provide safe [underground shelter](https://en.wikipedia.org/wiki/Underground_living) during high-wind events**. |
 | **Electrical Storms** | **[Lightning Rods](https://en.wikipedia.org/wiki/Lightning_rod)** | Instead of trying to block the [electricity](https://en.wikipedia.org/wiki/Electricity), **[lightning rods](https://en.wikipedia.org/wiki/Lightning_rod) safely direct electrical storm strikes into the ground**, giving the lethal energy a harmless path to follow. |
+
+![Cross-section of an engineered levee, showing how earthen embankments are deliberately built to contain rising river levels and protect adjacent human settlements from flooding.](https://wikipedia.org/wiki/Special:Redirect/file/River_Levee_Cross_Section_Figure.svg)
+
+![A lightning rod system provides a safe, engineered path of least resistance for electrical storm energy to ground itself, protecting community infrastructure from severe damage.](https://wikipedia.org/wiki/Special:Redirect/file/Lightning-rod-diagram.svg)
 
 ---
 
@@ -77,14 +89,20 @@ Is "excess nutrients" a bad thing? Let's trace the dominoes.
 
 This beautifully (and tragically) illustrates how **human [industrial](https://en.wikipedia.org/wiki/Industry) activities can dramatically alter local water systems**.
 
+![The chain reaction of nutrient pollution: agricultural fertilizer runoff causes algal blooms, which eventually die, triggering rapid bacterial decomposition that depletes the water's oxygen and suffocates fish.](https://wikipedia.org/wiki/Special:Redirect/file/Scheme_eutrophication-en.svg)
+
 ### Altering the Land and Air
 Our reach goes beyond farming. We need [metals](https://en.wikipedia.org/wiki/Metal) and [minerals](https://en.wikipedia.org/wiki/Mineral) for our phones and cars, so **[mining](https://en.wikipedia.org/wiki/Mining) extracts natural [geological](https://en.wikipedia.org/wiki/Geology) resources directly from the [Earth's crust](https://en.wikipedia.org/wiki/Earth%27s_crust)**. When we do this at scale, **[surface mining](https://en.wikipedia.org/wiki/Surface_mining) dramatically alters the topological structure of local [landforms](https://en.wikipedia.org/wiki/Landform)**, literally shearing the tops off [mountains](https://en.wikipedia.org/wiki/Mountain). 
+
+![Large-scale surface mining drastically alters natural topography, transforming mountains and landscapes into massive open pits to extract geological resources.](https://wikipedia.org/wiki/Special:Redirect/file/Bingham_Canyon_April_2005.jpg)
 
 We need [wood](https://en.wikipedia.org/wiki/Wood) and space, but **[deforestation](https://en.wikipedia.org/wiki/Deforestation) eliminates necessary natural habitats for forest-dwelling species.** We need to power our cars and factories, but **burning [fossil fuels](https://en.wikipedia.org/wiki/Fossil_fuel) releases [particulate pollutants](https://en.wikipedia.org/wiki/Particulates) into the Earth's [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth)**.
 
 Even the way we design our cities disrupts natural [physics](https://en.wikipedia.org/wiki/Physics). As populations grow, **[urban sprawl](https://en.wikipedia.org/wiki/Urban_sprawl) increases the total area of [impermeable](https://en.wikipedia.org/wiki/Impervious_surface) artificial surfaces**—think endless [parking lots](https://en.wikipedia.org/wiki/Parking_lot) and [concrete](https://en.wikipedia.org/wiki/Concrete) [sidewalks](https://en.wikipedia.org/wiki/Sidewalk). 
 
 Why is concrete an environmental issue? Imagine pouring a cup of water onto a sponge (a forest), versus pouring it onto a dinner plate (a city). **Impermeable urban surfaces increase the immediate rate of [stormwater runoff](https://en.wikipedia.org/wiki/Stormwater)**. Because the water has nowhere to soak into the earth, it rushes into [drains](https://en.wikipedia.org/wiki/Storm_drain) and streets all at once. Consequently, this **increased stormwater runoff elevates the risk of localized urban [flash flooding](https://en.wikipedia.org/wiki/Flash_flood)**. 
+
+![As natural ground cover is replaced by impervious urban surfaces like concrete, stormwater loses its ability to soak into the earth, drastically increasing the volume and speed of surface runoff and elevating flood risks.](https://wikipedia.org/wiki/Special:Redirect/file/Natural_%26_impervious_cover_diagrams_EPA.jpg)
 
 ---
 
@@ -103,8 +121,12 @@ Remember how bare farmland allows valuable [topsoil](https://en.wikipedia.org/wi
 
 To address the dirty water we inevitably produce, human engineering steps in again. **[Water treatment facilities](https://en.wikipedia.org/wiki/Sewage_treatment) extract chemical contaminants from municipal wastewater**. They filter out the soaps, human waste, and street runoff so perfectly that **water treatment facilities release purified wastewater back into natural aquatic environments** safely.
 
+![A simplified process flow diagram of a water treatment facility, demonstrating how human engineering systematically removes sludge and chemical contaminants to safely return purified water to the environment.](https://wikipedia.org/wiki/Special:Redirect/file/ESQUEMPEQUE-EN.jpg)
+
 ### Powering the Future
 Finally, we must address the air. To stop pouring particulates and [greenhouse gases](https://en.wikipedia.org/wiki/Greenhouse_gas) into the sky, we look to the star that powers the plants. **[Solar panels](https://en.wikipedia.org/wiki/Solar_panel) generate usable electricity without emitting atmospheric greenhouse gases**, allowing us to keep the lights on without suffocating the atmosphere.
+
+![Solar panels capture and convert sunlight directly into usable electricity, bypassing the need for fossil fuels and preventing the release of greenhouse gases into the atmosphere.](https://wikipedia.org/wiki/Special:Redirect/file/From_a_solar_cell_to_a_PV_system.svg)
 
 ### The Big Picture for Your Classroom
 When you stand in front of your students, remember that you are teaching them the greatest puzzle in the [universe](https://en.wikipedia.org/wiki/Universe). Show them how the sunlight feeds the plant, the plant feeds the animal, the weather challenges the human, and the human intellect builds solutions. By moving them past simple misconceptions, you empower the next generation to not just live on Earth, but to actively care for it.

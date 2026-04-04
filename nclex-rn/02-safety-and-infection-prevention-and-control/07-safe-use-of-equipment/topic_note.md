@@ -1,23 +1,29 @@
 In the modern healthcare environment, we surround our clients with marvelous machines—[infusion pumps](https://en.wikipedia.org/wiki/Infusion_pump) calculating micro-drip rates, [ventilators](https://en.wikipedia.org/wiki/Ventilator) breathing life into failing [lungs](https://en.wikipedia.org/wiki/Lung), and monitors tracking the electrical dance of the [human heart](https://en.wikipedia.org/wiki/Heart). It is nothing short of miraculous! But here is the profound reality you must grasp as a [nurse](https://en.wikipedia.org/wiki/Nurse): **a machine is profoundly stupid.** It only knows what we tell it, it only goes where we push it, and it only works safely if we ruthlessly maintain it. 
 
-If we don't respect the [laws of physics](https://en.wikipedia.org/wiki/Physics), [electricity](https://en.wikipedia.org/wiki/Electricity), and human physiology, the very equipment designed to save our clients will become the thing that harms them. So, let’s pull back the curtain on the safe use of healthcare equipment. Let’s figure out *why* the rules are what they are, so you don't just memorize them for the [NCLEX](https://en.wikipedia.org/wiki/NCLEX)—you understand them in your bones.
+If we don't respect the [laws of physics](https://en.wikipedia.org/wiki/Physics), [electricity](https://en.wikipedia.org/wiki/Electricity), and [human physiology](https://en.wikipedia.org/wiki/Human_physiology), the very equipment designed to save our clients will become the thing that harms them. So, let’s pull back the curtain on the safe use of healthcare equipment. Let’s figure out *why* the rules are what they are, so you don't just memorize them for the [NCLEX](https://en.wikipedia.org/wiki/NCLEX)—you understand them in your bones.
+
+![A modern intensive care setting filled with life-saving equipment, such as infusion pumps and monitors. Understanding the physics and operating rules of these devices is essential to prevent patient harm.](https://wikipedia.org/wiki/Special:Redirect/file/Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg)
 
 ## The Invisible Force: Electrical & Power Safety
 
 Hospitals are basically giant [electrical grids](https://en.wikipedia.org/wiki/Electrical_grid) wrapped around highly [conductive](https://en.wikipedia.org/wiki/Electrical_resistivity_and_conductivity) biological bags of [saltwater](https://en.wikipedia.org/wiki/Saline_water) (our clients). We must treat [electricity](https://en.wikipedia.org/wiki/Electricity) with absolute reverence. 
 
-Every single time you bring a device to a bedside, **nurses must inspect electrical equipment for frayed cords prior to each client use.** Why? Because electricity wants to take the path of least resistance to the ground. **Frayed electrical cords on medical devices present a severe fire hazard** and an electrocution risk. If you see exposed wire, that device is dead to you.
+Every single time you bring a device to a bedside, **nurses must inspect electrical equipment for frayed cords prior to each client use.** Why? Because electricity wants to take the [path of least resistance](https://en.wikipedia.org/wiki/Path_of_least_resistance) to the ground. **Frayed electrical cords on medical devices present a severe [fire hazard](https://en.wikipedia.org/wiki/Fire_safety)** and an [electrocution](https://en.wikipedia.org/wiki/Electrocution) risk. If you see exposed wire, that device is dead to you.
 
-To further control this invisible force, **medical equipment requires a [three-prong grounded plug](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets) for safe operation.** That third prong is the [grounding wire](https://en.wikipedia.org/wiki/Ground_%28electricity%29)—an emergency off-ramp for rogue [electrical currents](https://en.wikipedia.org/wiki/Electric_current) so they go into the earth, not into your client’s chest. For this same reason, **using extension cords for medical equipment is strictly prohibited in client care areas.** Extension cords increase [electrical resistance](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance), generate heat, and act as literal tripwires in an emergency.
+To further control this invisible force, **medical equipment requires a [three-prong grounded plug](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets) for safe operation.** That third prong is the [grounding wire](https://en.wikipedia.org/wiki/Ground_%28electricity%29)—an emergency off-ramp for rogue [electrical currents](https://en.wikipedia.org/wiki/Electric_current) so they go into the earth, not into your client’s chest. For this same reason, **using [extension cords](https://en.wikipedia.org/wiki/Extension_cord) for medical equipment is strictly prohibited in client care areas.** Extension cords increase [electrical resistance](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance), generate heat, and act as literal tripwires in an emergency.
+
+![A comparison of an ungrounded plug (left) and a grounded plug with a third prong (right). The third prong connects to a grounding wire, safely diverting rogue electrical currents away from the patient and into the earth.](https://wikipedia.org/wiki/Special:Redirect/file/NEMA-AC-Power-Plugs.jpg)
 
 ### The Magic of the Red Outlets
 Have you ever noticed that some [electrical outlets](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets) in the hospital are standard white or ivory, while others are bright red? 
 
 > **The Red Outlet Rule:**
-> **Red electrical outlets provide emergency generator power during hospital electrical failures.** If the city grid goes dark, those red outlets will flicker for about ten seconds and then roar back to life on the hospital's [diesel generators](https://en.wikipedia.org/wiki/Diesel_generator). 
+> **Red electrical outlets provide emergency generator power during hospital [electrical failures](https://en.wikipedia.org/wiki/Power_outage).** If the city grid goes dark, those red outlets will flicker for about ten seconds and then roar back to life on the hospital's [diesel generators](https://en.wikipedia.org/wiki/Diesel_generator). 
+
+![Large industrial diesel generators provide backup power to a hospital's designated red electrical outlets, ensuring life-saving machines continue to function during a grid failure.](https://wikipedia.org/wiki/Special:Redirect/file/Caterpillar_(Olympian)_Generator_Set.jpg)
 
 Because of this, we must be incredibly strategic about what gets plugged in where:
-*   **[Infusion pumps](https://en.wikipedia.org/wiki/Infusion_pump) must be plugged into designated red electrical outlets to ensure power continuity during generator tests** or actual blackouts. A [continuous infusion](https://en.wikipedia.org/wiki/Intravenous_therapy) of vasopressors cannot stop just because a thunderstorm knocked out the power.
+*   **[Infusion pumps](https://en.wikipedia.org/wiki/Infusion_pump) must be plugged into designated red electrical outlets to ensure power continuity during generator tests** or actual blackouts. A [continuous infusion](https://en.wikipedia.org/wiki/Intravenous_therapy) of [vasopressors](https://en.wikipedia.org/wiki/Antihypotensive_agent) cannot stop just because a thunderstorm knocked out the power.
 *   Likewise, **[defibrillators](https://en.wikipedia.org/wiki/Defibrillation) must be kept plugged into emergency electrical outlets at all times when not in active use.** You never want to run to a [code blue](https://en.wikipedia.org/wiki/Hospital_emergency_codes), pull the defibrillator off the wall, and find a dead battery because the power dipped three hours ago.
 
 ## Trust, But Verify: Inspections and Competence
@@ -25,7 +31,7 @@ Because of this, we must be incredibly strategic about what gets plugged in wher
 You wouldn't drive a car that hasn't been inspected, right? Before you ever hit the "Power" button on a device, you need to verify two things: the machine's credentials, and *your* credentials.
 
 **1. The Machine's Credentials:** 
-**The nurse must verify the [biomedical engineering](https://en.wikipedia.org/wiki/Biomedical_engineering) inspection sticker is up to date before using a machine.** This sticker is the machine's license to practice. **Routine preventive maintenance of medical equipment minimizes the risk of unexpected device failure during client care.** If you find that **medical equipment with an expired inspection sticker** is sitting in a room, it **must not be used for client care.** Period. Tag it and send it to biomedical engineering.
+**The nurse must verify the [biomedical engineering](https://en.wikipedia.org/wiki/Biomedical_engineering) inspection sticker is up to date before using a machine.** This sticker is the machine's license to practice. **Routine [preventive maintenance](https://en.wikipedia.org/wiki/Preventive_maintenance) of medical equipment minimizes the risk of unexpected device failure during client care.** If you find that **medical equipment with an expired inspection sticker** is sitting in a room, it **must not be used for client care.** Period. Tag it and send it to biomedical engineering.
 
 **2. Your Credentials:** 
 It doesn't matter if the machine is brand new and perfectly calibrated if you don't know how to use it. **Nurses must demonstrate clinical competency before operating a new piece of medical equipment.** Never "wing it" with a patient's life. 
@@ -41,31 +47,37 @@ To make sure the machine is speaking the truth, **nurses must ensure equipment a
 You may silence an alarm temporarily while you fix the problem, but you *never* turn it off entirely. Furthermore, **nurses must respond to all medical equipment alarms immediately to ensure client safety.** An alarm is not a suggestion; it is a clinical summons. 
 
 ### High-Risk IV Pumps
-Some equipment is so dangerous it requires a buddy system. Because a single programming error can cause a fatal overdose, **patient-controlled analgesia (PCA) pumps require an independent double-check by two [registered nurses](https://en.wikipedia.org/wiki/Registered_nurse) before initiation.** Two brains, looking at the same settings, confirming the math. 
+Some equipment is so dangerous it requires a buddy system. Because a single programming error can cause a [fatal overdose](https://en.wikipedia.org/wiki/Drug_overdose), **[patient-controlled analgesia](https://en.wikipedia.org/wiki/Patient-controlled_analgesia) (PCA) pumps require an independent double-check by two [registered nurses](https://en.wikipedia.org/wiki/Registered_nurse) before initiation.** Two brains, looking at the same settings, confirming the math. 
+
+![A patient-controlled analgesia (PCA) pump configured for intravenous administration. Due to the severe risk of a fatal narcotic overdose, programming this device mandates an independent double-check by two registered nurses.](https://wikipedia.org/wiki/Special:Redirect/file/PCA-02.JPG)
 
 ## The Physics of Movement: Mobility and Mechanical Lifts
 
 Moving humans requires overcoming [gravity](https://en.wikipedia.org/wiki/Gravity) and [inertia](https://en.wikipedia.org/wiki/Inertia). If we don't use the tools correctly, either the patient falls, or your spine pays the price. 
 
 ### Mechanical Lifts (Hoyer Lifts)
-When a client cannot bear weight, we use a mechanical lift. But a lift is only as strong as its weakest link. 
+When a client cannot bear weight, we use a [mechanical lift](https://en.wikipedia.org/wiki/Patient_lift). But a lift is only as strong as its weakest link. 
 *   **The nurse must verify the maximum weight capacity of a mechanical lift before lifting a client.** 
 *   **The nurse must inspect the mechanical lift sling for tears before attempting to transfer a client.** Even a small micro-tear under the tension of a 200-pound load will catastrophically unzip, dropping the client. 
 *   Because operating the lift, guiding the patient, and managing the destination surface is complex, **a mechanical lift requires a minimum of two healthcare workers for safe client transfer operations.** 
 
+![A mechanical patient lift. Nurses must always verify the machine's maximum weight capacity and rigorously inspect the fabric sling for any tears prior to initiating a transfer.](https://wikipedia.org/wiki/Special:Redirect/file/Patientenlifter.JPG)
+
 ### Wheelchairs and Compression Devices
 When transferring a client into or out of a [wheelchair](https://en.wikipedia.org/wiki/Wheelchair), remember [Newton's Third Law](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion) (every action has an equal and opposite reaction). If your client pushes off the armrests, the chair will shoot backward. Therefore, **wheelchair brakes must be securely engaged during all client transfers.** 
 
-If your client is bedbound or chairbound, they will likely be wearing sequential compression devices (SCDs) to prevent [deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis). However, strapping plastic to a leg creates moisture and friction. **Sequential compression devices must be removed periodically to assess the client's underlying skin integrity.** 
+If your client is bedbound or chairbound, they will likely be wearing [sequential compression devices](https://en.wikipedia.org/wiki/Intermittent_pneumatic_compression) (SCDs) to prevent [deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis). However, strapping plastic to a leg creates moisture and friction. **Sequential compression devices must be removed periodically to assess the client's underlying skin integrity.** 
 
 ### The Geometry of Ambulation Devices
-Canes, [crutches](https://en.wikipedia.org/wiki/Crutch), and [walkers](https://en.wikipedia.org/wiki/Walker_%28mobility%29) are simply [biomechanical](https://en.wikipedia.org/wiki/Biomechanics) extensions of the [human skeleton](https://en.wikipedia.org/wiki/Human_skeleton). To work, they must be mathematically customized to the patient's [anatomy](https://en.wikipedia.org/wiki/Anatomy). 
+[Canes](https://en.wikipedia.org/wiki/Assistive_cane), [crutches](https://en.wikipedia.org/wiki/Crutch), and [walkers](https://en.wikipedia.org/wiki/Walker_%28mobility%29) are simply [biomechanical](https://en.wikipedia.org/wiki/Biomechanics) extensions of the [human skeleton](https://en.wikipedia.org/wiki/Human_skeleton). To work, they must be mathematically customized to the patient's [anatomy](https://en.wikipedia.org/wiki/Anatomy). 
 
 | Device | Crucial Measurement / Adjustment Standard | Why it Matters |
 | :--- | :--- | :--- |
-| **Walkers** | **Walkers must be adjusted so the client's elbows are flexed at a 15-to-30-degree angle.** | This slight bend allows the [triceps](https://en.wikipedia.org/wiki/Triceps) to efficiently push down and bear weight without overextending the [shoulder joint](https://en.wikipedia.org/wiki/Shoulder_joint). |
+| **Walkers** | **Walkers must be adjusted so the client's elbows are [flexed](https://en.wikipedia.org/wiki/Flexion) at a 15-to-30-degree angle.** | This slight bend allows the [triceps](https://en.wikipedia.org/wiki/Triceps) to efficiently push down and bear weight without overextending the [shoulder joint](https://en.wikipedia.org/wiki/Shoulder_joint). |
 | **Canes** | **Canes must be measured to the level of the client's [greater trochanter](https://en.wikipedia.org/wiki/Greater_trochanter) for safe ambulation.** | The greater trochanter aligns the cane perfectly with the [hip joint](https://en.wikipedia.org/wiki/Hip), providing an optimal mechanical pivot point. |
-| **Crutches** | **Crutches must be measured with a two-to-three-finger width gap below the client's [axilla](https://en.wikipedia.org/wiki/Axilla).** | If crutches jam directly into the armpit, they will crush the [brachial plexus](https://en.wikipedia.org/wiki/Brachial_plexus) nerve bundle, causing permanent arm paralysis (crutch palsy). |
+| **Crutches** | **Crutches must be measured with a two-to-three-finger width gap below the client's [axilla](https://en.wikipedia.org/wiki/Axilla).** | If crutches jam directly into the armpit, they will crush the [brachial plexus](https://en.wikipedia.org/wiki/Brachial_plexus) nerve bundle, causing permanent arm paralysis ([crutch palsy](https://en.wikipedia.org/wiki/Radial_neuropathy)). |
+
+![Axillary crutches must be sized to leave a two-to-three-finger gap below the axilla (armpit) to ensure the brachial plexus is not compressed, preventing permanent nerve damage.](https://wikipedia.org/wiki/Special:Redirect/file/Axillary_%2528underarm%2529_crutches.JPG)
 
 ## The Oxygen Paradox: Invisible and Flammable
 
@@ -73,15 +85,19 @@ Canes, [crutches](https://en.wikipedia.org/wiki/Crutch), and [walkers](https://e
 
 When educating your clients about home oxygen, you must lay down the law:
 1.  **Clients using oxygen therapy at home must be instructed to stay at least ten feet away from open flames** (stoves, fireplaces, candles).
-2.  **Clients using home oxygen equipment must be instructed to avoid smoking completely.** 
-3.  **Clients must be instructed to avoid using petroleum-based products near oxygen delivery equipment.** Why? [Petroleum jelly](https://en.wikipedia.org/wiki/Petroleum_jelly) (like [Vaseline](https://en.wikipedia.org/wiki/Vaseline)) is a highly combustible [hydrocarbon](https://en.wikipedia.org/wiki/Hydrocarbon)! Applying it to chapped lips while wearing an oxygen cannula turns the client's face into a literal wick. Use water-soluble lubricants instead.
+2.  **Clients using home oxygen equipment must be instructed to avoid [smoking](https://en.wikipedia.org/wiki/Smoking) completely.** 
+3.  **Clients must be instructed to avoid using [petroleum-based products](https://en.wikipedia.org/wiki/Petroleum_product) near oxygen delivery equipment.** Why? [Petroleum jelly](https://en.wikipedia.org/wiki/Petroleum_jelly) (like [Vaseline](https://en.wikipedia.org/wiki/Vaseline)) is a highly [combustible](https://en.wikipedia.org/wiki/Combustibility_and_flammability) [hydrocarbon](https://en.wikipedia.org/wiki/Hydrocarbon)! Applying it to chapped lips while wearing an oxygen [cannula](https://en.wikipedia.org/wiki/Nasal_cannula) turns the client's face into a literal wick. Use water-soluble lubricants instead.
+
+![Petroleum jelly is a combustible hydrocarbon. If applied to the face of a patient receiving oxygen therapy, it creates a dangerous fire hazard that can act as an accelerant in the event of a spark.](https://wikipedia.org/wiki/Special:Redirect/file/White_Petrolatum1.jpg)
 
 ## Entropy in Action: When Equipment Malfunctions
 
 Despite all our preparation, machines break. [Entropy](https://en.wikipedia.org/wiki/Entropy) is the law of the universe. How you react when a device fails separates the amateurs from the professionals.
 
 ### Life Support Failure
-Imagine you are standing at the bedside and the [mechanical ventilator](https://en.wikipedia.org/wiki/Mechanical_ventilation) suddenly powers off. A black screen. What do you do? **Malfunctioning life-support equipment requires immediate provision of manual ventilation or alternative backup systems.** You immediately detach the patient from the dead machine and start manually bagging them with an Ambu bag. *Patient first, equipment second.* 
+Imagine you are standing at the bedside and the [mechanical ventilator](https://en.wikipedia.org/wiki/Mechanical_ventilation) suddenly powers off. A black screen. What do you do? **Malfunctioning life-support equipment requires immediate provision of manual ventilation or alternative backup systems.** You immediately detach the patient from the dead machine and start manually bagging them with an [Ambu bag](https://en.wikipedia.org/wiki/Bag_valve_mask). *Patient first, equipment second.* 
+
+![A bag-valve-mask (Ambu bag). If a mechanical ventilator malfunctions, nurses must immediately disconnect the patient from the failed machine and initiate manual ventilation to preserve life.](https://wikipedia.org/wiki/Special:Redirect/file/Bag_valve_mask.jpg)
 
 ### Securing the Defective Device
 Once the patient is safe, you must deal with the traitorous machine. 
@@ -93,14 +109,14 @@ Once the patient is safe, you must deal with the traitorous machine.
 If a machine malfunctions and actually *harms* a patient, you are now standing in the middle of a legal and clinical investigation. Treat it like a [crime scene](https://en.wikipedia.org/wiki/Crime_scene).
 
 **Preserving the Evidence:**
-**The nurse must save all packaging and disposable tubing associated with a malfunctioning medical device for the investigation.** If an IV pump delivers a massive bolus of medication by mistake, is it the pump's fault, or was the cassette in the disposable tubing manufactured incorrectly? You won't know if you throw the tubing in the trash! Keep it all.
+**The nurse must save all packaging and disposable tubing associated with a malfunctioning medical device for the investigation.** If an IV pump delivers a massive [bolus](https://en.wikipedia.org/wiki/Bolus_%28medicine%29) of medication by mistake, is it the pump's fault, or was the cassette in the disposable tubing manufactured incorrectly? You won't know if you throw the tubing in the trash! Keep it all.
 
 **Reporting the Event:**
-Internally, **the nurse must document any client injury resulting from a medical equipment malfunction** in the client's [medical record](https://en.wikipedia.org/wiki/Medical_record) (objective clinical facts only). Additionally, **the nurse must file a formal facility incident report for any adverse event involving a medical device.** Remember, incident reports go to [risk management](https://en.wikipedia.org/wiki/Risk_management), not into the patient's chart.
+Internally, **the nurse must document any client injury resulting from a medical equipment malfunction** in the client's [medical record](https://en.wikipedia.org/wiki/Medical_record) (objective clinical facts only). Additionally, **the nurse must file a formal facility [incident report](https://en.wikipedia.org/wiki/Incident_report) for any adverse event involving a medical device.** Remember, incident reports go to [risk management](https://en.wikipedia.org/wiki/Risk_management), not into the patient's chart.
 
-Externally, federal law steps in. **The Safe Medical Devices Act requires facilities to report serious injuries caused by medical equipment to the [FDA](https://en.wikipedia.org/wiki/Food_and_Drug_Administration).** Furthermore, **the Safe Medical Devices Act requires facilities to report client deaths caused by medical equipment to the FDA** and usually the manufacturer. This allows the government to track patterns and issue national recalls if a device is systematically flawed. 
+Externally, federal law steps in. **The Safe Medical Devices Act requires facilities to report serious injuries caused by medical equipment to the [FDA](https://en.wikipedia.org/wiki/Food_and_Drug_Administration).** Furthermore, **the Safe Medical Devices Act requires facilities to report client deaths caused by medical equipment to the FDA** and usually the manufacturer. This allows the government to track patterns and issue national [recalls](https://en.wikipedia.org/wiki/Product_recall) if a device is systematically flawed. 
 
 ***
 
 ### The Bottom Line
-Being an elite [nurse](https://en.wikipedia.org/wiki/Nurse) isn't just about understanding the [human body](https://en.wikipedia.org/wiki/Human_body); it's about mastering the interface between [biology](https://en.wikipedia.org/wiki/Biology) and technology. We inspect the cords, we verify the stickers, we plug into the red outlets, and we double-check the alarms because we are the ultimate fail-safe between a dumb machine and a fragile human life. Treat your equipment with respect, and it will help you save lives. Ignore the rules of the equipment, and the [physics](https://en.wikipedia.org/wiki/Physics) will invariably remind you who is in charge.
+Being an elite [nurse](https://en.wikipedia.org/wiki/Nurse) isn't just about understanding the [human body](https://en.wikipedia.org/wiki/Human_body); it's about mastering the interface between [biology](https://en.wikipedia.org/wiki/Biology) and [technology](https://en.wikipedia.org/wiki/Technology). We inspect the cords, we verify the stickers, we plug into the red outlets, and we double-check the alarms because we are the ultimate [fail-safe](https://en.wikipedia.org/wiki/Fail-safe) between a dumb machine and a fragile human life. Treat your equipment with respect, and it will help you save lives. Ignore the rules of the equipment, and the [physics](https://en.wikipedia.org/wiki/Physics) will invariably remind you who is in charge.

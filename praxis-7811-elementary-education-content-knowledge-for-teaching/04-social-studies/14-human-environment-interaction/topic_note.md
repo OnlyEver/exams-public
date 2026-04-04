@@ -22,8 +22,12 @@ At its core, **[human-environment interaction](https://en.wikipedia.org/wiki/Hum
 
 Why are people where they are? If you look at a [satellite map](https://en.wikipedia.org/wiki/Satellite_imagery) of the Earth at night, you see clusters of light and massive voids of darkness. This introduces us to **[settlement patterns](https://en.wikipedia.org/wiki/Human_settlement)**, which describe the physical distribution of human populations across a geographic [landscape](https://en.wikipedia.org/wiki/Landscape). 
 
+![A satellite composite of Earth at night, revealing human settlement patterns through clusters of artificial light.](https://wikipedia.org/wiki/Special:Redirect/file/Earth_at_Night.jpg)
+
 ### Water: The Magnet of Civilization
 To understand settlement, we have to look back. **Most [early human civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization) developed adjacent to reliable [freshwater](https://en.wikipedia.org/wiki/Fresh_water) sources like [river valleys](https://en.wikipedia.org/wiki/River_valley)** (think the [Nile](https://en.wikipedia.org/wiki/Nile), the [Tigris](https://en.wikipedia.org/wiki/Tigris), the [Euphrates](https://en.wikipedia.org/wiki/Euphrates)). Why? Because humans *depend* on the environment. You can't grow crops or sustain a population without freshwater. 
+
+![A map of the ancient Sumerian civilization, demonstrating how early societies depended entirely on the floodplains of the Tigris and Euphrates rivers for survival.](https://wikipedia.org/wiki/Special:Redirect/file/Sumer_Detailed.png)
 
 As societies advanced, the role of water shifted from just survival to [economics](https://en.wikipedia.org/wiki/Economics). **Proximity to [navigable waterways](https://en.wikipedia.org/wiki/Navigability) heavily influences the establishment of major [trade centers](https://en.wikipedia.org/wiki/Trade)**. Look at [New York City](https://en.wikipedia.org/wiki/New_York_City), [London](https://en.wikipedia.org/wiki/London), or [Shanghai](https://en.wikipedia.org/wiki/Shanghai). They didn't pop up randomly; they sit on [natural harbors](https://en.wikipedia.org/wiki/Natural_harbor) and rivers that allow [ships](https://en.wikipedia.org/wiki/Ship) to move goods. 
 
@@ -61,6 +65,8 @@ Before the era of massive [supply chains](https://en.wikipedia.org/wiki/Supply_c
 
 A spectacular example for your students involves the [pioneers](https://en.wikipedia.org/wiki/American_pioneer). **Settlers in the United States [Great Plains](https://en.wikipedia.org/wiki/Great_Plains) region built [sod houses](https://en.wikipedia.org/wiki/Sod_house) due to a severe regional scarcity of [timber](https://en.wikipedia.org/wiki/Lumber).** Imagine arriving in [Nebraska](https://en.wikipedia.org/wiki/Nebraska) in the 1800s. You need a house, but there are no [trees](https://en.wikipedia.org/wiki/Tree). What do you do? You cut bricks out of the dense prairie [grass](https://en.wikipedia.org/wiki/Poaceae) and dirt ([sod](https://en.wikipedia.org/wiki/Sod)) and stack them! That is pure possibilism and adaptation.
 
+![A pioneer family's sod house in Nebraska, demonstrating human adaptation to a treeless geographic environment.](https://wikipedia.org/wiki/Special:Redirect/file/Anselmo%2C_Nebraska_sod_house.JPG)
+
 ### Growing Food: The Power of Place
 You cannot grow [bananas](https://en.wikipedia.org/wiki/Banana) in [Canada](https://en.wikipedia.org/wiki/Canada), and you cannot grow [cranberries](https://en.wikipedia.org/wiki/Cranberry) in the [desert](https://en.wikipedia.org/wiki/Desert). 
 *   **Regional [topography](https://en.wikipedia.org/wiki/Topography)** (the shape of the land—[mountains](https://en.wikipedia.org/wiki/Mountain), [valleys](https://en.wikipedia.org/wiki/Valley), [plains](https://en.wikipedia.org/wiki/Plain)) heavily dictates the specific types of agricultural [crops](https://en.wikipedia.org/wiki/Crop) grown in a local area.
@@ -72,6 +78,10 @@ You cannot grow [bananas](https://en.wikipedia.org/wiki/Banana) in [Canada](http
 But what if the topography or climate *isn't* perfect? Humans modify it! 
 *   **[Agricultural terracing](https://en.wikipedia.org/wiki/Terrace_%28agriculture%29):** Humans use agricultural terracing to successfully cultivate crops on steep mountainous slopes. By carving giant "stairs" into a mountain (like the [Inca](https://en.wikipedia.org/wiki/Inca_Empire) did in [Peru](https://en.wikipedia.org/wiki/Peru)), they stop [soil](https://en.wikipedia.org/wiki/Soil) from washing away.
 *   **[Irrigation systems](https://en.wikipedia.org/wiki/Irrigation):** These represent a direct human modification of the environment to support agriculture in [arid regions](https://en.wikipedia.org/wiki/Arid). We dig [canals](https://en.wikipedia.org/wiki/Canal) and pump [groundwater](https://en.wikipedia.org/wiki/Groundwater) to make the desert bloom.
+
+![Inca agricultural terraces (andenes) in the Sacred Valley of Peru, an ingenious human modification of steep mountain topography.](https://wikipedia.org/wiki/Special:Redirect/file/Pisac%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_99.JPG)
+
+![Circular fields created by center-pivot irrigation systems in Kansas, demonstrating how humans pump groundwater to farm in arid climates.](https://wikipedia.org/wiki/Special:Redirect/file/Crops_Kansas_AST_20010624.jpg)
 
 ---
 
@@ -89,10 +99,14 @@ To teach anthropogenic change regarding the climate, you first have to clear up 
 
 Once they understand climate, you can explain how humans are altering it. **The burning of [fossil fuels](https://en.wikipedia.org/wiki/Fossil_fuel) releases [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) (CO2) into the Earth's [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth).** Why does this matter? Because of the [greenhouse effect](https://en.wikipedia.org/wiki/Greenhouse_effect). **The greenhouse effect traps [solar heat](https://en.wikipedia.org/wiki/Solar_energy) within the Earth's lower atmosphere.** Think of it like a blanket. A little CO2 is good—it keeps the Earth from freezing. But by pumping massive amounts of CO2 into the air, we are putting a thicker and thicker blanket on the planet, causing [global warming](https://en.wikipedia.org/wiki/Climate_change).
 
+![A schematic showing how the greenhouse effect traps solar heat within Earth's atmosphere, driving global climate change.](https://wikipedia.org/wiki/Special:Redirect/file/Greenhouse_Effect_(2017_NASA_data).svg)
+
 ### The Role of Trees
 Trees breathe in carbon dioxide. Therefore, **[deforestation](https://en.wikipedia.org/wiki/Deforestation) directly reduces the global number of trees available to absorb atmospheric carbon dioxide**, speeding up the warming of the planet. 
 
 Why are we cutting down the trees? Again, tie it back to human needs and food! For example, **the expansive clearing of the Amazon Rainforest is heavily driven by commercial [cattle ranching](https://en.wikipedia.org/wiki/Ranching).** We are altering a massive global [ecosystem](https://en.wikipedia.org/wiki/Ecosystem) just to create grazing space for [beef](https://en.wikipedia.org/wiki/Beef) production. 
+
+![Aerial view showing the deforestation of the Amazon Rainforest, driven largely by clearing land for commercial cattle ranching.](https://wikipedia.org/wiki/Special:Redirect/file/Opera%C3%A7%C3%A3o_Hymenaea%2C_Julho-2016_(29399454651).jpg)
 
 ---
 
@@ -103,10 +117,14 @@ Our actions do not exist in a vacuum. Everything on Earth is connected.
 > 🚨 **Teacher Alert: The Distance Problem**
 > **Elementary students often struggle to understand that localized human actions can harm geographically distant ecosystems.** They think, "If I pollute a [stream](https://en.wikipedia.org/wiki/Stream) here, it only hurts the [fish](https://en.wikipedia.org/wiki/Fish) right here." You have to teach them the concept of [watersheds](https://en.wikipedia.org/wiki/Drainage_basin) and [global winds](https://en.wikipedia.org/wiki/Global_wind_patterns). Trash in a local [storm drain](https://en.wikipedia.org/wiki/Storm_drain) eventually enters the [ocean](https://en.wikipedia.org/wiki/Ocean) and can wash up on a [beach](https://en.wikipedia.org/wiki/Beach) thousands of miles away.
 
+![Map of the Great Pacific Garbage Patch, illustrating how local pollution travels globally via ocean currents.](https://wikipedia.org/wiki/Special:Redirect/file/Pacific-garbage-patch-map_2010_noaamdp.jpg)
+
 ### Pollution: Where Does It Come From?
 When teaching [pollution](https://en.wikipedia.org/wiki/Pollution), you need to differentiate between its sources:
 *   **[Point source pollution](https://en.wikipedia.org/wiki/Point_source_pollution)** originates from a single identifiable source like a factory discharge [pipe](https://en.wikipedia.org/wiki/Pipe_%28fluid_conveyance%29) or an [oil tanker](https://en.wikipedia.org/wiki/Oil_tanker) spill. You can point your finger at exactly who caused it.
 *   **[Nonpoint source pollution](https://en.wikipedia.org/wiki/Nonpoint_source_pollution)** originates from multiple diffuse environmental sources. This is when [fertilizer](https://en.wikipedia.org/wiki/Fertilizer) washes off of a thousand different suburban [lawns](https://en.wikipedia.org/wiki/Lawn), mixes in the rain, and creates a toxic [algae bloom](https://en.wikipedia.org/wiki/Algal_bloom) in a [lake](https://en.wikipedia.org/wiki/Lake). It is much harder to regulate because there is no single culprit.
+
+![A diagram of nonpoint source pollution, showing how rainfall washes fertilizers and urban waste from large areas into water systems.](https://wikipedia.org/wiki/Special:Redirect/file/Nonpoint_Source_Pollution.svg)
 
 ### Paving Over the Planet
 As populations grow, cities expand. **[Urbanization](https://en.wikipedia.org/wiki/Urbanization) increases the total amount of [impermeable](https://en.wikipedia.org/wiki/Impervious_surface) physical surfaces in a local environment.** "Impermeable" means water cannot soak through it. 
@@ -120,6 +138,8 @@ Sometimes, land loses its ability to grow anything at all. **[Desertification](h
 
 The most famous historical example of this is the **1930s [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl) in the [United States](https://en.wikipedia.org/wiki/United_States)**. It was partially caused by severe multi-year droughts (nature's fault), but it was also partially caused by poor [topsoil](https://en.wikipedia.org/wiki/Topsoil) farming practices (humanity's fault). [Farmers](https://en.wikipedia.org/wiki/Farmer) had ripped up the deep-rooted prairie grasses to plant [wheat](https://en.wikipedia.org/wiki/Wheat). When the rain stopped, the dirt literally blew away in [black blizzards](https://en.wikipedia.org/wiki/Dust_storm). 
 
+![A massive dust storm approaching Stratford, Texas in 1935, a catastrophic result of severe drought combined with poor topsoil farming practices.](https://wikipedia.org/wiki/Special:Redirect/file/Dust_storm_approaching_Stratford%2C_Texas.jpg)
+
 ---
 
 ## Section 5: The Road Ahead (Resources and Sustainability)
@@ -130,6 +150,8 @@ So, we have seen that humans depend on, adapt to, and modify the Earth. We have 
 Earth provides two types of resources, and students must know the difference:
 *   **[Renewable natural resources](https://en.wikipedia.org/wiki/Renewable_resource)** can be replenished naturally over relatively short periods of time. Examples include [sunlight](https://en.wikipedia.org/wiki/Sunlight), [wind](https://en.wikipedia.org/wiki/Wind), and timber (if managed correctly).
 *   **[Nonrenewable natural resources](https://en.wikipedia.org/wiki/Non-renewable_resource)** exist in entirely fixed planetary quantities. Examples include [coal](https://en.wikipedia.org/wiki/Coal), [oil](https://en.wikipedia.org/wiki/Petroleum), and [natural gas](https://en.wikipedia.org/wiki/Natural_gas). Once we burn them, they are gone forever. 
+
+![A coal mine in Wyoming. Coal is a non-renewable resource because it exists in fixed quantities and cannot be replenished on a human timescale.](https://wikipedia.org/wiki/Special:Redirect/file/Coal_mine_Wyoming.jpg)
 
 ### Sustainable Development
 The ultimate goal of human-environment interaction in the modern era is **[sustainable development](https://en.wikipedia.org/wiki/Sustainable_development)**. This is the golden rule of geography: *Sustainable development meets current human needs without compromising the resource needs of future generations.* It means catching fish, but leaving enough fish to reproduce for tomorrow. It means harvesting timber, but planting a [seed](https://en.wikipedia.org/wiki/Seed) for every tree you cut.

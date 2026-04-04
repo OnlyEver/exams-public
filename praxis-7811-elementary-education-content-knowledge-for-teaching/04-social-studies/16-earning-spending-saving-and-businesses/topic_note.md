@@ -42,6 +42,8 @@ How do we get the [money](https://en.wikipedia.org/wiki/Money) to fulfill our ne
 
 Notice the relationship: I improve my **[human capital](https://en.wikipedia.org/wiki/Human_capital)** (the [skills](https://en.wikipedia.org/wiki/Skill) and [knowledge](https://en.wikipedia.org/wiki/Knowledge) possessed by an individual worker), which allows me to do more valuable work, which earns me a higher wage, which becomes my income. 
 
+![A visual breakdown of human capital, which encompasses the skills, education, and knowledge workers use to earn their wages.](https://wikipedia.org/wiki/Special:Redirect/file/Human_capital.png)
+
 Once a student has income, they stand at a crossroads:
 1.  **[Spending](https://en.wikipedia.org/wiki/Consumer_spending)**: Exchanging money for goods or services right now.
 2.  **[Saving](https://en.wikipedia.org/wiki/Saving)**: The act of keeping a portion of current income for future use.
@@ -51,6 +53,8 @@ Why is saving so hard for a seven-year-old (and, let's be honest, for many adult
 
 To help students navigate this, we introduce **[budgeting](https://en.wikipedia.org/wiki/Budget)**, which is the process of creating a plan to balance income with spending and saving. A budget is just a [map](https://en.wikipedia.org/wiki/Map) of your money, ensuring your future self gets taken care of just as well as your present self.
 
+![Budgeting tools help individuals map out their income against their spending and saving goals, teaching the crucial skill of delayed gratification.](https://wikipedia.org/wiki/Special:Redirect/file/Budgetplanatm.JPG)
+
 ### 🛑 Pedagogical Pitfall: The "Magic Money" Machines
 Modern [technology](https://en.wikipedia.org/wiki/Technology) has completely hidden the cause-and-effect of earning and spending from our children. 
 
@@ -59,6 +63,8 @@ Modern [technology](https://en.wikipedia.org/wiki/Technology) has completely hid
 They see a parent walk up to a wall, push some buttons, and the wall hands them a \$20 [bill](https://en.wikipedia.org/wiki/Banknote)! It looks like a reverse [vending machine](https://en.wikipedia.org/wiki/Vending_machine). Similarly, **a common student misconception is that [credit cards](https://en.wikipedia.org/wiki/Credit_card) represent limitless money rather than [borrowed funds](https://en.wikipedia.org/wiki/Debt).** 
 
 To teach this, you must make the invisible [ledger](https://en.wikipedia.org/wiki/Ledger) *visible*. You have to show them that the ATM is just a portal to their parent's own saved income, and a credit card is just a promise to pay later (a promise that costs extra money to make!).
+
+![To young students, an automated teller machine (ATM) can look like an endless money dispenser rather than a tool for accessing their own saved income.](https://wikipedia.org/wiki/Special:Redirect/file/ATM_750x1300.jpg)
 
 ---
 
@@ -78,6 +84,8 @@ Ask a third-grader what happens to their \$50 [birthday](https://en.wikipedia.or
 > **Crucial CKT Fact:** Elementary students frequently misunderstand bank operations by believing a bank physically locks individual deposits in a personal [box](https://en.wikipedia.org/wiki/Safe_deposit_box). 
 
 They imagine a little cubby in the [vault](https://en.wikipedia.org/wiki/Bank_vault) with their name on it, holding exactly their \$50. But that’s not how banking works! If banks just locked money in boxes, how would the bank make any money? This leads us to the most brilliant, invisible engine of the economy.
+
+![The massive doors of traditional bank vaults often reinforce the student misconception that their deposited money is physically locked in a personal box.](https://wikipedia.org/wiki/Special:Redirect/file/WinonaSavingsBankVault.JPG)
 
 ### The Engine of Interest
 When you put money in the bank, the bank doesn't just put it in a box. They put it to work. 
@@ -113,6 +121,8 @@ A student might ask, *"If the [toy store](https://en.wikipedia.org/wiki/Toy_stor
 
 The student understands the profit motive, but they are missing the other half of the equation: the consumer! You must explain that if prices go too high, consumers will simply exercise their right to say "no" or buy from a [competitor](https://en.wikipedia.org/wiki/Competition_%28economics%29). Price is a [negotiation](https://en.wikipedia.org/wiki/Negotiation) between what the seller wants to earn and what the buyer is willing to pay. 
 
+![The supply and demand model illustrates that prices are not dictated solely by the seller, but represent a balance between what consumers are willing to pay and the product's availability.](https://wikipedia.org/wiki/Special:Redirect/file/Supply-demand-equilibrium.svg)
+
 ---
 
 ## Part 5: The Big Picture (The Circular Flow and the Government)
@@ -124,6 +134,8 @@ A **[circular flow model](https://en.wikipedia.org/wiki/Circular_flow_of_income)
 It works like this:
 1.  **Businesses interact with individuals by paying wages in exchange for labor.** (Money flows to households).
 2.  **Individuals interact with businesses by exchanging money for the goods and services the businesses produce.** (Money flows back to businesses).
+
+![A basic circular flow diagram illustrating the continuous exchange of money, labor, and goods between households and businesses.](https://wikipedia.org/wiki/Special:Redirect/file/Circular_flow_of_goods_income.png)
 
 It’s a [perpetual motion](https://en.wikipedia.org/wiki/Perpetual_motion) machine! But wait—who builds the [roads](https://en.wikipedia.org/wiki/Road) that the [delivery trucks](https://en.wikipedia.org/wiki/Delivery_%28commerce%29) drive on? Who pays the [firefighters](https://en.wikipedia.org/wiki/Firefighter) that protect the toy store and the household? 
 

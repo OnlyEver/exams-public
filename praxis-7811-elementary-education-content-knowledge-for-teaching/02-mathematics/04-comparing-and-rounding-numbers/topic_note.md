@@ -1,5 +1,7 @@
 Welcome! Pull up a chair. I want you to imagine, for just a moment, that you are looking at the [night sky](https://en.wikipedia.org/wiki/Night_sky). When you look at the [stars](https://en.wikipedia.org/wiki/Star), some seem incredibly bright, and others are just faint specks. But to truly understand their [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28astronomy%29)—to know which star is actually larger or closer—you can't just trust a quick glance. You have to understand the underlying framework of how [light](https://en.wikipedia.org/wiki/Light) and distance work.
 
+![Visualizing the apparent magnitude of stars provides a tangible analogy for mathematical magnitude, demonstrating how visual perception of scale relates to true, underlying values.](https://wikipedia.org/wiki/Special:Redirect/file/Magnitude_illustration.svg)
+
 In the [elementary math](https://en.wikipedia.org/wiki/Elementary_mathematics) classroom, our students look at numbers the same way. They see a sprawling number like 0.35 and think, "Wow, look at all those [digits](https://en.wikipedia.org/wiki/Numerical_digit)! That must be a massive number." Our job as teachers isn't just to tell them they are wrong. Our job is to give them the framework—the [telescope](https://en.wikipedia.org/wiki/Telescope), if you will—to understand *why*. 
 
 Today, we are diving deep into the Content Knowledge for Teaching (CKT) regarding comparing and [rounding](https://en.wikipedia.org/wiki/Rounding) numbers. We are going to look under the hood of the [base-ten system](https://en.wikipedia.org/wiki/Decimal). We are going to explore not just the mathematical rules, but how young [brains](https://en.wikipedia.org/wiki/Brain) process them, the hilarious and predictable traps they fall into, and the [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) tools you will use to guide them out.
@@ -11,6 +13,8 @@ Let’s get started.
 Before a student can compare two numbers, they must understand the stage upon which numbers dance. 
 
 > **The Grand Rule of Base-Ten:** The base-ten [number system](https://en.wikipedia.org/wiki/Numeral_system) assigns [value](https://en.wikipedia.org/wiki/Value_%28mathematics%29) to a digit based on the [position](https://en.wikipedia.org/wiki/Positional_notation) of the digit relative to the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator).
+
+![The base-ten numeral system relies entirely on positional notation, where the true mathematical value of any given digit is dictated by its exact placement relative to the decimal point.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
 
 This is a profound human [invention](https://en.wikipedia.org/wiki/Invention)! The digit "4" means something entirely different when it is floating two spots to the left of the decimal point (400) versus one spot to the right (0.4). Everything is tethered to that invisible—or visible—dot.
 
@@ -28,6 +32,8 @@ To truly teach this, you cannot just point at numbers on a [whiteboard](https://
 *   **Ungrouping:** Breaking down a single larger place value unit into ten adjacent smaller place value units.
 
 **Using [base-ten blocks](https://en.wikipedia.org/wiki/Base_ten_blocks) is an effective instructional strategy to visually demonstrate the grouping and ungrouping required to compare multidigit numbers.** When a student holds one "hundred" flat, and physically trades it in for ten "tens" rods, they are ungrouping. They are feeling the math in their hands. This tactile experience builds the conceptual foundation that makes comparisons logical rather than magical.
+
+![Base-ten blocks act as crucial concrete manipulatives, allowing students to physically experience magnitude and conceptualize the mechanics of grouping and ungrouping in units of 1, 10, 100, and 1,000.](https://wikipedia.org/wiki/Special:Redirect/file/Dienes_Material_(Dyskalkulie).jpg)
 
 ***
 
@@ -76,6 +82,8 @@ Instead of starting with rhymes, start with visualization. **A [number line](htt
 
 If you want to round 47 to the nearest ten, draw a number line with 40 on one end and 50 on the other. Plot 47. Ask the student, "Which tens neighborhood is this house physically closer to?" They will immediately see it is a shorter walk to 50 than to 40. *That* is conceptual understanding.
 
+![A number line transforms the abstract rules of rounding into a highly visual, spatial task, guiding students to see which target value a number is physically closest to.](https://wikipedia.org/wiki/Special:Redirect/file/NumberLineIntegers.svg)
+
 ### The Mechanics of Rounding
 Once the concept is cemented, we can formalized the mechanics. Here is the precise anatomical breakdown of rounding:
 
@@ -119,6 +127,8 @@ If we round 3.146 to the nearest hundredth, the 4 is the target, the 6 tells it 
 Because they are so used to the whole number rule, a student might round 3.146 to the nearest hundredth and write "3.150". 
 
 *Wait,* you might ask, *doesn't 3.150 equal 3.15?* Mathematically, yes! Appending a zero doesn't change the value. But in the world of [significant figures](https://en.wikipedia.org/wiki/Significant_figures), [precision](https://en.wikipedia.org/wiki/Accuracy_and_precision), and the conventions of [standard written mathematics](https://en.wikipedia.org/wiki/Mathematical_notation), if we are asked to round to the hundredths, our number should *terminate* at the hundredths. Writing 3.150 implies a level of precision to the thousandths place that we purposefully just rounded away! 
+
+![In standard mathematics, trailing zeros visually indicate an exact level of precision. Appending unnecessary zeros to a rounded decimal falsely implies that measurements or calculations are precise down to those unneeded place values.](https://wikipedia.org/wiki/Special:Redirect/file/Accuracy_and_precision.svg)
 
 | Number Type | What happens to digits to the right of the target? | Common Student Misconception |
 | :--- | :--- | :--- |

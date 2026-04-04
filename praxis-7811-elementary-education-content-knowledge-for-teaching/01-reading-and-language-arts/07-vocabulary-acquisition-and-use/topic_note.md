@@ -1,5 +1,7 @@
 Welcome to the fascinating world of word-building! If you want to teach [reading](https://en.wikipedia.org/wiki/Reading), you must become a master of how the [human brain](https://en.wikipedia.org/wiki/Human_brain) acquires and processes [language](https://en.wikipedia.org/wiki/Language). We aren't just teaching kids to sound out [letters](https://en.wikipedia.org/wiki/Letter_%28alphabet%29); we are giving them the tools to decipher the [universe](https://en.wikipedia.org/wiki/Universe) around them. 
 
+![Diagram highlighting key language processing centers of the human brain, such as Broca's and Wernicke's areas.](https://wikipedia.org/wiki/Special:Redirect/file/Brain_Surface_Gyri.SVG)
+
 Think about your future students. A child’s [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) is the [operating system](https://en.wikipedia.org/wiki/Operating_system) for their [reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension). If they don't know what the words mean, the most fluent [decoding](https://en.wikipedia.org/wiki/Phonics) in the world won't help them understand the [story](https://en.wikipedia.org/wiki/Narrative). 
 
 This guide is designed for the **Content Knowledge for Teaching (CKT)** exam. We won't just cover the definitions of [literacy](https://en.wikipedia.org/wiki/Literacy) terms; we will explore *how* children learn them, *why* they get confused, and the instructional decisions you must make to guide them.
@@ -32,6 +34,8 @@ Then we have the **[idiom](https://en.wikipedia.org/wiki/Idiom)**, which is a cu
 
 > **Teacher Alert! Misconception Zone:** **Elementary students frequently misinterpret idioms due to a developmental tendency toward literal thinking.** If you tell a second-grader it is "[raining cats and dogs](https://en.wikipedia.org/wiki/Raining_cats_and_dogs)," do not be surprised if they look out the [window](https://en.wikipedia.org/wiki/Window) expecting falling [poodles](https://en.wikipedia.org/wiki/Poodle)! Idioms must be explicitly taught and discussed, especially for younger learners and [English Language Learners](https://en.wikipedia.org/wiki/English-language_learner).
 
+![A literal illustration of the idiom "raining cats and dogs," which visually demonstrates why young readers often misinterpret figurative language.](https://wikipedia.org/wiki/Special:Redirect/file/George_Cruikshank_-_Very_unpleasant_Weather_(retouched).jpg)
+
 ---
 
 ## Part 2: Context Clues and Their Limits
@@ -48,12 +52,16 @@ Context is particularly vital for **multiple-meaning words** (like *[bark](https
 *   **[Homophones](https://en.wikipedia.org/wiki/Homophone):** Words that share the same [pronunciation](https://en.wikipedia.org/wiki/Pronunciation) as another word but possess a different meaning and [spelling](https://en.wikipedia.org/wiki/Orthography) (*bare* vs. *[bear](https://en.wikipedia.org/wiki/Bear)*, or *cents* vs. *sense*).
 *   **[Homographs](https://en.wikipedia.org/wiki/Homograph):** Words that share the same spelling as another word but possess a different meaning and potentially a different pronunciation (*bow* to the [queen](https://en.wikipedia.org/wiki/Queen_regnant) vs. tying a *bow*).
 
+![A Venn diagram illustrating the intersection of homophones (same pronunciation) and homographs (same spelling).](https://wikipedia.org/wiki/Special:Redirect/file/Homograph_homophone_venn_diagram.png)
+
 ### The Limits of Context
 Here is a profound reality of literacy instruction that many teachers miss: 
 
 > **Context clues frequently lack sufficient information to provide a precise or complete definition of an unknown word.** 
 
 Think about the sentence: *The man walked down the [street](https://en.wikipedia.org/wiki/Street) wearing a [fedora](https://en.wikipedia.org/wiki/Fedora).* If a child doesn't know what a *fedora* is, the context only tells them it's something a man can wear. It could be a [coat](https://en.wikipedia.org/wiki/Coat), a [shoe](https://en.wikipedia.org/wiki/Shoe), or a [hat](https://en.wikipedia.org/wiki/Hat). You cannot rely on context clues alone; you must pair them with structural word analysis!
+
+![A fedora hat. Without structural analysis or prior knowledge, context clues alone cannot tell a student exactly what this specific item looks like.](https://wikipedia.org/wiki/Special:Redirect/file/Hatt.jpg)
 
 ---
 
@@ -67,6 +75,8 @@ The foundational piece here is the **[morpheme](https://en.wikipedia.org/wiki/Mo
 *   **[Affix](https://en.wikipedia.org/wiki/Affix):** A [bound morpheme](https://en.wikipedia.org/wiki/Bound_morpheme) attached to a root word to alter the root word's meaning or [grammatical function](https://en.wikipedia.org/wiki/Grammatical_category). ("Bound" just means it can't stand alone as its own word).
     *   **[Prefix](https://en.wikipedia.org/wiki/Prefix):** An affix attached to the *beginning* of a root word (e.g., *un-* in *unhappy*).
     *   **[Suffix](https://en.wikipedia.org/wiki/Suffix):** An affix attached to the *end* of a root word (e.g., *-less* in *hopeless*).
+
+![A morphological tree breaking down the word "independently" into its root and affixes, illustrating how complex words are built from smaller units of meaning.](https://wikipedia.org/wiki/Special:Redirect/file/Independently_morphology_tree.png)
 
 ### Derivational vs. Inflectional Suffixes
 As an elementary teacher, you must know the difference between the two types of suffixes.

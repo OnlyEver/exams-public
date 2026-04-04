@@ -2,9 +2,11 @@
 
 Have you ever stopped to marvel at what writing actually *is*? It is nothing less than [telepathy](https://en.wikipedia.org/wiki/Telepathy). An author traps a thought in [symbols](https://en.wikipedia.org/wiki/Symbol) on a page, and days, years, or centuries later, you look at those symbols, and that exact thought blossoms inside your own mind. It’s magnificent! 
 
-But how does a writer ensure the *right* thought blossoms in the *right* way? It all boils down to purpose. The foundational rule of literary mechanics is this: **Authors choose a specific writing type based on their primary authorial intent.** 
+![Authors use symbols, much like a blank red octagon universally signals "stop," to transmit specific thoughts directly into a reader's mind without making a sound.](https://wikipedia.org/wiki/Special:Redirect/file/Blank_stop_sign_octagon.svg)
 
-If a writer wants to change your mind, they build a different linguistic machine than if they want to teach you how a combustion engine works, or if they want to make you weep over a fictional hero. 
+But how does a writer ensure the *right* thought blossoms in the *right* way? It all boils down to purpose. The foundational rule of literary mechanics is this: **Authors choose a specific writing type based on their primary [authorial intent](https://en.wikipedia.org/wiki/Authorial_intent).** 
+
+If a writer wants to change your mind, they build a different linguistic machine than if they want to teach you how a [combustion engine](https://en.wikipedia.org/wiki/Combustion_engine) works, or if they want to make you weep over a fictional hero. 
 
 For the [Praxis Elementary Education exam](https://en.wikipedia.org/wiki/Praxis_test), you must become a master mechanic of these linguistic machines. We are going to look under the hood of the three great engines of human communication: **Opinion/Argumentative**, **Informative/Explanatory**, and **Narrative** writing. 
 
@@ -14,7 +16,7 @@ Let's dissect them.
 
 ## Type 1: Opinion and Argumentative Writing (The Persuaders)
 
-When a writer sits down with a burning desire to change the world—or at least change your mind about it—they turn to this category. The intent is clear: **Opinion writing aims to persuade the reader to adopt a specific viewpoint.** Often, it goes one step further; **opinion writing aims to persuade the reader to take a specific action**, like voting for a candidate or [recycling](https://en.wikipedia.org/wiki/Recycling) their [plastic](https://en.wikipedia.org/wiki/Plastic).
+When a writer sits down with a burning desire to change the world—or at least change your mind about it—they turn to this category. The intent is clear: **Opinion writing aims to [persuade](https://en.wikipedia.org/wiki/Persuasion) the reader to adopt a specific viewpoint.** Often, it goes one step further; **opinion writing aims to persuade the reader to take a specific action**, like [voting](https://en.wikipedia.org/wiki/Voting) for a candidate or [recycling](https://en.wikipedia.org/wiki/Recycling) their [plastic](https://en.wikipedia.org/wiki/Plastic).
 
 Now, within this category, there is a fascinating fork in the road. Writers can take the path of the *heart* or the path of the *head*. 
 
@@ -22,12 +24,14 @@ Now, within this category, there is a fascinating fork in the road. Writers can 
 While these terms are sometimes used interchangeably in casual conversation, academically, they are distinct instruments. 
 
 *   **The Heart:** **Persuasive writing frequently incorporates emotional appeals to sway the reader.** It uses stirring [rhetoric](https://en.wikipedia.org/wiki/Rhetoric), moral urgency, and passion. Think of a [politician](https://en.wikipedia.org/wiki/Politician)’s rallying speech.
-*   **The Head:** **Argumentative writing relies on logical reasoning to support a claim.** It is the [scientist](https://en.wikipedia.org/wiki/Scientist)’s approach. Because it appeals to logic, **argumentative writing requires the presentation of verifiable evidence**—hard data, [statistics](https://en.wikipedia.org/wiki/Statistics), and expert testimony. Furthermore, a good debater knows they cannot ignore the [elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room); therefore, **argumentative essays often address opposing viewpoints through counterarguments**. You state the opponent's case, and then you systematically dismantle it. 
+*   **The Head:** **Argumentative writing relies on [logical reasoning](https://en.wikipedia.org/wiki/Logical_reasoning) to support a claim.** It is the [scientist](https://en.wikipedia.org/wiki/Scientist)’s approach. Because it appeals to logic, **argumentative writing requires the presentation of verifiable evidence**—hard data, [statistics](https://en.wikipedia.org/wiki/Statistics), and [expert testimony](https://en.wikipedia.org/wiki/Expert_witness). Furthermore, a good debater knows they cannot ignore the [elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room); therefore, **argumentative essays often address opposing viewpoints through [counterarguments](https://en.wikipedia.org/wiki/Counterargument)**. You state the opponent's case, and then you systematically dismantle it. 
+
+![Addressing the "elephant in the room" by directly acknowledging and dismantling opposing viewpoints is a cornerstone of effective argumentative writing.](https://wikipedia.org/wiki/Special:Redirect/file/Elephant's_tea_party%2C_Robur_Tea_Room%2C_Sydney%2C_24_March_1939_-_Sam_Hood_(3529604677).jpg)
 
 ### The Anatomy of Opinion Writing
 How do you build an opinion piece? It is an exercise in structural integrity. 
 
-1.  **The Anchor:** **A key component of opinion writing is a clear statement of the author's claim.** This is your thesis. If the reader doesn't know exactly what you are arguing by the end of the first paragraph, the machine is broken.
+1.  **The Anchor:** **A key component of opinion writing is a clear statement of the author's claim.** This is your [thesis](https://en.wikipedia.org/wiki/Thesis_statement). If the reader doesn't know exactly what you are arguing by the end of the first paragraph, the machine is broken.
 2.  **The Pillars:** You cannot build a house on air. Therefore, **opinion writing must include supporting reasons for the stated claim.** 
 3.  **The Roof:** You must leave the reader with a resounding final thought. Consequently, **opinion writing typically includes a concluding statement that reinforces the author's claim.**
 
@@ -35,9 +39,9 @@ How do you build an opinion piece? It is an exercise in structural integrity.
 
 ### Subgenres in the Wild
 Where do we see these persuasive machines in the real world? 
-*   **Subgenres of opinion writing include persuasive essays** written by students.
-*   **Subgenres of opinion writing include newspaper editorials** where publications take a stance on local issues.
-*   **Subgenres of opinion writing include book reviews** where critics argue the merit (or failure) of a new novel.
+*   **Subgenres of opinion writing include [persuasive essays](https://en.wikipedia.org/wiki/Persuasive_writing)** written by students.
+*   **Subgenres of opinion writing include [newspaper editorials](https://en.wikipedia.org/wiki/Editorial)** where publications take a stance on local issues.
+*   **Subgenres of opinion writing include [book reviews](https://en.wikipedia.org/wiki/Book_review)** where critics argue the merit (or failure) of a new novel.
 
 ---
 
@@ -45,7 +49,9 @@ Where do we see these persuasive machines in the real world?
 
 If opinion writing is a [lawyer](https://en.wikipedia.org/wiki/Lawyer) trying to sway a [jury](https://en.wikipedia.org/wiki/Jury), informative writing is a brilliant, patient teacher mapping out the cosmos. The intent is purely educational. 
 
-**Informative writing aims to educate the reader about a specific topic** (like the lifecycle of a star), whereas its close cousin, **explanatory writing aims to clarify a process for the reader** (like *how* to build a [telescope](https://en.wikipedia.org/wiki/Telescope)). 
+**Informative writing aims to educate the reader about a specific topic** (like the [lifecycle of a star](https://en.wikipedia.org/wiki/Stellar_evolution)), whereas its close cousin, **explanatory writing aims to clarify a process for the reader** (like *how* to build a [telescope](https://en.wikipedia.org/wiki/Telescope)). 
+
+![Informative writing objectively educates readers on complex, verifiable topics, such as the varied evolutionary lifecycles of stars based on their mass.](https://wikipedia.org/wiki/Special:Redirect/file/Star_life_cycles_red_dwarf_en.svg)
 
 ### The Vibe: The Invisible Author
 To teach perfectly, the author must get their ego out of the way. The text should act like a perfectly transparent glass window looking out onto the facts. Because of this, **informative writing maintains an [objective tone](https://en.wikipedia.org/wiki/Objectivity_%28philosophy%29).** It is entirely stripped of [bias](https://en.wikipedia.org/wiki/Bias), which means **informative writing explicitly avoids the inclusion of the author's personal opinions.**
@@ -54,52 +60,58 @@ To teach perfectly, the author must get their ego out of the way. The text shoul
 You are building an architecture of knowledge in the reader's brain. 
 
 1.  **The Foundation:** **A primary component of informative writing is the clear introduction of a central topic.** 
-2.  **The Building Blocks:** Once the topic is introduced, **informative writing develops the central topic using facts.** It also relies heavily on **[formal definitions](https://en.wikipedia.org/wiki/Definition)** to ensure clarity, and uses **concrete details** to ground abstract ideas in reality. 
-3.  **The Lexicon:** You have to speak the language of the subject. Thus, **informative writing often employs [domain-specific vocabulary](https://en.wikipedia.org/wiki/Terminology)** (e.g., using *photosynthesis* instead of "how plants eat").
+2.  **The Building Blocks:** Once the topic is introduced, **informative writing develops the central topic using facts.** It also relies heavily on **[formal definitions](https://en.wikipedia.org/wiki/Definition)** to ensure clarity, and uses **[concrete details](https://en.wikipedia.org/wiki/Concrete_%28philosophy%29)** to ground abstract ideas in reality. 
+3.  **The Lexicon:** You have to speak the language of the subject. Thus, **informative writing often employs [domain-specific vocabulary](https://en.wikipedia.org/wiki/Terminology)** (e.g., using *[photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)* instead of "how plants eat").
 
 > **The Glue of Information:** Because you are stacking fact upon fact to build comprehension, **informative writing frequently uses transition words indicating addition** (e.g., *furthermore, additionally, moreover, also*).
 
 ### Structures and Visuals
-Information isn't just dumped on a page; it is highly organized. **Informative texts can be structured using a compare-and-contrast organizational pattern** (showing how frogs and toads differ), a **cause-and-effect organizational pattern** (explaining how tectonic shifts cause [earthquakes](https://en.wikipedia.org/wiki/Earthquake)), or a **problem-and-solution organizational pattern** (detailing [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) and [desalination](https://en.wikipedia.org/wiki/Desalination) techniques).
+Information isn't just dumped on a page; it is highly organized. **Informative texts can be structured using a compare-and-contrast organizational pattern** (showing how frogs and toads differ), a **cause-and-effect organizational pattern** (explaining how [tectonic shifts](https://en.wikipedia.org/wiki/Plate_tectonics) cause [earthquakes](https://en.wikipedia.org/wiki/Earthquake)), or a **problem-and-solution organizational pattern** (detailing [water scarcity](https://en.wikipedia.org/wiki/Water_scarcity) and [desalination](https://en.wikipedia.org/wiki/Desalination) techniques).
 
-To aid the reader’s visual processing, **informational texts frequently utilize text features like headings** to chunk information and **text features like glossaries** at the back of the book to define that domain-specific vocabulary. They don't just use words, either; **informational texts frequently utilize visual aids like [charts](https://en.wikipedia.org/wiki/Chart)**, graphs, and [diagrams](https://en.wikipedia.org/wiki/Diagram). 
+To aid the reader’s visual processing, **informational texts frequently utilize text features like headings** to chunk information and **text features like [glossaries](https://en.wikipedia.org/wiki/Glossary)** at the back of the book to define that domain-specific vocabulary. They don't just use words, either; **informational texts frequently utilize visual aids like [charts](https://en.wikipedia.org/wiki/Chart)**, [graphs](https://en.wikipedia.org/wiki/Statistical_graphics), and [diagrams](https://en.wikipedia.org/wiki/Diagram). 
+
+![Informational texts frequently utilize cause-and-effect structures and powerful visual aids, such as this map demonstrating how global earthquake epicenters closely mirror tectonic plate boundaries.](https://wikipedia.org/wiki/Special:Redirect/file/Quake_epicenters_1963-98.png)
 
 ### Subgenres in the Wild
 Where do we encounter this objective transfer of knowledge?
-*   **Subgenres of informative writing include research reports** analyzing scientific phenomena.
-*   **Subgenres of informative writing include instructional manuals** showing you how to assemble that notoriously difficult flat-pack furniture.
-*   **Subgenres of informative writing include biographies** detailing the factual timeline of a historical figure's life.
+*   **Subgenres of informative writing include [research reports](https://en.wikipedia.org/wiki/Research)** analyzing scientific phenomena.
+*   **Subgenres of informative writing include [instructional manuals](https://en.wikipedia.org/wiki/Owner%27s_manual)** showing you how to assemble that notoriously difficult flat-pack furniture.
+*   **Subgenres of informative writing include [biographies](https://en.wikipedia.org/wiki/Biography)** detailing the factual timeline of a historical figure's life.
 
 ---
 
 ## Type 3: Narrative Writing (The Storytellers)
 
-Now we arrive at the oldest linguistic machine of all: the campfire tale. 
+Now we arrive at the oldest linguistic machine of all: the [campfire](https://en.wikipedia.org/wiki/Campfire) tale. 
 
-The intent here is simple but profound: **Narrative writing aims to tell a story.** But stories aren't just for make-believe. **Narrative writing can recount real historical events** (like a dramatic retelling of the [Apollo 11 moon landing](https://en.wikipedia.org/wiki/Apollo_11)), or it can **recount imagined fictional experiences** (like a [wizard](https://en.wikipedia.org/wiki/Magician_%28fantasy%29) discovering their magic). 
+The intent here is simple but profound: **Narrative writing aims to tell a story.** But stories aren't just for make-believe. **Narrative writing can recount real historical events** (like a dramatic retelling of the [Apollo 11 moon landing](https://en.wikipedia.org/wiki/Apollo_11)), or it can **recount imagined fictional experiences** (like a [wizard](https://en.wikipedia.org/wiki/Magician_%28fantasy%29) discovering their [magic](https://en.wikipedia.org/wiki/Magic_in_fiction)). 
+
+![Narrative writing is not strictly fictional; it can also recount dramatic true events, such as the Apollo 11 moon landing, using immersive storytelling techniques.](https://wikipedia.org/wiki/Special:Redirect/file/Buzz_Aldrin's_bootprint_on_the_Moon%2C_AS11-40-5877.jpg)
 
 ### The Anatomy of a World
 To make a reader hallucinate a story, the writer must construct a mathematical simulation of reality. 
 
 1.  **The World:** Before a story can happen, it needs a stage. Therefore, **a key component of narrative writing is the establishment of a [physical setting](https://en.wikipedia.org/wiki/Setting_%28narrative%29)** (the *where*). But time is just as important as space, requiring the **establishment of a temporal setting** (the *when*).
-2.  **The Lens:** The story must be filtered through a consciousness. Thus, **narrative writing establishes a specific point of view** (first-person "I", third-person "They", etc.).
+2.  **The Lens:** The story must be filtered through a consciousness. Thus, **narrative writing establishes a specific [point of view](https://en.wikipedia.org/wiki/Point_of_view_%28literature%29)** ([first-person](https://en.wikipedia.org/wiki/First-person_narrative) "I", [third-person](https://en.wikipedia.org/wiki/Third-person_narrative) "They", etc.).
 3.  **The Actors:** A world is empty without people. **Narrative writing features the introduction and development of [characters](https://en.wikipedia.org/wiki/Character_%28arts%29).**
 4.  **The Engine:** Characters cannot just sit around; they must move through time. **Narrative writing typically follows a structured [plot](https://en.wikipedia.org/wiki/Plot_%28narrative%29).** What drives a plot? Friction! **A plot structure in narrative writing usually centers around a [conflict](https://en.wikipedia.org/wiki/Conflict_%28narrative%29)**, and to provide a satisfying psychological payoff, it **usually includes a [resolution](https://en.wikipedia.org/wiki/Resolution_%28narrative%29) of the conflict.**
+
+![Freytag's Pyramid visualizes the typical plot structure of narrative writing, detailing how a story moves from the introduction of conflict to its climax and ultimate resolution.](https://wikipedia.org/wiki/Special:Redirect/file/Freytag's_Pyramid_with_English_text.svg)
 
 ### The Tools of the Storyteller
 How do you make the story grip the reader's brain? 
 
-*   **Immersion:** **Narrative writing relies heavily on sensory details to immerse the reader**—the smell of [ozone](https://en.wikipedia.org/wiki/Ozone), the bite of cold wind. To achieve this, **narrative writing utilizes descriptive language to paint a mental picture.**
+*   **Immersion:** **Narrative writing relies heavily on sensory details to immerse the reader**—the smell of [ozone](https://en.wikipedia.org/wiki/Ozone), the bite of cold wind. To achieve this, **narrative writing utilizes [descriptive language](https://en.wikipedia.org/wiki/Description) to paint a mental picture.**
 *   **Voices:** Characters must speak. **Narrative writing frequently utilizes [dialogue](https://en.wikipedia.org/wiki/Dialogue) to advance the plot** (e.g., "The bomb is under the desk!") and utilizes **dialogue to reveal character traits** (e.g., a character who stutters when they are lying).
 
 > **The Glue of Narrative:** Stories are bound by the [arrow of time](https://en.wikipedia.org/wiki/Arrow_of_time). Therefore, **narrative writing sequences events using temporal transition words** (e.g., *meanwhile, suddenly, afterward, the next day*).
 
 ### Subgenres in the Wild
 Where do we find narrative writing? Everywhere humans gather.
-*   **Subgenres of narrative writing include personal narratives** where the author recounts a meaningful slice of their own life.
-*   **Subgenres of narrative writing include short stories** exploring focused fictional arcs.
+*   **Subgenres of narrative writing include [personal narratives](https://en.wikipedia.org/wiki/Personal_narrative)** where the author recounts a meaningful slice of their own life.
+*   **Subgenres of narrative writing include [short stories](https://en.wikipedia.org/wiki/Short_story)** exploring focused fictional arcs.
 *   **Subgenres of narrative writing include [memoirs](https://en.wikipedia.org/wiki/Memoir)** (book-length reflections on the author's lived experiences).
-*   **Subgenres of narrative writing include myths** (ancient narratives explaining natural or social phenomena).
+*   **Subgenres of narrative writing include [myths](https://en.wikipedia.org/wiki/Myth)** (ancient narratives explaining natural or social phenomena).
 *   **Subgenres of narrative writing include [fables](https://en.wikipedia.org/wiki/Fable)** (short tales, often with animal characters, conveying a moral).
 
 ---
@@ -110,9 +122,9 @@ To ensure you have these distinct machines mapped in your mind for the Praxis ex
 
 | Feature | Opinion / Argumentative | Informative / Explanatory | Narrative |
 | :--- | :--- | :--- | :--- |
-| **Primary Intent** | Persuade to a viewpoint or action. | Educate on a topic or clarify a process. | Tell a story (real or imagined). |
-| **Key Components** | Claim, supporting reasons, counterarguments, concluding statement. | Central topic, facts, definitions, concrete details, [objective tone](https://en.wikipedia.org/wiki/Objectivity_%28philosophy%29). | Physical/temporal setting, characters, plot, conflict, resolution, point of view. |
-| **Mechanics & Devices** | Logical reasoning, verifiable evidence, emotional appeals. | [Domain-specific vocabulary](https://en.wikipedia.org/wiki/Terminology), headings, glossaries, charts. | Dialogue (plot/character), sensory details, descriptive language. |
+| **Primary Intent** | [Persuade](https://en.wikipedia.org/wiki/Persuasion) to a viewpoint or action. | Educate on a topic or clarify a process. | Tell a story (real or imagined). |
+| **Key Components** | Claim, supporting reasons, [counterarguments](https://en.wikipedia.org/wiki/Counterargument), concluding statement. | Central topic, facts, definitions, concrete details, [objective tone](https://en.wikipedia.org/wiki/Objectivity_%28philosophy%29). | Physical/temporal setting, characters, plot, conflict, resolution, point of view. |
+| **Mechanics & Devices** | [Logical reasoning](https://en.wikipedia.org/wiki/Logical_reasoning), verifiable evidence, emotional appeals. | [Domain-specific vocabulary](https://en.wikipedia.org/wiki/Terminology), headings, glossaries, charts. | Dialogue (plot/character), sensory details, descriptive language. |
 | **Transition Words** | **Causation** (*because, therefore*) | **Addition** (*furthermore, also*) | **Temporal** (*meanwhile, next*) |
 | **Common Subgenres** | Persuasive essays, newspaper editorials, book reviews. | Research reports, instructional manuals, biographies. | Personal narratives, short stories, memoirs, myths, fables. |
 

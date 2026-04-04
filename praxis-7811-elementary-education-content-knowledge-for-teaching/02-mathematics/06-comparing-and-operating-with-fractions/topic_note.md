@@ -16,6 +16,8 @@ Before a student can operate on a fraction, they have to know what it fundamenta
 > *   The **[denominator](https://en.wikipedia.org/wiki/Fraction) of a fraction represents the total number of equal parts that make up a whole.** It tells you the size of the slice.
 > *   The **[numerator](https://en.wikipedia.org/wiki/Fraction) of a fraction represents the specific number of fractional parts being counted or considered.** It tells you how many slices you have.
 
+![A basic visual model showing how a whole is divided into four equal parts (the denominator), with three parts being counted and one part removed (the numerators).](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
+
 When we strip it down to its foundation, we find the **[unit fraction](https://en.wikipedia.org/wiki/Unit_fraction)**. A unit fraction is a fraction that has a numerator of exactly one (like $1/4$ or $1/5$). This is your building block. If you have $3/4$, you simply have three of the $1/4$ unit fractions. 
 
 Eventually, students will encounter a scenario where they collect so many parts that they overflow the whole. We call this an **[improper fraction](https://en.wikipedia.org/wiki/Fraction)**—which is simply a fraction with a numerator that is greater than or equal to its denominator (like $5/4$). 
@@ -30,6 +32,8 @@ A student looks at $\frac{3}{8}$ and thinks, "Okay, a 3 and an 8." No! It is a s
 ## 2. The Art of Comparison and Equivalence
 
 Now, let's talk about [equivalence](https://en.wikipedia.org/wiki/Equivalence_relation). What does it mean for two fractions to be equal? **[Equivalent fractions](https://en.wikipedia.org/wiki/Fraction) represent the exact same [quantity](https://en.wikipedia.org/wiki/Quantity) despite having different numerators and denominators.** One-half is two-fourths is four-eighths. It’s the exact same amount of pizza, just sliced differently. 
+
+![To compare or operate on fractions of different sizes, such as $1/2$ and $1/4$, the pieces must first be visually divided into equivalent fractions representing comparable quantities.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_fractions.svg)
 
 To prove this to 9-year-olds, we use physical tools. **Fraction circles are concrete [manipulative tools](https://en.wikipedia.org/wiki/Manipulative_%28mathematics_education%29) frequently utilized in [elementary education](https://en.wikipedia.org/wiki/Primary_education) to demonstrate the concept of equivalent fractions.** Letting students physically place two $1/4$ pieces perfectly over one $1/2$ piece creates a lasting neurological link.
 
@@ -49,6 +53,8 @@ What if the numerators are the same, but the denominators are different? Say, $3
 
 Therefore, **when fractions share the exact same numerator, the fraction with the smaller denominator represents the larger quantity.** Three giant slices ($1/4$s) are much more than three tiny slivers ($1/8$s).
 
+![As the mathematical denominator increases, the physical size of each piece decreases, visually demonstrated by these pizza slices representing approximately $1/8$ of the whole.](https://wikipedia.org/wiki/Special:Redirect/file/Pizza-3007395.jpg)
+
 #### Strategy C: Benchmark Fractions
 Sometimes, you don't need common anything. You just need a point of reference. 
 *   **Comparing fractions to the benchmark number of [one-half](https://en.wikipedia.org/wiki/One_half) helps determine the [relative size](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) of the fractions.** Is $3/8$ bigger than $4/7$? Well, $3/8$ is less than half, and $4/7$ is more than half. Done!
@@ -63,6 +69,8 @@ When we teach [addition](https://en.wikipedia.org/wiki/Addition) and [subtractio
 > **Adding fractions requires establishing a common denominator to guarantee that the parts being combined are of equal size.**
 > 
 > **Subtracting fractions requires establishing a common denominator to ensure the [mathematical operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) involve parts of equal size.**
+
+![Visualizing fraction addition: Before combining fractions with different denominators, both areas must be subdivided into a common mathematical grid to establish equal-sized parts.](https://wikipedia.org/wiki/Special:Redirect/file/Fraction_addition_example.svg)
 
 ### Navigating the Traps
 Watch your students like a hawk when they first start adding and subtracting, because their brains will try to apply whole-number logic to fraction problems. 
@@ -82,7 +90,11 @@ Subtraction with mixed numbers brings a unique challenge: regrouping. Imagine su
 
 [Multiplication](https://en.wikipedia.org/wiki/Multiplication) is where students' whole-number worldviews shatter. Until now, multiplication meant "making things bigger." 
 
-We have to deliberately un-teach this. **Students frequently exhibit the misconception that multiplication always results in a mathematical [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) larger than the initial [factors](https://en.wikipedia.org/wiki/Divisor).** We must prove to them that **multiplying a [positive number](https://en.wikipedia.org/wiki/Positive_real_numbers) by a [proper fraction](https://en.wikipedia.org/wiki/Fraction) always results in a final product smaller than the original positive number.** 
+We have to deliberately un-teach this. **Students frequently exhibit the misconception that multiplication always results in a mathematical [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) larger than the initial [factors](https://en.wikipedia.org/wiki/Divisor).** 
+
+![Traditional whole-number area models train students to expect multiplication to always increase the total quantity, a visual intuition that must be actively dismantled for proper fractions.](https://wikipedia.org/wiki/Special:Redirect/file/Three_by_Four.svg)
+
+We must prove to them that **multiplying a [positive number](https://en.wikipedia.org/wiki/Positive_real_numbers) by a [proper fraction](https://en.wikipedia.org/wiki/Fraction) always results in a final product smaller than the original positive number.** 
 
 Why? Because multiplying by a fraction means you are taking a *part* of something. In fact, a great cheat code for students [word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29) is language: **The word 'of' in elementary mathematical word problems involving fractions typically indicates a multiplication operation.** (e.g., "half *of* the batch of cookies").
 

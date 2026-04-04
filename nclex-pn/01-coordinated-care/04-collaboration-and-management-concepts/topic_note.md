@@ -4,6 +4,8 @@ Hello there! Welcome. Let’s talk about something truly fascinating. When you l
 
 You can have the greatest [violinist](https://en.wikipedia.org/wiki/Violin) in the world, but if they don’t know when the [cellist](https://en.wikipedia.org/wiki/Cello) is coming in, or if the conductor is waving their arms at the wrong [tempo](https://en.wikipedia.org/wiki/Tempo), the result isn't music. It’s noise. In [healthcare](https://en.wikipedia.org/wiki/Health_care), that "noise" translates directly to poor client outcomes. 
 
+![A modern symphony orchestra layout. Just as a conductor coordinates various instrumental sections, healthcare relies on precise interdisciplinary collaboration to ensure positive client outcomes.](https://wikipedia.org/wiki/Special:Redirect/file/Diagram_Modern_symphony_orchestra-en.svg)
+
 Today, we are going to break down the "[physics](https://en.wikipedia.org/wiki/Physics)" of this healthcare symphony. We'll explore who plays what instrument, how we write the sheet music (the [care plan](https://en.wikipedia.org/wiki/Nursing_care_plan)), and how you—the [Practical Nurse](https://en.wikipedia.org/wiki/Licensed_practical_nurse) (PN)—keep the tempo steady through brilliant [delegation](https://en.wikipedia.org/wiki/Delegation) and [management](https://en.wikipedia.org/wiki/Management). Let's dive in!
 
 ---
@@ -18,12 +20,22 @@ Let's meet the experts you will be collaborating with:
 Students often get confused between [physical therapists](https://en.wikipedia.org/wiki/Physical_therapy) and [occupational therapists](https://en.wikipedia.org/wiki/Occupational_therapy). Let's make it intuitive. Think of physical therapy as "the gross mechanics of movement" and occupational therapy as "the fine mechanics of living."
 
 *   **Physical Therapist (PT):** A **physical therapist focuses on restoring a client's mobility and preventing [physical disability](https://en.wikipedia.org/wiki/Physical_disability).** Think of the big movements: walking, transferring out of bed, building lower body strength after a [hip replacement](https://en.wikipedia.org/wiki/Hip_replacement). They are the mechanics of the human chassis.
+
+![A titanium hip prosthesis. Physical therapists focus on gross motor mechanics, helping clients regain mobility and strength following major orthopedic procedures like hip replacements.](https://wikipedia.org/wiki/Special:Redirect/file/Hip_prosthesis.jpg)
+
 *   **Occupational Therapist (OT):** Conversely, an **occupational therapist helps clients regain the [fine motor skills](https://en.wikipedia.org/wiki/Fine_motor_skill) needed for [activities of daily living](https://en.wikipedia.org/wiki/Activities_of_daily_living)** (ADLs). If a [stroke](https://en.wikipedia.org/wiki/Stroke) patient needs to relearn how to button a shirt, hold a fork, or brush their teeth, the OT is the expert you call. 
 *   **Speech-Language Pathologist (SLP):** This title is almost a bit misleading because they do much more than just speech! Yes, they help with [aphasia](https://en.wikipedia.org/wiki/Aphasia), but critically, a **[speech-language pathologist](https://en.wikipedia.org/wiki/Speech-language_pathology) assists clients with [swallowing disorders](https://en.wikipedia.org/wiki/Dysphagia) and communication difficulties.** If your client is coughing while drinking water, the SLP performs the swallow study to prevent [aspiration pneumonia](https://en.wikipedia.org/wiki/Aspiration_pneumonia). 
 
+![Aspiration pneumonia in a ventilated patient. Speech-Language Pathologists evaluate swallowing disorders (dysphagia) to prevent fluids from accidentally entering the lungs, mitigating severe complications.](https://wikipedia.org/wiki/Special:Redirect/file/AspirationPneumonia.png)
+
 ### The System Specialists
 *   **Registered Dietitian (RD):** Food is fuel, and in a hospital, food is medicine. A **[registered dietitian](https://en.wikipedia.org/wiki/Dietitian) assesses the nutritional needs of clients** and then uses that assessment to **design specific dietary plans for clients.** Whether it's a low-sodium diet for [heart failure](https://en.wikipedia.org/wiki/Heart_failure) or a [high-protein diet](https://en.wikipedia.org/wiki/High-protein_diet) for [wound healing](https://en.wikipedia.org/wiki/Wound_healing), they engineer the fuel mixture.
+
+![The biological phases of wound healing over time. Registered Dietitians design targeted nutritional strategies, such as high-protein diets, which provide the necessary cellular fuel to progress through these healing phases.](https://wikipedia.org/wiki/Special:Redirect/file/Wound_healing_phases.png)
+
 *   **Respiratory Therapist (RT):** The breath of life! A **[respiratory therapist](https://en.wikipedia.org/wiki/Respiratory_therapist) administers pulmonary treatments and manages [mechanical ventilation](https://en.wikipedia.org/wiki/Mechanical_ventilation).** When your client needs a breathing treatment for [COPD](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease), or adjustments to their life-support [ventilator](https://en.wikipedia.org/wiki/Ventilator), the RT is your go-to expert.
+
+![A structural comparison of normal lungs versus alveoli damaged by COPD. Respiratory Therapists are crucial in managing such chronic airway obstructions and overseeing mechanical ventilation.](https://wikipedia.org/wiki/Special:Redirect/file/Copd_2010.jpg)
 
 ### The Real-World Navigators
 *   **Medical Social Worker:** What happens when the client leaves the hospital? The [medical social worker](https://en.wikipedia.org/wiki/Medical_social_work) bridges the gap between the clinical bubble and the real world. A **medical social worker helps clients find community resources** (like [Meals on Wheels](https://en.wikipedia.org/wiki/Meals_on_Wheels) or [support groups](https://en.wikipedia.org/wiki/Support_group)) and **assists clients with discharge planning and financial concerns.** They ensure the client doesn't fall off a cliff the moment they walk out the hospital doors.
@@ -52,6 +64,8 @@ So, where does the Practical Nurse come in? You are the engine that drives this 
 
 Think of it as a feedback loop in [physics](https://en.wikipedia.org/wiki/Physics): The RN sets the [trajectory](https://en.wikipedia.org/wiki/Trajectory), the PN drives the ship, measures the [turbulence](https://en.wikipedia.org/wiki/Turbulence), and tells the RN how they need to adjust the coordinates. It’s a brilliant partnership.
 
+![The nursing process functions as a continuous feedback loop. The Practical Nurse feeds real-time observational data back into the system, allowing the Registered Nurse to continually adjust interventions and the overall care plan.](https://wikipedia.org/wiki/Special:Redirect/file/General_Feedback_Loop.svg)
+
 ---
 
 ## Part III: The Physics of [Delegation](https://en.wikipedia.org/wiki/Delegation) (Managing Tasks)
@@ -70,6 +84,8 @@ What *can* UAPs do? Keep this phrase in your head: *Routine care for stable clie
 *   **Unlicensed assistive personnel provide basic [hygiene](https://en.wikipedia.org/wiki/Hygiene) care to stable clients.** ([Bathing](https://en.wikipedia.org/wiki/Bathing), grooming, toileting).
 *   **Unlicensed assistive personnel assist stable clients with routine [ambulation](https://en.wikipedia.org/wiki/Walking).** (Walking down the hall, transferring from bed to chair).
 *   **Unlicensed assistive personnel measure routine vital signs on stable clients.** 
+
+![The mechanical principle of measuring blood pressure using a sphygmomanometer. While Unlicensed Assistive Personnel frequently gather these routine vital signs on stable patients, the nurse retains full accountability for interpreting the clinical data.](https://wikipedia.org/wiki/Special:Redirect/file/Blood_pressure_measurement_principle.svg)
 
 Notice the word **stable** repeating? If a client is actively [hemorrhaging](https://en.wikipedia.org/wiki/Bleeding), crashing, or wildly unstable, taking their vital signs is no longer "routine"—it requires clinical [nursing judgment](https://en.wikipedia.org/wiki/Clinical_decision-making). You do not delegate that. 
 

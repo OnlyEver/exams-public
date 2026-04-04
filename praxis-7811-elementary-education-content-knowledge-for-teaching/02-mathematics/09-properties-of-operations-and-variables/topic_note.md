@@ -28,7 +28,12 @@ $70 + 21 = 91$
 Abstract algebra equations like $a(b + c)$ mean very little to an eight-year-old. To teach this properly, you must move from the concrete to the visual, and *then* to the abstract. 
 
 1. **[Base-Ten Blocks](https://en.wikipedia.org/wiki/Base_ten_blocks):** Start with physical reality. **Base-ten blocks are a physical [manipulative](https://en.wikipedia.org/wiki/Manipulative_%28mathematics_education%29) commonly used to demonstrate the [decomposition](https://en.wikipedia.org/wiki/Decomposition_%28mathematics%29) of numbers required for the distributive property.** You give the student seven "tens" rods and seven groups of three "ones" cubes. By physically separating the tens from the ones, they decompose the number and *feel* the math.
+
+![Base-ten blocks allow students to physically separate numbers into tens and ones, providing a tangible way to experience the decomposition required for the distributive property.](https://wikipedia.org/wiki/Special:Redirect/file/Dienes_blocks_used_by_a_8_year-old_student.png)
+
 2. **Area Models:** Next, move to paper. **Area models using divided [rectangles](https://en.wikipedia.org/wiki/Rectangle) are visually used to demonstrate the distributive property to elementary students.** Draw a rectangle that is $7$ units wide and $13$ units long. Draw a vertical line to split the length of $13$ into two smaller chunks: $10$ and $3$. Now, the student calculates the [area](https://en.wikipedia.org/wiki/Area) of the big rectangle ($7 \times 10$) and the small rectangle ($7 \times 3$). 
+
+![By splitting a rectangle's total area into smaller, manageable sections, area models provide a clear visual representation of how multiplication distributes over addition.](https://wikipedia.org/wiki/Special:Redirect/file/Illustration_for_the_area_of_a_rectangle.svg)
 
 By using these tools, **the distributive property allows a complex multiplication problem to be decomposed into simpler partial products.**
 
@@ -53,7 +58,11 @@ While the distributive property bridges multiplication and addition/subtraction,
 | **[Commutative](https://en.wikipedia.org/wiki/Commutative_property)** | **The commutative property states that changing the [sequence](https://en.wikipedia.org/wiki/Sequence) of numbers being added or multiplied does not change the final sum or product.** ($a + b = b + a$) | *Order doesn't matter.* If I hand you 3 [apples](https://en.wikipedia.org/wiki/Apple) then 2 apples, it's exactly the same as if I hand you 2 apples then 3 apples. |
 | **[Associative](https://en.wikipedia.org/wiki/Associative_property)** | **The associative property states that changing the [parenthetical](https://en.wikipedia.org/wiki/Bracket) grouping of numbers being added or multiplied does not change the final sum or product.** $(a + b) + c = a + (b + c)$ | *Who your friends are doesn't matter.* If you add a string of numbers, you can group them however you want to make the math easier! |
 
+![A visual proof of the commutative property: adding a group of 3 to a group of 2 yields the same result as adding a group of 2 to a group of 3.](https://wikipedia.org/wiki/Special:Redirect/file/Commutative_Addition.svg)
+
 *Teacher Tip:* If a student is adding $8 + 4 + 2$, the associative property lets them group the $(8 + 2)$ first to make a quick $10$, and then add the $4$ to get $14$. This is building [number sense](https://en.wikipedia.org/wiki/Number_sense)!
+
+![The associative property demonstrated with segmented rods, illustrating that different groupings of the same sequence of numbers do not alter the final sum's length.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionAsc.svg)
 
 ---
 
@@ -63,10 +72,14 @@ Let's clarify our terms. As your students transition from arithmetic to early al
 
 > **An algebraic expression is a mathematical phrase that can contain ordinary numbers, [variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29), and operational symbols.** 
 
+![A structural breakdown of algebraic notation, highlighting how variables interact with coefficients, operators, and constants to form expressions.](https://wikipedia.org/wiki/Special:Redirect/file/Algebraic_equation_notation.svg)
+
 Think of $3x + 7$ or $5y - 2$. These are expressions. But notice what is missing?
 **Unlike an [algebraic equation](https://en.wikipedia.org/wiki/Equation), an algebraic expression does not contain an [equals sign](https://en.wikipedia.org/wiki/Equals_sign).**
 
 An expression is like a [noun phrase](https://en.wikipedia.org/wiki/Noun_phrase) in [English](https://en.wikipedia.org/wiki/English_language): "The big red dog." It just sits there. It possesses value, but it doesn't make a complete claim. An *equation* is a complete sentence: "The big red dog *is* ($=$) sleeping." 
+
+![An algebraic equation is formed by setting two individual mathematical expressions equal to one another, much like combining phrases to form a complete sentence.](https://wikipedia.org/wiki/Special:Redirect/file/Equation_vs_Expression.png)
 
 Because an expression has no equals sign, you cannot "solve" it. You can only **evaluate** it. **Evaluating an algebraic expression involves substituting a specific number for the variable and then performing the [arithmetic operations](https://en.wikipedia.org/wiki/Arithmetic).** If you have the expression $2x + 4$ and I tell you $x$ is $3$, you evaluate it by doing $2(3) + 4 = 10$.
 
@@ -79,6 +92,8 @@ This is perhaps the most important [pedagogical](https://en.wikipedia.org/wiki/P
 In math, a variable has two distinct "faces":
 1. **The Specific Unknown:** **A variable can represent a specific but currently [unknown](https://en.wikipedia.org/wiki/Unknown_%28mathematics%29) numerical value in an algebraic equation.** (e.g., in $x + 5 = 12$, $x$ is hiding the number $7$. It's a mystery box waiting to be opened.)
 2. **The Changing Quantity:** **A variable can represent a [quantity](https://en.wikipedia.org/wiki/Quantity) that continuously changes in relation to another quantity within a mathematical pattern.** (e.g., $y = 2x$. If $x$ grows, $y$ grows with it. They are locked in a dance.)
+
+![Viewing a variable as a changing quantity builds the foundation for functions, where an input variable is processed by a rule to produce a corresponding output variable.](https://wikipedia.org/wiki/Special:Redirect/file/Function_machine2.svg)
 
 ### The Pedagogical Journey of the Variable
 
@@ -112,6 +127,9 @@ Instead of writing endless tables, we teach students to see the pattern and [gen
 Finally, let's talk about how numbers stack up against one another. In mathematics, **comparing two quantities mathematically determines if the quantities are [equal](https://en.wikipedia.org/wiki/Equality_%28mathematics%29), strictly greater than one another, or strictly less than one another.**
 
 We use the equals sign ($=$) when things perfectly balance. But when the scale tips, we introduce inequality symbols:
+
+![A balance scale serves as a powerful physical analogy for equations and inequalities: when quantities are exactly equal, the scale balances; when one is greater, the scale tips.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
+
 * **The [less-than symbol](https://en.wikipedia.org/wiki/Less-than_sign) (`<`) indicates that the numerical value on its left is strictly smaller than the numerical value on its right.** (e.g., $4 < 7$)
 * **The [greater-than symbol](https://en.wikipedia.org/wiki/Greater-than_sign) (`>`) indicates that the numerical value on its left is strictly larger than the numerical value on its right.** (e.g., $9 > 5$)
 

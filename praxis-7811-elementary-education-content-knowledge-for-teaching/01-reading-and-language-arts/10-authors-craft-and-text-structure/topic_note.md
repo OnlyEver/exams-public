@@ -6,6 +6,8 @@ This is the study of **Author's Craft and Text Structure**. We are going to brea
 
 Let’s dive into the gears.
 
+![Teaching reading comprehension requires showing students the "gears" of a text—how the author's choices drive meaning.](https://wikipedia.org/wiki/Special:Redirect/file/Animated_two_spur_gears_1_2.gif)
+
 ---
 
 ## Part 1: The Magic of Words (Word Choice, Tone, and Mood)
@@ -21,6 +23,8 @@ When we teach [vocabulary](https://en.wikipedia.org/wiki/Vocabulary), we start w
 
 Imagine an author describing a [house](https://en.wikipedia.org/wiki/House). They could call it a *[shack](https://en.wikipedia.org/wiki/Shack)*, a *[cabin](https://en.wikipedia.org/wiki/Log_cabin)*, or a *[cottage](https://en.wikipedia.org/wiki/Cottage)*. All three words share a similar denotation: a small, simple dwelling. But the *connotation* is wildly different! A "cottage" makes you think of cozy fires and [fairy tales](https://en.wikipedia.org/wiki/Fairy_tale). A "shack" makes you think of splintered wood and [poverty](https://en.wikipedia.org/wiki/Poverty). When you teach your students to look for connotation, you are teaching them to look for the author's hidden [fingerprints](https://en.wikipedia.org/wiki/Fingerprint).
 
+![While a "cottage" and a "shack" share the same literal denotation of a small dwelling, the word "cottage" carries positive, cozy connotations.](https://wikipedia.org/wiki/Special:Redirect/file/Country_cottage%2C_Inch_Island_-_geograph.org.uk_-_3951065_(cropped).jpg)
+
 ### Tone and Mood (The Classic Mix-Up)
 
 Here is where [word choice](https://en.wikipedia.org/wiki/Diction) does its heaviest lifting. Words create tone and mood. 
@@ -33,6 +37,8 @@ Think of Tone as the author's [voice](https://en.wikipedia.org/wiki/Writer%27s_v
 **🚨 The Classroom Reality:** **[Elementary students](https://en.wikipedia.org/wiki/Elementary_school) frequently confuse an author's tone with the reader's mood.** 
 Why? Because children are beautifully [egocentric](https://en.wikipedia.org/wiki/Egocentrism)! If a text makes a student feel sad (mood), they assume the author *is* sad (tone). 
 *How to teach it:* Ask your students to separate the sender from the receiver. "Tone is the author's [microphone](https://en.wikipedia.org/wiki/Microphone); Mood is your [headphones](https://en.wikipedia.org/wiki/Headphones). What is the author saying into the mic, and how does it make you feel when it hits your ears?"
+
+![Tone is the author's microphone: it amplifies the writer's specific attitude and perspective toward the subject matter.](https://wikipedia.org/wiki/Special:Redirect/file/Shure_mikrofon_55S.jpg)
 
 ### Sensory Details and Figurative Language
 
@@ -68,6 +74,8 @@ This structure **explains why an [event](https://en.wikipedia.org/wiki/Event_%28
 This structure **highlights the similarities and differences between two or more subjects.** Are we reading about [frogs](https://en.wikipedia.org/wiki/Frog) and [toads](https://en.wikipedia.org/wiki/Toad)? [Alligators](https://en.wikipedia.org/wiki/Alligator) and [crocodiles](https://en.wikipedia.org/wiki/Crocodile)? 
 *The tool of the trade:* **[Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) are standard visual tools used to teach compare and contrast text structures.** If you read a text and can instantly see a Venn diagram forming in your mind, you are reading compare and contrast.
 
+![Venn diagrams are essential visual tools for helping students map out compare and contrast text structures.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_diagram_of_legs_and_flying.svg)
+
 ### 4. Problem and Solution Text Structure
 Here, the author **introduces an issue and outlines one or more ways to resolve the issue.** This is heavily used in [persuasive texts](https://en.wikipedia.org/wiki/Persuasion) and [science writing](https://en.wikipedia.org/wiki/Science_journalism) (e.g., "The [ocean](https://en.wikipedia.org/wiki/Ocean) is filling with [plastic](https://en.wikipedia.org/wiki/Plastic_pollution), so scientists invented a new [biodegradable material](https://en.wikipedia.org/wiki/Biodegradation)..."). 
 
@@ -91,10 +99,14 @@ Here is the dashboard you must teach them to use:
 *   **[Captions](https://en.wikipedia.org/wiki/Photo_caption):** Short descriptions placed directly underneath or beside an image to explain the image's context. 
 *   **[Sidebars](https://en.wikipedia.org/wiki/Sidebar_%28publishing%29):** Distinct text boxes that provide supplementary information related to the main text topic. 
 
+![Text features like a table of contents act as a navigational dashboard, helping students predict what an informational text will cover.](https://wikipedia.org/wiki/Special:Redirect/file/Beginning_of_table_of_contents_of_My_Secret_LIfe.png)
+
 **🚨 The Classroom Reality:** **Elementary students often skip informational text features unless specifically prompted by an educator.** 
 To an eight-year-old, a sidebar looks like an [advertisement](https://en.wikipedia.org/wiki/Advertising) on a [website](https://en.wikipedia.org/wiki/Website): something to be ignored to get to the "real" text. They will look at a [photograph](https://en.wikipedia.org/wiki/Photograph) of a [volcano](https://en.wikipedia.org/wiki/Volcano), but they won't read the caption explaining *which* volcano it is. 
 
 *How to teach it:* **[Explicit instruction](https://en.wikipedia.org/wiki/Direct_instruction) on text features requires teachers to model how to use [visual aids](https://en.wikipedia.org/wiki/Visual_aid) *before* reading the main text.** You cannot just say, "Read chapter four." You must put the book under the [document camera](https://en.wikipedia.org/wiki/Document_camera) and say, "Before we read a single paragraph, let's look at this photograph. Let's read the caption together. Let's look at this bold heading. What do we think this page is going to be about?" You have to prove to them that the dashboard is useful!
+
+![Using a document camera allows teachers to explicitly model how to analyze text features alongside the class before reading the main passage.](https://wikipedia.org/wiki/Special:Redirect/file/Samsung_Document_Camera.jpg)
 
 ---
 
@@ -139,9 +151,13 @@ The conservationist’s text might use words with positive *connotations* (majes
 
 The farmer’s text might use words with negative *connotations* (vicious, dangerous, [pests](https://en.wikipedia.org/wiki/Pest_%28organism%29)), employ a *problem and solution* text structure (Problem: Wolves eat sheep. Solution: [Fences](https://en.wikipedia.org/wiki/Fence) and [traps](https://en.wikipedia.org/wiki/Trapping)), and present entirely different "facts" about wolf [behavior](https://en.wikipedia.org/wiki/Ethology).
 
+![When comparing texts, students learn that a wildlife conservationist and a sheep farmer will use entirely different text structures and connotations to describe the exact same wolf.](https://wikipedia.org/wiki/Special:Redirect/file/Front_view_of_a_resting_Canis_lupus_ssp.jpg)
+
 When you teach a student to compare these texts, you are teaching them that everything they read is constructed by a [human being](https://en.wikipedia.org/wiki/Human) with a perspective. You are empowering them to look past the surface, identify the author's craft, and think for themselves. 
 
 ***
 
 **Your Takeaway as a Teacher:**
 When you sit for your [Content Knowledge exam](https://en.wikipedia.org/wiki/Praxis_test), remember that you are not just being tested on whether *you* know what a metaphor or an index is. You are being tested on whether you understand how a child encounters these concepts. Look for the [distractor answers](https://en.wikipedia.org/wiki/Multiple_choice) that highlight common student errors (like confusing mood and tone, or getting tricked by the word "I" in dialogue). Understand the gears, know where the kids get their fingers pinched, and you will do brilliantly.
+
+![When taking your Content Knowledge exam, always consider how a child processes reading concepts to identify the correct pedagogical approach.](https://wikipedia.org/wiki/Special:Redirect/file/SAT-Grid-In-Example.svg)

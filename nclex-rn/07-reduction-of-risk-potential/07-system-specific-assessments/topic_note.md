@@ -8,7 +8,7 @@ Let’s break down the definitive, systems-based approach to patient assessment.
 
 ## 1. The Control Center: Neurological Assessments
 
-The [brain](https://en.wikipedia.org/wiki/Brain) is the body’s master computer, tightly sealed inside a bony vault. Because we can't look at it directly, we have to evaluate its outputs: movement, speech, and reflexes.
+The [brain](https://en.wikipedia.org/wiki/Brain) is the body’s master computer, tightly sealed inside a bony vault. Because we can't look at it directly, we have to evaluate its outputs: movement, speech, and [reflexes](https://en.wikipedia.org/wiki/Reflex).
 
 ### The Glasgow Coma Scale (GCS)
 When assessing [consciousness](https://en.wikipedia.org/wiki/Consciousness), we use the **[Glasgow Coma Scale](https://en.wikipedia.org/wiki/Glasgow_Coma_Scale)**, which elegantly evaluates a patient's **eye opening response**, **verbal response**, and **motor response**. 
@@ -16,25 +16,29 @@ When assessing [consciousness](https://en.wikipedia.org/wiki/Consciousness), we 
 * **A Glasgow Coma Scale score of 8 or less indicates severe [brain injury](https://en.wikipedia.org/wiki/Traumatic_brain_injury) or [coma](https://en.wikipedia.org/wiki/Coma).** (Remember the rhyme: *“Less than eight, [intubate](https://en.wikipedia.org/wiki/Tracheal_intubation)!”*)
 
 ### Windows to the Brain: Pupils
-The [eyes](https://en.wikipedia.org/wiki/Human_eye) are literal extensions of the brain. When we shine a light into them, we are testing the circuitry of the [optic](https://en.wikipedia.org/wiki/Optic_nerve) and oculomotor nerves. 
-* **Pupil reactivity to light indicates the functional intactness of the oculomotor nerve** (Cranial Nerve III). 
-* We use the acronym **PERRLA**, which stands for **Pupils Equal, Round, Reactive to Light, and Accommodation**.
-* What if the pressure inside the brain is dangerously high? The swelling brain will physically squish the oculomotor nerve. Because of this, **asymmetrical [pupils](https://en.wikipedia.org/wiki/Pupil) can indicate a severe brain injury or herniation**. This is an absolute [emergency](https://en.wikipedia.org/wiki/Medical_emergency).
+The [eyes](https://en.wikipedia.org/wiki/Human_eye) are literal extensions of the brain. When we shine a light into them, we are testing the circuitry of the [optic](https://en.wikipedia.org/wiki/Optic_nerve) and [oculomotor nerves](https://en.wikipedia.org/wiki/Oculomotor_nerve). 
+* **[Pupil reactivity to light](https://en.wikipedia.org/wiki/Pupillary_light_reflex) indicates the functional intactness of the oculomotor nerve** (Cranial Nerve III). 
+* We use the acronym **[PERRLA](https://en.wikipedia.org/wiki/PERRLA)**, which stands for **Pupils Equal, Round, Reactive to Light, and Accommodation**.
+* What if the pressure inside the brain is dangerously high? The swelling brain will physically squish the oculomotor nerve. Because of this, **asymmetrical [pupils](https://en.wikipedia.org/wiki/Pupil) can indicate a severe brain injury or [herniation](https://en.wikipedia.org/wiki/Brain_herniation)**. This is an absolute [emergency](https://en.wikipedia.org/wiki/Medical_emergency).
+
+![Asymmetrical pupils (anisocoria) can be a critical sign of rising intracranial pressure and oculomotor nerve compression.](https://wikipedia.org/wiki/Special:Redirect/file/Anizokoria.JPG)
 
 ### Recognizing Neurological Crises
-Sometimes, the hardware is damaged focally. **Unilateral weakness during a motor assessment strongly suggests a focal neurological lesion like a [stroke](https://en.wikipedia.org/wiki/Stroke).** To assess this quickly in the field, we use the **Cincinnati Prehospital Stroke Scale**, which screens for three critical failures:
-1. The presence of **facial droop**.
+Sometimes, the hardware is damaged focally. **Unilateral weakness during a motor assessment strongly suggests a focal neurological lesion like a [stroke](https://en.wikipedia.org/wiki/Stroke).** To assess this quickly in the field, we use the **[Cincinnati Prehospital Stroke Scale](https://en.wikipedia.org/wiki/Cincinnati_Prehospital_Stroke_Scale)**, which screens for three critical failures:
+1. The presence of **[facial droop](https://en.wikipedia.org/wiki/Facial_nerve_paralysis)**.
 2. The presence of **arm drift**.
 3. **Abnormal speech patterns**.
 
-If the brain begins swelling globally, it tries to fight for its own blood supply. This fight manifests as **Cushing's triad**, which consists of **severe [bradycardia](https://en.wikipedia.org/wiki/Bradycardia), irregular respirations, and a [widening pulse pressure](https://en.wikipedia.org/wiki/Pulse_pressure)**. 
+![The FAST mnemonic provides a rapid, field-ready assessment tool similar to the Cincinnati Prehospital Stroke Scale for detecting acute focal neurological deficits.](https://wikipedia.org/wiki/Special:Redirect/file/Act_FAST.svg)
 
-> **Crucial Warning:** Do not confuse Cushing's triad with [shock](https://en.wikipedia.org/wiki/Shock_%28circulatory%29)! Shock causes a fast heart rate. Cushing's triad is a **late and life-threatening sign of increased intracranial pressure**. If you see this, the brain is quite literally running out of room.
+If the brain begins swelling globally, it tries to fight for its own blood supply. This fight manifests as **[Cushing's triad](https://en.wikipedia.org/wiki/Cushing_reflex)**, which consists of **severe [bradycardia](https://en.wikipedia.org/wiki/Bradycardia), irregular respirations, and a [widening pulse pressure](https://en.wikipedia.org/wiki/Pulse_pressure)**. 
+
+> **Crucial Warning:** Do not confuse Cushing's triad with [shock](https://en.wikipedia.org/wiki/Shock_%28circulatory%29)! Shock causes a fast [heart rate](https://en.wikipedia.org/wiki/Heart_rate). Cushing's triad is a **late and life-threatening sign of [increased intracranial pressure](https://en.wikipedia.org/wiki/Intracranial_hypertension)**. If you see this, the brain is quite literally running out of room.
 
 ### Behavioral and Sedation Scales
 Sometimes the issue isn't structural damage, but a software glitch caused by chemicals or lack thereof. 
-* We use the **CIWA-Ar** clinical scale to evaluate the severity of **[alcohol withdrawal symptoms](https://en.wikipedia.org/wiki/Alcohol_withdrawal_syndrome)**.
-* In the intensive care unit, we use the **[Richmond Agitation-Sedation Scale (RASS)](https://en.wikipedia.org/wiki/Richmond_Agitation-Sedation_Scale)** to precisely assess the **level of sedation and agitation** in critically ill patients.
+* We use the **[CIWA-Ar](https://en.wikipedia.org/wiki/Clinical_Institute_Withdrawal_Assessment_for_Alcohol)** clinical scale to evaluate the severity of **[alcohol withdrawal symptoms](https://en.wikipedia.org/wiki/Alcohol_withdrawal_syndrome)**.
+* In the [intensive care unit](https://en.wikipedia.org/wiki/Intensive_care_unit), we use the **[Richmond Agitation-Sedation Scale (RASS)](https://en.wikipedia.org/wiki/Richmond_Agitation-Sedation_Scale)** to precisely assess the **level of sedation and agitation** in critically ill patients.
 
 ---
 
@@ -43,12 +47,14 @@ Sometimes the issue isn't structural damage, but a software glitch caused by che
 Think of the [heart](https://en.wikipedia.org/wiki/Heart) as a mechanical pump and the [blood vessels](https://en.wikipedia.org/wiki/Blood_vessel) as plumbing. If the pump fails, or the pipes leak, tissue dies.
 
 ### Assessing the Pump
-First, we listen to the pump itself. **An apical pulse is assessed by placing the [stethoscope](https://en.wikipedia.org/wiki/Stethoscope) at the fifth intercostal space at the left midclavicular line.** This is the point of maximal impulse. Because medications like [digoxin](https://en.wikipedia.org/wiki/Digoxin) directly affect the heart's electrical timing, **the apical pulse must be auscultated for one full minute prior to administering digitalis medications.**
+First, we listen to the pump itself. **An [apical pulse](https://en.wikipedia.org/wiki/Apex_beat) is assessed by placing the [stethoscope](https://en.wikipedia.org/wiki/Stethoscope) at the fifth [intercostal space](https://en.wikipedia.org/wiki/Intercostal_space) at the left midclavicular line.** This is the point of maximal impulse. Because medications like [digoxin](https://en.wikipedia.org/wiki/Digoxin) directly affect the heart's electrical timing, **the apical pulse must be [auscultated](https://en.wikipedia.org/wiki/Auscultation) for one full minute prior to administering digitalis medications.**
 
-What if the pump is weakening? **The presence of an S3 heart sound in an older adult is an early auscultatory sign of [heart failure](https://en.wikipedia.org/wiki/Heart_failure).** It sounds like a sloppy, sloshing *lub-dub-DUB*, indicating blood is crashing into an already overfilled ventricle.
+What if the pump is weakening? **The presence of an [S3 heart sound](https://en.wikipedia.org/wiki/Third_heart_sound) in an older adult is an early auscultatory sign of [heart failure](https://en.wikipedia.org/wiki/Heart_failure).** It sounds like a sloppy, sloshing *lub-dub-DUB*, indicating blood is crashing into an already overfilled [ventricle](https://en.wikipedia.org/wiki/Ventricle_%28heart%29).
 
 ### Assessing the Pipes (Perfusion)
-We must ensure blood is reaching the very tips of the fingers and toes. We test this through **capillary refill time**, where **the normal range is less than 3 seconds.** If you press a nail bed and the color takes forever to return, a **capillary refill time greater than 3 seconds indicates poor peripheral tissue perfusion.**
+We must ensure blood is reaching the very tips of the fingers and toes. We test this through **[capillary refill time](https://en.wikipedia.org/wiki/Capillary_refill)**, where **the normal range is less than 3 seconds.** If you press a nail bed and the color takes forever to return, a **capillary refill time greater than 3 seconds indicates poor peripheral [tissue perfusion](https://en.wikipedia.org/wiki/Perfusion).**
+
+![Evaluating capillary refill time offers a quick clinical window into peripheral tissue perfusion.](https://wikipedia.org/wiki/Special:Redirect/file/Capillary_refill_test_on_index_finger_pulp..jpg)
 
 We also feel the pressure waves of the blood—the pulses. **Peripheral pulses are graded on a scale:**
 * **0** indicates an **absent pulse**.
@@ -56,7 +62,9 @@ We also feel the pressure waves of the blood—the pulses. **Peripheral pulses a
 * **3+ or 4+** indicates a **bounding pulse** (think fluid overload or extreme anxiety).
 
 ### Fluid Overload and Heart Failure
-If the right side of the heart is failing, blood backs up into the venous system. Imagine a traffic jam on the highway leading to the heart. This backup becomes visible in the neck. **Jugular venous distention (JVD) is properly assessed with the patient positioned [supine](https://en.wikipedia.org/wiki/Supine_position) at a 30 to 45-degree angle.** If the neck veins bulge at this angle, **the presence of jugular venous distention indicates right-sided heart failure or systemic fluid volume overload.**
+If the right side of the heart is failing, blood backs up into the venous system. Imagine a traffic jam on the highway leading to the heart. This backup becomes visible in the neck. **[Jugular venous distention (JVD)](https://en.wikipedia.org/wiki/Jugular_venous_pressure) is properly assessed with the patient positioned [supine](https://en.wikipedia.org/wiki/Supine_position) at a 30 to 45-degree angle.** If the neck veins bulge at this angle, **the presence of jugular venous distention indicates right-sided heart failure or [systemic fluid volume overload](https://en.wikipedia.org/wiki/Hypervolemia).**
+
+![Jugular venous distention is a classic sign of right-sided heart failure and systemic fluid overload, best assessed at a 30 to 45-degree angle.](https://wikipedia.org/wiki/Special:Redirect/file/Elevated_JVP.JPG)
 
 Gravity will pull that extra fluid down into the tissues, causing [edema](https://en.wikipedia.org/wiki/Edema). **Peripheral pitting edema is graded on a scale of 1+ to 4+:**
 * **A 1+ pitting edema describes a 2-millimeter skin depression that disappears rapidly.**
@@ -66,12 +74,14 @@ If a patient is bedridden, gravity pulls fluid to their backside, not their feet
 
 ### Deep Vein Thrombosis (DVT)
 Sometimes the plumbing gets clogged. A **[deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis) is assessed by examining the lower extremities for unilateral swelling, redness, and warmth.** 
-*Note well:* In the old days, nurses flexed the foot to look for calf pain. Stop doing this! **Homan's sign is no longer recommended for deep vein thrombosis assessment due to low diagnostic reliability** (and the risk of dislodging the clot).
+*Note well:* In the old days, nurses flexed the foot to look for calf pain. Stop doing this! **[Homan's sign](https://en.wikipedia.org/wiki/Homans%27_sign) is no longer recommended for deep vein thrombosis assessment due to low diagnostic reliability** (and the risk of dislodging the clot).
+
+![Deep vein thrombosis often presents as unilateral leg swelling, warmth, and redness due to a stationary blood clot in a deep vein.](https://wikipedia.org/wiki/Special:Redirect/file/Blausen_0290_DeepVeinThrombosis.png)
 
 ### Shock and Kidney Perfusion
 If the body is bleeding out or losing fluid, what is the *very first* thing it does? It panics and pumps faster. **[Tachycardia](https://en.wikipedia.org/wiki/Tachycardia) is often the first physiological sign of clinical deterioration or shock.** 
 
-If the pump is failing or volume is low, the [kidneys](https://en.wikipedia.org/wiki/Kidney) stop making [urine](https://en.wikipedia.org/wiki/Urine) to save water. Therefore, **a sudden decrease in urine output below 30 milliliters per hour indicates potential decreased [cardiac output](https://en.wikipedia.org/wiki/Cardiac_output)** OR **potential acute kidney impairment.** Watch that [catheter](https://en.wikipedia.org/wiki/Urinary_catheterization) bag; it is a real-time window into cardiac output!
+If the pump is failing or volume is low, the [kidneys](https://en.wikipedia.org/wiki/Kidney) stop making [urine](https://en.wikipedia.org/wiki/Urine) to save water. Therefore, **a sudden decrease in urine output below 30 milliliters per hour indicates potential decreased [cardiac output](https://en.wikipedia.org/wiki/Cardiac_output)** OR **potential [acute kidney impairment](https://en.wikipedia.org/wiki/Acute_kidney_injury).** Watch that [catheter](https://en.wikipedia.org/wiki/Urinary_catheterization) bag; it is a real-time window into cardiac output!
 
 ---
 
@@ -80,45 +90,53 @@ If the pump is failing or volume is low, the [kidneys](https://en.wikipedia.org/
 [Oxygen](https://en.wikipedia.org/wiki/Oxygen) is the fuel that keeps the human machine running. Without it, the system crashes rapidly. 
 
 ### The Earliest Sign of Hypoxia
-Long before a patient turns blue, their brain will panic from the lack of oxygen. **Restlessness or altered mental status is often the earliest behavioral sign of [hypoxia](https://en.wikipedia.org/wiki/Hypoxia_%28medical%29).** 
+Long before a patient turns blue, their brain will panic from the lack of oxygen. **Restlessness or [altered mental status](https://en.wikipedia.org/wiki/Altered_level_of_consciousness) is often the earliest behavioral sign of [hypoxia](https://en.wikipedia.org/wiki/Hypoxia_%28medical%29).** 
 
 ### Respiratory Mechanics
 * **The normal adult resting [respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate) is 12 to 20 breaths per minute.**
-* **Bradypnea** is defined as a resting respiratory rate of **less than 12 breaths per minute**.
-* **Tachypnea** is defined as a resting respiratory rate of **greater than 20 breaths per minute**.
+* **[Bradypnea](https://en.wikipedia.org/wiki/Bradypnea)** is defined as a resting respiratory rate of **less than 12 breaths per minute**.
+* **[Tachypnea](https://en.wikipedia.org/wiki/Tachypnea)** is defined as a resting respiratory rate of **greater than 20 breaths per minute**.
 
 If a patient is struggling to breathe, do not wait for an order to help them mechanically. **Elevating the head of the bed is a primary immediate intervention for acute respiratory distress.** Let gravity pull the [diaphragm](https://en.wikipedia.org/wiki/Thoracic_diaphragm) down so the [lungs](https://en.wikipedia.org/wiki/Lung) can expand!
 
 ### Auscultating Lung Sounds
 Listen to the air moving through the bellows. Abnormal acoustics tell you exactly what is physically wrong inside:
-* **Crackles auscultated in the lungs indicate the presence of fluid in the alveoli or small airways.** (Imagine blowing air through a straw into a glass of milk—that popping sound is a crackle).
+* **[Crackles](https://en.wikipedia.org/wiki/Crackles) auscultated in the lungs indicate the presence of fluid in the [alveoli](https://en.wikipedia.org/wiki/Pulmonary_alveolus) or small airways.** (Imagine blowing air through a straw into a glass of milk—that popping sound is a crackle).
 * **[Wheezing](https://en.wikipedia.org/wiki/Wheeze) auscultated in the lungs indicates narrowing or obstruction of the lower airways.** (Like pinching the neck of a balloon as air escapes, making a musical whistle).
-* **Stridor is a high-pitched respiratory sound indicating dangerous upper [airway obstruction](https://en.wikipedia.org/wiki/Airway_obstruction).** This is a medical emergency. The [windpipe](https://en.wikipedia.org/wiki/Trachea) is closing!
+* **[Stridor](https://en.wikipedia.org/wiki/Stridor) is a high-pitched respiratory sound indicating dangerous upper [airway obstruction](https://en.wikipedia.org/wiki/Airway_obstruction).** This is a medical emergency. The [windpipe](https://en.wikipedia.org/wiki/Trachea) is closing!
 
 ### Oxygen Saturation & Chronic Hypoxia
 We measure oxygen using light. **[Pulse oximetry](https://en.wikipedia.org/wiki/Pulse_oximetry) measures the percentage of arterial [hemoglobin](https://en.wikipedia.org/wiki/Hemoglobin) saturated with oxygen.** However, it relies on blood flow to the fingertips. 
-* **Clinical [hypothermia](https://en.wikipedia.org/wiki/Hypothermia) causes severe peripheral vasoconstriction.**
+* **Clinical [hypothermia](https://en.wikipedia.org/wiki/Hypothermia) causes severe peripheral [vasoconstriction](https://en.wikipedia.org/wiki/Vasoconstriction).**
 * This **peripheral vasoconstriction can lead to falsely low pulse oximetry readings on the extremities.** If the hands are freezing, the machine will lie to you.
 
-If hypoxia isn't acute but lasts for years (like in [COPD](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease)), the body structurally changes the fingers to grow more capillaries. **[Clubbing of the fingers](https://en.wikipedia.org/wiki/Nail_clubbing) is an assessment finding characterized by an increased angle between the nail base and the skin.** Seeing this **finger clubbing indicates the presence of chronic systemic tissue hypoxia.**
+![A pulse oximeter measures the percentage of oxygen-saturated hemoglobin but can provide inaccurate readings if severe peripheral vasoconstriction is present.](https://wikipedia.org/wiki/Special:Redirect/file/Saturometre_2.jpg)
+
+If hypoxia isn't acute but lasts for years (like in [COPD](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease)), the body structurally changes the fingers to grow more [capillaries](https://en.wikipedia.org/wiki/Capillary). **[Clubbing of the fingers](https://en.wikipedia.org/wiki/Nail_clubbing) is an assessment finding characterized by an increased angle between the nail base and the skin.** Seeing this **finger clubbing indicates the presence of chronic systemic tissue hypoxia.**
+
+![Nail clubbing involves a distinct change in the angle of the nail bed, serving as a classic clinical indicator of chronic systemic hypoxia.](https://wikipedia.org/wiki/Special:Redirect/file/Clubbing.svg)
 
 ### Preventing Pulmonary Collapse
 After surgery, it hurts to breathe deeply, so patients take shallow breaths. This leaves the tiny alveoli collapsed. **Inadequate lung expansion significantly increases the risk of developing postoperative [atelectasis](https://en.wikipedia.org/wiki/Atelectasis).** To fight this, we use a device where **[incentive spirometry](https://en.wikipedia.org/wiki/Incentive_spirometer) volume measurements evaluate a patient's lung expansion capacity**, forcing them to pop those alveoli open.
+
+![An incentive spirometer encourages deep, sustained inhalations to fully expand the alveoli and prevent postoperative atelectasis.](https://wikipedia.org/wiki/Special:Redirect/file/Incentive_Spirometer.png)
 
 ---
 
 ## 4. The Armor and the Engine: Skin, Wounds, and Nutrition
 
-The skin is our armor. [Wound healing](https://en.wikipedia.org/wiki/Wound_healing) requires excellent blood flow, great building materials ([protein](https://en.wikipedia.org/wiki/Protein_%28nutrient%29)), and a pristine environment. 
+The [skin](https://en.wikipedia.org/wiki/Human_skin) is our armor. [Wound healing](https://en.wikipedia.org/wiki/Wound_healing) requires excellent blood flow, great building materials ([protein](https://en.wikipedia.org/wiki/Protein_%28nutrient%29)), and a pristine environment. 
 
 ### Risk Assessments for Pressure Injuries
-We use **[The Braden Scale](https://en.wikipedia.org/wiki/Braden_Scale_for_Predicting_Pressure_Ulcer_Risk)** to assess pressure injury risk. **A lower numerical score on the Braden Scale indicates a higher risk of developing pressure injuries.** It elegantly evaluates six distinct areas:
+We use **[The Braden Scale](https://en.wikipedia.org/wiki/Braden_Scale_for_Predicting_Pressure_Ulcer_Risk)** to assess pressure injury risk. **A lower numerical score on the Braden Scale indicates a higher risk of developing [pressure injuries](https://en.wikipedia.org/wiki/Pressure_ulcer).** It elegantly evaluates six distinct areas:
 1. **Sensory perception** (Can they feel the pain of [ischemia](https://en.wikipedia.org/wiki/Ischemia)?)
 2. **Skin moisture** (Is the skin softening from sweat or urine?)
 3. **Patient activity** (Are they out of bed?)
 4. **Patient mobility** (Can they change positions?)
 5. **Patient nutrition** (Do they have fuel to rebuild?)
 6. **Friction and shear** (Is the skin tearing on the sheets?)
+
+![The Braden Scale evaluates the risk of developing pressure injuries, which progressively damage deeper layers of tissue if not mitigated.](https://wikipedia.org/wiki/Special:Redirect/file/Schema_stades_escarres.svg)
 
 ### Assessing Healing Wounds (REEDA)
 When inspecting a [surgical incision](https://en.wikipedia.org/wiki/Surgical_incision) or localized wound, **the REEDA acronym is used to assess** its status. 
@@ -135,41 +153,43 @@ To heal a wound, the body needs protein. **[Serum albumin](https://en.wikipedia.
 
 ### The Great Saboteur: Diabetes Mellitus
 Sugar is highly abrasive to tiny blood vessels. **[Diabetes mellitus](https://en.wikipedia.org/wiki/Diabetes) impairs peripheral blood flow**, making it **a major systemic risk factor for delayed wound healing.**
-To know if a patient's blood sugar has been controlled over time, we look at their [red blood cells](https://en.wikipedia.org/wiki/Red_blood_cell). **[Hemoglobin A1c](https://en.wikipedia.org/wiki/Glycated_hemoglobin) blood tests measure the average blood glucose level over the past two to three months.** 
+To know if a patient's [blood sugar](https://en.wikipedia.org/wiki/Blood_sugar) has been controlled over time, we look at their [red blood cells](https://en.wikipedia.org/wiki/Red_blood_cell). **[Hemoglobin A1c](https://en.wikipedia.org/wiki/Glycated_hemoglobin) blood tests measure the average blood glucose level over the past two to three months.** 
 * **Elevated Hemoglobin A1c levels indicate poorly controlled diabetes mellitus.**
 * This **poorly controlled diabetes mellitus increases the risk of [microvascular complications](https://en.wikipedia.org/wiki/Microangiopathy) and delayed tissue healing.**
 
 ### Pigmentation Considerations
 Skin assessment must adapt to the patient's [melanin](https://en.wikipedia.org/wiki/Melanin) levels. 
-* **[Cyanosis](https://en.wikipedia.org/wiki/Cyanosis) in dark-skinned individuals is best assessed by examining the oral mucosa or [conjunctiva](https://en.wikipedia.org/wiki/Conjunctiva).**
+* **[Cyanosis](https://en.wikipedia.org/wiki/Cyanosis) in dark-skinned individuals is best assessed by examining the [oral mucosa](https://en.wikipedia.org/wiki/Oral_mucosa) or [conjunctiva](https://en.wikipedia.org/wiki/Conjunctiva).**
 * **[Jaundice](https://en.wikipedia.org/wiki/Jaundice) in dark-skinned individuals is best assessed by examining the [sclera](https://en.wikipedia.org/wiki/Sclera) or the [hard palate](https://en.wikipedia.org/wiki/Hard_palate).**
+
+![Jaundice in individuals with higher melanin levels is most reliably assessed by examining the sclera of the eyes or the hard palate.](https://wikipedia.org/wiki/Special:Redirect/file/Jaundice.jpg)
 
 ---
 
 ## 5. Navigation, Gravity, and Senses: Fall Risks
 
-If the nervous system, muscles, or senses fail, gravity wins. Falls are devastating. We proactively measure fall risk using **The Morse Fall Scale**, where **a higher numerical score indicates a higher risk for falls.** This scale assigns risk points based on six parameters:
+If the nervous system, muscles, or senses fail, gravity wins. Falls are devastating. We proactively measure fall risk using **The Morse Fall Scale**, where **a higher numerical score indicates a higher risk for [falls](https://en.wikipedia.org/wiki/Fall_%28accident%29).** This scale assigns risk points based on six parameters:
 1. **A patient's history of falling.**
 2. **The presence of secondary medical diagnoses.**
 3. **The use of ambulatory aids like [crutches](https://en.wikipedia.org/wiki/Crutch) or [walkers](https://en.wikipedia.org/wiki/Walker_%28mobility%29).**
-4. **The presence of an [intravenous line](https://en.wikipedia.org/wiki/Intravenous_therapy) or saline lock** (an IV pole is a tripping hazard!).
+4. **The presence of an [intravenous line](https://en.wikipedia.org/wiki/Intravenous_therapy) or [saline lock](https://en.wikipedia.org/wiki/Peripheral_venous_catheter)** (an IV pole is a tripping hazard!).
 5. **Impaired patient [gait](https://en.wikipedia.org/wiki/Gait_%28human%29).**
 6. **Impaired or overestimated mental status** (patients who *think* they can walk, but can't).
 
 ### Assessing Senses and Muscle Strength
 You must assess a patient's interaction with the world:
-* **[Visual impairment](https://en.wikipedia.org/wiki/Visual_impairment) significantly increases a patient's risk for accidental falls.** We test distance vision because if they can't see the obstacle, they will trip. **The Snellen chart evaluates distance visual acuity.**
+* **[Visual impairment](https://en.wikipedia.org/wiki/Visual_impairment) significantly increases a patient's risk for accidental falls.** We test distance vision because if they can't see the obstacle, they will trip. **The [Snellen chart](https://en.wikipedia.org/wiki/Snellen_chart) evaluates distance [visual acuity](https://en.wikipedia.org/wiki/Visual_acuity).**
 * **The whisper test screens for high-frequency [hearing loss](https://en.wikipedia.org/wiki/Hearing_loss) in clinical settings.**
 * **Decreased [tactile sensation](https://en.wikipedia.org/wiki/Somatosensory_system) increases the risk of unrecognized thermal or mechanical injuries.** (If a diabetic steps on a tack, they may not feel it). **Monofilament testing evaluates the loss of protective tactile sensation in the feet.**
 
-We also assess power. **Muscle strength is clinically graded on a scale ranging from 0 to 5:**
+We also assess power. **[Muscle strength](https://en.wikipedia.org/wiki/Physical_strength) is clinically graded on a scale ranging from 0 to 5:**
 * **A muscle strength grade of 5 indicates normal strength against full applied resistance.**
 * **A muscle strength grade of 0 indicates no visible or palpable muscle contraction.**
 
 ### The Postural Threat: Orthostatic Hypotension
 When a patient stands, gravity pulls blood to their legs. A healthy vascular system clamps down immediately to push blood back up to the brain. If it fails, the patient faints. 
-* **Assessing for orthostatic hypotension involves measuring [blood pressure](https://en.wikipedia.org/wiki/Blood_pressure) and heart rate in supine, sitting, and standing positions.**
-* **A drop in systolic blood pressure of at least 20 mmHg upon standing defines orthostatic hypotension.**
+* **Assessing for [orthostatic hypotension](https://en.wikipedia.org/wiki/Orthostatic_hypotension) involves measuring [blood pressure](https://en.wikipedia.org/wiki/Blood_pressure) and [heart rate](https://en.wikipedia.org/wiki/Heart_rate) in supine, sitting, and standing positions.**
+* **A drop in [systolic blood pressure](https://en.wikipedia.org/wiki/Systolic) of at least 20 mmHg upon standing defines orthostatic hypotension.**
 * Because the brain loses blood pressure and the patient gets dizzy, **orthostatic hypotension significantly increases a patient's fall risk upon [ambulation](https://en.wikipedia.org/wiki/Walking).**
 
 ---
@@ -180,12 +200,16 @@ Finally, we assess the [gut](https://en.wikipedia.org/wiki/Gastrointestinal_trac
 
 ### Swallowing and Aspiration
 Can the patient safely route food into the [esophagus](https://en.wikipedia.org/wiki/Esophagus) instead of the lungs? **[Dysphagia](https://en.wikipedia.org/wiki/Dysphagia) is the medical term for difficulty swallowing.** It is incredibly dangerous because **dysphagia significantly increases a patient's risk of dangerous [pulmonary aspiration](https://en.wikipedia.org/wiki/Pulmonary_aspiration).** 
-* How do we test the plumbing gates? **Aspiration risk is clinically assessed by evaluating the patient's gag reflex and ability to swallow water safely.**
+* How do we test the plumbing gates? **Aspiration risk is clinically assessed by evaluating the patient's [gag reflex](https://en.wikipedia.org/wiki/Pharyngeal_reflex) and ability to swallow water safely.**
+
+![A barium swallow study demonstrating pulmonary aspiration, which occurs when a patient with dysphagia fails to safely route contents into the esophagus.](https://wikipedia.org/wiki/Special:Redirect/file/Aspiration_on_barium_swallow.jpg)
 
 ### Auscultating the Abdomen
 The [intestines](https://en.wikipedia.org/wiki/Intestine) are a muscular tube constantly squeezing fluid and gas. 
-* **Normal bowel sounds occur at a rate of 5 to 30 times per minute.**
-* If the gut has stopped entirely (a paralytic ileus), it goes dead silent. But you cannot rush this assessment. **Absent bowel sounds must be confirmed by listening continuously for five minutes in each [abdominal quadrant](https://en.wikipedia.org/wiki/Quadrants_and_regions_of_abdomen).** 
+* **Normal [bowel sounds](https://en.wikipedia.org/wiki/Bowel_sound) occur at a rate of 5 to 30 times per minute.**
+* If the gut has stopped entirely (a [paralytic ileus](https://en.wikipedia.org/wiki/Ileus)), it goes dead silent. But you cannot rush this assessment. **Absent bowel sounds must be confirmed by listening continuously for five minutes in each [abdominal quadrant](https://en.wikipedia.org/wiki/Quadrants_and_regions_of_abdomen).** 
+
+![Auscultation of bowel sounds must be systematically performed across all four abdominal quadrants to accurately assess gastrointestinal motility.](https://wikipedia.org/wiki/Special:Redirect/file/Blausen_0005_AbdominopelvicQuadrants.png)
 
 ---
 

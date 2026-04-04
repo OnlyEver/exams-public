@@ -16,6 +16,8 @@ But this is a massive, structural [misconception](https://en.wikipedia.org/wiki/
 
 > **Relational Equivalence:** **The equals sign represents a relationship of [equivalence](https://en.wikipedia.org/wiki/Equality_%28mathematics%29) between two [mathematical expressions](https://en.wikipedia.org/wiki/Expression_%28mathematics%29).** It does not mean "compute this." It literally means **"is the same value as."**
 
+![The first recorded use of the equals sign by Robert Recorde in 1557. Recorde chose two parallel lines of the same length because "no two things can be more equal," visually reinforcing the concept of relational equivalence rather than computation.](https://wikipedia.org/wiki/Special:Redirect/file/First_Equation_Ever.png)
+
 When we fail to teach relational equivalence, students hit a brick wall when [algebra](https://en.wikipedia.org/wiki/Algebra) introduces [variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29). To fix this, we have to teach them the difference between an expression and an equation.
 
 ### Expressions vs. Equations
@@ -26,6 +28,8 @@ Think of [mathematics as a language](https://en.wikipedia.org/wiki/Language_of_m
 | :--- | :--- | :--- |
 | **Expression** | A **[mathematical phrase](https://en.wikipedia.org/wiki/Expression_%28mathematics%29) containing numbers, variables, and [operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) without an equals sign.** It has a value, but makes no claim. | $4x + 7$ <br> $12 - 3$ |
 | **Equation** | A complete **[mathematical sentence](https://en.wikipedia.org/wiki/Sentence_%28mathematical_logic%29) stating that two expressions are equal.** It claims that the left side and the right side balance perfectly. | $4x + 7 = 15$ <br> $12 - 3 = 9$ |
+
+![A visual breakdown showing how an equation is formed by placing an equals sign to establish equivalence between two independent mathematical expressions.](https://wikipedia.org/wiki/Special:Redirect/file/Equation_vs_Expression.png)
 
 ### The "Backwards" Equation Problem
 
@@ -54,6 +58,8 @@ When an equation contains one or more variables, we call it an **[open sentence]
 *   A **variable** is simply a **letter or symbol that represents an unknown [numerical value](https://en.wikipedia.org/wiki/Value_%28mathematics%29).** It is a placeholder, an empty box waiting to be filled.
 *   Sometimes, these variables have a sidekick. A **[coefficient](https://en.wikipedia.org/wiki/Coefficient)** is a **numerical factor that multiplies a variable within an [algebraic expression](https://en.wikipedia.org/wiki/Algebraic_expression).** In the expression $3y$, the number $3$ is the coefficient, meaning we have three groups of whatever $y$ happens to be.
 
+![The anatomy of an algebraic expression, highlighting the structural roles of variables, coefficients, operators, and constants.](https://wikipedia.org/wiki/Special:Redirect/file/Algebraic_equation_notation.svg)
+
 ### The Magic of Substitution
 
 How do we figure out the value of an expression when it contains a variable? We use [substitution](https://en.wikipedia.org/wiki/Substitution_%28algebra%29).
@@ -76,6 +82,8 @@ Now, let’s talk about [solving equations](https://en.wikipedia.org/wiki/Equati
 Think back to our scale analogy. An equation is a perfectly balanced [seesaw](https://en.wikipedia.org/wiki/Seesaw). If you drop a heavy rock on the left side, the left side crashes to the ground. How do you re-balance it? You have to drop an identically heavy rock on the right side. 
 
 This gives us the golden rule of algebra: **An equation remains balanced when the exact same mathematical operation is applied to both sides.** 
+
+![A traditional balance scale serves as an essential mental model for algebra. If you add or remove weight from one side, you must perform the identical mathematical action on the opposite side to maintain equality.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
 
 We can manipulate the equation using the [four operations](https://en.wikipedia.org/wiki/Elementary_arithmetic), provided we treat both sides fairly:
 1.  **[Adding](https://en.wikipedia.org/wiki/Addition) the identical number** to both sides of an equation maintains the equality of the relationship.
@@ -103,6 +111,8 @@ Let’s imagine you write the expression $8 + 2 \times 5$ on the [whiteboard](ht
 *   Student B says: "Wait! You have to multiply 2 times 5 first, which is 10. Then add 8. The answer is 18."
 
 Who is right? Mathematics is a language of absolute precision; it cannot tolerate [ambiguity](https://en.wikipedia.org/wiki/Ambiguity) where the same expression yields two different answers. To prevent this chaos, mathematicians established "traffic laws" called the [Order of Operations](https://en.wikipedia.org/wiki/Order_of_operations). 
+
+![Without a universally agreed-upon order of operations, mathematical expressions become dangerously ambiguous. Notice how two different calculator models evaluate the exact same string of numbers and yield two completely different results due to different parsing algorithms.](https://wikipedia.org/wiki/Special:Redirect/file/Precedence62xplus.jpg)
 
 **The standard order of operations determines the [sequence](https://en.wikipedia.org/wiki/Sequence) for performing multiple operations within a single mathematical expression.** 
 

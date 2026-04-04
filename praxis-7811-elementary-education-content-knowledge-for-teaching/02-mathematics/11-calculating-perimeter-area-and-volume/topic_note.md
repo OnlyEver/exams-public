@@ -12,6 +12,8 @@ Imagine you are walking along a fence that perfectly encloses a garden. You are 
 
 > **[Perimeter](https://en.wikipedia.org/wiki/Perimeter)** is the total [length](https://en.wikipedia.org/wiki/Length) of the continuous [line](https://en.wikipedia.org/wiki/Line_%28geometry%29) forming the boundary of a closed [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) figure. 
 
+![Perimeter is the one-dimensional measurement of the total continuous distance around the boundary of a shape.](https://wikipedia.org/wiki/Special:Redirect/file/Perimiters.svg)
+
 Because we are measuring a line (even if it turns corners or [curves](https://en.wikipedia.org/wiki/Curve)), **perimeter is measured in one-dimensional linear units such as [centimeters](https://en.wikipedia.org/wiki/Centimetre), [meters](https://en.wikipedia.org/wiki/Metre), or [inches](https://en.wikipedia.org/wiki/Inch).** It has no depth and no width; it is pure length.
 
 ### Calculating Perimeter
@@ -19,8 +21,12 @@ For shapes with straight sides, the math is incredibly intuitive:
 *   **The perimeter of a [polygon](https://en.wikipedia.org/wiki/Polygon)** is calculated by simply adding the lengths of all its exterior sides. 
 *   Because a [rectangle](https://en.wikipedia.org/wiki/Rectangle) has pairs of equal opposite sides, **the perimeter of a rectangle can be calculated by adding twice the length to twice the width** ($P = 2L + 2W$).
 
+![The perimeter of a rectangle is found by adding the linear lengths of all four of its sides.](https://wikipedia.org/wiki/Special:Redirect/file/PerimeterRectangle.svg)
+
 But what about [circles](https://en.wikipedia.org/wiki/Circle)? A circle doesn't have straight sides, so walking its boundary is a continuous curve. **[Circumference](https://en.wikipedia.org/wiki/Circumference) is the specific geometric term used for the perimeter of a circle.** 
 *   **The circumference of a circle is calculated by multiplying the [mathematical constant](https://en.wikipedia.org/wiki/Mathematical_constant) [pi](https://en.wikipedia.org/wiki/Pi) ($\pi$) by the [diameter](https://en.wikipedia.org/wiki/Diameter) of the circle** ($C = \pi \times d$). 
+
+![The circumference of a circle is its continuous boundary, calculated by unrolling the circle and multiplying its diameter by pi.](https://wikipedia.org/wiki/Special:Redirect/file/Pi-unrolled-720.gif)
 
 ---
 
@@ -35,6 +41,8 @@ Because we are measuring a flat [surface](https://en.wikipedia.org/wiki/Surface_
 ### Formulas and the "Slanted Side" Trap
 For a standard box shape, kids pick this up quickly. **The area of a rectangle is calculated by multiplying its length by its width.** But as we introduce new shapes, we run into our first major instructional hurdle. 
 
+![The two-dimensional area of a rectangle represents the flat interior space it encloses, found by multiplying its length and width.](https://wikipedia.org/wiki/Special:Redirect/file/Illustration_for_the_area_of_a_rectangle.svg)
+
 *   **The area of a [parallelogram](https://en.wikipedia.org/wiki/Parallelogram) is calculated by multiplying its [base](https://en.wikipedia.org/wiki/Base_%28geometry%29) by its [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) [height](https://en.wikipedia.org/wiki/Height).**
 *   **The area of a [triangle](https://en.wikipedia.org/wiki/Triangle) is calculated as one-half the product of its base and its corresponding perpendicular height.**
 *   **The area of a circle is calculated by multiplying the mathematical constant pi by the [square](https://en.wikipedia.org/wiki/Square_%28algebra%29) of the circle's [radius](https://en.wikipedia.org/wiki/Radius)** ($A = \pi \times r^2$).
@@ -42,6 +50,8 @@ For a standard box shape, kids pick this up quickly. **The area of a rectangle i
 Notice the recurring phrase: **perpendicular height**. This is where kids stumble! Because they are so used to multiplying the physical *edges* of a rectangle, **a common student [misconception](https://en.wikipedia.org/wiki/Misconception) is using a slanted side length instead of the perpendicular height when calculating the area of a parallelogram.** They will make the exact same error with triangles—**using a slanted side length instead of the perpendicular height when calculating the area of a triangle.** 
 
 *Teacher tip:* Always use the "doctor's office" [analogy](https://en.wikipedia.org/wiki/Analogy). When you get your height measured at the doctor, do you lean over to the side? No! You stand straight up, completely perpendicular to the floor. Shapes have to stand up straight to be measured for height, too!
+
+![When calculating the area of a parallelogram, students must use the perpendicular height (standing straight up) rather than the length of the slanted side.](https://wikipedia.org/wiki/Special:Redirect/file/Parallelogram_area.svg)
 
 ### The Perimeter-Area [Illusion](https://en.wikipedia.org/wiki/Illusion)
 Here is one of the most fascinating [cognitive](https://en.wikipedia.org/wiki/Cognition) traps in elementary mathematics. Students instinctively want perimeter and area to be directly linked. 
@@ -71,6 +81,8 @@ Because space expands in three directions (length, width, and depth), **volume i
 *   **The volume of a [rectangular prism](https://en.wikipedia.org/wiki/Cuboid) is calculated by multiplying its length, width, and height.** 
 *   More broadly, **the volume of any right geometric [prism](https://en.wikipedia.org/wiki/Prism_%28geometry%29) can be calculated by multiplying the area of its two-dimensional base by its height.** (Think of a stack of pancakes: find the area of one pancake, then multiply by how tall the stack is!).
 
+![The volume of a rectangular prism represents its three-dimensional capacity, extending in length, width, and height.](https://wikipedia.org/wiki/Special:Redirect/file/Height_demonstration_diagram.png)
+
 ### The "Hidden Block" Illusion
 When teaching volume, you will often give students a worksheet with a 2D picture of a 3D stack of blocks. Here, you will encounter a classic cognitive barrier: **Students often struggle with volume concepts by only counting the visible blocks in a two-dimensional drawing of a three-dimensional shape.** Because they cannot see the back of the stack, **students often ignore hidden interior blocks when estimating the volume of a block structure from a picture.**
 
@@ -98,6 +110,8 @@ Finally, we have to teach students how to measure corners and turns.
 
 > **An [angle](https://en.wikipedia.org/wiki/Angle) is a geometric figure formed by two [rays](https://en.wikipedia.org/wiki/Ray_%28geometry%29) sharing a common endpoint called a [vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29).** 
 
+![An angle is formed when two lines or rays meet at a shared endpoint, known as the vertex.](https://wikipedia.org/wiki/Special:Redirect/file/Two_rays_and_one_vertex.png)
+
 Angles are not measured in lengths; they are a measure of [rotation](https://en.wikipedia.org/wiki/Rotation_%28mathematics%29). Therefore, **angles are typically measured in a geometric unit called [degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).**
 
 ### The Benchmark Angles
@@ -110,6 +124,8 @@ Once they know the benchmarks, the rest is just [vocabulary](https://en.wikipedi
 *   **An [acute angle](https://en.wikipedia.org/wiki/Angle) is an angle that measures strictly between zero degrees and ninety degrees.** (Think: "Oh, it's a *cute* little angle!").
 *   **An [obtuse angle](https://en.wikipedia.org/wiki/Angle) is an angle that measures strictly greater than ninety degrees and less than one hundred eighty degrees.**
 
+![Benchmark angles provide a visual foundation: acute angles (a) are less than 90°, obtuse angles (b) are between 90° and 180°, and straight angles (c) form a 180° line.](https://wikipedia.org/wiki/Special:Redirect/file/Angle_obtuse_acute_straight.svg)
+
 By knowing these, **unknown angles in real-world scenarios can be estimated by comparing them to known benchmark angles like 90 degrees or 180 degrees.** If a slice of pizza is slightly smaller than a square corner, a student should confidently estimate, "That's about 80 degrees."
 
 ### The "Long Ray" Illusion
@@ -119,6 +135,8 @@ Here is the ultimate test of a student's angle intuition. If you draw an angle w
 
 ### Adding Angles
 Just like lengths and areas, angles can be combined. **Angle measures are [additive](https://en.wikipedia.org/wiki/Additive_map) when [adjacent angles](https://en.wikipedia.org/wiki/Adjacent_angle) share a common vertex and a common ray without overlapping.** 
+
+![Adjacent angles share a vertex and a common ray. Their individual degrees can be summed to find the measure of the larger overall angle.](https://wikipedia.org/wiki/Special:Redirect/file/Adjacentangles.svg)
 
 If you slice a 90-degree corner into a 30-degree piece and a 60-degree piece, the total is still 90. **The measure of a larger angle can be calculated by summing the internal degrees of its non-overlapping adjacent component angles.** 
 

@@ -2,6 +2,8 @@ Welcome! Pull up a chair. Today, we are going to talk about the invisible archit
 
 If you are going to teach young children to [read](https://en.wikipedia.org/wiki/Reading), you are about to embark on one of the most miraculous transformations a [human brain](https://en.wikipedia.org/wiki/Human_brain) can undergo. But here is the secret that trips up so many new [teachers](https://en.wikipedia.org/wiki/Teacher): long before a child can make sense of [ink](https://en.wikipedia.org/wiki/Ink) on a page, they have to make sense of the air vibrating in their [ears](https://en.wikipedia.org/wiki/Ear).
 
+![Sound waves entering the outer ear must be processed and converted into neural signals. This auditory processing is the foundational biological prerequisite for phonological awareness.](https://wikipedia.org/wiki/Special:Redirect/file/Blausen_0329_EarAnatomy_InternalEar.png)
+
 Welcome to **[Phonological Awareness](https://en.wikipedia.org/wiki/Phonological_awareness)**: the profound ability to recognize and manipulate the spoken parts of [words](https://en.wikipedia.org/wiki/Word) and [sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29). 
 
 As a teacher, understanding *what* this is isn't enough. You need to know exactly *how* it breaks down in a child's [mind](https://en.wikipedia.org/wiki/Mind), where they will stumble, and what [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) tools you can use to rescue them. Let's dive in.
@@ -15,6 +17,8 @@ Before we talk about [letters](https://en.wikipedia.org/wiki/Letter_%28alphabet%
 > **The Golden Rule:** Phonological awareness is **exclusively an [auditory](https://en.wikipedia.org/wiki/Auditory_system) and oral skill that does not involve reading or [writing](https://en.wikipedia.org/wiki/Writing) letters.** 
 
 If a child is looking at a [flashcard](https://en.wikipedia.org/wiki/Flashcard) with the letter "B" on it, you are no longer teaching phonological awareness; you are teaching **[phonics](https://en.wikipedia.org/wiki/Phonics)**. Phonics involves the relationship between [sounds](https://en.wikipedia.org/wiki/Sound) and *written letters or [symbols](https://en.wikipedia.org/wiki/Symbol)*. Phonological awareness is entirely about the ears and the [mouth](https://en.wikipedia.org/wiki/Mouth). 
+
+![Using flashcards with printed letters shifts the pedagogical focus from auditory sound manipulation (phonological awareness) to visual letter-sound correspondence (phonics).](https://wikipedia.org/wiki/Special:Redirect/file/Flashcard.png)
 
 ## The Phonological Awareness Continuum
 
@@ -52,6 +56,8 @@ Students learn several operations here:
 We zoom in even closer. We take a single syllable and chop it into two specific pieces:
 *   The **[onset](https://en.wikipedia.org/wiki/Syllable_onset)** is the initial consonant or [consonant cluster](https://en.wikipedia.org/wiki/Consonant_cluster) of a spoken syllable (the /bl/ in *black*).
 *   The **[rime](https://en.wikipedia.org/wiki/Syllable_rime)** is the part of a spoken syllable containing the vowel sound and any subsequent consonant sounds (the /ack/ in *black*).
+
+![The hierarchical structure of a spoken syllable, illustrating how it can be subdivided into an initial onset and a rime, which further breaks down into the nucleus (vowel) and coda.](https://wikipedia.org/wiki/Special:Redirect/file/Syllable_onset_rhyme.svg)
 
 **Onset-rime blending** involves combining an initial consonant sound with a vowel and ending sounds to form a whole word. This is a critical bridge to our final, smallest, and most important level.
 
@@ -99,6 +105,8 @@ Speech sounds generally fall into two categories:
 Because of this physical reality, **stop sounds cannot be held continuously without distorting the sound.** (If you try to hold out a /b/, you inevitably add a vowel sound to it, making it sound like "buhhhh," which confuses children). Therefore, a key pedagogical rule is that **introducing phoneme blending is easier for students when the initial sounds of the target words are continuant sounds.** Start with "sun" (/s/ /u/ /n/) rather than "tap" (/t/ /a/ /p/). 
 
 Furthermore, watch out for consonant blends (like the /st/ in *stop* or /fl/ in *flip*). **Students often struggle to segment words containing consonant blends because the individual consonant sounds are [coarticulated](https://en.wikipedia.org/wiki/Coarticulation).** Their mouths blend the sounds together so fast that separating the /s/ and the /t/ feels physically unnatural. 
+
+![A diagram of the active and passive places of articulation in the vocal tract. Recognizing how mouth placement restricts airflow helps educators understand why certain phonemes, like stop sounds and consonant blends, are physically challenging for students to isolate.](https://wikipedia.org/wiki/Special:Redirect/file/Places_of_articulation.svg)
 
 ---
 

@@ -41,6 +41,8 @@ Let’s look at the [physics](https://en.wikipedia.org/wiki/Physics) of this rel
 
 **Your NCLEX Duty:** As the nurse, you must document all client rights education provided to the client. If it isn't in the [electronic health record](https://en.wikipedia.org/wiki/Electronic_health_record), in the eyes of the law, it never happened.
 
+![An example of an electronic health record (EHR) interface. Legally, any education regarding client rights or a refusal of treatment must be meticulously documented in the EHR to prove it occurred.](https://wikipedia.org/wiki/Special:Redirect/file/Electronic_medical_record.jpg)
+
 ---
 
 ## 2. The Dance of Medical Decisions: Options and Explanations
@@ -72,10 +74,14 @@ Here is a golden rule of nursing and [medical ethics](https://en.wikipedia.org/w
 
 It does not matter how brilliant the treatment is. It does not matter how foolish you think their refusal is. A competent adult client can refuse medical treatment *even in life-threatening situations*. If a client with a massive [myocardial infarction](https://en.wikipedia.org/wiki/Myocardial_infarction) wants to refuse a life-saving [cardiac catheterization](https://en.wikipedia.org/wiki/Cardiac_catheterization), they can. 
 
+![A stent being inserted to treat a myocardial infarction. Under the principle of autonomy, a competent adult possesses the absolute right to refuse even life-saving interventions such as this.](https://wikipedia.org/wiki/Special:Redirect/file/Myocardial_infarction.svg)
+
 But wait! Who decides if they are "competent"? 
 **A healthcare provider determines client medical [capacity](https://en.wikipedia.org/wiki/Mental_capacity) to make healthcare decisions.** Capacity means the client understands the reality of their situation, understands the consequences of their choice, and can rationally communicate their decision. 
 
 If the HCP determines the client lacks capacity (e.g., they are [delirious](https://en.wikipedia.org/wiki/Delirium), severely [demented](https://en.wikipedia.org/wiki/Dementia), or [intoxicated](https://en.wikipedia.org/wiki/Substance_intoxication)), the rules change entirely. **A client lacking medical decision-making capacity cannot legally refuse life-saving medical treatment.** If a man with a [traumatic brain injury](https://en.wikipedia.org/wiki/Traumatic_brain_injury) tries to pull out his [breathing tube](https://en.wikipedia.org/wiki/Tracheal_tube), we stop him. He does not have the capacity to refuse.
+
+![A standard cuffed endotracheal (breathing) tube. If a client lacks medical decision-making capacity—such as a patient with a severe traumatic brain injury—healthcare staff must legally intervene to prevent them from removing life-saving devices.](https://wikipedia.org/wiki/Special:Redirect/file/Sondeintubation.jpg)
 
 *What about kids?* Generally, [minors](https://en.wikipedia.org/wiki/Minor_%28law%29) cannot refuse life-saving treatment. But there is a fascinating exception in the law: **[Emancipated minors](https://en.wikipedia.org/wiki/Emancipation_of_minors) possess the legal right to refuse medical treatment.** If a 16-year-old is legally emancipated (e.g., legally married, serving in the [armed forces](https://en.wikipedia.org/wiki/Armed_forces), or declared emancipated by a judge), they have the exact same rights as a 40-year-old adult.
 
@@ -95,6 +101,8 @@ Sometimes, refusing a single medication isn't enough. Sometimes, the client want
 If a provider writes a "discharge" order, everything is fine. But **a client leaving a healthcare facility without a provider discharge order is classified as leaving [Against Medical Advice](https://en.wikipedia.org/wiki/Against_medical_advice) (AMA).**
 
 How do we handle this? Imagine you are caring for a competent 50-year-old who is halfway through a [blood transfusion](https://en.wikipedia.org/wiki/Blood_transfusion), and he suddenly rips out his [IV](https://en.wikipedia.org/wiki/Intravenous_therapy), puts on his jeans, and says, "I'm going home."
+
+![Illustration of an intravenous blood transfusion. If a competent client decides to stop a transfusion and leave the facility against medical advice, nurses cannot physically restrain them, as this constitutes false imprisonment.](https://wikipedia.org/wiki/Special:Redirect/file/Blausen_0087_Blood_Transfusion.png)
 
 > **The Ultimate Boundary:** Healthcare staff cannot physically prevent a competent client from leaving a facility Against Medical Advice. 
 
@@ -123,6 +131,8 @@ If they do not speak English [fluently](https://en.wikipedia.org/wiki/Fluency), 
 Academic hospitals run on research. Without [clinical trials](https://en.wikipedia.org/wiki/Clinical_trial), medicine would never advance. But participation in these trials is strictly voluntary. 
 
 **A client possesses the right to refuse participation in [medical research studies](https://en.wikipedia.org/wiki/Medical_research).** Even if they initially agreed to participate, they can withdraw their [consent](https://en.wikipedia.org/wiki/Informed_consent) at any time, for any reason. 
+
+![An informed consent document for a clinical trial. Clients retain the absolute right to revoke their consent and withdraw from medical research at any point without compromising their standard of care.](https://wikipedia.org/wiki/Special:Redirect/file/PARAMOUNT_Eli_Lilly_Informed_Consent_Document.djvu)
 
 Here is the critical caveat you must guarantee as their advocate: **A client refusal to participate in medical research must not affect the quality of standard medical care provided to that client.** 
 If a client backs out of a cutting-edge [oncology](https://en.wikipedia.org/wiki/Oncology) trial, their [oncologist](https://en.wikipedia.org/wiki/Oncology) cannot abandon them. The facility must immediately pivot to providing the highest standard of conventional, approved medical therapy. There is absolutely no penalty for saying no to research.

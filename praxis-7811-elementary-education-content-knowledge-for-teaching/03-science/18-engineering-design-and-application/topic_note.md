@@ -4,6 +4,8 @@ Welcome! So, you want to teach [engineering](https://en.wikipedia.org/wiki/Engin
 
 Let’s get one thing straight right away: **the [engineering design process](https://en.wikipedia.org/wiki/Engineering_design_process) is an [iterative](https://en.wikipedia.org/wiki/Iterative_design) cycle rather than a linear sequence of steps.** It loops, it circles back on itself, and it thrives on [learning from mistakes](https://en.wikipedia.org/wiki/Trial_and_error). Ultimately, **[engineers](https://en.wikipedia.org/wiki/Engineer) use the [engineering design process](https://en.wikipedia.org/wiki/Engineering_design_process) to [solve practical problems](https://en.wikipedia.org/wiki/Problem_solving)**, and those **engineering design problems are driven by [human needs](https://en.wikipedia.org/wiki/Fundamental_human_needs) and human wants**. Whether it’s inventing a cleaner way to filter [drinking water](https://en.wikipedia.org/wiki/Drinking_water) (a need) or designing a more comfortable [headphones](https://en.wikipedia.org/wiki/Headphones) (a want), [engineering](https://en.wikipedia.org/wiki/Engineering) is about human realities. 
 
+![A municipal water treatment facility. Addressing fundamental human needs, such as filtering clean drinking water on a mass scale, is the primary driver of complex engineering design.](https://wikipedia.org/wiki/Special:Redirect/file/Water_Treatment_Plant.jpg)
+
 Because this is so foundational to how we understand our modern world, **the [Next Generation Science Standards](https://en.wikipedia.org/wiki/Next_Generation_Science_Standards) explicitly integrate [engineering design](https://en.wikipedia.org/wiki/Engineering_design_process) expectations into [kindergarten through twelfth grade](https://en.wikipedia.org/wiki/K%E2%80%9312) [science curricula](https://en.wikipedia.org/wiki/Science_education).** 
 
 But how do we teach this? Let's dive into the fascinating mechanics of how kids learn [engineering](https://en.wikipedia.org/wiki/Engineering), the [misconceptions](https://en.wikipedia.org/wiki/Misconception) they'll bring to your classroom, and how you can guide them to think like true [problem-solvers](https://en.wikipedia.org/wiki/Problem_solving).
@@ -38,6 +40,8 @@ Once the problem is defined, we move to the [imagination](https://en.wikipedia.o
 
 It is crucial for your students to understand that **multiple distinct solutions can successfully address the exact same [engineering](https://en.wikipedia.org/wiki/Engineering) problem.** One student might build a [suspension bridge](https://en.wikipedia.org/wiki/Suspension_bridge); another might build an [arch bridge](https://en.wikipedia.org/wiki/Arch_bridge). Both might successfully hold the 5 [toy cars](https://en.wikipedia.org/wiki/Model_car). In engineering, there is rarely just one "right" answer!
 
+![A diagram showing materials under compression, tension, and shear forces. Different bridge designs resolve these physical forces in distinct ways, proving to students that multiple unique solutions can successfully solve the same engineering problem.](https://wikipedia.org/wiki/Special:Redirect/file/_Compressive_tensile_shear_loading.svg)
+
 ### The Trap of Design Fixation
 Watch closely when your students start [sketching](https://en.wikipedia.org/wiki/Sketch_%28drawing%29) their ideas. **Young students frequently exhibit design fixation by becoming overly attached to their initial solution idea.** They draw their very first thought, declare it a masterpiece, and refuse to consider any other options. Your job as a [facilitator](https://en.wikipedia.org/wiki/Facilitator) is to push them to generate *at least* three different ideas before they ever touch the building materials. 
 
@@ -47,6 +51,8 @@ How do [engineers](https://en.wikipedia.org/wiki/Engineer) pick which brainstorm
 2. **[Engineers](https://en.wikipedia.org/wiki/Engineer) evaluate proposed solutions by comparing those solutions against the established criteria.** 
 
 Inevitably, they will encounter **engineering [trade-offs](https://en.wikipedia.org/wiki/Trade-off)**, which **occur when improving one aspect of a design worsens another aspect.** For example, using thicker [cardboard](https://en.wikipedia.org/wiki/Cardboard) makes the [bridge](https://en.wikipedia.org/wiki/Bridge) stronger (a pro), but it also makes the bridge heavier and more expensive (a con). 
+
+![A cross-section of corrugated fiberboard. The fluted internal geometry represents a classic engineering trade-off: it increases the board's structural strength without drastically adding to the material's overall weight or cost.](https://wikipedia.org/wiki/Special:Redirect/file/Corrugated_Cardboard.JPG)
 
 To help students navigate [trade-offs](https://en.wikipedia.org/wiki/Trade-off) [objectively](https://en.wikipedia.org/wiki/Objectivity_%28philosophy%29), we use a **[decision matrix](https://en.wikipedia.org/wiki/Decision_matrix)**. **A decision matrix is a mathematical tool used to systematically compare multiple design solutions against specific criteria.** 
 
@@ -68,6 +74,8 @@ A [prototype](https://en.wikipedia.org/wiki/Prototype) isn't the final product; 
 
 When a student's [bridge](https://en.wikipedia.org/wiki/Bridge) collapses, they will be sad. Frame it differently! **[Failure](https://en.wikipedia.org/wiki/Failure) during [prototype](https://en.wikipedia.org/wiki/Prototype) testing provides necessary diagnostic data to improve the subsequent design [iteration](https://en.wikipedia.org/wiki/Iterative_design).** Without failure, we wouldn't know where the design was weak. Failure isn't the opposite of success in [engineering](https://en.wikipedia.org/wiki/Engineering); it's a stepping stone to it.
 
+![The 1940 collapse of the Tacoma Narrows Bridge. For both professional engineers and students, catastrophic structural failures provide invaluable diagnostic data needed to improve the safety and functionality of the next design iteration.](https://wikipedia.org/wiki/Special:Redirect/file/Tacoma-narrows-bridge-collapse.jpg)
+
 ### Designing a [Fair Test](https://en.wikipedia.org/wiki/Scientific_control)
 To gather accurate diagnostic data, students must test their [prototypes](https://en.wikipedia.org/wiki/Prototype) properly. This requires a **[fair test](https://en.wikipedia.org/wiki/Scientific_control)**.
 
@@ -84,6 +92,8 @@ Here is a classic [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) hurdle: 
 Imagine a student tests a [paper airplane](https://en.wikipedia.org/wiki/Paper_plane). It nosedives. So, for the next trial, the student changes the size of the wings, adds a [paperclip](https://en.wikipedia.org/wiki/Paper_clip) to the nose, *and* throws it twice as hard. It flies perfectly! But wait... *why* did it fly perfectly? 
 
 **Changing multiple [variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables) simultaneously prevents the tester from identifying which specific change caused an observed outcome.** Was it the wings? The [paperclip](https://en.wikipedia.org/wiki/Paper_clip)? The throw? We don't know! You must train your students to have the patience to change *just one thing at a time*. 
+
+![A schematic of a contest-winning paper glider. Optimizing an aircraft requires a strict fair test; if wing shape, nose weight, and throwing force are all altered simultaneously, the tester cannot isolate which independent variable affected the flight.](https://wikipedia.org/wiki/Special:Redirect/file/International_contest_paper_glider.svg)
 
 ---
 

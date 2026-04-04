@@ -12,6 +12,8 @@ If you want to understand priority, you have to understand what a [cell](https:/
 
 **[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)** provides our baseline rule: **the [nurse](https://en.wikipedia.org/wiki/Nurse) must address a client's [physiological needs](https://en.wikipedia.org/wiki/Basic_needs) before addressing [psychological needs](https://en.wikipedia.org/wiki/Need)**. A client experiencing severe [anxiety](https://en.wikipedia.org/wiki/Anxiety) is suffering, yes, but if the client in the next room is suffocating, biology dictates our first move. Furthermore, within those physical needs, there is a hierarchy. Because cells die within minutes without oxygen but can survive days without [food](https://en.wikipedia.org/wiki/Food), **the nurse must address physiological needs associated with [oxygenation](https://en.wikipedia.org/wiki/Oxygenation_%28medical%29) before addressing physiological needs associated with nutrition**.
 
+![Maslow's Hierarchy of Needs serves as the foundational framework for nursing prioritization, dictating that baseline physiological needs like oxygenation must be met before addressing higher-level psychological or emotional needs.](https://wikipedia.org/wiki/Special:Redirect/file/Maslow's_Hierarchy_of_Needs.png)
+
 But we can get more precise than Maslow. We use the **[Airway, Breathing, and Circulation (ABC) framework](https://en.wikipedia.org/wiki/ABC_%28medicine%29)**. Why? Because the ABC framework **prioritizes oxygenation and [perfusion](https://en.wikipedia.org/wiki/Perfusion) above all other physiological needs**. 
 
 *   **Airway:** The pipes must be open. Therefore, **an open and patent [airway](https://en.wikipedia.org/wiki/Airway) represents the absolute highest physiological priority in [emergency care](https://en.wikipedia.org/wiki/Emergency_medicine)**. If air can't get in, nothing else matters.
@@ -19,6 +21,8 @@ But we can get more precise than Maslow. We use the **[Airway, Breathing, and Ci
 *   **Circulation:** The [blood](https://en.wikipedia.org/wiki/Blood) must transport that oxygen to the [tissues](https://en.wikipedia.org/wiki/Tissue_%28biology%29).
 
 What about a client screaming in agony? This might sound harsh, but it's a profound biological truth: **severe [pain](https://en.wikipedia.org/wiki/Pain) represents a high nursing priority *only* after airway, breathing, and circulatory issues have been completely resolved**. Pain is a distress signal, but an [occluded airway](https://en.wikipedia.org/wiki/Airway_obstruction) is an immediate death sentence. Fix the airway, then fix the pain. 
+
+![Opening the airway with a head-tilt, chin-lift maneuver. Establishing a patent airway is the absolute highest priority in emergency care; without it, all subsequent interventions are futile.](https://wikipedia.org/wiki/Special:Redirect/file/Checking_respiration2.jpg)
 
 ## The Rules of Pathophysiological Combat
 
@@ -39,10 +43,14 @@ A localized issue affects a limited area. A systemic issue affects the entire or
 
 > **The Sepsis Principle:** Think of an [infection](https://en.wikipedia.org/wiki/Infection). A localized skin infection stays in one place. But **[sepsis](https://en.wikipedia.org/wiki/Sepsis) represents a dangerous systemic [inflammatory response](https://en.wikipedia.org/wiki/Inflammation) to an infection**. The vascular bed becomes leaky, blood pressure plummets, and organs fail. Consequently, **the nurse must prioritize a client experiencing sepsis over a client experiencing a localized skin infection.**
 
+![Unlike a localized skin infection, sepsis is a systemic inflammatory response that cascades through progressive stages, rapidly leading to severe complications and organ failure if not prioritized immediately.](https://wikipedia.org/wiki/Special:Redirect/file/Sepsis_Steps.png)
+
 ### 4. Unexpected vs. Expected & Actual vs. Potential
 If a client has a [fractured femur](https://en.wikipedia.org/wiki/Femoral_fracture), we *expect* them to have pain in their leg. If a client with a fractured femur suddenly has severe [shortness of breath](https://en.wikipedia.org/wiki/Shortness_of_breath), that is *unexpected* (and points to a potential [pulmonary embolism](https://en.wikipedia.org/wiki/Pulmonary_embolism)). **Unexpected clinical findings demand higher prioritization than expected clinical findings for a specific [disease process](https://en.wikipedia.org/wiki/Disease)**.
 
 Likewise, deal with the fire currently burning before you worry about the fire that *might* start. **Actual life-threatening problems take priority over potential health risks**. Fall risk is a serious potential problem, but [active bleeding](https://en.wikipedia.org/wiki/Bleeding) is an actual problem happening right now. 
+
+![A pulmonary embolism, such as this massive saddle embolus obstructing the pulmonary artery, is an acute, unexpected complication that immediately threatens a patient's life and must be prioritized over expected, localized symptoms.](https://wikipedia.org/wiki/Special:Redirect/file/Saddle_thromboembolus_wArrows.jpg)
 
 ## The Ticking Clocks: High-Risk Scenarios
 
@@ -65,6 +73,8 @@ Before you do anything, you must gather your data. **The [nursing process](https
 
 Once you act, the job isn't over. You must observe the reaction. **The evaluation of an initial nursing intervention directly dictates the priority of subsequent nursing actions**. If you give oxygen and the client's breathing normalizes, your next priority shifts to finding out *why* they needed it. If you give oxygen and they continue to [turn blue](https://en.wikipedia.org/wiki/Cyanosis), your immediate subsequent action is to escalate care and call the provider. 
 
+![Cyanosis, which presents as a bluish or grayish discoloration of the skin or mucous membranes, is a critical clinical finding indicating inadequate oxygenation that dictates the immediate reprioritization of nursing interventions.](https://wikipedia.org/wiki/Special:Redirect/file/Cynosis_Illustration.jpg)
+
 Client conditions are not static. The board changes constantly. 
 *   **The nurse must comprehensively revise the plan of care when a client experiences a sudden physiological deterioration.** What was priority #4 suddenly becomes priority #1.
 *   Data changes your game plan. **The nurse reprioritizes the delivery of client care every time new [laboratory results](https://en.wikipedia.org/wiki/Medical_laboratory) indicate critical pathophysiological changes** (like an unexpected, critically low [hemoglobin](https://en.wikipedia.org/wiki/Hemoglobin) level or a skyrocketing [potassium](https://en.wikipedia.org/wiki/Potassium)).
@@ -77,6 +87,8 @@ There is one major exception to everything we just talked about: [Disaster Triag
 In a normal [hospital](https://en.wikipedia.org/wiki/Hospital) setting, we put all our resources into the sickest, most unstable person. But what happens if a building collapses and you have 50 critically injured people and only 3 nurses? The math changes. The goal shifts from *saving the sickest individual* to *saving the greatest number of people with the resources available*.
 
 To do this efficiently, **disaster triage systems use color-coded tags to categorize clients based on injury severity and survival probability.** 
+
+![Standardized color-coded disaster triage tags allow responders to rapidly categorize mass casualty victims based on severity, ensuring limited resources are directed to do the greatest good for the greatest number.](https://wikipedia.org/wiki/Special:Redirect/file/Triage_041105_big.jpg)
 
 | Triage Color | Category | What it Means & What You Do |
 | :--- | :--- | :--- |

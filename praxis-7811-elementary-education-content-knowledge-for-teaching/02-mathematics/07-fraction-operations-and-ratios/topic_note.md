@@ -18,6 +18,8 @@ But to a child, a fraction looks like two entirely different numbers stacked on 
 *   **The [denominator](https://en.wikipedia.org/wiki/Fraction) of a fraction represents the total number of equal parts in the whole.** It tells us the *size* of the pieces.
 *   **The [numerator](https://en.wikipedia.org/wiki/Fraction) of a fraction represents the number of parts being considered.** It tells us the *count* of those pieces.
 
+![A visual representation of part-whole relationships, showing a whole divided into four equal parts (the denominator) with one part separated to represent one-fourth.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
+
 ### The Power of the Unit Fraction
 If you want to build a house, you need bricks. If you want to build fractional understanding, you need unit fractions. **A [unit fraction](https://en.wikipedia.org/wiki/Unit_fraction) is a fraction with a numerator of exactly one** (e.g., $\frac{1}{3}$, $\frac{1}{4}$, $\frac{1}{10}$). 
 
@@ -34,6 +36,8 @@ Because children see fractions as two separate whole numbers, **a common student
 
 To fix this, we rely on our unit fractions. You cannot add thirds and halves directly because they are different sized pieces! **Finding a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) requires identifying a [common multiple](https://en.wikipedia.org/wiki/Common_multiple) of the given denominators.** Once both fractions are partitioned into the same size pieces (common multiples), we can simply add the numerators.
 
+![Visualizing fraction addition: Rectangles with different denominators are subdivided into a common multiple of cells, ensuring equal-sized pieces before the numerators are added.](https://wikipedia.org/wiki/Special:Redirect/file/Fraction_addition_example.svg)
+
 ---
 
 ## Part 2: The Magic of Multiplication and Scaling
@@ -46,6 +50,9 @@ Since kindergarten, your students have implicitly learned a rule: *Multiplicatio
 We cure this misconception by teaching multiplication as **scaling**. **Scaling is the mathematical process of enlarging or reducing a quantity by a constant multiplier.** 
 
 That constant multiplier has a name: **A [scale factor](https://en.wikipedia.org/wiki/Scale_factor) specifies the precise multiplier used to enlarge or reduce a given quantity.** Once we frame multiplication as scaling, we establish two new, critical rules for the universe:
+
+![Multiplication conceptualized as scaling on a number line, demonstrating how a scale factor stretches a quantity to a new magnitude.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_scaling.svg)
+
 1.  **Multiplying a positive quantity by a [proper fraction](https://en.wikipedia.org/wiki/Fraction) results in a product smaller than the original quantity.** (You are scaling it *down*).
 2.  **Multiplying a positive quantity by an [improper fraction](https://en.wikipedia.org/wiki/Fraction) results in a product larger than the original quantity.** (You are scaling it *up*).
 
@@ -79,6 +86,8 @@ But to conquer fraction division [word problems](https://en.wikipedia.org/wiki/W
 | **[Measurement Division](https://en.wikipedia.org/wiki/Quotition_and_partition)** | **Calculates how many groups of the [divisor](https://en.wikipedia.org/wiki/Divisor) fit into the [dividend](https://en.wikipedia.org/wiki/Dividend_%28mathematics%29).** | "I have 2 cups of sugar. A recipe requires $\frac{1}{4}$ cup. How many batches can I make?" ($2 \div \frac{1}{4} = 8$). You are measuring out $\frac{1}{4}$ chunks until you run out. |
 | **[Partitive Division](https://en.wikipedia.org/wiki/Quotition_and_partition)** | **Calculates the size of one whole group when the dividend is partitioned by the divisor.** (Fair sharing). | "$\frac{1}{2}$ of a pizza was shared equally among 3 friends. How much of the whole pizza did one person get?" ($\frac{1}{2} \div 3 = \frac{1}{6}$). |
 
+![A conceptual model of division showing 12 items partitioned into distinct groups, illustrating the foundational concept of grouping before introducing algorithmic shortcuts.](https://wikipedia.org/wiki/Special:Redirect/file/Divide12by3.svg)
+
 ### The Danger of "Invert and Multiply"
 Most of us were taught to divide fractions using a simple trick: "Ours is not to reason why, just invert and multiply!" 
 
@@ -95,6 +104,8 @@ As students grow, their mathematical toolkit expands. **The [Common Core State S
 ### Fractions vs. Ratios: What's the Difference?
 We know that **fractions typically represent part-whole relationships.** But ratios are a broader category. **A ratio is a multiplicative comparison of two distinct quantities.** 
 
+![A 4:3 aspect ratio visually compares the width to the height of a screen, demonstrating a part-to-part ratio distinct from a fraction's standard part-to-whole relationship.](https://wikipedia.org/wiki/Special:Redirect/file/Aspect-ratio-4x3.svg)
+
 To write them, **the [colon symbol](https://en.wikipedia.org/wiki/Colon_%28punctuation%29) is commonly used in mathematics to denote a ratio between two numbers** (e.g., $3:2$).
 
 While a fraction is almost always part-to-whole, **ratios can represent either part-to-part or part-to-whole relationships depending on the context.**
@@ -110,6 +121,8 @@ When we calculate how much for just *one* of a unit, we are finding a unit rate.
 
 ### Proportional Reasoning and its Pitfalls
 To navigate ratios, a student must develop proportional reasoning. **Proportional reasoning requires recognizing multiplicative relationships between quantities.** 
+
+![A graph demonstrating direct proportionality, visualizing the constant multiplicative relationship between two variables rather than a simple additive difference.](https://wikipedia.org/wiki/Special:Redirect/file/Proportional_variables.svg)
 
 This leads to a massive cognitive roadblock. Because young students are deeply comfortable with [addition](https://en.wikipedia.org/wiki/Addition), **a common student misconception in proportional reasoning is applying an additive difference instead of a multiplicative factor.**
 

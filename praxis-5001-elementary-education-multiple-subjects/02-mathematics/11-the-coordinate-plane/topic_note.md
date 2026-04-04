@@ -1,10 +1,12 @@
-# The Canvas of Mathematics: A Masterclass on the Coordinate Plane
+# The Canvas of [Mathematics](https://en.wikipedia.org/wiki/Mathematics): A Masterclass on the Coordinate Plane
 
-Hello! Let’s talk about one of the most brilliant, beautiful, and fundamentally profound inventions in the history of mathematics: the **[coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)**. 
+Hello! Let’s talk about one of the most brilliant, beautiful, and fundamentally profound inventions in the history of [mathematics](https://en.wikipedia.org/wiki/Mathematics): the **[coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)**. 
 
 Imagine you are trying to tell a friend exactly where a specific [star](https://en.wikipedia.org/wiki/Star) is in the [night sky](https://en.wikipedia.org/wiki/Night_sky), or perhaps you’re trying to pinpoint the exact location of a treasure on a blank sheet of paper. How do you do it? You can't just say "it's over there." You need a system. You need a language of location. 
 
-In the [17th century](https://en.wikipedia.org/wiki/17th_century), a [mathematician](https://en.wikipedia.org/wiki/Mathematician) named René Descartes was supposedly lying in bed, watching a fly crawl across his ceiling. He realized he could describe the fly's exact position by simply measuring its [distance](https://en.wikipedia.org/wiki/Distance) from two adjacent walls. And just like that, the [Cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) was born. 
+In the [17th century](https://en.wikipedia.org/wiki/17th_century), a [mathematician](https://en.wikipedia.org/wiki/Mathematician) named [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) was supposedly lying in bed, watching a fly crawl across his ceiling. He realized he could describe the fly's exact position by simply measuring its [distance](https://en.wikipedia.org/wiki/Distance) from two adjacent walls. And just like that, the [Cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) was born. 
+
+![René Descartes, the 17th-century mathematician who conceptualized the coordinate plane to pinpoint exact locations.](https://wikipedia.org/wiki/Special:Redirect/file/Jan_Baptist_Weenix_-_Portrait_of_Ren%C3%A9_Descartes.jpg)
 
 Let's break down this magnificent tool so that for your [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), you aren't just memorizing rules, but you actually *feel* how the math works.
 
@@ -14,22 +16,26 @@ Let's break down this magnificent tool so that for your [Praxis exam](https://en
 
 To build a universe where we can map anything, we start with nothing but two simple lines. 
 
-> **The Coordinate Plane:** The [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) is a two-dimensional surface formed by two intersecting perpendicular [number lines](https://en.wikipedia.org/wiki/Number_line). 
+> **The Coordinate Plane:** The [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) is a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) surface formed by two intersecting [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) [number lines](https://en.wikipedia.org/wiki/Number_line). 
 
 Think of it as a perfectly flat, infinite sheet of paper. By intersecting two number lines at exact [right angles](https://en.wikipedia.org/wiki/Right_angle), we create a mathematical scaffolding. 
 
-*   **The x-axis:** The horizontal number line in a coordinate plane is named the **x-axis**. Think of this as the [horizon](https://en.wikipedia.org/wiki/Horizon).
-*   **The y-axis:** The vertical number line in a coordinate plane is named the **y-axis**. Think of this as a [plumb line](https://en.wikipedia.org/wiki/Plumb_bob) dropping straight down from the sky.
+*   **The x-axis:** The [horizontal](https://en.wikipedia.org/wiki/Horizontal_and_vertical) number line in a coordinate plane is named the **x-axis**. Think of this as the [horizon](https://en.wikipedia.org/wiki/Horizon).
+*   **The y-axis:** The [vertical](https://en.wikipedia.org/wiki/Horizontal_and_vertical) number line in a coordinate plane is named the **y-axis**. Think of this as a [plumb line](https://en.wikipedia.org/wiki/Plumb_bob) dropping straight down from the sky.
 
-Where these two infinite lines crash into each other is the most important spot on the map. The exact point of intersection between the x-axis and the y-axis is called the **[origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29)**. It is Ground Zero. It is the starting line. Because it is the ultimate starting point, the x-coordinate of the origin is strictly [zero](https://en.wikipedia.org/wiki/0), and the y-coordinate of the origin is strictly zero. 
+Where these two infinite lines crash into each other is the most important spot on the map. The exact point of [intersection](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) between the x-axis and the y-axis is called the **[origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29)**. It is Ground Zero. It is the starting line. Because it is the ultimate starting point, the x-coordinate of the origin is strictly [zero](https://en.wikipedia.org/wiki/0), and the y-coordinate of the origin is strictly zero. 
+
+![The origin (0, 0) is the exact point of intersection where the horizontal x-axis and vertical y-axis meet.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system-directed.svg)
 
 ---
 
 ## 2. The Language of Location: Ordered Pairs
 
-Now that we have our intersecting number lines, how do we describe where a point lives? We use an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair)**. 
+Now that we have our intersecting number lines, how do we describe where a [point](https://en.wikipedia.org/wiki/Point_%28geometry%29) lives? We use an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair)**. 
 
 An ordered pair consists of two numbers used to define the exact location of a point on a coordinate plane. It looks like this: **(x, y)**. It is essentially a set of walking directions starting from the origin. 
+
+![Various points plotted on a coordinate plane, displaying their distinct (x, y) ordered pairs relative to the origin.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
 
 ### The X-Coordinate (The Horizontal Walk)
 The first number in an ordered pair represents the **x-coordinate**. Here is a crucial way to visualize this: the x-coordinate indicates the horizontal distance of a point *from the y-axis*. 
@@ -51,9 +57,11 @@ Just as before, the vertical position of a point on the coordinate plane is dete
 
 ## 3. The Four Neighborhoods: Understanding Quadrants
 
-When you cross a horizontal line and a vertical line, what happens to the flat surface? It splits into four distinct areas. The x-axis and y-axis divide the coordinate plane into four distinct regions called **quadrants**. 
+When you cross a horizontal line and a vertical line, what happens to the flat surface? It splits into four distinct areas. The x-axis and y-axis divide the coordinate plane into four distinct regions called **[quadrants](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29)**. 
 
-Mathematicians love [conventions](https://en.wikipedia.org/wiki/Convention_%28norm%29), and the naming of these regions has a very specific tradition. The four quadrants of a coordinate plane are traditionally numbered using [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals). Furthermore, the quadrants are numbered sequentially in a [counterclockwise](https://en.wikipedia.org/wiki/Clockwise) direction starting from the upper-right quadrant. (Why counterclockwise? It matches how we measure angles in trigonometry—sweeping upward from the horizon!)
+Mathematicians love [conventions](https://en.wikipedia.org/wiki/Convention_%28norm%29), and the naming of these regions has a very specific tradition. The four quadrants of a coordinate plane are traditionally numbered using [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals). Furthermore, the quadrants are numbered sequentially in a [counterclockwise](https://en.wikipedia.org/wiki/Clockwise) direction starting from the upper-right quadrant. (Why counterclockwise? It matches how we measure [angles](https://en.wikipedia.org/wiki/Angle) in [trigonometry](https://en.wikipedia.org/wiki/Trigonometry)—sweeping upward from the horizon!)
+
+![The four quadrants of the Cartesian coordinate system, numbered counterclockwise from I to IV.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian_coordinates_2D.svg)
 
 Let's explore these four neighborhoods:
 
@@ -96,12 +104,16 @@ So, which quadrant do these axis-dwelling points live in? **Neither.** Points re
 Now that we know how to place single dots (points) on our mathematical canvas, we can start doing geometry. 
 
 ### Drawing Polygons
-A [polygon](https://en.wikipedia.org/wiki/Polygon) is constructed on a coordinate plane by plotting individual [vertices](https://en.wikipedia.org/wiki/Vertex_%28geometry%29) as ordered pairs. Once you have plotted your points—say, three points for a triangle, or four for a [rectangle](https://en.wikipedia.org/wiki/Rectangle)—you must physically connect them. The plotted vertices of a polygon must be connected with straight [line segments](https://en.wikipedia.org/wiki/Line_segment) to form a closed geometric shape. 
+A [polygon](https://en.wikipedia.org/wiki/Polygon) is constructed on a coordinate plane by plotting individual [vertices](https://en.wikipedia.org/wiki/Vertex_%28geometry%29) as ordered pairs. Once you have plotted your points—say, three points for a [triangle](https://en.wikipedia.org/wiki/Triangle), or four for a [rectangle](https://en.wikipedia.org/wiki/Rectangle)—you must physically connect them. The plotted vertices of a polygon must be connected with straight [line segments](https://en.wikipedia.org/wiki/Line_segment) to form a closed [geometric shape](https://en.wikipedia.org/wiki/Geometric_shape). 
+
+![A polygon constructed on a coordinate plane by connecting specific (x, y) vertices with straight line segments.](https://wikipedia.org/wiki/Special:Redirect/file/Polygon_vertex_labels.svg)
 
 ### Measuring Distance on the Grid
-If you have a shape, you are inevitably going to want to measure it. To find the perimeter or area of a polygon, you need to know how long its sides are. 
+If you have a shape, you are inevitably going to want to measure it. To find the [perimeter](https://en.wikipedia.org/wiki/Perimeter) or [area](https://en.wikipedia.org/wiki/Area) of a polygon, you need to know how long its sides are. 
 
 If a side of your polygon is perfectly horizontal or perfectly vertical, measuring its length on the coordinate plane is wonderfully simple. We just look at the differences between the coordinates. But because a length can never be negative (you can't have a fence that is -5 feet long!), we use **[absolute value](https://en.wikipedia.org/wiki/Absolute_value)**, which simply turns any distance into a positive number.
+
+![Absolute value represents the true distance of a number from zero, ensuring that distance measurements are always positive.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
 
 > **Horizontal Lines:** If two points share the same y-coordinate, the line connecting them is perfectly horizontal. The distance between two points sharing the same y-coordinate equals the absolute value of the difference between the x-coordinates.
 > *Example:* Point A (2, 4) and Point B (7, 4). The y-coordinates are identical. The distance is $|2 - 7| = |-5| = 5$ units.
@@ -110,7 +122,7 @@ If a side of your polygon is perfectly horizontal or perfectly vertical, measuri
 > *Example:* Point C (3, -1) and Point D (3, 6). The x-coordinates are identical. The distance is $|-1 - 6| = |-7| = 7$ units.
 
 ### Why Does This Matter? Area and Perimeter
-Once you can find the distance between two points on the grid, the world of geometry opens up to you!
+Once you can find the distance between two points on the grid, the world of [geometry](https://en.wikipedia.org/wiki/Geometry) opens up to you!
 1.  **Perimeter:** Coordinate plane distances between vertices are used to determine the lengths of polygon sides for calculating perimeter. Just find the length of each side using the absolute value trick, and add them all together.
 2.  **Area:** Coordinate plane distances between vertices are used to determine the dimensions of polygons for area calculations. For a rectangle, finding the length of a horizontal side (base) and a vertical side (height) using our distance rules gives you exactly what you need to [multiply](https://en.wikipedia.org/wiki/Multiplication) ($Area = base \times height$). 
 

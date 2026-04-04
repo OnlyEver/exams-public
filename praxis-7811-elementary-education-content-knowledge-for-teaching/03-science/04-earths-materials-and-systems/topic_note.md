@@ -16,6 +16,8 @@ Let's break down the cast of characters:
 3.  **The Atmosphere:** This is the envelope of [gases](https://en.wikipedia.org/wiki/Gas) surrounding the Earth. It's the air we breathe and the [wind](https://en.wikipedia.org/wiki/Wind) that blows. 
 4.  **The Biosphere:** This contains all [living organisms](https://en.wikipedia.org/wiki/Organism) on Earth. You, me, the [trees](https://en.wikipedia.org/wiki/Tree), and the [earthworms](https://en.wikipedia.org/wiki/Earthworm).
 
+![This coastal scene beautifully captures the continuous interaction of Earth's spheres: the geosphere (sand and rock), hydrosphere (ocean water), and atmosphere (air and clouds) all interacting in one place.](https://wikipedia.org/wiki/Special:Redirect/file/90_mile_beach.jpg)
+
 Here is the grand secret of [Earth science](https://en.wikipedia.org/wiki/Earth_science): **Earth's four major systems continuously interact by exchanging [matter](https://en.wikipedia.org/wiki/Matter)** and **exchanging [energy](https://en.wikipedia.org/wiki/Energy)**. They do not exist in isolation! And because they are so tightly linked, **a change in one Earth system frequently causes subsequent changes in other Earth systems.** 
 
 ### Real-World Interactions to Share with Students
@@ -35,6 +37,8 @@ The reality? **The vast majority of the water on Earth is [saltwater](https://en
 But where *is* that fresh water hiding? Kids usually shout "[Lakes](https://en.wikipedia.org/wiki/Lake)!" or "[Rivers](https://en.wikipedia.org/wiki/River)!" Prepare to blow their minds. **Lakes and rivers contain a very small fraction of Earth's fresh water.** So, where is the rest?
 *   **Glaciers contain a large portion of Earth's fresh water** (locked up as solid [ice](https://en.wikipedia.org/wiki/Ice)).
 *   **Underground [aquifers](https://en.wikipedia.org/wiki/Aquifer) contain a large portion of Earth's fresh water** (hidden beneath our feet).
+
+![A graphical breakdown of Earth's water distribution. Notice how the vast majority is saltwater, and of the tiny fraction of fresh water, almost all of it is locked in glaciers or hidden underground as groundwater.](https://wikipedia.org/wiki/Special:Redirect/file/Earth's_water_distribution.svg)
 
 If we don't teach this, students graduate believing our local [streams](https://en.wikipedia.org/wiki/Stream) and lakes represent the bulk of our [water supply](https://en.wikipedia.org/wiki/Water_supply), which heavily skews their understanding of [water conservation](https://en.wikipedia.org/wiki/Water_conservation)!
 
@@ -60,6 +64,8 @@ There are two ways to break a rock:
 1.  **[Physical weathering](https://en.wikipedia.org/wiki/Weathering%23Physical_weathering)** breaks rocks into smaller pieces *without* changing the [chemical composition](https://en.wikipedia.org/wiki/Chemical_composition) of the rocks. If you smash a piece of [granite](https://en.wikipedia.org/wiki/Granite) with a hammer, it's still granite. Just smaller.
 2.  **[Chemical weathering](https://en.wikipedia.org/wiki/Weathering%23Chemical_weathering)** actually changes the actual chemical composition of rocks. A perfect example of this in the real world is **[acid rain](https://en.wikipedia.org/wiki/Acid_rain) falling on [limestone](https://en.wikipedia.org/wiki/Limestone)**, which demonstrates chemical weathering as the [acid](https://en.wikipedia.org/wiki/Acid) reacts with the [calcium carbonate](https://en.wikipedia.org/wiki/Calcium_carbonate), dissolving it into something entirely new.
 
+![An example of chemical weathering: The unweathered limestone on the left has been chemically altered and dissolved into the weathered state on the right over time, creating a new shape and composition.](https://wikipedia.org/wiki/Special:Redirect/file/Weathering_Limestone_State_College_PA.jpg)
+
 ### The Primary Agents of Destruction
 Nature has a crew of primary agents that do the heavy lifting. **Water, wind, ice, and living organisms act as primary agents for *both* weathering and erosion.** 
 
@@ -72,7 +78,11 @@ Let's look at how they operate:
 | **Wind** | **Wind acts as a primary agent for weathering** by blowing abrasive [sand](https://en.wikipedia.org/wiki/Sand) against rocks, acting like natural [sandpaper](https://en.wikipedia.org/wiki/Sandpaper). | **Wind acts as a primary agent for erosion.** Note: **[Wind erosion](https://en.wikipedia.org/wiki/Aeolian_processes) occurs most frequently in dry environments lacking protective [vegetation](https://en.wikipedia.org/wiki/Vegetation) cover.** |
 | **Living Organisms** | **Living organisms act as primary agents for weathering.** Believe it or not, a fragile plant can break solid rock! **[Plant roots](https://en.wikipedia.org/wiki/Root) can grow into narrow rock crevices**, and **the growth of plant roots inside rock crevices physically breaks the rock apart over time.** | **Living organisms act as primary agents for erosion.** [Animals](https://en.wikipedia.org/wiki/Animal) [burrowing](https://en.wikipedia.org/wiki/Burrow) in the dirt kick soil up to the surface, where it is easily washed or blown away. |
 
+![An example of physical weathering by ice wedging. Liquid water seeps into microscopic rock cracks, expands as it freezes, and eventually exerts enough outward force to split solid rock entirely.](https://wikipedia.org/wiki/Special:Redirect/file/Abiskorock.JPG)
+
 *Did you notice the valley shapes?* This is a great visual cue for kids! **Rivers carve [V-shaped valleys](https://en.wikipedia.org/wiki/Valley) through the continuous flow of liquid water eroding the underlying geosphere.** ("V" for the sharp, fast cut of a river). Conversely, glaciers act like giant, slow ice-spoons, carving wide **[U-shaped valleys](https://en.wikipedia.org/wiki/U-shaped_valley)**.
+
+![A classic U-shaped valley carved by the slow, bulldozer-like movement of a massive glacier. Contrast this wide, rounded bottom with the sharp, V-shaped cut of a fast-moving river.](https://wikipedia.org/wiki/Special:Redirect/file/Glacial_Valley_MtHoodWilderness.jpg)
 
 ### The Speed of Change
 Does rock weather at the same speed everywhere? No! **The rate of rock weathering depends heavily on local [climate](https://en.wikipedia.org/wiki/Climate) conditions** (hot, wet climates speed up chemical weathering) and **the rate of rock weathering depends heavily on the specific type of rock** (soft [sandstone](https://en.wikipedia.org/wiki/Sandstone) breaks down much faster than tough [quartz](https://en.wikipedia.org/wiki/Quartz)).
@@ -96,11 +106,17 @@ If you have a steep, unstable slope, [gravity](https://en.wikipedia.org/wiki/Gra
 ### 3. Terracing
 Imagine a [farmer](https://en.wikipedia.org/wiki/Farmer) on a steep mountainside. If they just plant in a straight line down the hill, rain will wash all their [topsoil](https://en.wikipedia.org/wiki/Topsoil) away. The solution? **[Terracing](https://en.wikipedia.org/wiki/Terrace_%28agriculture%29) involves cutting flat steps into a sloped hillside.** By flattening the land into steps, **terracing slows down [water runoff](https://en.wikipedia.org/wiki/Surface_runoff) on sloped hillsides.** Slower water means less [power](https://en.wikipedia.org/wiki/Power_%28physics%29) to carry sediment, which means **terracing reduces soil erosion on sloped hillsides.**
 
+![By cutting flat, step-like terraces into steep hillsides, the speed of downward water runoff is slowed significantly, which reduces the water's kinetic energy and its ability to erode valuable topsoil.](https://wikipedia.org/wiki/Special:Redirect/file/Inside_the_Batad_rice_terraces.jpg)
+
 ### 4. Breakwaters
 What about the coast? [Ocean waves](https://en.wikipedia.org/wiki/Wind_wave) relentlessly pound the [shoreline](https://en.wikipedia.org/wiki/Coast). To fight this, [engineers](https://en.wikipedia.org/wiki/Engineering) build breakwaters. **[Breakwaters](https://en.wikipedia.org/wiki/Breakwater_%28structure%29) are offshore [coastal structures](https://en.wikipedia.org/wiki/Coastal_engineering) designed to intercept waves.** By absorbing the ocean's energy before it hits the beach, **breakwaters protect coastal land from [wave erosion](https://en.wikipedia.org/wiki/Coastal_erosion).**
 
+![Offshore breakwaters intercept incoming ocean waves, absorbing their destructive energy before they reach the shore to prevent severe coastal erosion.](https://wikipedia.org/wiki/Special:Redirect/file/Breakwater_break1_new(USGS).jpg)
+
 ### 5. Windbreaks
 In dry, flat [agricultural](https://en.wikipedia.org/wiki/Agriculture) areas, wind is a thief that steals valuable dirt. To stop it, farmers plant windbreaks. **[Windbreaks](https://en.wikipedia.org/wiki/Windbreak) are linear plantings of trees or [shrubs](https://en.wikipedia.org/wiki/Shrub).** Because they act as a physical wall, **windbreaks reduce [wind speed](https://en.wikipedia.org/wiki/Wind_speed) over open land**, and by slowing the wind, **windbreaks prevent topsoil erosion.**
+
+![A row of trees deliberately planted as a windbreak. This biological barrier slows the wind speed over open agricultural land, effectively preventing topsoil from blowing away.](https://wikipedia.org/wiki/Special:Redirect/file/Shea_Butter_Trees_Planted_Near_Residential_Areas_to_Serve_as_Windbreaks.jpg)
 
 > **Instructional Decision Making:** You can't just build a 50-foot [titanium](https://en.wikipedia.org/wiki/Titanium) retaining wall for every hillside. Why? Constraints! Teach your students that **evaluating [erosion control](https://en.wikipedia.org/wiki/Erosion_control) design solutions requires analyzing material [cost](https://en.wikipedia.org/wiki/Cost) constraints** (Do we have the money for this?) and **evaluating erosion control design solutions requires analyzing [environmental impact](https://en.wikipedia.org/wiki/Environmental_impact_assessment) constraints** (Will building this breakwater destroy the local [coral reef](https://en.wikipedia.org/wiki/Coral_reef)?). [Engineering](https://en.wikipedia.org/wiki/Engineering) is all about [trade-offs](https://en.wikipedia.org/wiki/Trade-off)!
 

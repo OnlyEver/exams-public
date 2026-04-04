@@ -36,6 +36,8 @@ When we produce things, we create two categories of economic output:
 1.  **[Goods](https://en.wikipedia.org/wiki/Goods) are tangible physical objects produced to satisfy human wants or [needs](https://en.wikipedia.org/wiki/Need).** (A pencil, an apple, a car).
 2.  **[Services](https://en.wikipedia.org/wiki/Service_%28economics%29) are intangible actions performed by people to satisfy human wants or [needs](https://en.wikipedia.org/wiki/Need).** As a teacher, you are a vital economic actor! **Teaching, haircutting, and [medical care](https://en.wikipedia.org/wiki/Health_care) are examples of economic [services](https://en.wikipedia.org/wiki/Service_%28economics%29).**
 
+![The service-goods continuum illustrates how most economic products contain elements of both tangible physical goods and intangible services.](https://wikipedia.org/wiki/Special:Redirect/file/Service-goods_continuum.png)
+
 The people making the magic happen are **producers**—**the individuals or [businesses](https://en.wikipedia.org/wiki/Business) that make [goods](https://en.wikipedia.org/wiki/Goods) or provide [services](https://en.wikipedia.org/wiki/Service_%28economics%29).** On the flip side, **[consumers](https://en.wikipedia.org/wiki/Consumer) are the individuals or groups who purchase and use [goods and services](https://en.wikipedia.org/wiki/Goods_and_services).** (Fun fact: Every human being is a [consumer](https://en.wikipedia.org/wiki/Consumer), and almost all of us will eventually be producers!).
 
 #### The Ingredients of the Economy: Productive Resources
@@ -54,6 +56,8 @@ There is also a special spark required to bring these three together. **[Entrepr
 > **⚠️ Student Misconception Alert:**
 > When teaching [natural resources](https://en.wikipedia.org/wiki/Natural_resource), taking students on a nature walk is a great idea—but watch out! **Elementary students commonly misidentify human-made outdoor structures as naturally occurring [natural resources](https://en.wikipedia.org/wiki/Natural_resource).** Because a [telephone pole](https://en.wikipedia.org/wiki/Utility_pole) or a man-made [retaining pond](https://en.wikipedia.org/wiki/Retention_basin) is "outside in nature," children assume it is a [natural resource](https://en.wikipedia.org/wiki/Natural_resource). You must emphasize that [natural resources](https://en.wikipedia.org/wiki/Natural_resource) are *unaltered* gifts of nature. 
 
+![A wooden utility pole is a capital resource, not a natural one. Because it has been altered by human effort for use in providing a service, it no longer classifies as an unaltered gift of nature.](https://wikipedia.org/wiki/Special:Redirect/file/SIF-Overhead-Wires-1-Cropped.jpg)
+
 ---
 
 ### The Web We Weave: Specialization and Trade
@@ -64,6 +68,8 @@ Society leveled up when we discovered **specialization**, which is **the economi
 
 A beautiful example of this is the **[division of labor](https://en.wikipedia.org/wiki/Division_of_labour)**, a **[production](https://en.wikipedia.org/wiki/Production_%28economics%29) method where a complex process is broken down into smaller, distinct tasks.** Think of [Henry Ford’s](https://en.wikipedia.org/wiki/Henry_Ford) [assembly line](https://en.wikipedia.org/wiki/Assembly_line), or a classroom where one student is the paper-passer, another is the line-leader, and another wipes the boards. 
 
+![Henry Ford's 1913 automobile assembly line is a classic example of the division of labor, where complex production is broken down into simple, specialized tasks to increase overall efficiency.](https://wikipedia.org/wiki/Special:Redirect/file/Ford_assembly_line_-_1913.jpg)
+
 But there’s a catch! If I only produce shoes, I still need to eat. Therefore, **specialization directly increases economic [interdependence](https://en.wikipedia.org/wiki/Interdependence) among individuals and nations.** We now rely on each other. **Economic [interdependence](https://en.wikipedia.org/wiki/Interdependence) is the reliance of individuals or groups on others to provide necessary [goods and services](https://en.wikipedia.org/wiki/Goods_and_services).**
 
 #### Let's Make a Deal: Trade, Barter, and Money
@@ -71,12 +77,16 @@ Because we are interdependent, we must exchange. **[Trade](https://en.wikipedia.
 
 At recess, kids engage in **[barter](https://en.wikipedia.org/wiki/Barter)**, which is **the direct exchange of [goods and services](https://en.wikipedia.org/wiki/Goods_and_services) without utilizing any form of [money](https://en.wikipedia.org/wiki/Money).** (I’ll trade you my juice box for your crackers). 
 
+![An 1874 illustration demonstrating barter, where a customer offers the direct exchange of physical goods (farm produce) for a newspaper subscription without using money.](https://wikipedia.org/wiki/Special:Redirect/file/Barter-Chickens_for_Subscription.jpg)
+
 But [barter](https://en.wikipedia.org/wiki/Barter) is clunky. What if the kid with the crackers doesn't want your juice box? This headache was solved by one of humanity's greatest inventions: [Money](https://en.wikipedia.org/wiki/Money). **[Money](https://en.wikipedia.org/wiki/Money) functions as a generally accepted [medium of exchange](https://en.wikipedia.org/wiki/Medium_of_exchange) to facilitate [trade](https://en.wikipedia.org/wiki/Trade).**
 
 > **⚠️ Student Misconception Alerts:**
 > [Economics](https://en.wikipedia.org/wiki/Economics) relies heavily on abstract thinking regarding [money](https://en.wikipedia.org/wiki/Money), which young brains struggle with.
 > *   **Physical [money](https://en.wikipedia.org/wiki/Money) has intrinsic material [value](https://en.wikipedia.org/wiki/Value_%28economics%29) rather than assigned value.** This is a massive, **common elementary student misconception**. Children believe the physical paper of a \$100 bill is inherently precious, like [gold](https://en.wikipedia.org/wiki/Gold). You must teach them that [money](https://en.wikipedia.org/wiki/Money) only works because society *agrees* on its [assigned value](https://en.wikipedia.org/wiki/Fiat_money).
 > *   **Where does [money](https://en.wikipedia.org/wiki/Money) come from?** **Young students frequently believe that [commercial banks](https://en.wikipedia.org/wiki/Commercial_bank) freely distribute [money](https://en.wikipedia.org/wiki/Money) to the public.** They see an [ATM](https://en.wikipedia.org/wiki/Automated_teller_machine) spitting out cash and assume it’s a magical free-money dispenser. Teachers must explicitly connect [money](https://en.wikipedia.org/wiki/Money) to human [labor](https://en.wikipedia.org/wiki/Labour_%28economics%29)—banks simply store the [value](https://en.wikipedia.org/wiki/Value_%28economics%29) of the [human resources](https://en.wikipedia.org/wiki/Human_resources) ([labor](https://en.wikipedia.org/wiki/Labour_%28economics%29)) people have provided.
+
+![Unlike historical gold coins which possess intrinsic material value, modern paper money has value solely because society agrees to accept it as a medium of exchange.](https://wikipedia.org/wiki/Special:Redirect/file/2006_AEGold_Proof_Rev.png)
 
 ---
 
@@ -89,6 +99,9 @@ In any [market](https://en.wikipedia.org/wiki/Market_%28economics%29), two invis
 #### Demand: The Consumers' Voice
 **[Demand](https://en.wikipedia.org/wiki/Demand_%28economics%29) represents the quantity of a good or service [consumers](https://en.wikipedia.org/wiki/Consumer) are willing to buy at various prices.** 
 Imagine you are selling [lemonade](https://en.wikipedia.org/wiki/Lemonade). How do your buyers behave? 
+
+![A childhood lemonade stand serves as a highly relatable, real-world model for teaching elementary students about the interaction of producers, consumers, and pricing.](https://wikipedia.org/wiki/Special:Redirect/file/Children_selling_lemonade_to_an_adult_in_La_Canada%2C_California%2C_1960.jpg)
+
 *   **The [law of demand](https://en.wikipedia.org/wiki/Law_of_demand) states that [consumers](https://en.wikipedia.org/wiki/Consumer) purchase a larger quantity of a product at lower prices.** (If you charge \$0.10, everyone wants a cup!)
 *   **The [law of demand](https://en.wikipedia.org/wiki/Law_of_demand) states that [consumers](https://en.wikipedia.org/wiki/Consumer) purchase a smaller quantity of a product at higher prices.** (If you charge \$5.00, only your very supportive grandmother will buy a cup.)
 
@@ -103,6 +116,8 @@ Now look at it from the perspective of the person *making* the [lemonade](https:
 #### The Perfect Balance: Equilibrium, Shortages, and Surpluses
 The [market](https://en.wikipedia.org/wiki/Market_%28economics%29) is a constant [negotiation](https://en.wikipedia.org/wiki/Negotiation) to find the sweet spot. 
 *   **[Equilibrium price](https://en.wikipedia.org/wiki/Economic_equilibrium) is the specific price point where the quantity demanded exactly equals the quantity supplied.** The [market clears](https://en.wikipedia.org/wiki/Market_clearing). Everyone who wants a [lemonade](https://en.wikipedia.org/wiki/Lemonade) at that price gets one, and no [lemonade](https://en.wikipedia.org/wiki/Lemonade) is left over.
+
+![The supply and demand model illustrates economic equilibrium, the exact price point where the quantity producers supply perfectly matches the quantity consumers demand.](https://wikipedia.org/wiki/Special:Redirect/file/Supply-demand-equilibrium.svg)
 
 But what happens when the [market](https://en.wikipedia.org/wiki/Market_%28economics%29) is out of whack?
 *   **A [shortage](https://en.wikipedia.org/wiki/Shortage_%28economics%29) occurs when the quantity demanded of a good exceeds the quantity supplied at a specific price.** (The price was set too low! You brought 10 cups of [lemonade](https://en.wikipedia.org/wiki/Lemonade), but 50 kids wanted one.)

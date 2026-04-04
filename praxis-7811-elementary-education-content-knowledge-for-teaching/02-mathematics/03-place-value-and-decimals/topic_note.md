@@ -12,6 +12,8 @@ We are going to dissect [place value](https://en.wikipedia.org/wiki/Positional_n
 
 Why do we group things by [tens](https://en.wikipedia.org/wiki/10)? Nature doesn't inherently care about the [number](https://en.wikipedia.org/wiki/Number) ten, but our hands do! We have ten [fingers](https://en.wikipedia.org/wiki/Finger). From that biological accident, human beings built a masterpiece of [abstraction](https://en.wikipedia.org/wiki/Abstraction_%28mathematics%29). 
 
+![The ten fingers on human hands provide the biological foundation for our base-ten counting system.](https://wikipedia.org/wiki/Special:Redirect/file/Two_hand%2C_ten_fingers.jpg)
+
 **The [base-ten](https://en.wikipedia.org/wiki/Decimal) [number system](https://en.wikipedia.org/wiki/Numeral_system) is a [positional numeral system](https://en.wikipedia.org/wiki/Positional_notation).** This means the location of a [digit](https://en.wikipedia.org/wiki/Numerical_digit) within a number determines its actual mathematical [value](https://en.wikipedia.org/wiki/Value_%28mathematics%29). 
 
 > **The Core Rule of Base-Ten:**
@@ -55,6 +57,8 @@ For your youngest learners, we use ten-frames. **Ten-frames are graphical tools 
 
 This builds a vital skill called subitizing. **[Subitizing](https://en.wikipedia.org/wiki/Subitizing) is the mathematical ability to instantly recognize the [quantity](https://en.wikipedia.org/wiki/Quantity) of objects in a small group without manually counting.** (Think of looking at the dots on a 6-sided [die](https://en.wikipedia.org/wiki/Dice)—you don't count them 1, 2, 3... you just *know* it's 6).
 
+![Subitizing is the ability to instantly recognize small quantities, such as identifying the amount of red circles present here without counting them one by one.](https://wikipedia.org/wiki/Special:Redirect/file/Fractions_4_of_12.svg)
+
 ### Proportional vs. Non-Proportional Manipulatives
 As students move to larger numbers, we use physical blocks and disks.
 
@@ -65,6 +69,8 @@ As students move to larger numbers, we use physical blocks and disks.
 *   **In whole number representations, a base-ten rod comprises ten unit cubes and represents the value of ten.**
 *   **In whole number representations, a base-ten flat comprises ten rods and represents the value of one hundred.**
 *   **In whole number representations, a base-ten large cube comprises ten flats and represents the value of one thousand.**
+
+![Base-ten blocks serve as proportional manipulatives, physically representing the 10-to-1 magnitude scaling between ones, tens, hundreds, and thousands.](https://wikipedia.org/wiki/Special:Redirect/file/Dienes_Material_(Dyskalkulie).jpg)
 
 However, once students grasp the physical sizes, we often transition them to tools that take up less space. Enter non-proportional manipulatives.
 
@@ -129,6 +135,8 @@ They learn that tenths ($1/10$) are bigger pieces than thousandths ($1/1000$). S
 To shatter these misconceptions, manipulatives are great, but [number lines](https://en.wikipedia.org/wiki/Number_line) are the ultimate weapon. 
 
 **Number lines help students visualize the continuous magnitude and relative positioning of multidigit numbers and decimals.** A number line forces a student to see that 0.45 lives between 0.4 and 0.5. It proves that numbers don't exist in isolated buckets; they live on an [infinite](https://en.wikipedia.org/wiki/Infinity), [continuous spectrum](https://en.wikipedia.org/wiki/Continuum_%28mathematics%29).
+
+![A continuous number line helps students visually track the exact magnitude and relative positioning of values, reinforcing that numbers exist on an unbroken spectrum.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
 
 Number lines also solve the mystery of [rounding](https://en.wikipedia.org/wiki/Rounding). Instead of just teaching kids the "five or above, give it a shove" rhyme (which explains nothing about *why* we do it), **number lines provide a visual [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) tool for rounding numbers to a designated place value.** 
 

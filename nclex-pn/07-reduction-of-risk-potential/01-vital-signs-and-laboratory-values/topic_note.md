@@ -1,8 +1,8 @@
 # The Engine of Life: A Masterclass on Vital Signs and Laboratory Values
 
-Hello! If you're studying for the [NCLEX-PN](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination), you’ve probably seen massive, intimidating tables of numbers: [heart rates](https://en.wikipedia.org/wiki/Heart_rate), [sodium](https://en.wikipedia.org/wiki/Sodium_in_biology) levels, blood gas values. Most textbooks present these as a dry list of facts to memorize. But that’s entirely the wrong way to look at them! 
+Hello! If you're studying for the [NCLEX-PN](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination), you’ve probably seen massive, intimidating tables of numbers: [heart rates](https://en.wikipedia.org/wiki/Heart_rate), [sodium](https://en.wikipedia.org/wiki/Sodium_in_biology) levels, [blood gas](https://en.wikipedia.org/wiki/Arterial_blood_gas_test) values. Most textbooks present these as a dry list of facts to memorize. But that’s entirely the wrong way to look at them! 
 
-Think of the human body as the most brilliant, complex chemical engine in the universe. **[Vital signs](https://en.wikipedia.org/wiki/Vital_signs)** are the gauges on the dashboard. **Laboratory values** are the deep diagnostic computer readouts showing you the exact chemistry of the fuel and exhaust. 
+Think of the human body as the most brilliant, complex chemical engine in the universe. **[Vital signs](https://en.wikipedia.org/wiki/Vital_signs)** are the gauges on the dashboard. **[Laboratory values](https://en.wikipedia.org/wiki/Reference_ranges_for_blood_tests)** are the deep diagnostic computer readouts showing you the exact chemistry of the fuel and exhaust. 
 
 When you understand *why* the body produces these numbers, you don't just memorize them—you *feel* them. You know exactly what’s happening beneath the patient's skin. 
 
@@ -12,20 +12,20 @@ Let’s dive into the mechanics of keeping a human being alive, how we measure i
 
 ## Part 1: The Dashboard (Vital Signs)
 
-Before we can know if a patient is crashing, we have to know where they started. That’s the entire point of a **baseline vital sign measurement**. It serves as the definitive reference point for all subsequent vital sign assessments for a specific patient. Why? Because everyone’s "normal" engine idles a little differently. 
+Before we can know if a patient is crashing, we have to know where they started. That’s the entire point of a **[baseline](https://en.wikipedia.org/wiki/Baseline_%28medicine%29) vital sign measurement**. It serves as the definitive reference point for all subsequent vital sign assessments for a specific patient. Why? Because everyone’s "normal" engine idles a little differently. 
 
 > **The Golden Rule of the Dashboard:**
 > A significant deviation from a patient's baseline vital signs indicates a potential physiological change requiring intervention. You aren't just writing numbers in a chart; you are hunting for changes.
 
-And don't forget the subjective gauge: **[Pain assessment](https://en.wikipedia.org/wiki/Pain_assessment) is considered the fifth vital sign** in routine patient monitoring. If the patient's engine is hurting, their physical numbers (like heart rate and blood pressure) will warp in response.
+And don't forget the subjective gauge: **[Pain assessment](https://en.wikipedia.org/wiki/Pain_assessment) is considered the [fifth vital sign](https://en.wikipedia.org/wiki/Vital_signs%23Fifth_vital_signs)** in routine patient monitoring. If the patient's engine is hurting, their physical numbers (like heart rate and [blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)) will warp in response.
 
 ### 1. Temperature: The Engine Heat
 A **normal adult oral temperature ranges from 36.5 to 37.5 [degrees Celsius](https://en.wikipedia.org/wiki/Celsius) (97.7 to 99.5 [degrees Fahrenheit](https://en.wikipedia.org/wiki/Fahrenheit)).** 
 
-When you check a temperature using a tympanic thermometer, remember the physics of it: it reads [infrared](https://en.wikipedia.org/wiki/Infrared) heat radiating off the eardrum. Because of this, **the tympanic thermometer must be aimed toward the patient's [tympanic membrane](https://en.wikipedia.org/wiki/Eardrum)** to obtain an accurate temperature reading. If you aim it at the ear canal wall, you get a falsely cool reading!
+When you check a temperature using a [tympanic thermometer](https://en.wikipedia.org/wiki/Medical_thermometer), remember the physics of it: it reads [infrared](https://en.wikipedia.org/wiki/Infrared) heat radiating off the eardrum. Because of this, **the tympanic thermometer must be aimed toward the patient's [tympanic membrane](https://en.wikipedia.org/wiki/Eardrum)** to obtain an accurate temperature reading. If you aim it at the ear canal wall, you get a falsely cool reading!
 
 **Why does temperature matter so much?** 
-Because heat accelerates chemical reactions. **An elevated body temperature increases the body's [metabolic](https://en.wikipedia.org/wiki/Metabolism) demand for [oxygen](https://en.wikipedia.org/wiki/Oxygen).** If your patient has a fever, they are burning through oxygen faster, which means the heart and [lungs](https://en.wikipedia.org/wiki/Lung) have to work overtime to keep up.
+Because heat accelerates chemical reactions. **An elevated body temperature increases the body's [metabolic](https://en.wikipedia.org/wiki/Metabolism) demand for [oxygen](https://en.wikipedia.org/wiki/Oxygen).** If your patient has a fever, they are burning through oxygen faster, which means the [heart](https://en.wikipedia.org/wiki/Heart) and [lungs](https://en.wikipedia.org/wiki/Lung) have to work overtime to keep up.
 
 ### 2. The Pump: Heart Rate & Pulses
 Let's talk about the pump moving the fluid. 
@@ -34,40 +34,48 @@ Let's talk about the pump moving the fluid.
 
 When the heart beats faster than normal, we call it [tachycardia](https://en.wikipedia.org/wiki/Tachycardia). Don't just view tachycardia as a symptom; view it as an intelligent machine trying to save itself. 
 *   **Tachycardia acts as an early compensatory mechanism for [hypoxia](https://en.wikipedia.org/wiki/Hypoxia_%28medical%29)** (low oxygen). If the blood isn't carrying enough oxygen, the heart simply spins faster to deliver what little oxygen it has more frequently.
-*   Similarly, **tachycardia acts as an early compensatory mechanism for hypovolemia** (low blood volume). If there's less fluid in the pipes, the pump beats faster to keep the pressure up. 
+*   Similarly, **tachycardia acts as an early compensatory mechanism for [hypovolemia](https://en.wikipedia.org/wiki/Hypovolemia)** (low blood volume). If there's less fluid in the pipes, the pump beats faster to keep the pressure up. 
 
 **Assessing the Pump:**
-Usually, we feel the radial pulse at the wrist. But what happens if you feel a flutter or an irregular rhythm? **An irregular radial pulse requires the nurse to assess the apical pulse for one full minute.** 
+Usually, we feel the [radial pulse](https://en.wikipedia.org/wiki/Pulse%23Radial_pulse) at the [wrist](https://en.wikipedia.org/wiki/Wrist). But what happens if you feel a flutter or an irregular rhythm? **An irregular radial pulse requires the nurse to assess the [apical pulse](https://en.wikipedia.org/wiki/Apical_pulse) for one full minute.** 
+
+![Taking a radial pulse at the wrist. If the rhythm is irregular, the nurse must bypass the wrist and listen directly to the heart via the apical pulse.](https://wikipedia.org/wiki/Special:Redirect/file/Pulse_(Wrist).png)
 
 > **Where is the apical pulse?**
-> You bypass the pipes and listen directly to the pump. **The apical pulse is assessed by auscultating the heart at the fifth intercostal space at the midclavicular line.**
+> You bypass the pipes and listen directly to the pump. **The apical pulse is assessed by [auscultating](https://en.wikipedia.org/wiki/Auscultation) the heart at the fifth [intercostal space](https://en.wikipedia.org/wiki/Intercostal_space) at the [midclavicular line](https://en.wikipedia.org/wiki/Midclavicular_line).**
 
-If you measure the apical pulse and the radial pulse at the same time and the numbers don't match, you have a **pulse deficit**. 
+![The human heart is located centrally in the thorax with its apex pointing to the left, which is exactly where the apical pulse is auscultated.](https://wikipedia.org/wiki/Special:Redirect/file/Heart_near.png)
+
+If you measure the apical pulse and the radial pulse at the same time and the numbers don't match, you have a **[pulse deficit](https://en.wikipedia.org/wiki/Pulse_deficit)**. 
 *   **Calculation:** A pulse deficit is calculated by subtracting the radial pulse rate from the apical pulse rate obtained simultaneously. 
-*   **Meaning:** **The presence of a pulse deficit indicates cardiac arrhythmias.** It means the heart is beating, but some of those beats are too weak to push a wave of blood all the way down to the wrist. 
+*   **Meaning:** **The presence of a pulse deficit indicates cardiac [arrhythmias](https://en.wikipedia.org/wiki/Arrhythmia).** It means the heart is beating, but some of those beats are too weak to push a wave of blood all the way down to the wrist. 
 
 ### 3. The Bellows: Respirations & Oxygenation
 The lungs pull in the oxygen needed for the metabolic fire.
 *   **A normal adult [respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate) is between 12 and 20 breaths per minute.**
 *   Again, tiny engines rev higher: **A normal respiratory rate for a newborn ranges from 30 to 60 breaths per minute.**
 
-We measure the success of these breaths using a pulse oximeter. **Normal [oxygen saturation](https://en.wikipedia.org/wiki/Oxygen_saturation_%28medicine%29) measured by pulse oximetry is 95 percent to 100 percent for healthy adults.**
+We measure the success of these breaths using a [pulse oximeter](https://en.wikipedia.org/wiki/Pulse_oximetry). **Normal [oxygen saturation](https://en.wikipedia.org/wiki/Oxygen_saturation_%28medicine%29) measured by pulse oximetry is 95 percent to 100 percent for healthy adults.**
+
+![A pulse oximeter probe measures oxygen saturation non-invasively by transmitting light through the capillary bed of the finger.](https://wikipedia.org/wiki/Special:Redirect/file/Saturometre_2.jpg)
 
 ### 4. The Pipe Pressure: Blood Pressure
 Blood pressure is simply the physical force of fluid against the walls of the [arteries](https://en.wikipedia.org/wiki/Artery).
-*   **A normal adult systolic blood pressure is less than 120 millimeters of mercury (mmHg).** This is the high-pressure slam when the heart squeezes.
-*   **A normal adult diastolic blood pressure is less than 80 millimeters of mercury (mmHg).** This is the resting pressure when the heart relaxes.
+*   **A normal adult [systolic blood pressure](https://en.wikipedia.org/wiki/Blood_pressure) is less than 120 [millimeters of mercury](https://en.wikipedia.org/wiki/Millimeter_of_mercury) (mmHg).** This is the high-pressure slam when the heart squeezes.
+*   **A normal adult [diastolic blood pressure](https://en.wikipedia.org/wiki/Blood_pressure) is less than 80 millimeters of mercury (mmHg).** This is the resting pressure when the heart relaxes.
 
 **The Space Between:**
-**[Pulse pressure](https://en.wikipedia.org/wiki/Pulse_pressure) is calculated by subtracting the diastolic blood pressure from the systolic blood pressure.** A **normal pulse pressure ranges from 30 to 50 millimeters of mercury.** If this gap gets too wide or too narrow, it tells you a lot about the elasticity of the blood vessels and the stroke volume of the heart.
+**[Pulse pressure](https://en.wikipedia.org/wiki/Pulse_pressure) is calculated by subtracting the diastolic blood pressure from the systolic blood pressure.** A **normal pulse pressure ranges from 30 to 50 millimeters of mercury.** If this gap gets too wide or too narrow, it tells you a lot about the elasticity of the blood vessels and the [stroke volume](https://en.wikipedia.org/wiki/Stroke_volume) of the heart.
 
 **The Mechanics of Measurement:**
-Think about how a blood pressure cuff works. It has to squeeze the arm hard enough to collapse the artery, then slowly let go. 
+Think about how a [blood pressure cuff](https://en.wikipedia.org/wiki/Sphygmomanometer) works. It has to squeeze the arm hard enough to collapse the artery, then slowly let go. 
 *   **A falsely elevated blood pressure reading occurs when a blood pressure cuff is too small for the patient's arm.** Why? Because you have to over-inflate a tiny cuff to force the thick tissue to compress the artery!
 *   Conversely, **a falsely decreased blood pressure reading occurs when a blood pressure cuff is too large for the patient's arm.** The pressure is spread over too wide an area, clamping the artery shut with artificially low pressure.
 
+![A sphygmomanometer measures blood pressure by inflating a cuff to physically collapse the artery, then slowly releasing the pressure to determine when blood flow forcefully resumes (systolic) and when it flows smoothly (diastolic).](https://wikipedia.org/wiki/Special:Redirect/file/Blood_pressure_measurement_principle.svg)
+
 **Positional Changes:**
-Sometimes the body's gravity-compensators are slow to react when a patient stands up. We call this **Orthostatic hypotension**. By definition, this involves:
+Sometimes the body's gravity-compensators are slow to react when a patient stands up. We call this **[Orthostatic hypotension](https://en.wikipedia.org/wiki/Orthostatic_hypotension)**. By definition, this involves:
 1.  **A decrease in systolic blood pressure of 20 millimeters of mercury or more upon standing.**
 2.  **A decrease in diastolic blood pressure of 10 millimeters of mercury or more upon standing.**
 
@@ -83,21 +91,28 @@ While vital signs tell us *how* the engine is running, laboratory values tell us
 ### 1. The Complete Blood Count (CBC)
 Let's look at the cells swimming in the blood. 
 
+![A scanning electron micrograph visualizing the primary cellular components of blood evaluated in a CBC: a red blood cell (left), an activated platelet (center), and a white blood cell (right).](https://wikipedia.org/wiki/Special:Redirect/file/Red_White_Blood_cells.jpg)
+
 | Component | Normal Range | What it Means |
 | :--- | :--- | :--- |
 | **[White Blood Cells](https://en.wikipedia.org/wiki/White_blood_cell) (WBC)** | 5,000 to 10,000 cells/mcL | The body's defense force. **An elevated white blood cell count typically indicates an ongoing [inflammatory](https://en.wikipedia.org/wiki/Inflammation) or [infectious](https://en.wikipedia.org/wiki/Infection) process.** |
 | **[Platelets](https://en.wikipedia.org/wiki/Platelet)** | 150,000 to 400,000 /mcL | The patching crew. **A decreased platelet count increases a patient's risk for spontaneous bleeding.** |
-| **Hemoglobin (Hb)** | Male: 14-18 g/dL<br>Female: 12-16 g/dL | The oxygen-carrying cargo. **Hemoglobin carries oxygen within [red blood cells](https://en.wikipedia.org/wiki/Red_blood_cell) to tissues throughout the body.** |
+| **[Hemoglobin](https://en.wikipedia.org/wiki/Hemoglobin) (Hb)** | Male: 14-18 g/dL<br>Female: 12-16 g/dL | The oxygen-carrying cargo. **Hemoglobin carries oxygen within [red blood cells](https://en.wikipedia.org/wiki/Red_blood_cell) to tissues throughout the body.** |
 | **[Hematocrit](https://en.wikipedia.org/wiki/Hematocrit) (Hct)** | Male: 42-52%<br>Female: 37-47% | The "thickness" gauge. **Hematocrit represents the percentage of total blood volume composed of red blood cells.** |
+
+![Hematocrit is conceptually and physically demonstrated by centrifuging a blood sample to separate the packed red blood cells from the plasma, providing a visual gauge of blood thickness.](https://wikipedia.org/wiki/Special:Redirect/file/Packed_cell_volume_diagram.svg)
 
 ### 2. The Basic Metabolic Panel (Electrolytes & Waste)
 [Electrolytes](https://en.wikipedia.org/wiki/Electrolyte) conduct the electricity that makes the heart beat and muscles twitch. Do not underestimate them!
 
-*   **[Sodium](https://en.wikipedia.org/wiki/Sodium_in_biology) (Na):** **135 to 145 milliequivalents per liter (mEq/L).** Controls water balance. 
+*   **[Sodium](https://en.wikipedia.org/wiki/Sodium_in_biology) (Na):** **135 to 145 [milliequivalents](https://en.wikipedia.org/wiki/Equivalent_%28chemistry%29) per liter (mEq/L).** Controls water balance. 
 *   **[Potassium](https://en.wikipedia.org/wiki/Potassium_in_biology) (K):** **3.5 to 5.0 mEq/L.** This is arguably the most dangerous electrolyte to get wrong. **Elevated serum potassium levels place a patient at high risk for life-threatening cardiac dysrhythmias.**
+
+![An electrocardiogram demonstrating the life-threatening cardiac effects of high potassium (hyperkalemia), characterized by dangerously tall, peaked T waves.](https://wikipedia.org/wiki/Special:Redirect/file/HyperK2014.JPG)
+
 *   **[Calcium](https://en.wikipedia.org/wiki/Calcium_in_biology) (Ca):** **8.5 to 10.5 milligrams per deciliter (mg/dL).** Vital for [muscle contraction](https://en.wikipedia.org/wiki/Muscle_contraction) and bone health.
 *   **[Magnesium](https://en.wikipedia.org/wiki/Magnesium_in_biology) (Mg):** **1.5 to 2.5 mEq/L.** The great muscle relaxer.
-*   **[Chloride](https://en.wikipedia.org/wiki/Chloride) (Cl):** **98 to 106 mEq/L.** Follows sodium to maintain acid-base balance.
+*   **[Chloride](https://en.wikipedia.org/wiki/Chloride) (Cl):** **98 to 106 mEq/L.** Follows sodium to maintain [acid-base balance](https://en.wikipedia.org/wiki/Acid%E2%80%93base_homeostasis).
 
 **[Renal Function](https://en.wikipedia.org/wiki/Assessment_of_kidney_function) (The Exhaust Filters):**
 How well are the [kidneys](https://en.wikipedia.org/wiki/Kidney) filtering out cellular waste?
@@ -105,32 +120,37 @@ How well are the [kidneys](https://en.wikipedia.org/wiki/Kidney) filtering out c
 *   **[Serum Creatinine](https://en.wikipedia.org/wiki/Creatinine):** **0.6 to 1.2 mg/dL.** 
 *   *The Rule:* **Elevated Blood Urea Nitrogen and serum creatinine levels indicate impaired renal function.** If the filters are broken, the exhaust backs up into the blood.
 
+![The nephron handles fluid and electrolytes through precise filtration, secretion, reabsorption, and excretion. When these microscopic structures fail, metabolic exhaust like BUN and creatinine builds up in the blood.](https://wikipedia.org/wiki/Special:Redirect/file/Physiology_of_Nephron.png)
+
 **Blood Sugar (The Fuel):**
-*   **Fasting blood glucose:** **70 to 99 mg/dL.**
-*   **Glycosylated Hemoglobin (HbA1c):** **A normal glycosylated hemoglobin level for an adult without [diabetes](https://en.wikipedia.org/wiki/Diabetes) is less than 5.7 percent.** This measures the average blood sugar over the last three months by seeing how much sugar got "stuck" to the red blood cells.
+*   **[Fasting blood glucose](https://en.wikipedia.org/wiki/Fasting_blood_sugar):** **70 to 99 mg/dL.**
+*   **[Glycosylated Hemoglobin](https://en.wikipedia.org/wiki/Glycated_hemoglobin) (HbA1c):** **A normal glycosylated hemoglobin level for an adult without [diabetes](https://en.wikipedia.org/wiki/Diabetes) is less than 5.7 percent.** This measures the average blood sugar over the last three months by seeing how much sugar got "stuck" to the red blood cells.
 
 ### 3. Coagulation Profiles (The Clotting Timers)
-How fast does the blood clot? We measure this in seconds. 
-*   **Prothrombin Time (PT):** **11 to 12.5 seconds.**
-*   **Activated Partial Thromboplastin Time (aPTT):** **30 to 40 seconds.** 
-*   **International Normalized Ratio (INR):** 
+How fast does the blood [clot](https://en.wikipedia.org/wiki/Thrombus)? We measure this in seconds. 
+*   **[Prothrombin Time](https://en.wikipedia.org/wiki/Prothrombin_time) (PT):** **11 to 12.5 seconds.**
+*   **[Activated Partial Thromboplastin Time](https://en.wikipedia.org/wiki/Partial_thromboplastin_time) (aPTT):** **30 to 40 seconds.** 
+*   **[International Normalized Ratio](https://en.wikipedia.org/wiki/Prothrombin_time) (INR):** 
     *   **The normal adult range for an INR for a patient not on [anticoagulant](https://en.wikipedia.org/wiki/Anticoagulant) therapy is 0.8 to 1.1.**
     *   **The therapeutic INR for a patient on [warfarin](https://en.wikipedia.org/wiki/Warfarin) therapy typically ranges from 2.0 to 3.0.** (We intentionally thin the blood to prevent clots, so we *want* this number higher!).
 
 ### 4. Arterial Blood Gases (The Exhaust Mix)
-*   **Arterial blood pH:** **7.35 to 7.45.** The body works incredibly hard to keep the blood in this tight, slightly basic window.
-*   **Arterial partial pressure of carbon dioxide (PaCO2):** **35 to 45 mmHg.** This is the respiratory acid.
-*   **Arterial bicarbonate level (HCO3):** **22 to 26 mEq/L.** This is the metabolic base (buffer) made by the kidneys. 
+*   **[Arterial blood pH](https://en.wikipedia.org/wiki/Blood_pH):** **7.35 to 7.45.** The body works incredibly hard to keep the blood in this tight, slightly basic window.
+*   **[Arterial partial pressure of carbon dioxide](https://en.wikipedia.org/wiki/Partial_pressure_of_carbon_dioxide) (PaCO2):** **35 to 45 mmHg.** This is the respiratory acid.
+*   **[Arterial bicarbonate level](https://en.wikipedia.org/wiki/Bicarbonate) (HCO3):** **22 to 26 mEq/L.** This is the metabolic base (buffer) made by the kidneys. 
 
 ### 5. Lipid Panel (The Pipe Sludge)
 Too much [lipid](https://en.wikipedia.org/wiki/Lipid) material clogs the arteries over time. 
+
+![Excess lipids in the bloodstream contribute to atherosclerosis, physically narrowing and hardening the walls of the arteries over time, restricting vital blood flow.](https://wikipedia.org/wiki/Special:Redirect/file/Atherosclerosis_diagram.png)
+
 *   **Total serum [cholesterol](https://en.wikipedia.org/wiki/Cholesterol):** **Less than 200 mg/dL.**
-*   **Low-density lipoprotein (LDL):** **Less than 100 mg/dL.** (The "Lousy" cholesterol).
-*   **High-density lipoprotein (HDL):** This is the "Happy" cholesterol that cleans the pipes. **Greater than 40 mg/dL for males** and **greater than 50 mg/dL for females.**
+*   **[Low-density lipoprotein](https://en.wikipedia.org/wiki/Low-density_lipoprotein) (LDL):** **Less than 100 mg/dL.** (The "Lousy" cholesterol).
+*   **[High-density lipoprotein](https://en.wikipedia.org/wiki/High-density_lipoprotein) (HDL):** This is the "Happy" cholesterol that cleans the pipes. **Greater than 40 mg/dL for males** and **greater than 50 mg/dL for females.**
 *   **Serum [triglycerides](https://en.wikipedia.org/wiki/Triglyceride):** **Less than 150 mg/dL.**
 
 ### 6. Specialty Biomarkers and Drug Levels
-*   **Brain Natriuretic Peptide (BNP):** **Less than 100 picograms per milliliter (pg/mL).** If the heart is stretching too much (like in [heart failure](https://en.wikipedia.org/wiki/Heart_failure)), it releases BNP. 
+*   **[Brain Natriuretic Peptide](https://en.wikipedia.org/wiki/Brain_natriuretic_peptide) (BNP):** **Less than 100 picograms per milliliter (pg/mL).** If the heart is stretching too much (like in [heart failure](https://en.wikipedia.org/wiki/Heart_failure)), it releases BNP. 
 *   **[Digoxin](https://en.wikipedia.org/wiki/Digoxin):** A cardiac medication. The **therapeutic level is 0.8 to 2.0 nanograms per milliliter (ng/mL).**
 *   **[Lithium](https://en.wikipedia.org/wiki/Lithium_%28medication%29):** A psychiatric medication. The **therapeutic level is 0.6 to 1.2 mEq/L.**
 
@@ -146,22 +166,35 @@ Before you ever uncap a needle:
 2.  **Consent:** **A patient must provide [informed consent](https://en.wikipedia.org/wiki/Informed_consent) before a blood draw procedure.**
 
 ### 2. Location and Mechanics
-*   **Vein Selection:** Always **prioritize distal sites on the upper extremities.** You work your way up. However, **the preferred venipuncture site for adults is the median cubital vein located in the [antecubital fossa](https://en.wikipedia.org/wiki/Cubital_fossa)** (the bend of the elbow) because it's large and well-anchored.
+*   **Vein Selection:** Always **prioritize distal sites on the upper extremities.** You work your way up. However, **the preferred venipuncture site for adults is the [median cubital vein](https://en.wikipedia.org/wiki/Median_cubital_vein) located in the [antecubital fossa](https://en.wikipedia.org/wiki/Cubital_fossa)** (the bend of the elbow) because it's large and well-anchored.
+
+![A standard venipuncture targeting the median cubital vein in the antecubital fossa, which is the preferred site for adults due to its size and superficial accessibility.](https://wikipedia.org/wiki/Special:Redirect/file/Blooddraw.jpg)
+
 *   **The Angle:** **The needle insertion angle for a standard venipuncture ranges from 15 degrees to 30 degrees.** Too steep, and you go straight through the vein. Too shallow, and you scrape along the top of it.
-*   **The IV Rule:** Never, ever draw above a running IV! **Drawing blood from an arm containing a running intravenous infusion dilutes the laboratory sample.** You will just be testing the IV fluid!
+
+![For optimal intravenous access and to prevent puncturing entirely through the vessel wall, the needle must be inserted at a shallow angle, typically between 15 and 30 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Needle-insertion-angles-1.png)
+
+*   **The IV Rule:** Never, ever draw above a running IV! **Drawing blood from an arm containing a running [intravenous infusion](https://en.wikipedia.org/wiki/Intravenous_therapy) dilutes the laboratory sample.** You will just be testing the IV fluid!
 
 ### 3. The Danger of the Tourniquet
 A [tourniquet](https://en.wikipedia.org/wiki/Tourniquet) is a temporary dam. It pools blood so you can see the vein. But remember this golden rule: **A tourniquet should not remain on a patient's arm for more than one minute during a venipuncture procedure.**
 
-Why? Because of **hemoconcentration**. If you leave the dam up too long, fluid seeps out of the vein into the surrounding tissue, leaving the large cells behind. 
+![An elastic tourniquet distends the veins to make them palpable, but leaving it engaged for more than one minute can force fluid into the tissues, artificially altering blood chemistry and cell concentration.](https://wikipedia.org/wiki/Special:Redirect/file/Pr%C3%A4meta_tourniquet-4981.jpg)
+
+Why? Because of **[hemoconcentration](https://en.wikipedia.org/wiki/Hemoconcentration)**. If you leave the dam up too long, fluid seeps out of the vein into the surrounding tissue, leaving the large cells behind. 
 *   **Prolonged tourniquet application during venipuncture causes hemoconcentration.**
 *   **Hemoconcentration artificially elevates the concentration of cells and large molecules in a blood sample.** 
-*   Even worse: The stress makes cells leak. **Leaving a tourniquet in place for over a minute increases the risk of false hyperkalemia** (high potassium) in the sample!
+*   Even worse: The stress makes cells leak. **Leaving a tourniquet in place for over a minute increases the risk of false [hyperkalemia](https://en.wikipedia.org/wiki/Hyperkalemia)** (high potassium) in the sample!
 
 ### 4. Handling the Tubes
-*   **Order of Draw:** You cannot fill the tubes in random order. **The correct order of draw prevents cross-contamination of tube additives during venipuncture.** For instance, **[Blood culture](https://en.wikipedia.org/wiki/Blood_culture) tubes must be drawn first in the order of draw for multiple blood samples** to maintain absolute sterility.
+*   **Order of Draw:** You cannot fill the tubes in random order. **The correct [order of draw](https://en.wikipedia.org/wiki/Venipuncture%23Order_of_draw) prevents cross-contamination of tube additives during venipuncture.** For instance, **[Blood culture](https://en.wikipedia.org/wiki/Blood_culture) tubes must be drawn first in the order of draw for multiple blood samples** to maintain absolute [sterility](https://en.wikipedia.org/wiki/Asepsis).
 *   **Fill Volume:** **[Sodium citrate](https://en.wikipedia.org/wiki/Sodium_citrate) tubes must be completely filled to maintain a specific blood-to-anticoagulant ratio.** If it’s half full, the chemical ratio is wrong, and the coagulation test (like PT/INR) will be totally inaccurate.
+
+![A blue-top vacutainer containing sodium citrate. These tubes must be filled entirely to the fill line to guarantee the exact blood-to-anticoagulant ratio required for accurate coagulation testing.](https://wikipedia.org/wiki/Special:Redirect/file/Blue_Top.JPG)
+
 *   **Be Gentle:** Never shake the tubes! Red blood cells are delicate, microscopic water balloons filled with potassium. **Vigorous shaking of blood collection tubes causes [hemolysis](https://en.wikipedia.org/wiki/Hemolysis) of red blood cells.** And what happens when those cells pop? **Hemolysis of red blood cells in a blood sample leads to falsely elevated serum potassium readings.** The lab will call a critical high potassium, the doctor will panic, but the patient is actually perfectly fine—you just broke their cells!
+
+![A comparison of normal blood plasma (left) and hemolyzed plasma (right). Hemolysis ruptures red blood cells, spilling intracellular contents like potassium into the sample, leading to falsely elevated laboratory results.](https://wikipedia.org/wiki/Special:Redirect/file/Hemolysis.jpg)
 
 ### 5. Post-Draw Complications
 When you remove the needle, you have poked a hole in a pressurized pipe.

@@ -13,13 +13,19 @@ Imagine trying to explain to a [fourth grader](https://en.wikipedia.org/wiki/Fou
 ### The Louisiana Purchase & The Corps of Discovery
 Everything shifts into high gear because **the [United States](https://en.wikipedia.org/wiki/United_States) purchased the [Louisiana Territory](https://en.wikipedia.org/wiki/Louisiana_%28New_France%29) from [France](https://en.wikipedia.org/wiki/France) in [1803](https://en.wikipedia.org/wiki/1803)**. This wasn't just a [real estate](https://en.wikipedia.org/wiki/Real_estate) deal; **the [Louisiana Purchase](https://en.wikipedia.org/wiki/Louisiana_Purchase) doubled the physical landmass of the United States** overnight. 
 
+![Map illustrating the 1803 Louisiana Purchase, which instantly doubled the geographic size of the United States and sparked an era of rapid westward expansion.](https://wikipedia.org/wiki/Special:Redirect/file/Louisiana_Purchase.png)
+
 But what exactly had they bought? **[President](https://en.wikipedia.org/wiki/President_of_the_United_States) [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson) commissioned the [Lewis and Clark expedition](https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition)** to find out. **The Lewis and Clark expedition explored the newly acquired Louisiana Territory and the [Pacific Northwest](https://en.wikipedia.org/wiki/Pacific_Northwest) from [1804](https://en.wikipedia.org/wiki/1804) to [1806](https://en.wikipedia.org/wiki/1806).** They didn’t do this alone; **[Sacagawea](https://en.wikipedia.org/wiki/Sacagawea) served as a guide and [interpreter](https://en.wikipedia.org/wiki/Translation) for the Lewis and Clark expedition**, providing essential [geographical](https://en.wikipedia.org/wiki/Geography) knowledge and diplomatic translating that kept the expedition alive.
+
+![A depiction of the Lewis and Clark Expedition on the lower Columbia River, guided by Sacagawea, whose geographical and linguistic expertise was vital to their survival.](https://wikipedia.org/wiki/Special:Redirect/file/Lewis_and_clark-expedition.jpg)
 
 ### Manifest Destiny: The Idea vs. The Action
 Why did [Americans](https://en.wikipedia.org/wiki/Americans) keep pushing [West](https://en.wikipedia.org/wiki/American_frontier)? **[Westward expansion](https://en.wikipedia.org/wiki/Territorial_evolution_of_the_United_States) was heavily driven by the ideology of [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny).** You need to know exactly what this means: **Manifest Destiny is the [19th-century](https://en.wikipedia.org/wiki/19th_century) belief that the United States was destined by [God](https://en.wikipedia.org/wiki/God) to expand its [democratic institutions](https://en.wikipedia.org/wiki/Democracy) across the [North American](https://en.wikipedia.org/wiki/North_America) [continent](https://en.wikipedia.org/wiki/Continent).** 
 
 > **Instructional Pivot:** Elementary students often struggle to differentiate between the abstract [ideological](https://en.wikipedia.org/wiki/Ideology) concept of Manifest Destiny and the physical actions of westward migration.
 > *How to teach it:* Explain to your students that Manifest Destiny is the *idea* (the dream in the mind), while the [covered wagons](https://en.wikipedia.org/wiki/Covered_wagon) and [treaties](https://en.wikipedia.org/wiki/Treaty) are the *actions* (the footsteps on the ground).
+
+![John Gast's 1872 painting "American Progress" serves as a powerful visual allegory for Manifest Destiny, depicting an angelic figure bringing light, telegraph wires, and settlers westward while driving away Indigenous populations.](https://wikipedia.org/wiki/Special:Redirect/file/American_Progress_(John_Gast_painting).jpg)
 
 Let's look at those physical actions of expansion that filled in the map:
 *   **The United States formally [annexed](https://en.wikipedia.org/wiki/Texas_annexation) the [Republic of Texas](https://en.wikipedia.org/wiki/Republic_of_Texas) in [1845](https://en.wikipedia.org/wiki/1845).**
@@ -30,6 +36,8 @@ Let's look at those physical actions of expansion that filled in the map:
 
 > **Teacher's Toolkit: The Power of Maps**
 > **[Historical maps](https://en.wikipedia.org/wiki/Historical_map) are essential instructional tools for helping elementary students visualize the chronological [territorial growth of the United States](https://en.wikipedia.org/wiki/Territorial_evolution_of_the_United_States).** Don't just show them the final [50 states](https://en.wikipedia.org/wiki/U.S._state). Show them the map in [1800](https://en.wikipedia.org/wiki/1800), then [1805](https://en.wikipedia.org/wiki/1805), then [1850](https://en.wikipedia.org/wiki/1850). Let them see the country "grow" frame by frame!
+
+![A chronological map showing the historical territorial expansion of the United States. Breaking the map down by acquisition years helps young students understand that the modern borders were built piece by piece.](https://wikipedia.org/wiki/Special:Redirect/file/U.S._Territorial_Acquisitions.png)
 
 ---
 
@@ -43,6 +51,8 @@ The brutal reality is that **Westward expansion directly led to the systematic d
 
 This policy culminated in immense tragedy. **The [Trail of Tears](https://en.wikipedia.org/wiki/Trail_of_Tears) was the forced, lethal relocation of the [Cherokee Nation](https://en.wikipedia.org/wiki/Cherokee) to [Indian Territory](https://en.wikipedia.org/wiki/Indian_Territory) in [1838](https://en.wikipedia.org/wiki/1838).** Thousands died of exposure, [disease](https://en.wikipedia.org/wiki/Disease), and [starvation](https://en.wikipedia.org/wiki/Starvation). When you teach this, you are teaching [empathy](https://en.wikipedia.org/wiki/Empathy) and the deep consequences of government actions.
 
+![A map detailing the forced relocation routes of several Native American tribes to "Indian Territory" (present-day Oklahoma), illustrating the massive geographical scale of the displacement.](https://wikipedia.org/wiki/Special:Redirect/file/Trails_of_Tears_en.png)
+
 ---
 
 ## Part 3: The Innovation Engine (Technology & Agriculture)
@@ -51,6 +61,9 @@ Kids love [machines](https://en.wikipedia.org/wiki/Machine). If you want to get 
 
 ### Conquering the Land
 *   **[John Deere](https://en.wikipedia.org/wiki/John_Deere_%28inventor%29) invented the first commercially successful [steel plow](https://en.wikipedia.org/wiki/Plough) in [1837](https://en.wikipedia.org/wiki/1837).** Why [steel](https://en.wikipedia.org/wiki/Steel)? Because [wooden](https://en.wikipedia.org/wiki/Wood) and [iron](https://en.wikipedia.org/wiki/Iron) plows got stuck! **The steel plow allowed [farmers](https://en.wikipedia.org/wiki/Farmer) to efficiently cut through and cultivate the tough, thick [soil](https://en.wikipedia.org/wiki/Soil) of the [Midwestern](https://en.wikipedia.org/wiki/Midwestern_United_States) [prairies](https://en.wikipedia.org/wiki/Prairie).**
+
+![An early John Deere steel plow. The smooth, polished steel design prevented the thick, sticky roots of the midwestern prairie from clinging to the blade, revolutionizing agriculture.](https://wikipedia.org/wiki/Special:Redirect/file/Early_John_Deere_plow.jpg)
+
 *   **[Cyrus McCormick](https://en.wikipedia.org/wiki/Cyrus_McCormick) invented the [mechanical reaper](https://en.wikipedia.org/wiki/Reaper) in [1831](https://en.wikipedia.org/wiki/1831).** Imagine cutting [wheat](https://en.wikipedia.org/wiki/Wheat) by hand with a [scythe](https://en.wikipedia.org/wiki/Scythe). Now imagine a machine doing it as you ride along. **The mechanical reaper significantly increased the speed and efficiency of [harvesting](https://en.wikipedia.org/wiki/Harvest) grain crops like wheat.**
 
 ### Shrinking the Distance (Transportation & Communication)
@@ -86,6 +99,8 @@ In the [1700s](https://en.wikipedia.org/wiki/18th_century), slavery was actually
 > 
 > *The fix:* You must explain the [economics](https://en.wikipedia.org/wiki/Economics) to them! Because the machine made cleaning cotton so fast, **the invention of the cotton gin significantly increased the [profitability](https://en.wikipedia.org/wiki/Profit_%28economics%29) of [cotton farming](https://en.wikipedia.org/wiki/Cotton_production_in_the_United_States) in the southern United States.** Because it was so profitable, [plantation](https://en.wikipedia.org/wiki/Plantation) owners wanted to grow massive amounts of it. Therefore, **the increased profitability of short-staple cotton led to a dramatic expansion of the institution of slavery across the [Deep South](https://en.wikipedia.org/wiki/Deep_South).** The machine didn't replace human labor; it created an insatiable [demand](https://en.wikipedia.org/wiki/Demand_%28economics%29) for it.
 
+![A model of a 19th-century cotton gin. By mechanically pulling cotton fibers through a wire mesh, the machine drastically sped up the removal of seeds, which conversely led to a massive surge in the demand for enslaved labor to plant and pick the crop.](https://wikipedia.org/wiki/Special:Redirect/file/Cotton_gin_EWM_2007.jpg)
+
 ### The Economic Split and Another Misconception
 As the 19th century progressed, the country split down the middle economically:
 *   **The [Southern United States](https://en.wikipedia.org/wiki/Southern_United_States) economy became overwhelmingly dependent on enslaved labor for large-scale [agricultural](https://en.wikipedia.org/wiki/Agriculture) production.**
@@ -101,11 +116,15 @@ Remember all that new land we talked about in Part 1? That land became a ticking
 
 If a new [state](https://en.wikipedia.org/wiki/U.S._state) entered the [Union](https://en.wikipedia.org/wiki/Union_%28American_Civil_War%29) as a "[slave state](https://en.wikipedia.org/wiki/Slave_states_and_free_states)," the South gained power in Congress. If it entered as a "[free state](https://en.wikipedia.org/wiki/Slave_states_and_free_states)," the North gained power. They tried to fix this with political band-aids. For example, **the [Missouri Compromise of 1820](https://en.wikipedia.org/wiki/Missouri_Compromise) prohibited slavery in the [unorganized territory](https://en.wikipedia.org/wiki/Unorganized_territory) of the [Great Plains](https://en.wikipedia.org/wiki/Great_Plains) north of the [36°30′ parallel](https://en.wikipedia.org/wiki/Parallel_36%C2%B030%E2%80%B2_north).** But lines on a map could not solve a profound [moral](https://en.wikipedia.org/wiki/Morality) and economic crisis.
 
+![A map highlighting the Missouri Compromise line (the 36°30′ parallel). This legislative boundary was a fragile attempt to balance political power by separating newly admitted free states (blue) from slave states (red).](https://wikipedia.org/wiki/Special:Redirect/file/Missouri_Compromise_Line.svg)
+
 ### Resistance and The Underground Railroad
 Through all of this, there were fierce fights against the institution of slavery. 
 *   **The [abolitionist movement](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States) sought the immediate and complete end to the institution of slavery in the United States.**
 *   Enslaved people actively resisted and sought their own freedom. **The [Underground Railroad](https://en.wikipedia.org/wiki/Underground_Railroad) was a network of secret routes and [safe houses](https://en.wikipedia.org/wiki/Safe_house) used by enslaved [African Americans](https://en.wikipedia.org/wiki/African_Americans) to escape into free states and [Canada](https://en.wikipedia.org/wiki/Canada).**
 *   Courageous individuals risked everything to help. **[Harriet Tubman](https://en.wikipedia.org/wiki/Harriet_Tubman) was a prominent conductor on the Underground Railroad**, repeatedly venturing back into dangerous territory to guide others to freedom.
+
+![A map documenting various routes of the Underground Railroad, which highlights how freedom seekers navigated complex, dangerous pathways to reach free states and Canada.](https://wikipedia.org/wiki/Special:Redirect/file/Undergroundrailroadsmall2.jpg)
 
 ---
 

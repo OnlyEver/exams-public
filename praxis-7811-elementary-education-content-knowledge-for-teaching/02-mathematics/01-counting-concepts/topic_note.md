@@ -20,6 +20,8 @@ Before a child understands *[quantity](https://en.wikipedia.org/wiki/Quantity)*,
 ### Principle 2: The One-to-One Correspondence Principle
 > **The one-to-one correspondence principle** states that each item in a [set](https://en.wikipedia.org/wiki/Set_%28mathematics%29) must receive exactly one distinct number word during the counting process.
 
+![In early childhood mathematics, one-to-one correspondence acts as a foundational mathematical bijection, securely mapping exactly one unique number word to one corresponding physical object.](https://wikipedia.org/wiki/Special:Redirect/file/Bijection.svg)
+
 This is where the physical meets the verbal. A student who lacks strict [one-to-one correspondence](https://en.wikipedia.org/wiki/Bijection) often mistakenly assigns multiple verbal number words to a single physical object. Another incredibly common student counting error occurs when a student's verbal recitation of number words rapidly outpaces their physical pointing to objects. 
 
 **The Classroom Trap:** Young counters frequently fail to mentally [partition](https://en.wikipedia.org/wiki/Partition_of_a_set) counted items from uncounted items during a sorting task. Failing to track uncounted items directly causes skipped objects or double-counted objects during an oral counting task. 
@@ -62,6 +64,8 @@ What if I told you that you don't actually count everything you see? If I throw 
 
 > **[Subitizing](https://en.wikipedia.org/wiki/Subitizing)** allows students to determine small set sizes instantly by [visual recognition](https://en.wikipedia.org/wiki/Object_recognition). It entirely bypasses the need for the sequential one-to-one counting of individual mathematical objects.
 
+![Standard dice faces are classic pedagogical tools for developing perceptual subitizing, allowing students to instantly recognize mathematical quantities via familiar spatial dot patterns without counting each individual pip.](https://wikipedia.org/wiki/Special:Redirect/file/6sided_dice_(cropped).jpg)
+
 There are two levels to this superpower:
 
 1. **Perceptual subitizing** is the biological ability to instantly recognize the quantity of small sets up to five items without counting. 
@@ -80,6 +84,8 @@ To build a robust mathematical mind, a child must understand the *nature* of num
 ### Conservation of Number
 > **Conservation of number** dictates that the total quantity of a set remains identical even if the physical arrangement of the items changes drastically.
 
+![Piaget's classic conservation experiments, such as observing equal quantities of liquid in differently shaped glasses, test a foundational cognitive milestone: understanding that a quantity remains constant despite dramatic physical rearrangements.](https://wikipedia.org/wiki/Special:Redirect/file/Conservation1.jpeg)
+
 Imagine showing a child a compressed line of five blocks, and then physically spreading them wide apart. A student lacking [conservation of number](https://en.wikipedia.org/wiki/Conservation_%28psychology%29) might incorrectly state that a spread-out line of five blocks contains more items than a compressed line of five blocks. If you observe a student who physically recounts an entire set from the beginning after the physical arrangement changes, they are clearly demonstrating a lack of the conservation of number.
 
 ### Hierarchical Inclusion
@@ -87,9 +93,14 @@ Imagine showing a child a compressed line of five blocks, and then physically sp
 
 The number seven isn't just a label; it physically contains the quantities of six, five, four, three, two, and one inside of it—like a set of [matryoshka nesting dolls](https://en.wikipedia.org/wiki/Matryoshka_doll)!
 
+![Matryoshka nesting dolls provide a highly tangible physical analogy for hierarchical inclusion, directly illustrating how larger whole numbers completely enclose all smaller constituent numerical quantities within them.](https://wikipedia.org/wiki/Special:Redirect/file/Floral_matryoshka_set_2_smallest_doll_nested.JPG)
+
 ### Comparing Quantities and Linear Magnitude
 How do we teach equality and comparison before a child can reliably count? 
 * **Visual Matching:** Students can use physical one-to-one matching between two separate sets to visually determine which set contains more items without using any number words. (e.g., drawing lines between a set of drawn cats and a set of drawn bowls).
+
+![Using visual matching lines to establish one-to-one correspondence between a set of apples and a set of oranges reveals equal cardinality visually, entirely bypassing the need for verbal counting sequences.](https://wikipedia.org/wiki/Special:Redirect/file/Apples_and_Oranges_v2.png)
+
 * **Cube Trains:** Connecting interlocking counting cubes into long physical trains provides a concrete physical representation of linear magnitude. Comparing the physical lengths of two separate interlocking cube trains allows young students to visualize [numerical equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29).
 
 ### Cardinal vs. Ordinal
@@ -107,6 +118,8 @@ As students master basic counting, we introduce tools and strategies to make the
 > The mathematical **"counting on" strategy** begins the verbal counting sequence from a previously established known quantity. 
 
 If a student has 5 red blocks and is handed 3 blue blocks, they don't need to count "1, 2, 3, 4, 5... 6, 7, 8." They can point to the red group, say "Five," and then count "six, seven, eight." The "counting on" strategy eliminates the need to restart counting from the number one when combining two separate sets.
+
+![When combining two distinct sets, the "counting on" strategy allows a student to anchor on the known cardinality of the first set and simply add the remaining sequence, serving as the foundational bridge to formal addition.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionShapes.svg)
 
 ### The Power of Skip Counting
 Skip counting is the cognitive bridge between [addition](https://en.wikipedia.org/wiki/Addition), [multiplication](https://en.wikipedia.org/wiki/Multiplication), and [algebraic](https://en.wikipedia.org/wiki/Algebra) patterns. **Skip counting** involves adding a consistent, fixed value to the previous number to generate the next number in a sequence.

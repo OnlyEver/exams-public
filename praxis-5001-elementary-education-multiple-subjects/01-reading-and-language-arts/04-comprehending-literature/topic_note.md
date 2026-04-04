@@ -1,8 +1,8 @@
-Let me ask you a question. Have you ever wondered how a bunch of black ink marks on a flat, two-dimensional piece of paper can make you hold your breath, [laugh out loud](https://en.wikipedia.org/wiki/Laughter), or even [cry](https://en.wikipedia.org/wiki/Crying)? 
+Let me ask you a question. Have you ever wondered how a bunch of black ink marks on a flat, [two-dimensional piece of paper](https://en.wikipedia.org/wiki/Paper) can make you [hold your breath](https://en.wikipedia.org/wiki/Breath-holding), [laugh out loud](https://en.wikipedia.org/wiki/Laughter), or even [cry](https://en.wikipedia.org/wiki/Crying)? 
 
 It seems like [magic](https://en.wikipedia.org/wiki/Magic_%28supernatural%29), doesn’t it? But here’s the trick—it isn't magic at all. It’s *[architecture](https://en.wikipedia.org/wiki/Architecture)*. Just like [physics](https://en.wikipedia.org/wiki/Physics) has the [laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics) and [biology](https://en.wikipedia.org/wiki/Biology) has the [cell](https://en.wikipedia.org/wiki/Cell_%28biology%29), [literature](https://en.wikipedia.org/wiki/Literature) has a fundamental structure. If you want to really comprehend a story, you can't just passively watch the words go by. You have to take the back cover off the [radio](https://en.wikipedia.org/wiki/Radio_receiver), poke around, and look at the [gears](https://en.wikipedia.org/wiki/Gear) spinning inside. 
 
-As future educators, your job is to teach young minds how to find these gears. Let's roll up our sleeves and figure out exactly how the machinery of a story actually works!
+As future [educators](https://en.wikipedia.org/wiki/Educator), your job is to teach young minds how to find these gears. Let's roll up our sleeves and figure out exactly how the machinery of a story actually works!
 
 ## The Foundation: Details, Meaning, and the Evidence that Holds it Up
 
@@ -13,7 +13,9 @@ Now, once you have your main idea, you can start looking for the deeper meaning.
 > **The Feynman Rule of Themes and Morals:** 
 > A theme is an *observation* about the world. A moral is an *instruction* for the world. 
 
-A **moral is a direct actionable lesson concerning [ethical behavior](https://en.wikipedia.org/wiki/Ethics)** (e.g., "[Slow and steady wins the race](https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare)" or "Don't steal"). You'll often find these handed right to the reader on a silver platter in certain old stories. In fact, **[fables](https://en.wikipedia.org/wiki/Fable) are a specific [genre](https://en.wikipedia.org/wiki/Genre) of traditional literature designed to deliver an explicit moral**. 
+A **moral is a direct actionable lesson concerning [ethical behavior](https://en.wikipedia.org/wiki/Ethics)** (e.g., "[Slow and steady wins the race](https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare)" or "Don't steal"). You'll often find these handed right to the reader on a silver platter in certain old stories. In fact, **[fables](https://en.wikipedia.org/wiki/Fable) are a specific [genre](https://en.wikipedia.org/wiki/Genre) of [traditional literature](https://en.wikipedia.org/wiki/Folklore) designed to deliver an explicit moral**. 
+
+![In fables like Aesop's "The Tortoise and the Hare," the author delivers an explicit moral instruction rather than a broad thematic observation.](https://wikipedia.org/wiki/Special:Redirect/file/Tortoise_and_hare_rackham.jpg)
 
 A **[literary theme](https://en.wikipedia.org/wiki/Theme_%28narrative%29)**, however, is much grander and far more subtle. **A literary theme expresses a broad universal observation about [human nature](https://en.wikipedia.org/wiki/Human_nature)**—like the corrupting power of [greed](https://en.wikipedia.org/wiki/Greed), or the enduring strength of familial love. Because it is so profound, **a literary theme is rarely stated explicitly within the text**. The author doesn’t just walk out and hand you the theme; you have to earn it! How? **Readers must analyze character actions to determine a literary theme**, and equally importantly, **readers must analyze [plot](https://en.wikipedia.org/wiki/Plot_%28narrative%29) outcomes to determine a literary theme**. You watch what the characters do, you watch the consequences of those actions, and you [deduce](https://en.wikipedia.org/wiki/Deductive_reasoning) the [universal truth](https://en.wikipedia.org/wiki/Universality_%28philosophy%29) the author is pointing toward.
 
@@ -51,19 +53,25 @@ So, we have our setting, and we have our conflict. Now we need things to actuall
 
 **A plot is the structured [sequence](https://en.wikipedia.org/wiki/Sequence) of interconnected events forming a narrative.** Notice the word *interconnected*. It isn’t just "this happened, and then this happened." It’s "this happened, *therefore* this happened." 
 
-To map this out, we use a brilliant tool developed by a [19th-century](https://en.wikipedia.org/wiki/19th_century) [German](https://en.wikipedia.org/wiki/Germans) [playwright](https://en.wikipedia.org/wiki/Playwright). **[Freytag's Pyramid](https://en.wikipedia.org/wiki/Dramatic_structure%23Freytag%27s_pyramid) is a structural model utilized to map out the plot of a literary text**. Let's look at the five distinct phases of this pyramid using the classic tale of *[Cinderella](https://en.wikipedia.org/wiki/Cinderella)*:
+To map this out, we use a brilliant tool developed by a [19th-century](https://en.wikipedia.org/wiki/19th_century) [German](https://en.wikipedia.org/wiki/Germans) [playwright](https://en.wikipedia.org/wiki/Playwright). **[Freytag's Pyramid](https://en.wikipedia.org/wiki/Dramatic_structure%23Freytag%27s_pyramid) is a structural model utilized to map out the plot of a literary text**. 
+
+![Freytag's Pyramid provides a structural model for mapping the sequence of cause-and-effect events that build a narrative's plot.](https://wikipedia.org/wiki/Special:Redirect/file/Freytag's_Pyramid_with_English_text.svg)
+
+Let's look at the five distinct phases of this pyramid using the classic tale of *[Cinderella](https://en.wikipedia.org/wiki/Cinderella)*:
 
 1.  **[Exposition](https://en.wikipedia.org/wiki/Exposition_%28narrative%29):** **The exposition is the opening phase of a narrative plot.** It does the heavy lifting of setting the stage. **The exposition introduces the primary characters of a narrative**, and **the exposition establishes the foundational setting of a narrative**. (We meet Cinderella, living in a miserable house with her cruel [stepmother](https://en.wikipedia.org/wiki/Stepparent)).
-2.  **Inciting Incident:** **The inciting incident is an event setting the main conflict of a plot into motion.** (The invitation to the Royal Ball arrives! Suddenly, the static world is thrown into chaos).
+2.  **[Inciting Incident](https://en.wikipedia.org/wiki/Inciting_incident):** **The inciting incident is an event setting the main conflict of a plot into motion.** (The invitation to the Royal Ball arrives! Suddenly, the static world is thrown into chaos).
 3.  **[Rising Action](https://en.wikipedia.org/wiki/Dramatic_structure%23Rising_action):** **The rising action comprises a series of events building [narrative tension](https://en.wikipedia.org/wiki/Suspense).** (Cinderella tries to make a dress, the stepsisters destroy it, the [Fairy Godmother](https://en.wikipedia.org/wiki/Fairy_godmother) appears).
 4.  **[Climax](https://en.wikipedia.org/wiki/Climax_%28narrative%29):** You can think of this as the apex of the pyramid. **The climax represents the point of highest emotional tension in a narrative.** Furthermore, **the climax serves as the pivotal turning point of a literary plot.** (The clock strikes midnight! Cinderella flees in terror, leaving her glass slipper behind).
 5.  **[Falling Action](https://en.wikipedia.org/wiki/Dramatic_structure%23Falling_action):** The immediate fallout of the climax. **The falling action consists of events immediately following the narrative climax.** The energy is shifting; **the falling action directly guides the narrative toward a final conclusion.** (The prince scours the kingdom with the slipper; the evil stepmother furiously locks Cinderella in her room).
 6.  **[Resolution](https://en.wikipedia.org/wiki/Resolution_%28narrative%29):** **The resolution is the final conclusion of a narrative plot.** This is where the dust settles, and **the primary narrative conflict is completely resolved during the resolution.** (The slipper fits! Cinderella and the Prince are married).
 
+![The moment Cinderella flees the ball and leaves her glass slipper behind serves as the emotional peak and climax of the plot.](https://wikipedia.org/wiki/Special:Redirect/file/Page_87_illustration_from_Fairy_tales_of_Charles_Perrault_(Clarke%2C_1922).png)
+
 ### Bending Time
 Now, authors are clever, and they don't always walk in a straight line up and down that pyramid. They manipulate time to keep us on our toes! 
 *   **[Flashbacks](https://en.wikipedia.org/wiki/Flashback_%28narrative%29) interrupt the chronological sequence of a narrative plot.** Why do authors use them? **Flashbacks function to reveal past events to the reader**, giving us crucial context about *why* a character is acting a certain way right now. 
-*   On the flip side, we have the future. **[Foreshadowing](https://en.wikipedia.org/wiki/Foreshadowing) is a literary device providing subtle hints about future plot developments.** It’s the author winking at you, planting a seed that will bloom three chapters later.
+*   On the flip side, we have the future. **[Foreshadowing](https://en.wikipedia.org/wiki/Foreshadowing) is a [literary device](https://en.wikipedia.org/wiki/Literary_technique) providing subtle hints about future plot developments.** It’s the author winking at you, planting a seed that will bloom three chapters later.
 
 ***
 
@@ -75,18 +83,22 @@ A plot is useless without someone to experience it. Let's talk about the players
 
 Opposing them is the [antagonist](https://en.wikipedia.org/wiki/Antagonist). Now, **an antagonist can be a specific character directly opposing the protagonist** (like an evil [wizard](https://en.wikipedia.org/wiki/Magician_%28fantasy%29)). But don't fall into the trap of thinking it *must* be a person! **An antagonist can be an abstract force directly opposing the protagonist**—like a corrupt [legal system](https://en.wikipedia.org/wiki/Legal_system), or a devastating [blizzard](https://en.wikipedia.org/wiki/Blizzard).
 
+![An antagonist does not need to be a human character; a hostile environmental force like a severe blizzard can directly oppose the protagonist.](https://wikipedia.org/wiki/Special:Redirect/file/Heavy_Blizzard_in_Ontario%2C_Canada.jpg)
+
 ### Dimensions of Character
 Characters are not all built the same. We evaluate them based on how they change and how complex they are:
 
-*   **Change Over Time:** **[Dynamic characters](https://en.wikipedia.org/wiki/Character_%28arts%29%23Dynamic) undergo significant internal psychological changes throughout a narrative.** They learn, they grow, or they are corrupted. Conversely, **static characters maintain a consistent personality throughout an entire narrative.** They are the same on page 100 as they were on page 1.
+*   **Change Over Time:** **[Dynamic characters](https://en.wikipedia.org/wiki/Character_%28arts%29%23Dynamic) undergo significant internal psychological changes throughout a narrative.** They learn, they grow, or they are corrupted. Conversely, **[static characters](https://en.wikipedia.org/wiki/Character_%28arts%29%23Static) maintain a consistent personality throughout an entire narrative.** They are the same on page 100 as they were on page 1.
 *   **Psychological Complexity:** **[Round characters](https://en.wikipedia.org/wiki/Character_%28arts%29%23Round) possess highly complex personalities.** They have contradictions, hidden fears, and multifaceted desires—just like real people! On the other hand, **[flat characters](https://en.wikipedia.org/wiki/Character_%28arts%29%23Flat) display only a single distinctive personality trait.** (Think of the universally grumpy neighbor or the overly cheerful baker).
 
 When analyzing a character, you must also distinguish between who they *are* and what they are currently *feeling*. **Character traits are enduring qualities of a character's overall [personality](https://en.wikipedia.org/wiki/Personality_psychology)** (e.g., generous, courageous, deeply cynical). Meanwhile, **character [emotions](https://en.wikipedia.org/wiki/Emotion) represent temporary [psychological states](https://en.wikipedia.org/wiki/Mental_state) reacting to specific events** (e.g., panicked because they just lost their wallet).
 
+![Robert Plutchik's emotion wheel illustrates the complex, temporary psychological states a character might experience in reaction to plot events, distinguishing them from permanent personality traits.](https://wikipedia.org/wiki/Special:Redirect/file/Plutchik-wheel.svg)
+
 ### How Authors Show Us Who People Are
 How do we know a character is generous or cruel? The author has to use [characterization](https://en.wikipedia.org/wiki/Characterization). 
-*   **Direct characterization occurs when an author explicitly states a character's specific traits.** ("John was a greedy, miserable man.") It's efficient, but a bit blunt.
-*   The real artistry lies in the unspoken. **Indirect characterization requires readers to deduce traits through a character's dialogue**, and similarly, **indirect characterization requires readers to deduce traits through a character's actions.** If John steals a [lollipop](https://en.wikipedia.org/wiki/Lollipop) from a crying baby, the author doesn't *need* to explicitly call him cruel. We deduce it!
+*   **[Direct characterization](https://en.wikipedia.org/wiki/Characterization%23Direct_vs._indirect) occurs when an author explicitly states a character's specific traits.** ("John was a greedy, miserable man.") It's efficient, but a bit blunt.
+*   The real artistry lies in the unspoken. **[Indirect characterization](https://en.wikipedia.org/wiki/Characterization%23Direct_vs._indirect) requires readers to deduce traits through a character's dialogue**, and similarly, **indirect characterization requires readers to deduce traits through a character's actions.** If John steals a [lollipop](https://en.wikipedia.org/wiki/Lollipop) from a crying [baby](https://en.wikipedia.org/wiki/Infant), the author doesn't *need* to explicitly call him cruel. We deduce it!
 
 ***
 
@@ -98,7 +110,7 @@ This brings us to the ultimate skill in [reading comprehension](https://en.wikip
 
 However, the best parts of literature live in the shadows. **Implicit information is suggested by the text without being directly stated**. If an author writes, "Jane slammed the door so hard the [picture frames](https://en.wikipedia.org/wiki/Picture_frame) rattled, and she refused to look at Tom," the author hasn't explicitly told you Jane is furious. It is entirely implied.
 
-This is where you, the reader, must actively engage your [brain](https://en.wikipedia.org/wiki/Brain). **An inference is a logical conclusion derived from analyzing implicit information**. But you can't just guess wildly! **Making a valid inference requires synthesizing textual clues with the reader's background knowledge**. You know from your own background knowledge that slamming doors usually means anger. You combine that with the textual clue of Jane avoiding Tom's gaze, and you infer: *Jane is extremely angry at Tom.*
+This is where you, the reader, must actively engage your [brain](https://en.wikipedia.org/wiki/Brain). **An inference is a [logical conclusion](https://en.wikipedia.org/wiki/Logical_consequence) derived from analyzing implicit information**. But you can't just guess wildly! **Making a valid inference requires synthesizing textual clues with the reader's background knowledge**. You know from your own background knowledge that slamming doors usually means anger. You combine that with the textual clue of Jane avoiding Tom's gaze, and you infer: *Jane is extremely angry at Tom.*
 
 And if anyone ever challenges your inference? You go right back to the foundation we started with. **A valid inference must be supported by [verifiable](https://en.wikipedia.org/wiki/Verifiability) examples extracted from the literary text**. 
 

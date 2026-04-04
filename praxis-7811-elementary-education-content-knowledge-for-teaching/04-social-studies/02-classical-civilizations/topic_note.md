@@ -19,12 +19,18 @@ Speaking of massive projects, let's address the elephant in the classroom: **[Eg
 > **🚨 Pedagogical Trap: The Pyramid Labor Myth**
 > Ask a fourth-grader who built the pyramids, and they’ll likely say "[slaves](https://en.wikipedia.org/wiki/Slavery_in_ancient_Egypt)." Here is where you step in. **Elementary students often mistakenly believe [enslaved people](https://en.wikipedia.org/wiki/Slavery) built the Egyptian pyramids instead of paid [agricultural laborers](https://en.wikipedia.org/wiki/Agriculture).** Because of the predictable [Nile flooding](https://en.wikipedia.org/wiki/Flooding_of_the_Nile), farmers had months of downtime. The state paid them in food and resources to build these monumental structures during the flood season!
 
+![The Great Pyramids of Giza serve as monumental evidence of Egypt's early engineering capabilities. Pedagogically, it is crucial to emphasize to students that these were built by paid laborers, not enslaved people, during the agricultural off-season.](https://wikipedia.org/wiki/Special:Redirect/file/All_Gizah_Pyramids.jpg)
+
 To manage all this, the Egyptians needed records. So, **ancient Egyptians created a [pictorial writing system](https://en.wikipedia.org/wiki/Pictogram) called [hieroglyphics](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs).** But carving on stone is exhausting. Necessity bred invention, and **ancient Egyptians manufactured [papyrus](https://en.wikipedia.org/wiki/Papyrus) from [river reeds](https://en.wikipedia.org/wiki/Cyperus_papyrus) to serve as a [writing surface](https://en.wikipedia.org/wiki/Writing_material).** 
+
+![An example of ancient papyrus paper. By harvesting river reeds from the Nile, Egyptians created an easily transportable writing surface that revolutionized record-keeping.](https://wikipedia.org/wiki/Special:Redirect/file/Papyrus.jpg)
 
 ### Ancient China: Innovation in Isolation
 Thousands of miles east, another river was nurturing greatness: **[Ancient Chinese civilization](https://en.wikipedia.org/wiki/History_of_China) originated along the [Yellow River valley](https://en.wikipedia.org/wiki/Yellow_River).** 
 
 Unlike Egypt, which interacted heavily with its neighbors, China developed in a unique bubble. Why? Because **natural barriers like the [Himalayas](https://en.wikipedia.org/wiki/Himalayas) isolated ancient China from other major early civilizations.** This isolation created a deeply distinct, innovative culture.
+
+![A map of the Himalayan mountain range. This massive natural barrier effectively isolated ancient China from other early civilizations, directly contributing to its unique and independent cultural evolution.](https://wikipedia.org/wiki/Special:Redirect/file/Himalayas_Map.png)
 
 Their leaders didn't claim to be literal gods like the pharaohs. Instead, they relied on the **[Mandate of Heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven)**, which was **an ancient Chinese political concept granting [emperors](https://en.wikipedia.org/wiki/Emperor_of_China) the divine right to rule.** Think of it as a cosmic performance review: as long as the emperor was just and protected the people, the heavens supported his reign. If floods or [famines](https://en.wikipedia.org/wiki/Famine) hit, the people might decide the emperor had lost his Mandate!
 
@@ -39,6 +45,8 @@ The isolation didn't stop them from becoming the ancient world's ultimate invent
 
 To protect these incredible riches from outside threats, **the [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China) was constructed to protect Chinese states from northern [nomadic invasions](https://en.wikipedia.org/wiki/Nomadic_empire).**
 
+![A sprawling section of the Great Wall of China. This monumental fortification visually represents the civilization's dedication to isolating and protecting its riches from northern nomadic invasions.](https://wikipedia.org/wiki/Special:Redirect/file/A_long_stretch_of_the_Great_Wall.jpg)
+
 ***
 
 ## Part 2: Saltwater and Society — The Mediterranean Masters
@@ -48,6 +56,8 @@ While Egypt and China thrived on riverbanks, **[Ancient Greece](https://en.wikip
 
 ### Ancient Greece: Mountains, Myths, and Democracy
 Greece’s geography is a fascinating puzzle. Unlike wide-open river valleys, **the mountainous terrain of ancient Greece naturally divided the region into independent [city-states](https://en.wikipedia.org/wiki/City-state).** You couldn't just walk to the next town easily; there was a literal mountain in the way. 
+
+![A topographical map of mainland Greece. The rugged, mountainous terrain made land travel difficult, naturally fracturing the civilization into fiercely independent city-states rather than a single unified empire.](https://wikipedia.org/wiki/Special:Redirect/file/Ancient_Regions_Mainland_Greece.png)
 
 Because of this, **the ancient Greek term for an independent city-state is a *[polis](https://en.wikipedia.org/wiki/Polis)*.** Each polis had its own rules, culture, and personality. The two most famous were total opposites:
 *   **The ancient Greek city-state of [Athens](https://en.wikipedia.org/wiki/Classical_Athens) developed a system of [direct democracy](https://en.wikipedia.org/wiki/Direct_democracy).**
@@ -65,6 +75,8 @@ Look at any government building today, and you'll see [Greek architecture](https
 2.  **The [Ionic order](https://en.wikipedia.org/wiki/Ionic_order) is a distinct column style developed in ancient Greek architecture.** (Looks like scrolls or a ram's horns at the top).
 3.  **The [Corinthian order](https://en.wikipedia.org/wiki/Corinthian_order) is a distinct column style developed in ancient Greek architecture.** (Highly ornate, decorated with carved leaves).
 
+![A visual comparison of the three primary orders of ancient Greek architecture. From left to right: the simple and sturdy Doric, the scroll-topped Ionic, and the highly ornate Corinthian.](https://wikipedia.org/wiki/Special:Redirect/file/Schema_Saeulenordnungen.jpg)
+
 ### Ancient Rome: The Engineers of the Republic
 Further west, **the civilization of ancient Rome began on the [Italian Peninsula](https://en.wikipedia.org/wiki/Italian_Peninsula).** Geography is destiny, and **the central location of the Italian Peninsula facilitated ancient Roman control of the Mediterranean Sea.** They were perfectly positioned to dominate trade.
 
@@ -72,10 +84,14 @@ Early on, Rome established a government that greatly influenced the modern [Unit
 
 However, it wasn't a perfect system of equality. **Ancient Roman society included a wealthy [aristocratic class](https://en.wikipedia.org/wiki/Aristocracy) known as [patricians](https://en.wikipedia.org/wiki/Patrician_%28ancient_Rome%29)**, who held most of the power, and **a lower class of common citizens known as [plebeians](https://en.wikipedia.org/wiki/Plebeians).** To keep the patricians from changing the rules on a whim, the plebeians demanded written laws. Thus, **the [Twelve Tables](https://en.wikipedia.org/wiki/Twelve_Tables) formed the foundational written law code of the Roman Republic.** 
 
+![An artist's rendition of Roman civilians examining the Twelve Tables. Establishing a written law code was a major concession won by the plebeians to protect their rights from the patrician class.](https://wikipedia.org/wiki/Special:Redirect/file/Twelve_Tables_Engraving.jpg)
+
 The Romans were, above all else, brilliant problem-solvers. 
 *   **[Roman engineers](https://en.wikipedia.org/wiki/Roman_engineering) constructed extensive networks of [paved roads](https://en.wikipedia.org/wiki/Roman_roads) across [Europe](https://en.wikipedia.org/wiki/Europe)** (to move their armies and trade goods).
 *   **Ancient Roman engineers built [aqueducts](https://en.wikipedia.org/wiki/Roman_aqueduct) to transport fresh water into urban centers.**
 *   To hold up those massive aqueducts and bridges, **ancient Romans utilized [arches](https://en.wikipedia.org/wiki/Arch) to support massive architectural structures.** 
+
+![The Pont du Gard in southern France showcases masterful Roman engineering. By utilizing a multi-tiered system of arches, Romans successfully supported aqueducts that carried fresh water to distant urban centers.](https://wikipedia.org/wiki/Special:Redirect/file/Pont_du_Gard_BLS.jpg)
 
 Culturally, their voice still echoes today. **The [Latin language](https://en.wikipedia.org/wiki/Latin) developed by ancient Romans forms the basis of modern [Romance languages](https://en.wikipedia.org/wiki/Romance_languages)** (Spanish, French, Italian, etc.).
 
@@ -92,6 +108,8 @@ How do we weave these distinct civilizations together for our students? We look 
 When teaching the Silk Road, emphasize two distinct layers of exchange:
 1.  **The Silk Road enabled the economic exchange of physical goods between distant civilizations.** (Silk, [spices](https://en.wikipedia.org/wiki/Spice), [glass](https://en.wikipedia.org/wiki/Roman_glass)).
 2.  **The Silk Road facilitated the cultural exchange of ideas between distinct civilizations.** ([Religions](https://en.wikipedia.org/wiki/Religion), scientific discoveries, philosophies).
+
+![A map outlining the vast network of the Silk Road. For students, visualizing these routes is key to understanding how isolated civilizations eventually engaged in transformative economic and cultural exchanges.](https://wikipedia.org/wiki/Special:Redirect/file/Silk_route_copy.jpg)
 
 Another profound connection to make across *all* these civilizations is how they structured human life. Whether in Rome, China, Greece, or Egypt, **most classical civilizations maintained rigid [social hierarchies](https://en.wikipedia.org/wiki/Social_stratification) with limited opportunities for upward [social mobility](https://en.wikipedia.org/wiki/Social_mobility).** If you were born a farmer, you died a farmer. This is a great contrast to discuss with students when talking about modern democratic ideals!
 
@@ -114,10 +132,14 @@ You have to teach students how we *know* what we know. You must drill the differ
 ### 3. Object-Based Learning
 Don't just lecture—show them the evidence! **Teachers guide elementary students to observe physical details in ancient [artifacts](https://en.wikipedia.org/wiki/Artifact_%28archaeology%29) before making broader historical [inferences](https://en.wikipedia.org/wiki/Inference).** Let them be detectives. For example, **visual analysis of [ancient pottery](https://en.wikipedia.org/wiki/Pottery_of_ancient_Greece) helps students deduce elements of daily life in classical civilizations.** If a Greek vase shows women fetching water from a fountain, students can infer [gender roles](https://en.wikipedia.org/wiki/Gender_role), infrastructure, and clothing without reading a single word.
 
+![An ancient Greek plate depicting an athletic scene in a palaestra. Object-based learning allows elementary students to act as historians, examining artifacts like this to infer details about daily life and cultural values without needing to read ancient texts.](https://wikipedia.org/wiki/Special:Redirect/file/Palaestra_scene_Louvre_G7.jpg)
+
 ### 4. Fact vs. Fiction in the Ancient Mind
 Elementary students love [mythology](https://en.wikipedia.org/wiki/Mythology), but this creates a cognitive roadblock. **Elementary students often struggle to distinguish mythological narratives from factual historical records in ancient texts.** They might think [Hercules](https://en.wikipedia.org/wiki/Heracles) was a real politician like [Pericles](https://en.wikipedia.org/wiki/Pericles)! 
 
 How do you fix this? **Teachers use [ancient Greek myths](https://en.wikipedia.org/wiki/Greek_mythology) to illustrate how classical cultures attempted to explain natural phenomena.** Teach them that myths were the ancient world's version of science. If they didn't know *why* winter happened, they invented a story about [Demeter](https://en.wikipedia.org/wiki/Demeter) mourning her daughter [Persephone](https://en.wikipedia.org/wiki/Persephone). Myths aren't just "fake stories"; they are primary sources that show us how ancient minds solved the mysteries of their universe.
+
+![An ancient amphora depicting Hades and Persephone. For ancient cultures, myths regarding these figures were not merely stories, but functional scientific frameworks used to explain natural phenomena like the changing of the seasons.](https://wikipedia.org/wiki/Special:Redirect/file/Amphora_Hades_Louvre_G209_n2.jpg)
 
 ***
 

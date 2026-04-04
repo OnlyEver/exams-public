@@ -23,6 +23,8 @@ The key to teaching these isn't just naming them; it's understanding how they be
 | **Liquid** | Maintains a fixed volume regardless of the container | Takes the shape of the container holding the liquid |
 | **Gas** | Takes the volume of the container holding the gas | Takes the shape of the container holding the gas |
 
+![Diagram illustrating how the three common states of matter—solid, liquid, and gas—behave differently when placed inside a container.](https://wikipedia.org/wiki/Special:Redirect/file/_States_of_Matter.svg)
+
 ### Why Materials Matter
 Look around your room. Why aren't your windows made of [wood](https://en.wikipedia.org/wiki/Wood)? Why aren't your shoes made of [glass](https://en.wikipedia.org/wiki/Glass)? **Materials can be classified into categories based on observable [physical properties](https://en.wikipedia.org/wiki/Physical_property)**, such as **[color](https://en.wikipedia.org/wiki/Color), [texture](https://en.wikipedia.org/wiki/Surface_finish), [hardness](https://en.wikipedia.org/wiki/Hardness), and [flexibility](https://en.wikipedia.org/wiki/Flexibility_%28engineering%29)**. 
 
@@ -72,11 +74,15 @@ How do we prove air is matter? We test its two properties: mass and volume.
 
 Once they accept gases are made of particles, you can introduce a beautiful concept: compressibility. You can squeeze a gas into a smaller space. **The physical [compressibility](https://en.wikipedia.org/wiki/Compressibility) of a gas demonstrates that empty space exists between individual gas particles.** 
 
+![A scientific model representing gas particles in random motion. The vast, empty void between the particles is what allows a gas to be physically compressed into a smaller volume.](https://wikipedia.org/wiki/Special:Redirect/file/Gas_particle_movement.svg)
+
 *Wait!* says the bright student in the front row. *What's between the gas particles?*
 > **Classroom Reality Check: The "Air Between the Air"**
 > Elementary students frequently hold the misconception that the microscopic empty space between matter particles is filled with air. You must blow their minds here: The space between particles is filled with *absolutely nothing*. It is a true [void](https://en.wikipedia.org/wiki/Vacuum). 
 
 Furthermore, **elementary students often struggle to understand that air is a [mixture](https://en.wikipedia.org/wiki/Mixture) of different types of gas particles.** They tend to think "air" is just one single [element](https://en.wikipedia.org/wiki/Chemical_element). You'll need to explain that the air they breathe is actually a soup of [nitrogen](https://en.wikipedia.org/wiki/Nitrogen), [oxygen](https://en.wikipedia.org/wiki/Oxygen), and [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) particles all swirling around together!
+
+![A chart showing the mixture of gases in Earth's atmosphere. Showing students that air is predominantly composed of nitrogen and oxygen helps dispel the myth that air is just one single element.](https://wikipedia.org/wiki/Special:Redirect/file/Atmosphere_gas_proportions.svg)
 
 ---
 
@@ -93,6 +99,8 @@ Here is the precise, academic distinction you must know:
 *   **Melting requires a transfer of [thermal energy](https://en.wikipedia.org/wiki/Thermal_energy) into a solid.** (Putting an [ice cube](https://en.wikipedia.org/wiki/Ice_cube) on a hot [sidewalk](https://en.wikipedia.org/wiki/Sidewalk). [Heat](https://en.wikipedia.org/wiki/Heat) enters the solid and changes its state).
 *   **Dissolving requires the mixing of a solid [solute](https://en.wikipedia.org/wiki/Solute) into a liquid [solvent](https://en.wikipedia.org/wiki/Solvent).** (Stirring sugar into [room-temperature](https://en.wikipedia.org/wiki/Room_temperature) water).
 
+![Dissolving table salt into water. Unlike melting, which is driven by heat, dissolving involves a solid solute separating into invisible particles that hide among the particles of a liquid solvent.](https://wikipedia.org/wiki/Special:Redirect/file/SaltInWaterSolutionLiquid.jpg)
+
 **Dissolving a solid into a liquid provides observable evidence that matter is made of particles too small to be seen.** Why? Because the **sugar dissolved in water remains present in the water despite becoming invisible to the human eye.** The sugar particles just separated and hid among the water particles!
 
 To prove the sugar is still there, we rely on the [law of conservation of mass](https://en.wikipedia.org/wiki/Conservation_of_mass): **The total mass of a [solution](https://en.wikipedia.org/wiki/Solution_%28chemistry%29) equals the sum of the mass of the solvent and the mass of the solute.** If you have 100 [grams](https://en.wikipedia.org/wiki/Gram) of water and dissolve 10 grams of sugar into it, the resulting sweet water will weigh exactly 110 grams. No magic. Just mechanics. 
@@ -103,6 +111,8 @@ Want to prove it visually? **[Evaporating](https://en.wikipedia.org/wiki/Evapora
 Finally, what happens when we add or remove heat from these particles? Think of particles like children on a [playground](https://en.wikipedia.org/wiki/Playground). 
 *   **Heating a substance causes the particles of the substance to move faster.** They bump into each other harder and push each other further apart. 
 *   **Cooling a substance causes the particles of the substance to move slower.** They huddle closer together.
+
+![An animation modeling the kinetic theory of matter. As thermal energy increases, particles move with greater speed and collide with more force, pushing each other further apart.](https://wikipedia.org/wiki/Special:Redirect/file/Translational_motion.gif)
 
 ### The Takeaway for Your Teaching Practice
 When you step into your classroom, remember that you aren't just teaching [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) words. You are handing students the conceptual tools to mentally construct the universe. When they look at a puddle drying up, a balloon inflating, or a [Lego](https://en.wikipedia.org/wiki/Lego) castle being smashed and rebuilt, they won't just see random events. They will see the invisible, logical, beautiful dance of matter.

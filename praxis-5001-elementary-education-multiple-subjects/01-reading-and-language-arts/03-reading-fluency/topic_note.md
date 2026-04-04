@@ -2,6 +2,8 @@
 
 Imagine you are looking at a piece of paper covered in tiny, abstract black squiggles. By simply scanning your eyes across these shapes, you suddenly hear a voice in your head telling a vivid story, teaching you about the [rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn), or bringing you to tears. It is, quite frankly, a biological [miracle](https://en.wikipedia.org/wiki/Miracle). 
 
+![Eye tracking demonstrates how our eyes scan and fixate on text, rapidly translating abstract symbols into meaningful language.](https://wikipedia.org/wiki/Special:Redirect/file/EyeFixationsReading.gif)
+
 But as future teachers, you know that children don’t just stumble into this miracle. To get from sounding out *"c-a-t"* to getting completely lost in the magic of a story, a student must master a profoundly important skill: **fluency**.
 
 The significance of this cannot be overstated. In fact, **the [National Reading Panel](https://en.wikipedia.org/wiki/National_Reading_Panel) identified reading fluency as one of the five essential components of effective reading instruction** (alongside [phonemic awareness](https://en.wikipedia.org/wiki/Phonemic_awareness), [phonics](https://en.wikipedia.org/wiki/Phonics), [vocabulary](https://en.wikipedia.org/wiki/Vocabulary), and [comprehension](https://en.wikipedia.org/wiki/Reading_comprehension)). 
@@ -23,6 +25,8 @@ Notice that this is a three-part [harmony](https://en.wikipedia.org/wiki/Harmony
 3. **Reading prosody:** This is the music of [language](https://en.wikipedia.org/wiki/Language). Prosody is **the ability to read with appropriate rhythm, pitch, and phrasing.** It’s what makes reading sound like natural, living [speech](https://en.wikipedia.org/wiki/Speech) rather than a robotic monotone. 
 
 To master prosody, a reader has to master a few subtle sub-skills. First, they must understand phrasing. **Phrasing in reading involves grouping words together into meaningful [syntactic](https://en.wikipedia.org/wiki/Syntax) units.** (For instance, reading *"The big red dog / ran to the park"* rather than *"The / big red / dog ran / to the"*). Second, they must master [intonation](https://en.wikipedia.org/wiki/Intonation_%28linguistics%29). **Intonation in reading involves changing the pitch of the [voice](https://en.wikipedia.org/wiki/Human_voice) to convey meaning or reflect [punctuation](https://en.wikipedia.org/wiki/Punctuation).** When you see a [question mark](https://en.wikipedia.org/wiki/Question_mark), your pitch goes up at the end of the sentence. That’s intonation at work!
+
+![A visualization of speech prosody. Changes in vocal pitch are represented by the ribbon's height, while variations in rhythm and energy are shown by its width and darkness.](https://wikipedia.org/wiki/Special:Redirect/file/SP_25_black_text.png)
 
 #### Automaticity vs. Fluency: A Crucial Distinction
 
@@ -48,6 +52,8 @@ But when a student masters fluency, a glorious shift occurs. **Fluent readers de
 
 > **[Feynman’s](https://en.wikipedia.org/wiki/Richard_Feynman) Analogy:** Think of learning to drive a [manual transmission](https://en.wikipedia.org/wiki/Manual_transmission) car. At first, you are intensely focused on the [clutch](https://en.wikipedia.org/wiki/Clutch), the [stick shift](https://en.wikipedia.org/wiki/Gear_stick), and the [RPMs](https://en.wikipedia.org/wiki/Revolutions_per_minute). You can't even hold a conversation because your cognitive capacity is maxed out. But once shifting becomes automatic, you can navigate [traffic](https://en.wikipedia.org/wiki/Traffic), listen to the [radio](https://en.wikipedia.org/wiki/Radio_broadcasting), and talk to your passenger effortlessly. Fluency is putting your brain's decoding on "automatic" so you can finally enjoy the ride of the story.
 
+![Just as a driver must first master a manual gear shift layout before driving effortlessly, a reader must achieve decoding automaticity before fully engaging with the meaning of a text.](https://wikipedia.org/wiki/Special:Redirect/file/Manual_Layout.svg)
+
 ---
 
 ### Taking the Temperature: Measuring Fluency
@@ -61,7 +67,7 @@ To measure rate and accuracy, we use a beautiful, objective metric: Words Correc
 > 
 > *Example:* If a student reads 115 words in 60 [seconds](https://en.wikipedia.org/wiki/Second), but makes 5 uncorrected errors, their WCPM is 110. 
 
-But what about the musicality of reading? You can't capture a beautiful, expressive voice with a [stopwatch](https://en.wikipedia.org/wiki/Stopwatch). Therefore, **prosody is typically assessed using qualitative observation [rubrics](https://en.wikipedia.org/wiki/Rubric_%28academic%29).** A teacher listens to the student read and scores them on a rubric looking at expression, [volume](https://en.wikipedia.org/wiki/Loudness), phrasing, and smoothness.
+But what about the musicality of reading? You can't capture a beautiful, expressive voice with a stopwatch. Therefore, **prosody is typically assessed using qualitative observation [rubrics](https://en.wikipedia.org/wiki/Rubric_%28academic%29).** A teacher listens to the student read and scores them on a rubric looking at expression, [volume](https://en.wikipedia.org/wiki/Loudness), phrasing, and smoothness.
 
 ---
 
@@ -93,6 +99,8 @@ Once they have the blueprint and the right text, we deploy specific, [evidence-b
 *   **Echo Reading:** This is a [call-and-response](https://en.wikipedia.org/wiki/Call_and_response) mechanism. **Echo reading is an instructional strategy where the teacher reads a sentence aloud and the student immediately reads the same sentence aloud.** This is brilliant for students who struggle heavily with prosody; they just have to [mimic](https://en.wikipedia.org/wiki/Mimicry) your exact intonation and phrasing.
 *   **Audio-Assisted Reading:** Here, [technology](https://en.wikipedia.org/wiki/Technology) lends a hand. **Audio-assisted reading involves students reading a physical text while listening to a recorded fluent reading of the same text.** The student tracks the words with their finger, matching their visual input with the perfect [auditory](https://en.wikipedia.org/wiki/Auditory_system) input of the [recording](https://en.wikipedia.org/wiki/Sound_recording_and_reproduction). 
 *   **Reader's Theater:** This is where fluency becomes fun! **[Reader's Theater](https://en.wikipedia.org/wiki/Readers_theater) is an instructional activity where students practice reading a [script](https://en.wikipedia.org/wiki/Script_%28performing_arts%29) multiple times to prepare for an oral performance.** (Notice that no [costumes](https://en.wikipedia.org/wiki/Costume) or [memorization](https://en.wikipedia.org/wiki/Memorization) are required—the script stays in their hands!). Because they want to put on a good "show," **Reader's Theater specifically targets the development of reading prosody through expressive [rehearsal](https://en.wikipedia.org/wiki/Rehearsal).** They naturally learn to use their voice to convey character [emotion](https://en.wikipedia.org/wiki/Emotion), excitement, and dramatic pauses.
+
+![During Reader's Theater, students keep scripts in hand, focusing entirely on developing reading prosody and vocal expression rather than memorization or acting.](https://wikipedia.org/wiki/Special:Redirect/file/Literary_lights_readers_theater_8819.JPG)
 
 ---
 

@@ -4,6 +4,8 @@ Hello, future educators! Welcome to one of the most exhilarating, brain-bending,
 
 Think about what it’s like to be an eight-year-old. Since the day you could talk, [math](https://en.wikipedia.org/wiki/Mathematics) has been about [counting](https://en.wikipedia.org/wiki/Counting) distinct, whole things. One apple, two blocks, three dogs. But suddenly, you walk into a classroom and the teacher starts slicing the apples, breaking the blocks, and telling you that [numbers](https://en.wikipedia.org/wiki/Number) can exist *in between* the numbers you already know. It’s a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift)! 
 
+![Before encountering fractions, a child's mathematical worldview is based entirely on counting distinct, whole objects like apples.](https://wikipedia.org/wiki/Special:Redirect/file/Addition01.svg)
+
 As an [elementary teacher](https://en.wikipedia.org/wiki/Primary_education), your job isn't just to hand them a list of rules for adding [numerators](https://en.wikipedia.org/wiki/Numerator) or finding [common denominators](https://en.wikipedia.org/wiki/Lowest_common_denominator). If you do that, you're just handing them a [magic trick](https://en.wikipedia.org/wiki/Magic_%28illusion%29) they won't remember. Your job is to construct a resilient [mental architecture](https://en.wikipedia.org/wiki/Mental_model) so they intuitively understand *what a fraction actually is*. 
 
 Let’s roll up our sleeves and explore not just what [fractions](https://en.wikipedia.org/wiki/Fraction) are, but *how* kids learn them, the traps they fall into, and how you can guide them out of the dark.
@@ -17,6 +19,8 @@ Before we can even talk about numbers, we have to talk about the physical act of
 > **Equipartitioning is the [cognitive process](https://en.wikipedia.org/wiki/Cognition) of dividing a continuous whole into equal-sized parts.**
 
 Notice I said *cognitive process*. It requires immense [spatial reasoning](https://en.wikipedia.org/wiki/Spatial_ability) for a child to look at a [rectangle](https://en.wikipedia.org/wiki/Rectangle) and figure out how to slice it into exactly three fair shares. This is the bedrock of all fraction understanding. If a student doesn't understand fair shares, the numbers that follow will mean absolutely nothing.
+
+![A visual area model demonstrating equipartitioning, where a continuous whole is divided into equal-sized fractional shares.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
 
 To teach this, we use three distinct types of visual models. Kids need to see all three so they don't get stuck thinking a fraction is *only* a sliced [pizza](https://en.wikipedia.org/wiki/Pizza):
 
@@ -69,6 +73,8 @@ For years, kids have learned that 8 is much bigger than 3. So, when you put $1/8
 Because of this, **a common student misconception is assuming a fraction with a larger denominator represents a physically larger quantity.** 
 How do you fix this? You go back to the pizza, or the brownie pan. Ask them: "If I share a pizza with 8 people, will you get a bigger slice than if I share it with 3 people?" Suddenly, the lightbulb flicks on. A larger denominator means *more cuts*, which means *smaller pieces*. 
 
+![Slicing a pizza into eighths provides a highly relatable visual area model to help students recognize why a larger denominator results in physically smaller slices.](https://wikipedia.org/wiki/Special:Redirect/file/Pizza-3007395.jpg)
+
 ---
 
 ## 4. Fractions are Numbers! (The Number Line)
@@ -76,6 +82,8 @@ How do you fix this? You go back to the pizza, or the brownie pan. Ask them: "If
 Pizzas and brownies are great, but eventually, we have to mature our understanding. Fractions aren't just physical objects; they are actual, precise numbers. 
 
 **Fractions function as numerical values possessing distinct and unique locations on a [number line](https://en.wikipedia.org/wiki/Number_line).** 
+
+![To understand fractions as exact mathematical values, students must transition to using the number line, learning to partition the continuous empty spaces between whole integers.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
 
 Transitioning students to the number line is often where the wheels fall off. Why? Because kids want to count the *tick marks* instead of the *spaces* between the tick marks. 
 
@@ -121,6 +129,8 @@ Here is a massive pitfall. You ask a student, "Is half of this giant classroom p
 
 ### Proving Equivalence
 How do we prove equivalence in the classroom? We use [manipulatives](https://en.wikipedia.org/wiki/Manipulative_%28mathematics_education%29). **Fraction strips are a type of linear mathematical [model](https://en.wikipedia.org/wiki/Mathematical_model) used to demonstrate fraction [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) and equivalence.** When a student physically lines up a $1/2$ fraction strip and places two $1/4$ strips perfectly flush beneath it, their brains register the continuous length. They *see* that $1/2$ and $2/4$ travel the exact same distance.
+
+![Manipulatives such as physical rods can serve as linear fraction strips, allowing students to physically align and compare the magnitude of equivalent fractional lengths.](https://wikipedia.org/wiki/Special:Redirect/file/Cuisenaire_staircase.JPG)
 
 Once they understand it visually, we can introduce the mathematical mechanics:
 *   **Multiplying a fraction's numerator and denominator by the same non-zero [integer](https://en.wikipedia.org/wiki/Integer) yields an equivalent fraction.** (Why? Because if you multiply by $2/2$, you are just multiplying by 1. Visually, you are just taking your existing pieces and slicing them in half—doubling the number of pieces, while halving their size).

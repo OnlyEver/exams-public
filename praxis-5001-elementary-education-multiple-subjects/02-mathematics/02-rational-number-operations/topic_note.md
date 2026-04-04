@@ -6,12 +6,16 @@ You see, humanity started off counting on our fingers—one apple, two trees, th
 
 So, what are they? Simply put, **a rational number is any number capable of being expressed as a [fraction](https://en.wikipedia.org/wiki/Fraction) of two [integers](https://en.wikipedia.org/wiki/Integer).** If you can write it as an integer over an integer (like $a/b$), it’s rational! This means **integers, fractions, and terminating or [repeating decimals](https://en.wikipedia.org/wiki/Repeating_decimal) are all examples of rational numbers.** The number 5? That's $5/1$. The [decimal](https://en.wikipedia.org/wiki/Decimal) $0.75$? That’s $3/4$. Even $0.333...$ is rational because it’s exactly $1/3$. 
 
+![Rational numbers (denoted by $\mathbb{Q}$) encompass all integers and natural numbers, fitting neatly within the broader universe of real numbers.](https://wikipedia.org/wiki/Special:Redirect/file/Number-systems_(NZQRC).svg)
+
 > **The Golden Rule of the Denominator**
 > There is exactly one grand restriction in this universe of fractions: **the [denominator](https://en.wikipedia.org/wiki/Fraction) of a fraction representing a rational number cannot be zero.** Why? Because **[division by zero](https://en.wikipedia.org/wiki/Division_by_zero) is [undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29) in mathematics.** Imagine trying to divide a pizza into zero slices. The concept completely breaks down! 
 
-Before we start playing with these numbers, let's establish the invisible machinery that keeps them stable: the identities. 
+![Because division by zero is mathematically undefined, attempting to calculate it will cause modern calculators to halt and return a syntax error.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
+
+Before we start playing with these numbers, let's establish the invisible machinery that keeps them stable: the [identities](https://en.wikipedia.org/wiki/Identity_element). 
 *   **Zero is the [additive identity](https://en.wikipedia.org/wiki/Additive_identity) for rational numbers.** This means **adding zero to a rational number does not change the mathematical value of the rational number.** ($5 + 0 = 5$).
-*   Similarly, **one is the multiplicative identity for rational numbers.** Thus, **multiplying a rational number by one does not change the mathematical value of the rational number.** ($5 \times 1 = 5$). 
+*   Similarly, **one is the [multiplicative identity](https://en.wikipedia.org/wiki/Multiplicative_identity) for rational numbers.** Thus, **multiplying a rational number by one does not change the mathematical value of the rational number.** ($5 \times 1 = 5$). 
 
 They seem like simple rules, but these "do-nothing" numbers are the secret to manipulating [equations](https://en.wikipedia.org/wiki/Equation)!
 
@@ -20,6 +24,8 @@ They seem like simple rules, but these "do-nothing" numbers are the secret to ma
 ## The Dance of Signs: Positives and Negatives
 
 When you look at rational numbers, they have directions—positive and negative. Working with them is like a tug-of-war.
+
+![Visualizing numbers on a number line helps illustrate their direction and magnitude, with positive and negative numbers extending infinitely in opposite directions from zero.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
 
 ### Addition and Subtraction
 *   **When adding two rational numbers with the same [sign](https://en.wikipedia.org/wiki/Sign_%28mathematics%29)**, you just combine their [magnitudes](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29). The result is a **[sum](https://en.wikipedia.org/wiki/Addition) that has the exact same sign as the addends.** (A positive plus a positive is positive; a negative plus a negative is a deeper negative).
@@ -54,6 +60,8 @@ Rational numbers usually wear one of two costumes: fractions or decimals. You ne
 Fractions are literal pieces of a whole. 
 When you want to put them together or take them apart (addition and subtraction), you have a physical problem. You can't easily add a third of a pie to a fifth of a pie and know what to call the result. Therefore, **adding and subtracting fractions requires finding a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) before performing the operation.** You have to slice the pies into the exact same size pieces first!
 
+![To combine fractions representing different proportions of a whole, they must first be mathematically sliced into equal-sized pieces by finding a common denominator.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_fractions.svg)
+
 But multiplication and division are a different flavor of logic. Taking "half of a third" doesn't require the pieces to match first. Thus, **multiplying and dividing fractions does not require finding a common denominator.**
 *   **When multiplying fractions, the [numerators](https://en.wikipedia.org/wiki/Fraction) are multiplied together to form the new numerator**, and **the denominators are multiplied together to form the new denominator.** 
 *   What about division? Just like subtraction is disguised addition, **dividing by a fraction is mathematically equivalent to multiplying by the [reciprocal](https://en.wikipedia.org/wiki/Multiplicative_inverse) of that specific fraction.** And how do we find this magical reciprocal? **The reciprocal of a fraction is formed by swapping the numerator and the denominator of the fraction.** To compute $\frac{1}{2} \div \frac{3}{4}$, you just flip the second guy and multiply: $\frac{1}{2} \times \frac{4}{3}$!
@@ -61,14 +69,14 @@ But multiplication and division are a different flavor of logic. Taking "half of
 ### The Way of the Decimal
 Decimals are just fractions wearing a [base-10](https://en.wikipedia.org/wiki/Decimal) tuxedo. 
 *   **To add or subtract decimals, the numbers must be vertically aligned by their [decimal points](https://en.wikipedia.org/wiki/Decimal_separator) before performing the operation.** Why? Because you must add tenths to tenths and hundredths to hundredths!
-*   **When multiplying decimals**, you ignore the decimal point at first, multiply the numbers like integers, and then remember this rule: **the total number of decimal places in the product equals the sum of the decimal places in the factors.**
+*   **When multiplying decimals**, you ignore the decimal point at first, multiply the numbers like integers, and then remember this rule: **the total number of decimal places in the product equals the sum of the decimal places in the [factors](https://en.wikipedia.org/wiki/Factor_%28mathematics%29).**
 *   Division of decimals feels tricky until you use the power of shifting. **When dividing a decimal by a decimal, the decimal point in the [divisor](https://en.wikipedia.org/wiki/Divisor) must be moved to the right to create a whole number.** But you can't just change the divisor without upsetting the balance! **Moving the decimal point in the divisor requires moving the decimal point in the [dividend](https://en.wikipedia.org/wiki/Division_%28mathematics%29) by the exact same number of places to the right.** 
 
 ---
 
 ## The Magic of Reversibility: Inverse Operations
 
-Nature loves symmetry, and mathematics is no different. We use symmetry to un-do things. **An inverse operation can be used to mathematically reverse the effect of another operation.** 
+Nature loves symmetry, and mathematics is no different. We use symmetry to un-do things. **An [inverse operation](https://en.wikipedia.org/wiki/Inverse_operation) can be used to mathematically reverse the effect of another operation.** 
 
 *   **Addition and subtraction are inverse operations.**
 *   **Multiplication and division are inverse operations.**
@@ -81,6 +89,8 @@ Similarly, **the inverse relationship between multiplication and division dictat
 
 But it goes deeper than checking answers. **Using inverse operations allows for the isolation of an [unknown variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) in an [algebraic equation](https://en.wikipedia.org/wiki/Algebraic_equation).** If I say $5 \times X = 20$, how do I find $X$? I use the inverse! **The inverse relationship between multiplication and division can be used to solve for an unknown value in a mathematical equation.** I simply divide $20$ by $5$ to isolate the $X$.
 
+![An algebraic equation acts like a balanced scale; applying inverse operations to both sides allows you to balance the equation while isolating and solving for an unknown variable.](https://wikipedia.org/wiki/Special:Redirect/file/Equation_illustration_colour.svg)
+
 ---
 
 ## Putting It All Together: Multistep Problems
@@ -89,6 +99,8 @@ When analyzing the world, you rarely face a single, isolated calculation. You us
 
 > **The Standard Order of Operations ([PEMDAS](https://en.wikipedia.org/wiki/Order_of_operations))**
 > **The standard order of operations dictates evaluating [parentheses](https://en.wikipedia.org/wiki/Bracket) first, followed by [exponents](https://en.wikipedia.org/wiki/Exponentiation), then multiplication and division from left to right, and finally addition and subtraction from left to right.** 
+
+![The standard order of operations establishes a strict hierarchy for calculating multistep equations, ensuring that everyone arrives at the exact same mathematical truth.](https://wikipedia.org/wiki/Special:Redirect/file/Order_of_operations.svg)
 
 To even get to the math, though, we have to translate human language into math language. **Translating real-world situations into [mathematical expressions](https://en.wikipedia.org/wiki/Expression_%28mathematics%29) requires mapping specific vocabulary words to corresponding operations.** Listen for the code words:
 *   **The word total or sum in a mathematical [word problem](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29) typically indicates the addition operation.**
@@ -103,6 +115,8 @@ To even get to the math, though, we have to translate human language into math l
 Now we step out of the pristine classroom and into the messy real world. **Division problems involving real-world contexts often result in a [remainder](https://en.wikipedia.org/wiki/Remainder) that must be interpreted based on the specific situation.** 
 
 When you do [long division](https://en.wikipedia.org/wiki/Long_division), you sometimes get a number left over at the bottom. The math tells you it's there, but your common sense has to decide what to do with it. Let's look at the three ways the real world handles remainders.
+
+![The process of long division often yields a remainder at the end of the calculation, which must be carefully interpreted based on the real-world context of the problem.](https://wikipedia.org/wiki/Special:Redirect/file/LongDivisionAnimated.gif)
 
 ### 1. The Discarded Remainder
 **In some real-world division problems, the remainder must be completely discarded.** Imagine you have \$20 and comic books cost \$6 each. $20 \div 6$ is $3$ with a remainder of $2$. The store isn't going to sell you $2/6$ of a comic book! **When determining how many full items can be purchased with a set amount of money, the remainder of the division operation is discarded.** 

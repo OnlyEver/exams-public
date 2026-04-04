@@ -2,6 +2,8 @@
 
 Welcome! Pull up a chair. As the [physicist](https://en.wikipedia.org/wiki/Physicist) [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once said, teaching isn't an interruption to the process of thinking; in fact, the questions students ask are often the very source of new discoveries. And the students in your [elementary classroom](https://en.wikipedia.org/wiki/Elementary_school)? They are the ultimate [scientists](https://en.wikipedia.org/wiki/Scientist). 
 
+![Theoretical physicist Richard Feynman giving a lecture. He famously championed the idea that student questions and curiosity are powerful catalysts for scientific discovery.](https://wikipedia.org/wiki/Special:Redirect/file/Feynman_lecture_1964_(10481714045).jpg)
+
 From the moment a [toddler](https://en.wikipedia.org/wiki/Toddler) drops a spoon from a [highchair](https://en.wikipedia.org/wiki/High_chair) to the afternoon a [third-grader](https://en.wikipedia.org/wiki/Third_grade) kicks a [kickball](https://en.wikipedia.org/wiki/Kickball) across the [playground](https://en.wikipedia.org/wiki/Playground), they are observing the [physical universe](https://en.wikipedia.org/wiki/Universe). They are trying to figure out the rules of the great [chess game](https://en.wikipedia.org/wiki/Chess) of [nature](https://en.wikipedia.org/wiki/Nature). Your job isn't just to tell them the rules; it's to help them see the rules in action.
 
 Today, we are going to deeply explore **[Forces](https://en.wikipedia.org/wiki/Force), [Motion](https://en.wikipedia.org/wiki/Motion_%28physics%29), and [Interactions](https://en.wikipedia.org/wiki/Fundamental_interaction)**. We will look at how things move, why they stop, the invisible strings pulling the [universe](https://en.wikipedia.org/wiki/Universe) together, and—most importantly for your Content Knowledge for Teaching (CKT) exam—the logical traps and [misconceptions](https://en.wikipedia.org/wiki/Misconception) your students will inevitably fall into.
@@ -30,6 +32,9 @@ Many forces in our daily lives are **[contact forces](https://en.wikipedia.org/w
 When your students are playing [bumper cars](https://en.wikipedia.org/wiki/Bumper_cars) or [marbles](https://en.wikipedia.org/wiki/Marble_%28toy%29), they are observing that **when two objects [collide](https://en.wikipedia.org/wiki/Collision), the objects exert forces on each other.** But there are two other contact forces you must know intimately:
 
 * **[Friction](https://en.wikipedia.org/wiki/Friction):** Have you ever noticed how sliding in [socks](https://en.wikipedia.org/wiki/Sock) is easy on [hardwood](https://en.wikipedia.org/wiki/Hardwood) but impossible on [carpet](https://en.wikipedia.org/wiki/Carpet)? That's friction. **Friction is a contact force.** Specifically, **friction is a force that opposes the motion of an object.** It's the universe's [brake pedal](https://en.wikipedia.org/wiki/Brake). 
+
+![On a microscopic level, even seemingly smooth surfaces possess rough, jagged textures that catch and drag against each other, creating the contact force of friction.](https://wikipedia.org/wiki/Special:Redirect/file/Friction_between_surfaces.jpg)
+
 * **The [Normal Force](https://en.wikipedia.org/wiki/Normal_force):** Put a book on a desk. Why doesn't it fall through the wood? Because the desk is pushing back! **The normal force is an upward contact force exerted by a [solid](https://en.wikipedia.org/wiki/Solid) [surface](https://en.wikipedia.org/wiki/Surface_%28physics%29) against a resting object.** 
 
 ---
@@ -50,6 +55,8 @@ This brings us to two of the most critical [pedagogical](https://en.wikipedia.or
 > 🚨 **Common Student Misconception #1: "Still objects have no forces on them."**
 > **Many elementary students hold the misconception that completely [stationary](https://en.wikipedia.org/wiki/Rest_%28physics%29) objects have zero forces acting upon them.** If a kid sees a resting block on the floor, they think, "No forces!" You must guide them to see that [gravity](https://en.wikipedia.org/wiki/Gravity) is pulling the block down, while the [normal force](https://en.wikipedia.org/wiki/Normal_force) from the floor is pushing it up. The forces aren't missing; they are just *balanced*. **An object remaining perfectly still provides [observational evidence](https://en.wikipedia.org/wiki/Empirical_evidence) of balanced forces.**
 
+![A free body diagram demonstrating balanced forces. The downward pull of gravity (mg) is perfectly canceled out by the upward normal force (N) exerted by the surface, resulting in a net force of zero and no change in motion.](https://wikipedia.org/wiki/Special:Redirect/file/WeightNormal.svg)
+
 > 🚨 **Common Student Misconception #2: "To keep moving, you gotta keep pushing."**
 > **Many elementary students hold the misconception that a continuous applied force is required to keep an object moving at a constant speed.** They think this because we live in a world filled with friction! If they stop pushing a toy car, friction slows it down. But if we could magically turn off friction (like a [puck](https://en.wikipedia.org/wiki/Hockey_puck) gliding on infinitely smooth, [frictionless](https://en.wikipedia.org/wiki/Frictionless) [ice](https://en.wikipedia.org/wiki/Ice)), the puck would glide forever at a constant speed *without any extra pushing*. A constant speed in a straight line means the forces are balanced!
 
@@ -63,6 +70,8 @@ Because the forces don't cancel out, **unbalanced forces always cause a change i
 * **Unbalanced forces can cause a moving object to change its direction of travel.**
 
 The rules governing these changes are highly intuitive. First, **a stronger push or pull will cause a greater change in an object's motion than a weaker push or pull applied to the same object.** Second, **the direction of a push or pull determines the direction of the resulting change in an object's motion.** If you push a rolling ball hard from the right, it accelerates to the left. 
+
+![A stroboscopic photograph of a freely falling ball. The unbalanced force of gravity continuously accelerates the ball downward, causing it to cover an increasingly greater distance between each flash.](https://wikipedia.org/wiki/Special:Redirect/file/Falling_ball.jpg)
 
 ---
 
@@ -103,6 +112,8 @@ When kids play with these, they will quickly discover the golden rule of poles:
 * **Opposite magnetic poles attract each other.** (North pulls South).
 * **Like magnetic poles repel each other.** (North pushes away North; South pushes away South).
 
+![Iron filings naturally align with the invisible magnetic field lines surrounding a bar magnet, providing visual evidence of how a magnetic force exerts an influence over a distance.](https://wikipedia.org/wiki/Special:Redirect/file/Magnet0873.png)
+
 Now, for a crucial diagnostic moment for your teaching:
 
 > 🚨 **Common Student Misconception #4: "Magnets love all metals."**
@@ -121,7 +132,7 @@ Instead of magnetic poles, [electricity](https://en.wikipedia.org/wiki/Electrici
 * **Objects can possess a negative electric charge.**
 * **Objects can possess a neutral electric charge.**
 
-The rules of attraction here perfectly mirror magnetism:
+The rules of attraction perfectly mirror magnetism:
 * **Opposite electric charges attract each other.** (+ and -)
 * **Like electric charges repel each other.** (+ and +, or - and -)
 * And just like the other non-contact forces, **the electrostatic force between charged objects gets stronger as the distance between the objects decreases.**
@@ -129,6 +140,8 @@ The rules of attraction here perfectly mirror magnetism:
 But how do objects get these charges in a classroom? Through friction! **Rubbing certain materials together can transfer [electrons](https://en.wikipedia.org/wiki/Electron).** When a student rubs a [balloon](https://en.wikipedia.org/wiki/Toy_balloon) on their [wool](https://en.wikipedia.org/wiki/Wool) [sweater](https://en.wikipedia.org/wiki/Sweater), invisible electrons are being stripped from the wool and deposited onto the balloon. 
 
 This creates an imbalance. **Transferring electrons between materials creates an imbalance of electric charge known as [static electricity](https://en.wikipedia.org/wiki/Static_electricity).** That balloon, now loaded with extra negative electrons, will stick to the wall (attracting the positive charges in the wall's surface) without ever needing a drop of [glue](https://en.wikipedia.org/wiki/Adhesive). 
+
+![Styrofoam peanuts cling to a cat's fur due to an imbalance of electric charge. The rubbing of different materials transfers electrons, resulting in an attractive electrostatic force.](https://wikipedia.org/wiki/Special:Redirect/file/Cat_demonstrating_static_cling_with_styrofoam_peanuts.jpg)
 
 ---
 

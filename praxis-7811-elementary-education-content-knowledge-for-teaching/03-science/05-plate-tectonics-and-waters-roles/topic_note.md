@@ -18,6 +18,8 @@ Earth's outer shell isn't one continuous wrapper. It is divided into several har
 
 As a teacher, how do you correct this? You explain that **tectonic plates can include both continental landmasses and [ocean floors](https://en.wikipedia.org/wiki/Seabed)**. The [North American plate](https://en.wikipedia.org/wiki/North_American_Plate) doesn't stop at the beach in [New York](https://en.wikipedia.org/wiki/New_York_%28state%29); it stretches halfway across the [Atlantic Ocean](https://en.wikipedia.org/wiki/Atlantic_Ocean) floor!
 
+![Earth's tectonic plates do not neatly align with continental coastlines. The North American Plate, for example, extends far into the Atlantic Ocean.](https://wikipedia.org/wiki/Special:Redirect/file/Tectonic_plates_(2022).svg)
+
 ### How Do We Know Where the Plates Are?
 
 Nature doesn't draw black boundary lines on the Earth. So how do we map them? We look for the action. 
@@ -26,6 +28,8 @@ If you analyze data from [maps](https://en.wikipedia.org/wiki/Map), you'll see i
 2. **[Volcanoes](https://en.wikipedia.org/wiki/Volcano):** Maps of active volcano locations correspond closely to the edges of tectonic plates. 
 
 When plates rub against each other, things shake and things break. 
+
+![Plotting historical earthquake epicenters creates a remarkably clear outline of Earth's hidden tectonic plate boundaries.](https://wikipedia.org/wiki/Special:Redirect/file/Quake_epicenters_1963-98.png)
 
 ### The Bumping, Sinking, and Spreading of Earth
 
@@ -37,9 +41,13 @@ When plates meet, three major things can happen. Understanding these boundaries 
 
 Sometimes, in a collision, one plate loses. **[Subduction zones](https://en.wikipedia.org/wiki/Subduction) occur where one tectonic plate is forced beneath another tectonic plate.** As that plate gets pushed down into the mantle, it creates a massive [trench](https://en.wikipedia.org/wiki/Oceanic_trench). Consequently, **deep [ocean trenches](https://en.wikipedia.org/wiki/Oceanic_trench) typically form along tectonic subduction zones.**
 
+![During subduction at a convergent plate boundary, one tectonic plate is forced beneath another, forming a deep oceanic trench.](https://wikipedia.org/wiki/Special:Redirect/file/Subduction-en.svg)
+
 #### 2. Divergent Plate Boundaries (The Separations)
 **[Divergent plate boundaries](https://en.wikipedia.org/wiki/Divergent_boundary) occur where two tectonic plates pull apart from each other.** When they pull apart, [magma](https://en.wikipedia.org/wiki/Magma) bubbles up to fill the gap. Over time, this creates **[mid-ocean ridges](https://en.wikipedia.org/wiki/Mid-ocean_ridge)**, which typically form at divergent plate boundaries. 
 * *Fascinating Fact:* **Mid-ocean ridges are extensive underwater mountain systems.** The longest mountain range on Earth isn't the Andes or the [Himalayas](https://en.wikipedia.org/wiki/Himalayas); it’s mostly underwater, wrapping around the globe like the seams on a [baseball](https://en.wikipedia.org/wiki/Baseball_%28ball%29)!
+
+![Mid-ocean ridges form at divergent plate boundaries, creating a continuous underwater mountain range that wraps around the globe.](https://wikipedia.org/wiki/Special:Redirect/file/Mid-ocean_ridge_system.gif)
 
 ### The Ring of Fire: Pedagogy in Action
 
@@ -47,6 +55,8 @@ If you want to give your students a spectacular real-world example of plate boun
 * It is a horseshoe-shaped geographic region around the [Pacific Ocean](https://en.wikipedia.org/wiki/Pacific_Ocean) basin.
 * It experiences exceptionally frequent earthquakes and [volcanic eruptions](https://en.wikipedia.org/wiki/Volcanic_eruption). 
 * *Why?* Because the boundaries of the [Pacific Plate](https://en.wikipedia.org/wiki/Pacific_Plate) roughly align with the Ring of Fire. It is an immense zone of convergent and subduction boundaries.
+
+![The Pacific Ring of Fire outlines the boundaries of the Pacific Plate, a region notorious for intense volcanic and seismic activity.](https://wikipedia.org/wiki/Special:Redirect/file/Pacific_Ring_of_Fire.svg)
 
 ---
 
@@ -58,6 +68,8 @@ When teaching [mapping](https://en.wikipedia.org/wiki/Cartography) skills, you n
 | :--- | :--- | :--- |
 | **[Topographic Maps](https://en.wikipedia.org/wiki/Topographic_map)** | Use [contour lines](https://en.wikipedia.org/wiki/Contour_line) to represent the [elevation](https://en.wikipedia.org/wiki/Elevation) and shape of land features. | Drawing rings around a [potato](https://en.wikipedia.org/wiki/Potato), then looking at it straight down from above. |
 | **[Bathymetric Maps](https://en.wikipedia.org/wiki/Bathymetry)** | Display the underwater depth and [topography](https://en.wikipedia.org/wiki/Topography) of ocean floors. | Mapping an empty [swimming pool](https://en.wikipedia.org/wiki/Swimming_pool) before you fill it with water. |
+
+![Topographic maps use contour lines to represent three-dimensional elevation and land shape on a two-dimensional surface.](https://wikipedia.org/wiki/Special:Redirect/file/Topographic_map_example.png)
 
 ---
 
@@ -78,6 +90,8 @@ One of your specific learning objectives is to teach students how to graph water
 
 > **Visualizing the Data:** **[Pie charts](https://en.wikipedia.org/wiki/Pie_chart) are highly effective visual tools for graphing the vast disparity between Earth's salt water and fresh water percentages.** When a student sees a pie chart where 97.4% is salt water (oceans + saline lakes) and only a tiny 2.5% sliver is fresh water, it creates an immediate, intuitive understanding of how rare fresh water is.
 
+![Data visualizations like bar and pie charts are essential for helping students grasp the tiny fraction of Earth's water that is fresh and accessible.](https://wikipedia.org/wiki/Special:Redirect/file/Earth's_water_distribution.svg)
+
 ### The Freshwater Breakdown
 
 Let's zoom in on that tiny 2.5% sliver of fresh water. Where is it? To teach this, **[bar graphs](https://en.wikipedia.org/wiki/Bar_chart) are commonly used to compare the specific proportions of different fresh water sources.** 
@@ -95,6 +109,8 @@ By definition, **groundwater is liquid water stored beneath Earth's solid surfac
 
 > **Student Misconception Alert:** Ask a child where groundwater lives, and they will picture a [cave](https://en.wikipedia.org/wiki/Cave) filled with rushing water. **A common student misconception is that groundwater exists as large hollow underground [rivers](https://en.wikipedia.org/wiki/River) or [lakes](https://en.wikipedia.org/wiki/Lake).** 
 * *The Reality:* **Groundwater resides in the microscopic pores and [fractures](https://en.wikipedia.org/wiki/Fracture_%28geology%29) of underground rock formations and [soil](https://en.wikipedia.org/wiki/Soil).** Think of the ground not like an empty [bucket](https://en.wikipedia.org/wiki/Bucket), but like a wet [sponge](https://en.wikipedia.org/wiki/Sponge_%28tool%29). The water is sitting in the tiny holes of the dirt and rock. 
+
+![Instead of underground rivers, groundwater saturates the pores and fractures of underground rock and soil layers, much like a wet sponge.](https://wikipedia.org/wiki/Special:Redirect/file/Groundwater_(aquifer%2C_aquitard%2C_3_type_wells).PNG)
 
 #### 3. Liquid Water on Top: Surface Water (~1.2%)
 **[Surface water](https://en.wikipedia.org/wiki/Surface_water) comprises only about 1.2 percent of all fresh water on Earth.** 
@@ -124,6 +140,8 @@ Here is the precise science you must know and teach:
 2. If you can see a cloud, it is *not* a gas anymore. **Clouds are composed of tiny liquid water droplets or solid [ice crystals](https://en.wikipedia.org/wiki/Ice_crystal) suspended in the atmosphere.** 
 
 When invisible water vapor cools down high in the [sky](https://en.wikipedia.org/wiki/Sky), it [condenses](https://en.wikipedia.org/wiki/Condensation) back into liquid water (droplets) or freezes into solid water (ice crystals). They are so incredibly small and light that the [updrafts](https://en.wikipedia.org/wiki/Vertical_draft) of air keep them suspended. When they get too heavy, gravity wins, and they fall as rain or [snow](https://en.wikipedia.org/wiki/Snow). 
+
+![Clouds are not made of gaseous water vapor; they are massive collections of suspended liquid water droplets or solid ice crystals.](https://wikipedia.org/wiki/Special:Redirect/file/Above_the_Clouds.jpg)
 
 ---
 

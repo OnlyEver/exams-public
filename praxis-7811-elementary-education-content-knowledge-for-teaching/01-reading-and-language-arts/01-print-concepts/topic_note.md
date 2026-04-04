@@ -4,6 +4,8 @@ Take a moment and look at the screen in front of you. What do you see? Without e
 
 But imagine looking at a [book](https://en.wikipedia.org/wiki/Book) written in an alien [script](https://en.wikipedia.org/wiki/Writing_system). Just a block of bizarre squiggles. Where does it start? What do the squiggles mean? Do you read the dark marks or the white space between them? 
 
+![To a child lacking print awareness, a page of English text appears as unintelligible as an ancient cuneiform tablet. They must learn the structural rules of reading before they can decode the individual letters.](https://wikipedia.org/wiki/Special:Redirect/file/Sales_contract_Shuruppak_Louvre_AO3766.jpg)
+
 For a young [child](https://en.wikipedia.org/wiki/Child), every book is written in an alien script. Before a child can ever learn *how* to sound out a word, they first have to learn *how a book actually works*. This is the magical, foundational world of **Print Concepts**, and mastering how to teach it is your very first step in building lifelong [readers](https://en.wikipedia.org/wiki/Reading). 
 
 Let’s break down exactly how children crack this [code](https://en.wikipedia.org/wiki/Code), why it’s not as [intuitive](https://en.wikipedia.org/wiki/Intuition) as you might think, and how you will explicitly guide them through it.
@@ -22,6 +24,8 @@ So, where does this awareness begin? It usually starts in the back seat of a [ca
 
 Have you ever seen a three-year-old point to a golden "M" and yell "Fries!"? That child is demonstrating their grasp of **environmental print**—the words, [signs](https://en.wikipedia.org/wiki/Traffic_sign), [labels](https://en.wikipedia.org/wiki/Label), and [logos](https://en.wikipedia.org/wiki/Logo) found in everyday surroundings. Catching sight of a [stop sign](https://en.wikipedia.org/wiki/Stop_sign) or a [cereal box](https://en.wikipedia.org/wiki/Breakfast_cereal) logo is typically a child's first recognition that [written symbols](https://en.wikipedia.org/wiki/Grapheme) carry specific meanings. It is a beautiful, [lightbulb moment](https://en.wikipedia.org/wiki/Eureka_effect). They realize, "Ah! Those marks in the world *say* something!"
 
+![A stop sign is a universal example of environmental print. Children often recognize that its distinct shape, color, and symbols carry a specific meaning long before they can formally read the letters.](https://wikipedia.org/wiki/Special:Redirect/file/STOP_sign.jpg)
+
 ***
 
 ## Step 1: Wrestling the Physical Object (Book Handling)
@@ -37,7 +41,9 @@ This is where you must teach **book handling skills**. These skills include:
 
 Furthermore, we have to teach them the sequential rules of our specific [publishing culture](https://en.wikipedia.org/wiki/Publishing). [English books](https://en.wikipedia.org/wiki/English_literature) are read sequentially from the front cover to the back cover, and the pages in an [English](https://en.wikipedia.org/wiki/English_language) book are turned from the right side to the left side.
 
-**Content Knowledge for Teaching (CKT) Application:** How do you test this without making it feel like a test? Simple. Educators assess book handling skills by asking a student to point to the front cover of a book before reading.
+![Sturdy board books help early learners physically navigate texts. Educators use them to explicitly model book handling skills, such as identifying the front cover and holding the book right-side up.](https://wikipedia.org/wiki/Special:Redirect/file/Board_Book.jpg)
+
+**Content Knowledge for Teaching (CKT Application):** How do you test this without making it feel like a test? Simple. Educators assess book handling skills by asking a student to point to the front cover of a book before reading.
 
 ***
 
@@ -48,6 +54,8 @@ When you open a [picture book](https://en.wikipedia.org/wiki/Picture_book) with 
 Young children often look at pictures to [infer](https://en.wikipedia.org/wiki/Inference) a [story](https://en.wikipedia.org/wiki/Narrative). But distinguishing between pictures and printed words is a foundational step in [early literacy](https://en.wikipedia.org/wiki/Early_literacy) development. You have to actively teach them that while illustrations provide visual [context](https://en.wikipedia.org/wiki/Context_%28linguistics%29) for a narrative or [informational text](https://en.wikipedia.org/wiki/Non-fiction), the **printed words encode the exact [linguistic message](https://en.wikipedia.org/wiki/Linguistics) of a text.** 
 
 Early readers must learn that the printed text dictates the exact narrative of a story. The picture tells us the dragon is [green](https://en.wikipedia.org/wiki/Green); the text tells us his name is Barnaby and he loves [tacos](https://en.wikipedia.org/wiki/Taco). If we want the exact story, we have to read the code.
+
+![When looking at a picture book, a novice reader's attention is naturally drawn to the illustrations. A core concept of print is understanding that the precise narrative is encoded in the text, not the pictures.](https://wikipedia.org/wiki/Special:Redirect/file/Smaug_par_David_Demaret.jpg)
 
 ***
 
@@ -67,6 +75,8 @@ Imagine trying to teach 20 [kindergarteners](https://en.wikipedia.org/wiki/Kinde
 
 As you read a big book, a teacher tracking text with a [pointer](https://en.wikipedia.org/wiki/Pointer_%28rod%29) explicitly models the left-to-right directionality of English print. You show them the mechanics of reading in real-time. 
 
+![By tracking the text with a finger or pointer while reading aloud, educators provide a concrete, visual model of the left-to-right and top-to-bottom directionality of written English.](https://wikipedia.org/wiki/Special:Redirect/file/Early_literacy.jpg)
+
 **CKT Application:** To check a student's individual progress, educators assess print concepts by asking a student to point to the first word on a page. If they point to the top left, they get it!
 
 ***
@@ -81,6 +91,8 @@ Let's look at the [anatomy of print](https://en.wikipedia.org/wiki/Typography):
 * **[Blank Spaces](https://en.wikipedia.org/wiki/Space_%28punctuation%29):** These are the invisible heroes of reading! Blank spaces separate individual printed words from one another in text. 
 
 Understanding this creates the concept of **[word boundaries](https://en.wikipedia.org/wiki/Word_boundary)**, which allows a reader to visually identify where one printed word ends and another begins. 
+
+![Blank spaces serve as visual boundaries between words. Recognizing these boundaries allows early readers to break a continuous line of text into individual, meaningful units.](https://wikipedia.org/wiki/Special:Redirect/file/Happy_Valentines_Day.jpg)
 
 ### Teaching One-to-One Correspondence
 When young children first "read" from [memory](https://en.wikipedia.org/wiki/Memory), they might point to one long word and say three words out loud. They lack **one-to-one correspondence**—the ability to match each [spoken word](https://en.wikipedia.org/wiki/Spoken_language) to exactly one [printed word](https://en.wikipedia.org/wiki/Written_language). 

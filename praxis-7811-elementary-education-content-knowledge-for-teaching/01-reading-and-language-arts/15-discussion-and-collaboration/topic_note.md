@@ -17,6 +17,8 @@ But how do you teach this? You don't just put a [poster](https://en.wikipedia.or
 > **What is [Active Listening](https://en.wikipedia.org/wiki/Active_listening)?**
 > **Active listening involves giving full [attention](https://en.wikipedia.org/wiki/Attention) to the speaker and providing [non-verbal cues](https://en.wikipedia.org/wiki/Nonverbal_communication) like [nodding](https://en.wikipedia.org/wiki/Nod_%28gesture%29).** In many [Western](https://en.wikipedia.org/wiki/Western_world) classroom contexts, **maintaining [eye contact](https://en.wikipedia.org/wiki/Eye_contact) with the speaker is a physical cue of active listening.** (As an [educator](https://en.wikipedia.org/wiki/Educator), you’ll note that eye contact norms can vary [culturally](https://en.wikipedia.org/wiki/Culture), but teaching it as a specific *[convention](https://en.wikipedia.org/wiki/Convention_%28norm%29)* for academic discourse provides a baseline tool for your students).
 
+![Active listening involves a combination of non-verbal physical cues and internal cognitive focus to effectively process a speaker's message.](https://wikipedia.org/wiki/Special:Redirect/file/Active_listening.png)
+
 When a student struggles to participate [politely](https://en.wikipedia.org/wiki/Politeness), we don't just scold them; we give them the words. **Sentence frames provide structured [language](https://en.wikipedia.org/wiki/Language) to help students express agreement or disagreement respectfully.** 
 For example, if little Tommy thinks Sarah is totally wrong about a [math](https://en.wikipedia.org/wiki/Mathematics) problem, we don't let him [shout](https://en.wikipedia.org/wiki/Shouting), "You're wrong!" Instead, we give him a tool. A sentence stem such as **"I respectfully disagree because" helps students practice polite [debate](https://en.wikipedia.org/wiki/Debate).** It changes the [cognitive](https://en.wikipedia.org/wiki/Cognition) focus from a [personal attack](https://en.wikipedia.org/wiki/Ad_hominem) to an [analysis](https://en.wikipedia.org/wiki/Analysis) of the idea.
 
@@ -50,6 +52,8 @@ Let's look at the difference between [summarizing](https://en.wikipedia.org/wiki
 
 When paraphrasing, the student must be a [translator](https://en.wikipedia.org/wiki/Translation). **Accurate paraphrasing retains the original [meaning](https://en.wikipedia.org/wiki/Meaning_%28linguistics%29) of the [source material](https://en.wikipedia.org/wiki/Source_text).** But watch out for this classic hurdle: **Young elementary students frequently struggle to distinguish between paraphrasing and direct [plagiarism](https://en.wikipedia.org/wiki/Plagiarism).** They will change the word "big" to "large" and genuinely believe they have written something entirely new! You have to explicitly teach them to read a [sentence](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29), turn the [paper](https://en.wikipedia.org/wiki/Paper) over, and explain it from their own [mind](https://en.wikipedia.org/wiki/Mind).
 
+![Merely substituting synonyms into an existing sentence structure is a form of plagiarism, a common pitfall when young students first learn to paraphrase.](https://wikipedia.org/wiki/Special:Redirect/file/Plagiarism_diagram.png)
+
 ### The Misconception of Evidence
 During discussions, we require students to be **integrating [evidence](https://en.wikipedia.org/wiki/Evidence)**, which requires them to explicitly connect a text detail to their discussion [argument](https://en.wikipedia.org/wiki/Argument). They need to use **text-based evidence**, which consists of specific [facts](https://en.wikipedia.org/wiki/Fact) or [quotes](https://en.wikipedia.org/wiki/Quotation) pulled directly from the reading material.
 
@@ -81,6 +85,8 @@ To facilitate this chaining of ideas, we teach **elaboration strategies**, which
 
 You understand the mechanics, but how do you set up the room? How do you organize the bodies and the [time](https://en.wikipedia.org/wiki/Time) to make this happen? You use specific instructional frameworks.
 
+![Dynamic seating arrangements and moveable furniture allow educators to quickly transition the physical space to support different collaborative frameworks.](https://wikipedia.org/wiki/Special:Redirect/file/ClassroomMoveableFurnitureITESMCCM_02.JPG)
+
 The overarching [philosophy](https://en.wikipedia.org/wiki/Philosophy_of_education) we strive for is **Accountable talk**. This is an instructional framework that requires students to support their claims with text-based evidence. But it’s not a one-way street pointing at the teacher. The magic of **accountable talk requires students to actively ask each other for evidence to support claims.** (*"Wait, where did you see that in the book, Billy?"*)
 
 To actually execute accountable talk, we use structural [strategies](https://en.wikipedia.org/wiki/Strategy):
@@ -94,8 +100,12 @@ Think of this as an elementary [book club](https://en.wikipedia.org/wiki/Book_cl
 ### The Fishbowl Discussion
 Imagine an [aquarium](https://en.wikipedia.org/wiki/Aquarium) of ideas! **A [fishbowl discussion](https://en.wikipedia.org/wiki/Fishbowl_%28conversation%29) involves a small group conversing in the center of the room while the rest of the class observes and takes [notes](https://en.wikipedia.org/wiki/Note-taking).** The "outer circle" isn't [daydreaming](https://en.wikipedia.org/wiki/Daydream); they are evaluating perspectives, identifying biases, and watching how their peers use discourse conventions. Then, the groups swap.
 
+![In a fishbowl discussion, the classroom is arranged with an inner circle of active participants surrounded by an outer concentric circle of active observers.](https://wikipedia.org/wiki/Special:Redirect/file/Fishbowl_diagram_172.png)
+
 ### Socratic Seminar
 The pinnacle of student-led discourse. **A [Socratic seminar](https://en.wikipedia.org/wiki/Socratic_method) is a formal student-led discussion format focused on asking and answering open-ended questions about a text.** The teacher steps back. The students use their sentence stems, they deploy their wait time, they look each other in the eye, they integrate text-based evidence, and they collectively build an understanding of the material that is far deeper than anything you could have just [lectured](https://en.wikipedia.org/wiki/Lecture) them about.
+
+![The Socratic seminar is named after the classical Greek philosopher Socrates, whose pedagogical method relied on cooperative dialogue and open-ended questioning.](https://wikipedia.org/wiki/Special:Redirect/file/Head_of_Socrates_in_Palazzo_Massimo_alle_Terme_(Rome).JPG)
 
 ***
 

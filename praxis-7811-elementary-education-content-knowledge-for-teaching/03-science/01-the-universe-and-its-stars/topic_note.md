@@ -25,6 +25,8 @@ Think of a car’s headlights. If a car is parked two feet in front of you with 
 
 In reality, our Sun is fairly average. **Many stars in the [universe](https://en.wikipedia.org/wiki/Universe) are vastly larger and more [luminous](https://en.wikipedia.org/wiki/Luminosity) than the Sun.** But because space is incredibly, unfathomably huge, **the immense distance between Earth and other stars makes massive stars appear as tiny points of light in the night sky.**
 
+![Diagram demonstrating how a light source's apparent brightness decreases as distance increases, as the same amount of light spreads over a larger physical area.](https://wikipedia.org/wiki/Special:Redirect/file/Inverse_square_law.svg)
+
 > **Teaching Tip: The Flashlight Model**
 > Don't just tell them; show them! **Students can use flashlights and objects of different sizes placed at varying distances to physically model why closer stars appear brighter.** 
 > *   *The Setup:* Have a student hold a small, weak flashlight close to a wall. Have another student stand at the back of the dark classroom with a large, ultra-bright camping lantern. 
@@ -38,6 +40,8 @@ You will almost universally hear: *"They go away,"* or *"They turn off."*
 
 You must help them understand that **stars are present in the sky during the [daytime](https://en.wikipedia.org/wiki/Daytime).** They haven't gone anywhere! The problem is [Earth's atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) acting like a giant, glowing blue blanket. **The intense brightness of the Sun [scatters](https://en.wikipedia.org/wiki/Rayleigh_scattering) in Earth's atmosphere to hide other stars from view during the daytime.** If you were on the [Moon](https://en.wikipedia.org/wiki/Moon) (which has [no atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_the_Moon) to scatter the light), you could see the Sun and the stars in the sky at the exact same time!
 
+![Diagram illustrating how Earth's atmosphere scatters the Sun's intense blue light wavelengths, creating a bright blue "blanket" that overpowers and obscures fainter stars during the day.](https://wikipedia.org/wiki/Special:Redirect/file/Rayleigh_sunlight_scattering.svg)
+
 ---
 
 ## Part 2: The Spinning Earth and the Dancing Shadows
@@ -48,6 +52,8 @@ We experience [day and night](https://en.wikipedia.org/wiki/Diurnal_cycle) every
 
 But we know better. **[Earth's continuous rotation](https://en.wikipedia.org/wiki/Earth%27s_rotation) causes the predictable daily pattern of day and night.** 
 Specifically, **Earth rotates on Earth's [axis](https://en.wikipedia.org/wiki/Axis_of_rotation) from west to east.** Because we are spinning eastward, **Earth's daily rotation causes the Sun, Moon, and stars to appear to move across the sky from east to west.** 
+
+![Animation of Earth's continuous rotation on its axis, showing how observers physically turn toward and away from the Sun, generating the illusion of a moving sun and creating the day and night cycle.](https://wikipedia.org/wiki/Special:Redirect/file/Earth_rotation.gif)
 
 ### Shadow Tracking: Turning the Playground into a Clock
 One of the most powerful tools you have as a teacher is the playground blacktop. As the Earth rotates and the Sun's [apparent position in the sky](https://en.wikipedia.org/wiki/Position_of_the_Sun) shifts, **the length and direction of [shadows](https://en.wikipedia.org/wiki/Shadow) cast by objects on Earth change in a predictable pattern throughout the day.**
@@ -72,6 +78,8 @@ If you look at the night sky in winter, you see [Orion the Hunter](https://en.wi
 
 There is one major exception: **The [North Star](https://en.wikipedia.org/wiki/Pole_star), known as [Polaris](https://en.wikipedia.org/wiki/Polaris), appears stationary in the night sky.** While all other stars seem to wheel around in huge arcs throughout the night, Polaris sits dead still. Why? Because **Polaris appears stationary because Polaris aligns almost perfectly with Earth's northern [axis of rotation](https://en.wikipedia.org/wiki/Axis_of_rotation).** Imagine standing exactly at the [North Pole](https://en.wikipedia.org/wiki/North_Pole) and looking straight up; Polaris is directly above your head like the pivot point of a spinning umbrella.
 
+![A time-lapse photograph showing star trails. Because Polaris aligns almost perfectly with Earth's axis of rotation, it appears stationary in the center while all other stars seem to rotate around it.](https://wikipedia.org/wiki/Special:Redirect/file/Star_Trail_above_Beccles_-_geograph.org.uk_-_1855505.jpg)
+
 ### The Truth About the Seasons
 Let's tackle one of the most stubborn misconceptions in all of elementary science.
 **A common elementary student misconception is that Earth experiences summer because Earth moves physically closer to the Sun.** 
@@ -83,6 +91,8 @@ So what's the real cause? **Earth's seasons are caused by the [tilt of Earth's r
 Because of this tilt, **the [apparent path of the Sun](https://en.wikipedia.org/wiki/Sun_path) across the sky reaches a higher maximum elevation in the summer and a lower maximum elevation in the winter.** 
 *   **Summer:** Your hemisphere is tilted *toward* the Sun. The Sun gets high in the sky, delivering concentrated, [direct sunlight](https://en.wikipedia.org/wiki/Sunlight) and longer days. 
 *   **Winter:** Your hemisphere is tilted *away* from the Sun. The Sun stays low in the sky, delivering glancing, weaker sunlight and shorter days.
+
+![Diagram illustrating Earth's axial tilt relative to sunlight. The hemisphere tilted toward the Sun receives more direct, concentrated solar energy (summer), while the hemisphere tilted away receives glancing, diffused light (winter).](https://wikipedia.org/wiki/Special:Redirect/file/Axial_tilt_vs_tropical_and_polar_circles.svg)
 
 ---
 
@@ -100,6 +110,8 @@ Ask adults on the street what causes the phases of the moon, and half of them wi
 
 You must slay this dragon in your classroom! [Lunar eclipses](https://en.wikipedia.org/wiki/Lunar_eclipse) (when Earth's shadow actually *does* hit the Moon) are rare. The daily changing of the Moon's phases has absolutely nothing to do with shadows. 
 
+![A lunar eclipse occurs only when Earth physically blocks sunlight from reaching the Moon. This is a relatively rare geometric alignment event and is entirely different from the daily changing phases of the Moon.](https://wikipedia.org/wiki/Special:Redirect/file/Geometry_of_a_Lunar_Eclipse.svg)
+
 ### The Geometry of Illumination
 To teach this right, you need three bedrock principles:
 1.  **Half of the Moon's spherical surface is always illuminated by the Sun.** Just like Earth, it is daytime on the half of the Moon facing the Sun, and nighttime on the back half.
@@ -107,6 +119,8 @@ To teach this right, you need three bedrock principles:
 3.  **The phase of the Moon observed from Earth depends entirely on how much of the Moon's illuminated half is visible to a viewer on Earth.**
 
 Imagine holding a painted basketball—half painted neon yellow, half painted black. If you hold it so the yellow half faces you, you see a "Full" ball. If you hold it so the yellow half faces away from you, you see a "New" (dark) ball. If you look at it from the side, you see a "Half" ball. The paint didn't change; *your viewing angle* did.
+
+![Diagram demonstrating how the changing viewing angle from Earth determines the Moon's phase. The Sun always illuminates exactly half of the Moon, but our perspective shifts as the Moon orbits our planet.](https://wikipedia.org/wiki/Special:Redirect/file/Moon_phases_en.jpg)
 
 ### The Key Milestones of the Lunar Cycle
 
@@ -118,6 +132,8 @@ Imagine holding a painted basketball—half painted neon yellow, half painted bl
 | **Waning** | **A waning Moon phase means the visible illuminated portion of the Moon is decreasing from night to night.** ("Wane" = fading away). |
 
 > **Teacher's Challenge:** When teaching New Moon and Full Moon, pay close attention to the word *roughly*. If the Earth, Moon, and Sun were *perfectly* aligned on the exact same plane every month, we would have [solar](https://en.wikipedia.org/wiki/Solar_eclipse) and [lunar eclipses](https://en.wikipedia.org/wiki/Lunar_eclipse) every two weeks! Because the [Moon's orbit is tilted](https://en.wikipedia.org/wiki/Orbit_of_the_Moon) about 5 degrees, they are only *roughly* aligned, allowing the Sun's light to pass over or under Earth to light up the Full Moon.
+
+![Diagram highlighting the 5-degree tilt of the Moon's orbital plane relative to Earth's orbital plane. This tilt ensures the celestial bodies are only roughly aligned most months, which prevents eclipses from occurring every New and Full Moon.](https://wikipedia.org/wiki/Special:Redirect/file/Eclipse_vs_new_or_full_moons%2C_annotated.svg)
 
 ---
 

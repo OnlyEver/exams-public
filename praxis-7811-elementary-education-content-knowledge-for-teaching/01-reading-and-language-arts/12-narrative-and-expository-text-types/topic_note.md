@@ -16,6 +16,8 @@ Have you ever listened to a seven-year-old tell you about what happened at [rece
 
 To make a story work, it needs load-bearing pillars. The **key elements of narrative texts include [characters](https://en.wikipedia.org/wiki/Character_%28arts%29), [setting](https://en.wikipedia.org/wiki/Setting_%28narrative%29), [plot](https://en.wikipedia.org/wiki/Plot_%28narrative%29), [conflict](https://en.wikipedia.org/wiki/Conflict_%28narrative%29), and [resolution](https://en.wikipedia.org/wiki/Resolution_%28narrative%29).** 
 
+![Freytag's Pyramid provides a classic visual framework to help educators and students map the essential structural pillars of a narrative, from the exposition of the setting to the final resolution of the conflict.](https://wikipedia.org/wiki/Special:Redirect/file/Freytag's_Pyramid_with_English_text.svg)
+
 Think of it like staging a [play](https://en.wikipedia.org/wiki/Play_%28theatre%29):
 *   **Setting:** This establishes the [time](https://en.wikipedia.org/wiki/Time) and [place](https://en.wikipedia.org/wiki/Location) of the story. It is the literal stage where the action happens.
 *   **Plot:** This is the sequence of events that make up the story. It’s the [choreography](https://en.wikipedia.org/wiki/Choreography).
@@ -41,6 +43,8 @@ If narratives are [movies](https://en.wikipedia.org/wiki/Film), expository texts
 
 Think of an animal report on a [sea turtle](https://en.wikipedia.org/wiki/Sea_turtle) or a book about the [solar system](https://en.wikipedia.org/wiki/Solar_System). The architecture of expository text is entirely different from a story. Expository texts must contain a **clear introduction** that presents the main topic or [thesis](https://en.wikipedia.org/wiki/Thesis_statement). The body of the text relies on **supporting facts and specific details** to elaborate on the main topic. Finally, an **expository conclusion** summarizes the main ideas presented in the body paragraphs.
 
+![Expository texts rely heavily on objective diagrams, like this sea turtle life cycle, to clearly sequence and transfer factual information to the reader without inserting opinion.](https://wikipedia.org/wiki/Special:Redirect/file/Life_Cycle_of_a_Sea_Turtle.svg)
+
 Because the goal is pure information transfer, expository texts require a **logical organization structure** to present information clearly to the reader. There isn't just one way to organize [facts](https://en.wikipedia.org/wiki/Fact); there are five standard structures you'll teach. 
 
 ### The 5 Expository Text Structures
@@ -59,6 +63,8 @@ When reading expository text, a classic hurdle arises: **elementary students oft
 **How do you fix it?** 
 When teaching structure, use visual tools. For example, graphic organizers like **[Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram)** specifically support students in planning compare and contrast expository writing. It forces them to sort the "similarities" into the middle and the "differences" on the sides before they draft a single sentence.
 
+![Venn diagrams serve as an excellent scaffold for compare-and-contrast writing, forcing students to visually organize shared traits in the overlapping center and distinct traits on the sides before attempting to write.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_diagram_of_legs_and_flying.svg)
+
 ---
 
 ## 3. Procedural Texts: The Manual of Action
@@ -70,6 +76,8 @@ Sometimes, we write because we want someone to *do* something.
 Think about the sheer chaos of having twenty third-graders make [slime](https://en.wikipedia.org/wiki/Slime_%28toy%29). How do you survive it? By using procedural text! Common examples of procedural texts include [recipes](https://en.wikipedia.org/wiki/Recipe), [manuals](https://en.wikipedia.org/wiki/User_guide), and [science experiment](https://en.wikipedia.org/wiki/Experiment) instructions. 
 
 Procedural texts have highly distinct genre elements. Typically, they include a **list of required materials or ingredients *before* the steps begin.** (Imagine getting halfway through [baking](https://en.wikipedia.org/wiki/Baking) a [cake](https://en.wikipedia.org/wiki/Cake) and realizing you needed [eggs](https://en.wikipedia.org/wiki/Egg_as_food). Disaster!) 
+
+![Unlike narratives or essays, procedural texts like recipes structurally depend on front-loading a complete list of necessary materials or ingredients so the reader is prepared to execute the steps.](https://wikipedia.org/wiki/Special:Redirect/file/Backzutaten_041.jpg)
 
 From there, procedural texts use **sequential organization** to guide the reader through a specific process. Furthermore, procedural writing frequently relies on **[imperative verbs](https://en.wikipedia.org/wiki/Imperative_mood)** to give direct commands to the reader. You don't write, "It would be nice if you stirred the bowl." You write, "**Stir** the bowl." "**Fold** the paper." "**Pour** the liquid."
 
@@ -84,6 +92,8 @@ Now we enter the realm of [debate](https://en.wikipedia.org/wiki/Debate). Your s
 Effective persuasive writing introduces a **clear claim or opinion statement early in the text.** You have to know what you are fighting for right out of the gate. But an opinion isn't enough. Persuasive texts require **supporting reasons** to justify the author's primary opinion. 
 
 And here is the crucial part that elevates an [argument](https://en.wikipedia.org/wiki/Argument) from a [tantrum](https://en.wikipedia.org/wiki/Tantrum) to an [essay](https://en.wikipedia.org/wiki/Essay): effective persuasive writing includes **[factual evidence](https://en.wikipedia.org/wiki/Evidence)** to back up the supporting reasons. Finally, a **concluding statement** in a persuasive text reinforces the original claim, leaving the reader with a final, powerful push to agree.
+
+![Teaching persuasive text involves moving students away from raw emotion and toward formal logic, where a central claim is built upon solid premises and verifiable evidence.](https://wikipedia.org/wiki/Special:Redirect/file/Argument_terminology_used_in_logic_(en).svg)
 
 ### 🧠 The Teacher's Reality Check: How Kids Learn Persuasion
 Here is the most common student [misconception](https://en.wikipedia.org/wiki/Misconception) in persuasive writing: **relying entirely on personal opinions instead of incorporating factual evidence.** 

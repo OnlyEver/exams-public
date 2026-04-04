@@ -8,6 +8,8 @@ But [nature](https://en.wikipedia.org/wiki/Nature) doesn't just rely on our good
 
 If you want to dominate the [NCLEX-RN](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination) exam—and more importantly, keep your [nursing](https://en.wikipedia.org/wiki/Nursing) [license](https://en.wikipedia.org/wiki/Medical_license) intact—you need to understand the mechanics of [privacy](https://en.wikipedia.org/wiki/Information_privacy) not just as a set of rules, but as an absolute law of nursing [physics](https://en.wikipedia.org/wiki/Physics). Let’s break it down.
 
+![The core attributes of Information Security. Confidentiality is the foundational pillar that ensures sensitive healthcare data is accessible only to authorized individuals.](https://wikipedia.org/wiki/Special:Redirect/file/CIAJMK1209-en.svg)
+
 ---
 
 ## 1. Defining the Target: What Exactly is PHI?
@@ -15,6 +17,8 @@ If you want to dominate the [NCLEX-RN](https://en.wikipedia.org/wiki/National_Co
 Before we can protect the [vault](https://en.wikipedia.org/wiki/Bank_vault), we need to know what’s inside. Under [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act), we deal with **[Protected Health Information](https://en.wikipedia.org/wiki/Protected_health_information) (PHI)**. 
 
 > **The Golden Rule of PHI:** **[Protected Health Information](https://en.wikipedia.org/wiki/Protected_health_information) includes any individually identifiable health [data](https://en.wikipedia.org/wiki/Data).** If a piece of data can be traced back to a specific living (or deceased) person, it is radioactive. Treat it with the utmost care.
+
+![An electronic medical record interface. Any identifiable data within this system—including names, birth dates, diagnoses, and account numbers—is legally classified as Protected Health Information.](https://wikipedia.org/wiki/Special:Redirect/file/Electronic_medical_record.jpg)
 
 What does this include? The obvious things, certainly. **Client names are considered [Protected Health Information](https://en.wikipedia.org/wiki/Protected_health_information)**, as are their [unique identifiers](https://en.wikipedia.org/wiki/Unique_identifier); **client [social security numbers](https://en.wikipedia.org/wiki/Social_Security_number) are considered [Protected Health Information](https://en.wikipedia.org/wiki/Protected_health_information).** But it also includes their timeline in the world—**client [birth dates](https://en.wikipedia.org/wiki/Date_of_birth) are considered [Protected Health Information](https://en.wikipedia.org/wiki/Protected_health_information).** 
 
@@ -37,6 +41,9 @@ From that moment on, they hold the keys. Consider their powers:
 ### The Flow of Information to Others
 Because the patient controls the data, you cannot just hand it out to anyone who asks nicely. 
 *   **Third Parties:** If an [insurance company](https://en.wikipedia.org/wiki/Health_insurance) or an outside [specialist](https://en.wikipedia.org/wiki/Medical_specialty) needs the chart, **a facility must obtain [written consent](https://en.wikipedia.org/wiki/Informed_consent) from the client prior to releasing health information to third parties.**
+
+![A formal informed consent document. Explicit written authorization from the patient is legally required before transmitting their health records to any external third party.](https://wikipedia.org/wiki/Special:Redirect/file/PARAMOUNT_Eli_Lilly_Informed_Consent_Document.djvu)
+
 *   **Family Members:** This trips up many new nurses. A worried mother or husband demands to know what the [lab results](https://en.wikipedia.org/wiki/Medical_test) show. Listen to me carefully: **Nurses cannot share client information with a client's [family members](https://en.wikipedia.org/wiki/Family) without explicit permission from the client.**
 *   **The [Telephone](https://en.wikipedia.org/wiki/Telephone) Test:** What happens when someone calls the unit desk? **Nurses must confirm the [identity](https://en.wikipedia.org/wiki/Identity_%28social_science%29) of individuals calling for patient updates prior to releasing any information.** How do we do this efficiently? **Facilities often use a designated verbal [password](https://en.wikipedia.org/wiki/Password) to verify the identity of individuals calling for updates on a client.** No password, no update. Period.
 
@@ -50,6 +57,8 @@ Here is a brilliant concept that governs all healthcare access: The "[Need-to-Kn
 
 Think of the hospital’s [Electronic Health Record](https://en.wikipedia.org/wiki/Electronic_health_record) (EHR) as a giant [bank vault](https://en.wikipedia.org/wiki/Bank_vault) containing thousands of [safety deposit boxes](https://en.wikipedia.org/wiki/Safe_deposit_box). Having an employee [badge](https://en.wikipedia.org/wiki/Badge) gets you into the [lobby](https://en.wikipedia.org/wiki/Lobby_%28room%29), but it *does not* give you a [master key](https://en.wikipedia.org/wiki/Skeleton_key) to every box. 
 
+![Unlike a skeleton key (right) that grants universal access, the "Need-to-Know" principle restricts a healthcare provider's access exclusively to the specific records of patients under their direct care.](https://wikipedia.org/wiki/Special:Redirect/file/Skeletonkey.png)
+
 You, as a **[healthcare provider](https://en.wikipedia.org/wiki/Health_professional), must only access a client's [medical record](https://en.wikipedia.org/wiki/Medical_record) if involved in the direct care of that specific client.** 
 
 Let's look at a classic [NCLEX](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination) scenario: A famous [celebrity](https://en.wikipedia.org/wiki/Celebrity)—or even just a fellow nurse you know—is admitted to the [emergency department](https://en.wikipedia.org/wiki/Emergency_department). You are assigned to the [cardiac](https://en.wikipedia.org/wiki/Cardiology) floor. Can you just "peek" at their chart to see how they are doing? **Absolutely not.** Doing so is a direct violation of [federal law](https://en.wikipedia.org/wiki/Federal_law). If you catch someone else doing this, **a nurse must report a colleague who accesses the medical record of a high-profile patient without [authorization](https://en.wikipedia.org/wiki/Authorization).**
@@ -62,6 +71,9 @@ We live in a [digital world](https://en.wikipedia.org/wiki/Information_Age), whi
 
 ### The [Workstation](https://en.wikipedia.org/wiki/Workstation)
 *   **[Passwords](https://en.wikipedia.org/wiki/Password):** **Nurses must never share personal login passwords for electronic health records with any other individual.** Not with a [doctor](https://en.wikipedia.org/wiki/Physician), not with a [nursing student](https://en.wikipedia.org/wiki/Nursing_student), not with your [charge nurse](https://en.wikipedia.org/wiki/Charge_nurse). 
+
+![Passwords serve as the primary digital checkpoint. Sharing login credentials fundamentally compromises the secure auditing trail of the electronic health record system.](https://wikipedia.org/wiki/Special:Redirect/file/Mediawiki_1.25_sign_in_form.png)
+
 *   **Logging Off:** The second your hand leaves the [mouse](https://en.wikipedia.org/wiki/Computer_mouse) to go answer a call light, **nurses must log off the computer system immediately after documenting in an electronic health record.** Why the urgency? Because **an unauthorized individual viewing an unattended [computer screen](https://en.wikipedia.org/wiki/Computer_monitor) constitutes a privacy breach.** 
 *   **Screen Placement:** [Physics](https://en.wikipedia.org/wiki/Physics) helps us here. Ensure that **computer monitors displaying client information must be positioned away from public view.** Angle them away from doorways and hallways.
 
@@ -86,6 +98,8 @@ When it is time to shift gears and hand over care, **nurses must conduct client 
 *   **Whiteboards:** Those [dry-erase boards](https://en.wikipedia.org/wiki/Whiteboard) in the hallways or patient rooms are visible to anyone walking by. Therefore, **publicly visible patient whiteboards must only display minimal non-sensitive information** (like the nurse's name or a [dietary](https://en.wikipedia.org/wiki/Diet_%28nutrition%29) fluid restriction). **Displaying a client's specific [medical diagnosis](https://en.wikipedia.org/wiki/Medical_diagnosis) on a hallway whiteboard violates privacy laws.**
 *   **Disposal:** What happens when your shift ends and you don't need your notes anymore? **Printed documents containing Protected Health Information must be destroyed using a secure [shredder](https://en.wikipedia.org/wiki/Paper_shredder).** Never toss them in the [garbage](https://en.wikipedia.org/wiki/Waste). **Disposing of client documents in standard [trash bins](https://en.wikipedia.org/wiki/Waste_container) is a direct violation of federal privacy regulations.** 
 
+![Secure document shredders must be used for the disposal of any physical notes or shift sheets containing PHI. Standard waste bins are strictly prohibited for such materials.](https://wikipedia.org/wiki/Special:Redirect/file/Paper_Shredder.jpg)
+
 | Action | Secure Practice ([NCLEX](https://en.wikipedia.org/wiki/National_Council_Licensure_Examination) Approved) | Privacy Breach |
 | :--- | :--- | :--- |
 | **Handoff Report** | Inside an enclosed report room | In the [elevator](https://en.wikipedia.org/wiki/Elevator) or [cafeteria](https://en.wikipedia.org/wiki/Cafeteria) |
@@ -102,6 +116,8 @@ Let me be incredibly clear: [Social media](https://en.wikipedia.org/wiki/Social_
 1.  **The Blanket Rule:** **Posting any client-related information on personal social media accounts violates privacy regulations.** 
 2.  **The "Anonymity" Illusion:** Nurses often think, "I didn't use their name, so it's fine!" Wrong. **Omitting a client's name in a social media post does not guarantee [anonymity](https://en.wikipedia.org/wiki/Anonymity).** If you post, "Had the craziest shift! A 22-year-old came in with a [lawn-dart](https://en.wikipedia.org/wiki/Lawn_darts) stuck in his foot," people can cross-reference local news, times, and ages to figure out exactly who you are talking about. Therefore, **describing a unique client case on social media violates privacy regulations.**
 3.  **[Photography](https://en.wikipedia.org/wiki/Photography):** Do not point your [camera](https://en.wikipedia.org/wiki/Camera) at a patient. **Taking photographs of clients using personal [mobile devices](https://en.wikipedia.org/wiki/Mobile_device) is prohibited in healthcare settings.** Furthermore, **posting photographs of clients on social media is a severe breach of confidentiality.** Even an innocent [selfie](https://en.wikipedia.org/wiki/Selfie) where a patient's arm is visible in the background can ruin your career.
+
+![The presence of personal mobile devices with cameras in clinical areas poses a severe risk. Capturing or sharing patient images without explicit, documented authorization is a zero-tolerance violation of confidentiality.](https://wikipedia.org/wiki/Special:Redirect/file/Smartphone_photography.jpg)
 
 ---
 
@@ -121,6 +137,9 @@ On the NCLEX, you are tested on your ability to act as a [leader](https://en.wik
 Why does the NCLEX hammer this topic so hard? Because the consequences of failure are catastrophic, both for the patient whose life is exposed, and for the professionals responsible.
 
 The government does not view HIPAA violations as simple mistakes. 
+
+![A breakdown of common HIPAA violations. Healthcare facilities and individual providers can both face severe federal penalties, including fines and license revocation, for illegally exposing personal health information.](https://wikipedia.org/wiki/Special:Redirect/file/Hipaa_Violations_by_Type_-_Pie_Chart.png)
+
 *   **Financial Ruin:** **Federal penalties for medical privacy violations include significant financial fines against the healthcare facility.** But it doesn't stop at the hospital's deep pockets. The law [pierces the corporate veil](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil): **Federal penalties for medical privacy violations include significant financial fines against the individual healthcare worker.** 
 *   **Professional Destruction:** You worked too hard in [nursing school](https://en.wikipedia.org/wiki/Nursing_school) to lose your license over [gossip](https://en.wikipedia.org/wiki/Gossip). **Breaching client confidentiality can lead to disciplinary action by the [state board of nursing](https://en.wikipedia.org/wiki/Board_of_nursing)**, ranging from formal [reprimands](https://en.wikipedia.org/wiki/Reprimand) to license [revocation](https://en.wikipedia.org/wiki/Revocation).
 *   **Employment:** Facilities have [zero tolerance](https://en.wikipedia.org/wiki/Zero-tolerance_policy). **Intentional breaches of client confidentiality can result in immediate [termination of employment](https://en.wikipedia.org/wiki/Termination_of_employment).** 

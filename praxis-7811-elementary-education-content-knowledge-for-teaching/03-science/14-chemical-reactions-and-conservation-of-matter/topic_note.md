@@ -21,6 +21,8 @@ Imagine you take a piece of [paper](https://en.wikipedia.org/wiki/Paper) and cru
 
 If you mix a handful of [iron filings](https://en.wikipedia.org/wiki/Iron_filings) into a bowl of [sand](https://en.wikipedia.org/wiki/Sand), what do you have? Just [iron](https://en.wikipedia.org/wiki/Iron) and sand. **Mixing two or more substances without forming any new [chemical bonds](https://en.wikipedia.org/wiki/Chemical_bond) creates a [physical mixture](https://en.wikipedia.org/wiki/Mixture).** In these scenarios, the matter is just sharing space. Because no [atomic bonds](https://en.wikipedia.org/wiki/Chemical_bond) were broken or formed, **the individual components of a physical mixture completely retain their original [chemical properties](https://en.wikipedia.org/wiki/Chemical_property).** You could still pull the iron out with a [magnet](https://en.wikipedia.org/wiki/Magnet)!
 
+![A physical mixture allows its original components to be separated without breaking chemical bonds, such as using a magnet to extract iron filings from sand.](https://wikipedia.org/wiki/Special:Redirect/file/Powder_steel_on_magnet.jpg)
+
 ### The Transformation: Chemical Changes
 Now, imagine you strike a [match](https://en.wikipedia.org/wiki/Match) and set that crumpled piece of paper on [fire](https://en.wikipedia.org/wiki/Fire). It turns to ash and [smoke](https://en.wikipedia.org/wiki/Smoke). You can't write on ash. You can't unfold smoke. The paper is gone.
 
@@ -37,6 +39,8 @@ When your students mix substances together, teach them to look for these four un
 | **3. [Precipitate](https://en.wikipedia.org/wiki/Precipitation_%28chemistry%29) Formation** | **The formation of a solid precipitate from mixing two transparent liquid [solutions](https://en.wikipedia.org/wiki/Solution_%28chemistry%29) is strong evidence of a chemical change.** Suddenly, the liquid becomes cloudy with [solid](https://en.wikipedia.org/wiki/Solid) particles! |
 | **4. [Temperature](https://en.wikipedia.org/wiki/Temperature) Change** | A **sudden change in temperature upon mixing substances without an external [heat source](https://en.wikipedia.org/wiki/Heat) is strong evidence of a chemical change.** If a [beaker](https://en.wikipedia.org/wiki/Beaker_%28glassware%29) suddenly gets hot or freezing cold on its own, atoms are rearranging! |
 
+![Precipitation occurs when two transparent liquid solutions undergo a chemical reaction to form a new, insoluble solid substance.](https://wikipedia.org/wiki/Special:Redirect/file/Chemical_precipitation_diagram_multilang.svg)
+
 ---
 
 ## Part 2: The Time Machine — Reversible and Irreversible Changes
@@ -51,6 +55,8 @@ Let's look at the classic examples:
 *   **[Boiling](https://en.wikipedia.org/wiki/Boiling) liquid water transforms the liquid [phase](https://en.wikipedia.org/wiki/Phase_%28matter%29) into gaseous [water vapor](https://en.wikipedia.org/wiki/Water_vapor).** If you catch that vapor on a cold piece of [glass](https://en.wikipedia.org/wiki/Glass), it [condenses](https://en.wikipedia.org/wiki/Condensation) right back into liquid drops. Thus, **boiling liquid water into vapor is a fully reversible physical change.** 
 
 *[Pedagogical](https://en.wikipedia.org/wiki/Pedagogy) Warning:* **Elementary students often mistakenly confuse reversible [phase changes](https://en.wikipedia.org/wiki/Phase_transition) with permanent chemical changes.** Because boiling creates bubbles, kids think a chemical reaction is happening! You must remind them that **phase changes like melting or freezing are classified strictly as physical changes.** 
+
+![Despite the production of gas bubbles, boiling water is a reversible physical phase change, not a chemical reaction.](https://wikipedia.org/wiki/Special:Redirect/file/_Kochendes_wasser02.jpg)
 
 But what about changes that *can't* be undone? 
 *   **[Cooking](https://en.wikipedia.org/wiki/Cooking) a raw [egg](https://en.wikipedia.org/wiki/Egg_%28food%29) by applying heat is an irreversible chemical change.** You can cool a scrambled egg down to [absolute zero](https://en.wikipedia.org/wiki/Absolute_zero), and it will never turn back into a raw, runny yolk. The [proteins](https://en.wikipedia.org/wiki/Protein) have [chemically tangled](https://en.wikipedia.org/wiki/Denaturation_%28biochemistry%29).
@@ -76,17 +82,25 @@ This sounds simple to us, but it heavily conflicts with a child's everyday obser
 If a student takes a ball of [Play-Doh](https://en.wikipedia.org/wiki/Play-Doh) and flattens it, they will often tell you it weighs less now. **Elementary students often falsely assume that changing the physical shape of an object reduces its total weight.** 
 *   *The Fix:* Put it on a [scale](https://en.wikipedia.org/wiki/Weighing_scale)! Show them that **molding a spherical piece of [clay](https://en.wikipedia.org/wiki/Clay) into a flattened pancake shape perfectly conserves the original weight of the clay.**
 
+![Changing the physical shape of a material, such as flattening clay, does not alter its total mass or weight.](https://wikipedia.org/wiki/Special:Redirect/file/_Play_dough_04799.jpg)
+
 #### Misconception 2: "Dissolving is vanishing."
 Stir a spoonful of [salt](https://en.wikipedia.org/wiki/Salt_%28chemistry%29) into a glass of warm water. The water goes clear. To a child, the salt has been utterly erased from existence. **Elementary students often hold the scientific misconception that dissolved solid substances disappear completely.** 
 *   *The Fix:* Have them weigh the cup, water, and dry salt beforehand, and then the [saltwater](https://en.wikipedia.org/wiki/Saline_water) afterward. They will see that **the final weight of a saltwater solution exactly equals the combined initial weights of the dry salt and the pure water.** The salt didn't vanish; it just became too small to see.
+
+![When solid salt dissolves in water, its particles become too small to see, but their mass remains entirely conserved in the solution.](https://wikipedia.org/wiki/Special:Redirect/file/SaltInWaterSolutionLiquid.jpg)
 
 #### Misconception 3: "Rust eats away at metal."
 If you show a student a heavily rusted, flaky [nail](https://en.wikipedia.org/wiki/Nail_%28fastener%29), they will assume it is lighter than a shiny new nail. **Elementary students often falsely believe that rusted metal is lighter than the original pristine metal.** It makes sense to them—[rust](https://en.wikipedia.org/wiki/Rust) flakes off, so it looks like the metal is decaying away.
 *   *The Fix:* Explain what rust actually is. Rust isn't the metal disappearing; it's the metal hugging the air! **The rusting process adds the weight of atmospheric [oxygen](https://en.wikipedia.org/wiki/Oxygen) to the original weight of the [iron](https://en.wikipedia.org/wiki/Iron) metal.** A fully rusted nail actually weighs *more* than it did when it was new!
 
+![Rust is not the physical decay of metal, but rather a chemical reaction where atmospheric oxygen bonds with iron, resulting in a heavier compound.](https://wikipedia.org/wiki/Special:Redirect/file/Rust_on_iron.jpg)
+
 #### Misconception 4: "Fire destroys matter."
 When a massive [campfire](https://en.wikipedia.org/wiki/Campfire) burns down, nothing is left but a tiny pile of ashes. Naturally, **elementary students often hold the scientific misconception that the burning process destroys matter completely.** 
 *   *The Fix:* You must teach them that the missing weight didn't cease to exist; it floated away! The wood turned into smoke and gas. Which brings us to our final, ultimate hurdle... **Elementary students often hold the scientific misconception that gases possess zero weight.** 
+
+![When wood burns, its matter is not destroyed; it is converted into airborne products like smoke and gases that carry the missing weight away.](https://wikipedia.org/wiki/Special:Redirect/file/Ognisko_ubt_0126.jpeg)
 
 ---
 
@@ -103,6 +117,8 @@ Why did the weight go down? Because your cup is an **[open system](https://en.wi
 If you want to prove the conservation of mass, **accurately measuring the conservation of weight during a gas-producing reaction requires an isolated [closed system](https://en.wikipedia.org/wiki/Closed_system).** Imagine putting the vinegar in a [bottle](https://en.wikipedia.org/wiki/Bottle), putting the baking soda inside a [balloon](https://en.wikipedia.org/wiki/Balloon), stretching the balloon over the mouth of the bottle, and *then* dumping the powder in. The balloon inflates! 
 
 A **closed experimental system prevents newly formed gases from escaping into the surrounding room.** If you weigh this entire closed bottle-and-balloon apparatus before and after the reaction, the weight will not change by a single fraction of a [gram](https://en.wikipedia.org/wiki/Gram). The gas has weight, and the balloon trapped it!
+
+![A closed system prevents matter (such as produced gases) from escaping, allowing accurate measurement of mass conservation during a chemical reaction.](https://wikipedia.org/wiki/Special:Redirect/file/Diagram_Systems.svg)
 
 ### Graphing the Data
 

@@ -12,6 +12,8 @@ Let’s take a walk through the invisible machinery of nature.
 
 Think about a massive [oak](https://en.wikipedia.org/wiki/Oak) [tree](https://en.wikipedia.org/wiki/Tree). Where did all that *stuff*—the [wood](https://en.wikipedia.org/wiki/Wood), the [bark](https://en.wikipedia.org/wiki/Bark_%28botany%29), the [leaves](https://en.wikipedia.org/wiki/Leaf)—come from? 
 
+![A massive oak tree. It is a common misconception that the vast amount of matter making up the trunk, branches, and leaves comes directly from the soil.](https://wikipedia.org/wiki/Special:Redirect/file/Gr%C4%ABdnieku_di%C5%BEozols.JPG)
+
 If you ask an elementary student, you will almost always hear this: *"The tree ate the [dirt](https://en.wikipedia.org/wiki/Soil)!"* 
 
 > **Crucial CKT Misconception:** A common elementary student [misconception](https://en.wikipedia.org/wiki/Misconception) is that [plants](https://en.wikipedia.org/wiki/Plant) obtain their [food](https://en.wikipedia.org/wiki/Food) directly from the [soil](https://en.wikipedia.org/wiki/Soil). They observe [humans](https://en.wikipedia.org/wiki/Human) eating food through our [mouths](https://en.wikipedia.org/wiki/Mouth), so they intuitively assume plants "eat" the soil through their [roots](https://en.wikipedia.org/wiki/Root).
@@ -24,6 +26,8 @@ As a [teacher](https://en.wikipedia.org/wiki/Teacher), how do you shatter this i
 3.  **Plants take in [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) from the air.** (This is the mind-blowing part for kids—most of the [mass](https://en.wikipedia.org/wiki/Mass) of a giant tree actually comes from invisible [gas](https://en.wikipedia.org/wiki/Gas) in the air!)
 
 How do we prove to a stubborn fourth-grader that soil isn't the food? We show them **[hydroponics](https://en.wikipedia.org/wiki/Hydroponics)**. **The process of growing plants in water without soil is called hydroponics.** It is the ultimate proof that **plants can grow entirely without soil if water and necessary [nutrients](https://en.wikipedia.org/wiki/Nutrient) are provided.** 
+
+![Hydroponic systems cultivate plants in nutrient-rich water without any soil, providing concrete proof that dirt is not a plant's food source.](https://wikipedia.org/wiki/Special:Redirect/file/Leafy_Greens_Hydroponics.jpg)
 
 ### Diagnosing Plant Needs in the Classroom
 When your [classroom](https://en.wikipedia.org/wiki/Classroom) [bean](https://en.wikipedia.org/wiki/Bean) plant starts looking sad, use it as an investigative phenomenon! Your students need to know how to read the plant's signals:
@@ -50,10 +54,15 @@ Plants cannot walk. If they want to [reproduce](https://en.wikipedia.org/wiki/Re
 
 **Pollination is the transfer of pollen from the [male part](https://en.wikipedia.org/wiki/Stamen) of a [flower](https://en.wikipedia.org/wiki/Flower) to the [female part](https://en.wikipedia.org/wiki/Pistil).** Because they are stuck in the ground, **many plants depend on [animals](https://en.wikipedia.org/wiki/Animal) for pollination.** 
 
+![Diagram illustrating the process of pollination. Pollen must be physically transferred from the stamen to the pistil for the plant to reproduce.](https://wikipedia.org/wiki/Special:Redirect/file/Pollination_Diagram.svg)
+
 But an animal won't do this for free! Flowers are basically nature's advertising billboards. To draw in the workers, **animals are attracted to flowers by sugary [nectar](https://en.wikipedia.org/wiki/Nectar)** (the paycheck), but they are also drawn in **by brightly colored [petals](https://en.wikipedia.org/wiki/Petal)** (the neon sign) and **by strong [scents](https://en.wikipedia.org/wiki/Odor)** (the perfume).
 
 **[Bees](https://en.wikipedia.org/wiki/Bee) are common animal [pollinators](https://en.wikipedia.org/wiki/Pollinator)**, and **[butterflies](https://en.wikipedia.org/wiki/Butterfly) are common animal pollinators**, but how does the mechanism actually work?
 * As the animal feeds, **pollen sticks to the bodies of animals while the animals feed on flower nectar.**
+
+![As bees feed on a flower's nectar, pollen grains stick to their hairy bodies and legs, allowing the pollen to hitch a ride to the next flower.](https://wikipedia.org/wiki/Special:Redirect/file/Bee_Leg_with_Pollen_Bulb.jpg)
+
 * Then, **an animal deposits pollen onto a new flower when moving between plants.**
 
 **The [mutually beneficial relationship](https://en.wikipedia.org/wiki/Mutualism_%28biology%29) between a pollinating bee and a nectar-producing flower is an example of interdependence.** The bee gets a meal; the flower gets a courier.
@@ -67,9 +76,14 @@ Once a plant is pollinated, it creates a [seed](https://en.wikipedia.org/wiki/Se
 
 But again, plants can't walk. So they use different strategies to move their babies:
 *   **The Wind Tunnel:** **[Wind](https://en.wikipedia.org/wiki/Wind) can disperse lightweight seeds over long distances.** Think of a [dandelion](https://en.wikipedia.org/wiki/Taraxacum) blowing in the breeze.
+
+![Wind dispersal allows lightweight seeds, like those of a dandelion, to travel long distances away from the parent plant to avoid competition for sunlight and water.](https://wikipedia.org/wiki/Special:Redirect/file/Photos-photos_1088103921_Floating.jpg)
+
 *   **The Raft:** **Water can disperse buoyant seeds like [coconuts](https://en.wikipedia.org/wiki/Coconut) over long distances.** They literally float across [oceans](https://en.wikipedia.org/wiki/Ocean).
 *   **The Sweet Treat:** **Some seeds are enclosed in sweet [fruit](https://en.wikipedia.org/wiki/Fruit) to encourage animals to eat the fruit.** The animal eats the [berry](https://en.wikipedia.org/wiki/Berry_%28botany%29), but the **seeds eaten by animals pass through the animal [digestive tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract) unharmed.** Hours later, the animal walks miles away, and the **seeds eaten by animals are deposited in a new location through animal [feces](https://en.wikipedia.org/wiki/Feces).** (Your students will *love* the fact that plants use animal poop to conquer new territory).
 *   **The Hitchhiker:** **Some plant seeds have tiny hook-like structures.** These **hook-like structures on seeds allow the seeds to attach to animal [fur](https://en.wikipedia.org/wiki/Fur) for transportation.** Think of burrs getting stuck to your [dog's](https://en.wikipedia.org/wiki/Dog) coat.
+
+![Some seeds have tiny hook-like structures that catch onto animal fur, turning passing animals into unwitting couriers for seed dispersal.](https://wikipedia.org/wiki/Special:Redirect/file/Epizoochory_-_black_Labrador_with_hooked_Geum_fruits_in_his_fur.jpg)
 
 > **Pedagogical Action:** How do you mimic seed hitchhikers? **Elementary students can mimic seed dispersal by wearing fuzzy [socks](https://en.wikipedia.org/wiki/Sock) to walk through a grassy field.** When they come back inside and pick the burrs and seeds off their socks, they have successfully [modeled](https://en.wikipedia.org/wiki/Scientific_modelling) an animal's role in the ecosystem!
 
@@ -91,6 +105,8 @@ Imagine energy like the [battery](https://en.wikipedia.org/wiki/Battery_%28elect
 
 But every time an animal runs, breathes, or hunts, it burns off some of that energy as body [heat](https://en.wikipedia.org/wiki/Heat). That heat drifts off into [space](https://en.wikipedia.org/wiki/Outer_space) and is gone forever. Therefore, **[energy flows in a single direction](https://en.wikipedia.org/wiki/Energy_flow_%28ecology%29) through an ecosystem.** It enters as sunlight, and it leaves as heat.
 
+![Energy flows in a single direction through an ecosystem. It enters as sunlight, transfers upward through the food chain, and is eventually lost from the system as heat.](https://wikipedia.org/wiki/Special:Redirect/file/Diagram_of_Trophic_Layers_%26_Energy_Transfer_in_an_Ecosystem.svg)
+
 > **Crucial CKT Misconception:** **A common student misconception is that energy continuously cycles through an ecosystem in the same way that matter recycles.** Kids think energy goes in a circle. It does *not*. If the sun turned off tomorrow, the ecosystem would run out of energy and die. Energy is a one-way street.
 
 ### The Cycle of Matter (The Lego Bricks)
@@ -107,6 +123,9 @@ As a teacher, you must enforce the [Law of Conservation of Mass](https://en.wiki
 
 **[Decomposers](https://en.wikipedia.org/wiki/Decomposer) are organisms that break down dead plants and animals.** 
 * **[Fungi](https://en.wikipedia.org/wiki/Fungus) are common decomposers in many ecosystems.** (Think of [mushrooms](https://en.wikipedia.org/wiki/Mushroom) on a dead log).
+
+![Decomposers, like these fungi growing on a fallen branch, do not make matter vanish. They recycle the dead tissue back into essential soil nutrients.](https://wikipedia.org/wiki/Special:Redirect/file/Fungi_on_fallen_Birch_Branch_-_geograph.org.uk_-_239255.jpg)
+
 * **[Earthworms](https://en.wikipedia.org/wiki/Earthworm) act as decomposers by consuming dead plant matter.**
 * **[Bacteria](https://en.wikipedia.org/wiki/Bacteria) act as microscopic decomposers.**
 

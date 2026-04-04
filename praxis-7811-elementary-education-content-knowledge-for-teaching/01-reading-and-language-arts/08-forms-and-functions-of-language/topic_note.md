@@ -21,6 +21,8 @@ Historically, [schools](https://en.wikipedia.org/wiki/School) treated this as "b
 
 Here is the most beautiful, foundational truth of [linguistics](https://en.wikipedia.org/wiki/Linguistics): **all linguistic [dialects](https://en.wikipedia.org/wiki/Dialect) are strictly rule-governed systems of [communication](https://en.wikipedia.org/wiki/Communication).** When that student says *"He don't got no pencil,"* they are executing the complex, highly structured [grammatical](https://en.wikipedia.org/wiki/Grammar) rules of their specific [dialect](https://en.wikipedia.org/wiki/Dialect) with perfect accuracy! Because of this, we know scientifically that **no single [dialect](https://en.wikipedia.org/wiki/Dialect) is inherently linguistically superior to any other [dialect](https://en.wikipedia.org/wiki/Dialect).** 
 
+![A map of primary dialect regions in the UK and Ireland, illustrating how linguistic varieties are highly structured and geographically distributed.](https://wikipedia.org/wiki/Special:Redirect/file/Dialects_of_English_in_UK_and_Ireland.svg)
+
 ### The Teacher's Role in Dialect
 So, what is your job when teaching [Standard English](https://en.wikipedia.org/wiki/Standard_English)? Do you just correct them? Absolutely not. 
 
@@ -39,6 +41,8 @@ There are five primary [language registers](https://en.wikipedia.org/wiki/Regist
 | **Consultative** | Two-way [communication](https://en.wikipedia.org/wiki/Communication) in a professional or [academic](https://en.wikipedia.org/wiki/Academia) setting. *(A [teacher](https://en.wikipedia.org/wiki/Teacher) talking to a student, a [doctor](https://en.wikipedia.org/wiki/Physician) talking to a [patient](https://en.wikipedia.org/wiki/Patient))* |
 | **Casual** | [Language](https://en.wikipedia.org/wiki/Language) used among peers and friends. Contains [slang](https://en.wikipedia.org/wiki/Slang) and loose [grammar](https://en.wikipedia.org/wiki/Grammar). *(Recess conversations, [text messages](https://en.wikipedia.org/wiki/Text_messaging))* |
 | **Intimate** | Private [communication](https://en.wikipedia.org/wiki/Communication) reserved for close [family members](https://en.wikipedia.org/wiki/Family) or partners. *([Inside jokes](https://en.wikipedia.org/wiki/In-joke), [pet names](https://en.wikipedia.org/wiki/Hypocorism))* |
+
+![Schoolchildren reciting the Pledge of Allegiance. Because its wording is strictly preserved and universally repeated without alteration, the Pledge serves as a classic example of the frozen language register.](https://wikipedia.org/wiki/Special:Redirect/file/PledgeOfAllegiance1899.jpg)
 
 How do we decide which [register](https://en.wikipedia.org/wiki/Register_%28sociolinguistics%29) to use? It’s completely situational. **The required level of formality in [communication](https://en.wikipedia.org/wiki/Communication) is dictated by the target [audience](https://en.wikipedia.org/wiki/Audience)**, as well as being heavily influenced because **the required level of formality in [communication](https://en.wikipedia.org/wiki/Communication) is dictated by the specific purpose of the message.** You wouldn't use a [formal register](https://en.wikipedia.org/wiki/Register_%28sociolinguistics%29) to comfort a crying [kindergartener](https://en.wikipedia.org/wiki/Kindergarten), and you wouldn't use an [intimate register](https://en.wikipedia.org/wiki/Register_%28sociolinguistics%29) to write a [principal's](https://en.wikipedia.org/wiki/Head_teacher) [newsletter](https://en.wikipedia.org/wiki/Newsletter).
 
@@ -66,6 +70,8 @@ When [writing](https://en.wikipedia.org/wiki/Writing) academically, [word choice
 
 On the other end of the spectrum is [academic](https://en.wikipedia.org/wiki/Academia) mastery. When students write a [science](https://en.wikipedia.org/wiki/Science) report, teaching them to use [words](https://en.wikipedia.org/wiki/Word) like *[photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)* or *[chrysalis](https://en.wikipedia.org/wiki/Pupa)* isn't just about [spelling](https://en.wikipedia.org/wiki/Spelling). **Domain-specific [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) demonstrates [expertise](https://en.wikipedia.org/wiki/Expert) in a particular [academic subject](https://en.wikipedia.org/wiki/Academic_discipline).** It proves to the [reader](https://en.wikipedia.org/wiki/Reading), "I belong in this [conversation](https://en.wikipedia.org/wiki/Conversation)."
 
+![A scientific schematic demonstrating photosynthesis. Providing students with domain-specific vocabulary allows them to demonstrate precise knowledge and academic expertise in their writing.](https://wikipedia.org/wiki/Special:Redirect/file/Photosynthesis_en.svg)
+
 ---
 
 ## Part 3: The [Physics](https://en.wikipedia.org/wiki/Physics) of Pacing ([Punctuation](https://en.wikipedia.org/wiki/Punctuation) for Effect)
@@ -77,6 +83,8 @@ Think of the [em dash](https://en.wikipedia.org/wiki/Dash) as an interruption—
 *   *[Comma](https://en.wikipedia.org/wiki/Comma):* The [monster](https://en.wikipedia.org/wiki/Monster), terrifying and green, slowly opened the door.
 *   *[Em Dash](https://en.wikipedia.org/wiki/Dash):* The [monster](https://en.wikipedia.org/wiki/Monster)—terrifying and green—slowly opened the door!
 
+![A typographic comparison showing the em dash relative to the hyphen and en dash. The extended length of the em dash visually signals a distinct break or theatrical interruption in a sentence.](https://wikipedia.org/wiki/Special:Redirect/file/Dash_font_comparison.png)
+
 ### The Semicolon (;)
 Students often think a [semicolon](https://en.wikipedia.org/wiki/Semicolon) is just a fancy [period](https://en.wikipedia.org/wiki/Full_stop). Not quite! **A [semicolon](https://en.wikipedia.org/wiki/Semicolon) joins two [independent clauses](https://en.wikipedia.org/wiki/Independent_clause) to emphasize a close thematic relationship between those [clauses](https://en.wikipedia.org/wiki/Clause).** It tells the [reader](https://en.wikipedia.org/wiki/Reading), "These two thoughts are so deeply connected, I refuse to put a [full stop](https://en.wikipedia.org/wiki/Full_stop) between them." 
 *   *Example:* "The [storm](https://en.wikipedia.org/wiki/Storm) raged outside; the [children](https://en.wikipedia.org/wiki/Child) huddled together near the fire."
@@ -85,6 +93,8 @@ Students often think a [semicolon](https://en.wikipedia.org/wiki/Semicolon) is j
 The [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) is the master of time and silence. **An [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) can indicate a trailing off of a character's [thought](https://en.wikipedia.org/wiki/Thought)** (e.g., *"I thought I locked the door..."*). 
 [Pedagogically](https://en.wikipedia.org/wiki/Pedagogy), teaching the [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) is a great way to help students write [narratives](https://en.wikipedia.org/wiki/Narrative) because **an [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) can create [suspense](https://en.wikipedia.org/wiki/Suspense) by intentionally delaying the end of a [sentence](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29).** 
 *   *Example:* "He reached into the dark box and pulled out..."
+
+![A mural depicting an ellipsis as a digital typing indicator. In both literature and modern digital communication, the ellipsis effectively delays resolution and builds anticipation.](https://wikipedia.org/wiki/Special:Redirect/file/Left_on_read.jpg)
 
 ---
 
@@ -97,6 +107,8 @@ Young [writers](https://en.wikipedia.org/wiki/Writer) often write simple, bare-b
 We want to teach them expansion. **Expanding [sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) involves adding descriptive [modifiers](https://en.wikipedia.org/wiki/Grammatical_modifier) to provide greater detail.** A highly effective, concrete way to teach this is by showing students how **expanding [sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) can be achieved by attaching [prepositional phrases](https://en.wikipedia.org/wiki/Preposition_and_postposition) to the core [clause](https://en.wikipedia.org/wiki/Clause).**
 *   *Core [clause](https://en.wikipedia.org/wiki/Clause):* The dog barked.
 *   *Expanded with [prepositional phrases](https://en.wikipedia.org/wiki/Preposition_and_postposition):* The dog barked **at the [mailman](https://en.wikipedia.org/wiki/Mail_carrier)** **through the screen door**.
+
+![A structural analysis of an English sentence demonstrating how a core clause can be expanded by seamlessly attaching a prepositional phrase.](https://wikipedia.org/wiki/Special:Redirect/file/Constituent_structure_analysis_English_sentence.svg)
 
 On the flip side, as students get older, they sometimes try to sound "smart" by using too many [words](https://en.wikipedia.org/wiki/Word): *"Due to the fact that the dog was in a state of barking..."* 
 Here, we teach reduction. **Reducing [sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) eliminates [wordiness](https://en.wikipedia.org/wiki/Verbosity) to increase [textual](https://en.wikipedia.org/wiki/Text_%28literary_theory%29) clarity.** By teaching them that **removing redundant [phrases](https://en.wikipedia.org/wiki/Phrase) directly streamlines student [writing](https://en.wikipedia.org/wiki/Writing)**, you empower them to get straight to the point.
@@ -130,3 +142,5 @@ Lastly, we must look at the "[voice](https://en.wikipedia.org/wiki/Voice_%28gram
 As a [teacher](https://en.wikipedia.org/wiki/Teacher), your job is to demystify these forms and functions of [language](https://en.wikipedia.org/wiki/Language) for your students. You are not handing down decrees from a [grammar](https://en.wikipedia.org/wiki/Grammar) [dictionary](https://en.wikipedia.org/wiki/Dictionary); you are handing them the keys to a [laboratory](https://en.wikipedia.org/wiki/Laboratory). 
 
 When you honor their home [dialects](https://en.wikipedia.org/wiki/Dialect), show them the power of [code-switching](https://en.wikipedia.org/wiki/Code-switching), hand them the precise [words](https://en.wikipedia.org/wiki/Word) they need, and show them how to bolt their [sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) together with [conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29) and [punctuation](https://en.wikipedia.org/wiki/Punctuation), you aren't just teaching [English](https://en.wikipedia.org/wiki/English_language). You are teaching them how to command the world around them through the power of their own [voice](https://en.wikipedia.org/wiki/Human_voice).
+
+![A visual spectrogram of the human voice. When students learn to master the complex physics of language, they unlock the full potential of their own unique voice.](https://wikipedia.org/wiki/Special:Redirect/file/Human_voice_spectrogram.jpg)

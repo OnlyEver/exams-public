@@ -1,5 +1,7 @@
 Here is a fascinating truth about [modern medicine](https://en.wikipedia.org/wiki/Medicine): we have the most brilliant [specialists](https://en.wikipedia.org/wiki/Specialty_%28medicine%29), the most advanced machines, and the most miraculous [drugs](https://en.wikipedia.org/wiki/Medication) in human history. But if you have a patient who needs a [cardiologist](https://en.wikipedia.org/wiki/Cardiology), a [pulmonologist](https://en.wikipedia.org/wiki/Pulmonology), a [physical therapist](https://en.wikipedia.org/wiki/Physical_therapy), and a [special diet](https://en.wikipedia.org/wiki/Diet_%28nutrition%29), who ensures these pieces actually fit together? Without someone orchestrating the process, the [healthcare system](https://en.wikipedia.org/wiki/Health_system) is just a collection of incredibly smart people operating in [silos](https://en.wikipedia.org/wiki/Information_silo). 
 
+![Diagram of information silos, illustrating how isolated healthcare departments fail to share information—a primary systemic issue case management aims to resolve.](https://wikipedia.org/wiki/Special:Redirect/file/Information_silo.png)
+
 Enter **[Case Management](https://en.wikipedia.org/wiki/Medical_case_management)**. 
 
 If you want to understand what a case manager does, think of them as the ultimate [conductor](https://en.wikipedia.org/wiki/Conducting) of a highly complex healthcare orchestra. Their job isn’t to play every instrument; their job is to make sure everyone is playing the same sheet of music. 
@@ -11,6 +13,8 @@ Let's dive into how you, as a [registered nurse](https://en.wikipedia.org/wiki/R
 ## The Master Coordinator: The Role of Case Management
 
 At its core, **case management coordinates [patient care](https://en.wikipedia.org/wiki/Health_care) across the entire healthcare continuum.** The continuum isn't just the hospital ward; it stretches from the [ICU](https://en.wikipedia.org/wiki/Intensive_care_unit), to the [rehab center](https://en.wikipedia.org/wiki/Rehabilitation_hospital), all the way to the client’s living room. 
+
+![Case management coordinates a patient's journey across the entire healthcare continuum, beginning in high-acuity environments like the ICU and extending to outpatient rehabilitation and home care.](https://wikipedia.org/wiki/Special:Redirect/file/US_Navy_030423-N-6967M-090_A_central_computer_system_monitors_the_heart_rates_of_each_patient_in_the_Intensive_Care_Unit_(ICU)_to_ensure_a_quick.jpg)
 
 Why do we do this? **The primary goal of case management is to optimize [clinical outcomes](https://en.wikipedia.org/wiki/Clinical_endpoint) for the client.** We want them to get better and stay better. And closely tied to that goal is this beautiful, foundational objective: **a primary objective of case management is to promote client [independence](https://en.wikipedia.org/wiki/Independent_living).** We don't want clients tethered to the hospital. We want them living their lives.
 
@@ -32,6 +36,8 @@ To make this process as smooth as possible, we use a map. We call these maps **[
 
 **Critical pathways are clinical management tools used in case management to standardize client care.** Think of them as [evidence-based](https://en.wikipedia.org/wiki/Evidence-based_medicine) timelines. If a patient comes in for a [total knee replacement](https://en.wikipedia.org/wiki/Knee_replacement), the critical pathway tells us exactly where they should be on Day 1, Day 2, and Day 3. 
 
+![Anatomical model of a total knee replacement. Critical pathways are used to standardize care by mapping out the exact day-by-day recovery milestones expected following routine procedures like this.](https://wikipedia.org/wiki/Special:Redirect/file/Prothese-genou-IMG_0033.jpg)
+
 What is the point of this? 
 1. **Critical pathways reduce unnecessary variations in standard [clinical practice](https://en.wikipedia.org/wiki/Medical_practice).** We don't want five different doctors treating the exact same routine condition five completely different ways.
 2. **Critical pathways help control [healthcare costs](https://en.wikipedia.org/wiki/Health_economics) by standardizing the use of medical resources.** 
@@ -40,6 +46,8 @@ What is the point of this?
 But let me tell you a secret: human beings aren't machines. Sometimes, nature doesn't read our textbooks. 
 
 We **continuously monitor a client's progress against established clinical milestones.** But what happens when the patient doesn't hit the milestone? What if they spike a [fever](https://en.wikipedia.org/wiki/Fever) on Day 2 of the pathway, or their [blood pressure](https://en.wikipedia.org/wiki/Blood_pressure) drops? 
+
+![Conceptual diagram of a fever showing a rise in the body's thermoregulatory set point. In case management, unexpected clinical changes like a fever represent a variance from the critical pathway.](https://wikipedia.org/wiki/Special:Redirect/file/Fever-conceptual.svg)
 
 We call this a variance. **A variance occurs when a client's clinical progress deviates from the expected timeline of a critical pathway.** When this happens, you don't just shrug and hope for the best. **A case manager must formally document any clinical variances from the expected critical pathway,** and crucially, **a case manager must promptly update the individualized [care plan](https://en.wikipedia.org/wiki/Nursing_care_plan) whenever a clinical variance occurs.** The map has changed, so you must redraw the route!
 
@@ -67,6 +75,8 @@ We look at exactly what the patient needs to survive and thrive outside the hosp
 *   **Clinical Care at Home:** **Home health agencies are community resources that provide [skilled nursing care](https://en.wikipedia.org/wiki/Skilled_nursing_facility) at a client's private residence.** 
 *   **Education & Emotional Support:** **Case managers provide clients with detailed contact information for local disease-specific [support groups](https://en.wikipedia.org/wiki/Support_group)** (e.g., the [American Heart Association](https://en.wikipedia.org/wiki/American_Heart_Association) or [Alzheimer's](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) support groups).
 
+![Meals on Wheels delivers nutritional support directly to homebound clients, functioning as a vital community resource case managers use to promote safe, independent living.](https://wikipedia.org/wiki/Special:Redirect/file/Meals_on_Wheels_delivery.jpg)
+
 We also leverage our therapy colleagues. Know the difference between these two, because it is vital:
 
 | Therapy Discipline | Clinical Focus | Case Management Referral Goal |
@@ -83,6 +93,8 @@ What counts as DME? It's the heavy-duty, reusable gear that sustains life and mo
 *   **Personal mobility aids such as [walkers](https://en.wikipedia.org/wiki/Walker_%28mobility%29).**
 *   **Personal mobility aids such as [wheelchairs](https://en.wikipedia.org/wiki/Wheelchair).**
 
+![A home oxygen concentrator. Arranging for durable medical equipment (DME) like this is a core responsibility of the case manager when preparing a patient with chronic respiratory issues for a safe discharge.](https://wikipedia.org/wiki/Special:Redirect/file/Home_oxygen_concentrator.jpg)
+
 ---
 
 ## The Reality Check: Economics and Cost-Effectiveness
@@ -96,6 +108,8 @@ You will constantly be assessing financial realities:
 *   **Case managers collaborate with [health insurance](https://en.wikipedia.org/wiki/Health_insurance) providers to determine financial coverage for [home care](https://en.wikipedia.org/wiki/Home_care) services.** 
 *   **Case managers collaborate with health insurance providers to determine financial coverage for durable medical equipment.** (Will [Medicare](https://en.wikipedia.org/wiki/Medicare_%28United_States%29) pay for this wheelchair?)
 *   And when the insurance falls short, **a case manager identifies alternative funding resources for [uninsured](https://en.wikipedia.org/wiki/Health_insurance_coverage_in_the_United_States) or [underinsured](https://en.wikipedia.org/wiki/Underinsurance) clients,** digging into grants, community funds, and pharmaceutical assistance programs.
+
+![Diagram outlining ischemic and hemorrhagic strokes. A key case management priority is verifying a client's ability to afford prescribed preventative medications (like blood thinners) to avoid catastrophic hospital readmissions.](https://wikipedia.org/wiki/Special:Redirect/file/Ischemic_Stroke.svg)
 
 ---
 

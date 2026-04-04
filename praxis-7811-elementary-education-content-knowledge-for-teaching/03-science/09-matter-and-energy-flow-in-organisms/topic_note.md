@@ -27,9 +27,13 @@ Instead, plants build themselves out of *thin air and [sunlight](https://en.wiki
 *   **The Air:** **Plants require [carbon dioxide gas](https://en.wikipedia.org/wiki/Carbon_dioxide) from the air for photosynthesis.** They inhale this invisible gas through microscopic mouths. Specifically, **plants absorb carbon dioxide through tiny openings in [leaves](https://en.wikipedia.org/wiki/Leaf) called [stomata](https://en.wikipedia.org/wiki/Stoma).**
 *   **The Water:** **Plants absorb water primarily through [root systems](https://en.wikipedia.org/wiki/Root_system).** They need this water for two reasons: **plants require water for photosynthesis** (it is an ingredient in the [chemical recipe](https://en.wikipedia.org/wiki/Chemical_equation)), and **plants require water to maintain [structural support](https://en.wikipedia.org/wiki/Turgor_pressure)** (this is why a thirsty plant wilts).
 
+![A simplified model of photosynthesis, illustrating how plants capture light energy to combine invisible carbon dioxide and water into physical sugars, releasing oxygen as a byproduct.](https://wikipedia.org/wiki/Special:Redirect/file/Simple_photosynthesis_overview.svg)
+
 > **🚨 The Misconception:** Elementary students often struggle to understand that air has [mass](https://en.wikipedia.org/wiki/Mass). 
 
 Why does this matter? Because **understanding that air has mass is crucial for students to grasp how plants build physical structures from carbon dioxide.** When a student looks at a giant [Redwood tree](https://en.wikipedia.org/wiki/Sequoioideae), they need to realize that the massive [trunk](https://en.wikipedia.org/wiki/Trunk_%28botany%29) wasn't pulled out of the dirt. Most of that solid [wood](https://en.wikipedia.org/wiki/Wood) was built by linking together [carbon atoms](https://en.wikipedia.org/wiki/Carbon) that were stripped out of the invisible air!
+
+![The massive physical structure of a redwood tree is not pulled from the soil, but rather built primarily from carbon atoms extracted directly from the invisible carbon dioxide gas in the air.](https://wikipedia.org/wiki/Special:Redirect/file/Redwood_tree_in_Oakland_California_(person_for_comparison)IMG_4881.jpg)
 
 > **🚨 The Misconception:** Elementary students often confuse a plant's need for light with a need for warmth. 
 *Pro-tip for the classroom:* If a student thinks plants grow in [summer](https://en.wikipedia.org/wiki/Summer) just because it’s *warm*, ask them what happens to a plant in a dark, warm closet. The plant doesn't need a blanket; it needs the *light* to run the engine.
@@ -50,6 +54,8 @@ Here is the truth: Making food and *using* food are two different things. Photos
 
 Therefore, **plants require oxygen gas from the air for cellular respiration**, exactly like animals do. During the day, plants make so much oxygen via photosynthesis that they have plenty to spare. But at night, when the sun goes down, plants are taking in oxygen and breathing out carbon dioxide, just like you and me.
 
+![The cycle of energy and matter: plants produce oxygen and sugar via photosynthesis (green), but both plants and animals must consume oxygen to burn that sugar for energy via cellular respiration (red).](https://wikipedia.org/wiki/Special:Redirect/file/Auto-and_heterotrophs.svg)
+
 ---
 
 ## Part 3: Follow the Energy 
@@ -69,12 +75,18 @@ We map this flow using chains and webs.
 
 If a student draws an arrow from the Fox pointing to the Rabbit, they are thinking, "The fox attacks the rabbit." You must correct this framing! **Arrows in a food chain point in the direction of [energy flow](https://en.wikipedia.org/wiki/Energy_flow_%28ecology%29).** The arrow is the delivery truck carrying the [solar energy](https://en.wikipedia.org/wiki/Solar_energy) from the rabbit's body *into* the fox's mouth. 
 
+![In a food web, arrows do not indicate who is attacking whom. Instead, they point in the direction of energy flow, originating from the organism being consumed and pointing to the consumer.](https://wikipedia.org/wiki/Special:Redirect/file/FoodWebSimple.svg)
+
 ### The 10% Tax and the Recyclers
 Energy transfer is highly inefficient. Every time an animal eats something, it burns most of that energy just running around, staying warm, and staying alive. **The [energy pyramid](https://en.wikipedia.org/wiki/Ecological_pyramid) model shows that only about [ten percent](https://en.wikipedia.org/wiki/Ecological_efficiency) of energy is transferred to the next [trophic level](https://en.wikipedia.org/wiki/Trophic_level).** This is why we have billions of blades of grass, fewer rabbits, and only one or two [hawks](https://en.wikipedia.org/wiki/Hawk). 
+
+![An energy pyramid models the "10% tax" of ecosystems, showing how the vast majority of energy is lost as heat at each trophic level, severely limiting the number of top predators an environment can support.](https://wikipedia.org/wiki/Special:Redirect/file/Ecological_Pyramid.svg)
 
 Eventually, everything dies. Enter the cleanup crew: **[Decomposers](https://en.wikipedia.org/wiki/Decomposer) break down dead organisms.** Who are they? **[Fungi](https://en.wikipedia.org/wiki/Fungus) and [bacteria](https://en.wikipedia.org/wiki/Bacteria) are common examples of decomposers.** Their job is crucial because **decomposers return nutrients to the soil.** (Notice I said *nutrients*, not energy! The energy was lost as [heat](https://en.wikipedia.org/wiki/Heat), but the chemical building blocks are recycled).
 
 *Pedagogical Tool:* How do you prove this invisible cycle to kids? **Teachers can use sealed [terrariums](https://en.wikipedia.org/wiki/Terrarium) to model the continuous flow of matter in a [closed system](https://en.wikipedia.org/wiki/Closed_system).** If a sealed jar has a plant, some soil, moisture, and sunlight, the plant will survive for years. It recycles its own oxygen and carbon dioxide, proving that matter isn't created or destroyed—it just changes hands!
+
+![A sealed terrarium acts as a closed mesocosm, perfectly modeling how an ecosystem continuously recycles the same finite matter without any outside physical inputs.](https://wikipedia.org/wiki/Special:Redirect/file/Small_Form_Mesocosm_Figure.svg)
 
 ---
 
@@ -105,6 +117,8 @@ Here is how it flows:
 But what if the stimulus is dangerous, like a hot stove? If the signal goes all the way to the brain, you might get burned while the brain is "thinking" about it. 
 
 Nature built a shortcut. **A [reflex](https://en.wikipedia.org/wiki/Reflex) is an automatic and involuntary response to a sensory stimulus.** When you touch a hot stove, **reflexes often bypass the brain.** Instead, **reflexes are often processed in the [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord) to allow for faster reactions.** The spinal cord acts like an emergency switchboard—it instantly fires the muscles to pull the hand back before the brain even realizes you were burned!
+
+![A reflex arc acts as a shortcut, bypassing the brain to process sensory stimuli directly in the spinal cord, enabling an immediate, involuntary muscular response to danger.](https://wikipedia.org/wiki/Special:Redirect/file/Improved_General_Reflex_Diagram.png)
 
 ### The Software Update: Memory
 Finally, how do organisms learn? **[Memory](https://en.wikipedia.org/wiki/Memory) allows animals to store information from past sensory experiences.** When a [bird](https://en.wikipedia.org/wiki/Bird) eats a bright orange [butterfly](https://en.wikipedia.org/wiki/Butterfly) and it tastes terrible, the brain saves that data. **Animals use stored memories to guide future [behaviors](https://en.wikipedia.org/wiki/Behavior).** The next time the bird’s eye receptors send an "orange butterfly" electrical signal to the brain, the brain accesses its memory bank and sends a response signal to fly away instead of attacking.

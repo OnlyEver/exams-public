@@ -19,6 +19,9 @@ Your students will hear their parents grumbling about "taxes" as if it is one gi
 
 1. **[Income Taxes](https://en.wikipedia.org/wiki/Income_tax):** These are levied on the financial earnings of individuals and [corporations](https://en.wikipedia.org/wiki/Corporation). If you earn a [paycheck](https://en.wikipedia.org/wiki/Paycheck), the government takes a percentage to fund federal and state operations.
 2. **[Sales Taxes](https://en.wikipedia.org/wiki/Sales_tax):** These are [consumption taxes](https://en.wikipedia.org/wiki/Consumption_tax) imposed on the sale of [retail](https://en.wikipedia.org/wiki/Retail) goods and services. When a student buys a toy for \$10, but the cashier asks for \$10.80, they are experiencing a sales tax.
+
+![A standard store receipt highlighting a sales tax charge, representing a direct consumption tax levied on retail transactions.](https://wikipedia.org/wiki/Special:Redirect/file/Receipt_California_restaurant_2006.jpg)
+
 3. **[Property Taxes](https://en.wikipedia.org/wiki/Property_tax):** These are assessed on the financial value of [real estate](https://en.wikipedia.org/wiki/Real_estate) ([land](https://en.wikipedia.org/wiki/Land_%28economics%29) and homes). 
 
 **Why this matters to YOU:** Here is a reality of your future profession—**[local governments](https://en.wikipedia.org/wiki/Local_government) primarily use property taxes to fund local public schools.** When your students ask why the school across town has a brand-new science lab and yours doesn't, the answer is often rooted in property taxes. Schools in neighborhoods with high real estate values collect more property tax revenue than schools in poorer neighborhoods. 
@@ -34,6 +37,8 @@ One of the most vital distinctions in macroeconomics is the difference between t
 > 
 > *How to teach it:* Use a [credit card](https://en.wikipedia.org/wiki/Credit_card) analogy. If you earn \$100 this year but spend \$120, you have a **deficit** of \$20 for the year. If you do this for five years in a row, your total **debt** is \$100. The deficit is the *yearly* shortfall; the debt is the *grand total* you owe!
 
+![The National Debt Clock in New York City tracks the continuously accumulating total of the United States government's past budget deficits.](https://wikipedia.org/wiki/Special:Redirect/file/Usa_national_debt_20_April_2012.JPG)
+
 ---
 
 ## 2. The Magic of Money: Currency and the Federal Reserve
@@ -44,6 +49,8 @@ Historically, [money](https://en.wikipedia.org/wiki/Money) was backed by [precio
 
 > **Fiat Currency** has value purely because a government declares the currency is [legal tender](https://en.wikipedia.org/wiki/Legal_tender). **Fiat currency is not backed by physical [commodities](https://en.wikipedia.org/wiki/Commodity) like [gold](https://en.wikipedia.org/wiki/Gold) or [silver](https://en.wikipedia.org/wiki/Silver).** 
 
+![Fiat currency holds value by government decree. U.S. paper money explicitly states that it is "legal tender for all debts, public and private," demonstrating the government's enforcement of trust in the money supply.](https://wikipedia.org/wiki/Special:Redirect/file/Detail_of_a_Series_1950_%2410_FRN%2C_showing_legal_tender_phrase.jpg)
+
 It works because we all collectively agree to trust it, and the government enforces that trust. But who manages this delicate balancing act? Enter the "[Fed](https://en.wikipedia.org/wiki/Federal_Reserve)."
 
 ### The Federal Reserve System
@@ -52,6 +59,8 @@ It works because we all collectively agree to trust it, and the government enfor
 2. **The Federal Reserve regulates the United States money supply to keep [consumer prices](https://en.wikipedia.org/wiki/Consumer_price_index) stable** (fighting [inflation](https://en.wikipedia.org/wiki/Inflation)). 
 
 To do this, it needs a massive reach. **The Federal Reserve System structure includes a central [Board of Governors](https://en.wikipedia.org/wiki/Federal_Reserve_Board_of_Governors)** (sitting in [Washington D.C.](https://en.wikipedia.org/wiki/Washington%2C_D.C.), setting the rules) and **includes twelve regional [Federal Reserve Banks](https://en.wikipedia.org/wiki/Federal_Reserve_Bank)** scattered across the country to monitor local economies.
+
+![A map illustrating the twelve regional Federal Reserve Districts and their respective bank locations across the United States.](https://wikipedia.org/wiki/Special:Redirect/file/Federal_Reserve_Districts_Map_-_Banks_%26_Branches.png)
 
 ### Who Actually Makes the Money?
 Here is where your students will trip up.
@@ -87,6 +96,8 @@ When you look at the ledger between two countries, you might find a trade defici
 >
 > *How to teach it:* Ask your students to imagine buying groceries. When they give the store \$50 and take home food, they have a "trade deficit" with the grocery store (they bought more from the store than the store bought from them). But they aren't losing wealth! They traded paper money for something they actually wanted to [consume](https://en.wikipedia.org/wiki/Consumption_%28economics%29). A trade deficit simply means a country is choosing to buy a lot of foreign goods with its [currency](https://en.wikipedia.org/wiki/Currency). 
 
+![A historical graph of the United States trade balance over time, illustrating periods where the financial value of imports exceeded exports, generating a trade deficit.](https://wikipedia.org/wiki/Special:Redirect/file/US_Trade_Balance_from_1960.svg)
+
 ### The Shield of Tariffs
 Sometimes, a government wants to protect its own workers. Let's say American [steelmakers](https://en.wikipedia.org/wiki/Steelmaking) are losing their jobs because imported [steel](https://en.wikipedia.org/wiki/Steel) from overseas is incredibly cheap. The government might intervene by using a tariff.
 
@@ -103,6 +114,8 @@ Who are the biggest players in our trade network? Look at our borders and across
 When we look at our globally interdependent world, we see that not all nations are playing with the same resources. We generally categorize countries into two groups: [developed](https://en.wikipedia.org/wiki/Developed_country) and [developing nations](https://en.wikipedia.org/wiki/Developing_country). 
 
 How do [economists](https://en.wikipedia.org/wiki/Economist) tell the difference? They don't just guess based on how modern the cities look. **Economists use [Gross Domestic Product](https://en.wikipedia.org/wiki/Gross_domestic_product) (GDP) per capita as a primary metric to distinguish between developed and developing nations.** (GDP per capita is the total value of all goods and services produced in a country, divided by the number of people who live there). 
+
+![A global map categorizing nations by Gross Domestic Product (GDP) per capita, visualizing the economic metric primarily used to distinguish between developed and developing economies.](https://wikipedia.org/wiki/Special:Redirect/file/Map_of_countries_by_GDP_(PPP)_per_capita_in_2024.svg)
 
 Let's look at the distinguishing features:
 

@@ -1,6 +1,6 @@
-Welcome! Pull up a chair. Let’s talk about one of the most fascinating, high-stakes games of physics and [biology](https://en.wikipedia.org/wiki/Biology) you will ever play as a [nurse](https://en.wikipedia.org/wiki/Nursing): **Infection Control**. 
+Welcome! Pull up a chair. Let’s talk about one of the most fascinating, high-stakes games of [physics](https://en.wikipedia.org/wiki/Physics) and [biology](https://en.wikipedia.org/wiki/Biology) you will ever play as a [nurse](https://en.wikipedia.org/wiki/Nursing): **[Infection Control](https://en.wikipedia.org/wiki/Infection_prevention_and_control)**. 
 
-Now, a lot of textbooks treat infection control like a boring list of arbitrary rules. Put this mask on. Wash your hands. Stand over there. But if you just memorize rules, you’ll forget them the moment you're stressed on the [NCLEX-PN](https://en.wikipedia.org/wiki/NCLEX). Instead, I want you to look at infection control the way a physicist looks at the universe. We are dealing with invisible particles, [fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics), gravity, and airflow. Once you understand *how* the microscopic world moves, the rules become simple, intuitive common sense. 
+Now, a lot of textbooks treat infection control like a boring list of arbitrary rules. Put this mask on. Wash your hands. Stand over there. But if you just memorize rules, you’ll forget them the moment you're stressed on the [NCLEX-PN](https://en.wikipedia.org/wiki/NCLEX). Instead, I want you to look at infection control the way a physicist looks at the universe. We are dealing with invisible particles, [fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics), [gravity](https://en.wikipedia.org/wiki/Gravity), and [airflow](https://en.wikipedia.org/wiki/Airflow). Once you understand *how* the microscopic world moves, the rules become simple, intuitive common sense. 
 
 Let's dive in.
 
@@ -8,10 +8,10 @@ Let's dive in.
 
 ## The Big Picture: Medical vs. Surgical Asepsis
 
-Before we talk about masks and gloves, we have to understand our goal. In nursing, we have two different levels of "clean." Think of them as two different mathematical thresholds.
+Before we talk about masks and [gloves](https://en.wikipedia.org/wiki/Medical_glove), we have to understand our goal. In nursing, we have two different levels of "clean." Think of them as two different mathematical thresholds.
 
-1. **Medical asepsis** is about *reduction*. It **reduces the number of [pathogens](https://en.wikipedia.org/wiki/Pathogen) and prevents their transfer**. You use medical asepsis when you wash your hands, wipe down a [stethoscope](https://en.wikipedia.org/wiki/Stethoscope), or put on a pair of clean gloves. You aren't killing every single microbe in the room; you're just knocking their numbers down so far that they can't effectively cause trouble. 
-2. **Surgical asepsis** is the nuclear option. It **eliminates all [microorganisms](https://en.wikipedia.org/wiki/Microorganism) from an object or an area**. Zero [microbes](https://en.wikipedia.org/wiki/Microorganism). None. We use this when we bypass the body's natural defenses, like inserting a [urinary catheter](https://en.wikipedia.org/wiki/Urinary_catheterization) or doing wound care. 
+1. **[Medical asepsis](https://en.wikipedia.org/wiki/Asepsis)** is about *reduction*. It **reduces the number of [pathogens](https://en.wikipedia.org/wiki/Pathogen) and prevents their transfer**. You use medical asepsis when you wash your hands, wipe down a [stethoscope](https://en.wikipedia.org/wiki/Stethoscope), or put on a pair of clean gloves. You aren't killing every single microbe in the room; you're just knocking their numbers down so far that they can't effectively cause trouble. 
+2. **[Surgical asepsis](https://en.wikipedia.org/wiki/Aseptic_technique)** is the nuclear option. It **eliminates all [microorganisms](https://en.wikipedia.org/wiki/Microorganism) from an object or an area**. Zero [microbes](https://en.wikipedia.org/wiki/Microorganism). None. We use this when we bypass the body's natural defenses, like inserting a [urinary catheter](https://en.wikipedia.org/wiki/Urinary_catheterization) or doing wound care. 
 
 Keep this distinction in your head: Medical asepsis is "clean." Surgical asepsis is "[sterile](https://en.wikipedia.org/wiki/Sterilization_%28microbiology%29)."
 
@@ -21,41 +21,53 @@ Keep this distinction in your head: Medical asepsis is "clean." Surgical asepsis
 
 Here is a brilliant rule of thumb for your nursing career: *Assume everyone is carrying something invisible.* 
 
-**Standard precautions apply to all clients regardless of their [diagnosis](https://en.wikipedia.org/wiki/Medical_diagnosis) or presumed infection status.** It doesn't matter if they are in the hospital for a broken toe or a heart attack. You treat their [bodily fluids](https://en.wikipedia.org/wiki/Body_fluid) with the exact same respect you would treat a known pathogen. 
+**[Standard precautions](https://en.wikipedia.org/wiki/Universal_precautions) apply to all clients regardless of their [diagnosis](https://en.wikipedia.org/wiki/Medical_diagnosis) or presumed infection status.** It doesn't matter if they are in the hospital for a broken toe or a [heart attack](https://en.wikipedia.org/wiki/Myocardial_infarction). You treat their [bodily fluids](https://en.wikipedia.org/wiki/Body_fluid) with the exact same respect you would treat a known pathogen. 
 
 ### The Hand Hygiene Rulebook
-At the core of standard precautions is hand hygiene. **Standard precautions require hand hygiene before and after client contact.** But *how* do we clean them? This is where a little biology helps.
+At the core of standard precautions is [hand hygiene](https://en.wikipedia.org/wiki/Hand_washing). **Standard precautions require hand hygiene before and after client contact.** But *how* do we clean them? This is where a little biology helps.
 
-*   **[Alcohol-based hand rub](https://en.wikipedia.org/wiki/Hand_sanitizer) is the preferred method of hand hygiene when hands are not visibly soiled.** Why? Because alcohol rapidly denatures the [proteins](https://en.wikipedia.org/wiki/Protein) of most [bacteria](https://en.wikipedia.org/wiki/Bacteria) and [viruses](https://en.wikipedia.org/wiki/Virus), obliterating them on contact. It's fast, efficient, and protects your skin better than constant scrubbing.
+*   **[Alcohol-based hand rub](https://en.wikipedia.org/wiki/Hand_sanitizer) is the preferred method of hand hygiene when hands are not visibly soiled.** Why? Because alcohol rapidly [denatures](https://en.wikipedia.org/wiki/Denaturation_%28biochemistry%29) the [proteins](https://en.wikipedia.org/wiki/Protein) of most [bacteria](https://en.wikipedia.org/wiki/Bacteria) and [viruses](https://en.wikipedia.org/wiki/Virus), obliterating them on contact. It's fast, efficient, and protects your skin better than constant scrubbing.
 *   However, if you have actual gunk on your hands—[blood](https://en.wikipedia.org/wiki/Blood), dirt, [mucus](https://en.wikipedia.org/wiki/Mucus)—alcohol can't penetrate it. **Handwashing with soap and water is required when a healthcare worker's hands are visibly soiled.** You need the mechanical friction of soap and water to physically lift and wash the soil down the drain.
+
+![Microbial growth on an agar plate demonstrates the efficacy of medical asepsis: unwashed hands (A), hands washed with soap and water (B), and hands disinfected with an alcohol-based rub (C).](https://wikipedia.org/wiki/Special:Redirect/file/Hand_desinfection_test_with_blood_agar_plate.jpg)
 
 > **The [Clostridioides difficile](https://en.wikipedia.org/wiki/Clostridioides_difficile) (C. diff) Exception:** 
 > *C. diff* is a nasty gut bacteria that causes severe [diarrhea](https://en.wikipedia.org/wiki/Diarrhea). It has a superpower: it creates [spores](https://en.wikipedia.org/wiki/Endospore). Think of spores as microscopic armored tanks. **Alcohol-based hand rubs do not eliminate Clostridioides difficile spores.** The alcohol just makes them wet; they survive entirely unharmed! Therefore, **handwashing with soap and water is required after caring for a client infected with Clostridioides difficile.** The physical friction of handwashing is the only way to send those armored tanks down the sink.
 
+![Bacterial endospores (stained green) are highly resilient, dormant structures that act like armor, allowing the bacteria to easily survive exposure to alcohol-based sanitizers.](https://wikipedia.org/wiki/Special:Redirect/file/Bacillus_subtilis_Spore.jpg)
+
 ### Gloves and Sharps
 *   **Standard precautions require wearing gloves when there is a risk of touching blood or body fluids.** 
-*   When dealing with sharps, remember that gravity and mechanics are your friends, but rushing is your enemy. **Used [needles](https://en.wikipedia.org/wiki/Hypodermic_needle) must be disposed of immediately in a puncture-resistant, leak-proof sharps container.** 
+*   When dealing with sharps, remember that gravity and mechanics are your friends, but rushing is your enemy. **Used [needles](https://en.wikipedia.org/wiki/Hypodermic_needle) must be disposed of immediately in a puncture-resistant, leak-proof [sharps container](https://en.wikipedia.org/wiki/Sharps_container).** 
+
+![A puncture-resistant, leak-proof sharps container. Relying on mechanics and gravity, used needles must be deposited immediately into this bin without the risk of two-handed recapping.](https://wikipedia.org/wiki/Special:Redirect/file/Sharpsmart_Resuable_Sharps_Container.jpg)
+
 *   **Contaminated needles must never be recapped using two hands.** Why? Because one tiny miscalculation of distance, and you've stabbed your non-dominant hand. 
-*   What about all the bloody gauze and saturated bandages? **Biomedical waste heavily soiled with liquid or semi-liquid blood must be placed in a red biohazard bag.**
+*   What about all the bloody gauze and saturated bandages? **[Biomedical waste](https://en.wikipedia.org/wiki/Biomedical_waste) heavily soiled with liquid or semi-liquid blood must be placed in a red [biohazard bag](https://en.wikipedia.org/wiki/Biological_hazard).**
 
 ---
 
 ## Transmission-Based Precautions: The Invisible Trajectories
 
-When we know (or suspect) a client has a highly contagious pathogen, we layer **Transmission-Based Precautions** on top of Standard Precautions. 
+When we know (or suspect) a client has a highly contagious pathogen, we layer **[Transmission-Based Precautions](https://en.wikipedia.org/wiki/Transmission-based_precautions)** on top of Standard Precautions. 
 
 To master these for the NCLEX, you just have to ask yourself one question: *How heavy is the pathogen?*
 
 ### 1. Airborne Precautions: The Floaters
-**Airborne precautions prevent transmission of infectious agents that remain suspended in the air over long distances.** These are the tiny, ultra-lightweight particles. When the client breathes or coughs, these microbes float around the room on air currents like dandelion seeds. 
+**[Airborne precautions](https://en.wikipedia.org/wiki/Airborne_disease) prevent transmission of infectious agents that remain suspended in the air over long distances.** These are the tiny, ultra-lightweight particles. When the client breathes or coughs, these microbes float around the room on air currents like dandelion seeds. 
 
-*   **The Pathogens:** **Tuberculosis, [Measles](https://en.wikipedia.org/wiki/Measles), and [Varicella](https://en.wikipedia.org/wiki/Chickenpox)** (Chickenpox). All three of these **require the implementation of airborne precautions**.
-*   **The Room (The Physics of Airflow):** Because the microbes float, they will drift out the door and down the hallway if you let them. To stop this, **airborne precautions require placing the client in a private, negative-pressure room.** Negative pressure is like a gentle vacuum; air flows *into* the room from the hallway, preventing the contaminated air from escaping. Furthermore, **a negative-pressure airborne infection isolation room must have at least six to twelve air exchanges per hour** to constantly filter the floating microbes out of the environment.
+*   **The Pathogens:** **[Tuberculosis](https://en.wikipedia.org/wiki/Tuberculosis), [Measles](https://en.wikipedia.org/wiki/Measles), and [Varicella](https://en.wikipedia.org/wiki/Chickenpox)** (Chickenpox). All three of these **require the implementation of airborne precautions**.
+*   **The Room (The Physics of Airflow):** Because the microbes float, they will drift out the door and down the hallway if you let them. To stop this, **airborne precautions require placing the client in a private, [negative-pressure room](https://en.wikipedia.org/wiki/Negative_room_pressure).** Negative pressure is like a gentle vacuum; air flows *into* the room from the hallway, preventing the contaminated air from escaping. Furthermore, **a negative-pressure airborne infection isolation room must have at least six to twelve [air exchanges per hour](https://en.wikipedia.org/wiki/Air_changes_per_hour)** to constantly filter the floating microbes out of the environment.
+
+![A schematic of a negative-pressure isolation room. Lower air pressure inside the room actively pulls air inward from the corridor (blue arrows), preventing floating, lightweight pathogens from escaping into the facility.](https://wikipedia.org/wiki/Special:Redirect/file/Negative_room.svg)
+
 *   **Your Armor:** A standard [surgical mask](https://en.wikipedia.org/wiki/Surgical_mask) won't cut it—the particles are too small and will slip right through the gaps. **Healthcare workers must wear an [N95 respirator](https://en.wikipedia.org/wiki/N95_respirator) or higher-level mask when entering an airborne precaution room.** 
 *   **Transporting the Client:** If the client must leave the room for a test, we don't put them in an N95. Instead, **clients on airborne precautions must wear a surgical mask when being transported outside their [isolation room](https://en.wikipedia.org/wiki/Isolation_%28health_care%29).** We just need to trap their exhalations at the source!
 
 ### 2. Droplet Precautions: The Heavy Splashers
-**[Droplet precautions](https://en.wikipedia.org/wiki/Respiratory_droplet) prevent transmission of pathogens spread through close respiratory or mucous membrane contact with respiratory secretions.** These microbes travel in heavier droplets of [saliva](https://en.wikipedia.org/wiki/Saliva) and mucus. Think of them like tiny water balloons. When the client coughs or sneezes, the droplets fly out, but because they are heavy, gravity pulls them down within about 3 to 6 feet. They don't float.
+**[Droplet precautions](https://en.wikipedia.org/wiki/Respiratory_droplet) prevent transmission of pathogens spread through close respiratory or [mucous membrane](https://en.wikipedia.org/wiki/Mucous_membrane) contact with respiratory secretions.** These microbes travel in heavier droplets of [saliva](https://en.wikipedia.org/wiki/Saliva) and mucus. Think of them like tiny water balloons. When the client coughs or sneezes, the droplets fly out, but because they are heavy, gravity pulls them down within about 3 to 6 feet. They don't float.
+
+![Unlike aerosolized airborne particles, respiratory droplets expelled during a sneeze are relatively heavy. Gravity quickly pulls them to the ground, strictly limiting their infection radius to a few feet.](https://wikipedia.org/wiki/Special:Redirect/file/Sneeze.JPG)
 
 *   **The Pathogens:** **[Influenza](https://en.wikipedia.org/wiki/Influenza), [Pertussis](https://en.wikipedia.org/wiki/Whooping_cough) (Whooping Cough), and [Mumps](https://en.wikipedia.org/wiki/Mumps)** all **require the implementation of droplet precautions.**
 *   **Your Armor:** Because these droplets are heavy and just need to be blocked from splashing into your nose or mouth, **droplet precautions require healthcare workers to wear a surgical mask.** And don't wait until you're at the bedside! **Healthcare workers must don a surgical mask upon entering the room of a client on droplet precautions.**
@@ -64,9 +76,9 @@ To master these for the NCLEX, you just have to ask yourself one question: *How 
 ### 3. Contact Precautions: The Hitchhikers
 **Contact precautions prevent transmission of infectious agents spread by direct or indirect contact with the client or the client's environment.** These pathogens don't fly, and they don't splash. They wait on surfaces. They are hitchhikers looking for a ride on your hands, your [scrubs](https://en.wikipedia.org/wiki/Scrubs_%28clothing%29), or your stethoscope.
 
-*   **The Pathogens:** **[Methicillin-resistant Staphylococcus aureus](https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus) (MRSA), Vancomycin-resistant enterococci (VRE), Clostridioides difficile, and [Scabies](https://en.wikipedia.org/wiki/Scabies)** all **require the implementation of contact precautions.** 
+*   **The Pathogens:** **[Methicillin-resistant Staphylococcus aureus](https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus) (MRSA), [Vancomycin-resistant enterococci](https://en.wikipedia.org/wiki/Vancomycin-resistant_Enterococcus) (VRE), Clostridioides difficile, and [Scabies](https://en.wikipedia.org/wiki/Scabies)** all **require the implementation of contact precautions.** 
 *   **Your Armor:** To prevent these hitchhikers from latching onto your clothes, **contact precautions require healthcare workers to wear a gown and gloves upon entering the room.**
-*   **The Environment:** If you bring a blood pressure cuff into a MRSA room and then take it to the next client, you've just acted as a free taxi service for the bacteria. Therefore, **dedicated disposable medical equipment must be used for clients on contact precautions to prevent environmental spread.** If you absolutely must use a reusable piece of gear, **reusable medical equipment used for a client on contact precautions must be disinfected before use on another client.**
+*   **The Environment:** If you bring a [blood pressure cuff](https://en.wikipedia.org/wiki/Sphygmomanometer) into a MRSA room and then take it to the next client, you've just acted as a free taxi service for the bacteria. Therefore, **dedicated disposable medical equipment must be used for clients on contact precautions to prevent environmental spread.** If you absolutely must use a reusable piece of gear, **reusable medical equipment used for a client on contact precautions must be [disinfected](https://en.wikipedia.org/wiki/Disinfectant) before use on another client.**
 
 ---
 
@@ -79,7 +91,7 @@ You start from the bottom/base and build up, securing the dirtiest tasks last.
 **The correct sequence for donning personal protective equipment is:**
 1. **Gown** (Covers your largest surface area).
 2. **Mask or respirator** (Secures your [airway](https://en.wikipedia.org/wiki/Respiratory_tract)).
-3. **[Goggles](https://en.wikipedia.org/wiki/Goggles) or face shield** (Protects your eyes).
+3. **[Goggles](https://en.wikipedia.org/wiki/Goggles) or [face shield](https://en.wikipedia.org/wiki/Face_shield)** (Protects your eyes).
 4. **Gloves** (Goes on last so they can pull *over* the cuffs of the gown, sealing the gap).
 
 ### Doffing (Taking it off)
@@ -94,7 +106,7 @@ When taking it off, you remove the most contaminated items first, but you *prote
 
 ## The Rules of the "Lava" Game: Surgical Asepsis
 
-Setting up a sterile field is a lot like playing "The floor is lava," except the lava is microscopic bacteria, and the rules are absolute. Remember, **surgical asepsis eliminates *all* microorganisms**. If you break a rule, the field is considered contaminated, and you must start over. No exceptions. No "five-second rule."
+Setting up a [sterile field](https://en.wikipedia.org/wiki/Aseptic_technique) is a lot like playing "The floor is lava," except the lava is microscopic bacteria, and the rules are absolute. Remember, **surgical asepsis eliminates *all* microorganisms**. If you break a rule, the field is considered contaminated, and you must start over. No exceptions. No "five-second rule."
 
 ### Rule 1: Like touches like.
 **A sterile object remains sterile only when touched by another sterile object.** If your sterile gloved hand touches a sterile gauze pad, it's sterile. If your bare finger touches it, it's contaminated. 
@@ -113,6 +125,8 @@ When you open a sterile kit, you have to peel back the folded flaps. **Sterile p
 
 ### Rule 5: The Physics of Fluids (Capillary Action)
 If you set your sterile paper drape on a wet bedside table, what happens? The liquid seeps up through the paper. This is called [capillary action](https://en.wikipedia.org/wiki/Capillary_action). Water acts as a microscopic highway, allowing bacteria from the dirty table to swim right up to the sterile surface. Therefore, **moisture drawn through a sterile drape by capillary action contaminates the sterile field.** 
+
+![Capillary action demonstrates how liquid can naturally travel upward through a porous material against gravity. In surgical asepsis, this same principle dictates that a wet surface will draw contaminants right up through a sterile paper drape.](https://wikipedia.org/wiki/Special:Redirect/file/Capillary_flow_brick.jpg)
 
 If you are pouring a sterile liquid (like [sterile saline](https://en.wikipedia.org/wiki/Saline_%28medicine%29)) into a sterile basin, you do a trick called "lipping." **Liquids must be lipped by pouring a small amount into a disposable receptacle before pouring into a sterile container.** Why? This flushes away any ambient dust or microbes resting on the very lip of the bottle, ensuring the liquid you pour into your field is purely sterile.
 
