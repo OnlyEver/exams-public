@@ -1,0 +1,950 @@
+{
+  "exam": {
+    "name": "Social Studies: Content Knowledge (5081)",
+    "code": "5081",
+    "provider": "ETS",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-05",
+    "generated_date": "2026-04-05",
+    "category_name": "Teacher Certification",
+    "category_slug": "teacher-certification",
+    "category_description": "Exam-aligned prep for prospective secondary social studies teachers with syllabus-mapped coverage across United States history, world history, government and civics, geography, economics, and behavioral sciences—including how ideas connect across disciplines.",
+    "exam_slug": "praxis-5081",
+    "theme_color": "#0E7490",
+    "hero_headline": "Pass Praxis 5081 with social studies mapped to the official objectives",
+    "hero_subheadline": "Study U.S. and world history, civics, geography, economics, and behavioral sciences in focused 15-minute topics aligned to the ETS Study Companion.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most Praxis social studies prep either stays shallow across six domains or piles facts without the cross-topic structure the exam expects.",
+    "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure.",
+    "learner_profile": "Aspiring secondary social studies teacher preparing for selected-response items spanning U.S. history, world history, government/civics, geography, economics, and behavioral sciences. Benefits from maps, timelines, and cause–effect framing across content areas."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "united-states-history",
+      "title": "United States History",
+      "weight": 0.2,
+      "description": "Topics covering North American geography, history, and culture from pre-colonization through modern times.",
+      "directory": "01-united-states-history",
+      "topics": [
+        {
+          "order": 1,
+          "id": "pre-columbian-north-america",
+          "title": "Pre-Columbian North America",
+          "directory": "01-pre-columbian-north-america",
+          "path": "01-united-states-history/01-pre-columbian-north-america",
+          "description": "Examine the geography, peoples, and cultures of North America prior to European colonization.",
+          "learning_objectives": [
+            "Understand basic North American geography.",
+            "Identify major Native American groups and their settlement patterns before European contact.",
+            "Describe the diverse cultures and societies of indigenous peoples."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/precontact-and-early-colonial-era",
+            "https://www.nps.gov/subjects/heritageinitiatives/native-american-heritage.htm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "european-colonies-in-north-america",
+          "title": "European Colonies in North America",
+          "directory": "02-european-colonies-in-north-america",
+          "path": "01-united-states-history/02-european-colonies-in-north-america",
+          "description": "Understand how and why European colonies were founded and developed in North America.",
+          "learning_objectives": [
+            "Identify the economic and religious factors that attracted Europeans to North America.",
+            "Describe the establishment of Spanish, French, and English colonies.",
+            "Compare and contrast the development of different colonial regions."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/colonial-america",
+            "https://www.gilderlehrman.org/history-resources"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "colonial-interactions",
+          "title": "Colonial Interactions",
+          "directory": "03-colonial-interactions",
+          "path": "01-united-states-history/03-colonial-interactions",
+          "description": "Explore the interactions among European, African, and Native American peoples during the colonial period.",
+          "learning_objectives": [
+            "Explain the dynamics between European settlers and Native American groups.",
+            "Understand the origins and impact of the transatlantic slave trade and African enslavement in the colonies.",
+            "Analyze the cultural exchanges and conflicts that occurred in early colonial America."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/colonial-america"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "origins-of-the-american-revolution",
+          "title": "Origins of the American Revolution",
+          "directory": "04-origins-of-the-american-revolution",
+          "path": "01-united-states-history/04-origins-of-the-american-revolution",
+          "description": "Analyze the causes of the American Revolution and its impact on the founding of the United States.",
+          "learning_objectives": [
+            "Identify key events and policies that led to colonial rebellion against British rule.",
+            "Understand the principles outlined in the Declaration of Independence.",
+            "Describe the immediate impact of the Revolution on the formation of a new government."
+          ],
+          "references": [
+            "https://www.archives.gov/founding-docs/declaration",
+            "https://www.khanacademy.org/humanities/us-history/road-to-revolution"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "constitution-and-bill-of-rights",
+          "title": "The US Constitution and Bill of Rights",
+          "directory": "05-constitution-and-bill-of-rights",
+          "path": "01-united-states-history/05-constitution-and-bill-of-rights",
+          "description": "Study the drafting, context, and political impact of the US Constitution and the Bill of Rights.",
+          "learning_objectives": [
+            "Explain the failures of the Articles of Confederation that led to the Constitutional Convention.",
+            "Describe major compromises made during the drafting of the Constitution, such as the Great Compromise.",
+            "Understand the arguments between Federalists and Anti-Federalists regarding ratification."
+          ],
+          "references": [
+            "https://www.archives.gov/founding-docs/constitution",
+            "https://constitutioncenter.org/interactive-constitution"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "territorial-expansion",
+          "title": "Territorial Expansion",
+          "directory": "06-territorial-expansion",
+          "path": "01-united-states-history/06-territorial-expansion",
+          "description": "Understand the causes and consequences of US territorial expansion and Manifest Destiny.",
+          "learning_objectives": [
+            "Describe the concept of Manifest Destiny and its justification for expansion.",
+            "Identify major territorial acquisitions, such as the Louisiana Purchase and the Mexican Cession.",
+            "Analyze the impact of westward expansion on the US economy and Native American populations."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/the-early-republic"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "sectionalism-and-the-civil-war",
+          "title": "Sectionalism and the Civil War",
+          "directory": "07-sectionalism-and-the-civil-war",
+          "path": "01-united-states-history/07-sectionalism-and-the-civil-war",
+          "description": "Examine the causes and consequences of 19th-century sectionalism and the Civil War.",
+          "learning_objectives": [
+            "Trace the long-term economic and political developments that contributed to regional sectionalism.",
+            "Understand the role of slavery as the primary catalyst for the Civil War.",
+            "Identify key figures, compromises, and turning points of the Civil War."
+          ],
+          "references": [
+            "https://www.battlefields.org/learn/civil-war",
+            "https://www.khanacademy.org/humanities/us-history/civil-war-era"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "reconstruction",
+          "title": "Reconstruction",
+          "directory": "08-reconstruction",
+          "path": "01-united-states-history/08-reconstruction",
+          "description": "Review the Reconstruction era, including its successes and failures in reuniting the nation.",
+          "learning_objectives": [
+            "Describe the political and social goals of the Reconstruction era.",
+            "Understand the significance of the 13th, 14th, and 15th Amendments.",
+            "Analyze the eventual collapse of Reconstruction and the rise of Jim Crow laws."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/civil-war-era/reconstruction"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "industrialization-and-urbanization",
+          "title": "Industrialization and Urbanization",
+          "directory": "09-industrialization-and-urbanization",
+          "path": "01-united-states-history/09-industrialization-and-urbanization",
+          "description": "Analyze the relationships among industrialization, urbanization, and immigration in the late 19th and early 20th centuries.",
+          "learning_objectives": [
+            "Explain the conditions that led to the rapid industrialization of the US.",
+            "Describe the impact of changing immigration patterns on urban areas and the labor force.",
+            "Analyze the social and economic challenges posed by rapid urban growth."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/the-gilded-age"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "the-progressive-era-to-new-deal",
+          "title": "The Progressive Era through the New Deal",
+          "directory": "10-the-progressive-era-to-new-deal",
+          "path": "01-united-states-history/10-the-progressive-era-to-new-deal",
+          "description": "Study political, economic, and social developments from the Progressive Era through the Great Depression and New Deal.",
+          "learning_objectives": [
+            "Identify key reform movements and legislative achievements of the Progressive Era.",
+            "Understand the economic factors that led to the Great Depression.",
+            "Evaluate the effectiveness and lasting legacy of Franklin D. Roosevelt's New Deal programs."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/rise-to-world-power"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "world-wars",
+          "title": "World War I and World War II",
+          "directory": "11-world-wars",
+          "path": "01-united-states-history/11-world-wars",
+          "description": "Understand the causes of US participation in WWI and WWII and the consequences at home and abroad.",
+          "learning_objectives": [
+            "Analyze the reasons for US entry into World War I and World War II.",
+            "Describe the economic and social mobilization on the American home front.",
+            "Assess the role of the US in Allied victories and the subsequent post-war settlements."
+          ],
+          "references": [
+            "https://www.nationalww2museum.org/students-teachers",
+            "https://www.theworldwar.org/learn"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "the-cold-war-era",
+          "title": "The Cold War Era",
+          "directory": "12-the-cold-war-era",
+          "path": "01-united-states-history/12-the-cold-war-era",
+          "description": "Examine the origins, development, and consequences of the Cold War both abroad and domestically.",
+          "learning_objectives": [
+            "Understand the ideological struggle between the US and the Soviet Union.",
+            "Identify key Cold War conflicts, including the Korean and Vietnam Wars.",
+            "Describe the domestic impact of the Cold War, including the Red Scare and the space race."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/postwarera"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "civil-rights-and-social-change",
+          "title": "Civil Rights and Social Change",
+          "directory": "13-civil-rights-and-social-change",
+          "path": "01-united-states-history/13-civil-rights-and-social-change",
+          "description": "Explore the struggles and achievements for greater political and civil rights, as well as broader social changes in the late 20th century.",
+          "learning_objectives": [
+            "Identify the major events, leaders, and legislative victories of the Civil Rights Movement.",
+            "Understand the ongoing impact of race, gender, and ethnicity throughout modern American history.",
+            "Evaluate the effects of late-20th-century counterculture, globalization, and the information age."
+          ],
+          "references": [
+            "https://www.nps.gov/subjects/civilrights/index.htm",
+            "https://www.khanacademy.org/humanities/us-history/postwarera/civil-rights-movement"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "modern-political-realignment",
+          "title": "Modern Political Realignment",
+          "directory": "14-modern-political-realignment",
+          "path": "01-united-states-history/14-modern-political-realignment",
+          "description": "Understand the political realignment from the New Deal and Great Society through the rise of modern conservatism.",
+          "learning_objectives": [
+            "Describe the domestic policies of the Great Society and their impacts.",
+            "Explain the factors that contributed to the rise of conservatism in the late 20th century.",
+            "Understand the evolving role of the US as a world power in contemporary times."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/us-history/modern-us"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "world-history",
+      "title": "World History",
+      "weight": 0.2,
+      "description": "Key themes and major historical developments in World History from classical civilizations to the post-Cold War world.",
+      "directory": "02-world-history",
+      "topics": [
+        {
+          "order": 1,
+          "id": "classical-civilizations",
+          "title": "Classical Civilizations (1000 BCE to 500 CE)",
+          "directory": "01-classical-civilizations",
+          "path": "02-world-history/01-classical-civilizations",
+          "description": "Examine the formation, organization, and interactions of Greece, Rome, Persia, India, and China.",
+          "learning_objectives": [
+            "Identify the foundational political and social structures of classical civilizations.",
+            "Describe the rise and fall of the Roman Empire and its contributions to Western society.",
+            "Understand the key institutions that arose from classical India and China."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/world-history/ancient-medieval"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "transformation-of-classical-civilizations",
+          "title": "Transformation of Classical Civilizations",
+          "directory": "02-transformation-of-classical-civilizations",
+          "path": "02-world-history/02-transformation-of-classical-civilizations",
+          "description": "Analyze how invasions, trade, and the spread of religions transformed societies from 300 to 1400 CE.",
+          "learning_objectives": [
+            "Explain the role of major world religions, including Islam, in shaping societies.",
+            "Describe the impacts of invasions and expanding trade networks in Europe and Asia.",
+            "Compare interactions between the Islamic world and Medieval Europe, including the Crusades."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/world-history/medieval-times"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "renaissance-through-enlightenment",
+          "title": "Renaissance through the Enlightenment",
+          "directory": "03-renaissance-through-enlightenment",
+          "path": "02-world-history/03-renaissance-through-enlightenment",
+          "description": "Trace major political, social, and economic developments in Europe from the Renaissance through the Enlightenment.",
+          "learning_objectives": [
+            "Describe the cultural and intellectual shifts of the Renaissance and Reformation.",
+            "Understand the core ideas of the Scientific Revolution and the Enlightenment.",
+            "Explain how Enlightenment ideas influenced subsequent global political changes."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/world-history/renaissance-and-reformation"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "global-interactions-and-colonization",
+          "title": "Global Interactions and Colonization (1200-1750 CE)",
+          "directory": "04-global-interactions-and-colonization",
+          "path": "02-world-history/04-global-interactions-and-colonization",
+          "description": "Study the causes and effects of growing global interactions, trade, and exploration.",
+          "learning_objectives": [
+            "Identify the economic and technological drivers of early global exploration.",
+            "Describe interactions between Mesoamerican cultures and early European explorers.",
+            "Assess the biological and economic consequences of global colonization."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/world-history/age-of-exploration"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "revolutions-and-nationalism",
+          "title": "Revolutions and Nationalism (1750-1914 CE)",
+          "directory": "05-revolutions-and-nationalism",
+          "path": "02-world-history/05-revolutions-and-nationalism",
+          "description": "Analyze the major causes and consequences of revolutions, nationalism, and imperialism.",
+          "learning_objectives": [
+            "Compare the causes, events, and effects of the American, French, and Latin American revolutions.",
+            "Describe the emergence and global impact of Western nationalism and imperialism.",
+            "Understand the onset and effects of the first Industrial Revolution."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/world-history/1600s-1800s"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "world-wars-and-cold-war",
+          "title": "World Wars and the Cold War",
+          "directory": "06-world-wars-and-cold-war",
+          "path": "02-world-history/06-world-wars-and-cold-war",
+          "description": "Examine the ideological, economic, and political elements of WWI, WWII, and the Cold War.",
+          "learning_objectives": [
+            "Identify the major causes and consequences of the First and Second World Wars.",
+            "Explain the emergence of totalitarian governments post-WWI.",
+            "Understand the global dynamics of the Cold War and the process of decolonization."
+          ],
+          "references": [
+            "https://www.khanacademy.org/humanities/world-history/euro-hist"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "post-cold-war-and-contemporary-world",
+          "title": "Post-Cold War and the Contemporary World",
+          "directory": "07-post-cold-war-and-contemporary-world",
+          "path": "02-world-history/07-post-cold-war-and-contemporary-world",
+          "description": "Understand major developments in the post-Cold War era, including globalization and demographic shifts.",
+          "learning_objectives": [
+            "Analyze the growth of a globalized economy and late twentieth-century global culture.",
+            "Examine the rise of fundamentalism and new nationalisms in the modern world.",
+            "Assess major demographic trends, technological innovations, and their societal impacts."
+          ],
+          "references": [
+            "https://www.un.org/en/global-issues",
+            "https://www.worldbank.org/en/understanding-poverty"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "government-civics-political-science",
+      "title": "Government/Civics/Political Science",
+      "weight": 0.2,
+      "description": "Political theory, United States government structures and processes, and comparative/international relations.",
+      "directory": "03-government-civics-political-science",
+      "topics": [
+        {
+          "order": 1,
+          "id": "political-theory",
+          "title": "Political Theory",
+          "directory": "01-political-theory",
+          "path": "03-government-civics-political-science/01-political-theory",
+          "description": "Understand foundational political concepts, theorists, and orientations.",
+          "learning_objectives": [
+            "Identify the main ideas of key political theorists like Locke, Hobbes, and Montesquieu.",
+            "Explain the differences between major political orientations, such as liberalism and conservatism.",
+            "Describe the underlying principles of different forms of government."
+          ],
+          "references": [
+            "https://plato.stanford.edu/entries/political-philosophy-history/",
+            "https://www.khanacademy.org/humanities/ap-us-government-and-politics"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "us-constitution-and-federalism",
+          "title": "US Constitution and Federalism",
+          "directory": "02-us-constitution-and-federalism",
+          "path": "03-government-civics-political-science/02-us-constitution-and-federalism",
+          "description": "Study the constitutional underpinnings and the system of federalism in the United States.",
+          "learning_objectives": [
+            "Analyze the distribution of power between national and state governments.",
+            "Understand the impact of landmark Supreme Court cases on constitutional interpretation.",
+            "Explain the principles of separation of powers and checks and balances."
+          ],
+          "references": [
+            "https://constitutioncenter.org/",
+            "https://www.oyez.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "us-national-institutions",
+          "title": "US National Institutions",
+          "directory": "03-us-national-institutions",
+          "path": "03-government-civics-political-science/03-us-national-institutions",
+          "description": "Examine the powers, structures, and processes of the legislative, executive, and judicial branches.",
+          "learning_objectives": [
+            "Identify the major differences between the two chambers of Congress.",
+            "Describe the extent of Presidential powers and the role of the executive bureaucracy.",
+            "Explain the structure and functioning of the federal judiciary."
+          ],
+          "references": [
+            "https://www.usa.gov/branches-of-government",
+            "https://www.khanacademy.org/humanities/ap-us-government-and-politics/interactions-among-branches-of-government"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "civil-liberties-and-civil-rights",
+          "title": "Civil Liberties and Civil Rights",
+          "directory": "04-civil-liberties-and-civil-rights",
+          "path": "03-government-civics-political-science/04-civil-liberties-and-civil-rights",
+          "description": "Explore the protections of civil liberties and the ongoing struggles for civil rights in the US.",
+          "learning_objectives": [
+            "Differentiate between civil liberties and civil rights.",
+            "Analyze how the Bill of Rights limits the power of the national government.",
+            "Evaluate landmark court rulings affecting civil rights in America."
+          ],
+          "references": [
+            "https://www.aclu.org/know-your-rights",
+            "https://www.khanacademy.org/humanities/ap-us-government-and-politics/civil-liberties-and-civil-rights"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "political-beliefs-and-behaviors",
+          "title": "Political Beliefs and the Electoral Process",
+          "directory": "05-political-beliefs-and-behaviors",
+          "path": "03-government-civics-political-science/05-political-beliefs-and-behaviors",
+          "description": "Understand how citizens participate in politics and how elections function in the United States.",
+          "learning_objectives": [
+            "Describe factors that influence public opinion and individual political participation.",
+            "Explain the roles of political parties, interest groups, and the mass media.",
+            "Outline the structures and processes of the US electoral system."
+          ],
+          "references": [
+            "https://www.fec.gov/",
+            "https://www.khanacademy.org/humanities/ap-us-government-and-politics/political-participation"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "comparative-politics-and-international-relations",
+          "title": "Comparative Politics and International Relations",
+          "directory": "06-comparative-politics-and-international-relations",
+          "path": "03-government-civics-political-science/06-comparative-politics-and-international-relations",
+          "description": "Examine major regime types, foreign policy, and theories of international relations.",
+          "learning_objectives": [
+            "Differentiate between parliamentary and presidential systems of government.",
+            "Identify the basic approaches to foreign policy and theories like realism and liberalism.",
+            "Understand the functions and problems of international organizations and international law."
+          ],
+          "references": [
+            "https://www.cfr.org/",
+            "https://www.un.org/en/model-united-nations/international-law"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "geography",
+      "title": "Geography",
+      "weight": 0.15,
+      "description": "Spatial organization, human-environment interactions, natural resources, and regional analysis.",
+      "directory": "04-geography",
+      "topics": [
+        {
+          "order": 1,
+          "id": "map-skills-and-spatial-patterns",
+          "title": "Map Skills and Spatial Patterns",
+          "directory": "01-map-skills-and-spatial-patterns",
+          "path": "04-geography/01-map-skills-and-spatial-patterns",
+          "description": "Understand map types, projections, and how to analyze spatial information.",
+          "learning_objectives": [
+            "Identify different map types and projections.",
+            "Recognize and interpret spatial patterns at local to global scales.",
+            "Locate and use sources of geographic data, such as the Census Bureau."
+          ],
+          "references": [
+            "https://education.nationalgeographic.org/resource/map",
+            "https://www.census.gov/geography.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "physical-processes-and-climate",
+          "title": "Physical Processes and Climate Patterns",
+          "directory": "02-physical-processes-and-climate",
+          "path": "04-geography/02-physical-processes-and-climate",
+          "description": "Analyze how physical processes, climate patterns, and natural hazards affect human societies.",
+          "learning_objectives": [
+            "Differentiate between weather and climate.",
+            "Explain how latitude, elevation, and ocean currents influence climate.",
+            "Understand the causes and effects of major natural hazards."
+          ],
+          "references": [
+            "https://climate.nasa.gov/",
+            "https://education.nationalgeographic.org/resource/climate"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "ecosystems-and-natural-resources",
+          "title": "Ecosystems and Natural Resources",
+          "directory": "03-ecosystems-and-natural-resources",
+          "path": "04-geography/03-ecosystems-and-natural-resources",
+          "description": "Study Earth's ecosystems and the use of renewable and nonrenewable resources.",
+          "learning_objectives": [
+            "Describe the characteristics and spatial distribution of Earth's ecosystems.",
+            "Understand the interrelationships between human populations and natural environments.",
+            "Distinguish between renewable and nonrenewable natural resources."
+          ],
+          "references": [
+            "https://education.nationalgeographic.org/resource/ecosystem",
+            "https://www.epa.gov/environmental-topics"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "human-geography-and-migration",
+          "title": "Human Geography, Culture, and Migration",
+          "directory": "04-human-geography-and-migration",
+          "path": "04-geography/04-human-geography-and-migration",
+          "description": "Explore spatial patterns of cultural activities, migration, and settlement.",
+          "learning_objectives": [
+            "Identify spatial patterns of ethnic, linguistic, and religious groups.",
+            "Understand the push and pull factors driving internal and international migration.",
+            "Read and interpret population pyramids to understand demographic change."
+          ],
+          "references": [
+            "https://www.prb.org/",
+            "https://education.nationalgeographic.org/resource/human-geography"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "economic-and-political-geography",
+          "title": "Economic and Political Geography",
+          "directory": "05-economic-and-political-geography",
+          "path": "04-geography/05-economic-and-political-geography",
+          "description": "Understand the spatial impacts of agriculture, industrialization, development, and state formation.",
+          "learning_objectives": [
+            "Explain the development and changing nature of agricultural practices.",
+            "Analyze the spatial impacts of contemporary globalization and industrialization.",
+            "Understand concepts of political geography, including borders, state formation, and conflict areas."
+          ],
+          "references": [
+            "https://www.fao.org/home/en/",
+            "https://education.nationalgeographic.org/resource/political-geography"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "economics",
+      "title": "Economics",
+      "weight": 0.15,
+      "description": "Microeconomic and macroeconomic principles, systems, measurement, and international trade.",
+      "directory": "05-economics",
+      "topics": [
+        {
+          "order": 1,
+          "id": "microeconomics-fundamentals",
+          "title": "Microeconomics Fundamentals",
+          "directory": "01-microeconomics-fundamentals",
+          "path": "05-economics/01-microeconomics-fundamentals",
+          "description": "Understand scarcity, opportunity costs, economic systems, and the laws of supply and demand.",
+          "learning_objectives": [
+            "Explain how scarcity forces choices and creates opportunity costs.",
+            "Identify different methods of economic organization and the factors of production.",
+            "Describe how the market price of a good is determined through supply and demand."
+          ],
+          "references": [
+            "https://www.khanacademy.org/economics-finance-domain/microeconomics"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "market-efficiency-and-firm-behavior",
+          "title": "Market Efficiency and Firm Behavior",
+          "directory": "02-market-efficiency-and-firm-behavior",
+          "path": "05-economics/02-market-efficiency-and-firm-behavior",
+          "description": "Analyze market efficiency, government intervention, and the behavior of competitive and monopolistic firms.",
+          "learning_objectives": [
+            "Understand the impact of taxes, subsidies, and price controls on market equilibrium.",
+            "Differentiate between explicit and implicit costs, and calculate various business costs.",
+            "Compare the characteristics of perfect competition, monopoly, and oligopoly."
+          ],
+          "references": [
+            "https://www.stlouisfed.org/education",
+            "https://www.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "macroeconomic-performance",
+          "title": "Macroeconomic Performance",
+          "directory": "03-macroeconomic-performance",
+          "path": "05-economics/03-macroeconomic-performance",
+          "description": "Examine how to measure economic health through GDP, unemployment, and inflation.",
+          "learning_objectives": [
+            "Describe the components of Gross Domestic Product (GDP) and its shortcomings.",
+            "Explain the causes, types, and measurement of unemployment.",
+            "Understand how the Consumer Price Index (CPI) measures inflation."
+          ],
+          "references": [
+            "https://www.bea.gov/",
+            "https://www.khanacademy.org/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "fiscal-and-monetary-policy",
+          "title": "Fiscal and Monetary Policy",
+          "directory": "04-fiscal-and-monetary-policy",
+          "path": "05-economics/04-fiscal-and-monetary-policy",
+          "description": "Study the business cycle, banking systems, and how government policies influence aggregate demand.",
+          "learning_objectives": [
+            "Identify the stages of the business cycle and the causes of recessions.",
+            "Explain the tools of fiscal policy and their impact on the economy.",
+            "Describe the functions of money, the banking system, and the role of the Federal Reserve."
+          ],
+          "references": [
+            "https://www.federalreserve.gov/aboutthefed/educational-tools.htm",
+            "https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "international-trade-and-exchange",
+          "title": "International Trade and Exchange",
+          "directory": "05-international-trade-and-exchange",
+          "path": "05-economics/05-international-trade-and-exchange",
+          "description": "Understand international trade dynamics, exchange rates, and the balance of payments.",
+          "learning_objectives": [
+            "Explain the concept of comparative advantage and the gains from international trade.",
+            "Assess the pros and cons of protectionist policies and trade restrictions.",
+            "Understand how exchange rates are determined and what information is in the balance of payments."
+          ],
+          "references": [
+            "https://www.wto.org/english/res_e/res_e.htm",
+            "https://www.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "id": "behavioral-sciences",
+      "title": "Behavioral Sciences",
+      "weight": 0.1,
+      "description": "Core concepts in sociology, anthropology, and psychology relevant to social studies education.",
+      "directory": "06-behavioral-sciences",
+      "topics": [
+        {
+          "order": 1,
+          "id": "sociological-perspectives",
+          "title": "Sociological Perspectives and Institutions",
+          "directory": "01-sociological-perspectives",
+          "path": "06-behavioral-sciences/01-sociological-perspectives",
+          "description": "Examine how human behavior is influenced by society, groups, institutions, and stratification.",
+          "learning_objectives": [
+            "Describe major sociological theories such as functionalism, conflict theory, and symbolic interactionism.",
+            "Identify the roles of major social institutions including family, education, and religion.",
+            "Analyze the causes and impacts of social inequality, prejudice, and discrimination."
+          ],
+          "references": [
+            "https://www.asanet.org/about/what-is-sociology/",
+            "https://courses.lumenlearning.com/sociology/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "culture-and-anthropology",
+          "title": "Culture and Anthropology",
+          "directory": "02-culture-and-anthropology",
+          "path": "06-behavioral-sciences/02-culture-and-anthropology",
+          "description": "Understand culture, cultural change, human adaptation, and diversity.",
+          "learning_objectives": [
+            "Define core cultural concepts including norms, values, and language.",
+            "Explain the impact of ethnocentrism, subcultures, and globalization on cultural diversity.",
+            "Understand the processes of socialization and how groups transmit culture."
+          ],
+          "references": [
+            "https://americananthro.org/",
+            "https://courses.lumenlearning.com/culturalanthropology/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "psychology-and-individual-behavior",
+          "title": "Psychology and Individual Behavior",
+          "directory": "03-psychology-and-individual-behavior",
+          "path": "06-behavioral-sciences/03-psychology-and-individual-behavior",
+          "description": "Study psychological approaches to learning, memory, personal identity, and human development.",
+          "learning_objectives": [
+            "Identify major approaches in psychology, such as cognitive, behavioral, and biological.",
+            "Explain the principles of classical and operant conditioning.",
+            "Describe the basic processes of memory and theories of personality and human development."
+          ],
+          "references": [
+            "https://www.apa.org/topics",
+            "https://courses.lumenlearning.com/waymaker-psychology/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

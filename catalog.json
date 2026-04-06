@@ -61,6 +61,30 @@
           "companion_solution": "We translate the official ETS syllabus into a complete topic map with retention-focused notes and consistent coverage of literature, informational text, and language use."
         },
         {
+          "repo_folder": "praxis-5081",
+          "name": "Social Studies: Content Knowledge (5081)",
+          "exam_slug": "praxis-5081",
+          "theme_color": "#0E7490",
+          "hero_headline": "Pass Praxis 5081 with social studies mapped to the official objectives",
+          "hero_subheadline": "Study U.S. and world history, civics, geography, economics, and behavioral sciences in focused 15-minute topics aligned to the ETS Study Companion.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most Praxis social studies prep either stays shallow across six domains or piles facts without the cross-topic structure the exam expects.",
+          "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure."
+        },
+        {
+          "repo_folder": "praxis-5165-mathematics",
+          "name": "Mathematics (5165)",
+          "exam_slug": "praxis-5165-mathematics",
+          "theme_color": "#0891B2",
+          "hero_headline": "Pass Praxis 5165 with secondary math mapped to the official objectives",
+          "hero_subheadline": "Study Number & Quantity through Statistics & Probability in focused 15-minute topics aligned to the ETS Study Companion.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most Praxis math prep either drills mechanics without the teaching frame or scatters topics so you cannot see how the exam weights algebra, geometry, and stats.",
+          "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, consistent coverage of instructional scenarios, and retention-focused structure."
+        },
+        {
           "repo_folder": "praxis-7811-elementary-education-content-knowledge-for-teaching",
           "name": "Elementary Education: Content Knowledge for Teaching",
           "exam_slug": "praxis-7811-elementary-education-content-knowledge-for-teaching",
