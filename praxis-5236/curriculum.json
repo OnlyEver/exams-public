@@ -1,0 +1,888 @@
+{
+  "exam": {
+    "name": "Biology: Content Knowledge",
+    "code": "5236",
+    "provider": "ETS",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-07",
+    "generated_date": "2026-04-07",
+    "category_name": "Teacher Certification",
+    "category_slug": "teacher-certification",
+    "category_description": "Exam-aligned prep for prospective secondary biology teachers with syllabus-mapped coverage across cell biology, genetics and evolution, diversity of life and organismal biology, ecology, and the nature and impact of science and engineering.",
+    "exam_slug": "praxis-5236",
+    "theme_color": "#16A34A",
+    "hero_headline": "Pass Praxis 5236 with biology content mapped to the official objectives",
+    "hero_subheadline": "Study cell biology, genetics, evolution, organismal biology, ecology, and the nature of science in focused 15-minute topics aligned to the ETS Study Companion.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most Praxis biology prep either stays shallow across vast domains like genetics and ecology or piles facts without the cross-topic structure and application the exam expects.",
+    "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure covering all five major biology content categories.",
+    "learner_profile": "Aspiring secondary biology teacher preparing for selected-response items spanning the nature of science, cell biology, genetics, evolution, diversity of life, and ecology. Benefits from diagrams, biological processes, and science and engineering practices."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "nature-and-impact-of-science",
+      "title": "Nature and Impact of Science and Engineering",
+      "weight": 0.13,
+      "description": "Fundamental principles of scientific inquiry, experimental design, laboratory procedures, engineering practices, and the impact of science on society.",
+      "directory": "01-nature-and-impact-of-science",
+      "topics": [
+        {
+          "order": 1,
+          "id": "nature-of-scientific-knowledge",
+          "title": "Nature of Scientific Knowledge",
+          "directory": "01-nature-of-scientific-knowledge",
+          "path": "01-nature-and-impact-of-science/01-nature-of-scientific-knowledge",
+          "description": "Understanding how scientific knowledge is generated through evidence, modeling, and interdisciplinary approaches.",
+          "learning_objectives": [
+            "Explain how observations and experiments provide evidence for scientific knowledge.",
+            "Differentiate between scientific laws, theories, and hypotheses.",
+            "Describe the interdisciplinary nature of science and how models explain natural phenomena."
+          ],
+          "references": [
+            "https://www.nsta.org/nstas-official-positions/nature-science",
+            "https://science-education-research.com/the-nature-of-scientific-knowledge/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "experimental-design-and-analysis",
+          "title": "Experimental Design and Analysis",
+          "directory": "02-experimental-design-and-analysis",
+          "path": "01-nature-and-impact-of-science/02-experimental-design-and-analysis",
+          "description": "Principles of designing experiments, collecting data, and performing error analysis.",
+          "learning_objectives": [
+            "Identify variables, formulate hypotheses, and plan data collection strategies.",
+            "Apply standard units, dimensional analysis, and significant figures in data reporting.",
+            "Identify sources of experimental error and extrapolate valid conclusions from data."
+          ],
+          "references": [
+            "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/01%3A_The_Study_of_Life/1.02%3A_The_Process_of_Science/1.2B%3A_Experimental_Design",
+            "https://thedecisionlab.com/reference-guide/psychology/experimental-design"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "laboratory-procedures-and-safety",
+          "title": "Laboratory Procedures and Safety",
+          "directory": "03-laboratory-procedures-and-safety",
+          "path": "01-nature-and-impact-of-science/03-laboratory-procedures-and-safety",
+          "description": "Safe use of laboratory equipment, materials preparation, and emergency procedures.",
+          "learning_objectives": [
+            "Demonstrate understanding of the proper preparation of biological and chemical materials.",
+            "Identify appropriate storage, handling, and disposal methods for lab chemicals.",
+            "Describe standard safety and emergency procedures in a science laboratory."
+          ],
+          "references": [
+            "https://www.flinnsci.com/resources/safety-reference/",
+            "https://www.osha.gov/publications/laboratory-safety-guidance"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "engineering-design-process",
+          "title": "Engineering Design Process",
+          "directory": "04-engineering-design-process",
+          "path": "01-nature-and-impact-of-science/04-engineering-design-process",
+          "description": "Applying the engineering design cycle to identify problems and optimize solutions.",
+          "learning_objectives": [
+            "Define engineering problems including success criteria and constraints.",
+            "Evaluate proposed design solutions and systematic modifications.",
+            "Explain the interdependence and feedback loop between science and engineering discoveries."
+          ],
+          "references": [
+            "https://www.nextgenscience.org/pe/hs-ets1-2-engineering-design",
+            "https://www.khanacademy.org/science/ms-biology/x0c5bb03129646fd6:engineering-design"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "human-impacts-on-the-environment",
+          "title": "Human Impacts on the Environment",
+          "directory": "05-human-impacts-on-the-environment",
+          "path": "01-nature-and-impact-of-science/05-human-impacts-on-the-environment",
+          "description": "Evaluating how human activity and technology affect ecosystems and society.",
+          "learning_objectives": [
+            "Analyze sources and impacts of air/water pollution and greenhouse gases.",
+            "Discuss the consequences of natural disasters, resource extraction, and agriculture.",
+            "Evaluate conservation efforts and the sustainable management of renewable energy."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/high-school-biology/hs-ecology/hs-human-impact-on-ecosystems",
+            "https://openstax.org/books/biology-2e/pages/47-3-human-impacts-on-the-environment"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "science-in-health-and-agriculture",
+          "title": "Science in Health and Agriculture",
+          "directory": "06-science-in-health-and-agriculture",
+          "path": "01-nature-and-impact-of-science/06-science-in-health-and-agriculture",
+          "description": "Applications of biology in epidemiology, biotechnology, and medical technology.",
+          "learning_objectives": [
+            "Examine principles of epidemiology, disease spread, and vaccine development.",
+            "Describe agricultural applications of biotechnology like GMOs.",
+            "Analyze ethical concerns regarding medical technologies, stem cells, and genetic cloning."
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150119/",
+            "https://www.nature.com/scitable/topicpage/recombinant-dna-technology-and-transgenic-animals-34513/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "cell-biology",
+      "title": "Cell Biology: Cell Structure and Function",
+      "weight": 0.22,
+      "description": "Biochemistry, thermodynamics, organelle function, membrane transport, and the cell cycle.",
+      "directory": "02-cell-biology",
+      "topics": [
+        {
+          "order": 1,
+          "id": "biological-molecules-and-water",
+          "title": "Biological Molecules and Water",
+          "directory": "01-biological-molecules-and-water",
+          "path": "02-cell-biology/01-biological-molecules-and-water",
+          "description": "Chemical structures of major macromolecules and the unique properties of water.",
+          "learning_objectives": [
+            "Explain chemical bonding and the distinction between organic and inorganic molecules.",
+            "Describe the properties of water based on its molecular structure and hydrogen bonding.",
+            "Identify the structures and functions of carbohydrates, lipids, proteins, and nucleic acids."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/2-2-water",
+            "https://www.khanacademy.org/science/biology/macromolecules"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "thermodynamics-and-metabolism",
+          "title": "Thermodynamics and Metabolism",
+          "directory": "02-thermodynamics-and-metabolism",
+          "path": "02-cell-biology/02-thermodynamics-and-metabolism",
+          "description": "Physical principles governing biological processes, energy flow, and redox reactions.",
+          "learning_objectives": [
+            "Apply the laws of thermodynamics to biological systems.",
+            "Distinguish between anabolic and catabolic metabolic pathways.",
+            "Explain the role of chemical gradients and reduction-oxidation reactions in cellular metabolism."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/energy-and-enzymes/the-laws-of-thermodynamics/a/the-laws-of-thermodynamics",
+            "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/06%3A_Metabolism/6.01%3A_Energy_and_Metabolism/6.1A%3A_Metabolic_Pathways"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "enzyme-structure-and-kinetics",
+          "title": "Enzyme Structure and Kinetics",
+          "directory": "03-enzyme-structure-and-kinetics",
+          "path": "02-cell-biology/03-enzyme-structure-and-kinetics",
+          "description": "The function of enzymes, active sites, and factors affecting enzyme kinetics.",
+          "learning_objectives": [
+            "Describe how active site structure enables specific substrate binding.",
+            "Analyze the energy profile of a reaction with and without an enzyme.",
+            "Explain the effects of temperature, pH, competitive inhibitors, and noncompetitive inhibitors on enzyme activity."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/energy-and-enzymes/enzymes-and-the-activation-energy-of-chemical-reactions",
+            "https://openstax.org/books/biology-2e/pages/6-5-enzymes"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "cellular-respiration",
+          "title": "Cellular Respiration",
+          "directory": "04-cellular-respiration",
+          "path": "02-cell-biology/04-cellular-respiration",
+          "description": "Biochemical pathways of aerobic and anaerobic cellular respiration.",
+          "learning_objectives": [
+            "Describe the structure and function of ATP in cellular processes.",
+            "Detail the stages of aerobic respiration: glycolysis, the citric acid cycle, and oxidative phosphorylation.",
+            "Compare aerobic respiration with anaerobic fermentation processes."
+          ],
+          "references": [
+            "https://en.wikipedia.org/wiki/Cellular_respiration",
+            "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "photosynthesis",
+          "title": "Photosynthesis",
+          "directory": "05-photosynthesis",
+          "path": "02-cell-biology/05-photosynthesis",
+          "description": "The process of photosynthesis, light-dependent reactions, and the Calvin-Benson cycle.",
+          "learning_objectives": [
+            "Identify the cellular locations and structures involved in photosynthesis.",
+            "Explain the roles of photosystems and electron transport in generating energy carriers.",
+            "Describe the Calvin-Benson cycle and compare photosynthesis to chemosynthesis."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+            "https://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "cell-theory-and-organization",
+          "title": "Cell Theory and Organization",
+          "directory": "06-cell-theory-and-organization",
+          "path": "02-cell-biology/06-cell-theory-and-organization",
+          "description": "Foundational characteristics of living things, cell theory, and basic cell types.",
+          "learning_objectives": [
+            "State the components of the cell theory and define characteristics of living versus nonliving things.",
+            "Explain how cells maintain homeostasis and respond to environmental changes.",
+            "Differentiate between prokaryotic and eukaryotic cell organization."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/structure-of-a-cell/introduction-to-cells/a/intro-to-cells",
+            "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/04%3A_Cell_Structure"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "organelles-and-extracellular-matrix",
+          "title": "Organelles and Extracellular Matrix",
+          "directory": "07-organelles-and-extracellular-matrix",
+          "path": "02-cell-biology/07-organelles-and-extracellular-matrix",
+          "description": "Structures and roles of cellular organelles and the cytoskeleton.",
+          "learning_objectives": [
+            "Compare and contrast the structural components of plant and animal cells.",
+            "Describe the functions of membrane-bound organelles and ribosomes.",
+            "Explain the roles of the cytoskeleton and extracellular matrix in cellular support and movement."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+            "https://www.nature.com/scitable/topicpage/eukaryotic-cells-14023963/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "cell-membrane-and-transport",
+          "title": "Cell Membrane and Transport",
+          "directory": "08-cell-membrane-and-transport",
+          "path": "02-cell-biology/08-cell-membrane-and-transport",
+          "description": "Structure of the plasma membrane and mechanisms of cellular transport.",
+          "learning_objectives": [
+            "Explain the fluid mosaic model and the function of the phospholipid bilayer.",
+            "Differentiate between active transport, passive transport, simple diffusion, and facilitated diffusion.",
+            "Analyze water movement concepts, including osmolarity, water potential, exocytosis, and endocytosis."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/membranes-and-transport",
+            "https://openstax.org/books/biology-2e/pages/5-1-components-and-structure"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "cell-communication",
+          "title": "Cell Communication",
+          "directory": "09-cell-communication",
+          "path": "02-cell-biology/09-cell-communication",
+          "description": "How cells receive, process, and respond to external signals.",
+          "learning_objectives": [
+            "Describe the roles of cell surface proteins and signaling molecules.",
+            "Outline the steps of a typical signal transduction pathway.",
+            "Explain how negative and positive feedback mechanisms regulate cellular responses."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/cell-signaling",
+            "https://openstax.org/books/biology-2e/pages/9-1-signaling-molecules-and-cellular-receptors"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "cell-cycle-and-division",
+          "title": "Cell Cycle and Division",
+          "directory": "10-cell-cycle-and-division",
+          "path": "02-cell-biology/10-cell-cycle-and-division",
+          "description": "Stages of eukaryotic cell division, mitosis, and cell cycle regulation.",
+          "learning_objectives": [
+            "Identify the stages and checkpoints of the cell cycle.",
+            "Describe the functions, stages, and results of mitosis and cytokinesis.",
+            "Explain how the failure of cell cycle checkpoints can lead to unregulated cell proliferation and cancer."
+          ],
+          "references": [
+            "https://www.nature.com/scitable/topicpage/cell-division-and-cancer-14046590/",
+            "https://www.khanacademy.org/science/biology/cellular-molecular-biology/mitosis/a/cell-cycle-phases"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "genetics-and-evolution",
+      "title": "Genetics and Evolution",
+      "weight": 0.26,
+      "description": "Molecular genetics, inheritance patterns, population genetics, and evolutionary theory.",
+      "directory": "03-genetics-and-evolution",
+      "topics": [
+        {
+          "order": 1,
+          "id": "nucleic-acids-and-chromosomes",
+          "title": "Nucleic Acids and Chromosomes",
+          "directory": "01-nucleic-acids-and-chromosomes",
+          "path": "03-genetics-and-evolution/01-nucleic-acids-and-chromosomes",
+          "description": "The molecular structure of DNA, RNA, and eukaryotic chromosomes.",
+          "learning_objectives": [
+            "Describe the sugar-phosphate backbone and complementary base pairing of nucleic acids.",
+            "Compare and contrast the structure and function of DNA versus RNA.",
+            "Explain chromosome structure, including the role of nucleosomes and telomeres."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/14-2-dna-structure-and-sequencing",
+            "https://www.nature.com/scitable/topicpage/dna-packaging-nucleosomes-and-chromatin-310/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "dna-replication-and-transcription",
+          "title": "DNA Replication and Transcription",
+          "directory": "02-dna-replication-and-transcription",
+          "path": "03-genetics-and-evolution/02-dna-replication-and-transcription",
+          "description": "The central dogma of molecular biology and the synthesis of DNA and RNA.",
+          "learning_objectives": [
+            "Outline the central dogma of molecular biology.",
+            "Describe the continuous and discontinuous synthesis processes of DNA replication.",
+            "Explain the steps of RNA transcription and pre-mRNA processing in eukaryotes."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/gene-expression-central-dogma",
+            "https://www.nature.com/scitable/topicpage/translation-dna-to-mrna-to-protein-393/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "translation-and-gene-regulation",
+          "title": "Translation and Gene Regulation",
+          "directory": "03-translation-and-gene-regulation",
+          "path": "03-genetics-and-evolution/03-translation-and-gene-regulation",
+          "description": "Protein synthesis mechanics and the regulation of gene expression.",
+          "learning_objectives": [
+            "Explain the roles of mRNA, tRNA, rRNA, and ribosomes in translation.",
+            "Utilize a genetic code chart to determine amino acid sequences.",
+            "Describe gene regulation mechanisms including promoters, enhancers, transcription factors, and posttranslational controls."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/gene-regulation",
+            "https://openstax.org/books/biology-2e/pages/16-1-regulation-of-gene-expression"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "mutations-and-biotechnology",
+          "title": "Mutations and Biotechnology",
+          "directory": "04-mutations-and-biotechnology",
+          "path": "03-genetics-and-evolution/04-mutations-and-biotechnology",
+          "description": "Causes and consequences of genetic mutations and modern biotechnology techniques.",
+          "learning_objectives": [
+            "Identify types and causes of mutations, including substitutions, frameshifts, and chromosomal changes.",
+            "Explain the significance of somatic versus germ-line mutations and resultant disorders.",
+            "Describe laboratory techniques such as gel electrophoresis, PCR, genome sequencing, and gene therapy."
+          ],
+          "references": [
+            "https://www.nature.com/scitable/topicpage/genetic-mutation-1127/",
+            "https://learn.genetics.utah.edu/content/labs/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "mendelian-genetics",
+          "title": "Mendelian Genetics",
+          "directory": "05-mendelian-genetics",
+          "path": "03-genetics-and-evolution/05-mendelian-genetics",
+          "description": "Core principles of Mendelian inheritance and genetic crosses.",
+          "learning_objectives": [
+            "Define dominant and recessive alleles and their phenotypic expressions.",
+            "Apply the laws of segregation and independent assortment using monohybrid and dihybrid crosses.",
+            "Interpret human traits and inheritance patterns using pedigree analysis."
+          ],
+          "references": [
+            "https://en.wikipedia.org/wiki/Mendelian_inheritance",
+            "https://www.thetech.org/ask-a-geneticist/articles/2023/what-is-mendelian-genetics/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "non-mendelian-inheritance",
+          "title": "Non-Mendelian Inheritance",
+          "directory": "06-non-mendelian-inheritance",
+          "path": "03-genetics-and-evolution/06-non-mendelian-inheritance",
+          "description": "Complex patterns of inheritance that deviate from standard Mendelian ratios.",
+          "learning_objectives": [
+            "Analyze outcomes of gene linkage, sex-linked inheritance, and recombination mapping.",
+            "Differentiate between codominance, incomplete dominance, polygenic inheritance, epistasis, and pleiotropy.",
+            "Explain the role of extranuclear inheritance and environmental influences (epigenetics)."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics/a/variations-on-mendels-laws",
+            "https://openstax.org/books/biology-2e/pages/12-3-laws-of-inheritance"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "mechanisms-of-evolution",
+          "title": "Mechanisms of Evolution",
+          "directory": "07-mechanisms-of-evolution",
+          "path": "03-genetics-and-evolution/07-mechanisms-of-evolution",
+          "description": "Sources of genetic variation, natural selection, and Hardy-Weinberg equilibrium.",
+          "learning_objectives": [
+            "Identify sources of genetic variation, including mutation, crossing-over, and horizontal gene transfer.",
+            "Explain Darwin-Wallace theories of reproductive fitness and natural selection.",
+            "Perform Hardy-Weinberg equilibrium calculations and analyze factors that alter allele frequencies."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/19-1-population-evolution",
+            "https://www.nature.com/scitable/knowledge/library/natural-selection-genetic-drift-and-gene-flow-83154231/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "population-genetics-and-speciation",
+          "title": "Population Genetics and Speciation",
+          "directory": "08-population-genetics-and-speciation",
+          "path": "03-genetics-and-evolution/08-population-genetics-and-speciation",
+          "description": "Genetic drift, evolutionary patterns, and the formation of new species.",
+          "learning_objectives": [
+            "Differentiate the effects of gene flow, genetic drift, sexual selection, and artificial selection.",
+            "Identify patterns of evolution such as convergent, divergent, coevolution, and adaptive radiation.",
+            "Describe the mechanisms of speciation, including reproductive isolation, allopatric, and sympatric speciation."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/her/tree-of-life/a/species-speciation",
+            "https://evolution.berkeley.edu/evolution-101/speciation/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "evidence-and-models-of-evolution",
+          "title": "Evidence and Models of Evolution",
+          "directory": "09-evidence-and-models-of-evolution",
+          "path": "03-genetics-and-evolution/09-evidence-and-models-of-evolution",
+          "description": "Scientific evidence supporting evolutionary theory and phylogenetic modeling.",
+          "learning_objectives": [
+            "Analyze fossil, biogeographical, homologous, and vestigial evidence supporting evolution.",
+            "Explain the molecular evidence for evolution and the endosymbiotic theory.",
+            "Interpret evolutionary models such as phylogenetic trees, cladograms, and molecular clocks."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/lines-of-evidence-for-evolution",
+            "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "origin-of-life-and-extinction",
+          "title": "Origin of Life and Extinction",
+          "directory": "10-origin-of-life-and-extinction",
+          "path": "03-genetics-and-evolution/10-origin-of-life-and-extinction",
+          "description": "Theories of early life on Earth and the drivers of species extinction.",
+          "learning_objectives": [
+            "Describe the abiotic synthesis of organic compounds as demonstrated by the Miller-Urey experiment.",
+            "Explain the RNA-first hypothesis and biological influences on the early atmosphere.",
+            "Identify natural and human-caused factors that lead to the extinction of species."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth/a/hypotheses-about-the-origins-of-life",
+            "https://openstax.org/books/biology-2e/pages/22-1-prokaryotic-diversity"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "diversity-of-life-and-organisms",
+      "title": "Diversity of Life and Organismal Biology",
+      "weight": 0.2,
+      "description": "Taxonomy, anatomy, physiology, and evolutionary trends in plants, animals, and microorganisms.",
+      "directory": "04-diversity-of-life-and-organisms",
+      "topics": [
+        {
+          "order": 1,
+          "id": "taxonomy-and-microorganisms",
+          "title": "Taxonomy and Microorganisms",
+          "directory": "01-taxonomy-and-microorganisms",
+          "path": "04-diversity-of-life-and-organisms/01-taxonomy-and-microorganisms",
+          "description": "Biological classification and the characteristics of viruses, bacteria, archaea, protists, and fungi.",
+          "learning_objectives": [
+            "Explain the taxonomic hierarchy, domains, kingdoms, and binomial nomenclature.",
+            "Identify structural and nutritional characteristics of viruses, bacteria, archaea, protists, and fungi.",
+            "Compare unicellular and multicellular organization and modes of reproduction in microorganisms."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/20-1-organizing-life-on-earth",
+            "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/20%3A_Phylogenies_and_the_History_of_Life/20.1%3A_Organizing_Life_on_Earth"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "animal-evolution-and-development",
+          "title": "Animal Evolution and Development",
+          "directory": "02-animal-evolution-and-development",
+          "path": "04-diversity-of-life-and-organisms/02-animal-evolution-and-development",
+          "description": "Key evolutionary trends in animals, cell specialization, and embryology.",
+          "learning_objectives": [
+            "Describe organizational hierarchy from cells to organ systems and the role of stem cells.",
+            "Identify major animal evolutionary trends such as body cavities, symmetry, and cephalization.",
+            "Outline animal reproduction, gamete formation, fertilization, and embryonic development patterns."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/27-1-features-of-the-animal-kingdom",
+            "https://www.khanacademy.org/science/biology/animal-development"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "human-organ-systems",
+          "title": "Human Organ Systems",
+          "directory": "03-human-organ-systems",
+          "path": "04-diversity-of-life-and-organisms/03-human-organ-systems",
+          "description": "Structure and function of the major systems within the human body.",
+          "learning_objectives": [
+            "Describe the functions of the cardiovascular, respiratory, digestive, and excretory systems.",
+            "Explain the role of the immune, musculoskeletal, nervous, and endocrine systems.",
+            "Trace the flow of blood through the human circulatory system."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems",
+            "https://openstax.org/books/biology-2e/pages/33-1-the-animal-body-basic-form-and-function"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "animal-homeostasis-and-behavior",
+          "title": "Animal Homeostasis and Behavior",
+          "directory": "04-animal-homeostasis-and-behavior",
+          "path": "04-diversity-of-life-and-organisms/04-animal-homeostasis-and-behavior",
+          "description": "How animals regulate internal environments and display complex behaviors.",
+          "learning_objectives": [
+            "Explain the roles of organs, hormones, and feedback loops in maintaining homeostasis.",
+            "Compare endothermic and ectothermic temperature regulation.",
+            "Differentiate between innate/learned behaviors, territoriality, and social behaviors like altruism."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/principles-of-physiology",
+            "https://www.nature.com/scitable/knowledge/animal-behavior-13228164/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "plant-characteristics-and-structure",
+          "title": "Plant Characteristics and Structure",
+          "directory": "05-plant-characteristics-and-structure",
+          "path": "04-diversity-of-life-and-organisms/05-plant-characteristics-and-structure",
+          "description": "Plant evolution, tissues, and fundamental anatomy.",
+          "learning_objectives": [
+            "Differentiate between vascular/nonvascular plants and angiosperms/gymnosperms.",
+            "Describe the structure and function of dermal, ground, and vascular plant tissues.",
+            "Identify the anatomical features and functions of roots, stems, leaves, and flowers."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/30-1-the-plant-body",
+            "https://bio.libretexts.org/Bookshelves/Botany/Botany_(Ha_Morrow_and_Algiers)/01%3A_Plant_Structure_and_Function"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "plant-transport-reproduction-responses",
+          "title": "Plant Transport, Reproduction, and Responses",
+          "directory": "06-plant-transport-reproduction-responses",
+          "path": "04-diversity-of-life-and-organisms/06-plant-transport-reproduction-responses",
+          "description": "Mechanisms of plant transport, life cycles, and environmental adaptations.",
+          "learning_objectives": [
+            "Explain water and nutrient transport via xylem, phloem, and transpiration.",
+            "Describe the alternation of generations, gametogenesis, and pollination strategies in plants.",
+            "Analyze plant responses to the environment, including tropisms, physical defenses, and major hormones."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/30-5-transport-of-water-and-solutes-in-plants",
+            "https://www.khanacademy.org/science/biology/plant-biology"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "ecology-organisms-and-environments",
+      "title": "Ecology: Organisms and Environments",
+      "weight": 0.19,
+      "description": "Interactions between organisms, population dynamics, biomes, and biogeochemical cycles.",
+      "directory": "05-ecology-organisms-and-environments",
+      "topics": [
+        {
+          "order": 1,
+          "id": "biosphere-and-species-interactions",
+          "title": "Biosphere and Species Interactions",
+          "directory": "01-biosphere-and-species-interactions",
+          "path": "05-ecology-organisms-and-environments/01-biosphere-and-species-interactions",
+          "description": "Hierarchical structures of ecology and relationships between organisms.",
+          "learning_objectives": [
+            "Define the hierarchical structure of biomes, ecosystems, communities, and populations.",
+            "Identify symbiotic relationships including mutualism, parasitism, and commensalism.",
+            "Analyze the dynamics of predator-prey relationships, competition, and keystone species."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/ecology/intro-to-ecology/a/ecological-levels-from-individuals-to-ecosystems",
+            "https://www.nature.com/scitable/knowledge/library/species-interactions-and-competition-102131429/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "population-dynamics",
+          "title": "Population Dynamics",
+          "directory": "02-population-dynamics",
+          "path": "05-ecology-organisms-and-environments/02-population-dynamics",
+          "description": "Models of population growth, demographics, and limiting factors.",
+          "learning_objectives": [
+            "Compare exponential and logistic growth models, identifying carrying capacity.",
+            "Differentiate between r-strategist and K-strategist reproductive strategies.",
+            "Assess the impact of density-dependent and density-independent limiting factors."
+          ],
+          "references": [
+            "https://openstax.org/books/biology-2e/pages/45-3-environmental-limits-to-population-growth",
+            "https://www.nature.com/scitable/knowledge/library/population-dynamics-of-competition-and-predation-13240582/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "community-structure-and-succession",
+          "title": "Community Structure and Succession",
+          "directory": "03-community-structure-and-succession",
+          "path": "05-ecology-organisms-and-environments/03-community-structure-and-succession",
+          "description": "Ecological succession, habitat changes, and community resilience.",
+          "learning_objectives": [
+            "Compare primary and secondary ecological succession.",
+            "Evaluate changes in biomass, diversity, and productivity during succession.",
+            "Analyze the impacts of temporal and spatial disturbances on ecosystems."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/ecology/community-structure-and-diversity/a/ecological-succession",
+            "https://bio.libretexts.org/Bookshelves/Ecology/Ecology_(Zimmerman)/05%3A_Community_Ecology/5.04%3A_Community_Structure_and_Dynamics"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "ecosystems-and-energy-flow",
+          "title": "Ecosystems and Energy Flow",
+          "directory": "04-ecosystems-and-energy-flow",
+          "path": "05-ecology-organisms-and-environments/04-ecosystems-and-energy-flow",
+          "description": "Biomes, trophic structures, and the unidirectional flow of energy.",
+          "learning_objectives": [
+            "Describe the defining characteristics of major aquatic and terrestrial biomes.",
+            "Construct and interpret food chains, food webs, and ecological pyramids (numbers, biomass, energy).",
+            "Explain trophic cascades and the process of biomagnification."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/energy-flow-primary-productivity",
+            "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "biogeochemical-cycles",
+          "title": "Biogeochemical Cycles",
+          "directory": "05-biogeochemical-cycles",
+          "path": "05-ecology-organisms-and-environments/05-biogeochemical-cycles",
+          "description": "The cycling of matter through abiotic and biotic ecosystem components.",
+          "learning_objectives": [
+            "Identify the major reservoirs and biotic/abiotic processes of the carbon cycle.",
+            "Trace the natural routes of the nitrogen cycle and the phosphorus cycle.",
+            "Explain the physical and biological processes that drive the global water cycle."
+          ],
+          "references": [
+            "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/a/introduction-to-biogeochemical-cycles",
+            "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

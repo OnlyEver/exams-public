@@ -1,0 +1,893 @@
+{
+  "exam": {
+    "name": "Special Education: Core Knowledge and Applications",
+    "code": "5354",
+    "provider": "ETS",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-07",
+    "generated_date": "2026-04-07",
+    "category_name": "Teacher Certification",
+    "category_slug": "teacher-certification",
+    "category_description": "Exam-aligned prep for prospective special education teachers with syllabus-mapped coverage across foundations, planning, instruction, assessment, and learner characteristics.",
+    "exam_slug": "praxis-5354",
+    "theme_color": "#7C3AED",
+    "hero_headline": "Pass Praxis 5354 with special education knowledge mapped to the official objectives",
+    "hero_subheadline": "Study foundations, planning, instruction, assessment, and learner characteristics in focused 15-minute topics aligned to the ETS Study Companion.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most Praxis special education prep either stays shallow across pedagogical theories or piles facts without the practical application and structure the exam expects.",
+    "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure covering all five major special education content categories.",
+    "learner_profile": "Aspiring special education teacher preparing for selected-response items spanning foundational knowledge, planning, instruction, assessment, and learner characteristics. Benefits from practical scenarios, clear definitions of disabilities, and evidence-based instructional strategies."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "development-and-characteristics-of-learners",
+      "title": "Development and Characteristics of Learners",
+      "weight": 0.16,
+      "description": "Understand the cognitive, physical, and emotional development of students, along with the defining factors of major disabilities.",
+      "directory": "01-development-and-characteristics-of-learners",
+      "topics": [
+        {
+          "order": 1,
+          "id": "human-development-and-behavior",
+          "title": "Human Development and Behavior",
+          "directory": "01-human-development-and-behavior",
+          "path": "01-development-and-characteristics-of-learners/01-human-development-and-behavior",
+          "description": "Study human development patterns across cognitive, language, physical, and socio-emotional domains.",
+          "learning_objectives": [
+            "Explain typical and atypical stages of human development.",
+            "Understand variables that affect student behavior and development."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "theoretical-approaches",
+          "title": "Theoretical Approaches to Student Learning and Motivation",
+          "directory": "02-theoretical-approaches",
+          "path": "01-development-and-characteristics-of-learners/02-theoretical-approaches",
+          "description": "Examine the various theories of learning and motivation relevant to special education students.",
+          "learning_objectives": [
+            "Identify key theoretical approaches to student learning.",
+            "Apply motivation theories to students with exceptionalities."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "major-disability-categories",
+          "title": "Basic Characteristics of Major Disability Categories",
+          "directory": "03-major-disability-categories",
+          "path": "01-development-and-characteristics-of-learners/03-major-disability-categories",
+          "description": "Learn the characteristics and defining factors of the 13 major disability categories outlined by IDEA.",
+          "learning_objectives": [
+            "Identify the defining factors for each major disability category.",
+            "Recognize the behavioral and cognitive markers of common disabilities."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "impact-of-disabilities",
+          "title": "Impact of Disabilities Across the Life Span",
+          "directory": "04-impact-of-disabilities",
+          "path": "01-development-and-characteristics-of-learners/04-impact-of-disabilities",
+          "description": "Explore how disabilities affect individuals, their families, and society as they age.",
+          "learning_objectives": [
+            "Understand the lifelong impact of disabilities on individuals.",
+            "Evaluate how societal perspectives shift and affect individuals with disabilities."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "differences-in-identification",
+          "title": "Impact of Language, Cultural, and Gender Differences on Identification",
+          "directory": "05-differences-in-identification",
+          "path": "01-development-and-characteristics-of-learners/05-differences-in-identification",
+          "description": "Analyze how language, culture, and gender affect the special education identification process.",
+          "learning_objectives": [
+            "Identify biases that may occur during the identification process.",
+            "Differentiate between language acquisition differences and learning disabilities."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "co-occurring-conditions",
+          "title": "Co-occurring Conditions",
+          "directory": "06-co-occurring-conditions",
+          "path": "01-development-and-characteristics-of-learners/06-co-occurring-conditions",
+          "description": "Learn about the presence and impact of co-occurring conditions, such as ADHD and learning disabilities.",
+          "learning_objectives": [
+            "Recognize common co-occurring conditions.",
+            "Understand how multiple diagnoses influence educational needs."
+          ],
+          "references": [
+            "https://www.understood.org/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "family-systems",
+          "title": "How Family Systems Contribute to Development",
+          "directory": "07-family-systems",
+          "path": "01-development-and-characteristics-of-learners/07-family-systems",
+          "description": "Study the role family dynamics and systems play in the development of an individual with a disability.",
+          "learning_objectives": [
+            "Describe the impact of family involvement on student success.",
+            "Identify strategies for engaging diverse family systems."
+          ],
+          "references": [
+            "https://exceptionalchildren.org/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "environmental-influences",
+          "title": "Environmental and Societal Influences",
+          "directory": "08-environmental-influences",
+          "path": "01-development-and-characteristics-of-learners/08-environmental-influences",
+          "description": "Understand how a student's broader environment and society impact their development and achievement.",
+          "learning_objectives": [
+            "Examine socioeconomic and environmental impacts on student achievement.",
+            "Address societal barriers faced by individuals with disabilities."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "planning-and-the-learning-environment",
+      "title": "Planning and the Learning Environment",
+      "weight": 0.23,
+      "description": "Focus on the components of effective lesson planning and the creation of safe, structured, and accessible learning environments.",
+      "directory": "02-planning-and-the-learning-environment",
+      "topics": [
+        {
+          "order": 1,
+          "id": "characteristics-of-lesson-plans",
+          "title": "Characteristics of Good Lesson Plans",
+          "directory": "01-characteristics-of-lesson-plans",
+          "path": "02-planning-and-the-learning-environment/01-characteristics-of-lesson-plans",
+          "description": "Analyze what makes a lesson plan robust and responsive to diverse student needs.",
+          "learning_objectives": [
+            "Identify the traits of an effective special education lesson plan.",
+            "Evaluate lesson plans for inclusiveness and clarity."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "elements-of-effective-lesson-plans",
+          "title": "Basic Elements of Effective Lesson Plans",
+          "directory": "02-elements-of-effective-lesson-plans",
+          "path": "02-planning-and-the-learning-environment/02-elements-of-effective-lesson-plans",
+          "description": "Learn the required elements of lesson plans, from anticipatory sets to independent practice.",
+          "learning_objectives": [
+            "List the essential components of standard lesson plans.",
+            "Understand how to sequence learning activities for special education students."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "learning-objectives",
+          "title": "Measurable and Challenging Learning Objectives",
+          "directory": "03-learning-objectives",
+          "path": "02-planning-and-the-learning-environment/03-learning-objectives",
+          "description": "Discover how to write goals and objectives that are both measurable and appropriately challenging for students.",
+          "learning_objectives": [
+            "Construct clear, measurable learning objectives.",
+            "Ensure objectives align with IEP goals and state standards."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "access-to-curriculum",
+          "title": "Means of Providing Access to the Curriculum",
+          "directory": "04-access-to-curriculum",
+          "path": "02-planning-and-the-learning-environment/04-access-to-curriculum",
+          "description": "Study strategies such as accommodations, modifications, and Universal Design for Learning (UDL).",
+          "learning_objectives": [
+            "Differentiate between accommodations and modifications.",
+            "Apply Universal Design for Learning principles to lesson planning."
+          ],
+          "references": [
+            "https://www.understood.org/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "organizing-learning-environment",
+          "title": "Organizing the Learning Environment",
+          "directory": "05-organizing-learning-environment",
+          "path": "02-planning-and-the-learning-environment/05-organizing-learning-environment",
+          "description": "Learn to structure the physical space and routines to maximize student engagement.",
+          "learning_objectives": [
+            "Design a physical classroom layout that supports diverse learners.",
+            "Establish consistent routines to aid student transitions."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "managing-student-behavior",
+          "title": "Understand How to Manage Student Behavior",
+          "directory": "06-managing-student-behavior",
+          "path": "02-planning-and-the-learning-environment/06-managing-student-behavior",
+          "description": "Identify behavioral challenges and learn foundational behavior management techniques.",
+          "learning_objectives": [
+            "Identify the antecedents and consequences of student behavior.",
+            "Implement basic positive behavioral interventions."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "classroom-management",
+          "title": "Theory and Practice of Effective Classroom Management",
+          "directory": "07-classroom-management",
+          "path": "02-planning-and-the-learning-environment/07-classroom-management",
+          "description": "Explore the theories behind classroom management and how to put them into practice.",
+          "learning_objectives": [
+            "Compare theories of effective classroom management.",
+            "Develop a comprehensive classroom management plan."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "safe-and-supportive-classroom",
+          "title": "Design and Maintenance of a Safe and Supportive Classroom",
+          "directory": "08-safe-and-supportive-classroom",
+          "path": "02-planning-and-the-learning-environment/08-safe-and-supportive-classroom",
+          "description": "Focus on the continuous effort required to maintain an environment where all students feel emotionally and physically safe.",
+          "learning_objectives": [
+            "Identify strategies that foster a supportive classroom climate.",
+            "Understand how emotional safety contributes to academic achievement."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "instruction",
+      "title": "Instruction",
+      "weight": 0.23,
+      "description": "Master the implementation of age-appropriate, research-based instructional strategies across diverse learning settings.",
+      "directory": "03-instruction",
+      "topics": [
+        {
+          "order": 1,
+          "id": "appropriate-instructional-strategies",
+          "title": "Appropriate Instructional Strategies by Age and Ability",
+          "directory": "01-appropriate-instructional-strategies",
+          "path": "03-instruction/01-appropriate-instructional-strategies",
+          "description": "Learn to match instructional techniques with the cognitive ages and abilities of students.",
+          "learning_objectives": [
+            "Select developmentally appropriate instructional techniques.",
+            "Adapt strategies based on a student's individual ability."
+          ],
+          "references": [
+            "https://exceptionalchildren.org/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "success-in-various-settings",
+          "title": "Ensuring Success in One-to-One, Small, and Large Groups",
+          "directory": "02-success-in-various-settings",
+          "path": "03-instruction/02-success-in-various-settings",
+          "description": "Discover instructional strategies tailored to different grouping formats to maximize individual academic success.",
+          "learning_objectives": [
+            "Implement effective one-to-one tutoring strategies.",
+            "Manage and instruct diverse learners within large and small group settings."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "maintenance-and-generalization",
+          "title": "Maintenance and Generalization of Concepts",
+          "directory": "03-maintenance-and-generalization",
+          "path": "03-instruction/03-maintenance-and-generalization",
+          "description": "Learn techniques to help students retain skills and apply them across different contexts.",
+          "learning_objectives": [
+            "Define skill maintenance and generalization.",
+            "Design activities that promote the transfer of learning to real-world situations."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "selecting-research-based-interventions",
+          "title": "Selection of Research-Based Interventions",
+          "directory": "04-selecting-research-based-interventions",
+          "path": "03-instruction/04-selecting-research-based-interventions",
+          "description": "Understand how to identify and evaluate evidence-based practices suitable for individual students.",
+          "learning_objectives": [
+            "Identify reliable sources of research-based interventions.",
+            "Evaluate an intervention's appropriateness for a specific student profile."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "implementing-interventions",
+          "title": "Implementation of Research-Based Interventions",
+          "directory": "05-implementing-interventions",
+          "path": "03-instruction/05-implementing-interventions",
+          "description": "Focus on the practical application and monitoring of chosen research-based interventions in the classroom.",
+          "learning_objectives": [
+            "Execute an intervention with fidelity.",
+            "Monitor and document student progress during intervention implementation."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "supplementary-functional-curriculum",
+          "title": "Supplementary and Functional Curriculum",
+          "directory": "06-supplementary-functional-curriculum",
+          "path": "03-instruction/06-supplementary-functional-curriculum",
+          "description": "Learn when and how to implement curricula focusing on life skills, social skills, and functional academics.",
+          "learning_objectives": [
+            "Define the goals of a functional curriculum.",
+            "Incorporate supplementary curricula to support independent living skills."
+          ],
+          "references": [
+            "https://exceptionalchildren.org/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "assistive-technology",
+          "title": "Options for Assistive Technology",
+          "directory": "07-assistive-technology",
+          "path": "03-instruction/07-assistive-technology",
+          "description": "Explore the range of low-tech and high-tech assistive technology tools available to support learning.",
+          "learning_objectives": [
+            "Identify categories and examples of assistive technology.",
+            "Determine appropriate technology options for various learning barriers."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "transition-goals",
+          "title": "Instructional Strategies that Support Transition Goals",
+          "directory": "08-transition-goals",
+          "path": "03-instruction/08-transition-goals",
+          "description": "Study strategies that prepare students for transitions, from grade-to-grade or school-to-adulthood.",
+          "learning_objectives": [
+            "Understand the components of an effective transition plan.",
+            "Implement strategies that foster post-secondary readiness and independence."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "preventive-intervention-strategies",
+          "title": "Preventive and Intervention Strategies for At-Risk Learners",
+          "directory": "09-preventive-intervention-strategies",
+          "path": "03-instruction/09-preventive-intervention-strategies",
+          "description": "Learn proactive methods to prevent academic or behavioral failure and specific interventions for at-risk students.",
+          "learning_objectives": [
+            "Identify characteristics of at-risk learners.",
+            "Employ preventive strategies such as MTSS and early intervention."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "assessment",
+      "title": "Assessment",
+      "weight": 0.18,
+      "description": "Understand the principles of educational assessment, including test selection, result interpretation, and data-driven instruction.",
+      "directory": "04-assessment",
+      "topics": [
+        {
+          "order": 1,
+          "id": "evidence-based-assessments",
+          "title": "Evidence-Based Assessments",
+          "directory": "01-evidence-based-assessments",
+          "path": "04-assessment/01-evidence-based-assessments",
+          "description": "Study the characteristics of valid, reliable, and evidence-based assessment tools.",
+          "learning_objectives": [
+            "Differentiate between evidence-based and non-standardized assessments.",
+            "Ensure assessment selection is appropriate for the student's needs."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "define-use-assessments",
+          "title": "Define and Use Various Assessments",
+          "directory": "02-define-use-assessments",
+          "path": "04-assessment/02-define-use-assessments",
+          "description": "Understand the differences between formative, summative, formal, and informal assessments.",
+          "learning_objectives": [
+            "Identify various types of educational assessments.",
+            "Select the correct assessment tool to monitor learning progress."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "interpret-assessment-results",
+          "title": "Interpret Assessment Results",
+          "directory": "03-interpret-assessment-results",
+          "path": "04-assessment/03-interpret-assessment-results",
+          "description": "Learn how to read and interpret scores from standardized and classroom assessments.",
+          "learning_objectives": [
+            "Analyze assessment data to determine a student's present level of performance.",
+            "Understand standard scores, percentiles, and grade equivalents."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "use-assessment-results",
+          "title": "Understand and Use the Results of Assessments",
+          "directory": "04-use-assessment-results",
+          "path": "04-assessment/04-use-assessment-results",
+          "description": "Focus on using assessment outcomes to design and modify instruction and IEP goals.",
+          "learning_objectives": [
+            "Apply assessment findings to develop appropriate instructional plans.",
+            "Use data to advocate for specific special education services."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://sites.ed.gov/idea/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "foundations-and-professional-responsibilities",
+      "title": "Foundations and Professional Responsibilities",
+      "weight": 0.2,
+      "description": "Examine the legal framework of special education, roles of educators, and the importance of professional and ethical collaboration.",
+      "directory": "05-foundations-and-professional-responsibilities",
+      "topics": [
+        {
+          "order": 1,
+          "id": "federal-definitions",
+          "title": "Federal Definitions",
+          "directory": "01-federal-definitions",
+          "path": "05-foundations-and-professional-responsibilities/01-federal-definitions",
+          "description": "Review the specific federal legal definitions for various disabilities as outlined in IDEA.",
+          "learning_objectives": [
+            "Define key special education terms according to federal law.",
+            "Understand the legal parameters that qualify a student for special education."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "requirements-for-identification",
+          "title": "Federal Requirements for Pre-referral, Referral, and Identification",
+          "directory": "02-requirements-for-identification",
+          "path": "05-foundations-and-professional-responsibilities/02-requirements-for-identification",
+          "description": "Learn the legal steps required to identify a student for special education services.",
+          "learning_objectives": [
+            "Describe the pre-referral intervention process.",
+            "Explain the timelines and mandates for formal evaluation and identification."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "safeguards-stakeholders-rights",
+          "title": "Federal Safeguards of Stakeholders' Rights",
+          "directory": "03-safeguards-stakeholders-rights",
+          "path": "05-foundations-and-professional-responsibilities/03-safeguards-stakeholders-rights",
+          "description": "Understand the procedural safeguards that protect the rights of students with disabilities and their parents.",
+          "learning_objectives": [
+            "Identify the rights of parents and students under IDEA.",
+            "Understand due process, prior written notice, and consent requirements."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://www.understood.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "legally-defensible-iep",
+          "title": "Components of a Legally Defensible IEP",
+          "directory": "04-legally-defensible-iep",
+          "path": "05-foundations-and-professional-responsibilities/04-legally-defensible-iep",
+          "description": "Study the mandatory components of an Individualized Education Program to ensure legal compliance.",
+          "learning_objectives": [
+            "List the required sections of an IEP under federal law.",
+            "Understand how to write a legally sound present level of performance statement."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "major-legislation",
+          "title": "Major Legislation",
+          "directory": "05-major-legislation",
+          "path": "05-foundations-and-professional-responsibilities/05-major-legislation",
+          "description": "Review the history and current landscape of major special education laws, including IDEA, Section 504, and the ADA.",
+          "learning_objectives": [
+            "Differentiate between IDEA, Section 504, and the ADA.",
+            "Understand the historical milestones that shaped special education."
+          ],
+          "references": [
+            "https://sites.ed.gov/idea/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "roles-special-ed-teacher",
+          "title": "Roles and Responsibilities of the Special Education Teacher",
+          "directory": "06-roles-special-ed-teacher",
+          "path": "05-foundations-and-professional-responsibilities/06-roles-special-ed-teacher",
+          "description": "Examine the ethical and professional duties expected of a special education teacher.",
+          "learning_objectives": [
+            "Identify the primary responsibilities of a special educator.",
+            "Understand the ethical guidelines governing the profession."
+          ],
+          "references": [
+            "https://exceptionalchildren.org/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "roles-other-professionals",
+          "title": "Roles and Responsibilities of Other Professionals",
+          "directory": "07-roles-other-professionals",
+          "path": "05-foundations-and-professional-responsibilities/07-roles-other-professionals",
+          "description": "Understand how general educators, paraprofessionals, and related service providers contribute to special education.",
+          "learning_objectives": [
+            "Describe the roles of related service providers on the IEP team.",
+            "Explain the relationship between the special education teacher and paraprofessionals."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "collaborative-approaches",
+          "title": "Strengths and Limitations of Collaborative Approaches",
+          "directory": "08-collaborative-approaches",
+          "path": "05-foundations-and-professional-responsibilities/08-collaborative-approaches",
+          "description": "Evaluate various models of collaboration, such as co-teaching and consultation.",
+          "learning_objectives": [
+            "Identify different models of co-teaching.",
+            "Analyze the benefits and challenges of collaborative professional approaches."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "communication-with-stakeholders",
+          "title": "Communication with Stakeholders",
+          "directory": "09-communication-with-stakeholders",
+          "path": "05-foundations-and-professional-responsibilities/09-communication-with-stakeholders",
+          "description": "Learn effective communication techniques to engage parents, administrators, and community agencies.",
+          "learning_objectives": [
+            "Demonstrate strategies for effective parent-teacher communication.",
+            "Understand how to facilitate productive IEP meetings."
+          ],
+          "references": [
+            "https://www.understood.org/",
+            "https://iris.peabody.vanderbilt.edu/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "potential-bias-issues",
+          "title": "Potential Bias Issues in Teaching and Interacting",
+          "directory": "10-potential-bias-issues",
+          "path": "05-foundations-and-professional-responsibilities/10-potential-bias-issues",
+          "description": "Recognize personal and systemic biases and learn how to counteract them to support diverse families.",
+          "learning_objectives": [
+            "Identify ways personal bias can impact student expectations and interactions.",
+            "Develop strategies for culturally responsive teaching and communication."
+          ],
+          "references": [
+            "https://iris.peabody.vanderbilt.edu/",
+            "https://exceptionalchildren.org/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}
