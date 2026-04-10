@@ -1,0 +1,94 @@
+In [physical engineering](https://en.wikipedia.org/wiki/Engineering), the larger the exposed surface area of a structure, the more points of potential failure must be monitored, reinforced, and defended. The same absolute law governs [network engineering](https://en.wikipedia.org/wiki/Computer_network) and [cybersecurity](https://en.wikipedia.org/wiki/Computer_security). As an organization adds [servers](https://en.wikipedia.org/wiki/Server_%28computing%29), [cloud instances](https://en.wikipedia.org/wiki/Cloud_computing), [endpoints](https://en.wikipedia.org/wiki/Host_%28network%29), and third-party [integrations](https://en.wikipedia.org/wiki/System_integration), it expands the physical and digital geography that [adversaries](https://en.wikipedia.org/wiki/Threat_actor) can exploit. We define this total sum of all possible entry points into a system or network as the **[attack surface](https://en.wikipedia.org/wiki/Attack_surface)**. Conversely, the **[threat vector](https://en.wikipedia.org/wiki/Attack_vector)** is the specific path or method an attacker uses to traverse that surface and gain unauthorized access to a system. If the attack surface is the broad perimeter wall of a fortress, the threat vector is the specific grappling hook, tunneling machine, or forged letter of transit used to breach it. 
+
+To secure a modern [IT environment](https://en.wikipedia.org/wiki/Information_technology), an [administrator](https://en.wikipedia.org/wiki/System_administrator) must possess a crystalline understanding of both the terrain they are defending (the surface) and the specific trajectories of incoming attacks (the vectors).
+
+## The Geometry of Risk: Categorizing the Attack Surface
+
+Before we can analyze how attackers break in, we must map the doors and windows they are trying to open. An organization's attack surface is not monolithic; it is a composite of four distinct domains. 
+
+| Attack Surface Domain | Definition & Common Vulnerabilities |
+| :--- | :--- |
+| **[Network Attack Surface](https://en.wikipedia.org/wiki/Attack_surface)** | Includes all [open ports](https://en.wikipedia.org/wiki/Port_%28computer_networking%29), [wireless protocols](https://en.wikipedia.org/wiki/Wireless), and [network interfaces](https://en.wikipedia.org/wiki/Network_interface) exposed to an attacker. Every active [service](https://en.wikipedia.org/wiki/Network_service) listening on a network interface is a potential entry point. |
+| **[Software Attack Surface](https://en.wikipedia.org/wiki/Attack_surface)** | Comprises unpatched [applications](https://en.wikipedia.org/wiki/Application_software), [vulnerable](https://en.wikipedia.org/wiki/Vulnerability_%28computing%29) [Application Programming Interfaces](https://en.wikipedia.org/wiki/API) (APIs), and poorly written [code](https://en.wikipedia.org/wiki/Source_code). This is where [buffer overflows](https://en.wikipedia.org/wiki/Buffer_overflow) and [injection attacks](https://en.wikipedia.org/wiki/Code_injection) occur. |
+| **[Human Attack Surface](https://en.wikipedia.org/wiki/Attack_surface)** | Represents the susceptibility of employees to [social engineering](https://en.wikipedia.org/wiki/Social_engineering_%28security%29) and manipulation. Even the most hardened network can be bypassed if an administrator is tricked into handing over their [credentials](https://en.wikipedia.org/wiki/Credential). |
+| **[Physical Attack Surface](https://en.wikipedia.org/wiki/Attack_surface)** | Includes unsecured building entrances, exposed network jacks, and accessible [server rooms](https://en.wikipedia.org/wiki/Server_room). If an attacker can physically touch a server or plug a device into a [switch](https://en.wikipedia.org/wiki/Network_switch), digital defenses are largely rendered moot. |
+
+![A conceptual diagram of a buffer overflow—a common vulnerability in the software attack surface where excess data spills into adjacent memory spaces.](https://wikipedia.org/wiki/Special:Redirect/file/Buffer_overflow_basicexample.svg)
+
+Because this terrain is constantly shifting—as [laptops](https://en.wikipedia.org/wiki/Laptop) connect to the network, spin-up [cloud containers](https://en.wikipedia.org/wiki/OS-level_virtualization), and install new applications—[security teams](https://en.wikipedia.org/wiki/Information_security) must engage in **attack surface management**. 
+
+> **Attack Surface Management** is the continuous discovery, [inventory](https://en.wikipedia.org/wiki/IT_asset_management), and monitoring of the IT assets of an organization. You cannot defend what you do not know you have.
+
+## Delivery Mechanisms: Understanding Threat Vectors
+
+Once attackers identify a [vulnerability](https://en.wikipedia.org/wiki/Vulnerability_%28computing%29) on the attack surface, they require a delivery mechanism to [exploit](https://en.wikipedia.org/wiki/Exploit_%28computer_security%29) it. These threat vectors are heavily weaponized versions of the standard communication and [productivity tools](https://en.wikipedia.org/wiki/Productivity_software) your organization relies on every day.
+
+### Message-Based Threat Vectors
+**Message-based threat vectors** utilize communication platforms to deliver [malicious payloads](https://en.wikipedia.org/wiki/Payload_%28computing%29) or links. Because these platforms are designed to facilitate rapid information sharing, they are highly efficient distribution mechanisms for attackers.
+
+*   **[Email](https://en.wikipedia.org/wiki/Email):** Attackers use email as a primary message-based threat vector to deliver [phishing](https://en.wikipedia.org/wiki/Phishing) links and malicious [attachments](https://en.wikipedia.org/wiki/Email_attachment). Email inherently crosses the [public internet](https://en.wikipedia.org/wiki/Internet) to reach internal inboxes, bridging the outside world and the internal [network](https://en.wikipedia.org/wiki/Computer_network).
+*   **[SMS](https://en.wikipedia.org/wiki/SMS) (Short Message Service):** Text messages serve as a threat vector for **[smishing](https://en.wikipedia.org/wiki/SMS_phishing)** (SMS phishing) attacks. Because users naturally trust their [mobile devices](https://en.wikipedia.org/wiki/Mobile_device) and SMS lacks the robust filtering layers found in [enterprise](https://en.wikipedia.org/wiki/Enterprise_architecture) email [gateways](https://en.wikipedia.org/wiki/Gateway_%28telecommunications%29), smishing is highly effective for stealing credentials or distributing [malware](https://en.wikipedia.org/wiki/Malware).
+
+![An example of an SMS phishing (smishing) message designed to create a false sense of urgency and trick a user into clicking a malicious link.](https://wikipedia.org/wiki/Special:Redirect/file/Example_phishing_SMS.svg)
+
+*   **[Instant Messaging](https://en.wikipedia.org/wiki/Instant_messaging):** Enterprise [collaboration tools](https://en.wikipedia.org/wiki/Collaborative_software) and public instant messaging platforms are often exploited to distribute malicious links to users. The informal, rapid-fire nature of IM causes users to lower their guard, making them more likely to click a link without verifying its destination.
+
+### File-Based Threat Vectors
+**File-based threat vectors** rely on the execution of [malicious code](https://en.wikipedia.org/wiki/Malware) embedded within standard document types. We often think of documents as inert, static text, but modern business files are highly complex and capable of executing [logic](https://en.wikipedia.org/wiki/Logic_programming).
+
+*   **[PDFs](https://en.wikipedia.org/wiki/PDF):** [Portable Document Format](https://en.wikipedia.org/wiki/PDF) (PDF) files are universally trusted, yet they can contain malicious [JavaScript](https://en.wikipedia.org/wiki/JavaScript) designed to compromise a user system. Attackers exploit vulnerabilities in the [PDF reader](https://en.wikipedia.org/wiki/PDF_reader) application itself when it processes this embedded [script](https://en.wikipedia.org/wiki/Scripting_language).
+*   **[Office Documents](https://en.wikipedia.org/wiki/Microsoft_Office):** Microsoft Office documents can host malicious [macros](https://en.wikipedia.org/wiki/Macro_%28computer_science%29) written in [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) (VBA). While intended to automate legitimate repetitive tasks, VBA is incredibly powerful, allowing an attacker to write macros that download secondary malware payloads, alter system [registries](https://en.wikipedia.org/wiki/Windows_Registry), or encrypt files the moment the document is opened.
+
+### Image-Based Threat Vectors
+Perhaps the most deceptive mechanisms are **image-based threat vectors**, which conceal malicious code or redirection mechanisms within graphical files.
+
+*   **[Steganography](https://en.wikipedia.org/wiki/Steganography):** This technique hides a secret message or malicious payload within an otherwise normal-looking [image file](https://en.wikipedia.org/wiki/Image_file_format). By altering the [least significant bits](https://en.wikipedia.org/wiki/Least_significant_bit) of an image's color data, attackers can embed [executable code](https://en.wikipedia.org/wiki/Executable) that remains completely invisible to the human eye and often undetected by standard [antivirus scanners](https://en.wikipedia.org/wiki/Antivirus_software).
+
+![Steganography enables attackers to hide malicious code or data within the seemingly benign layers of an image file. In this example, hidden numbers are only revealed under specific color filters.](https://wikipedia.org/wiki/Special:Redirect/file/Steganography.png)
+
+*   **[Quishing](https://en.wikipedia.org/wiki/Phishing) (QR Phishing):** [Quick Response](https://en.wikipedia.org/wiki/QR_code) (QR) codes are simply machine-readable optical labels. **Quishing** attacks use malicious Quick Response codes to direct users to fraudulent [websites](https://en.wikipedia.org/wiki/Website). Because a human cannot read a QR code natively, the user has no way to verify the destination [URL](https://en.wikipedia.org/wiki/URL) until their device has already processed the image and opened the [browser](https://en.wikipedia.org/wiki/Web_browser).
+
+![The structure of a QR code highlights why they are dangerous threat vectors: they are entirely machine-readable, making it impossible for a human to visually verify the destination URL before scanning.](https://wikipedia.org/wiki/Special:Redirect/file/QR_Code_Structure_Example_3.svg)
+
+## The Open Doors: Unsecure Networks and Default Credentials
+
+Beyond sophisticated malicious files, attackers frequently rely on misconfigurations and poor network hygiene to gain baseline access. These vectors do not require elaborate exploits; they simply require an administrator to leave the digital door unlocked.
+
+### Unsecure Networks
+**Unsecure networks** lack proper [encryption](https://en.wikipedia.org/wiki/Encryption) and expose transmitted data to [interception](https://en.wikipedia.org/wiki/Eavesdropping). If an attacker sits between a user and their destination, unencrypted data can be captured natively.
+
+*   **[Cleartext Protocols](https://en.wikipedia.org/wiki/Cleartext):** Protocols like **[Telnet](https://en.wikipedia.org/wiki/Telnet)** and **[File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol) (FTP)** transmit data without encryption. When an administrator authenticates over Telnet, their [username](https://en.wikipedia.org/wiki/Username) and [password](https://en.wikipedia.org/wiki/Password) travel across the network in [plaintext](https://en.wikipedia.org/wiki/Plaintext), allowing anyone running a [packet sniffer](https://en.wikipedia.org/wiki/Packet_analyzer) (like **[Wireshark](https://en.wikipedia.org/wiki/Wireshark)**) to capture the credentials perfectly intact.
+
+![A network protocol analyzer like Wireshark can intercept, decode, and display cleartext credentials transmitted over unsecure network protocols.](https://wikipedia.org/wiki/Special:Redirect/file/Wireshark_3.6_screenshot.png)
+
+*   **[Open Wi-Fi Networks](https://en.wikipedia.org/wiki/Wi-Fi_hotspot):** These networks do not require [authentication](https://en.wikipedia.org/wiki/Authentication) and transmit [wireless traffic](https://en.wikipedia.org/wiki/Wireless) in plaintext. An attacker in a coffee shop or hotel lobby can passively capture the traffic of every user connected to that unencrypted network.
+*   **[Rogue Access Points](https://en.wikipedia.org/wiki/Rogue_access_point) and [Evil Twins](https://en.wikipedia.org/wiki/Evil_twin_%28wireless_networks%29):** To force users onto unsecure connections, attackers deploy rogue access points or **evil twins** to intercept traffic on wireless networks. An evil twin broadcasts the exact same [SSID](https://en.wikipedia.org/wiki/Service_set_%28802.11_network%29) (network name) as a legitimate corporate or public network. Devices automatically connect to it based on prior trust, routing all the victim's traffic directly through the attacker's [hardware](https://en.wikipedia.org/wiki/Computer_hardware).
+
+### The Liability of Default Credentials
+**Default credentials** are pre-configured usernames and passwords set by hardware or software manufacturers (e.g., `admin` / `password`). They are intended purely for initial setup.
+
+Unfortunately, **[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)** devices—from [security cameras](https://en.wikipedia.org/wiki/Closed-circuit_television) to [smart thermostats](https://en.wikipedia.org/wiki/Smart_thermostat)—are frequently deployed on networks with unchanged default credentials. Because these devices often lack robust [user interfaces](https://en.wikipedia.org/wiki/User_interface), administrators simply plug them in and forget about them. 
+
+Attackers do not search for these manually. They use automated [network scanners](https://en.wikipedia.org/wiki/Port_scanner) and publicly available lists (often published in manufacturer manuals) to systematically guess default credentials across millions of [IP addresses](https://en.wikipedia.org/wiki/IP_address). Once a single IoT device is compromised, it becomes a beachhead—a foothold inside the network from which the attacker can pivot to high-value servers.
+
+![Internet of Things (IoT) devices, such as wireless IP cameras, are frequent targets for automated attacks because they are often deployed with unchanged factory default credentials.](https://wikipedia.org/wiki/Special:Redirect/file/Intellinet_Network_Solutions_NSC11-WN_Home_Network_IP_Camera.jpg)
+
+> **Crucial Defensive Mandate:** Organizations must change all default usernames and passwords prior to deploying any new device on a production network. This single operational rule eliminates an entire class of automated attacks.
+
+## The Trojan Horse: Supply Chain Attacks
+
+Finally, we must consider the perimeter outside your direct control. The **[supply chain](https://en.wikipedia.org/wiki/Supply_chain)** encompasses all third-party [vendors](https://en.wikipedia.org/wiki/Vendor), suppliers, and [service providers](https://en.wikipedia.org/wiki/Service_provider) interacting with an organization. You may lock down your own [infrastructure](https://en.wikipedia.org/wiki/IT_infrastructure) perfectly, but if you inherently trust software and hardware from third parties, their vulnerabilities become your vulnerabilities.
+
+A **[supply chain attack](https://en.wikipedia.org/wiki/Supply_chain_attack)** exploits vulnerabilities in a trusted third-party vendor to access the primary target. This threat vector bypasses traditional [perimeter defenses](https://en.wikipedia.org/wiki/Network_security) because the malicious payload is delivered via a trusted, [whitelisted](https://en.wikipedia.org/wiki/Whitelisting) channel.
+
+![A standard supply chain model. In a cybersecurity context, attackers exploit this trusted flow from upstream suppliers to bypass a target's primary perimeter defenses.](https://wikipedia.org/wiki/Special:Redirect/file/Supply_chain.svg)
+
+*   **Software Supply Chains:** Attackers compromise software supply chains by injecting malicious code into trusted [open-source libraries](https://en.wikipedia.org/wiki/Open-source_software) or vendor [updates](https://en.wikipedia.org/wiki/Patch_%28computing%29). If a popular code library used by thousands of applications is poisoned, every system that downloads the updated library is instantly compromised.
+*   **Hardware Supply Chains:** Hardware supply chain attacks involve tampering with physical components before delivery to the final customer. An adversary might intercept a [router](https://en.wikipedia.org/wiki/Router_%28computing%29) in transit, install a malicious microchip or backdoored [firmware](https://en.wikipedia.org/wiki/Firmware), and carefully repackage it. When the IT administrator unboxes and installs the router, the network is compromised from minute one.
+*   **[Managed Service Providers](https://en.wikipedia.org/wiki/Managed_services) (MSPs):** MSPs provide IT administration and support for dozens or hundreds of client organizations, requiring deep, privileged access to their clients' networks. Consequently, MSPs are high-value targets because compromising one provider can grant access to multiple client networks. For an attacker, breaching an MSP is the equivalent of stealing a [master skeleton key](https://en.wikipedia.org/wiki/Skeleton_key) that opens every building in the city.
+
+![Just as a skeleton key is filed down to bypass the internal wards of multiple physical locks, compromising a Managed Service Provider (MSP) allows an attacker to implicitly unlock the networks of multiple client organizations.](https://wikipedia.org/wiki/Special:Redirect/file/Skeletonkey.png)
+
+## Summary
+
+As an IT or security professional, your operational reality is defined by managing these vectors and surfaces. The attack surface dictates *what* you must [patch](https://en.wikipedia.org/wiki/Patch_%28computing%29), [harden](https://en.wikipedia.org/wiki/Hardening_%28computing%29), and monitor. The threat vectors dictate *how* you configure your email gateways, [endpoint detection](https://en.wikipedia.org/wiki/Endpoint_detection_and_response) systems, and network encryption policies. By systematically shrinking the attack surface—disabling unused ports, patching software, and educating humans—and by interrupting threat vectors—blocking macros, enforcing encrypted protocols, and demanding strict [supply chain audits](https://en.wikipedia.org/wiki/Supply_chain_security)—you construct a resilient environment capable of withstanding the inevitable assault.

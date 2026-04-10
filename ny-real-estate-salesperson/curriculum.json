@@ -1,0 +1,2556 @@
+{
+  "exam": {
+    "name": "New York Real Estate Salesperson",
+    "code": "NY-RES",
+    "provider": "New York DOS",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-09",
+    "generated_date": "2026-04-09",
+    "category_name": "Real Estate",
+    "category_slug": "real-estate",
+    "category_description": "Master property laws, contracts, and ethical practices needed to pass your real estate licensing exams and confidently represent clients.",
+    "exam_slug": "ny-real-estate-salesperson",
+    "theme_color": "#10b981",
+    "hero_headline": "Pass the NY Real Estate Salesperson exam with confidence.",
+    "hero_subheadline": "Exam-aligned property and contract study paths built from the official NY DOS syllabus and designed for long-term retention.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most prep material is dry, overwhelming, or disconnected from the exact NY DOS curriculum.",
+    "companion_solution": "Only Ever maps the official syllabus into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects.",
+    "learner_profile": "Aspiring real estate professional in New York. Navigating property laws, agency rules, and real estate finance. Responds well to practical real estate scenarios, closing procedures, and client interaction examples."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "license-law-and-regulations",
+      "title": "License Law and Regulations",
+      "weight": 0.038,
+      "description": "Introduction to the laws and regulations governing real estate licensure in New York.",
+      "directory": "01-license-law-and-regulations",
+      "topics": [
+        {
+          "order": 1,
+          "id": "introduction-to-licensing-law",
+          "title": "Introduction to Licensing Law",
+          "directory": "01-introduction-to-licensing-law",
+          "path": "01-license-law-and-regulations/01-introduction-to-licensing-law",
+          "description": "Understand the purpose of the licensing law and the different categories of licensure.",
+          "learning_objectives": [
+            "Explain the fundamental purpose of real estate licensing laws in New York.",
+            "Differentiate between the roles of a Real Estate Broker, Associate Broker, and Salesperson."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson",
+            "https://corofy.com/how-to-get-new-york-state-real-estate-license/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "responsibilities-of-licensure",
+          "title": "Responsibilities of Licensure",
+          "directory": "02-responsibilities-of-licensure",
+          "path": "01-license-law-and-regulations/02-responsibilities-of-licensure",
+          "description": "Responsibilities owed by real estate brokers and salespersons to the public and to each other.",
+          "learning_objectives": [
+            "Identify the broker's responsibilities to the public and to their licensees.",
+            "Understand the salesperson's obligations to the sponsoring broker and to the public."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "education-and-exemptions",
+          "title": "Education and Exemptions",
+          "directory": "03-education-and-exemptions",
+          "path": "01-license-law-and-regulations/03-education-and-exemptions",
+          "description": "Education requirements to obtain a license, duties requiring licensure, and exemptions.",
+          "learning_objectives": [
+            "List the specific education requirements for obtaining a New York real estate license.",
+            "Determine which activities require licensure and who is exempt from these rules."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "maintaining-a-license",
+          "title": "Maintaining a License",
+          "directory": "04-maintaining-a-license",
+          "path": "01-license-law-and-regulations/04-maintaining-a-license",
+          "description": "Key requirements for maintaining an active real estate license in New York.",
+          "learning_objectives": [
+            "Explain rules regarding who physically holds the license and the carrying of pocket cards.",
+            "Outline the steps to properly record changes in name, status, or location."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "changes-and-renewals",
+          "title": "Changes, Renewals, and Dual Licensure",
+          "directory": "05-changes-and-renewals",
+          "path": "01-license-law-and-regulations/05-changes-and-renewals",
+          "description": "Procedures for changing associations, renewing licenses, and holding dual licenses.",
+          "learning_objectives": [
+            "Describe the continuing education hours and renewal requirements for real estate agents.",
+            "Understand the procedures and implications of dual licensure as a broker and salesperson."
+          ],
+          "references": [
+            "https://realestatelicenseny.com/new-york-real-estate-license/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "department-of-state-regulations",
+          "title": "Department of State Regulations",
+          "directory": "06-department-of-state-regulations",
+          "path": "01-license-law-and-regulations/06-department-of-state-regulations",
+          "description": "Regulations promulgated by the Department of State, advertisement guidelines, and common violations.",
+          "learning_objectives": [
+            "Identify the specific advertising guidelines mandated by the Department of State.",
+            "Recognize the most common violations of real estate license law."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson",
+            "https://corofy.com/how-to-get-new-york-state-real-estate-license/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "required-disclosures",
+          "title": "Required Property Disclosures",
+          "directory": "07-required-disclosures",
+          "path": "01-license-law-and-regulations/07-required-disclosures",
+          "description": "Understanding Article 14 (Property Condition Disclosure Act) and uncapped natural gas wells disclosure.",
+          "learning_objectives": [
+            "Explain the requirements of the Property Condition Disclosure Act under Article 14.",
+            "Describe the required disclosures regarding uncapped natural gas wells under Section 242 of the Real Property Law."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "disciplinary-proceedings",
+          "title": "Disciplinary Proceedings",
+          "directory": "08-disciplinary-proceedings",
+          "path": "01-license-law-and-regulations/08-disciplinary-proceedings",
+          "description": "Penalties for violations and case studies involving disciplinary proceedings by the Department of State.",
+          "learning_objectives": [
+            "Identify potential liabilities and penalties for violating license laws.",
+            "Analyze case studies to understand the outcomes of real estate disciplinary proceedings."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "law-of-agency",
+      "title": "Law of Agency",
+      "weight": 0.143,
+      "description": "Comprehensive understanding of agency relationships, fiduciary duties, and disclosure laws.",
+      "directory": "02-law-of-agency",
+      "topics": [
+        {
+          "order": 1,
+          "id": "the-real-estate-agent",
+          "title": "The Real Estate Agent",
+          "directory": "01-the-real-estate-agent",
+          "path": "02-law-of-agency/01-the-real-estate-agent",
+          "description": "Licensure requirements and definitions regarding who the agent represents.",
+          "learning_objectives": [
+            "Define the concept of agency in real estate.",
+            "Distinguish between a client and a customer in an agency relationship."
+          ],
+          "references": [
+            "https://reedc.com/why-is-the-law-of-agency-so-important/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "the-agent-as-fiduciary",
+          "title": "The Agent as Fiduciary",
+          "directory": "02-the-agent-as-fiduciary",
+          "path": "02-law-of-agency/02-the-agent-as-fiduciary",
+          "description": "Fiduciary responsibilities and the scope of an agent's authority.",
+          "learning_objectives": [
+            "Detail the fiduciary duties of loyalty, confidentiality, full disclosure, obedience, reasonable skill/care, and accounting.",
+            "Explain the consequences of agent misrepresentation."
+          ],
+          "references": [
+            "https://corofy.com/law-of-agency-overview/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "agency-and-brokerage-roles",
+          "title": "Agency and Brokerage Roles",
+          "directory": "03-agency-and-brokerage-roles",
+          "path": "02-law-of-agency/03-agency-and-brokerage-roles",
+          "description": "The roles of subagents, cooperating brokers, and buyer brokers.",
+          "learning_objectives": [
+            "Differentiate between the roles of the principal agent and the subagent.",
+            "Explain the nature of cooperating brokers and their function in a transaction."
+          ],
+          "references": [
+            "https://agmblaw.com/agency-issues-top-ten/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "creation-of-agency",
+          "title": "Creation of Agency",
+          "directory": "04-creation-of-agency",
+          "path": "02-law-of-agency/04-creation-of-agency",
+          "description": "How an agency is created, compensation determination, and implied agency.",
+          "learning_objectives": [
+            "Describe how an agency relationship is formally created.",
+            "Understand concepts like implied agency, ratification, and estoppel."
+          ],
+          "references": [
+            "https://corofy.com/law-of-agency-overview/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "anti-trust-issues",
+          "title": "Anti-Trust Issues",
+          "directory": "05-anti-trust-issues",
+          "path": "02-law-of-agency/05-anti-trust-issues",
+          "description": "Common anti-trust violations in real estate brokerage.",
+          "learning_objectives": [
+            "Identify anti-trust violations including group boycotting and price fixing.",
+            "Explain market allocation agreements and tie-in arrangements."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "agency-alternatives",
+          "title": "Agency Alternatives",
+          "directory": "06-agency-alternatives",
+          "path": "02-law-of-agency/06-agency-alternatives",
+          "description": "An overview of different types of agents in a real estate transaction.",
+          "learning_objectives": [
+            "Differentiate between a seller's agent, buyer's agent, broker's agent, and dual agent.",
+            "Explain the role of a landlord's agent versus a tenant's agent."
+          ],
+          "references": [
+            "https://nyrei.com/law-of-agency/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "subagency",
+          "title": "Subagency",
+          "directory": "07-subagency",
+          "path": "02-law-of-agency/07-subagency",
+          "description": "The function and creation of subagency and the obligations to buyers and sellers.",
+          "learning_objectives": [
+            "Determine who creates subagency and the relationship to the principal.",
+            "Outline the specific obligations a subagent owes to the seller and to the buyer."
+          ],
+          "references": [
+            "https://agmblaw.com/agency-issues-top-ten/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "dual-agency-basics",
+          "title": "Dual Agency Basics",
+          "directory": "08-dual-agency-basics",
+          "path": "02-law-of-agency/08-dual-agency-basics",
+          "description": "The definition of dual agency, informed consent, and associated risks.",
+          "learning_objectives": [
+            "Define dual agency and the obligation to obtain informed consent from all parties.",
+            "Explain the risks and consequences of undisclosed dual agency."
+          ],
+          "references": [
+            "https://reedc.com/why-is-the-law-of-agency-so-important/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "consensual-dual-agency",
+          "title": "Consensual Dual Agency",
+          "directory": "09-consensual-dual-agency",
+          "path": "02-law-of-agency/09-consensual-dual-agency",
+          "description": "Consensual dual agency operations, designated agents, and New York regulatory schemes.",
+          "learning_objectives": [
+            "Explain the difference between single licensee dual agency and broker dual agency.",
+            "Describe the process of establishing designated sales agents under company policy."
+          ],
+          "references": [
+            "https://agmblaw.com/agency-issues-top-ten/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "single-agency-relationships",
+          "title": "Single Agency Relationships",
+          "directory": "10-single-agency-relationships",
+          "path": "02-law-of-agency/10-single-agency-relationships",
+          "description": "Practicing single agency, handling in-house vs. cooperative sales, and buyer brokerage.",
+          "learning_objectives": [
+            "Summarize the principle that a single agency broker represents either the buyer or the seller, but never both.",
+            "Analyze the dynamics of buyer/tenant agency and who pays the buyer's broker."
+          ],
+          "references": [
+            "https://nyrei.com/law-of-agency/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "termination-of-agency",
+          "title": "Termination of Agency",
+          "directory": "11-termination-of-agency",
+          "path": "02-law-of-agency/11-termination-of-agency",
+          "description": "How agency relationships are legally terminated.",
+          "learning_objectives": [
+            "List the various ways an agency relationship can be terminated.",
+            "Understand the enduring fiduciary duties post-termination."
+          ],
+          "references": [
+            "https://nyrei.com/law-of-agency/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "forms-and-disclosure-policy",
+          "title": "Forms and Disclosure Policy",
+          "directory": "12-forms-and-disclosure-policy",
+          "path": "02-law-of-agency/12-forms-and-disclosure-policy",
+          "description": "Required forms, listing agreements, and section 443 of the Real Property Law.",
+          "learning_objectives": [
+            "Differentiate between exclusive right to sell, exclusive agency, and open listing agreements.",
+            "Explain the disclosure requirements under Section 443 of the New York Real Property Law."
+          ],
+          "references": [
+            "https://agmblaw.com/agency-issues-top-ten/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "completing-the-signature-page",
+          "title": "Completing the Signature Page",
+          "directory": "13-completing-the-signature-page",
+          "path": "02-law-of-agency/13-completing-the-signature-page",
+          "description": "Handling the first substantive meeting and managing refusal to sign.",
+          "learning_objectives": [
+            "Define 'first substantive meeting' and understand its requirements.",
+            "Detail the procedure if a buyer or seller refuses to sign the agency disclosure document."
+          ],
+          "references": [
+            "https://agmblaw.com/agency-issues-top-ten/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "independent-contractor-relationship",
+          "title": "Independent Contractor Relationship",
+          "directory": "14-independent-contractor-relationship",
+          "path": "02-law-of-agency/14-independent-contractor-relationship",
+          "description": "Nature of the independent contractor relationship under common law and IRS rules.",
+          "learning_objectives": [
+            "Explain the nature of the independent contractor relationship versus an employee.",
+            "Identify the criteria established by case law, the IRS, and New York State."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "1986-independent-contractor-laws",
+          "title": "1986 Independent Contractor Laws",
+          "directory": "15-1986-independent-contractor-laws",
+          "path": "02-law-of-agency/15-1986-independent-contractor-laws",
+          "description": "New York State Labor Law additions and Internal Revenue Code Section 3508 compliance.",
+          "learning_objectives": [
+            "Describe the 1986 additions to the New York State Labor Law.",
+            "Understand the requirements for a written contract not executed under duress."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 16,
+          "id": "compliance-and-elements",
+          "title": "Compliance and Elements",
+          "directory": "16-compliance-and-elements",
+          "path": "02-law-of-agency/16-compliance-and-elements",
+          "description": "Specific elements that validate an independent contractor status.",
+          "learning_objectives": [
+            "List the elements of an independent contractor relationship, including commission-based pay and autonomy over hours.",
+            "Explain why written documentation cannot overcome a broker's actual direction and control."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 17,
+          "id": "consequences-of-non-compliance",
+          "title": "Consequences of Non-Compliance",
+          "directory": "17-consequences-of-non-compliance",
+          "path": "02-law-of-agency/17-consequences-of-non-compliance",
+          "description": "Risks to brokers and salespersons if independent contractor laws are violated.",
+          "learning_objectives": [
+            "Identify the financial and legal responsibilities placed on a broker if sales associates are deemed employees.",
+            "Explain the tax consequences for salespersons upon non-compliance."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "legal-issues",
+      "title": "Legal Issues",
+      "weight": 0.13,
+      "description": "Estates, interests, liens, easements, deeds, and the title closing process.",
+      "directory": "03-legal-issues",
+      "topics": [
+        {
+          "order": 1,
+          "id": "estates-and-interests-overview",
+          "title": "Estates and Interests Overview",
+          "directory": "01-estates-and-interests-overview",
+          "path": "03-legal-issues/01-estates-and-interests-overview",
+          "description": "Introduction to the bundle of rights and property distinctions.",
+          "learning_objectives": [
+            "Define the bundle of rights associated with property ownership.",
+            "Differentiate between land, real estate, real property, and personal property."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "uses-of-real-property",
+          "title": "Uses of Real Property",
+          "directory": "02-uses-of-real-property",
+          "path": "03-legal-issues/02-uses-of-real-property",
+          "description": "Different uses and defining characteristics of real property.",
+          "learning_objectives": [
+            "Identify various uses of real property, such as residential, commercial, industrial, and agricultural.",
+            "Understand the inherent characteristics of real property."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "freehold-and-leasehold-estates",
+          "title": "Freehold and Leasehold Estates",
+          "directory": "03-freehold-and-leasehold-estates",
+          "path": "03-legal-issues/03-freehold-and-leasehold-estates",
+          "description": "Understanding fee simple, life estates, and leasehold estate types.",
+          "learning_objectives": [
+            "Define freehold estates including fee simple, qualified fee, and life estates.",
+            "Explain leasehold estates such as estate for years, periodic estate, estate at will, and estate at sufferance."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "forms-of-ownership",
+          "title": "Forms of Ownership",
+          "directory": "04-forms-of-ownership",
+          "path": "03-legal-issues/04-forms-of-ownership",
+          "description": "Estate in severalty and types of co-ownership.",
+          "learning_objectives": [
+            "Describe estate in severalty and types of co-ownership like tenancy in common and joint tenancy.",
+            "Explain the concept of tenancy by the entirety and the termination of joint tenancies."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "business-organizations-and-ownership",
+          "title": "Business Organizations and Ownership",
+          "directory": "05-business-organizations-and-ownership",
+          "path": "03-legal-issues/05-business-organizations-and-ownership",
+          "description": "Trusts, partnerships, corporations, and syndicates.",
+          "learning_objectives": [
+            "Understand how partnerships, corporations, and syndicates own real estate.",
+            "Identify the nature of property interests transferred in cooperatives and condominiums."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "encumbrances-and-liens",
+          "title": "Encumbrances and Liens",
+          "directory": "06-encumbrances-and-liens",
+          "path": "03-legal-issues/06-encumbrances-and-liens",
+          "description": "Voluntary and involuntary liens, and general liens.",
+          "learning_objectives": [
+            "Define encumbrances and distinguish between voluntary and involuntary liens.",
+            "Provide examples of general liens such as judgments and estate taxes."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "specific-liens",
+          "title": "Specific Liens",
+          "directory": "07-specific-liens",
+          "path": "03-legal-issues/07-specific-liens",
+          "description": "Tax liens, mortgage liens, mechanic's liens, and priority of liens.",
+          "learning_objectives": [
+            "Identify specific liens and understand their effect on title.",
+            "Explain the priority of liens and the function of subordination agreements."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "easements-and-deed-restrictions",
+          "title": "Easements and Deed Restrictions",
+          "directory": "08-easements-and-deed-restrictions",
+          "path": "03-legal-issues/08-easements-and-deed-restrictions",
+          "description": "Types of easements, creation, termination, and deed restrictions.",
+          "learning_objectives": [
+            "Distinguish between easement appurtenant, easement in gross, necessity, and prescription.",
+            "Describe the process for creating and terminating an easement."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "definition-and-purpose-of-deeds",
+          "title": "Definition and Purpose of Deeds",
+          "directory": "09-definition-and-purpose-of-deeds",
+          "path": "03-legal-issues/09-definition-and-purpose-of-deeds",
+          "description": "The function and significance of deeds in real estate transactions.",
+          "learning_objectives": [
+            "Define a deed and explain its overarching purpose.",
+            "Understand the concepts of metes and bounds, monuments, and block description."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "essential-elements-of-a-deed",
+          "title": "Essential Elements of a Deed",
+          "directory": "10-essential-elements-of-a-deed",
+          "path": "03-legal-issues/10-essential-elements-of-a-deed",
+          "description": "Key components required to make a deed legally valid.",
+          "learning_objectives": [
+            "List the essential elements of a deed including grantor, grantee, and consideration.",
+            "Explain the habendum clause, acknowledgment, and the delivery and acceptance process."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "forms-of-deeds",
+          "title": "Forms of Deeds",
+          "directory": "11-forms-of-deeds",
+          "path": "03-legal-issues/11-forms-of-deeds",
+          "description": "Full covenant and warranty deeds, bargain and sale deeds, and quit claim deeds.",
+          "learning_objectives": [
+            "Differentiate between various forms of deeds such as full covenant, bargain and sale, and quit claim deeds.",
+            "Understand specific covenants like seizin, quiet enjoyment, and further assurance."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "conveyance-after-death",
+          "title": "Conveyance After Death",
+          "directory": "12-conveyance-after-death",
+          "path": "03-legal-issues/12-conveyance-after-death",
+          "description": "Intestate and testate succession and conveyance procedures.",
+          "learning_objectives": [
+            "Compare intestate succession (title by descent) with testate succession (probate, devise).",
+            "Identify the roles of an administrator and an executor."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "title-closing-introduction",
+          "title": "Title Closing Introduction",
+          "directory": "13-title-closing-introduction",
+          "path": "03-legal-issues/13-title-closing-introduction",
+          "description": "The significance of the closing and the functions of attending parties.",
+          "learning_objectives": [
+            "Explain the significance of a title closing and why it is important.",
+            "Describe the functions of the individuals who attend a closing."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "the-title-closing-process",
+          "title": "The Title Closing Process",
+          "directory": "14-the-title-closing-process",
+          "path": "03-legal-issues/14-the-title-closing-process",
+          "description": "Consummation of the transaction, recording acts, abstract of title, and title insurance.",
+          "learning_objectives": [
+            "Outline the steps in the consummation of a real estate transaction.",
+            "Understand the significance of recording acts, chain of title, and title insurance."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "closing-costs-and-adjustments",
+          "title": "Closing Costs and Adjustments",
+          "directory": "15-closing-costs-and-adjustments",
+          "path": "03-legal-issues/15-closing-costs-and-adjustments",
+          "description": "Analysis of the seller's and purchaser's closing costs.",
+          "learning_objectives": [
+            "List typical seller's closing costs, such as transfer taxes and broker's commission.",
+            "List typical purchaser's closing costs, including appraisal, inspections, and title insurance."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 16,
+          "id": "respa-and-prorations",
+          "title": "RESPA and Prorations",
+          "directory": "16-respa-and-prorations",
+          "path": "03-legal-issues/16-respa-and-prorations",
+          "description": "Real Estate Settlement Procedures Act and the arithmetic of prorations.",
+          "learning_objectives": [
+            "Define the basic requirements of the Real Estate Settlement Procedures Act (RESPA).",
+            "Calculate basic adjustments and prorations for real estate taxes, insurance, and utilities."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "the-contract-of-sales-and-leases",
+      "title": "The Contract of Sales and Leases",
+      "weight": 0.039,
+      "description": "Principles and procedures related to real estate leases, contracts, and preparation.",
+      "directory": "04-the-contract-of-sales-and-leases",
+      "topics": [
+        {
+          "order": 1,
+          "id": "types-of-leasehold-estates",
+          "title": "Types of Leasehold Estates",
+          "directory": "01-types-of-leasehold-estates",
+          "path": "04-the-contract-of-sales-and-leases/01-types-of-leasehold-estates",
+          "description": "Defining leases and the different types of leasehold estates.",
+          "learning_objectives": [
+            "Define a lease and outline its primary functions.",
+            "Identify the four major types of leasehold estates."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "standard-lease-provisions",
+          "title": "Standard Lease Provisions",
+          "directory": "02-standard-lease-provisions",
+          "path": "04-the-contract-of-sales-and-leases/02-standard-lease-provisions",
+          "description": "The requirements for making a valid lease under contract law.",
+          "learning_objectives": [
+            "List the necessary provisions for a valid lease, such as capacity to contract, demising clause, and consideration.",
+            "Understand the plain language requirements for residential leases."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "commercial-and-residential-leases",
+          "title": "Commercial and Residential Leases",
+          "directory": "03-commercial-and-residential-leases",
+          "path": "04-the-contract-of-sales-and-leases/03-commercial-and-residential-leases",
+          "description": "Distinctions between commercial and residential lease rules, including ETPA.",
+          "learning_objectives": [
+            "Identify key commercial lease elements, such as renewals and right limitations.",
+            "Explain residential lease aspects like ETPA rules, luxury decontrol, and security deposits."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "essentials-of-a-valid-contract",
+          "title": "Essentials of a Valid Contract",
+          "directory": "04-essentials-of-a-valid-contract",
+          "path": "04-the-contract-of-sales-and-leases/04-essentials-of-a-valid-contract",
+          "description": "Basic contract types and essential components.",
+          "learning_objectives": [
+            "Differentiate between expressed, implied, bilateral, and unilateral contracts.",
+            "List the essentials of a valid contract, including mutual agreement and consideration."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "sales-contract-provisions",
+          "title": "Sales Contract Provisions",
+          "directory": "05-sales-contract-provisions",
+          "path": "04-the-contract-of-sales-and-leases/05-sales-contract-provisions",
+          "description": "Detailed clauses and provisions found in a real estate sales contract.",
+          "learning_objectives": [
+            "Identify key components of a sales contract such as legal description, terms of payment, and 'subject to' provisions.",
+            "Explain loan contingency clauses, condition of property, and merger clauses."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "binders-and-purchase-offers",
+          "title": "Binders and Purchase Offers",
+          "directory": "06-binders-and-purchase-offers",
+          "path": "04-the-contract-of-sales-and-leases/06-binders-and-purchase-offers",
+          "description": "The use of binders, purchase offers, and the Statute of Frauds.",
+          "learning_objectives": [
+            "Understand the use and limitations of binders and purchase offers.",
+            "Explain how the Statute of Frauds applies to real estate contracts."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "contract-preparation-data",
+          "title": "Contract Preparation Data",
+          "directory": "07-contract-preparation-data",
+          "path": "04-the-contract-of-sales-and-leases/07-contract-preparation-data",
+          "description": "Gathering necessary data for contract preparation and property descriptions.",
+          "learning_objectives": [
+            "List the documentation required to prepare a contract, including prior deeds, surveys, and tax bills.",
+            "Verify property descriptions using metes and bounds, lot on filed map, or street addresses."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "mortgage-contingency-and-down-payment",
+          "title": "Mortgage Contingency and Down Payment",
+          "directory": "08-mortgage-contingency-and-down-payment",
+          "path": "04-the-contract-of-sales-and-leases/08-mortgage-contingency-and-down-payment",
+          "description": "Types of mortgage contingencies and handling the down payment.",
+          "learning_objectives": [
+            "Differentiate between traditional, VA/FHA, purchase money, and assumable mortgages in contingency clauses.",
+            "Understand New York customs regarding the holding and handling of contract down payments."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "customs-and-contract-procedures",
+          "title": "Customs and Contract Procedures",
+          "directory": "09-customs-and-contract-procedures",
+          "path": "04-the-contract-of-sales-and-leases/09-customs-and-contract-procedures",
+          "description": "Contract signing procedures, sequence, and attorney review clauses.",
+          "learning_objectives": [
+            "Determine who signs a contract first and the reasons behind the procedure.",
+            "Explain the role of riders, lead-based paint clauses, and attorney review clauses in the signing process."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "real-estate-finance",
+      "title": "Real Estate Finance",
+      "weight": 0.065,
+      "description": "Analysis of mortgage principles, loan types, financing laws, and predatory lending.",
+      "directory": "05-real-estate-finance",
+      "topics": [
+        {
+          "order": 1,
+          "id": "mortgage-definition-and-mechanics",
+          "title": "Mortgage Definition and Mechanics",
+          "directory": "01-mortgage-definition-and-mechanics",
+          "path": "05-real-estate-finance/01-mortgage-definition-and-mechanics",
+          "description": "Basic definition of a mortgage, rights retained by owners, and foreclosure.",
+          "learning_objectives": [
+            "Explain how a mortgage creates a lien while the owner retains usual rights of ownership.",
+            "Understand basic concepts like bond/note, PITI, foreclosure, and discount points."
+          ],
+          "references": [
+            "https://licenseclassroom.com/new-york-real-estate-finance"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "duties-of-a-mortgagor",
+          "title": "Duties of a Mortgagor",
+          "directory": "02-duties-of-a-mortgagor",
+          "path": "05-real-estate-finance/02-duties-of-a-mortgagor",
+          "description": "The legal responsibilities and duties of a property mortgagor.",
+          "learning_objectives": [
+            "List the primary duties of a mortgagor, including keeping property repaired and insured.",
+            "Understand the requirement to pay all taxes, assessments, and the debt insured."
+          ],
+          "references": [
+            "https://licenseclassroom.com/new-york-real-estate-finance"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "sale-of-property-with-mortgage",
+          "title": "Sale of Property with a Mortgage",
+          "directory": "03-sale-of-property-with-mortgage",
+          "path": "05-real-estate-finance/03-sale-of-property-with-mortgage",
+          "description": "Scenarios regarding the sale of mortgaged property and recording.",
+          "learning_objectives": [
+            "Differentiate between a sale free and clear, sale subject to the mortgage, and buyer assuming the debt.",
+            "Explain the importance of recording a mortgage."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "general-types-of-mortgages",
+          "title": "General Types of Mortgages",
+          "directory": "04-general-types-of-mortgages",
+          "path": "05-real-estate-finance/04-general-types-of-mortgages",
+          "description": "Comparison of conventional versus government insured or guaranteed mortgages.",
+          "learning_objectives": [
+            "Identify the characteristics of a conventional mortgage.",
+            "Describe the roles of government-backed loans such as FHA, VA, RHS, and SONYMA."
+          ],
+          "references": [
+            "https://licenseclassroom.com/new-york-real-estate-finance"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "specific-loans-and-payment",
+          "title": "Specific Loans and Payment",
+          "directory": "05-specific-loans-and-payment",
+          "path": "05-real-estate-finance/05-specific-loans-and-payment",
+          "description": "Detailed look at specific loan structures including ARMs, balloons, and wraparounds.",
+          "learning_objectives": [
+            "Differentiate between fixed rate, adjustable rate, balloon, and graduated payment loans.",
+            "Understand specialized loans such as blanket, wraparound, swing/bridge, construction, and reverse mortgages."
+          ],
+          "references": [
+            "https://licenseclassroom.com/new-york-real-estate-finance"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "secondary-markets",
+          "title": "Secondary Markets",
+          "directory": "06-secondary-markets",
+          "path": "05-real-estate-finance/06-secondary-markets",
+          "description": "Overview of Fannie Mae, Ginnie Mae, and Federal Home Loan Mortgage Corporation.",
+          "learning_objectives": [
+            "Explain the function of the secondary mortgage market.",
+            "Identify the roles of FNMA, GNMA, and FHLMC in providing liquidity."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "truth-in-lending-regulation-z",
+          "title": "Truth in Lending (Regulation Z)",
+          "directory": "07-truth-in-lending-regulation-z",
+          "path": "05-real-estate-finance/07-truth-in-lending-regulation-z",
+          "description": "Consumer Credit Protection Act, disclosures, and right to rescind.",
+          "learning_objectives": [
+            "Outline the disclosure requirements under the Consumer Credit Protection Act (Regulation Z).",
+            "Explain advertising regulations and the borrower's right to rescind."
+          ],
+          "references": [
+            "https://licenseclassroom.com/new-york-real-estate-finance"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "lenders-criteria-property-quality",
+          "title": "Lender's Criteria for Granting a Loan",
+          "directory": "08-lenders-criteria-property-quality",
+          "path": "05-real-estate-finance/08-lenders-criteria-property-quality",
+          "description": "How lenders assess investment quality of property and borrower ability to repay.",
+          "learning_objectives": [
+            "Determine how lenders evaluate the investment quality of a property via appraisal, condition, and loan-to-value.",
+            "Identify the criteria used to verify a borrower's ability to repay, including qualifying ratios and employment history."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "predatory-lending-overview",
+          "title": "Predatory Lending Overview",
+          "directory": "09-predatory-lending-overview",
+          "path": "05-real-estate-finance/09-predatory-lending-overview",
+          "description": "Defining predatory lending, sub-prime loans, and associated fraud.",
+          "learning_objectives": [
+            "Define predatory lending and identify practices like hidden fees, flipping, and unwarranted balloon payments.",
+            "Understand the impact of predatory lending practices on foreclosure rates and applicable laws."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "id": "land-use-regulations",
+      "title": "Land Use Regulations",
+      "weight": 0.039,
+      "description": "Zoning laws, planning boards, and police powers affecting property use.",
+      "directory": "06-land-use-regulations",
+      "topics": [
+        {
+          "order": 1,
+          "id": "bundle-of-rights-and-planning",
+          "title": "Bundle of Rights and Planning",
+          "directory": "01-bundle-of-rights-and-planning",
+          "path": "06-land-use-regulations/01-bundle-of-rights-and-planning",
+          "description": "As of right zoning, the need to plan, and private land use controls.",
+          "learning_objectives": [
+            "Understand the concept of 'As of Right Zoning' and future planning necessities.",
+            "Explain private land use controls such as deed restrictions and covenants."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "police-power-and-building-codes",
+          "title": "Police Power and Building Codes",
+          "directory": "02-police-power-and-building-codes",
+          "path": "06-land-use-regulations/02-police-power-and-building-codes",
+          "description": "State and local authority over zoning and building codes.",
+          "learning_objectives": [
+            "Describe how police power is used to enforce Article 9-A and State Building/Fire Codes.",
+            "Understand local authority functions like clustering, incentive zoning, and the Sunshine Law."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "the-planning-board",
+          "title": "The Planning Board",
+          "directory": "03-the-planning-board",
+          "path": "06-land-use-regulations/03-the-planning-board",
+          "description": "Role of the planning board in managing comprehensive plans and subdivisions.",
+          "learning_objectives": [
+            "Identify the components of a Master Comprehensive Plan and official maps.",
+            "Explain the planning board's role in subdivisions, capital budgeting, and PUDs."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "zoning-board-of-appeals",
+          "title": "Zoning Board of Appeals",
+          "directory": "04-zoning-board-of-appeals",
+          "path": "06-land-use-regulations/04-zoning-board-of-appeals",
+          "description": "Administrative appeal mechanisms and variance approvals.",
+          "learning_objectives": [
+            "Explain the quasi-judicial function of the zoning board of appeals.",
+            "Differentiate between an Article 78 procedure and a special use permit."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "use-and-area-variances",
+          "title": "Use and Area Variances",
+          "directory": "05-use-and-area-variances",
+          "path": "06-land-use-regulations/05-use-and-area-variances",
+          "description": "Criteria for granting use ('Unnecessary Hardship') and area ('Practical Difficulty') variances.",
+          "learning_objectives": [
+            "List the criteria required to prove 'Unnecessary Hardship' for a use variance.",
+            "List the criteria required to prove 'Practical Difficulty' for an area variance."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "local-enforcement",
+          "title": "Local Enforcement",
+          "directory": "06-local-enforcement",
+          "path": "06-land-use-regulations/06-local-enforcement",
+          "description": "The roles of building departments, health boards, and local courts.",
+          "learning_objectives": [
+            "Identify the enforcement responsibilities of building inspectors and code enforcement officers.",
+            "Understand the roles of the Board of Health and professional engineering services."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "id": "construction-and-environmental-issues",
+      "title": "Construction and Environmental Issues",
+      "weight": 0.065,
+      "description": "Fundamentals of building construction systems and environmental hazard management.",
+      "directory": "07-construction-and-environmental-issues",
+      "topics": [
+        {
+          "order": 1,
+          "id": "land-use-and-site-requirements",
+          "title": "Land Use and Site Requirements",
+          "directory": "01-land-use-and-site-requirements",
+          "path": "07-construction-and-environmental-issues/01-land-use-and-site-requirements",
+          "description": "Building permits, codes, and specific on-site requirements in NY.",
+          "learning_objectives": [
+            "Explain the necessity of plans, specifications, and certificates of occupancy.",
+            "Describe New York State requirements for on-site wells, sanitary systems, and energy codes."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "structural-components-and-framing",
+          "title": "Structural Components and Framing",
+          "directory": "02-structural-components-and-framing",
+          "path": "07-construction-and-environmental-issues/02-structural-components-and-framing",
+          "description": "Basic building structural parts from footings to the roof ridge.",
+          "learning_objectives": [
+            "Identify basic structural components such as footings, foundation walls, and wood framing members.",
+            "Understand terminology like girders, studs, roof rafters, and slab-on-grade construction."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "structural-tie-ins-and-energy-efficiencies",
+          "title": "Structural Tie-Ins and Energy Efficiencies",
+          "directory": "03-structural-tie-ins-and-energy-efficiencies",
+          "path": "07-construction-and-environmental-issues/03-structural-tie-ins-and-energy-efficiencies",
+          "description": "Integration of components, R-factors, and insulation types.",
+          "learning_objectives": [
+            "Define structural tie-in terminology including headers, bearing walls, and lintels.",
+            "Explain energy efficiency concepts such as R-factor, installation types, and proper insulation placement."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "heating-and-ventilation-systems",
+          "title": "Heating and Ventilation Systems",
+          "directory": "04-heating-and-ventilation-systems",
+          "path": "07-construction-and-environmental-issues/04-heating-and-ventilation-systems",
+          "description": "Types of heating systems, ventilation importance, and oil tanks.",
+          "learning_objectives": [
+            "Differentiate between hot water, steam, and forced warm air heating systems.",
+            "Describe DEC regulations on underground and above ground oil storage tanks."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "plumbing-systems",
+          "title": "Plumbing Systems",
+          "directory": "05-plumbing-systems",
+          "path": "07-construction-and-environmental-issues/05-plumbing-systems",
+          "description": "Hot water heating, sanitary waste systems, and pipe materials.",
+          "learning_objectives": [
+            "Explain hot water heater sizing and domestic water incoming services.",
+            "Compare the advantages and disadvantages of piping materials like galvanized steel, copper, and PVC."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "electrical-systems",
+          "title": "Electrical Systems",
+          "directory": "06-electrical-systems",
+          "path": "07-construction-and-environmental-issues/06-electrical-systems",
+          "description": "Voltage, amperage, wiring materials, and National Electric Code.",
+          "learning_objectives": [
+            "Identify utility versus landowner responsibilities for electrical service and voltage identification (110/220).",
+            "Compare wiring materials such as BX, Romex, Conduit, and Greenfield, and identify panel distributions."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "long-standing-environmental-issues",
+          "title": "Long Standing Environmental Issues",
+          "directory": "07-long-standing-environmental-issues",
+          "path": "07-construction-and-environmental-issues/07-long-standing-environmental-issues",
+          "description": "Familiar environmental issues including water systems, septics, and termites.",
+          "learning_objectives": [
+            "Recognize public and private water supply testing and health-related issues.",
+            "Understand requirements for private sewerage disposal (septics) and NYSDEC wood destroying insect testing."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "contemporary-environmental-issues",
+          "title": "Contemporary Environmental Issues",
+          "directory": "08-contemporary-environmental-issues",
+          "path": "07-construction-and-environmental-issues/08-contemporary-environmental-issues",
+          "description": "Handling asbestos, lead, radon, and PCBs in real estate.",
+          "learning_objectives": [
+            "Outline health effects and testing procedures for asbestos, lead, and radon.",
+            "Explain remediation requirements and disclosure policies for lead and indoor air quality."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "environmental-assessments",
+          "title": "Environmental Assessments",
+          "directory": "09-environmental-assessments",
+          "path": "07-construction-and-environmental-issues/09-environmental-assessments",
+          "description": "Commercial Phase I to IV assessments, CFCs, and underground tanks.",
+          "learning_objectives": [
+            "Identify the four phases of environmental assessment used in commercial transactions.",
+            "Describe issues relating to underground storage tanks, electromagnetic fields, and CFCs."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "id": "valuation-process-and-pricing-properties",
+      "title": "Valuation Process and Pricing Properties",
+      "weight": 0.039,
+      "description": "Appraisals, market value, pricing properties, and comparative market analysis (CMA).",
+      "directory": "08-valuation-process-and-pricing-properties",
+      "topics": [
+        {
+          "order": 1,
+          "id": "appraisal-valuation-and-evaluation",
+          "title": "Appraisal, Valuation and Evaluation",
+          "directory": "01-appraisal-valuation-and-evaluation",
+          "path": "08-valuation-process-and-pricing-properties/01-appraisal-valuation-and-evaluation",
+          "description": "Differences between formal appraisals, general valuations, and evaluations.",
+          "learning_objectives": [
+            "Define appraisal, valuation, and evaluation.",
+            "Identify types of value such as market value, investment value, and insurable value."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "market-value-vs-price-and-cost",
+          "title": "Market Value vs. Price and Cost",
+          "directory": "02-market-value-vs-price-and-cost",
+          "path": "08-valuation-process-and-pricing-properties/02-market-value-vs-price-and-cost",
+          "description": "Distinguishing market value from sales price and actual costs.",
+          "learning_objectives": [
+            "Differentiate between market value, price, and cost.",
+            "Categorize direct (hard) costs versus indirect costs in property development."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "comparative-market-analysis",
+          "title": "Comparative Market Analysis (CMA)",
+          "directory": "03-comparative-market-analysis",
+          "path": "08-valuation-process-and-pricing-properties/03-comparative-market-analysis",
+          "description": "Preparing and properly representing a Comparative Market Analysis.",
+          "learning_objectives": [
+            "Understand why a CMA must never be referred to as an appraisal under the law.",
+            "List the steps in preparing a CMA including data collection and listing comparable past sales."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "residential-market-analysis-and-highest-use",
+          "title": "Residential Market Analysis and Highest Use",
+          "directory": "04-residential-market-analysis-and-highest-use",
+          "path": "08-valuation-process-and-pricing-properties/04-residential-market-analysis-and-highest-use",
+          "description": "Analyzing the residential market and determining highest and best use.",
+          "learning_objectives": [
+            "Identify key factors in residential market analysis such as recent sold properties and current competing properties.",
+            "Explain the concept of 'Highest and Best Use' for both vacant and improved properties."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "three-approaches-to-value",
+          "title": "Three Approaches to Value",
+          "directory": "05-three-approaches-to-value",
+          "path": "08-valuation-process-and-pricing-properties/05-three-approaches-to-value",
+          "description": "The fundamental methodologies used to value property.",
+          "learning_objectives": [
+            "Describe the sales comparison approach.",
+            "Explain the basic premises behind the cost approach and the income approach."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "id": "human-rights-and-fair-housing",
+      "title": "Human Rights and Fair Housing",
+      "weight": 0.078,
+      "description": "Federal and New York fair housing laws, anti-discrimination practices, and agent responsibilities.",
+      "directory": "09-human-rights-and-fair-housing",
+      "topics": [
+        {
+          "order": 1,
+          "id": "pressure-from-society-and-bias",
+          "title": "Pressure from Society and Bias",
+          "directory": "01-pressure-from-society-and-bias",
+          "path": "09-human-rights-and-fair-housing/01-pressure-from-society-and-bias",
+          "description": "Navigating discriminatory requests and the importance of anti-bias training.",
+          "learning_objectives": [
+            "Identify how to respond to landlords, sellers, or buyers making discriminatory requests.",
+            "Understand how attitudes and unconscious stereotypes affect decisions in real estate."
+          ],
+          "references": [
+            "https://www.nysar.com/legal/fair-housing/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "brokers-and-salespersons-responsibilities",
+          "title": "Brokers and Salesperson's Responsibilities",
+          "directory": "02-brokers-and-salespersons-responsibilities",
+          "path": "09-human-rights-and-fair-housing/02-brokers-and-salespersons-responsibilities",
+          "description": "Required Fair Housing policies, training, and documentation.",
+          "learning_objectives": [
+            "List the broker's responsibilities to maintain and post a Fair Housing Policy.",
+            "Identify the required salesperson's actions, including the use of Anti-Discrimination Disclosure Forms."
+          ],
+          "references": [
+            "https://www.nysar.com/legal/fair-housing/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "federal-fair-housing-laws",
+          "title": "Federal Fair Housing Laws",
+          "directory": "03-federal-fair-housing-laws",
+          "path": "09-human-rights-and-fair-housing/03-federal-fair-housing-laws",
+          "description": "Historical development of civil rights acts and federally protected classes.",
+          "learning_objectives": [
+            "Trace the historical development of Fair Housing from the Civil Rights Act of 1866 to the 1988 Amendments.",
+            "List the federally protected classes under the Fair Housing Act."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "new-york-state-fair-housing-law",
+          "title": "New York State Fair Housing Law",
+          "directory": "04-new-york-state-fair-housing-law",
+          "path": "09-human-rights-and-fair-housing/04-new-york-state-fair-housing-law",
+          "description": "Additional protected classes under New York State and NYC Human Rights Laws.",
+          "learning_objectives": [
+            "Identify the additional protected classes specific to New York State Law, such as age and marital status.",
+            "Understand the expanded protections under the New York City Commission on Human Rights."
+          ],
+          "references": [
+            "https://www.nysar.com/legal/fair-housing/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "types-of-discrimination-and-exemptions",
+          "title": "Types of Discrimination and Exemptions",
+          "directory": "05-types-of-discrimination-and-exemptions",
+          "path": "09-human-rights-and-fair-housing/05-types-of-discrimination-and-exemptions",
+          "description": "Recognizing illegal practices like steering/blockbusting and knowing valid legal exemptions.",
+          "learning_objectives": [
+            "Define illegal practices such as steering and blockbusting.",
+            "Explain recognized exemptions such as senior citizen housing and the two-family exemption."
+          ],
+          "references": [
+            "https://www.nysar.com/legal/fair-housing/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "legal-ramifications-and-lists",
+          "title": "Legal Ramifications and Do Not Solicit Lists",
+          "directory": "06-legal-ramifications-and-lists",
+          "path": "09-human-rights-and-fair-housing/06-legal-ramifications-and-lists",
+          "description": "Fines, emotional impacts, and rules surrounding Cease and Desist lists.",
+          "learning_objectives": [
+            "Describe the legal ramifications and potential fines for discrimination violations.",
+            "Understand compliance rules for Cease and Desist Lists and Non-solicitation Orders."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "id": "real-estate-mathematics",
+      "title": "Real Estate Mathematics",
+      "weight": 0.013,
+      "description": "Calculations regarding commissions, areas, mortgages, and tax rates.",
+      "directory": "10-real-estate-mathematics",
+      "topics": [
+        {
+          "order": 1,
+          "id": "percentages-and-commissions",
+          "title": "Percentages and Commissions",
+          "directory": "01-percentages-and-commissions",
+          "path": "10-real-estate-mathematics/01-percentages-and-commissions",
+          "description": "Basic percentage calculations applied to real estate commissions, interest, and points.",
+          "learning_objectives": [
+            "Calculate real estate broker commissions.",
+            "Compute interest, points, and rates of appreciation or depreciation."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "calculating-area-and-length",
+          "title": "Calculating Area and Length",
+          "directory": "02-calculating-area-and-length",
+          "path": "10-real-estate-mathematics/02-calculating-area-and-length",
+          "description": "Determining square footage, acreage, and price per square foot.",
+          "learning_objectives": [
+            "Calculate area in square feet for regular and irregular lot sizes.",
+            "Convert square footage to acres and calculate price per square foot."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "basic-mortgage-and-tax-rates",
+          "title": "Mortgage and Tax Rate Calculations",
+          "directory": "03-basic-mortgage-and-tax-rates",
+          "path": "10-real-estate-mathematics/03-basic-mortgage-and-tax-rates",
+          "description": "Qualifying mortgages and calculating property transfer and recording taxes.",
+          "learning_objectives": [
+            "Calculate basic mortgage qualifying limits based on income.",
+            "Calculate real property transfer tax, mortgage recording tax, and annual real property tax."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "id": "municipal-agencies",
+      "title": "Municipal Agencies",
+      "weight": 0.026,
+      "description": "Functions and responsibilities of local town, city, and county agencies.",
+      "directory": "11-municipal-agencies",
+      "topics": [
+        {
+          "order": 1,
+          "id": "local-councils-and-planning",
+          "title": "Local Councils and Planning Boards",
+          "directory": "01-local-councils-and-planning",
+          "path": "11-municipal-agencies/01-local-councils-and-planning",
+          "description": "Roles of the City/Town Council and Planning Boards in municipalities.",
+          "learning_objectives": [
+            "Identify the legislative functions of the City/Town Council including budgets and tax rates.",
+            "Explain the Planning Board's authority over Master Plans and subdivision approvals."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "zoning-and-building-departments",
+          "title": "Zoning and Building Departments",
+          "directory": "02-zoning-and-building-departments",
+          "path": "11-municipal-agencies/02-zoning-and-building-departments",
+          "description": "Functions of the ZBA, Architectural Review Board, and Building Department.",
+          "learning_objectives": [
+            "Differentiate the roles of the Zoning Board of Appeals and Architectural Review Board.",
+            "Describe the Building Department's role as 'gatekeeper' for construction activity."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "assessor-health-and-historic",
+          "title": "Assessors, Health, and Historic Commissions",
+          "directory": "03-assessor-health-and-historic",
+          "path": "11-municipal-agencies/03-assessor-health-and-historic",
+          "description": "Specialized municipal functions like tax assessment, county health, and environmental councils.",
+          "learning_objectives": [
+            "Explain the duties of the Tax Assessor and Receiver of Taxes/Treasurer.",
+            "Understand the advisory and approval roles of the County Health Department and Historic Preservation Commissions."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "id": "property-insurance",
+      "title": "Property Insurance",
+      "weight": 0.013,
+      "description": "Understanding property and liability insurance options and their purpose.",
+      "directory": "12-property-insurance",
+      "topics": [
+        {
+          "order": 1,
+          "id": "insurance-basics-and-homeowner-types",
+          "title": "Insurance Basics and Homeowner Policy Types",
+          "directory": "01-insurance-basics-and-homeowner-types",
+          "path": "12-property-insurance/01-insurance-basics-and-homeowner-types",
+          "description": "The purpose of insurance, policy types, and standard HO policy coverage.",
+          "learning_objectives": [
+            "Differentiate between monoline and package insurance policies.",
+            "Identify basic homeowner policy forms, including HO-1, HO-3, HO-4, and HO-6."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "insurance-amounts-and-the-agents-role",
+          "title": "Insurance Amounts and the Agent's Role",
+          "directory": "02-insurance-amounts-and-the-agents-role",
+          "path": "12-property-insurance/02-insurance-amounts-and-the-agents-role",
+          "description": "Calculating actual cash value, handling insurance issues, and the real estate agent's role.",
+          "learning_objectives": [
+            "Explain the difference between actual cash value and replacement cost.",
+            "Describe the agent's role in explaining property insurance purpose, escrow, and costs to a buyer."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "id": "licensee-safety",
+      "title": "Licensee Safety",
+      "weight": 0.013,
+      "description": "Personal safety, cyber security, and liability issues for real estate professionals.",
+      "directory": "13-licensee-safety",
+      "topics": [
+        {
+          "order": 1,
+          "id": "physical-safety-and-environment",
+          "title": "Physical Safety and Environment",
+          "directory": "01-physical-safety-and-environment",
+          "path": "13-licensee-safety/01-physical-safety-and-environment",
+          "description": "Safety protocols in the office, on the road, and at vacant properties.",
+          "learning_objectives": [
+            "Identify protocols for working alone, meeting unknown individuals, and office security.",
+            "List safety concerns and precautions for open houses and vacant home viewings."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "cyber-security-and-liability",
+          "title": "Cyber Security and Liability",
+          "directory": "02-cyber-security-and-liability",
+          "path": "13-licensee-safety/02-cyber-security-and-liability",
+          "description": "Protecting digital information and managing liability risks.",
+          "learning_objectives": [
+            "Understand how to protect client information and mitigate identity theft/cyber security risks.",
+            "Explain the legal liabilities regarding third-party acts, incidents, and use of physical force (Penal Code Article 35)."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "id": "taxes-and-assessments",
+      "title": "Taxes and Assessments",
+      "weight": 0.039,
+      "description": "Real estate taxation, property assessments, and challenging tax values.",
+      "directory": "14-taxes-and-assessments",
+      "topics": [
+        {
+          "order": 1,
+          "id": "taxation-purpose-and-valuation",
+          "title": "Taxation Purpose and Assessed Value",
+          "directory": "01-taxation-purpose-and-valuation",
+          "path": "14-taxes-and-assessments/01-taxation-purpose-and-valuation",
+          "description": "Why real estate is taxed and how properties are assessed.",
+          "learning_objectives": [
+            "Explain the reasons municipalities tax land and improvements.",
+            "Describe the relationship between assessed value and full/market value, including assessment ratios."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "tax-rates-and-jurisdictions",
+          "title": "Tax Rates and Jurisdictions",
+          "directory": "02-tax-rates-and-jurisdictions",
+          "path": "14-taxes-and-assessments/02-tax-rates-and-jurisdictions",
+          "description": "Calculating tax rates and identifying different taxing bodies.",
+          "learning_objectives": [
+            "Understand how a municipal budget determines the property tax rate.",
+            "Identify the various taxing jurisdictions (city, town, village, county) and the equalization process."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "exemptions-and-protests",
+          "title": "Exemptions and Protests",
+          "directory": "03-exemptions-and-protests",
+          "path": "14-taxes-and-assessments/03-exemptions-and-protests",
+          "description": "Tax exemptions, grievance boards, and small claims assessment reviews.",
+          "learning_objectives": [
+            "Identify common property tax exemptions like STAR, veterans, and elderly.",
+            "Explain the procedure for protesting residential assessments via the Grievance Board and SCAR."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "tax-liens-and-agent-responsibilities",
+          "title": "Tax Liens and Agent Responsibilities",
+          "directory": "04-tax-liens-and-agent-responsibilities",
+          "path": "14-taxes-and-assessments/04-tax-liens-and-agent-responsibilities",
+          "description": "The consequences of unpaid taxes and the agent's role.",
+          "learning_objectives": [
+            "Describe the process of tax foreclosure and tax sales due to unpaid liens.",
+            "Understand the agent's responsibility to accurately calculate and communicate property taxes."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "id": "condominiums-and-cooperatives",
+      "title": "Condominiums and Cooperatives",
+      "weight": 0.052,
+      "description": "Distinctive legal and financial structures of condos, co-ops, and condops.",
+      "directory": "15-condominiums-and-cooperatives",
+      "topics": [
+        {
+          "order": 1,
+          "id": "defining-condominiums-and-sponsors",
+          "title": "Defining Condominiums and Sponsors",
+          "directory": "01-defining-condominiums-and-sponsors",
+          "path": "15-condominiums-and-cooperatives/01-defining-condominiums-and-sponsors",
+          "description": "Condo definition, by-laws, and the role of the sponsor.",
+          "learning_objectives": [
+            "Define a condominium as real property and explain common by-laws.",
+            "Describe the role of the sponsor in new developments and limitations on their control."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "condo-purchasing-and-closing",
+          "title": "Condo Purchasing and Closing",
+          "directory": "02-condo-purchasing-and-closing",
+          "path": "15-condominiums-and-cooperatives/02-condo-purchasing-and-closing",
+          "description": "Offering plans, letters of intent, Certificates of Occupancy, and closing costs.",
+          "learning_objectives": [
+            "Understand the components of an Offering Plan and the use of 'letters of intent' (CPS1 Phase).",
+            "List specific closing costs for condos, such as common charges, Mansion Tax, and title insurance."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "cooperative-ownership",
+          "title": "Cooperative Ownership",
+          "directory": "03-cooperative-ownership",
+          "path": "15-condominiums-and-cooperatives/03-cooperative-ownership",
+          "description": "Shares, proprietary leases, and evaluating a cooperative.",
+          "learning_objectives": [
+            "Define a cooperative as owning shares in a corporation linked to a proprietary lease.",
+            "Explain key due diligence issues such as reading the board minutes, financials, and underlying mortgages."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "coop-documents-and-board-packages",
+          "title": "Co-op Documents and Board Packages",
+          "directory": "04-coop-documents-and-board-packages",
+          "path": "15-condominiums-and-cooperatives/04-coop-documents-and-board-packages",
+          "description": "Required documentation, board interviews, and financial requirements.",
+          "learning_objectives": [
+            "List the essential documents needed for a co-op sale, including stock certificates and alteration agreements.",
+            "Prepare a purchaser for a cooperative board application, interview, and financial parameter assessment."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "condops-and-subletting-rules",
+          "title": "Condops and Subletting Rules",
+          "directory": "05-condops-and-subletting-rules",
+          "path": "15-condominiums-and-cooperatives/05-condops-and-subletting-rules",
+          "description": "Rules affecting co-op subletting, sponsor shares, and defining a Condop.",
+          "learning_objectives": [
+            "Differentiate the rules for primary residency versus subletting in a co-op.",
+            "Define a 'condop' and explain the 80/20 rule concerning passive income activities."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "id": "commercial-and-investment-properties",
+      "title": "Commercial and Investment Properties",
+      "weight": 0.13,
+      "description": "Commercial property valuation, financial analysis, and commercial leasing.",
+      "directory": "16-commercial-and-investment-properties",
+      "topics": [
+        {
+          "order": 1,
+          "id": "characteristics-of-real-property-investments",
+          "title": "Characteristics of Real Property Investments",
+          "directory": "01-characteristics-of-real-property-investments",
+          "path": "16-commercial-and-investment-properties/01-characteristics-of-real-property-investments",
+          "description": "Investment properties: risk, liquidity, and leverage.",
+          "learning_objectives": [
+            "Assess the risk and liquidity profiles of real property investments.",
+            "Explain the concept of leveraging in commercial real estate."
+          ],
+          "references": [
+            "https://realestatelicenseguides.com/new-york/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "investment-properties-types",
+          "title": "Investment Properties Types",
+          "directory": "02-investment-properties-types",
+          "path": "16-commercial-and-investment-properties/02-investment-properties-types",
+          "description": "Different commercial property types including office, retail, and manufacturing.",
+          "learning_objectives": [
+            "Identify the defining characteristics of office, mixed-use, retail, and industrial properties.",
+            "Differentiate between fee simple and leasehold ownership in commercial contexts."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "property-analysis-and-terminology",
+          "title": "Property Analysis and Terminology",
+          "directory": "03-property-analysis-and-terminology",
+          "path": "16-commercial-and-investment-properties/03-property-analysis-and-terminology",
+          "description": "Calculating NOI, cash flow, and understanding square footage definitions.",
+          "learning_objectives": [
+            "Calculate Net Operating Income (NOI), Before Tax Cash Flow (BTCF), and After Tax Cash Flow (ATCF).",
+            "Differentiate between rentable, useable, and carpetable square footage, including loss factors."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "commercial-leases-and-clauses",
+          "title": "Commercial Leases and Clauses",
+          "directory": "04-commercial-leases-and-clauses",
+          "path": "16-commercial-and-investment-properties/04-commercial-leases-and-clauses",
+          "description": "Net, gross, office, and retail leases, and essential lease clauses.",
+          "learning_objectives": [
+            "Identify commercial lease types like net lease, gross lease, and percentage lease.",
+            "Explain key commercial lease clauses including attornment, estoppel, and subordination/non-disturbance."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "lease-escalation-clauses",
+          "title": "Lease Escalation Clauses",
+          "directory": "05-lease-escalation-clauses",
+          "path": "16-commercial-and-investment-properties/05-lease-escalation-clauses",
+          "description": "Mechanisms for increasing commercial rent over time.",
+          "learning_objectives": [
+            "Understand the purpose of proportionate share, base year, and operating/tax stops.",
+            "Explain escalation formulas like Porter's Wage, CPI, and fixed percentage increases."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "id": "income-tax-issues-in-real-estate-transactions",
+      "title": "Income Tax Issues in Real Estate Transactions",
+      "weight": 0.039,
+      "description": "Federal income tax treatments, capital gains, 1031 exchanges, and depreciation.",
+      "directory": "17-income-tax-issues-in-real-estate-transactions",
+      "topics": [
+        {
+          "order": 1,
+          "id": "federal-income-tax-treatment-and-gains",
+          "title": "Federal Income Tax Treatment and Capital Gains",
+          "directory": "01-federal-income-tax-treatment-and-gains",
+          "path": "17-income-tax-issues-in-real-estate-transactions/01-federal-income-tax-treatment-and-gains",
+          "description": "Tax rules for primary residences and understanding active/passive income.",
+          "learning_objectives": [
+            "Explain permitted deductions and rules for primary residences under the Taxpayer Relief Act of 1997 ($250,000/$500,000 Rule).",
+            "Differentiate between short-term and long-term capital gains, and active, passive, and portfolio income."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "like-kind-exchanges",
+          "title": "Like-Kind Exchanges (1031 Exchange)",
+          "directory": "02-like-kind-exchanges",
+          "path": "17-income-tax-issues-in-real-estate-transactions/02-like-kind-exchanges",
+          "description": "Rules, timelines, and eligible properties for 1031 tax-deferred exchanges.",
+          "learning_objectives": [
+            "Identify properties eligible for a 1031 exchange and define concepts like 'boot' and 'qualified intermediary'.",
+            "Outline the strict timelines for 1031 exchanges (45-day identification, 180-day closing)."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "financing-tax-rules-and-depreciation",
+          "title": "Financing Tax Rules and Depreciation",
+          "directory": "03-financing-tax-rules-and-depreciation",
+          "path": "17-income-tax-issues-in-real-estate-transactions/03-financing-tax-rules-and-depreciation",
+          "description": "Interest deductions, prepayment penalties, and straight-line depreciation rules.",
+          "learning_objectives": [
+            "Explain federal tax rules regarding interest deductions on home acquisition and equity financing.",
+            "Calculate straight-line depreciation for residential (27.5 years) and non-residential (39 years) income-producing properties."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "id": "mortgage-brokerage",
+      "title": "Mortgage Brokerage",
+      "weight": 0.013,
+      "description": "Roles and requirements of mortgage brokers versus mortgage bankers.",
+      "directory": "18-mortgage-brokerage",
+      "topics": [
+        {
+          "order": 1,
+          "id": "mortgage-broker-basics",
+          "title": "Mortgage Broker Basics",
+          "directory": "01-mortgage-broker-basics",
+          "path": "18-mortgage-brokerage/01-mortgage-broker-basics",
+          "description": "Definitions, requirements, and the distinction between brokers and bankers.",
+          "learning_objectives": [
+            "Define the function and requirements of a Mortgage Broker.",
+            "Differentiate a Mortgage Broker from a Mortgage Banker."
+          ],
+          "references": [
+            "https://aceableagent.com/new-york-real-estate-pre-licensing-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "dual-agency-and-transaction-roles",
+          "title": "Dual Agency and Transaction Roles",
+          "directory": "02-dual-agency-and-transaction-roles",
+          "path": "18-mortgage-brokerage/02-dual-agency-and-transaction-roles",
+          "description": "Disclosures required when acting as both real estate agent and mortgage broker.",
+          "learning_objectives": [
+            "Explain the dual agency disclosure requirements under the Banking Law.",
+            "Describe the overall role of a Mortgage Broker in closing a real estate transaction."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "id": "property-management",
+      "title": "Property Management",
+      "weight": 0.026,
+      "description": "The functions, agreements, and skills required in professional property management.",
+      "directory": "19-property-management",
+      "topics": [
+        {
+          "order": 1,
+          "id": "introduction-and-management-agreement",
+          "title": "Introduction and Management Agreement",
+          "directory": "01-introduction-and-management-agreement",
+          "path": "19-property-management/01-introduction-and-management-agreement",
+          "description": "What property management entails and how the management agreement functions.",
+          "learning_objectives": [
+            "Define the core functions of a property manager and when a license is required.",
+            "Outline the required components of a written management agreement and the general agency created."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "property-manager-skills",
+          "title": "Property Manager Skills",
+          "directory": "02-property-manager-skills",
+          "path": "19-property-management/02-property-manager-skills",
+          "description": "Accounting, building systems, and legal skills necessary for property managers.",
+          "learning_objectives": [
+            "Identify the diverse skill set required of a property manager, including GAP accounting and HVAC knowledge.",
+            "Understand the manager's role in landlord-tenant relations and union negotiations."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "markets-and-owner-obligations",
+          "title": "Markets and Owner Obligations",
+          "directory": "03-markets-and-owner-obligations",
+          "path": "19-property-management/03-markets-and-owner-obligations",
+          "description": "Different property markets, reporting obligations, and budgeting.",
+          "learning_objectives": [
+            "Compare management approaches for office, retail, residential, and condominium properties.",
+            "Explain the property manager's obligations to the owner, including setting budgets and rent rolls."
+          ],
+          "references": [
+            "https://dos.ny.gov/real-estate-salesperson"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

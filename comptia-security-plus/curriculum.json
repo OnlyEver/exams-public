@@ -1,0 +1,1040 @@
+{
+  "exam": {
+    "name": "CompTIA Security+",
+    "code": "SY0-701",
+    "provider": "CompTIA",
+    "syllabus_verified": false,
+    "syllabus_verified_date": "2026-04-09",
+    "generated_date": "2026-04-09",
+    "category_name": "Cybersecurity",
+    "category_slug": "cybersecurity",
+    "category_description": "Master the foundational principles of cybersecurity and develop the practical skills required to secure networks, devices, and data.",
+    "exam_slug": "comptia-security-plus",
+    "theme_color": "#ef4444",
+    "hero_headline": "Launch Your Cybersecurity Career with CompTIA Security+.",
+    "hero_subheadline": "Master core security concepts, threat mitigation, and network architecture to pass the SY0-701 exam with confidence.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Cybersecurity threats evolve rapidly, and certification exams cover a massive breadth of topics that are difficult to synthesize into a structured study plan.",
+    "companion_solution": "Only Ever breaks down the official CompTIA Security+ syllabus into 15-minute, highly focused study sessions. Our content maps directly to the SY0-701 exam objectives to ensure maximum retention and test readiness.",
+    "learner_profile": "Aspiring cybersecurity professional or IT administrator looking to validate baseline security skills. Works with networks, operating systems, and security protocols. Needs clear, practical explanations of vulnerabilities, threats, and defensive measures."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "general-security-concepts",
+      "title": "General Security Concepts",
+      "weight": 0.12,
+      "description": "Understand foundational security controls, concepts like the CIA triad, Zero Trust frameworks, physical security, and cryptographic solutions.",
+      "directory": "01-general-security-concepts",
+      "topics": [
+        {
+          "order": 1,
+          "id": "types-of-security-controls",
+          "title": "Types of Security Controls",
+          "directory": "01-types-of-security-controls",
+          "path": "01-general-security-concepts/01-types-of-security-controls",
+          "description": "Understand the various categories and control types used to secure enterprise environments.",
+          "learning_objectives": [
+            "Compare and contrast technical, managerial, operational, and physical control categories.",
+            "Explain preventive, deterrent, detective, corrective, compensating, and directive control types."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/security",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "cia-and-aaa-concepts",
+          "title": "Fundamental Security Concepts: CIA and AAA",
+          "directory": "02-cia-and-aaa-concepts",
+          "path": "01-general-security-concepts/02-cia-and-aaa-concepts",
+          "description": "Explore the foundational cybersecurity principles of CIA and AAA.",
+          "learning_objectives": [
+            "Define Confidentiality, Integrity, and Availability (CIA).",
+            "Explain non-repudiation and the phases of Authentication, Authorization, and Accounting (AAA)."
+          ],
+          "references": [
+            "https://csrc.nist.gov/glossary/term/CIA_triad",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "zero-trust-and-gap-analysis",
+          "title": "Zero Trust Architecture and Gap Analysis",
+          "directory": "03-zero-trust-and-gap-analysis",
+          "path": "01-general-security-concepts/03-zero-trust-and-gap-analysis",
+          "description": "Learn how gap analysis and Zero Trust frameworks protect modern networks.",
+          "learning_objectives": [
+            "Conduct a basic gap analysis.",
+            "Describe Zero Trust architecture components including the control plane and data plane."
+          ],
+          "references": [
+            "https://www.nist.gov/publications/zero-trust-architecture",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "physical-security-and-deception",
+          "title": "Physical Security and Deception Technologies",
+          "directory": "04-physical-security-and-deception",
+          "path": "01-general-security-concepts/04-physical-security-and-deception",
+          "description": "Discover the physical security measures and deception technologies used against attackers.",
+          "learning_objectives": [
+            "Identify physical security controls such as bollards, vestibules, and sensors.",
+            "Explain the use of honeypots, honeynets, honeyfiles, and honeytokens."
+          ],
+          "references": [
+            "https://www.cisa.gov/topics/physical-security",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "change-management-processes",
+          "title": "Change Management Processes",
+          "directory": "05-change-management-processes",
+          "path": "01-general-security-concepts/05-change-management-processes",
+          "description": "Understand how change management processes mitigate risks to security.",
+          "learning_objectives": [
+            "Explain business and technical processes impacting security operations.",
+            "Identify essential documentation and version control practices during changes."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/security",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "public-key-infrastructure",
+          "title": "Public Key Infrastructure (PKI) and Certificates",
+          "directory": "06-public-key-infrastructure",
+          "path": "01-general-security-concepts/06-public-key-infrastructure",
+          "description": "Dive into the components of Public Key Infrastructure and digital certificates.",
+          "learning_objectives": [
+            "Understand public and private keys within a PKI.",
+            "Differentiate between various certificate types and authorities."
+          ],
+          "references": [
+            "https://csrc.nist.gov/glossary/term/Public_Key_Infrastructure",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "cryptographic-concepts-and-tools",
+          "title": "Cryptographic Concepts and Tools",
+          "directory": "07-cryptographic-concepts-and-tools",
+          "path": "01-general-security-concepts/07-cryptographic-concepts-and-tools",
+          "description": "Examine encryption techniques, hashing, and hardware cryptographic tools.",
+          "learning_objectives": [
+            "Compare full-disk, partition, and file-level encryption.",
+            "Identify use cases for TPM, HSM, obfuscation, hashing, and salting."
+          ],
+          "references": [
+            "https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "threats-vulnerabilities-and-mitigations",
+      "title": "Threats, Vulnerabilities, and Mitigations",
+      "weight": 0.22,
+      "description": "Identify common threat actors and vectors, examine vulnerabilities across applications and infrastructure, and apply suitable mitigations.",
+      "directory": "02-threats-vulnerabilities-and-mitigations",
+      "topics": [
+        {
+          "order": 1,
+          "id": "threat-actors-and-motivations",
+          "title": "Threat Actors and Motivations",
+          "directory": "01-threat-actors-and-motivations",
+          "path": "02-threats-vulnerabilities-and-mitigations/01-threat-actors-and-motivations",
+          "description": "Identify common threat actors and what drives their malicious activities.",
+          "learning_objectives": [
+            "Compare threat actor profiles such as nation-states, hacktivists, and insider threats.",
+            "Analyze actor motivations including financial gain, espionage, and disruption."
+          ],
+          "references": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "threat-vectors-and-attack-surfaces",
+          "title": "Common Threat Vectors and Attack Surfaces",
+          "directory": "02-threat-vectors-and-attack-surfaces",
+          "path": "02-threats-vulnerabilities-and-mitigations/02-threat-vectors-and-attack-surfaces",
+          "description": "Explore the primary channels and surfaces exploited by attackers.",
+          "learning_objectives": [
+            "Define message-based, image-based, and file-based threat vectors.",
+            "Identify risks from unsecure networks, default credentials, and supply chains."
+          ],
+          "references": [
+            "https://owasp.org/www-community/Attack_Surface_Analysis",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "social-engineering-attacks",
+          "title": "Social Engineering Attacks",
+          "directory": "03-social-engineering-attacks",
+          "path": "02-threats-vulnerabilities-and-mitigations/03-social-engineering-attacks",
+          "description": "Examine human vectors and the tactics used in social engineering.",
+          "learning_objectives": [
+            "Recognize phishing, smishing, and vishing attempts.",
+            "Understand business email compromise, pretexting, and brand impersonation."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "application-and-os-vulnerabilities",
+          "title": "Application and OS Vulnerabilities",
+          "directory": "04-application-and-os-vulnerabilities",
+          "path": "02-threats-vulnerabilities-and-mitigations/04-application-and-os-vulnerabilities",
+          "description": "Analyze common application-level and operating system vulnerabilities.",
+          "learning_objectives": [
+            "Explain memory injection, buffer overflows, and race conditions.",
+            "Identify vulnerabilities specific to operating systems and web applications like SQLi and XSS."
+          ],
+          "references": [
+            "https://owasp.org/www-project-top-ten/",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "infrastructure-vulnerabilities",
+          "title": "Infrastructure Vulnerabilities",
+          "directory": "05-infrastructure-vulnerabilities",
+          "path": "02-threats-vulnerabilities-and-mitigations/05-infrastructure-vulnerabilities",
+          "description": "Discover vulnerabilities affecting hardware, virtualization, and cloud systems.",
+          "learning_objectives": [
+            "Understand risks associated with legacy hardware and end-of-life firmware.",
+            "Identify VM escape, cloud-specific, and supply chain vulnerabilities."
+          ],
+          "references": [
+            "https://www.cisa.gov/topics/cyber-threats-and-advisories",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "indicators-of-malware-attacks",
+          "title": "Indicators of Malware Attacks",
+          "directory": "06-indicators-of-malware-attacks",
+          "path": "02-threats-vulnerabilities-and-mitigations/06-indicators-of-malware-attacks",
+          "description": "Learn to recognize the signs and behaviors of different malware types.",
+          "learning_objectives": [
+            "Differentiate between ransomware, Trojans, worms, and spyware.",
+            "Identify indicators such as logic bombs, keyloggers, and rootkits."
+          ],
+          "references": [
+            "https://www.cisa.gov/stopransomware",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "network-and-physical-attacks",
+          "title": "Network and Physical Attacks",
+          "directory": "07-network-and-physical-attacks",
+          "path": "02-threats-vulnerabilities-and-mitigations/07-network-and-physical-attacks",
+          "description": "Investigate common attacks directed at physical infrastructure and network layers.",
+          "learning_objectives": [
+            "Explain brute force and RFID cloning physical attacks.",
+            "Analyze DDoS, DNS attacks, and credential replay on network infrastructure."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/understanding-denial-service-attacks",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "cryptographic-and-password-attacks",
+          "title": "Cryptographic and Password Attacks",
+          "directory": "08-cryptographic-and-password-attacks",
+          "path": "02-threats-vulnerabilities-and-mitigations/08-cryptographic-and-password-attacks",
+          "description": "Study the methods attackers use to bypass cryptography and crack passwords.",
+          "learning_objectives": [
+            "Understand downgrade, collision, and birthday cryptographic attacks.",
+            "Identify password spraying and brute force techniques alongside common attack indicators."
+          ],
+          "references": [
+            "https://owasp.org/www-community/attacks/Password_Spraying_Attack",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "enterprise-mitigation-techniques",
+          "title": "Enterprise Mitigation Techniques",
+          "directory": "09-enterprise-mitigation-techniques",
+          "path": "02-threats-vulnerabilities-and-mitigations/09-enterprise-mitigation-techniques",
+          "description": "Deploy structural and configuration mitigations to secure an enterprise.",
+          "learning_objectives": [
+            "Implement segmentation, access controls, and application allow lists.",
+            "Apply hardening techniques, patching, and endpoint protection."
+          ],
+          "references": [
+            "https://www.cisa.gov/topics/cybersecurity-best-practices",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "security-architecture",
+      "title": "Security Architecture",
+      "weight": 0.18,
+      "description": "Understand security implications of various architecture models, apply security principles to enterprise infrastructure, and protect organizational data.",
+      "directory": "03-security-architecture",
+      "topics": [
+        {
+          "order": 1,
+          "id": "modern-architecture-models",
+          "title": "Architecture Models: Cloud, Serverless, and IaC",
+          "directory": "01-modern-architecture-models",
+          "path": "03-security-architecture/01-modern-architecture-models",
+          "description": "Explore the security implications of cloud, serverless, and code-based architecture.",
+          "learning_objectives": [
+            "Analyze the cloud shared responsibility matrix and hybrid considerations.",
+            "Understand the security of infrastructure as code, serverless computing, and microservices."
+          ],
+          "references": [
+            "https://cloudsecurityalliance.org/",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "infrastructure-architecture-models",
+          "title": "Architecture Models: On-premises, Virtualization, and IoT",
+          "directory": "02-infrastructure-architecture-models",
+          "path": "03-security-architecture/02-infrastructure-architecture-models",
+          "description": "Examine traditional, virtual, and specialized operational technology environments.",
+          "learning_objectives": [
+            "Compare on-premises setups with centralized and decentralized architectures.",
+            "Identify security considerations for virtualization, IoT, ICS/SCADA, and embedded systems."
+          ],
+          "references": [
+            "https://www.cisa.gov/topics/industrial-control-systems",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "enterprise-infrastructure-security",
+          "title": "Enterprise Infrastructure Security Principles",
+          "directory": "03-enterprise-infrastructure-security",
+          "path": "03-security-architecture/03-enterprise-infrastructure-security",
+          "description": "Apply core security principles when designing and placing network devices.",
+          "learning_objectives": [
+            "Determine optimal device placement, security zones, and attack surface reduction.",
+            "Analyze failure modes like fail-open and fail-closed."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/sp800",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "secure-communication-and-access",
+          "title": "Secure Communication and Access Controls",
+          "directory": "04-secure-communication-and-access",
+          "path": "03-security-architecture/04-secure-communication-and-access",
+          "description": "Learn how to secure network traffic and remote access using VPNs and modern frameworks.",
+          "learning_objectives": [
+            "Select effective firewall types including WAF, UTM, and NGFW.",
+            "Implement VPNs, IPsec, SD-WAN, and Secure Access Service Edge (SASE)."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/securing-network-infrastructure-devices",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "data-concepts-and-strategies",
+          "title": "Data Concepts and Strategies",
+          "directory": "05-data-concepts-and-strategies",
+          "path": "03-security-architecture/05-data-concepts-and-strategies",
+          "description": "Identify various data types and understand where data sovereignty applies.",
+          "learning_objectives": [
+            "Differentiate between regulated, intellectual property, and financial data types.",
+            "Understand data states (at rest, in transit, in use) and geographic considerations."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/security",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "data-classifications-and-methods",
+          "title": "Data Classifications and Security Methods",
+          "directory": "06-data-classifications-and-methods",
+          "path": "03-security-architecture/06-data-classifications-and-methods",
+          "description": "Apply classifications and protective methods to sensitive information.",
+          "learning_objectives": [
+            "Classify data as sensitive, confidential, public, restricted, or critical.",
+            "Implement data security methods such as encryption, hashing, masking, and tokenization."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "high-availability-and-resilience",
+          "title": "High Availability and Site Considerations",
+          "directory": "07-high-availability-and-resilience",
+          "path": "03-security-architecture/07-high-availability-and-resilience",
+          "description": "Plan for high availability and diverse platforms to ensure resilient operations.",
+          "learning_objectives": [
+            "Implement load balancing and clustering for high availability.",
+            "Evaluate hot, cold, and warm site considerations for continuity of operations."
+          ],
+          "references": [
+            "https://www.cisa.gov/topics/physical-security/protecting-critical-infrastructure",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "backups-recovery-and-power",
+          "title": "Backups, Recovery, and Power",
+          "directory": "08-backups-recovery-and-power",
+          "path": "03-security-architecture/08-backups-recovery-and-power",
+          "description": "Establish reliable backup routines, testing, and power redundancy.",
+          "learning_objectives": [
+            "Plan backup strategies including offsite storage, encryption, and snapshots.",
+            "Design testing exercises and ensure power continuity with UPS and generators."
+          ],
+          "references": [
+            "https://www.ready.gov/it-disaster-recovery-plan",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "security-operations",
+      "title": "Security Operations",
+      "weight": 0.28,
+      "description": "Manage security operations including computing baselines, identity and access management, vulnerability management, alerting, monitoring, and incident response.",
+      "directory": "04-security-operations",
+      "topics": [
+        {
+          "order": 1,
+          "id": "secure-baselines-and-hardening",
+          "title": "Secure Baselines and Hardening Targets",
+          "directory": "01-secure-baselines-and-hardening",
+          "path": "04-security-operations/01-secure-baselines-and-hardening",
+          "description": "Establish secure configurations and harden various computing resources.",
+          "learning_objectives": [
+            "Deploy and maintain secure baselines across an environment.",
+            "Identify hardening targets including workstations, servers, and cloud infrastructure."
+          ],
+          "references": [
+            "https://www.cisecurity.org/cis-benchmarks/",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "wireless-mobile-and-application-security",
+          "title": "Wireless, Mobile, and Application Security",
+          "directory": "02-wireless-mobile-and-application-security",
+          "path": "04-security-operations/02-wireless-mobile-and-application-security",
+          "description": "Secure mobile deployments, wireless networks, and application environments.",
+          "learning_objectives": [
+            "Configure WPA3 and RADIUS for wireless security.",
+            "Implement mobile device management (MDM) and secure coding practices like input validation."
+          ],
+          "references": [
+            "https://owasp.org/www-project-mobile-security-testing-guide/",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "asset-management-lifecycle",
+          "title": "Asset Management Lifecycle",
+          "directory": "03-asset-management-lifecycle",
+          "path": "04-security-operations/03-asset-management-lifecycle",
+          "description": "Manage hardware, software, and data from acquisition to secure disposal.",
+          "learning_objectives": [
+            "Track assets through inventory and enumeration processes.",
+            "Ensure proper sanitization, destruction, and data retention during decommissioning."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "vulnerability-identification-methods",
+          "title": "Vulnerability Identification Methods",
+          "directory": "04-vulnerability-identification-methods",
+          "path": "04-security-operations/04-vulnerability-identification-methods",
+          "description": "Execute vulnerability scans, threat feeds, and penetration tests.",
+          "learning_objectives": [
+            "Differentiate between static analysis, dynamic analysis, and package monitoring.",
+            "Leverage OSINT, dark web feeds, and bug bounty programs to identify threats."
+          ],
+          "references": [
+            "https://www.cisa.gov/known-exploited-vulnerabilities",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "vulnerability-analysis-and-remediation",
+          "title": "Vulnerability Analysis, Response, and Remediation",
+          "directory": "05-vulnerability-analysis-and-remediation",
+          "path": "04-security-operations/05-vulnerability-analysis-and-remediation",
+          "description": "Analyze identified vulnerabilities and apply appropriate remediations.",
+          "learning_objectives": [
+            "Use the CVSS framework to prioritize vulnerabilities and rule out false positives.",
+            "Implement patches, compensating controls, or process exceptions."
+          ],
+          "references": [
+            "https://www.first.org/cvss/",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "security-alerting-and-monitoring",
+          "title": "Security Alerting and Monitoring Computing Resources",
+          "directory": "06-security-alerting-and-monitoring",
+          "path": "04-security-operations/06-security-alerting-and-monitoring",
+          "description": "Monitor systems and applications using aggregated logs and active alerting.",
+          "learning_objectives": [
+            "Identify computing resources to monitor including systems and infrastructure.",
+            "Perform log aggregation, scanning, and alert tuning to reduce noise."
+          ],
+          "references": [
+            "https://www.cisa.gov/resources-tools",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "security-monitoring-tools",
+          "title": "Alert Response and Security Tools",
+          "directory": "07-security-monitoring-tools",
+          "path": "04-security-operations/07-security-monitoring-tools",
+          "description": "Utilize industry-standard tools to monitor enterprise security events.",
+          "learning_objectives": [
+            "Deploy Security Information and Event Management (SIEM) systems.",
+            "Use SCAP, antivirus, DLP, SNMP traps, and NetFlow for network visibility."
+          ],
+          "references": [
+            "https://csrc.nist.gov/projects/security-content-automation-protocol",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "enterprise-security-capabilities",
+          "title": "Enhancing Security: Firewalls and Filters",
+          "directory": "08-enterprise-security-capabilities",
+          "path": "04-security-operations/08-enterprise-security-capabilities",
+          "description": "Modify network capabilities like firewalls and IPS to defend against attacks.",
+          "learning_objectives": [
+            "Configure firewall rules, access lists, and screened subnets.",
+            "Analyze IDS/IPS signatures and deploy effective web filtering."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/securing-network-infrastructure-devices",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "host-and-data-security-operations",
+          "title": "OS Security and Endpoint Capabilities",
+          "directory": "09-host-and-data-security-operations",
+          "path": "04-security-operations/09-host-and-data-security-operations",
+          "description": "Strengthen operating systems, email flow, and endpoint detection.",
+          "learning_objectives": [
+            "Secure operating systems using Group Policy and SELinux.",
+            "Implement email security protocols (DMARC, DKIM, SPF) and deploy EDR/XDR solutions."
+          ],
+          "references": [
+            "https://www.cisa.gov/capacity-building/dmarc-reporting",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "identity-and-access-management",
+          "title": "Identity and Access Management Concepts",
+          "directory": "10-identity-and-access-management",
+          "path": "04-security-operations/10-identity-and-access-management",
+          "description": "Provision user accounts and manage permissions using identity federations.",
+          "learning_objectives": [
+            "Manage the lifecycle of user accounts and permission assignments.",
+            "Implement single sign-on (SSO) with LDAP, OAuth, and SAML."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-63/3/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "authentication-and-privileged-access",
+          "title": "Authentication, Passwords, and Privileged Access",
+          "directory": "11-authentication-and-privileged-access",
+          "path": "04-security-operations/11-authentication-and-privileged-access",
+          "description": "Enforce multifactor authentication, password policies, and privileged access.",
+          "learning_objectives": [
+            "Configure MFA using biometrics, tokens, and location factors.",
+            "Establish password best practices and use PAM tools like password vaulting."
+          ],
+          "references": [
+            "https://www.cisa.gov/mfa",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "automation-and-orchestration",
+          "title": "Automation and Orchestration Use Cases",
+          "directory": "12-automation-and-orchestration",
+          "path": "04-security-operations/12-automation-and-orchestration",
+          "description": "Automate security operations to improve efficiency and enforce baselines.",
+          "learning_objectives": [
+            "Use scripting for user provisioning, ticket creation, and CI/CD testing.",
+            "Evaluate the benefits and complexities of automated security guard rails."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/security",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "incident-response-process",
+          "title": "Incident Response Activities",
+          "directory": "13-incident-response-process",
+          "path": "04-security-operations/13-incident-response-process",
+          "description": "Navigate the phases of incident response from preparation to lessons learned.",
+          "learning_objectives": [
+            "Execute the incident response process including containment, eradication, and recovery.",
+            "Conduct tabletop exercises and simulations for IR training."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 14,
+          "id": "digital-forensics-and-investigations",
+          "title": "Root Cause Analysis and Digital Forensics",
+          "directory": "14-digital-forensics-and-investigations",
+          "path": "04-security-operations/14-digital-forensics-and-investigations",
+          "description": "Perform threat hunting, root cause analysis, and digital forensic procedures.",
+          "learning_objectives": [
+            "Preserve evidence through chain of custody, acquisition, and legal holds.",
+            "Conduct root cause analysis to understand security incidents."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-86/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 15,
+          "id": "investigation-data-sources",
+          "title": "Investigation Data Sources",
+          "directory": "15-investigation-data-sources",
+          "path": "04-security-operations/15-investigation-data-sources",
+          "description": "Leverage diverse data sources to support cybersecurity investigations.",
+          "learning_objectives": [
+            "Analyze firewall, endpoint, OS, and network logs.",
+            "Interpret packet captures and metadata to piece together attack timelines."
+          ],
+          "references": [
+            "https://www.cisa.gov/resources-tools",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "security-program-management-and-oversight",
+      "title": "Security Program Management and Oversight",
+      "weight": 0.2,
+      "description": "Implement effective security governance, manage third-party risk, enforce compliance, and execute audits and awareness programs.",
+      "directory": "05-security-program-management-and-oversight",
+      "topics": [
+        {
+          "order": 1,
+          "id": "security-governance-elements",
+          "title": "Elements of Effective Security Governance",
+          "directory": "01-security-governance-elements",
+          "path": "05-security-program-management-and-oversight/01-security-governance-elements",
+          "description": "Summarize the guidelines, policies, and roles central to security governance.",
+          "learning_objectives": [
+            "Draft effective Information Security and Acceptable Use policies.",
+            "Define roles and responsibilities for data owners, controllers, and custodians."
+          ],
+          "references": [
+            "https://csrc.nist.gov/glossary/term/governance",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "risk-identification-and-assessment",
+          "title": "The Risk Management Process: Identification and Assessment",
+          "directory": "02-risk-identification-and-assessment",
+          "path": "05-security-program-management-and-oversight/02-risk-identification-and-assessment",
+          "description": "Conduct ad hoc and continuous risk assessments across the enterprise.",
+          "learning_objectives": [
+            "Identify enterprise risks and execute regular risk assessments.",
+            "Utilize risk registers and establish key risk indicators."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "risk-analysis-and-strategies",
+          "title": "Risk Analysis, Tolerance, and Strategies",
+          "directory": "03-risk-analysis-and-strategies",
+          "path": "05-security-program-management-and-oversight/03-risk-analysis-and-strategies",
+          "description": "Perform qualitative and quantitative risk analysis and determine treatment strategies.",
+          "learning_objectives": [
+            "Calculate Single Loss Expectancy (SLE) and Annualized Loss Expectancy (ALE).",
+            "Apply risk management strategies including transfer, accept, avoid, and mitigate."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-39/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "third-party-risk-management",
+          "title": "Third-party Risk Assessment and Management",
+          "directory": "04-third-party-risk-management",
+          "path": "05-security-program-management-and-oversight/04-third-party-risk-management",
+          "description": "Evaluate and manage the security risks introduced by vendors and supply chains.",
+          "learning_objectives": [
+            "Conduct vendor assessments, penetration testing, and supply chain analysis.",
+            "Draft and review NDAs, SLAs, MOUs, and MSAs."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "security-compliance-and-privacy",
+          "title": "Effective Security Compliance and Privacy",
+          "directory": "05-security-compliance-and-privacy",
+          "path": "05-security-program-management-and-oversight/05-security-compliance-and-privacy",
+          "description": "Maintain regulatory compliance and uphold data privacy standards.",
+          "learning_objectives": [
+            "Monitor compliance and understand the consequences of non-compliance.",
+            "Implement privacy controls recognizing legal implications and data subject rights."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "audits-and-assessments",
+          "title": "Types and Purposes of Audits and Assessments",
+          "directory": "06-audits-and-assessments",
+          "path": "05-security-program-management-and-oversight/06-audits-and-assessments",
+          "description": "Differentiate between various internal and external audits and penetration tests.",
+          "learning_objectives": [
+            "Prepare for internal self-assessments and external regulatory examinations.",
+            "Define penetration testing types including physical, offensive, defensive, and integrated."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/security",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "security-awareness-practices",
+          "title": "Implementing Security Awareness Practices",
+          "directory": "07-security-awareness-practices",
+          "path": "05-security-program-management-and-oversight/07-security-awareness-practices",
+          "description": "Develop and execute effective security awareness training for end users.",
+          "learning_objectives": [
+            "Conduct phishing campaigns and train users to recognize anomalous behaviors.",
+            "Provide guidance on insider threats, password management, and social engineering."
+          ],
+          "references": [
+            "https://www.cisa.gov/cybersecurity-awareness-month",
+            "https://www.professormesser.com/security-plus/sy0-701/sy0-701-video-training-course/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

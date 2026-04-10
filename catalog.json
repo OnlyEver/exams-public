@@ -1,6 +1,25 @@
 {
   "categories": [
     {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "description": "Master the foundational principles of cybersecurity and develop the practical skills required to secure networks, devices, and data.",
+      "exams": [
+        {
+          "repo_folder": "comptia-security-plus",
+          "name": "CompTIA Security+",
+          "exam_slug": "comptia-security-plus",
+          "theme_color": "#ef4444",
+          "hero_headline": "Launch Your Cybersecurity Career with CompTIA Security+.",
+          "hero_subheadline": "Master core security concepts, threat mitigation, and network architecture to pass the SY0-701 exam with confidence.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Cybersecurity threats evolve rapidly, and certification exams cover a massive breadth of topics that are difficult to synthesize into a structured study plan.",
+          "companion_solution": "Only Ever breaks down the official CompTIA Security+ syllabus into 15-minute, highly focused study sessions. Our content maps directly to the SY0-701 exam objectives to ensure maximum retention and test readiness."
+        }
+      ]
+    },
+    {
       "name": "Nursing Licensure",
       "slug": "nursing-licensure",
       "description": "Master the clinical judgment and safety-first nursing knowledge needed to pass licensure exams and practice confidently from day one.",
@@ -28,6 +47,25 @@
           "companion_provider": "Only Ever",
           "companion_problem": "Most prep material is fragmented, too broad, or disconnected from the exact NCLEX-RN blueprint.",
           "companion_solution": "Only Ever maps the official test plan into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects."
+        }
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "slug": "real-estate",
+      "description": "Master property laws, contracts, and ethical practices needed to pass your real estate licensing exams and confidently represent clients.",
+      "exams": [
+        {
+          "repo_folder": "ny-real-estate-salesperson",
+          "name": "New York Real Estate Salesperson",
+          "exam_slug": "ny-real-estate-salesperson",
+          "theme_color": "#10b981",
+          "hero_headline": "Pass the NY Real Estate Salesperson exam with confidence.",
+          "hero_subheadline": "Exam-aligned property and contract study paths built from the official NY DOS syllabus and designed for long-term retention.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most prep material is dry, overwhelming, or disconnected from the exact NY DOS curriculum.",
+          "companion_solution": "Only Ever maps the official syllabus into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects."
         }
       ]
     },

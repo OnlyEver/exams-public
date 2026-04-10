@@ -1,0 +1,87 @@
+Imagine trying to secure a sprawling [metropolis](https://en.wikipedia.org/wiki/Metropolis) that possesses millions of entry gates, where tens of thousands of couriers pass through every second. You cannot afford to halt commerce to strip-search every messenger, yet you absolutely cannot allow saboteurs to slip inside. This is the fundamental challenge of [network architecture](https://en.wikipedia.org/wiki/Network_architecture). Managing this dynamic ecosystem requires highly specialized checkpoints that can instantly distinguish legitimate traffic from malicious [payloads](https://en.wikipedia.org/wiki/Payload_%28computing%29). In modern [network administration](https://en.wikipedia.org/wiki/Network_administrator), modifying capabilities to defend against attacks requires a structural understanding of how traffic flows, how it is inspected, and how to rigorously define the rules that govern it. Security is not a singular wall; it is a layered discipline of establishing precise, dynamic control over every [packet](https://en.wikipedia.org/wiki/Network_packet), connection, and workload traversing the environment.
+
+## The Architecture of Access: Firewalls 
+
+At the perimeter of any network, the primary mechanism of defense is the [firewall](https://en.wikipedia.org/wiki/Firewall_%28computing%29). Conceptually, a firewall controls the flow of network traffic based on a predetermined set of security rules. However, not all firewalls inspect traffic with the same level of intelligence. Over the decades, these devices have evolved to look deeper into the data they process.
+
+![A conceptual diagram illustrating a network firewall establishing a perimeter defense between a trusted internal network and an untrusted external network.](https://wikipedia.org/wiki/Special:Redirect/file/Firewall.png)
+
+The earliest and simplest iterations are **[packet filtering firewalls](https://en.wikipedia.org/wiki/Packet_filtering)**. These devices examine the [header information](https://en.wikipedia.org/wiki/Header_%28computing%29) of network packets to allow or deny traffic. They operate much like a mailroom clerk who only checks the "To" and "From" addresses on an envelope. Because they only look at [IP addresses](https://en.wikipedia.org/wiki/IP_address) and [port numbers](https://en.wikipedia.org/wiki/Port_%28computer_networking%29), packet filtering firewalls operate primarily at [Layer 3](https://en.wikipedia.org/wiki/Network_layer) and [Layer 4](https://en.wikipedia.org/wiki/Transport_layer) of the [Open Systems Interconnection (OSI) model](https://en.wikipedia.org/wiki/OSI_model). 
+
+![Packet filtering firewalls operate primarily at the Network (Layer 3) and Transport (Layer 4) layers of the OSI model, making access decisions based solely on header data rather than examining the application payloads.](https://wikipedia.org/wiki/Special:Redirect/file/OSI-model-Communication.svg)
+
+While fast, packet filtering is easily fooled. It has no concept of a conversation. This limitation gave rise to **[stateful firewalls](https://en.wikipedia.org/wiki/Stateful_firewall)**, which maintain a record of the state of active network connections to make dynamic filtering decisions. If an internal user requests a web page, the stateful firewall records that outgoing request in a [state table](https://en.wikipedia.org/wiki/State_%28computer_science%29). When the [web server](https://en.wikipedia.org/wiki/Web_server) replies, the firewall recognizes the returning packets as part of an established, legitimate conversation and lets them through.
+
+However, modern adversaries hide their attacks inside legitimate-looking web or application traffic. To counter this, organizations deploy **[Next-Generation Firewalls (NGFW)](https://en.wikipedia.org/wiki/Next-generation_firewall)**. These are sophisticated platforms equipped with [deep packet inspection](https://en.wikipedia.org/wiki/Deep_packet_inspection) capabilities to examine the payload of network traffic—opening the metaphorical envelope to read the letter inside. They do not just see "Port 80 traffic"; they see exactly what application is generating it. As a result, Next-Generation Firewalls provide [Layer 7](https://en.wikipedia.org/wiki/Application_layer) application visibility and control. Furthermore, because inspecting payloads allows for the detection of [exploits](https://en.wikipedia.org/wiki/Exploit_%28computer_security%29), Next-Generation Firewalls integrate [intrusion prevention systems](https://en.wikipedia.org/wiki/Intrusion_prevention_system) directly into the firewall appliance, marrying access control with active [threat hunting](https://en.wikipedia.org/wiki/Cyber_threat_hunting).
+
+### Specialized Network Appliances
+
+Not all firewalls guard the perimeter. Some are purpose-built for specific types of traffic or specific operational environments:
+
+| Appliance Type | Primary Function | Operational Scope |
+| :--- | :--- | :--- |
+| **[Web Application Firewall (WAF)](https://en.wikipedia.org/wiki/Web_application_firewall)** | Protects web applications by filtering [HTTP](https://en.wikipedia.org/wiki/HTTP) and [HTTPS](https://en.wikipedia.org/wiki/HTTPS) traffic between a web application and the internet. | A Web Application Firewall operates at Layer 7 of the Open Systems Interconnection model, natively understanding web traffic syntax to block attacks like [SQL injection](https://en.wikipedia.org/wiki/SQL_injection). |
+| **[Unified Threat Management (UTM)](https://en.wikipedia.org/wiki/Unified_threat_management)** | Combines firewall capabilities, intrusion prevention, [antivirus](https://en.wikipedia.org/wiki/Antivirus_software), and web filtering into a single hardware device. | Designed for ease of administration, typically used in branch offices or smaller enterprises to avoid managing multiple disparate security appliances. |
+
+## The Logic of Control: Access Control Lists (ACLs)
+
+Whether you are configuring a basic packet filter or a stateful firewall, the actual engine dictating what passes and what drops is the [Access Control List](https://en.wikipedia.org/wiki/Access-control_list). An Access Control List is a sequential list of rules applied to a [network interface](https://en.wikipedia.org/wiki/Network_interface_controller) to permit or deny traffic.
+
+Understanding how a [router](https://en.wikipedia.org/wiki/Router_%28computing%29) or firewall reads these rules is critical for any network administrator, as a single misconfigured line can accidentally expose a sensitive server or knock an entire company offline. 
+
+Network devices process Access Control List rules sequentially from the top down. The [order of operations](https://en.wikipedia.org/wiki/Order_of_operations) is absolute. Furthermore, an Access Control List stops evaluating incoming traffic against its rules as soon as a match is found. If rule number two explicitly permits an IP address, the device will forward the packet immediately, completely ignoring rule number five which might have been intended to drop it. 
+
+> **The Implicit Deny**
+> What happens if a packet arrives and matches absolutely none of your carefully crafted rules? It is dropped. This is because the implicit deny rule is placed at the very bottom of an Access Control List. The implicit deny rule automatically blocks any network traffic that does not match a previous rule in an Access Control List. This ensures a "[default-deny](https://en.wikipedia.org/wiki/Principle_of_least_privilege)" security posture—if traffic is not explicitly allowed, it is inherently forbidden.
+
+## Topography of Defense: Network Segmentation
+
+Security is heavily dictated by physical and logical placement. We classify traffic in a [data center](https://en.wikipedia.org/wiki/Data_center) by its directionality. **[North-south traffic](https://en.wikipedia.org/wiki/North-south_traffic)** refers to network communication between an internal network and an external network, such as users connecting to the internet. Conversely, **[East-west traffic](https://en.wikipedia.org/wiki/East-west_traffic)** refers to network communication between devices within the same internal network, such as a [database](https://en.wikipedia.org/wiki/Database) synchronizing with a backup server.
+
+When building a network, we must safely accommodate inbound North-south traffic to public services without exposing our private data. We achieve this using a **[screened subnet](https://en.wikipedia.org/wiki/DMZ_%28computing%29)**, which is a specialized network segment designed to host public-facing servers. 
+
+A screened subnet separates a trusted internal network from an untrusted external network. By architectural design, public-facing web servers are placed in a screened subnet to prevent external users from directly accessing the internal network. If an attacker manages to compromise the web server, they find themselves trapped in an isolated zone, unable to pivot to the internal accounting or HR databases. 
+*(Note for the exam: The term screened subnet is the modern vendor-neutral terminology for what was traditionally called a [Demilitarized Zone, or DMZ](https://en.wikipedia.org/wiki/DMZ_%28computing%29)).*
+
+![A topological network diagram showing a screened subnet (DMZ). Public-facing services are structurally isolated from the trusted internal local area network (LAN) to prevent attackers from using compromised public servers to pivot laterally into internal systems.](https://wikipedia.org/wiki/Special:Redirect/file/DMZ_network_diagram_1_firewall.svg)
+
+However, securing the perimeter and the screened subnet is no longer enough. If an attacker bypasses the perimeter, they will attempt to move laterally using East-west traffic. To stop this, administrators deploy **[microsegmentation](https://en.wikipedia.org/wiki/Microsegmentation)**, which applies firewall policies at the individual workload level within a data center. By wrapping security rules around individual [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine) or [containers](https://en.wikipedia.org/wiki/OS-level_virtualization), microsegmentation prevents the [lateral movement](https://en.wikipedia.org/wiki/Lateral_movement_%28cybersecurity%29) of network threats within an internal network environment. It treats every single server as its own secured perimeter.
+
+## The Watchmen and the Wardens: IDS and IPS
+
+Firewalls are primarily [access control](https://en.wikipedia.org/wiki/Access_control) devices. To actively hunt for malicious activity hidden within allowed traffic, we rely on intrusion detection and prevention systems. 
+
+An **[Intrusion Detection System (IDS)](https://en.wikipedia.org/wiki/Intrusion_detection_system)** is the equivalent of a security camera. An Intrusion Detection System monitors network traffic for malicious activity and generates security alerts. Because it is designed not to interrupt the flow of traffic, an Intrusion Detection System operates [out-of-band](https://en.wikipedia.org/wiki/Out-of-band_management)—meaning it receives a copy of the network traffic via a [mirrored port](https://en.wikipedia.org/wiki/Port_mirroring). The critical limitation of this design is that an Intrusion Detection System cannot actively block malicious network traffic; it can only notify administrators that an attack is occurring.
+
+An **[Intrusion Prevention System (IPS)](https://en.wikipedia.org/wiki/Intrusion_prevention_system)** acts as an armed guard. An Intrusion Prevention System sits in-line with network traffic and actively drops malicious packets before they reach their destination. Because every packet must pass through it, an Intrusion Prevention System operates in-band.
+
+### Detection Engines
+
+How do these systems actually recognize an attack? They rely on two distinct methodologies:
+
+1. **[Signature-based detection](https://en.wikipedia.org/wiki/Intrusion_detection_system)**: This method compares network traffic against a database of known malicious threat signatures. A threat signature is a specific set of rules or byte sequences used to identify a known network threat. While highly accurate for known threats, signature-based detection cannot identify newly emerging [zero-day attacks](https://en.wikipedia.org/wiki/Zero-day_%28computing%29) because there is no existing signature for an attack that has never been seen. Therefore, Intrusion Prevention System signature databases must be continuously updated to protect against newly discovered threats. Additionally, network administrators can create custom Intrusion Prevention System signatures to block specific threats unique to their organizational environment, such as exploiting an in-house proprietary application.
+2. **[Heuristic detection](https://en.wikipedia.org/wiki/Heuristic_analysis)**: Rather than looking for a specific fingerprint, heuristic detection establishes a baseline of normal network behavior to identify [anomalous activity](https://en.wikipedia.org/wiki/Anomaly_detection). If a [workstation](https://en.wikipedia.org/wiki/Workstation) that normally downloads 50MB of data a day suddenly begins exporting 500GB of [encrypted](https://en.wikipedia.org/wiki/Encryption) data to an unknown overseas IP, the system flags it. Because it does not rely on a predefined list of bad code, heuristic detection can identify previously unknown attacks or zero-day [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_%28computing%29).
+
+### The Tuning Challenge
+
+Neither engine is perfect, and security administrators spend significant time tuning these systems to mitigate errors in judgment. 
+* A **[false positive](https://en.wikipedia.org/wiki/False_positive_and_false_negative)** occurs when a security system incorrectly flags benign network traffic as malicious. This causes business disruption, such as dropping a vital [VoIP](https://en.wikipedia.org/wiki/Voice_over_IP) call because the traffic pattern looked vaguely suspicious. 
+* A **[false negative](https://en.wikipedia.org/wiki/False_positive_and_false_negative)** occurs when a security system fails to detect actual malicious network traffic. This is a critical security failure, allowing [malware](https://en.wikipedia.org/wiki/Malware) to slip through the defenses unnoticed.
+
+## Governing the Exit: Web Filtering and Proxies
+
+Securing a network also means controlling what internal users do when they browse the [internet](https://en.wikipedia.org/wiki/Internet). **[Web filtering](https://en.wikipedia.org/wiki/Content-control_software)** restricts user access to specific external websites based on organizational security policies, mitigating the risk of users inadvertently downloading malware or violating corporate [compliance](https://en.wikipedia.org/wiki/Regulatory_compliance).
+
+Web filtering generally utilizes two distinct methods:
+* **[Uniform Resource Locator (URL)](https://en.wikipedia.org/wiki/URL)** filtering blocks or allows access to websites by comparing the requested web address against a database of categorized links. If a user requests a site categorized as "Gambling" or "Malware," the request is denied.
+* **[Content filtering](https://en.wikipedia.org/wiki/Content-control_software)** goes deeper; it examines the actual payload of web traffic to block specific keywords or restricted file types, such as stopping the download of [executable .exe files](https://en.wikipedia.org/wiki/.exe) or documents containing the phrase "Confidential."
+
+Administrators enforce these filters using two primary security configurations:
+* A **[blocklist](https://en.wikipedia.org/wiki/Blacklist_%28computing%29)** (formerly blacklist) is a security configuration that explicitly denies access to specifically listed websites or domains. All other traffic is assumed safe and is permitted.
+* An **[allowlist](https://en.wikipedia.org/wiki/Whitelist)** (formerly whitelist) is a highly restrictive security configuration that permits access only to specifically approved websites or domains. Everything else is implicitly blocked. 
+
+To technically implement this filtering, organizations deploy [proxy servers](https://en.wikipedia.org/wiki/Proxy_server). A **[forward proxy](https://en.wikipedia.org/wiki/Proxy_server%23Forward_proxies)** server sits between client devices and the internet to intercept and filter outbound web requests. The client sends its request to the proxy, and the proxy fetches the website on the client's behalf—assuming the site passes all filtering rules. 
+
+![A forward proxy architecture where a centralized server acts as an intermediary. It intercepts and evaluates outbound client web requests, enforcing filtering policies before retrieving data from the internet on the client's behalf.](https://wikipedia.org/wiki/Special:Redirect/file/Proxy_concept_en.svg)
+
+Historically, utilizing a proxy meant individually configuring the [web browser](https://en.wikipedia.org/wiki/Web_browser) on every single client machine. Today, administrators often deploy a **[transparent proxy](https://en.wikipedia.org/wiki/Proxy_server%23Transparent_proxy)**, which intercepts client web traffic without requiring any specific proxy configuration on the client device. The [network infrastructure](https://en.wikipedia.org/wiki/Telecommunications_network) simply redirects outbound web traffic to the proxy seamlessly, ensuring all users are protected and monitored without any complex [endpoint](https://en.wikipedia.org/wiki/Host_%28network%29) setup.
