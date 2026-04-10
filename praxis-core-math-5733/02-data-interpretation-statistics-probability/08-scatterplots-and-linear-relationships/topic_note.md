@@ -1,142 +1,88 @@
-Let me ask you a question. How do we know if anything in this [universe](https://en.wikipedia.org/wiki/Universe) is related to anything else? 
+The [physical universe](https://en.wikipedia.org/wiki/Universe) is not a collection of isolated, independent facts; it is an intricate web of relationships. When we wish to understand how one measurable property affects another—how the amount of [fertilizer](https://en.wikipedia.org/wiki/Fertilizer) applied to a field changes the yield of [wheat](https://en.wikipedia.org/wiki/Wheat), or how the hours a student spends studying influence their exam scores—we require a visual tool that exposes the hidden mechanics connecting these phenomena. A **[scatterplot](https://en.wikipedia.org/wiki/Scatter_plot)** is precisely that tool. At its core, a scatterplot is a two-dimensional [graph](https://en.wikipedia.org/wiki/Chart) consisting of plotted points on a [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system). By freezing [data](https://en.wikipedia.org/wiki/Data) in a [two-dimensional space](https://en.wikipedia.org/wiki/Two-dimensional_space), scatterplots allow us to perceive patterns that our brains would never detect in a mere [spreadsheet](https://en.wikipedia.org/wiki/Spreadsheet) of numbers. 
 
-Think about it! Does studying more hours *really* guarantee a higher test score? Does the weight of a car affect its [gas mileage](https://en.wikipedia.org/wiki/Fuel_economy)? Do people who eat more [cheese](https://en.wikipedia.org/wiki/Cheese) live longer? 
+![A real-world scatterplot mapping two continuous numerical variables: the waiting time between eruptions against the duration of the eruption for the Old Faithful geyser.](https://wikipedia.org/wiki/Special:Redirect/file/Oldfaithful3.png)
 
-As human beings, our [brains](https://en.wikipedia.org/wiki/Human_brain) are obsessed with finding patterns. But the world is messy. Things don't happen in perfect, predictable little boxes. If you want to uncover the hidden rules governing [nature](https://en.wikipedia.org/wiki/Nature), [economics](https://en.wikipedia.org/wiki/Economics), or [human behavior](https://en.wikipedia.org/wiki/Human_behavior), you can't just stare at a [spreadsheet](https://en.wikipedia.org/wiki/Spreadsheet) full of raw numbers until your eyes cross. You have to *draw a picture* of those numbers.
+## The Architecture of a Scatterplot
 
-That brings us to one of the most elegant, powerful tools in all of [mathematics](https://en.wikipedia.org/wiki/Mathematics): the [scatterplot](https://en.wikipedia.org/wiki/Scatter_plot). For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you don't just need to know what a scatterplot is—you need to understand *how to read the stories it tells us*. 
+To understand a scatterplot, we must first understand the stage on which it is built. A scatterplot displays the relationship between two [numerical variables](https://en.wikipedia.org/wiki/Statistical_variable). It is crucial to note the word *numerical*. Scatterplots are primarily designed to map [continuous numeric data](https://en.wikipedia.org/wiki/Continuous_and_discrete_variables) rather than [categorical data](https://en.wikipedia.org/wiki/Categorical_variable). You can plot [temperature](https://en.wikipedia.org/wiki/Temperature) against [pressure](https://en.wikipedia.org/wiki/Pressure), or [height](https://en.wikipedia.org/wiki/Height) against [weight](https://en.wikipedia.org/wiki/Weight), because these are continuous scales. You cannot use a scatterplot to map a categorical variable like "favorite color" against "type of pet," because colors and pets do not possess an inherent numerical scale.
 
-Let's dive in, map things out, and learn how to see the patterns hiding in plain sight.
+This two-dimensional [coordinate system](https://en.wikipedia.org/wiki/Coordinate_system) is built upon two intersecting axes, each serving a distinct conceptual role:
 
----
+*   **The Horizontal Axis:** This baseline foundation represents the **[independent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)**. By mathematical convention, the horizontal axis is called the **[x-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)**. We usually place the variable we are manipulating, or the one we believe is causing a change, on this axis. Because it is meant to explain the behavior we observe, the independent variable is often referred to as the **[explanatory variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)**. 
+*   **The Vertical Axis:** Rising upward from the baseline, the vertical axis represents the **[dependent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)**. Predictably, the vertical axis is called the **[y-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)**. The values on this axis "depend" on the x-values. Because this variable responds to changes in the explanatory variable, the dependent variable is often referred to as the **[response variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)**.
 
-## 1. The Canvas of Data: What is a Scatterplot?
+> **The Setup:** Imagine observing a fleet of cars. If we want to see how a car's weight affects its [fuel efficiency](https://en.wikipedia.org/wiki/Fuel_efficiency), the weight (which exists independently of our measurement) goes on the horizontal x-axis (the explanatory variable). The fuel efficiency, which *responds* to the burden of that weight, goes on the vertical y-axis (the response variable).
 
-Imagine you have a blank sheet of paper. In mathematics, we call this flat surface a **[coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)**. 
+## The Anatomy of an Observation
 
-> **A scatterplot is a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) graph consisting of plotted points on a coordinate plane.** 
+When you look at a scatterplot, you are looking at a constellation of distinct, individual events. Each single point on a scatterplot represents one [observation](https://en.wikipedia.org/wiki/Observation) consisting of two paired numerical values. 
 
-Why do we scatter these points around? Because **a scatterplot displays the relationship between two [numerical variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29).** We are trying to see if Variable A and Variable B are secretly talking to each other. 
+The position of a point on a scatterplot is determined by an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair)** of [coordinates](https://en.wikipedia.org/wiki/Coordinate_system), typically written as $(x, y)$. This ordered pair is a highly specific set of [geometric](https://en.wikipedia.org/wiki/Geometry) instructions:
+1.  The first number in an ordered pair indicates the distance along the horizontal axis.
+2.  The second number in an ordered pair indicates the distance along the vertical axis.
 
-Now, a quick caveat about the *kind* of data we use here: **scatterplots are primarily designed to map [continuous numeric data](https://en.wikipedia.org/wiki/Continuous_or_discrete_variable) rather than [categorical data](https://en.wikipedia.org/wiki/Categorical_variable).** You wouldn't use a scatterplot to figure out if people who prefer the [color](https://en.wikipedia.org/wiki/Color) [blue](https://en.wikipedia.org/wiki/Blue) also like [golden retrievers](https://en.wikipedia.org/wiki/Golden_Retriever). "Blue" and "Dog" are categories. Scatterplots demand *numbers*—things that stretch out along an infinite [continuum](https://en.wikipedia.org/wiki/Continuum_%28mathematics%29), like [temperature](https://en.wikipedia.org/wiki/Temperature), [money](https://en.wikipedia.org/wiki/Money), [height](https://en.wikipedia.org/wiki/Human_height), or [time](https://en.wikipedia.org/wiki/Time).
+If a point is floating in the upper right [quadrant](https://en.wikipedia.org/wiki/Quadrant_%28plane_geometry%29) of the graph, it didn't arrive there by magic. Plotting a point on a scatterplot requires locating the data point's x-value on the horizontal axis, and then, from that specific location, elevating to the height of the corresponding y-value on the vertical axis. 
 
-![A real-world scatterplot mapping two continuous numerical variables: the waiting time between geyser eruptions on the horizontal x-axis and the duration of the eruption on the vertical y-axis.](https://wikipedia.org/wiki/Special:Redirect/file/Oldfaithful3.png)
+![Plotting individual observations on a Cartesian coordinate system involves locating the specific x-value on the horizontal axis and elevating to the corresponding y-value on the vertical axis.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
 
-### Setting the Stage: The Axes
-To make our 2D graph, we need a frame of reference. We draw two [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) lines that cross like a giant "L".
+Think of plotting a point as giving walking directions in a perfectly gridded city: you walk a certain number of blocks [East](https://en.wikipedia.org/wiki/East) (along the horizontal axis) and then a certain number of blocks [North](https://en.wikipedia.org/wiki/North) (elevating along the vertical axis). Where you stop and plant your flag is the single observation that captures both variables simultaneously.
 
-**The Horizontal Axis:**
-*   **The horizontal axis is called the [x-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** Think of the [horizon](https://en.wikipedia.org/wiki/Horizon)—it goes left to right.
-*   **The horizontal axis of a scatterplot represents the [independent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).** This is the variable we think is doing the influencing. It's the starting point. 
-*   Because we think it *explains* what happens next, **the independent variable is often referred to as the [explanatory variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).** 
+## Decoding the Patterns: Linear Relationships
 
-**The Vertical Axis:**
-*   **The vertical axis is called the [y-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** It runs straight up and down.
-*   **The vertical axis of a scatterplot represents the [dependent variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).** This is the variable that changes *in response* to the independent variable. 
-*   Because it responds, **the dependent variable is often referred to as the [response variable](https://en.wikipedia.org/wiki/Dependent_and_independent_variables).**
+Once the points are plotted, we step back and look at the "cloud" of data. We are searching for an overarching structure. In many of the most important phenomena in [nature](https://en.wikipedia.org/wiki/Nature) and [statistics](https://en.wikipedia.org/wiki/Statistics), we look for a **[linear relationship](https://en.wikipedia.org/wiki/Correlation_and_dependence)**. 
 
-Imagine we are testing how the number of hours studied affects a student's final test score. "Hours Studied" goes on the horizontal x-axis (it's the independent, explanatory variable). The "Test Score" goes on the vertical y-axis (it's the dependent, response variable). The score *depends* on the hours studied.
+A linear relationship exists when the points on a scatterplot roughly form a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29). The data points won't align perfectly—reality is far too messy for that—but their general grouping will mimic a linear trajectory. Our primary goal is to determine the direction of this relationship.
 
----
+### The Upward Climb: Positive Linear Relationships
+A **[positive linear relationship](https://en.wikipedia.org/wiki/Correlation_and_dependence)** occurs when the dependent variable increases as the independent variable increases. 
 
-## 2. Pinning the Butterfly: How to Plot a Point
+Visually, the data points in a positive linear relationship generally trend upward from left to right across the scatterplot. Imagine tracking the age of a [sapling](https://en.wikipedia.org/wiki/Tree) on the x-axis and its height on the y-axis. As [time](https://en.wikipedia.org/wiki/Time) moves forward (rightward), the tree grows taller (upward). The points step up the graph like a loosely formed staircase.
 
-Okay, so we have our axes. Now, how do we actually get the [data](https://en.wikipedia.org/wiki/Data) onto the graph? 
+### The Downward Slide: Negative Linear Relationships
+Conversely, a **[negative linear relationship](https://en.wikipedia.org/wiki/Correlation_and_dependence)** occurs when the dependent variable decreases as the independent variable increases. 
 
-In a scatterplot, we are dealing with individual [observations](https://en.wikipedia.org/wiki/Observation). Maybe we are looking at one specific student named Sarah. Sarah studied for 4 hours and scored an 85. 
+In this scenario, the data points in a negative linear relationship generally trend downward from left to right across the scatterplot. Returning to our car example: as the weight of the vehicle (x-axis) increases, its fuel efficiency in [miles per gallon](https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles) (y-axis) inevitably drops. The cloud of points visually descends as your eyes move from the left side of the graph to the right.
 
-**Each single point on a scatterplot represents one observation consisting of two paired numerical values.** For Sarah, those paired values are 4 and 85. They are eternally linked. 
+### The Static Cloud: No Relationship
+What happens when the variables have absolutely nothing to do with one another? If you plotted the last digit of a person's [phone number](https://en.wikipedia.org/wiki/Telephone_number) against their [shoe size](https://en.wikipedia.org/wiki/Shoe_size), you would not see a staircase, neither ascending nor descending. 
 
-To put Sarah on the graph, we use an **[ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) of coordinates**, which looks like this: **(4, 85)**. 
-**The position of a point on a scatterplot is determined by an ordered pair of [coordinates](https://en.wikipedia.org/wiki/Coordinate_system).**
+A scatterplot indicates no relationship when the data points are randomly distributed across the coordinate plane. It looks like a blast of [static](https://en.wikipedia.org/wiki/Noise_%28video%29) on an old [television screen](https://en.wikipedia.org/wiki/Television_set). A lack of a discernible directional pattern in a scatterplot indicates zero [correlation](https://en.wikipedia.org/wiki/Correlation_and_dependence) between the variables. Moving along the x-axis gives you absolutely no predictive power regarding what will happen on the y-axis.
 
-Here is the foolproof, step-by-step way to plot that point:
-
-1.  **Walk into the hotel lobby (The X-Value):** **The first number in an ordered pair indicates the distance along the horizontal axis.** So, starting at the zero corner (the [origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29)), you walk to the right along the x-axis until you hit the number 4. **Plotting a point on a scatterplot requires locating the data point's x-value on the horizontal axis.**
-2.  **Take the elevator up (The Y-Value):** **The second number in an ordered pair indicates the distance along the vertical axis.** From the number 4 on the horizontal axis, you ride the imaginary elevator straight up until you reach the level of 85. **Plotting a point on a scatterplot requires elevating to the height of the corresponding y-value on the vertical axis.**
-
-Boom! You draw your dot. You’ve just plotted a single observation. Now, do that fifty more times for fifty more students, and you have a scatterplot.
-
-![A Cartesian coordinate plane demonstrating how individual points are located using an ordered pair. The coordinates dictate how far to move along the horizontal x-axis and the vertical y-axis.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
-
----
-
-## 3. Seeing the Story: Identifying Relationships
-
-Once you've plotted all your data points, you step back and look at the whole picture. The dots are scattered everywhere. But are they *completely* [random](https://en.wikipedia.org/wiki/Randomness), or is there a pattern? 
-
-We are looking for a **[linear relationship](https://en.wikipedia.org/wiki/Linear_relationship)**. **A linear relationship exists when the points on a scatterplot roughly form a straight line.**
-
-There are three basic stories a scatterplot can tell you:
-
-### Story 1: The Positive Linear Relationship
-Imagine a graph mapping *Outside Temperature* (x-axis) versus *Ice Cream Sales* (y-axis). As the days get hotter, people buy more ice cream. 
-
-*   **A positive linear relationship occurs when the dependent variable increases as the independent variable increases.** Both go up together.
-*   Visually, **the data points in a positive linear relationship generally trend upward from left to right across the scatterplot.** They look like a hill you have to climb.
-
-### Story 2: The Negative Linear Relationship
-Now imagine mapping the *Age of a Car in Years* (x-axis) versus the *Value of the Car in Dollars* (y-axis). As the car gets older (x goes up), its resale value drops (y goes down). 
-
-*   **A negative linear relationship occurs when the dependent variable decreases as the independent variable increases.** As one goes up, the other goes down. 
-*   Visually, **the data points in a negative linear relationship generally trend downward from left to right across the scatterplot.** They look like a slide you are going down.
-
-### Story 3: Absolutely No Relationship
-What if we mapped *Shoe Size* (x-axis) versus *Math Test Score* (y-axis)? Having big feet doesn't make you better at [algebra](https://en.wikipedia.org/wiki/Algebra). 
-
-*   **A scatterplot indicates no relationship when the data points are randomly distributed across the coordinate plane.** It just looks like a screen door or a starry night sky. 
-*   **A lack of a discernible directional pattern in a scatterplot indicates zero [correlation](https://en.wikipedia.org/wiki/Correlation) between the variables.** There is no underlying connection.
-
-| Type of Relationship | What it means | Visual Direction (Left to Right) | Example |
+| Visual Pattern | Direction of Trend | Variable Interaction | Correlation Type |
 | :--- | :--- | :--- | :--- |
-| **Positive Linear** | As X goes up, Y goes up. | Trends **Upward** | Study time vs. Grades |
-| **Negative Linear** | As X goes up, Y goes down. | Trends **Downward** | Car age vs. Resale value |
-| **No Relationship** | Variables do not affect each other. | **Randomly distributed** | Shoe size vs. [IQ](https://en.wikipedia.org/wiki/Intelligence_quotient) |
+| **Points slope upward (left to right)** | Ascending | As $X$ increases, $Y$ increases | Positive Linear |
+| **Points slope downward (left to right)** | Descending | As $X$ increases, $Y$ decreases | Negative Linear |
+| **Points scattered randomly everywhere** | None | Changes in $X$ do not predict $Y$ | Zero Correlation |
 
----
+## Modeling the Reality: Trend Lines and Strength
 
-## 4. Modeling Nature: Trend Lines and Slopes
+When we identify a linear relationship, we often want to summarize that relationship using a single geometric tool. We do this by drawing a **[trend line](https://en.wikipedia.org/wiki/Curve_fitting)**.
 
-When we spot a linear relationship, we want to summarize it. We do this by drawing a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) through the "cloud" of points. 
+A trend line is a straight line drawn through the center of the data points on a scatterplot to model the underlying relationship. You can think of it as the "mathematical spine" of the data cloud. Because it attempts to represent the truest [average](https://en.wikipedia.org/wiki/Average) path of the points, minimizing the distance between the line itself and all the scattered points, a trend line is frequently called a **[line of best fit](https://en.wikipedia.org/wiki/Linear_regression)**.
 
-> **A [trend line](https://en.wikipedia.org/wiki/Trend_line) is a straight line drawn through the center of the data points on a scatterplot to model the underlying relationship.** 
+![A line of best fit cuts through the center of a data cloud to mathematically model a positive linear relationship between two variables.](https://wikipedia.org/wiki/Special:Redirect/file/Linear_regression.svg)
 
-Because it represents the "average" path of all the data, **a trend line is frequently called a line of best fit.** It’s as if the points were magnetic, and the line rests in the exact [equilibrium](https://en.wikipedia.org/wiki/Mechanical_equilibrium) of their magnetic pull.
+### Slopes Reveal the Secret
+The trend line directly links visual geometry to [algebraic](https://en.wikipedia.org/wiki/Algebra) rules. 
+*   Because a positive correlation points upward, the mathematical [slope](https://en.wikipedia.org/wiki/Slope) of a trend line in a positive linear relationship is a positive [number](https://en.wikipedia.org/wiki/Number). 
+*   Because a negative correlation points downward, the mathematical slope of a trend line in a negative linear relationship is a negative number.
 
-Here is the beautiful, mathematical truth about trend lines: their steepness—which we call *[slope](https://en.wikipedia.org/wiki/Slope)*—perfectly matches the direction of the relationship.
+### Measuring the Gravitational Pull: Strong vs. Weak
+Not all linear relationships are created equal. Sometimes, the data points cling tightly to the underlying trend line, behaving with immense predictability. Other times, the data is highly variable, swirling loosely around the general trend. We describe this [variance](https://en.wikipedia.org/wiki/Variance) as the *strength* of the relationship.
 
-*   **The mathematical slope of a trend line in a positive linear relationship is a positive number.** (e.g., *m = 2*)
-*   **The mathematical slope of a trend line in a negative linear relationship is a negative number.** (e.g., *m = -0.5*)
+*   **Strong Relationships:** A tight clustering of points around an imaginary straight line signifies a strong linear relationship. If you measure the [boiling point](https://en.wikipedia.org/wiki/Boiling_point) of [water](https://en.wikipedia.org/wiki/Water) at various strictly controlled [atmospheric pressures](https://en.wikipedia.org/wiki/Atmospheric_pressure), the resulting scatterplot will feature points so tightly packed they practically draw the line of best fit for you.
+*   **Weak Relationships:** A loose scattering of points around an imaginary straight line signifies a weak linear relationship. The general trend is still visible—perhaps sloping upward—but the points are spread wide. Predicting a student's final grade based solely on their attendance record might show a weak positive relationship; the upward trend is undeniable, but the heavy scatter indicates that many other factors (like study habits or prior knowledge) are pushing the y-values away from the trend line.
 
-### The Strength of the Connection
-Not all relationships are equally powerful. Sometimes variables are tightly linked, and sometimes they only have a mild influence on one another. We can visually gauge the strength of this correlation by looking at how tightly the points hug our line of best fit.
+## The Anomalies: Recognizing Outliers
 
-*   **A tight clustering of points around an imaginary straight line signifies a strong linear relationship.** The closer the points are to the line, the more reliably the independent variable predicts the dependent variable. 
-*   **A loose scattering of points around an imaginary straight line signifies a weak linear relationship.** The points still generally trend upward or downward, but they are puffed out like a fat cloud. The variables are related, but with a lot of "noise" or outside factors getting in the way.
+Nature rarely obeys our mathematical models perfectly, and occasionally, it produces a glaring exception. 
 
-![Scatterplots demonstrating varying directions and strengths of linear relationships. The top row illustrates perfect, strong, and weak correlations for both positive (upward) and negative (downward) trends, as well as a completely random distribution.](https://wikipedia.org/wiki/Special:Redirect/file/Correlation_examples2.svg)
+As you analyze a scatterplot, you may spot a point that utterly defies the behavior of its peers. An **[outlier](https://en.wikipedia.org/wiki/Outlier)** in a scatterplot is a specific data point located abnormally far away from the general cluster of points. 
 
----
+![Data points that sit far outside the main cluster are outliers, and they have the potential to significantly skew standard regression lines (shown here in blue).](https://wikipedia.org/wiki/Special:Redirect/file/Thiel-Sen_estimator.svg)
 
-## 5. The Oddballs: Outliers
+If we plot human age (x-axis) against running speed (y-axis), we will likely see a general cluster of data. But if we plot the data of an 85-year-old [Olympic](https://en.wikipedia.org/wiki/Olympic_Games) [sprinter](https://en.wikipedia.org/wiki/Sprint_%28running%29), that specific data point will sit drastically higher on the y-axis than the rest of the individuals in that age bracket. 
 
-Nature rarely plays perfectly by the rules. Sometimes, you get a piece of data that makes absolutely no sense compared to the rest of the group. 
+Outliers are crucial. In a novice's eyes, an outlier is a nuisance that ruins a perfectly good line of best fit. To a [scientist](https://en.wikipedia.org/wiki/Scientist) or [statistician](https://en.wikipedia.org/wiki/Statistician), an outlier is often an invitation to discovery. Was there an error in measurement? Or is there a hidden variable at play that we haven't considered? 
 
-Suppose you are looking at a scatterplot showing the relationship between [income](https://en.wikipedia.org/wiki/Income) and the [square footage](https://en.wikipedia.org/wiki/Square_foot) of a person's house. It's a strong, positive linear relationship. But way off in the upper-left corner of the graph, there is a dot. It represents someone with almost zero income, living in a massive 15,000-square-foot [mansion](https://en.wikipedia.org/wiki/Mansion). (Maybe they inherited it, or won the [lottery](https://en.wikipedia.org/wiki/Lottery)!)
-
-**An [outlier](https://en.wikipedia.org/wiki/Outlier) in a scatterplot is a specific data point located abnormally far away from the general cluster of points.** 
-
-Outliers are crucial. In a dry textbook, an outlier is just an annoying error you throw away. But to a real [scientist](https://en.wikipedia.org/wiki/Scientist) or [educator](https://en.wikipedia.org/wiki/Educator), an outlier is an invitation to investigate. *Why* is that point so far away? Is it a data entry error? Or did we just discover something entirely new? When reading scatterplots on the Praxis exam, always be prepared to identify the point that radically defies the trend line. 
-
----
-
-## Summary for the Praxis Exam
-
-When you sit down to tackle scatterplot questions on the Praxis Core Math exam, remember the story of the data:
-1.  Check the **axes**: Know what your **x-axis (independent/explanatory)** and **y-axis (dependent/response)** represent.
-2.  Understand the **points**: Remember that plotting requires locating the x-value and elevating to the height of the y-value using an **ordered pair**.
-3.  Look for the **trend**: Visualize a **trend line/line of best fit**. Does it go up (positive slope), go down (negative slope), or is there just a random cloud (zero correlation)?
-4.  Assess the **strength**: Look at how tightly the points group around your line. Tight clustering means a strong relationship; loose scattering means a weak relationship.
-5.  Spot the **outliers**: Find the rebels abnormally far away from the rest of the data.
-
-You aren't just memorizing definitions; you're learning the visual language of mathematics. When you look at a scatterplot, let the data speak to you. Find the pattern, draw the line, and you'll do great!
+> **Study Tip for the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test):** When evaluating a scatterplot on the exam, physically trace the center of the "cloud" of dots with your finger. If your finger moves up and to the right, the relationship is positive, and the trend line's slope is positive. If your finger moves down and to the right, the relationship is negative, and the slope is negative. If your finger just scribbles in circles, there is no relationship. Always remember to check the axes to identify which variable is doing the explaining (the independent x-axis) and which is responding (the dependent y-axis).

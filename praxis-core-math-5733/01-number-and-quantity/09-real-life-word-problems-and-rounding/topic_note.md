@@ -1,162 +1,96 @@
-Welcome to the beautiful, messy, and infinitely fascinating intersection of the [universe](https://en.wikipedia.org/wiki/Universe) and [human language](https://en.wikipedia.org/wiki/Natural_language): the [mathematical word problem](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29). 
+[Mathematics](https://en.wikipedia.org/wiki/Mathematics) is the rigorous process of stripping away the chaotic, irrelevant details of reality to reveal the pure logical structure beneath. When engineers design a [suspension bridge](https://en.wikipedia.org/wiki/Suspension_bridge), they do not need to calculate the color of the paint to determine the [tension](https://en.wikipedia.org/wiki/Tension_%28physics%29) in the [steel](https://en.wikipedia.org/wiki/Steel) cables; they extract only the variables that dictate [force](https://en.wikipedia.org/wiki/Force) and [mass](https://en.wikipedia.org/wiki/Mass). Standard mathematical [word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29) test exactly this faculty. They present a messy, real-world scenario and demand that you extract the [mathematical operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) hiding within the text, solve the resulting [equation](https://en.wikipedia.org/wiki/Equation), and then translate the abstract numerical answer back into a practical, meaningful quantity. This process—translation, calculation, and contextual approximation—is the fundamental bedrock of [applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics).
 
-Many students shrink when they see a paragraph of text on a [math](https://en.wikipedia.org/wiki/Mathematics) exam. They prefer [equations](https://en.wikipedia.org/wiki/Equation) handed to them on a silver platter, neat and ready to solve. But [nature](https://en.wikipedia.org/wiki/Nature) doesn't hand us equations! When you’re figuring out how many [buses](https://en.wikipedia.org/wiki/Bus) you need for a [field trip](https://en.wikipedia.org/wiki/Field_trip), or how much [paint](https://en.wikipedia.org/wiki/Paint) to buy for a classroom, the universe speaks to you in [English](https://en.wikipedia.org/wiki/English_language) (or [Spanish](https://en.wikipedia.org/wiki/Spanish_language), or [French](https://en.wikipedia.org/wiki/French_language)). It is up to *you* to [translate](https://en.wikipedia.org/wiki/Translation) that reality into [Mathematics](https://en.wikipedia.org/wiki/Mathematics). 
+![Mathematical modeling strips away the chaotic details of reality, translating physical scenarios into abstract free body diagrams to calculate precise variables like force and mass.](https://wikipedia.org/wiki/Special:Redirect/file/Freebodydiagram3_pn.svg)
 
-Today, we are going to learn how to become elite translators for the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test). We’ll learn how to strip away the noise, decode the English language into pure [mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols), and then—because the real world isn't always perfectly [divisible](https://en.wikipedia.org/wiki/Divisor)—how to [round](https://en.wikipedia.org/wiki/Rounding) those answers with absolute [precision](https://en.wikipedia.org/wiki/Accuracy_and_precision). 
+## The Lexicon of Mathematics: Translating Words to Operations
 
-Let's dive in.
+To solve a word problem, you must first treat the [English language](https://en.wikipedia.org/wiki/English_language) as a [cipher](https://en.wikipedia.org/wiki/Cipher). Everyday sentences contain precise instructions for [mathematical operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29), provided you know how to read them. 
 
----
+Before we map this vocabulary, we must establish the first rule of [mathematical modeling](https://en.wikipedia.org/wiki/Mathematical_model): **The Principle of Exclusion**. Real-world scenarios are noisy. Therefore, **extraneous numerical information in a word problem must be identified and excluded before translating the scenario into a [mathematical equation](https://en.wikipedia.org/wiki/Equation).** If a problem states, "A teacher has 30 students and buys 4 boxes of markers on Tuesday for \$12 each," and asks for the total cost of the markers, the 30 students and the day Tuesday are irrelevant noise. You must isolate the factors that matter.
 
-## Part I: The Art of Translation
+Once the noise is stripped away, we look for key structural words that dictate our mathematical operations. 
 
-Before you can solve a problem, you have to build the [equation](https://en.wikipedia.org/wiki/Equation). This requires us to look at a scenario, identify what matters, and convert words into [mathematical operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29).
+![An ancient word problem from the 12th-century Līlāvatī, demonstrating the historical practice of translating real-world scenarios into discrete mathematical operations.](https://wikipedia.org/wiki/Special:Redirect/file/Lilavati-problem.png)
 
-### Step 1: Silence the Noise
-Here is a profound truth about the real world: it gives you more [information](https://en.wikipedia.org/wiki/Information) than you need. 
+### The Dictionary of Operations
 
-Imagine a problem says: *"Mr. Thompson, a 42-year-old [teacher](https://en.wikipedia.org/wiki/Teacher), is buying 3 boxes of [markers](https://en.wikipedia.org/wiki/Marker_pen) that cost \$4 each."* 
+Below is the definitive translation guide for converting English prose into [mathematical symbols](https://en.wikipedia.org/wiki/Mathematical_notation). 
 
-Does his age matter to the total [cost](https://en.wikipedia.org/wiki/Cost)? Of course not! This brings us to our first foundational rule: **Extraneous numerical information in a [word problem](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29) must be identified and excluded before translating the scenario into a mathematical equation.** 
+| Operation | English Vocabulary | Analytical Context |
+| :--- | :--- | :--- |
+| **[Addition](https://en.wikipedia.org/wiki/Addition) ($+$)** | **[Sum](https://en.wikipedia.org/wiki/Summation)** | The word **sum** in a mathematical word problem indicates an [addition operation](https://en.wikipedia.org/wiki/Addition), usually asking for the total of disparate parts. |
+| | **More than** | The phrase **more than** in a mathematical word problem indicates an [addition operation](https://en.wikipedia.org/wiki/Addition), implying a baseline value has been increased. |
+| | **Altogether** | The word **altogether** in a mathematical word problem indicates an [addition operation](https://en.wikipedia.org/wiki/Addition), signaling the pooling of quantities. |
+| **[Subtraction](https://en.wikipedia.org/wiki/Subtraction) ($-$)** | **Difference** | The word **difference** in a mathematical word problem indicates a [subtraction operation](https://en.wikipedia.org/wiki/Subtraction), measuring the gap between two values. |
+| | **Less than** | The phrase **less than** in a mathematical word problem indicates a [subtraction operation](https://en.wikipedia.org/wiki/Subtraction), implying a reduction from a baseline. |
+| | **Remaining** | The word **remaining** in a mathematical word problem indicates a [subtraction operation](https://en.wikipedia.org/wiki/Subtraction), asking what is left after a portion is removed. |
+| **[Multiplication](https://en.wikipedia.org/wiki/Multiplication) ($\times$)** | **Product** | The word **product** in a mathematical word problem indicates a [multiplication operation](https://en.wikipedia.org/wiki/Multiplication). |
+| | **Times** | The word **times** in a mathematical word problem indicates a [multiplication operation](https://en.wikipedia.org/wiki/Multiplication), representing scaling or repetition. |
+| | **Of** | **The word *of* immediately following a [fraction](https://en.wikipedia.org/wiki/Fraction) or [percentage](https://en.wikipedia.org/wiki/Percentage) indicates a [multiplication operation](https://en.wikipedia.org/wiki/Multiplication).** (e.g., "half *of* 10" translates to $\frac{1}{2} \times 10$). |
+| **[Division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) ($\div$)** | **Quotient** | The word **quotient** in a mathematical word problem indicates a [division operation](https://en.wikipedia.org/wiki/Division_%28mathematics%29). |
+| | **Split equally** | The phrase **split equally** in a mathematical word problem indicates a [division operation](https://en.wikipedia.org/wiki/Division_%28mathematics%29), distributing a total into uniform parts. |
+| | **Per** | The word **per** in a mathematical word problem often indicates a [division operation](https://en.wikipedia.org/wiki/Division_%28mathematics%29), establishing a [rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29) (e.g., miles *per* hour is $\text{miles} \div \text{hours}$). |
+| **Equivalence ($=$)** | **Is** | **The word *is* in a mathematical word problem translates to an [equals sign](https://en.wikipedia.org/wiki/Equals_sign).** It represents the fulcrum of the [equation](https://en.wikipedia.org/wiki/Equation), balancing the two sides. |
 
-Always ask yourself: *What is the specific question being asked?* Let the final question act as your filter. If a [number](https://en.wikipedia.org/wiki/Number) doesn't help you answer that specific question, throw it out. It is a [magician's](https://en.wikipedia.org/wiki/Magic_%28illusion%29) [misdirection](https://en.wikipedia.org/wiki/Misdirection_%28magic%29). 
+![The first recorded use of the equals sign by Robert Recorde in 1557 established a definitive symbol to represent mathematical equivalence and balance within an equation.](https://wikipedia.org/wiki/Special:Redirect/file/First_Equation_Ever.png)
 
-### Step 2: The Rosetta Stone of Math
-Once you've filtered out the noise, you need to translate the remaining English words into math. Certain words are historical triggers. They are flashing [neon signs](https://en.wikipedia.org/wiki/Neon_sign) telling you exactly which operation to use. 
+## The Architecture of Approximation: Standard Rounding Rules
 
-![Just as the historical Rosetta Stone allowed scholars to decode ancient texts, specific English vocabulary words act as translation keys to decode real-world scenarios into pure mathematics.](https://wikipedia.org/wiki/Special:Redirect/file/Rosetta_Stone_BW.jpeg)
+Once we have translated our problem and calculated a raw answer, we are often left with a long string of [digits](https://en.wikipedia.org/wiki/Numerical_digit). However, high-precision numbers are rarely practical. You cannot hand a cashier a [fraction](https://en.wikipedia.org/wiki/Fraction) of a [penny](https://en.wikipedia.org/wiki/Penny_%28United_States_coin%29), nor can you order $4.362$ pizzas. We must approximate, and we do this through a standardized [algorithmic process](https://en.wikipedia.org/wiki/Algorithm) called [rounding](https://en.wikipedia.org/wiki/Rounding).
 
-Here is your translation guide:
+### The Geography of Decimals
+To round correctly, you must first precisely identify the anatomical structure of a [decimal number](https://en.wikipedia.org/wiki/Decimal). Moving to the right of the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator), the values represent progressively smaller [fractions](https://en.wikipedia.org/wiki/Fraction) of a whole:
+*   **The tenths place is the first numerical position to the right of the decimal point.** ($0.1$)
+*   **The hundredths place is the second numerical position to the right of the decimal point.** ($0.01$)
+*   **The thousandths place is the third numerical position to the right of the decimal point.** ($0.001$)
 
-#### The Language of Addition (+)
-When parts are coming together to form a greater whole, you are [adding](https://en.wikipedia.org/wiki/Addition). 
+![Understanding the precise place value of each digit within a decimal number is geometrically required to accurately apply standard rounding algorithms.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
 
-![Visual representation of addition: bringing discrete parts together to form a greater total sum.](https://wikipedia.org/wiki/Special:Redirect/file/Addition01.svg)
+### The Standard Algorithm of Rounding
 
-*   **Sum**: The word **sum** in a mathematical word problem indicates an [addition](https://en.wikipedia.org/wiki/Addition) operation. (e.g., "The [sum](https://en.wikipedia.org/wiki/Summation) of 4 and 5" is \$4 + 5$).
-*   **More than**: The phrase **more than** in a mathematical word problem indicates an addition operation. (e.g., "6 more than 10" is \$10 + 6$).
-*   **Altogether**: The word **altogether** in a mathematical word problem indicates an addition operation. (e.g., "How many [apples](https://en.wikipedia.org/wiki/Apple) altogether?")
+Rounding is not guesswork; it is an entirely [deterministic algorithm](https://en.wikipedia.org/wiki/Deterministic_algorithm) governed by rigid rules. **Standard rounding involves identifying the target [place value](https://en.wikipedia.org/wiki/Positional_notation) and examining the digit immediately to the right of the target place value.** The digit to the right is the sole judge of what happens to your target digit.
 
-#### The Language of Subtraction (–)
-When we are finding the gap between two numbers, or when something is being taken away, we [subtract](https://en.wikipedia.org/wiki/Subtraction).
+> **Rule 1: The Floor (0–4)**  
+> **A target digit remains unchanged during rounding if the digit immediately to the right is zero, one, two, three, or four.** Because the number is geometrically closer to the [lower bound](https://en.wikipedia.org/wiki/Upper_and_lower_bounds), we "round down" by leaving the target digit exactly as it is.
 
-![Visual representation of subtraction: identifying the remaining difference after a specific quantity is removed.](https://wikipedia.org/wiki/Special:Redirect/file/Subtraction01.svg)
+> **Rule 2: The Ceiling (5–9)**  
+> **A target digit increases by one during rounding if the digit immediately to the right is five, six, seven, eight, or nine.** Because the number is geometrically closer to the [upper bound](https://en.wikipedia.org/wiki/Upper_and_lower_bounds) (or exactly in the middle, by [mathematical convention](https://en.wikipedia.org/wiki/Convention_%28norm%29)), we bump the target digit up.
 
-*   **Difference**: The word **difference** in a mathematical word problem indicates a [subtraction](https://en.wikipedia.org/wiki/Subtraction) operation. (e.g., "The difference between 10 and 4" is \$10 - 4$).
-*   **Less than**: The phrase **less than** in a mathematical word problem indicates a subtraction operation. (e.g., "5 [less than](https://en.wikipedia.org/wiki/Inequality_%28mathematics%29) 12" is \$12 - 5$).
-*   **Remaining**: The word **remaining** in a mathematical word problem indicates a subtraction operation. (e.g., "How many [pencils](https://en.wikipedia.org/wiki/Pencil) are remaining?")
+### Dealing with the Aftermath: Whole Numbers vs. Decimals
 
-#### The Language of Multiplication (×)
-[Multiplication](https://en.wikipedia.org/wiki/Multiplication) is really just hyper-fast, scaled addition. 
+Once the target digit has been evaluated and either retained or increased, you must deal with the trailing digits. The rules here diverge wildly depending on whether your target digit was part of a [whole number](https://en.wikipedia.org/wiki/Integer) or a [decimal fraction](https://en.wikipedia.org/wiki/Decimal_fraction).
 
-![Multiplication as scaled addition: calculating the total product by combining multiple equal-sized groups.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_4_bags_3_marbles.svg)
-
-*   **Product**: The word **product** in a mathematical word problem indicates a multiplication operation. (e.g., "The [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of 3 and 4" is \$3 \times 4$).
-*   **Times**: The word **times** in a mathematical word problem indicates a multiplication operation. (e.g., "5 times the amount").
-*   **Of (The Secret Agent)**: This is a crucial one! **The word *of* immediately following a [fraction](https://en.wikipedia.org/wiki/Fraction) or [percentage](https://en.wikipedia.org/wiki/Percentage) indicates a multiplication operation.** If you want "half *of* 10," you write $\frac{1}{2} \times 10$. If you want "20% *of* 50," you write \$0.20 \times 50$. 
-
-#### The Language of Division (÷)
-[Division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) is the act of carving the universe into portions.
-
-![Visual representation of division: carving a total quantity into equal, discrete portions to find the quotient.](https://wikipedia.org/wiki/Special:Redirect/file/Divide12by3.svg)
-
-*   **Quotient**: The word **quotient** in a mathematical word problem indicates a division operation. (e.g., "The [quotient](https://en.wikipedia.org/wiki/Quotient) of 20 and 4" is \$20 \div 4$).
-*   **Split equally**: The phrase **split equally** in a mathematical word problem indicates a division operation. (e.g., "The prize was split equally among 4 people").
-*   **Per**: The word **per** in a mathematical word problem often indicates a division operation. If a [car](https://en.wikipedia.org/wiki/Car) goes "60 [miles](https://en.wikipedia.org/wiki/Mile) *per* [hour](https://en.wikipedia.org/wiki/Hour)," you are dividing miles by hours ($\frac{60}{1}$). 
-
-#### The Language of Equality (=)
-Every sentence needs a [verb](https://en.wikipedia.org/wiki/Verb). In mathematical sentences (equations), the verb is almost always the [equals sign](https://en.wikipedia.org/wiki/Equals_sign). 
-
-![The first recorded use of the equals sign by Robert Recorde in 1557, which serves as the essential linking verb in mathematical translation.](https://wikipedia.org/wiki/Special:Redirect/file/First_Equation_Ever.png)
-
-*   **Is**: **The word *is* in a mathematical word problem translates to an equals sign.** (e.g., "Half of 10 *is* 5" translates directly to $\frac{1}{2} \times 10 = 5$).
-
----
-
-## Part II: The Precision of Approximation (Rounding)
-
-Once you've set up your brilliant equation and solved it, your [calculator](https://en.wikipedia.org/wiki/Calculator) might spit out something horrifying, like `14.839201`. 
-
-Does anyone need to know a [length](https://en.wikipedia.org/wiki/Length) down to the millionth of an [inch](https://en.wikipedia.org/wiki/Inch) to build a wooden [birdhouse](https://en.wikipedia.org/wiki/Nest_box)? No. We must [approximate](https://en.wikipedia.org/wiki/Approximation). We must round. 
-
-### Knowing Your Place (Values)
-Before we round, we have to know exactly where to point our [laser](https://en.wikipedia.org/wiki/Laser). The Praxis exam will frequently ask you to round to a specific [decimal place](https://en.wikipedia.org/wiki/Decimal_representation). 
-
-![A breakdown of positional notation, identifying the decimal separator and the specific place values mapping to its right.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
-
-Imagine the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) is a wall. As we walk to the right of that wall, we are breaking a whole unit into smaller and smaller fractions:
-*   **Tenths**: **The tenths place is the first numerical position to the right of the decimal point.** (e.g., in \$3.141$, the **1** is in the tenths place).
-*   **Hundredths**: **The hundredths place is the second numerical position to the right of the decimal point.** (e.g., in \$3.141$, the **4** is in the hundredths place).
-*   **Thousandths**: **The thousandths place is the third numerical position to the right of the decimal point.** (e.g., in \$3.141$, the second **1** is in the thousandths place).
-
-### The Mechanics of Rounding
-How do we actually round? It is a beautiful, predictable [dance](https://en.wikipedia.org/wiki/Dance). **Standard rounding involves identifying the target [place value](https://en.wikipedia.org/wiki/Positional_notation) and examining the [digit](https://en.wikipedia.org/wiki/Numerical_digit) immediately to the right of the target place value.** 
-
-Think of the digit to the right as the "boss." It tells the target digit what to do. 
-
-> **The 0-4 Rule (Hold Steady):** 
-> **A target digit remains unchanged during rounding if the digit immediately to the right is [zero](https://en.wikipedia.org/wiki/0), [one](https://en.wikipedia.org/wiki/1), [two](https://en.wikipedia.org/wiki/2), [three](https://en.wikipedia.org/wiki/3), or [four](https://en.wikipedia.org/wiki/4).**
-> *Example:* Round \$7.34$ to the nearest tenth. The target is \$3$. The boss to the right is \$4$. The \$3$ remains unchanged. Answer: $7.3$.
-
-> **The 5-9 Rule (Push Up):**
-> **A target digit increases by one during rounding if the digit immediately to the right is [five](https://en.wikipedia.org/wiki/5), [six](https://en.wikipedia.org/wiki/6), [seven](https://en.wikipedia.org/wiki/7), [eight](https://en.wikipedia.org/wiki/8), or [nine](https://en.wikipedia.org/wiki/9).**
-> *Example:* Round \$7.38$ to the nearest tenth. The target is \$3$. The boss to the right is \$8$. The target digit increases by one. Answer: \$7.4$.
-
-### The Fate of the Trailing Digits
-What happens to the digits to the right after we round? This is where many students stumble, because the rule changes depending on whether you are working with [whole numbers](https://en.wikipedia.org/wiki/Integer) or [decimals](https://en.wikipedia.org/wiki/Decimal)! 
-
-1.  **Whole Numbers (Convert to Zeros):** **All digits to the right of a rounded whole number target digit must be converted to [zeros](https://en.wikipedia.org/wiki/0).** Why? Because they act as placeholders! If you round \$4,382$ to the nearest thousand, the target is \$4$, the boss is \$3$, so the \$4$ stays. But you can't just write \$4$. You must write $4,000$. The trailing digits become zeros to hold the [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29).
-2.  **Decimals (Annihilation):** **All digits to the right of a rounded decimal target digit must be entirely removed from the final number.** If you round \$4.382$ to the nearest tenth, the target is \$3$, the boss is \$8$, so the \$3$ becomes a $4$. The answer is \$4.4$. You do *not* write $4.400$. In decimals, [trailing zeros](https://en.wikipedia.org/wiki/Trailing_zero) are redundant and mathematically signify a level of precision you just threw away. Remove them entirely!
+*   **Whole Numbers:** **All digits to the right of a rounded whole number target digit must be converted to zeros.** 
+    *   *Example:* Round $4,382$ to the nearest hundred. The target is $3$. The digit right is $8$. The target becomes $4$. The trailing digits must hold the spatial geometry of the number, so they become zeros. The answer is $4,400$. (If you dropped them, your answer would be $44$, which is absurdly wrong).
+*   **Decimals:** **All digits to the right of a rounded decimal target digit must be entirely removed from the final number.**
+    *   *Example:* Round $6.73$ to the nearest tenth. The target is $7$. The digit right is $3$. The target stays $7$. The trailing digits are dropped entirely. The answer is $6.7$. Writing $6.70$ incorrectly implies [precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) to the hundredths place.
 
 ### The Domino Effect: Rounding Nines
-What happens if you have to round up, but your target digit is a 9? You can't fit a 10 into a single place value! 
+A fascinating mechanical exception occurs when you are forced to round up a target digit that is a $9$. Because a single digit cannot hold a value of $10$, we experience a cascade. 
 
-This triggers a mathematical [domino effect](https://en.wikipedia.org/wiki/Domino_effect). **When rounding up a target digit of nine, the nine becomes a zero and the digit immediately to its left increases by one.** 
+**When rounding up a target digit of nine, the nine becomes a zero and the digit immediately to its left increases by one.** 
+If the digit to the left is *also* a nine, the cascade continues leftward until it hits a non-nine digit.
+*   *Example:* Round $13.97$ to the nearest tenth. The target is $9$. The digit right is $7$, telling us to round up. The $9$ becomes a $0$, pushing a $+1$ to the $3$ to its left, making it a $4$. The trailing $7$ is removed entirely. The final answer is $14.0$. 
 
-*Example:* Round \$2.96$ to the nearest tenth. 
-*   Target digit: \$9$ (tenths place).
-*   Boss digit to the right: \$6$. 
-*   Rule: Increase target by 1. 
-*   Action: The \$9$ becomes a $0$, and it bumps the \$2$ (in the ones place) up to a \$3$. 
-*   Final Answer: $3.0$. (Note: We keep the $.0$ here because it explicitly shows we rounded to the tenths place!)
+## Context Dictates Rules: Real-World Exceptions to Rounding
 
----
+Standard rounding algorithms apply to [pure](https://en.wikipedia.org/wiki/Pure_mathematics), abstract mathematics. However, word problems represent the physical world. Physical reality imposes absolute constraints that utterly override standard rounding rules. You must look at the nature of the *things* you are counting.
 
-## Part III: When Reality Breaks the Rules (Contextual Rounding)
+### The Currency Constraint
+When dealing with money, standard rounding applies, but the target place value is dictated by the [currency system](https://en.wikipedia.org/wiki/Currency). **Financial calculations in standard word problems generally require rounding to the nearest hundredth to accurately represent [cents](https://en.wikipedia.org/wiki/Cent_%28currency%29).** If a calculation results in \$14.568, standard rounding dictates an answer of \$14.57, because the smallest transacting [denomination](https://en.wikipedia.org/wiki/Denomination_%28currency%29) is the [penny](https://en.wikipedia.org/wiki/Penny_%28United_States_coin%29).
 
-Here is the ultimate test of a [mathematician](https://en.wikipedia.org/wiki/Mathematician): knowing when standard rules fail. 
+![Because physical currency is divided into discrete denominations, such as the United States penny, financial calculations must accommodate real-world constraints by rounding down to the nearest hundredth.](https://wikipedia.org/wiki/Special:Redirect/file/US_One_Cent_Obv.png)
 
-Sometimes, the pure mechanics of "0-4 keep, 5-9 up" clash with the [physical laws](https://en.wikipedia.org/wiki/Physical_law) of the real world. On the Praxis exam, you will encounter scenarios where the *context* dictates how you round. You must use your [human brain](https://en.wikipedia.org/wiki/Human_brain), not just an [algorithm](https://en.wikipedia.org/wiki/Algorithm).
+### The Ceiling Constraint: Discrete Containers
+Imagine you are planning a school field trip for 132 students, and each bus holds 40 students. You divide $132$ by $40$ to get $3.3$ buses. 
 
-### 1. The Economy of Decimals: Financial Calculations
-[Money](https://en.wikipedia.org/wiki/Money) operates under its own universal law. Unless a problem specifically tells you otherwise, remember this constraint: **Financial calculations in standard word problems generally require rounding to the nearest hundredth to accurately represent [cents](https://en.wikipedia.org/wiki/Cent_%28currency%29).** 
-If your calculation tells you that a student's share of a [pizza](https://en.wikipedia.org/wiki/Pizza) bill is $\$5.347$, you cannot hand someone $5.347$ [dollars](https://en.wikipedia.org/wiki/United_States_dollar). You round to the nearest hundredth (the cents place): $\$5.35$. 
+If you apply standard rounding, $3.3$ rounds to $3$ buses. But what happens in reality? Three buses hold 120 students, leaving 12 children stranded on the sidewalk. Because buses are physical, indivisible objects, you must order a 4th bus. 
 
-### 2. The Ceiling Rule: Containers and Capacity
-Imagine you are pouring 14.2 [gallons](https://en.wikipedia.org/wiki/Gallon) of [water](https://en.wikipedia.org/wiki/Water) into 1-gallon [buckets](https://en.wikipedia.org/wiki/Bucket). How many buckets do you need? 
-Pure math says \$14.2$ rounds down to $14$. But if you only buy 14 buckets, 0.2 gallons of water spills all over your [shoes](https://en.wikipedia.org/wiki/Shoe)! 
+**Word problems asking for the number of discrete containers needed to hold a continuous amount require rounding up to the next whole [integer](https://en.wikipedia.org/wiki/Integer) regardless of the calculated decimal value.** Whether the math yields $3.1$ or $3.9$, you require 4 complete containers (or buses, boxes, or cans of paint) to encompass the total amount.
 
-Nature dictates a new rule: **Word problems asking for the number of discrete containers needed to hold a continuous amount require rounding up to the next whole [integer](https://en.wikipedia.org/wiki/Integer) regardless of the calculated decimal value.**
-Even if the math says you need \$14.1$ containers, you must round UP to 15. You cannot purchase a fraction of a discrete physical container. 
+### The Floor Constraint: Maximum Whole Items
+Conversely, imagine you are a carpenter building birdhouses. You have 17 feet of lumber, and each birdhouse requires 3 feet. You divide $17$ by $3$ to get $5.66$ birdhouses. 
 
-### 3. The Floor Rule: Limited Resources
-Now, let's look at the inverse. Imagine you have 20 [cups](https://en.wikipedia.org/wiki/Cup_%28unit%29) of [flour](https://en.wikipedia.org/wiki/Flour), and a [cake](https://en.wikipedia.org/wiki/Cake) [recipe](https://en.wikipedia.org/wiki/Recipe) requires 3 cups of flour. \$20 \div 3 = 6.66$ cakes. 
+Standard rounding rules would tell you to round $5.66$ up to $6$. But physical reality intervenes: you do not have enough wood to materialize a 6th birdhouse out of thin air. You only have enough material to complete 5 full items. 
 
-Standard rounding rules tell you that \$6.66$ rounds up to $7$. But you don't have enough flour to make a 7th cake! You only have enough to make 6 complete, whole cakes. 
-
-Therefore: **Word problems asking for the maximum number of whole items that can be created from a limited resource require rounding down to the nearest integer.**
-Even if your calculation results in \$6.99$ items, if you are building whole physical objects from a limited stock, you round DOWN to 6. You drop the decimal entirely. 
-
----
-
-## The Feynman Wrap-Up
-
-[Math](https://en.wikipedia.org/wiki/Mathematics) is not a sterile set of arbitrary rules constructed to torture students; it is an incredibly powerful, highly-tuned [flashlight](https://en.wikipedia.org/wiki/Flashlight) we use to illuminate reality. 
-
-When you sit down to take the Praxis Mathematics exam:
-1.  **Act as a filter:** Identify and destroy extraneous information.
-2.  **Act as a translator:** Convert the [English vocabulary](https://en.wikipedia.org/wiki/English_vocabulary) (*sum, difference, product, quotient, of, is*) directly into mathematical operations.
-3.  **Act as a precision instrument:** Find your target digit, consult the boss to its right, and apply your rounding rules smoothly. 
-4.  **Act as a human being:** Always check your final answer against the real world. If you're buying buckets, round up. If you're baking cakes, round down. If you're paying a bill, respect the hundredths place!
-
-Understand *why* these rules exist, and you won't ever need to [memorize](https://en.wikipedia.org/wiki/Memorization) them blindly. You'll just look at the problem, smile, and translate the universe into numbers. Happy [calculating](https://en.wikipedia.org/wiki/Calculation)!
+**Word problems asking for the maximum number of whole items that can be created from a limited resource require rounding down to the nearest [integer](https://en.wikipedia.org/wiki/Integer).** Regardless of how close your decimal gets to the next whole number, if you lack the resources to finish it, the [fractional part](https://en.wikipedia.org/wiki/Fractional_part) must be discarded.

@@ -1,156 +1,89 @@
-Have you ever noticed how [averages](https://en.wikipedia.org/wiki/Average) can lie to you? 
+Imagine evaluating the [climate](https://en.wikipedia.org/wiki/Climate) of two different cities that both boast an [average](https://en.wikipedia.org/wiki/Average) annual [temperature](https://en.wikipedia.org/wiki/Temperature) of 65 degrees [Fahrenheit](https://en.wikipedia.org/wiki/Fahrenheit). One city experiences a mild, perpetual spring, fluctuating merely between 60 and 70 degrees year-round. The other city suffers scorching 100-degree summers and freezing 30-degree winters. A single number—the average—fails completely to capture the reality of living in either location. To understand the true nature of a collection of numbers, we must look beyond the center and examine the periphery. We must measure the [variation](https://en.wikipedia.org/wiki/Statistical_dispersion). **[Measures of spread](https://en.wikipedia.org/wiki/Statistical_dispersion) describe how varied the values are within a single [data set](https://en.wikipedia.org/wiki/Data_set).** They are the mathematical tools that distinguish the predictably consistent from the wildly erratic.
 
-Imagine I tell you about two different classrooms. In Class A, the average test score is 75%. In Class B, the average is also 75%. If you were a principal looking only at the [mean](https://en.wikipedia.org/wiki/Mean), you might assume these two classrooms are identical. 
+For future educators, understanding this variation is just as vital as understanding the average. If a class averages 75% on an exam, the instructional response changes drastically depending on whether every student scored exactly 75%, or half the class scored 100% while the other half scored 50%. The measures of spread guide those [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) decisions.
 
-But let’s look closer. In Class A, every single student scored exactly a 75%. But in Class B, half the class scored a 50%, and the other half scored a perfect 100%. The "average" is exactly the same, yet the *reality* of those classrooms is completely different! Class A is incredibly consistent, while Class B is a tale of two extremes.
+## The Boundaries of Our Data: The Range
 
-This is exactly why we can't just rely on averages. To tell the full story of a set of numbers, we need a way to describe the differences *between* the numbers. This brings us to a beautiful concept in [statistics](https://en.wikipedia.org/wiki/Statistics): **[measures of spread](https://en.wikipedia.org/wiki/Statistical_dispersion)**. Simply put, measures of spread describe how varied the values are within a single [data set](https://en.wikipedia.org/wiki/Data_set). They tell us about the width, the scatter, and the unpredictability of our numbers. 
+When we first attempt to measure how spread out our data is, the most intuitive approach is to look at the outer boundaries. How wide is the entire data set from start to finish? This gives us our simplest measure of spread.
 
-For the [Praxis Core Math exam](https://en.wikipedia.org/wiki/Praxis_test), you need to master two major measures of spread: the **[range](https://en.wikipedia.org/wiki/Range_%28statistics%29)** and the **[standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)**. Let’s roll up our sleeves and figure out how they work.
+> **Definition:** The [range](https://en.wikipedia.org/wiki/Range_%28statistics%29) of a data set is the difference between the [maximum value](https://en.wikipedia.org/wiki/Maxima_and_minima) and the [minimum value](https://en.wikipedia.org/wiki/Maxima_and_minima). 
+>
+> $$\text{Range} = \text{Maximum} - \text{Minimum}$$
 
----
-
-## 1. The Range: Quick, Simple, but Fragile
-
-If you want to understand the spread of a data set in exactly five seconds, you look at the range. 
-
-> **Definition:** The **range** of a data set is the difference between the [maximum value](https://en.wikipedia.org/wiki/Sample_maximum_and_minimum) and the [minimum value](https://en.wikipedia.org/wiki/Sample_maximum_and_minimum).
-
-![A box plot visually represents the range of a data set by charting the total distance between the absolute minimum and maximum values.](https://wikipedia.org/wiki/Special:Redirect/file/Box-Plot_mit_Min-Max_Abstand.png)
-
-When a student calculates the range, they do it by simply subtracting the minimum value from the maximum value in a data set. 
-
-Imagine you are charting the daily high [temperatures](https://en.wikipedia.org/wiki/Temperature) over a week in two different cities:
-*   **[San Diego, CA](https://en.wikipedia.org/wiki/San_Diego):** 72, 73, 74, 75, 75, 76, 77
-*   **[Denver, CO](https://en.wikipedia.org/wiki/Denver):** 45, 50, 65, 75, 80, 85, 90
-
-In San Diego, the max is 77 and the min is 72. 
-$77 - 72 = 5$. The range is 5 [degrees](https://en.wikipedia.org/wiki/Degree_%28temperature%29). 
-
-In Denver, the max is 90 and the min is 45. 
-$90 - 45 = 45$. The range is 45 degrees.
-
-Notice something important here about how we talk about these numbers: **the range is expressed in the exact same [units](https://en.wikipedia.org/wiki/Unit_of_measurement) as the original data values**. If your data is in degrees, the range is in degrees. If you're measuring the height of plants in [inches](https://en.wikipedia.org/wiki/Inch), the range is in inches.
+In practice, a student calculates the range by subtracting the minimum value from the maximum value in a data set. If the highest score on a [math](https://en.wikipedia.org/wiki/Mathematics) quiz is 98 and the lowest score is 42, the range is $98 - 42 = 56$. Because this calculation simply subtracts two values from the data set, the range is expressed in the exact same [units](https://en.wikipedia.org/wiki/Unit_of_measurement) as the original data values. If we are measuring student heights in [inches](https://en.wikipedia.org/wiki/Inch), the range is measured in inches. If we are tracking [textbook](https://en.wikipedia.org/wiki/Textbook) costs, the range is measured in [dollars](https://en.wikipedia.org/wiki/United_States_dollar), such as a difference of \$45.
 
 ### The Fatal Flaw of the Range
 
-The range is incredibly easy to calculate, but it comes with a massive [mathematical](https://en.wikipedia.org/wiki/Mathematics) blind spot. Because the calculation of the range relies *exclusively* on the two extreme values of a data set, it ignores absolutely everything happening in the middle. 
+While simple to compute, the range has a severe limitation: the calculation of the range relies exclusively on the two extreme values of a data set. It completely ignores everything happening in the middle. 
 
-Because of this, **the range is highly sensitive to [outliers](https://en.wikipedia.org/wiki/Outlier).** 
+Consider a classroom where 19 students score between 85% and 90% on a test, but one student, who was absent for a week, scores a 12%. Because the range relies entirely on the extremes, the range is highly sensitive to [outliers](https://en.wikipedia.org/wiki/Outlier). The presence of that single 12% will artificially inflate the range to $90 - 12 = 78\%$, falsely suggesting a massively varied classroom performance when, in reality, almost the entire class performed uniformly.
 
-Imagine if we looked at the [salaries](https://en.wikipedia.org/wiki/Salary) of ten people in a coffee shop. Nine of them make between \$30,000 and \$40,000 a year. The range of their salaries is \$10,000. But then, a [billionaire](https://en.wikipedia.org/wiki/Billionaire) walks in to buy an [espresso](https://en.wikipedia.org/wiki/Espresso). Suddenly, the "maximum" value in our data set jumps to \$1,000,000,000. Our range is now \$999,970,000! Does that accurately describe the spread of the people in the room? Not at all. One extreme outlier ruined the whole calculation. 
+## The Heart of Variability: Standard Deviation
 
-To get a more [robust](https://en.wikipedia.org/wiki/Robust_statistics) picture of our data, we need a tool that pays attention to *every single number* in the set, not just the two at the very edges. 
+To construct a mathematically robust picture of variation, we cannot simply look at the edges of the data. We must account for *every single data point* and ask: on average, how far away is each data point from the center?
 
----
+This brings us to the most important concept in data variability. **[Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) measures the typical distance of individual data points from the [mean](https://en.wikipedia.org/wiki/Mean) of the data set.** 
 
-## 2. The Standard Deviation: The Engine of Variability
+Imagine the mean (the average) as a campfire, and the data points as people sitting around it. Standard deviation simply asks: on average, how far away from the fire is everyone sitting? 
 
-If the range is a quick glance at the data, the standard deviation is a deep [MRI scan](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging). 
+*   **A low standard deviation indicates that the data points tend to be clustered closely around the mean.** (Everyone is huddled tight around the campfire).
+*   **A high standard deviation indicates that the data points are spread out over a wide range of values.** (People are scattered randomly throughout the campsite).
 
-> **Definition:** **Standard deviation** measures the typical [distance](https://en.wikipedia.org/wiki/Distance) of individual data points from the mean (average) of the data set.
+![Standard deviation visualizes the typical dispersion of data points around the mean. In a normal, bell-shaped distribution, the vast majority of the data clusters within one or two standard deviations of the center.](https://wikipedia.org/wiki/Special:Redirect/file/Standard_deviation_diagram.svg)
 
-![Standard deviation measures the spread of data around the mean. In a typical normal distribution, the majority of data points fall within one standard deviation from the center.](https://wikipedia.org/wiki/Special:Redirect/file/Standard_deviation_diagram.svg)
+Like the range, standard deviation is grounded in physical reality; standard deviation is expressed in the exact same units as the original data values. If you are calculating the standard deviation of test scores, your standard deviation is in "points."
 
-Think about that phrase: *typical distance from the mean*. Instead of just looking at the top and bottom numbers, standard deviation asks, "On average, how far away is every single data point from the center?" 
+### The Mathematical Rules of Standard Deviation
 
-Just like the range, **standard deviation is expressed in the exact same units as the original data values.** This makes it incredibly practical. If the mean score on a math test is 80 points, and the standard deviation is 5 points, you know that a "typical" student scored anywhere from 75 to 85 points. 
+Because standard deviation represents a physical distance from a central point, it is subject to the rules of [absolute distance](https://en.wikipedia.org/wiki/Absolute_value). 
 
-*Statisticians also use a related term you should know: **[Variance](https://en.wikipedia.org/wiki/Variance)**. Variance is defined mathematically as the [square](https://en.wikipedia.org/wiki/Square_%28algebra%29) of the standard deviation. We square the distances to get rid of negative [signs](https://en.wikipedia.org/wiki/Sign_%28mathematics%29) during the calculation, and then take the [square root](https://en.wikipedia.org/wiki/Square_root) at the very end to get our standard deviation back into our original units!*
+![Because it represents physical distance, standard deviation behaves conceptually like absolute value—it measures magnitude away from a center point and can never be negative.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
 
-### Reading the Story of Standard Deviation
+1.  **It is always positive or zero:** Standard deviation can never be a [negative number](https://en.wikipedia.org/wiki/Negative_number). You cannot have a negative distance between a data point and the mean. 
+2.  **The meaning of zero:** What happens if the standard deviation is zero? A standard deviation of exactly zero means that every single value in the data set is identical. There is no spread whatsoever. If every student in a class scores an 85 on an exam, the mean is 85, and the distance of every score from that mean is zero. 
+3.  **The impact of extremes:** While standard deviation utilizes every data point (unlike the range), it is still affected by extreme values. Because distances are [squared](https://en.wikipedia.org/wiki/Square_%28algebra%29) during its mathematical calculation (to prevent negative distances from canceling out positive ones), adding an extreme outlier to a data set increases the standard deviation of that data set, pulling that "typical distance" upward.
 
-When you look at standard deviation on the Praxis exam, you aren't just calculating it—you are interpreting what it means about the world.
+## Comparing Data Sets: Consistency vs. Variability
 
-*   **A low standard deviation** indicates that the data points tend to be clustered closely around the mean. The numbers are tight, consistent, and predictable. 
-*   **A high standard deviation** indicates that the data points are spread out over a wide range of values. The numbers are scattered, unpredictable, and varied.
+Educators frequently use standard deviation to compare different classes, different exams, or different instructional methods. Standard deviation provides a reliable metric for *consistency*. 
 
-Let's think about boundaries. Standard deviation measures *distance*, and distance cannot be negative. Therefore, **standard deviation can never be a [negative number](https://en.wikipedia.org/wiki/Negative_number).** You can't be "-5 feet" away from the center of a room! 
+![Two distinct sets of data can share the exact same mean but exhibit vastly different standard deviations. The wider distribution indicates greater variability and lower consistency among the data points.](https://wikipedia.org/wiki/Special:Redirect/file/Comparison_standard_deviations.svg)
 
-The absolute lowest standard deviation you can ever possibly have is [zero](https://en.wikipedia.org/wiki/0). But what does that actually *look* like? **A standard deviation of exactly zero means that every single value in the data set is identical.** If I survey five people and they are all exactly 25 years old, the mean is 25, and nobody deviates from that mean by even a single second. The standard deviation is 0.
-
-### The Impact of the Outlier
-
-We established earlier that the range is ruined by outliers. How does standard deviation handle them? Better, but it's still affected. Because standard deviation calculates the distance of *every* point from the mean, an extreme value stretches that typical distance. 
-
-Therefore, **adding an extreme outlier to a data set increases the standard deviation of that data set.** If our tightly clustered classroom of 75% testers suddenly admits a student who scores a 10%, the "typical distance from the center" has to stretch to account for that student. The spread gets larger.
-
----
-
-## 3. Comparing Worlds: Consistency vs. Chaos
-
-On the Praxis Core, you will frequently be asked to look at two different [histograms](https://en.wikipedia.org/wiki/Histogram), [box plots](https://en.wikipedia.org/wiki/Box_plot), or lists of numbers, and compare their standard deviations. 
-
-You don't need a calculator to compare them. You just need to look at the shape of the spread! When comparing two data sets:
-
-| Concept | Interpretation | Visual Analogy |
+| Data Set characteristic | Interpretation | Example in a Classroom Context |
 | :--- | :--- | :--- |
-| **Larger Standard Deviation** | Exhibits **greater overall [variability](https://en.wikipedia.org/wiki/Statistical_dispersion)**. | A wide, flat hill. The data is smeared across a wide spectrum of possibilities. |
-| **Smaller Standard Deviation** | Exhibits **greater overall consistency**. | A tall, narrow spike. The data is bunched up tightly together in one place. |
+| **Larger Standard Deviation** | When comparing two data sets, the data set with the larger standard deviation exhibits greater overall variability. | Class A has a mean of 75 and a standard deviation of 15. The scores are widely varied; some students failed, while others excelled. |
+| **Smaller Standard Deviation** | When comparing two data sets, the data set with the smaller standard deviation exhibits greater overall consistency. | Class B has a mean of 75 and a standard deviation of 3. Almost every student scored firmly between 72 and 78. |
 
-![Two data sets can share the exact same average but have completely different spreads. The red distribution has a small standard deviation (a tall, narrow spike), while the blue distribution has a large standard deviation (a wide, flat hill).](https://wikipedia.org/wiki/Special:Redirect/file/Comparison_standard_deviations.svg)
+If you are trying to determine whether a new teaching intervention worked uniformly for everyone, you want to see a smaller standard deviation. A smaller standard deviation means the intervention produced a consistent effect, whereas a larger standard deviation means the intervention worked wildly differently for different students.
 
-If you are hiring an employee for a factory [assembly line](https://en.wikipedia.org/wiki/Assembly_line) where precision is life-or-death, you don't just want an employee with a fast average time; you want an employee with a **small standard deviation**. You want them to perform with *greater overall consistency* every single time. 
+## Transformations: Shifting and Scaling Data
 
----
+A frequent topic on the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test) involves understanding how mathematical operations applied to an entire data set affect the measures of spread. Let's explore the [geometry](https://en.wikipedia.org/wiki/Geometry) of transforming data.
 
-## 4. Playing with the Numbers (Data Transformations)
+### Shifting Data (Addition and Subtraction)
 
-Now we get to my absolute favorite part of the topic, and one of the most common "trick" questions you will face on the exam. What happens to our measures of spread if we alter *every single number* in our data set? 
+Suppose an exam was unexpectedly difficult, and the teacher decides to [curve the grades](https://en.wikipedia.org/wiki/Grading_on_a_curve) by adding 5 bonus points to every student's score. 
 
-There are two scenarios: [Addition](https://en.wikipedia.org/wiki/Addition) (shifting the data) and [Multiplication](https://en.wikipedia.org/wiki/Multiplication) (scaling the data). 
+Visualize this on a [number line](https://en.wikipedia.org/wiki/Number_line). Every single data point picks up and moves 5 units to the right. The entire shape of the data curve remains identical; it has simply slid down the axis. Because the distance *between* the maximum and minimum values does not change, adding a [constant value](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) to every number in a data set does not change the range of the data set. 
 
-### Scenario A: Adding a Constant (The "Shift")
+![When data is shifted by adding or subtracting a constant, the entire distribution simply slides along the number line, leaving the measures of spread entirely unchanged.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
 
-Imagine a teacher gives a wildly difficult exam. The scores are terrible. The mean is 50, the minimum is 40, and the maximum is 60. The teacher decides to be generous and curves the test by adding a flat 10 points to every single student's score. 
+Similarly, the distance between any individual point and the new mean remains exactly the same as it was before the shift. Therefore, adding a constant value to every number in a data set does not change the standard deviation of the data set. 
 
-What happens to the shape of the data? *Nothing.* The entire cluster of scores just picks up and moves 10 points to the right on the [number line](https://en.wikipedia.org/wiki/Number_line). 
-*   The old minimum (40) becomes 50. 
-*   The old maximum (60) becomes 70. 
+> **Rule of Thumb:** Shifting data changes the *location* (mean, [median](https://en.wikipedia.org/wiki/Median)), but it never changes the *spread* (range, standard deviation).
 
-What is the new range? $70 - 50 = 20$. 
-What was the old range? $60 - 40 = 20$. 
+### Scaling Data (Multiplication and Division)
 
-The distance between the students didn't change! Therefore:
-> **Adding a constant value to every number in a data set does not change the range of the data set.**
-> 
-> Furthermore, because the students are all still the exact same distance from each other and from the new mean, **adding a constant value to every number in a data set does not change the standard deviation of the data set.**
+Now suppose a quiz was graded out of 50 points, and the teacher wants to convert the scores to [percentages](https://en.wikipedia.org/wiki/Percentage) out of 100. To do this, the teacher multiplies every student's score by $2$. 
 
-If you shift data by adding or subtracting, the center moves, but the *spread* stays completely frozen.
+If the original maximum was 45 and the minimum was 30, the original range was $15$. After multiplying by $2$, the new maximum is 90 and the new minimum is 60. The new range is $30$. The spread has been stretched like a rubber band. Multiplying every number in a data set by a positive [constant](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) multiplies the range by that exact same constant. 
 
-### Scenario B: Multiplying by a Constant (The "Scale")
+Because the entire data set has been stretched apart, the distance of each data point from the mean has also been stretched by a factor of 2. Therefore, multiplying every number in a data set by a positive constant multiplies the standard deviation by that exact same constant.
 
-Now imagine a different teacher. Instead of giving 10 flat bonus points, they decide to boost everyone's score by giving them a 10% increase. Mathematically, the teacher multiplies every student's score by $1.1$. 
+## Beyond Standard Deviation: Variance
 
-Let's look at what happens. 
-*   The student who scored a 40 now has a $44$. 
-*   The student who scored a 60 now has a $66$. 
+While standard deviation is highly intuitive because it shares the same units as the original data, [statisticians](https://en.wikipedia.org/wiki/Statistician) sometimes rely on a related sibling metric during calculations. 
 
-What was the old range? $60 - 40 = 20$. 
-What is the new range? $66 - 44 = 22$. 
+**[Variance](https://en.wikipedia.org/wiki/Variance) is defined mathematically as the square of the standard deviation.** 
 
-The spread *grew*! Why? Because multiplication acts like a [magnifying glass](https://en.wikipedia.org/wiki/Magnifying_glass). The bigger numbers got a bigger boost than the smaller numbers, stretching the data out like a [rubber band](https://en.wikipedia.org/wiki/Rubber_band). 
-
-If you take the old range (20) and multiply it by our constant (1.1), you get the new range (22). It's a perfect mathematical relationship! 
-
-![Multiplying data by a constant scales the values, stretching the distance between them on the number line and proportionally increasing both the range and standard deviation.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_scaling.svg)
-
-> **Multiplying every number in a data set by a positive constant multiplies the range by that exact same constant.** 
-> 
-> Because standard deviation is just another measure of typical distance, it scales the exact same way. **Multiplying every number in a data set by a positive constant multiplies the standard deviation by that exact same constant.**
-
-*Note: We specify a "positive" constant here because if you multiplied by a negative number, your distances would flip across zero, but standard deviation and range must remain positive measurements of distance.*
-
----
-
-## Summary Checklist for Praxis Success
-
-To wrap this up, when you sit down at the computer to take your Praxis Core Math exam, remember these golden rules:
-
-1.  **Averages aren't enough.** We need measures of spread to describe how varied our numbers are.
-2.  **Range is quick but blind.** It's just Maximum minus Minimum, leaving it entirely reliant on extreme values and horribly sensitive to outliers.
-3.  **Standard Deviation is the typical distance.** It measures how far data points tend to fall from the mean.
-4.  **Zero means clones.** A standard deviation of exactly zero means every data point is identical. It can never be negative!
-5.  **Shift vs. Scale.** Adding to data moves the center but leaves the spread alone. Multiplying the data stretches the spread by that exact same multiplier.
-
-Math isn't just about crunching numbers; it's about describing the real world. The range and standard deviation are your vocabulary words for describing consistency, [volatility](https://en.wikipedia.org/wiki/Volatility_%28finance%29), and the beautifully varied nature of the data around us. Keep these concepts straight, and you'll nail the statistics section of your exam!
+If the standard deviation of a set of test scores is $4$ points, the variance is $16$ "squared points." While "squared points" are incredibly difficult to interpret intuitively in the real world (which is why standard deviation is preferred for practical reporting), variance is foundational for higher-level [statistics](https://en.wikipedia.org/wiki/Statistics) because it removes negative signs from [algebraic proofs](https://en.wikipedia.org/wiki/Mathematical_proof) seamlessly. Whenever you need the variance, simply square the standard deviation; if you have the variance and need the standard deviation, take the [square root](https://en.wikipedia.org/wiki/Square_root).

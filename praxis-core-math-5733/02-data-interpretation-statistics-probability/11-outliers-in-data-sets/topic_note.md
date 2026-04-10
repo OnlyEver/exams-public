@@ -1,127 +1,100 @@
-Welcome! Pull up a chair, grab a piece of chalk, and let’s talk about the oddballs, the rebels, and the wild anomalies of the [mathematical world](https://en.wikipedia.org/wiki/Mathematics). 
+Imagine measuring the [average](https://en.wikipedia.org/wiki/Average) [income](https://en.wikipedia.org/wiki/Income) of ten people sitting in a neighborhood diner. They are teachers, mechanics, and nurses, all earning between \$40,000 and \$70,000 a year. Suddenly, a [multi-billionaire](https://en.wikipedia.org/wiki/Billionaire) walks through the door and takes a seat. If you blindly calculate the average income of the room now, the math will declare that every single person in the diner is a multi-millionaire. The numbers themselves are perfectly accurate, but they profoundly mislead us if we fail to account for the billionaire. 
 
-If you are preparing to become a [teacher](https://en.wikipedia.org/wiki/Teacher)—which is exactly what the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test) is all about—you are going to deal with [data](https://en.wikipedia.org/wiki/Data) all the time. You’ll look at test scores, attendance records, and reading levels. And inevitably, you will look at a beautiful, normal set of numbers and see *one* number that just doesn't belong. 
+![Adding a multi-billionaire like Elon Musk to a room of average earners immediately warps the mathematical average, creating a wildly misleading representation of the group's typical income.](https://wikipedia.org/wiki/Special:Redirect/file/SpaceX_CEO_Elon_Musk_visits_N%26NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg)
 
-In mathematics, **an [outlier](https://en.wikipedia.org/wiki/Outlier) is a [data point](https://en.wikipedia.org/wiki/Data_point) that differs significantly from other [observations](https://en.wikipedia.org/wiki/Observation) in a [data set](https://en.wikipedia.org/wiki/Data_set).** 
+This scenario perfectly illustrates the fundamental challenge of the **[outlier](https://en.wikipedia.org/wiki/Outlier)**. By definition, an outlier is a [data point](https://en.wikipedia.org/wiki/Data_point) that differs significantly from other [observations](https://en.wikipedia.org/wiki/Observation) in a [data set](https://en.wikipedia.org/wiki/Data_set). Understanding how these exceptional values warp our [mathematical models](https://en.wikipedia.org/wiki/Mathematical_model) is not merely an exercise in academic computation; it is the essential key to finding the truth in a sea of numbers. In [statistical analysis](https://en.wikipedia.org/wiki/Statistics), we must learn not only how to spot these [anomalies](https://en.wikipedia.org/wiki/Anomaly_detection), but how to measure and predict their immense gravitational pull on our conclusions.
 
-Outliers matter. They aren't just mistakes or flukes; they are data points demanding our attention. Sometimes they mean a student guessed every answer on a test perfectly, and sometimes they mean a student fell asleep halfway through. But mathematically, if we don’t understand how to handle these outliers, they will completely distort the story our data is trying to tell us.
+## Spotting the Oddball: Outliers in [Visual Displays](https://en.wikipedia.org/wiki/Data_visualization)
 
-Let’s take a walk through the fascinating mechanics of outliers. We’ll learn how to spot them, how to calculate exactly what they are, and most importantly for the Praxis exam, how they bend the rules of [statistics](https://en.wikipedia.org/wiki/Statistics).
+Before we calculate an outlier, we must learn how to see it. Human beings are exceptional [pattern-recognition](https://en.wikipedia.org/wiki/Pattern_recognition) engines, and [statisticians](https://en.wikipedia.org/wiki/Statistician) have designed our visual displays to make anomalies instantly obvious to the naked eye. Depending on the type of [graph](https://en.wikipedia.org/wiki/Chart) you are analyzing, an outlier will unmask itself in a specific way.
 
----
+### [Scatter Plots](https://en.wikipedia.org/wiki/Scatter_plot)
+A scatter plot plots individual data points across an [$X$ and $Y$ axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), allowing us to see [correlations](https://en.wikipedia.org/wiki/Correlation). In a scatter plot, an outlier appears as a point situated far away from the main cluster of data points. If the data generally forms a tight line sloping upward, the outlier is the solitary dot floating entirely off course, refusing to follow the dominant trend.
 
-## Part 1: Spotting the Rebel in the Wild ([Visual Displays](https://en.wikipedia.org/wiki/Data_visualization))
+### [Histograms](https://en.wikipedia.org/wiki/Histogram)
+A histogram groups [continuous data](https://en.wikipedia.org/wiki/Continuous_data) into "bins" or ranges, showing the [frequency](https://en.wikipedia.org/wiki/Frequency_%28statistics%29) of data within those ranges as vertical bars. Because histograms are built to show the shape of a [distribution](https://en.wikipedia.org/wiki/Probability_distribution), anomalies become incredibly apparent. In a histogram, an outlier appears as an isolated bar separated from the main distribution by an empty gap. That stretch of dead space—the empty gap on the [x-axis](https://en.wikipedia.org/wiki/Abscissa)—is the visual footprint of an [extreme value](https://en.wikipedia.org/wiki/Extreme_value_theory).
 
-Human beings are highly visual creatures. Before we even touch a [calculator](https://en.wikipedia.org/wiki/Calculator), we usually spot outliers by simply looking at a [graph](https://en.wikipedia.org/wiki/Chart). The way an outlier presents itself depends entirely on the type of visual display you are looking at. 
+### [Box Plots](https://en.wikipedia.org/wiki/Box_plot)
+A box plot (or [box-and-whisker plot](https://en.wikipedia.org/wiki/Box_plot)) is specifically designed to handle the visual mechanics of outliers with precision. It displays the data's [quartiles](https://en.wikipedia.org/wiki/Quartile) and [range](https://en.wikipedia.org/wiki/Range_%28statistics%29). However, it does not draw its "whiskers" all the way out to the most extreme anomalies. Instead, in a box plot, an outlier is typically represented as an individual dot or asterisk extending beyond the whiskers. When you see a trail of asterisks sitting far outside the whisker's limit, you are looking directly at mathematically verified outliers.
 
-### [Histograms](https://en.wikipedia.org/wiki/Histogram): The Lonely Island
-Imagine a histogram showing the ages of students in a [high school](https://en.wikipedia.org/wiki/High_school). You see a cluster of tall bars between 14 and 18 years old. But way off to the right, there’s a tiny bar sitting at age 45 (maybe the [principal](https://en.wikipedia.org/wiki/Head_teacher) decided to sit in on a class!). **In a histogram, an outlier appears as an isolated bar separated from the main [distribution](https://en.wikipedia.org/wiki/Probability_distribution) by an empty gap.** That gap is the visual cue that something unusual has happened.
+![Box plots explicitly highlight outliers by plotting them as individual, isolated dots extending far beyond the main whiskers of the data distribution.](https://wikipedia.org/wiki/Special:Redirect/file/Boxplot_with_outlier.png)
 
-![A standard histogram groups continuous data into connected bins. An outlier visually appears as an isolated bar standing alone, separated by a noticeable empty gap from the main cluster of data.](https://wikipedia.org/wiki/Special:Redirect/file/Black_cherry_tree_histogram.svg)
+## Drawing the Line in the Sand: The [Mathematics](https://en.wikipedia.org/wiki/Mathematics) of Outliers
 
-### [Scatter Plots](https://en.wikipedia.org/wiki/Scatter_plot): The Lost Star
-What if we are looking at two [variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)? Say, hours studied versus test score. We expect to see a cloud of dots sloping upwards. But what about the student who studied for zero hours and scored a 98%? **In a scatter plot, an outlier appears as a point situated far away from the main cluster of data points.** It looks like a lone star that escaped its [galaxy](https://en.wikipedia.org/wiki/Galaxy).
+Visual intuition is incredibly useful, but science requires a standard. How far away must a data point be before it is officially classified as an outlier? 
 
-### [Box Plots](https://en.wikipedia.org/wiki/Box_plot): The Rogue Asterisk
-Box plots (or box-and-whisker plots) are specifically designed to highlight outliers. The "box" shows where the middle 50% of your data lives, and the "whiskers" reach out to the normal extremes. But the whiskers don't stretch to [infinity](https://en.wikipedia.org/wiki/Infinity)! **In a box plot, an outlier is typically represented as an individual dot or [asterisk](https://en.wikipedia.org/wiki/Asterisk) extending beyond the whiskers.** When you see those little floating dots, the chart is shouting at you: *"Look here! Something highly unusual occurred!"*
+In 1977, the brilliant statistician [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) introduced the **1.5 times the [interquartile range](https://en.wikipedia.org/wiki/Interquartile_range) rule** for identifying outliers. Tukey realized that statistics needed a [robust](https://en.wikipedia.org/wiki/Robust_statistics), universally applicable threshold that didn't rely on the subjective "eyeball test." Today, the interquartile range method is a standard mathematical procedure used to identify outliers.
 
-![In a box plot, the "whiskers" capture the bulk of the typical data range, while outliers are explicitly plotted as individual, disconnected dots floating beyond the normal extremes.](https://wikipedia.org/wiki/Special:Redirect/file/Boxplot_with_outlier.png)
+To use Tukey's method, we rely on the **[Interquartile Range](https://en.wikipedia.org/wiki/Interquartile_range) (IQR)**, which is simply the width of the middle 50% of the data. Mathematically, it is the [Third Quartile](https://en.wikipedia.org/wiki/Quartile) ($Q_3$) minus the [First Quartile](https://en.wikipedia.org/wiki/Quartile) ($Q_1$). 
 
----
+> **The IQR [Formula](https://en.wikipedia.org/wiki/Formula):**
+> $\text{IQR} = Q_3 - Q_1$
 
-## Part 2: Drawing the Line in the Sand (The Math of Outliers)
+Once you have the IQR, you build a mathematical "fence" around your data. Anything that falls outside this fence is declared an outlier.
 
-You might be thinking, "Professor, *'looks far away'* isn't very mathematical. How far is 'significantly' far?" 
+1. **The Lower Fence:** A data point is considered a lower outlier if the data point is less than the first quartile minus 1.5 times the interquartile range.
+2. **The Upper Fence:** A data point is considered an upper outlier if the data point is greater than the third quartile plus 1.5 times the interquartile range.
 
-You are entirely right! We can't rely on our subjective eyeballs; we need a rigorous mathematical test. 
+> **Tukey's Outlier Boundaries:**
+> Lower Outlier $< Q_1 - 1.5(\text{IQR})$
+> Upper Outlier $> Q_3 + 1.5(\text{IQR})$
 
-Enter the brilliant [statistician](https://en.wikipedia.org/wiki/Statistician) [John Tukey](https://en.wikipedia.org/wiki/John_Tukey). He was a pioneer in what we call *[exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)*. **Statistician John Tukey introduced the 1.5 times the [interquartile range](https://en.wikipedia.org/wiki/Interquartile_range) rule for identifying outliers in 1977.** Tukey wanted a simple, [robust](https://en.wikipedia.org/wiki/Robust_statistics) rule that anyone could use to define a boundary line—a fence—outside of which a data point should be deemed an outlier.
+![John Tukey's 1.5 IQR rule establishes mathematical "fences" (visualized here extending from the central box). Any data points falling beyond these limits are officially classified as mathematical outliers.](https://wikipedia.org/wiki/Special:Redirect/file/Box-Plot_mit_Interquartilsabstand.png)
 
-To build Tukey's fences, we use the **[Interquartile Range](https://en.wikipedia.org/wiki/Interquartile_range) (IQR)**. The IQR is simply the distance between the 75th [percentile](https://en.wikipedia.org/wiki/Percentile) ([Quartile 3](https://en.wikipedia.org/wiki/Quartile)) and the 25th percentile ([Quartile 1](https://en.wikipedia.org/wiki/Quartile)). It represents the exact middle half of your data.
+If an exam score, an income value, or a temperature measurement falls past these boundaries, it is mathematically anomalous.
 
-> **The Method:**
-> **The [interquartile range](https://en.wikipedia.org/wiki/Interquartile_range) method is a standard mathematical procedure used to identify outliers.** 
-> 
-> *   **Lower Fence:** **A data point is considered a lower outlier if the data point is less than the [first quartile](https://en.wikipedia.org/wiki/Quartile) minus 1.5 times the interquartile range.** 
->     `Lower Outlier < Q1 - 1.5(IQR)`
-> *   **Upper Fence:** **A data point is considered an upper outlier if the data point is greater than the [third quartile](https://en.wikipedia.org/wiki/Quartile) plus 1.5 times the interquartile range.** 
->     `Upper Outlier > Q3 + 1.5(IQR)`
+## The Gravity of Outliers: [Measures of Central Tendency](https://en.wikipedia.org/wiki/Central_tendency)
 
-Think of Tukey's 1.5 multiplier as a mathematical leash. If a data point pulls so hard that it breaks past 1.5 times the length of the IQR box, it breaks the leash. It is officially an outlier.
+When we analyze a data set, we usually want to find the "center." We want a single number that represents the whole. We have two primary tools for this: the [mean](https://en.wikipedia.org/wiki/Mean) and the [median](https://en.wikipedia.org/wiki/Median). Outliers interact with these two measures in wildly different ways.
 
-![John Tukey's formula visually applied to a box plot. The boundary "fences" are set at exactly 1.5 times the Interquartile Range (IQR) beyond the first and third quartiles. Any data points lying beyond these calculated fences are mathematically classified as outliers.](https://wikipedia.org/wiki/Special:Redirect/file/Box-Plot_mit_Interquartilsabstand.png)
+### The Mean: Highly Sensitive
+The mathematical mean (the average) calculates the [center of mass](https://en.wikipedia.org/wiki/Center_of_mass) of the data. Because the mean includes the exact numerical value of every single observation in its calculation, the mean of a data set is highly sensitive to the presence of outliers.
 
----
+Think of the mean as a physical balancing point on a [seesaw](https://en.wikipedia.org/wiki/Seesaw). If you place a massive weight very far out on one side of the seesaw, the balancing point must shift dramatically to keep the system from tipping. 
+* An exceptionally large outlier increases the mean of a data set.
+* An exceptionally small outlier decreases the mean of a data set. 
 
-## Part 3: The Great Tug-of-War ([Mean](https://en.wikipedia.org/wiki/Mean) vs. [Median](https://en.wikipedia.org/wiki/Median))
+In short, the presence of an outlier pulls the mathematical mean in the direction of the outlier value. Returning to our diner analogy, the billionaire pulls the average income so far to the right that the resulting mean no longer represents anyone in the room.
 
-Now we arrive at the absolute most critical concept for the Praxis Core Mathematics exam: understanding how [statistical measures](https://en.wikipedia.org/wiki/Summary_statistics) react to an outlier. 
+### The Median: Highly Resistant
+The median, conversely, is simply the middle value when the data is lined up in order from least to greatest. Because it relies entirely on *position* rather than numerical weight, the median of a data set is highly resistant to the mathematical effects of outliers. 
 
-Let's do a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment). Imagine you are sitting in a [coffee shop](https://en.wikipedia.org/wiki/Coffeehouse) with four friends. The average (mean) [net worth](https://en.wikipedia.org/wiki/Net_worth) of the five of you is, say, \$50,000. Suddenly, [billionaire](https://en.wikipedia.org/wiki/Billionaire) tech-mogul [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) walks through the door and joins your table. What happens to the mean net worth of the group? It skyrockets to billions of dollars! Are any of *you* suddenly billionaires? No. But the *mean* implies you are. 
+If we add a billionaire to our diner, the physical middle person in the line shifts by exactly one spot. The median's value changes only slightly, to the income of the next working-class person in line. In fact, the median of a data set frequently remains completely unchanged when an extreme outlier is added to the data set. The median does not care if the highest value is \$100,000 or \$100,000,000,000. It is completely blind to the [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) of the extremes.
 
-### The Fragile Mean
-Because you calculate the mean by adding up every single value and dividing by the count, **the mean of a data set is highly sensitive to the presence of outliers.** It acts like a powerful [magnet](https://en.wikipedia.org/wiki/Magnet). 
+For this reason, statisticians rely on a fundamental rule: **The median provides a more representative measure of central tendency than the mean for data sets containing extreme outliers.** 
 
-*   **An exceptionally large outlier increases the mean of a data set.** (Like Elon Musk walking into the room).
-*   **An exceptionally small outlier decreases the mean of a data set.** (Like scoring a 0 on a test when you normally score 90s).
+![In a heavily skewed distribution containing extreme high values, the mean is pulled strongly toward the long tail of outliers, while the resistant median remains anchored near the bulk of the data.](https://wikipedia.org/wiki/Special:Redirect/file/Comparison_mean_median_mode.svg)
 
-In short, **the presence of an outlier pulls the mathematical mean in the direction of the outlier value.** If the outlier is high, the mean gets pulled artificially high. If it's low, the mean gets dragged down.
+| Measure | Interaction with Outliers | Best Used When... |
+| :--- | :--- | :--- |
+| **Mean** | **Sensitive.** Pulled strongly toward extreme values. | Data is [symmetric](https://en.wikipedia.org/wiki/Symmetric_probability_distribution) and free of extreme outliers. |
+| **Median** | **Resistant.** Rarely impacted by magnitude of extremes. | Data is highly [skewed](https://en.wikipedia.org/wiki/Skewness) or contains massive outliers. |
 
-### The Unshakable Median
-But what about the median? The median doesn't care about the *value* of the extremes; it only cares about *order*. To find the median, you line everyone up from poorest to richest and point to the person standing exactly in the middle. When Elon Musk walks into the coffee shop, the person standing in the middle barely shifts. 
+## The Illusion of Distance: [Measures of Dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion)
 
-Therefore, **the median of a data set is highly resistant to the mathematical effects of outliers.** 
+Just as outliers warp our sense of the "center" of the data, they utterly distort our measurement of the "spread." When we want to know how spread out a data set is, we generally look at the range and the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation). Both of these measures are profoundly impacted by anomalies.
 
-In fact, if you have a massive dataset, **the median of a data set frequently remains completely unchanged when an extreme outlier is added to the data set.** It simply shrugs off the anomaly. 
+### The Range
+The range is the simplest measure of spread: the absolute distance between the [maximum](https://en.wikipedia.org/wiki/Maxima_and_minima) value and the [minimum](https://en.wikipedia.org/wiki/Maxima_and_minima) value. 
 
-Because of this incredible resistance to being dragged around, **the median provides a more representative [measure of central tendency](https://en.wikipedia.org/wiki/Central_tendency) than the mean for data sets containing extreme outliers.** 
+> **Range Formula:**
+> $\text{Range} = \text{Maximum} - \text{Minimum}$
 
-If you are a teacher calculating [final grades](https://en.wikipedia.org/wiki/Grading_in_education), and a student has scores of 85, 88, 90, 92, and one fluke grade of 12 (because they fell sick during the test), the mean will tell you they are a D-student. The median will tell you they are a B+ student. The median tells the true story.
+Because it is calculated using *only* the most extreme values, the range of a data set is extremely sensitive to outliers. 
+* An outlier that establishes a new maximum value increases the calculated range of the data set. 
+* An outlier that establishes a new minimum value increases the calculated range of the data set.
 
-![When a data set is skewed by extreme outliers (represented by the long tail extending to the right), the mean acts like a magnet and gets dragged significantly in the direction of the tail. The median is highly resistant and remains firmly anchored closer to the typical cluster of data.](https://wikipedia.org/wiki/Special:Redirect/file/Comparison_mean_median_mode.svg)
+If a class scores between 80 and 95 on a test, the range is 15. If one student sleeps through the exam and scores a 0 (an extreme lower outlier), the new range becomes 95. The outlier creates the illusion that the entire class's performance is wildly spread out, when in reality, the bulk of the class was tightly grouped.
 
-### At a Glance: Mean vs. Median
+### The Standard Deviation
+Standard deviation measures the typical distance that data points fall from the mean. Recall that standard deviation is calculated by taking the distance of *every single point* from the mean, squaring those distances, and finding an average. 
 
-| Measure | How is it calculated? | Reaction to Outliers | Best Used When... |
-| :--- | :--- | :--- | :--- |
-| **[Mean](https://en.wikipedia.org/wiki/Mean)** | Summing all values, dividing by total count. | **Highly Sensitive.** Pulled toward the outlier. | The data is [symmetrical](https://en.wikipedia.org/wiki/Symmetric_probability_distribution) with no extreme outliers. |
-| **[Median](https://en.wikipedia.org/wiki/Median)** | Finding the middle value of a sorted list. | **Highly Resistant.** Often remains completely unchanged. | The data is [skewed](https://en.wikipedia.org/wiki/Skewness) or contains extreme outliers. |
+Because we *square* the distances, a point that is extremely far away from the mean carries an enormous, disproportionate weight in the calculation. Squaring a small distance keeps it small, but squaring a massive distance results in a staggering number. Consequently, adding an outlier to a data set increases the standard deviation of that data set. It introduces a massive amount of "[mathematical variance](https://en.wikipedia.org/wiki/Variance)" into the formula.
 
----
+![Because standard deviation relies on squared distances from the center, extreme outliers can create the illusion of a highly dispersed, flattened distribution (blue), even if the core data is tightly grouped (red).](https://wikipedia.org/wiki/Special:Redirect/file/Comparison_standard_deviations.svg)
 
-## Part 4: The Ripple Effect ([Range](https://en.wikipedia.org/wiki/Range_%28statistics%29) and [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation))
+Conversely, cleaning your data by removing an outlier from a data set decreases the standard deviation of that data set, snapping the measurement back to a tighter, more accurate reflection of the main cluster.
 
-Outliers don't just mess with the *center* of our data; they wreak absolute havoc on the *[spread](https://en.wikipedia.org/wiki/Statistical_dispersion)* of our data. 
+## Summary for the Practitioner
 
-### The Stretchy Range
-The range is the simplest measure of spread in all of statistics. It is calculated by taking the absolute highest value and subtracting the absolute lowest value (`[Maximum](https://en.wikipedia.org/wiki/Maxima_and_minima) - [Minimum](https://en.wikipedia.org/wiki/Maxima_and_minima)`). Because the range relies exclusively on the endpoints, **the range of a data set is extremely sensitive to outliers.**
-
-By definition, extreme outliers live at the edges of our data. 
-*   **An outlier that establishes a new maximum value increases the calculated range of the data set.**
-*   **An outlier that establishes a new minimum value increases the calculated range of the data set.**
-
-If your class scores between a 70 and a 100, your range is 30. If one student scores a 10, your range explodes from 30 to 90. One single point fundamentally altered the measure!
-
-### The Standard Deviation Penalty
-[Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) is a measure of how far, on average, the data points sit away from the mean. 
-
-Because we already know that outliers are, by definition, sitting very far away from the rest of the data, they act like mathematical weights dragging the average distance outward. Furthermore, standard deviation relies on the mean to do its calculation, and we already know the mean is hopelessly compromised by outliers. 
-
-The rule is straightforward:
-*   **Adding an outlier to a data set increases the standard deviation of that data set.** The introduction of a massive distance from the center inflates the entire average of distances.
-*   Conversely, **removing an outlier from a data set decreases the standard deviation of that data set.** If you take away the most extreme point, the remaining data points are naturally clustered closer together, reducing the spread.
-
-![Standard deviation measures the average spread of data away from the mean. An outlier inflates this average distance, mathematically widening and flattening the curve (similar to the highly dispersed blue distribution) compared to a tightly clustered set without outliers (red distribution).](https://wikipedia.org/wiki/Special:Redirect/file/Comparison_standard_deviations.svg)
-
----
-
-## Summary for the Praxis Exam
-
-To conquer the Praxis Core Mathematics exam, keep this beautiful logic in your mind:
-
-1.  **Spot them visually:** Look for lonely bars in [histograms](https://en.wikipedia.org/wiki/Histogram), disconnected dots in [scatter plots](https://en.wikipedia.org/wiki/Scatter_plot), and isolated asterisks beyond the whiskers of [box plots](https://en.wikipedia.org/wiki/Box_plot).
-2.  **Define them mathematically:** Use [John Tukey](https://en.wikipedia.org/wiki/John_Tukey)'s brilliant 1977 method. Compute the [IQR](https://en.wikipedia.org/wiki/Interquartile_range), multiply it by 1.5, and draw your boundary fences from Q1 and Q3.
-3.  **Understand the Tug-of-War:** Outliers ruthlessly drag the **[Mean](https://en.wikipedia.org/wiki/Mean)**, **[Range](https://en.wikipedia.org/wiki/Range_%28statistics%29)**, and **[Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)** in their direction. 
-4.  **Trust the Median:** When the data gets wild, the **[Median](https://en.wikipedia.org/wiki/Median)** stands like a rock, completely resistant to the chaos, providing the most accurate picture of what is "typical."
-
-Embrace the outliers. They are the anomalies that make [data analysis](https://en.wikipedia.org/wiki/Data_analysis) interesting. Understand how they twist the mathematical reality of a data set, and you will not only ace the Praxis exam—you'll be a sharper, fairer [educator](https://en.wikipedia.org/wiki/Teacher) for your future students!
+When approaching data on the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), treat outliers as powerful magnets that distort the space around them. Remember Tukey’s fences ($1.5 \times \text{IQR}$) to identify them mathematically. Look for the floating dots on scatter plots and the asterisks on box plots to identify them visually. Most importantly, remember that outliers violently pull the mean, inflate the range, and explode the standard deviation—while the median stubbornly holds its ground, providing the clearest lens into the true center of your data.

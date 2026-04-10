@@ -1,159 +1,98 @@
-# The Joy of Space: Mastering the [Geometry](https://en.wikipedia.org/wiki/Geometry) of [Polygons](https://en.wikipedia.org/wiki/Polygon)
+Imagine tracing the outline of a flat plot of land by walking its entire edge, step by step, until you return precisely to where you began. By doing so, you have just measured a boundary. Now, imagine covering every inch of soil within that same boundary with a perfectly even layer of [sod](https://en.wikipedia.org/wiki/Sod). You are no longer dealing with edges; you have just measured a [surface](https://en.wikipedia.org/wiki/Surface_%28mathematics%29). This fundamental distinction between the physical edge of a [shape](https://en.wikipedia.org/wiki/Shape) and the flat expanse it contains sits at the heart of all [geometric](https://en.wikipedia.org/wiki/Geometry) reasoning. In [mathematics](https://en.wikipedia.org/wiki/Mathematics), we formalize these two distinct [spatial](https://en.wikipedia.org/wiki/Space) properties as [perimeter](https://en.wikipedia.org/wiki/Perimeter) and [area](https://en.wikipedia.org/wiki/Area). To master the [geometry](https://en.wikipedia.org/wiki/Geometry) required for the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test) mathematics exam, one must not merely memorize the [equations](https://en.wikipedia.org/wiki/Equation) that govern these properties, but deeply understand how they map physical [dimensions](https://en.wikipedia.org/wiki/Dimension) into quantifiable space. By breaking down the fundamental [polygons](https://en.wikipedia.org/wiki/Polygon)—[rectangles](https://en.wikipedia.org/wiki/Rectangle), [squares](https://en.wikipedia.org/wiki/Square), and [triangles](https://en.wikipedia.org/wiki/Triangle)—we can strip away the [abstraction](https://en.wikipedia.org/wiki/Abstraction_%28mathematics%29) and see exactly how one-dimensional [lines](https://en.wikipedia.org/wiki/Line_%28geometry%29) stretch and multiply together to construct the [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) world. 
 
-Listen, when people look at [geometry](https://en.wikipedia.org/wiki/Geometry) [formulas](https://en.wikipedia.org/wiki/Formula) for the first time, they often see a confusing soup of letters and numbers—$A = \frac{1}{2}bh$, $P = 2l + 2w$. They memorize them, they repeat them, and they get terribly anxious about forgetting them when they sit down for the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test). 
+## The Dimensionality of Measurement: Perimeter vs. Area
 
-But that is exactly the *wrong* way to look at [mathematics](https://en.wikipedia.org/wiki/Mathematics)! 
+Before we calculate the properties of specific shapes, we must establish exactly what it is we are measuring. The geometry of flat shapes is a study of two fundamental concepts, each constrained by its own distinct dimension. 
 
-These formulas are not arbitrary laws handed down by some invisible math committee; they are profoundly logical, incredibly simple descriptions of reality. [Mathematics](https://en.wikipedia.org/wiki/Mathematics) is just common sense codified. Today, we are going to look at flat shapes—[rectangles](https://en.wikipedia.org/wiki/Rectangle), [squares](https://en.wikipedia.org/wiki/Square), and [triangles](https://en.wikipedia.org/wiki/Triangle)—and we are going to figure out exactly how to measure them. We are going to discover *why* the formulas are what they are. By the time we are done, you won't need to memorize a single thing, because you will understand the *machinery* of the shapes themselves.
+**Perimeter** is the total length of the continuous outside boundary of a closed two-dimensional figure. It is, in essence, a measure of [distance](https://en.wikipedia.org/wiki/Distance). Because it tracks a path—even if that path bends or makes sharp corners around a polygon—perimeter is strictly a measure of [length](https://en.wikipedia.org/wiki/Length). Consequently, perimeter is measured using one-dimensional linear units such as meters, [feet](https://en.wikipedia.org/wiki/Foot_%28unit%29), or [inches](https://en.wikipedia.org/wiki/Inch). If you were to take the boundary of any polygon, cut it at one corner, and pull it perfectly straight, the length of that straight line is your perimeter.
 
-![A selection of flat, two-dimensional polygons that follow reliable geometric rules.](https://wikipedia.org/wiki/Special:Redirect/file/Assorted_polygons.svg)
+![Perimeter is fundamentally a one-dimensional measure of distance representing the total length of a shape's continuous boundary.](https://wikipedia.org/wiki/Special:Redirect/file/Perimiters.svg)
 
-Let’s start at the very beginning. When we look at a flat shape on a piece of paper, there are two fundamental things we might want to know about it: how far it is around the [edge](https://en.wikipedia.org/wiki/Edge_%28geometry%29), and how much stuff is packed inside.
+Conversely, **area** represents the measure of the two-dimensional space enclosed within the boundary of a flat shape. You are no longer measuring a distance; you are measuring a capacity. Because of this, area is strictly measured using two-dimensional square units such as square meters or [square feet](https://en.wikipedia.org/wiki/Square_foot). 
 
----
+Why squares? It seems arbitrary at first glance, but it is the foundation of all spatial quantification. A standard geometric square with a side length of exactly one unit encloses an area of exactly one square unit. This $1 \times 1$ square is the atomic building block of geometry. When we calculate the area of any shape, from a simple rectangle to a bizarre, irregular blob, we are ultimately asking one simple question: *Exactly how many of these standard $1 \times 1$ square units can we pack inside this boundary?*
 
-## 1. The Boundary and the Space: [Perimeter](https://en.wikipedia.org/wiki/Perimeter) vs. [Area](https://en.wikipedia.org/wiki/Area)
+## The Orthogonal World: Rectangles and Squares
 
-Before we get to specific shapes, we have to distinguish between the two fundamental ways we measure flat objects. Many people mix these up, but if you think about them in terms of the physical world, the difference is as clear as day.
+We begin our calculations with the most intuitive shape in the geometric arsenal. A **rectangle** is defined as a four-sided flat polygon featuring exactly four [right](https://en.wikipedia.org/wiki/Right_angle) internal [angles](https://en.wikipedia.org/wiki/Angle). Because all four angles are exactly [ninety degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29), the opposite sides of a rectangle will always be parallel and equal in length. We typically call these pairs of sides the "length" ($l$) and the "width" ($w$).
 
-### The [Ant](https://en.wikipedia.org/wiki/Ant) on the Edge: Perimeter
-Imagine an ant that wants to walk exactly along the outside edge of a shape drawn on the ground. The distance that ant travels is the [perimeter](https://en.wikipedia.org/wiki/Perimeter). 
+### Perimeter of a Rectangle
+To find the boundary, you simply walk the edges. You walk the length, turn ninety degrees, walk the width, turn, walk the second length, and finally walk the second width to return to your origin. Mathematically, the perimeter of a rectangle is calculated by adding two times the length to two times the width.
 
-> Fundamentally, **perimeter is the total [length](https://en.wikipedia.org/wiki/Length) of the continuous outside [boundary](https://en.wikipedia.org/wiki/Boundary_%28topology%29) of a closed [two-dimensional figure](https://en.wikipedia.org/wiki/Two-dimensional_space).** 
+> **Perimeter of a Rectangle:**  
+> $P = 2l + 2w$
 
-Because the ant is simply walking along a [line](https://en.wikipedia.org/wiki/Line_%28geometry%29)—even if that line bends and turns corners—it is traveling in [one dimension](https://en.wikipedia.org/wiki/One-dimensional_space) at a time: distance. Therefore, **perimeter is measured using one-dimensional linear units such as [meters](https://en.wikipedia.org/wiki/Metre), [feet](https://en.wikipedia.org/wiki/Foot_%28unit%29), or [inches](https://en.wikipedia.org/wiki/Inch).** If you take a string, lay it around the boundary of the shape, and then pull that string out perfectly straight next to a [ruler](https://en.wikipedia.org/wiki/Ruler), you are measuring perimeter. 
+### Area of a Rectangle
+To find the area, we return to our $1 \times 1$ standard squares. Imagine a rectangle that has a length of $5$ units and a width of $3$ units. If you lay down $1 \times 1$ squares along the bottom length, exactly $5$ of them will fit. Because the width is $3$, you can perfectly stack $3$ rows of these $5$ squares. The total count is $5 + 5 + 5$, or simply $5 \times 3 = 15$ squares. 
 
-![Perimeter represents the continuous one-dimensional distance around the outside edge of a shape.](https://wikipedia.org/wiki/Special:Redirect/file/Perimiters.svg)
+Therefore, the area of a rectangle is calculated by [multiplying](https://en.wikipedia.org/wiki/Multiplication) the length of the rectangle by its width. You are merely multiplying the number of columns by the number of rows.
 
-### Tiling the Floor: Area
-Now, imagine you don't care about the edge. Imagine you want to paint the inside of that shape, or cover it with beautiful [mosaic](https://en.wikipedia.org/wiki/Mosaic) [tiles](https://en.wikipedia.org/wiki/Tile). You aren't walking a line; you are covering a [surface](https://en.wikipedia.org/wiki/Surface_%28mathematics%29). 
+> **Area of a Rectangle:**  
+> $A = l \times w$
 
-> By contrast, **[area](https://en.wikipedia.org/wiki/Area) represents the measure of the [two-dimensional space](https://en.wikipedia.org/wiki/Two-dimensional_space) enclosed within the boundary of a flat shape.**
+![By multiplying length and width, we calculate the exact number of standard square units that can be packed within a rectangular boundary.](https://wikipedia.org/wiki/Special:Redirect/file/Illustration_for_the_area_of_a_rectangle.svg)
 
-How do we measure "flatness"? We can't use a piece of string. We have to use a shape to measure a shape! We humans have universally agreed to use squares as our basic measuring stick for space. **Area is strictly measured using two-dimensional [square units](https://en.wikipedia.org/wiki/Unit_square) such as [square meters](https://en.wikipedia.org/wiki/Square_metre) or [square feet](https://en.wikipedia.org/wiki/Square_foot).**
+### The Special Case of the Square
+A **square** is not a different category of shape; rather, it is a specific classification of a rectangle possessing four sides of exactly equal length. It retains the four right angles of a rectangle, but enforces an absolute [symmetry](https://en.wikipedia.org/wiki/Symmetry_in_mathematics) upon its boundaries. Let us call this uniform side length $s$. 
 
-Why squares? Because they stack together perfectly without leaving gaps. So, we defined a standard [unit of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement). **A standard geometric square with a side length of exactly one unit encloses an area of exactly one square unit.** This is our fundamental atomic building block. When we ask "What is the area?", what we are really asking is, "How many of these little 1-by-1 standard geometric squares can I pack inside this shape?"
+Because all four sides are identical, our formulas simplify beautifully. The perimeter of a square is calculated by multiplying the length of one side by four.
 
-![A standard unit square, measuring exactly one unit on each side, is the foundational building block for measuring area.](https://wikipedia.org/wiki/Special:Redirect/file/Unit_Square.svg)
+> **Perimeter of a Square:**  
+> $P = 4s$
 
----
+Likewise, the area calculation behaves identically to a rectangle, but since the length and width are the same number, the area of a square is calculated by multiplying the length of one side by itself.
 
-## 2. The Honest [Rectangle](https://en.wikipedia.org/wiki/Rectangle) and the Perfect [Square](https://en.wikipedia.org/wiki/Square)
+> **Area of a Square:**  
+> $A = s \times s = s^2$
 
-Let's look at the most honest, straightforward, well-behaved shapes in the universe: the rectangles.
+![Because a square features equal side lengths, its area is calculated by squaring the side length, yielding a perfectly uniform grid of standard square units.](https://wikipedia.org/wiki/Special:Redirect/file/Five_Squared.svg)
 
-### Rectangles
-What makes a rectangle a rectangle? It's right there in the name: *rect* (meaning right or straight) and *[angle](https://en.wikipedia.org/wiki/Angle)*. **A rectangle is a four-sided flat [polygon](https://en.wikipedia.org/wiki/Polygon) featuring exactly four [right](https://en.wikipedia.org/wiki/Right_angle) internal angles.** Those exactly [90-degree](https://en.wikipedia.org/wiki/Degree_%28angle%29) corners mean the opposite sides are forced to be perfectly [parallel](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) and perfectly equal in length.
+## The Three-Sided Construct: Triangles
 
-Let's say we have a rectangle that is 5 units long (the length, $L$) and 3 units wide (the width, $W$). 
+Having mastered four-sided, [orthogonal](https://en.wikipedia.org/wiki/Orthogonality) shapes, we turn our attention to the simplest possible closed polygon. A **triangle** is a closed two-dimensional polygon consisting of exactly three sides and three vertices. It is the minimal structure required to enclose space; two straight lines can only ever [intersect](https://en.wikipedia.org/wiki/Intersection_%28geometry%29), but three straight lines can wrap around to form an interior.
 
-**The Perimeter:**
-If our ant walks around this rectangle, it walks along a length (5), turns 90 degrees, walks along a width (3), turns, walks along the other length (5), turns, and walks along the final width (3).
-$5 + 3 + 5 + 3 = 16$. 
-Notice what we just did? We added the length twice, and the width twice. We can write this elegantly: **The perimeter of a rectangle is calculated by adding two times the length to two times the width.**
-> **[Formula](https://en.wikipedia.org/wiki/Formula):** $P = 2L + 2W$
+### Perimeter of a Triangle
+Because a triangle lacks the parallel symmetry of a rectangle, there are no guaranteed shortcut formulas for its boundary unless you are dealing with special cases (like [equilateral triangles](https://en.wikipedia.org/wiki/Equilateral_triangle)). In the universal case, the perimeter of a triangle is calculated by summing the linear lengths of all three of its sides. If the sides are $a$, $b$, and $c$:
 
-**The Area:**
-Now, let's tile the inside of our 5-by-3 rectangle with our little standard 1-by-1 square units. How many fit?
-Well, we can lay exactly 5 little squares in a row along the bottom edge. That is one row of 5. How many rows can we stack up? The width is 3, so we can stack exactly 3 rows. 
-Three rows of five squares is just $3 \times 5 = 15$ squares. 
-You see? You didn't need to memorize a formula. You just counted rows and columns! Because of this [grid-like](https://en.wikipedia.org/wiki/Grid_%28geometry%29) perfection, **the area of a rectangle is calculated by [multiplying](https://en.wikipedia.org/wiki/Multiplication) the length of the rectangle by its width.**
-> **Formula:** $A = L \times W$
+> **Perimeter of a Triangle:**  
+> $P = a + b + c$
 
-![The area of a rectangle is visually proven by tiling its interior with unit squares, demonstrating that Area equals Length times Width.](https://wikipedia.org/wiki/Special:Redirect/file/Illustration_for_the_area_of_a_rectangle.svg)
+### Area of a Triangle
+How do we find the area of a shape with slanted sides? You cannot simply stack $1 \times 1$ square units neatly inside a triangle; the slanted edges will slice the squares into irregular [fractions](https://en.wikipedia.org/wiki/Fraction). 
 
-### Squares
-People sometimes think squares and rectangles are totally different animals. Not true! **A square is a specific classification of a rectangle possessing four sides of exactly equal length.** It’s simply a rectangle that has attained perfect [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29).
+To solve this, [mathematicians](https://en.wikipedia.org/wiki/Mathematician) employ a brilliant visualization. Imagine taking any triangle, copying it exactly, flipping it upside down, and interlocking it with the original. You will inevitably form a four-sided [parallelogram](https://en.wikipedia.org/wiki/Parallelogram) (and in specific cases, a rectangle). The area of that larger four-sided shape is simply its [base](https://en.wikipedia.org/wiki/Base_%28geometry%29) multiplied by its height. Since our original triangle is exactly half of that constructed shape, the area of a triangle is calculated by multiplying one-half times the base times the height.
 
-Because all four sides ($s$) are identical, the formulas get even simpler. 
+![Duplicating and inverting a triangle creates a parallelogram, demonstrating that a triangle encloses exactly half the area of its four-sided equivalent.](https://wikipedia.org/wiki/Special:Redirect/file/TriangleArea.svg)
 
-**The Perimeter:**
-Instead of $2L + 2W$, the ant just walks the exact same distance four times. Therefore, **the perimeter of a square is calculated by multiplying the length of one side by four.**
-> **Formula:** $P = 4s$
+> **Area of a Triangle:**  
+> $A = \frac{1}{2} \times b \times h$
 
-**The Area:**
-Instead of length times width, the rows and columns are identically sized. You are multiplying a number by itself. So, **the area of a square is calculated by [multiplying the length of one side by itself](https://en.wikipedia.org/wiki/Square_%28algebra%29).**
-> **Formula:** $A = s^2$
+## The Intricacies of Base and Height
 
-![Because its sides are equal, a square's area is simply its side length multiplied by itself, forming a mathematically perfect grid of smaller unit squares.](https://wikipedia.org/wiki/Special:Redirect/file/Five_Squared.svg)
+The formula for the area of a triangle introduces two [variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29)—base ($b$) and height ($h$)—which frequently cause confusion for test-takers. The confusion stems from a misunderstanding of what a "height" actually is in geometry.
 
----
+The height of a triangle must *always* be a [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) [line segment](https://en.wikipedia.org/wiki/Line_segment) measured from the chosen base to the opposite vertex. Height measures [altitude](https://en.wikipedia.org/wiki/Altitude_%28triangle%29). It is a line dropped perfectly straight down at a $90^\circ$ angle. It is absolutely crucial to understand that **slanting sides are not the height** (unless the triangle happens to be a right triangle, which we will discuss momentarily). If you lean a $10$-foot ladder against a wall, the top of the ladder is not $10$ feet off the ground; the slant reduces the vertical altitude. The same logic applies to triangles.
 
-## 3. The Elegance of the [Triangle](https://en.wikipedia.org/wiki/Triangle)
+![The true height or altitude of a triangle is a strict perpendicular line dropped from a vertex to the base, which may fall entirely outside the triangle's physical perimeter.](https://wikipedia.org/wiki/Special:Redirect/file/Projection_formula_(3).png)
 
-Now we leave the world of rigid, 90-degree corners and step into the most structurally important shape in mathematics. **A triangle is a closed two-dimensional polygon consisting of exactly three sides and three [vertices](https://en.wikipedia.org/wiki/Vertex_%28geometry%29).** 
+### The Freedom to Choose the Base
+A beautiful property of triangles is [orientation](https://en.wikipedia.org/wiki/Orientation_%28geometry%29) independence. Any of the three sides of a given triangle can be selected to serve as the base for an area calculation. The area of the space inside the triangle is an absolute physical reality; it does not change if you [rotate](https://en.wikipedia.org/wiki/Rotation_%28mathematics%29) the shape on the page. 
 
-Triangles are incredibly special. Every flat polygon in the universe—no matter how complex, wavy, or bizarre—can be [chopped up into a series of triangles](https://en.wikipedia.org/wiki/Polygon_triangulation). If you understand the triangle, you hold the master key to all of [two-dimensional geometry](https://en.wikipedia.org/wiki/Plane_%28geometry%29).
+If you pick side $a$ as your base, you must drop a perpendicular height from the vertex exactly opposite to side $a$. If you choose side $b$ as the base, you must draw a new perpendicular height down to side $b$. While the numbers for base and height will change depending on your chosen orientation, the final product of $\frac{1}{2} \times b \times h$ will remain identical. 
 
-### The Triangle Boundary
-First, the perimeter. Our ant is back. The ant walks along the three edges. It’s as simple as it sounds: **The perimeter of a triangle is calculated by [summing](https://en.wikipedia.org/wiki/Addition) the linear lengths of all three of its sides.** 
-> **Formula:** $P = s_1 + s_2 + s_3$ (where $s$ represents each side length)
+### The Elegance of the Right Triangle
+There is one scenario where the sides of the triangle themselves act as the altitude. In a [right triangle](https://en.wikipedia.org/wiki/Right_triangle), the two sides forming the ninety-degree angle function identically to the base and the height for area calculations. 
 
-There are no fancy shortcuts like $4s$ here, unless you happen to have an [equilateral triangle](https://en.wikipedia.org/wiki/Equilateral_triangle) where all three sides are equal. Usually, you just add the three lengths together.
+Because the angle between them is already perfectly perpendicular ($90^\circ$), one [leg](https://en.wikipedia.org/wiki/Cathetus) serves as the base, and the intersecting leg automatically fulfills the strict requirement of being a perpendicular line segment reaching the opposite vertex. You do not need to drop an artificial altitude line down the middle of the shape. Simply multiply the two orthogonal legs together and cut the result in half. 
 
-### Unlocking the Area of a Triangle
-Here is where the real magic happens. How do you find the area of a shape with slanted sides? You can't just count squares easily, because the slanted sides chop the standard 1-by-1 unit squares into weird, unpredictable [fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29).
+![In a right triangle, the two legs meeting at the ninety-degree angle inherently serve as the base and perpendicular height for area calculations.](https://wikipedia.org/wiki/Special:Redirect/file/Rtriangle.svg)
 
-We have to use our imagination. 
+## Synthesis: Approaching the Praxis Core
 
-Imagine you cut a triangle out of paper. Now, trace that exact triangle onto another piece of paper, cut that second one out, and [rotate](https://en.wikipedia.org/wiki/Rotation_%28mathematics%29) it perfectly [180 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29). If you match the two triangles together along one of their slanted edges, what do they make? 
+When you encounter geometry problems on the Praxis Core, the test-makers will not merely ask you to regurgitate these formulas. They will test your conceptual understanding of how these formulas map reality. 
 
-They *always* make a [parallelogram](https://en.wikipedia.org/wiki/Parallelogram) (a slanted rectangle), and you can easily squish a parallelogram into a perfect rectangle. 
+You may be given a composite shape—for instance, a house profile made of a triangle sitting atop a rectangle. You must recognize that the total area requires calculating the rectangle's area ($l \times w$) and adding it to the triangle's area ($\frac{1}{2}bh$), while ensuring you do not double-count the boundary line they share if asked for the overall perimeter.
 
-This means that *every triangle in the universe is exactly half of a rectangle!*
+You may also see units disguised in practical terms. If a question states that fencing costs \$12 per linear foot, and sod costs \$4 per square foot, you must immediately recognize the geometry embedded in the economics. Fencing wraps around a boundary; therefore, you multiply the \$12 cost by the one-dimensional perimeter. Sod covers a surface; therefore, you multiply the \$4 cost by the two-dimensional area. 
 
-If the area of a rectangle is $\text{[Base](https://en.wikipedia.org/wiki/Base_%28geometry%29)} \times \text{Height}$, and a triangle is exactly half of that rectangle, then the logic naturally follows: **The area of a triangle is calculated by multiplying one-half times the base times the height.**
-> **Formula:** $A = \frac{1}{2} \times b \times h$
-
-![Every triangle can be seen as exactly half of a larger parallelogram or rectangle, naturally explaining why its area is calculated as one-half the base times the height.](https://wikipedia.org/wiki/Special:Redirect/file/TriangleArea.svg)
-
-### The Crucial Trap: What is the Height?
-This is where the Praxis exam writers love to set traps for you. Pay close attention to this. 
-
-If I ask you to measure your own height, do you lean over sideways at a 45-degree angle and measure from your toe to the top of your head along your slanted side? No! You stand perfectly straight against a wall, making a 90-degree angle with the floor. 
-
-Triangles work the exact same way. The slanted sides are *not* the height. **The height of a triangle must always be a [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) [line segment](https://en.wikipedia.org/wiki/Line_segment) measured from the chosen base to the opposite vertex.** Imagine taking a [plumb bob](https://en.wikipedia.org/wiki/Plumb_bob) (a weight on a string) and holding it exactly at the top point (vertex) of the triangle, letting [gravity](https://en.wikipedia.org/wiki/Gravity) pull the string perfectly straight down until it hits the line of the base at a 90-degree angle. That string is your height.
-
-![Just like a physical plumb bob hanging from a string, a triangle's height must drop perfectly straight down to intersect the base at a 90-degree angle.](https://wikipedia.org/wiki/Special:Redirect/file/Plumb_bob.jpg)
-
-### The Beauty of Relativity: Choosing your Base
-Now, here is a profound truth about the universe: it has no intrinsic 'up' or 'down'. If I hand you a wooden triangle, you can set it on the table on *any* of its edges. Nature doesn't care. 
-
-Consequently, **any of the three sides of a given triangle can be selected to serve as the base for an area calculation.** 
-
-It does not matter which side you pick! The mathematics will miraculously adjust. If you pick a long side as the base, the corresponding [perpendicular height](https://en.wikipedia.org/wiki/Altitude_%28triangle%29) dropping down to it will be short. If you pick a short side as the base, the corresponding perpendicular height dropping down to it will be long. In all three cases, $\frac{1}{2} \times b \times h$ will yield the exact same total area. Just ensure that the height you use drops perpendicularly to the *specific* base you chose.
-
-### The Special Case: The [Right Triangle](https://en.wikipedia.org/wiki/Right_triangle)
-There is one scenario where finding the height is completely effortless. 
-
-Think about a right triangle. It’s a triangle that inherently contains a 90-degree angle. What did we say about height? It must be perpendicular (90 degrees) to the base. In a right triangle, the two sides that form the 'L' shape are *already* perpendicular to each other! 
-
-Therefore, **in a right triangle, the two sides forming the ninety-degree angle function identically to the base and the height for area calculations.** You don't need to go hunting inside the triangle for a hidden vertical [altitude line](https://en.wikipedia.org/wiki/Altitude_%28triangle%29). The [legs](https://en.wikipedia.org/wiki/Cathetus) of the triangle *are* the base and the height. Just multiply them together, cut the result in half, and you have your area.
-
-![In a right triangle, the two perpendicular sides that form the 90-degree corner inherently function as the base and the height.](https://wikipedia.org/wiki/Special:Redirect/file/Rtriangle.svg)
-
----
-
-## 4. The Quick-Reference Synthesis
-
-To help lock this into your [operational memory](https://en.wikipedia.org/wiki/Working_memory) for the Praxis exam, let's map out these physical truths in a side-by-side comparison. Remember, do not just stare at the symbols. See the ant walking the perimeter, and see the little squares tiling the area!
-
-| Polygon | Distinguishing Feature | Perimeter (The Boundary) | Area (The Interior Space) | Praxis Pro-Tip |
-| :--- | :--- | :--- | :--- | :--- |
-| **Rectangle** | 4 sides, 4 right angles. | $P = 2L + 2W$ | $A = L \times W$ | Make sure Length and Width are in the *same units* before you multiply! |
-| **Square** | A rectangle with 4 equal sides. | $P = 4s$ | $A = s^2$ | If you know the Area, take the [square root](https://en.wikipedia.org/wiki/Square_root) to find the side length. |
-| **Triangle** | 3 sides, 3 vertices. | $P = s_1 + s_2 + s_3$ | $A = \frac{1}{2}bh$ | **Never** use a slanted side as the height (unless it's a right triangle)! Look for the 90° angle marker. |
-
----
-
-## Final Thoughts from the Blackboard
-
-When you sit down to take your educator exam, you might feel a rush of [adrenaline](https://en.wikipedia.org/wiki/Adrenaline). You might see a geometry problem featuring a triangle nested inside a rectangle, or a strange square with missing pieces. Take a breath. 
-
-Remember that these shapes are not abstract terrors. They are just lines enclosing space. 
-If they ask for **perimeter**, trace the outside boundary with your pencil. You are summing 1D linear units. 
-If they ask for **area**, you are calculating how many flat, 2D square units fit inside. 
-If it is a **rectangle**, count the rows and columns ($L \times W$). 
-If it is a **triangle**, find the perpendicular height, pretend it is a rectangle, and snap it strictly in half ($\frac{1}{2}bh$).
-
-Geometry is simply the mathematics of the space we live in. It is beautiful, it is logical, and now, it belongs to you. Go confidently and ace that exam!
+By grounding yourself in the physical reality of what perimeter and area actually represent, the formulas cease to be an arbitrary alphabet soup of $P = 2l + 2w$ or $A = \frac{1}{2}bh$. They become logical, inevitable expressions of spatial truth. Whether mapping standard geometric squares or calculating perpendicular altitudes, the mathematics of flat polygons is an elegantly interlocked system, waiting only to be unpacked.

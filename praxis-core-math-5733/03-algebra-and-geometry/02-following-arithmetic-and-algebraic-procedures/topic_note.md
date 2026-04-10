@@ -1,114 +1,103 @@
-Here’s a secret about [mathematics](https://en.wikipedia.org/wiki/Mathematics) that a lot of [textbooks](https://en.wikipedia.org/wiki/Textbook) try to hide: math is not a static object. It’s not just a dusty list of facts to memorize. Math is a *machine*, a choreography, a beautiful set of instructions that tells you exactly how to move from a state of ignorance to a state of [truth](https://en.wikipedia.org/wiki/Truth). 
+Mathematics, at its absolute core, is the study of inescapable rules. When we trace the path of a [falling object](https://en.wikipedia.org/wiki/Free_fall), calculate the [compounding interest](https://en.wikipedia.org/wiki/Compound_interest) in a bank account, or [program a computer](https://en.wikipedia.org/wiki/Computer_programming) to [sort data](https://en.wikipedia.org/wiki/Sorting_algorithm), we are observing systems relentlessly executing defined operations. To understand and predict these systems, we must learn to read their instruction manuals. This requires mastering the art of following [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) and [algebraic procedures](https://en.wikipedia.org/wiki/Algebraic_operation)—not by [rote memorization](https://en.wikipedia.org/wiki/Rote_learning), but by understanding the precise sequence of steps, the [conditional logic](https://en.wikipedia.org/wiki/Conditional_%28computer_programming%29), and the [recursive loops](https://en.wikipedia.org/wiki/Recursion_%28computer_science%29) that dictate how numerical values evolve. A single misstep in [precedence](https://en.wikipedia.org/wiki/Order_of_operations) or a failure to track a [variable's](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) changing [state](https://en.wikipedia.org/wiki/State_%28computer_science%29) will cascade into an entirely incorrect conclusion. 
 
-When you look at a problem on the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test), it's not just sitting there staring at you; it is actively asking you to *do* something. Today, we are going to look under the hood of mathematical processes. We'll learn how to run the machine forward, how to run it backward, how to read its blueprints, and what happens when the machine talks to itself. 
+In the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), your ability to follow procedures is tested through [algebraic manipulation](https://en.wikipedia.org/wiki/Elementary_algebra), [algorithmic flowcharts](https://en.wikipedia.org/wiki/Flowchart), and [recursive sequences](https://en.wikipedia.org/wiki/Recurrence_relation). Let us dissect how to navigate these [logical structures](https://en.wikipedia.org/wiki/Logic) with absolute precision.
 
-Let's dive into the fascinating world of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) and [algebraic](https://en.wikipedia.org/wiki/Algebra) procedures.
+## The Anatomy of Algebraic Procedures
 
----
+Fundamentally, **an algebraic procedure is a sequence of defined [mathematical operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) applied to an initial value.** You can think of it as a factory [assembly line](https://en.wikipedia.org/wiki/Assembly_line). Raw materials ([numbers](https://en.wikipedia.org/wiki/Number)) enter the line, and a strict sequence of machines (operations) transforms them into a final product. 
 
-## Part I: The Mechanics of Algebraic Procedures
+When you encounter an [expression](https://en.wikipedia.org/wiki/Expression_%28mathematics%29) like $3(x + 2)^2 - 5$, it is completely inert until you provide an input. **[Substitution](https://en.wikipedia.org/wiki/Substitution_%28algebra%29) involves replacing variables in an algebraic expression with specific numerical values.** Once the abstract letters become concrete numbers, the machinery turns on. At this stage, **evaluating an expression requires applying arithmetic operations after substituting variables with numbers.**
 
-Imagine you are standing in front of a giant funnel with [gears](https://en.wikipedia.org/wiki/Gear) attached to it. You drop a [number](https://en.wikipedia.org/wiki/Number) in the top, turn the crank, and a different number pops out the bottom. What you have just visualized is the essence of mathematical procedures. 
+However, the sequence in which these operations fire is not arbitrary. If two people evaluate the same expression but perform the operations in different orders, they will get different results. To prevent mathematical chaos, we rely on a universal agreement.
 
-![A visual representation of an algebraic function acting as a machine, where an input is processed and transformed into a predictable output.](https://wikipedia.org/wiki/Special:Redirect/file/Function_machine2.svg)
+### The Universal Grammar: Order of Operations
 
-At its core, **an [algebraic procedure](https://en.wikipedia.org/wiki/Algebraic_operation) is a sequence of defined [mathematical operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) applied to an initial value.**
+The [order of operations](https://en.wikipedia.org/wiki/Order_of_operations) is the strict hierarchy that governs how mathematical sentences are read and executed. 
 
-But what happens when the initial value is hidden from us? Often, we are handed an [expression](https://en.wikipedia.org/wiki/Expression_%28mathematics%29) with a letter—a [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) like $x$ or $y$—holding the place of our missing number. When we finally discover the missing number, we use **[substitution](https://en.wikipedia.org/wiki/Substitution_%28algebra%29)**, which **involves replacing variables in an [algebraic expression](https://en.wikipedia.org/wiki/Algebraic_expression) with specific numerical values.** 
+> **The Hierarchy of Execution**
+> 1. **The order of operations dictates that expressions inside [parentheses](https://en.wikipedia.org/wiki/Bracket) are evaluated first.** Parentheses act as an override switch, forcing you to resolve whatever is enclosed before looking at the rest of the expression.
+> 2. **The order of operations dictates that [exponents](https://en.wikipedia.org/wiki/Exponentiation) are evaluated before [multiplication](https://en.wikipedia.org/wiki/Multiplication) and [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29).** Exponents (and [roots](https://en.wikipedia.org/wiki/nth_root)) represent rapid, repeated multiplication, so they carry a higher priority than single instances of multiplication.
+> 3. **The order of operations dictates that multiplication and division are evaluated before [addition](https://en.wikipedia.org/wiki/Addition) and [subtraction](https://en.wikipedia.org/wiki/Subtraction).** 
 
-Once you swap out the letter for a number, the machine is ready to be turned on. **Evaluating an expression requires applying [arithmetic operations](https://en.wikipedia.org/wiki/Arithmetic) after substituting variables with numbers.**
+Working left to right within these hierarchical tiers ensures that every algebraic procedure yields one unambiguous answer. 
 
-### The Rules of the Road: Order of Operations
-Now, if you drop a number into the machine and start applying operations willy-nilly, chaos ensues. Nature has a strict hierarchy, and so does math. To guarantee that every [mathematician](https://en.wikipedia.org/wiki/Mathematician) on Earth gets the exact same result from the same expression, we follow a universal traffic code.
-
-> **The Universal [Order of Operations](https://en.wikipedia.org/wiki/Order_of_operations)**
-> 1. **The VIPs (Parentheses):** The **[order of operations](https://en.wikipedia.org/wiki/Order_of_operations) dictates that expressions inside [parentheses](https://en.wikipedia.org/wiki/Bracket) are evaluated first.** Whatever is trapped inside the brackets gets handled before the outside world is even considered.
-> 2. **The Heavy Lifters (Exponents):** Next, the **order of operations dictates that [exponents](https://en.wikipedia.org/wiki/Exponentiation) are evaluated before multiplication and division.** If a number is [squared](https://en.wikipedia.org/wiki/Square_%28algebra%29) or [cubed](https://en.wikipedia.org/wiki/Cube_%28algebra%29), you unleash that power immediately.
-> 3. **The Workers (Multiplication & Division):** Moving left to right, the **order of operations dictates that [multiplication](https://en.wikipedia.org/wiki/Multiplication) and [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) are evaluated before [addition](https://en.wikipedia.org/wiki/Addition) and [subtraction](https://en.wikipedia.org/wiki/Subtraction).**
-> 4. **The Sweepers (Addition & Subtraction):** Finally, you handle the simple pluses and minuses to finish evaluating your expression.
-
-![The standard order of operations dictates that parentheses and exponents are resolved first, followed by multiplication and division, and finally addition and subtraction.](https://wikipedia.org/wiki/Special:Redirect/file/Order_of_operations.svg)
+![The standard order of operations dictates evaluating parentheses first, followed by exponents, then multiplication and division, and finally addition and subtraction.](https://wikipedia.org/wiki/Special:Redirect/file/Order_of_operations.svg)
 
 ### Running the Machine in Reverse: Solving Equations
-What if you already know what popped out of the machine, and you want to figure out what was dropped in? You have to run the machine backward. 
 
-To do this, you rely on an **[inverse operation](https://en.wikipedia.org/wiki/Inverse_operation)**, which is simply a tool that **reverses the effect of another specific mathematical operation.** If the machine added $5$, you [subtract](https://en.wikipedia.org/wiki/Subtraction) $5$. If it multiplied by $10$, you [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) by $10$. 
+Evaluating an expression is running the mathematical machinery forward. [Solving an equation](https://en.wikipedia.org/wiki/Equation_solving) is running it in reverse. If you know the final output of a procedure and need to discover the initial input, you must systematically undo every step.
 
-But an [equation](https://en.wikipedia.org/wiki/Equation) is like a perfectly balanced scale. You can't just throw weight off one side without tipping the whole thing over. Therefore, **[solving an equation](https://en.wikipedia.org/wiki/Equation_solving) step-by-step requires applying inverse operations to both sides of the equation.** To keep the scales perfectly level from start to finish, **maintaining [equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29) requires performing the exact same mathematical operation on both sides of an equation.**
+This is achieved using [inverse operations](https://en.wikipedia.org/wiki/Inverse_operation). **An inverse operation reverses the effect of another specific mathematical operation.** Addition undoes subtraction; division undoes multiplication; a [square root](https://en.wikipedia.org/wiki/Square_root) undoes a [square](https://en.wikipedia.org/wiki/Square_%28algebra%29). 
 
-![An equation functions like a physical balance scale; to maintain mathematical equality, any operation performed on one side must be equally applied to the other.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
+**Solving an equation step-by-step requires applying inverse operations to both sides of the [equation](https://en.wikipedia.org/wiki/Equation).** Why both sides? An equation is a statement of perfect balance. **Maintaining [equality](https://en.wikipedia.org/wiki/Equality_%28mathematics%29) requires performing the exact same mathematical operation on both sides of an equation.** If you divide the left side of a [scale](https://en.wikipedia.org/wiki/Weighing_scale) by two without dividing the right side by two, the equality shatters. 
 
----
+![A balance scale provides a helpful visual model for an algebraic equation; whatever operation you perform on one side must be performed identically on the other side to maintain equality.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
 
-## Part II: Recurrence and Sequences - When Math Repeats Itself
+## Algorithmic Flowcharts: The Architecture of Logic
 
-Sometimes, the outcome of an operation doesn't just sit there—it gets immediately dropped *back* into the top of the machine. This creates a [chain reaction](https://en.wikipedia.org/wiki/Chain_reaction), generating a list of numbers. This is the mesmerizing reality of a **[recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation)**, which **is a mathematical equation that expresses the nth term of a [sequence](https://en.wikipedia.org/wiki/Sequence) as a [function](https://en.wikipedia.org/wiki/Function_%28mathematics%29) of previous terms.**
+In many fields—particularly [computer science](https://en.wikipedia.org/wiki/Computer_science) and [systems engineering](https://en.wikipedia.org/wiki/Systems_engineering)—algebraic procedures are not written as horizontal equations, but as visual diagrams. **A [flowchart](https://en.wikipedia.org/wiki/Flowchart) is a visual representation of a step-by-step [mathematical algorithm](https://en.wikipedia.org/wiki/Algorithm).** It maps the precise flow of logic from the start of a process to its conclusion.
 
-When we generate a list using this relation, we call it a **[recursive sequence](https://en.wikipedia.org/wiki/Recursion)**, because it **defines each term based on one or more previous terms in the sequence.**
+To read a flowchart, you must understand its standard morphology. The shapes themselves communicate the nature of the instruction.
 
-### The Anatomy of Recursion
-You can't build a sequence out of thin air. You need a starting point. Thus, **a recursive sequence requires at least one initial starting value known as the [base case](https://en.wikipedia.org/wiki/Recursion_%28computer_science%29).** 
+| Shape | Meaning in a Flowchart |
+| :--- | :--- |
+| **[Oval](https://en.wikipedia.org/wiki/Oval)** | **In standard algorithmic flowcharts, oval shapes indicate the start point or end point of a process.** They act as the terminal boundaries of the algorithm. |
+| **[Rectangle](https://en.wikipedia.org/wiki/Rectangle)** | **In standard algorithmic flowcharts, rectangular shapes represent processing steps or mathematical operations.** This is where the actual arithmetic (e.g., "Add 5 to $X$") occurs. |
+| **[Diamond](https://en.wikipedia.org/wiki/Rhombus)** | **In standard algorithmic flowcharts, diamond shapes denote decision points or conditional branching.** These ask a question, usually resulting in a "Yes/No" or "[True/False](https://en.wikipedia.org/wiki/Boolean_data_type)" answer. |
 
-Once you have your base case, the sequence can run forever. But there is a catch! Because each step depends intimately on the step right before it, there are no magical shortcuts. **Finding a specific term in a recursive sequence requires calculating all intermediate preceding terms.** If you want the 10th term, you absolutely must figure out the 9th term first, which means you need the 8th term, and so on.
+### Branching and Looping
 
-### Flavors of Sequences
-There are different rhythms to these mathematical loops.
+The diamond shape introduces dynamic behavior into an otherwise static list of instructions. **A [conditional branch](https://en.wikipedia.org/wiki/Branch_%28computer_science%29) in a flowchart directs a process along different paths based on a [true or false condition](https://en.wikipedia.org/wiki/Boolean_expression).** Imagine a train arriving at a switch on the tracks: if the train is carrying [freight](https://en.wikipedia.org/wiki/Freight_transport) (True), it goes left to the warehouse; if it is carrying passengers (False), it goes right to the station.
 
-| Sequence Type | How It Grows | Example |
-| :--- | :--- | :--- |
-| **Arithmetic Sequence** | An **[arithmetic sequence](https://en.wikipedia.org/wiki/Arithmetic_progression) adds a [constant](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) numerical difference to the previous term to generate the next term.** Think of climbing stairs: steady, constant steps. | $2, 5, 8, 11...$ (Base case 2, add 3 each time) |
-| **Geometric Sequence** | A **[geometric sequence](https://en.wikipedia.org/wiki/Geometric_progression) multiplies the previous term by a constant numerical [ratio](https://en.wikipedia.org/wiki/Ratio) to generate the next term.** Think of biological [cell division](https://en.wikipedia.org/wiki/Cell_division): explosive, [scaling growth](https://en.wikipedia.org/wiki/Exponential_growth). | $3, 6, 12, 24...$ (Base case 3, multiply by 2 each time) |
+![A basic conditional branch in a flowchart. A diamond shape evaluates a true or false condition, routing the logical flow down different paths based on the resulting answer.](https://wikipedia.org/wiki/Special:Redirect/file/If-Then-Else-diagram.svg)
 
-### The Crown Jewel: Fibonacci
-Nature loves recursive sequences. Have you ever noticed the [spirals](https://en.wikipedia.org/wiki/Spiral) of seeds on a [sunflower](https://en.wikipedia.org/wiki/Common_sunflower) or the curve of a [nautilus shell](https://en.wikipedia.org/wiki/Nautilus)? They are governed by one of the most famous patterns in human history: the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence). 
+Often, conditional branches force a process to repeat. **A [loop](https://en.wikipedia.org/wiki/Control_flow) in a flowchart repeats a specific sequence of operations until a defined condition is met.** For example, an algorithm might subtract $10$ from a starting value and loop back to do it again *until* the value drops below zero.
 
-The **Fibonacci sequence is a mathematical recursive sequence.** Its rule is simple yet profoundly elegant: **The Fibonacci sequence adds the two immediately preceding terms to generate the next term.** 
+### How to Trace an Algorithm
 
-Because it needs *two* previous terms, it requires *two* base cases: $0$ and $1$. 
+On the Praxis exam, you will be asked to determine the final output of a given flowchart. Do not attempt to hold changing values in your head. The human brain is a terrible scratchpad for transient data.
+
+**Tracing an algorithm requires recording the current value of all [variables](https://en.wikipedia.org/wiki/Variable_%28computer_science%29) after every individual operation.** The professional method is to draw a "[Trace Table](https://en.wikipedia.org/wiki/Trace_table)." 
+
+Imagine an algorithm with two variables, $A$ and $B$. Every time you pass through a rectangle in the flowchart, cross out the old value in your table and write the new one. If the algorithm loops three times, you should have three distinct updates recorded. This mechanical [bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping) is the only way to guarantee accuracy when following complex algorithmic procedures.
+
+## Recurrence Sequences: Building from the Past
+
+Algorithms often produce [sequences](https://en.wikipedia.org/wiki/Sequence) of numbers. While some sequences can be calculated directly (using an *[explicit](https://en.wikipedia.org/wiki/Closed-form_expression)* formula), others force you to build each step upon the foundation of the last. 
+
+**A [recurrence relation](https://en.wikipedia.org/wiki/Recurrence_relation) is a mathematical equation that expresses the nth term of a sequence as a [function](https://en.wikipedia.org/wiki/Function_%28mathematics%29) of previous terms.** When a sequence is governed by such an equation, we call it recursive. **A recursive sequence defines each term based on one or more previous terms in the sequence.** 
+
+To understand [recursion](https://en.wikipedia.org/wiki/Recursion), picture a staircase. To stand on the 10th step, you must first reach the 9th step. To reach the 9th, you must reach the 8th. Because every term relies on the preceding one, **a recursive sequence requires at least one initial starting value known as the [base case](https://en.wikipedia.org/wiki/Recursion_%28computer_science%29).** Without a base case (the ground floor), the sequence can never begin.
+
+### Common Types of Sequences
+
+Mathematical procedures often generate distinct patterns depending on the operations used to step from one term to the next.
+
+*   **Arithmetic Sequences:** **An [arithmetic sequence](https://en.wikipedia.org/wiki/Arithmetic_progression) adds a constant numerical difference to the previous term to generate the next term.** If your base case is $3$ and your constant difference is $+4$, your sequence is $3, 7, 11, 15, \dots$ It grows in a perfectly [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29).
+*   **Geometric Sequences:** **A [geometric sequence](https://en.wikipedia.org/wiki/Geometric_progression) multiplies the previous term by a constant numerical ratio to generate the next term.** If your base case is $3$ and your constant ratio is $\times 2$, your sequence is $3, 6, 12, 24, \dots$ It experiences compounding, [exponential growth](https://en.wikipedia.org/wiki/Exponential_growth).
+
+![A geometric sequence grows by multiplying the previous term by a constant ratio. In this visual model, each new iteration scales mathematically by a consistent multiplier.](https://wikipedia.org/wiki/Special:Redirect/file/Geometric_sequences.svg)
+
+### The Ultimate Recursive Pattern: The Fibonacci Sequence
+
+Nature itself is deeply recursive. The branching of trees, the spirals of shells, and the breeding patterns of animals often follow a very specific recursive logic. **The [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence) is a mathematical recursive sequence** that frequently appears in the natural world.
+
+Unlike a simple arithmetic or geometric [progression](https://en.wikipedia.org/wiki/Sequence) that looks back at only *one* previous term, **the Fibonacci sequence adds the two immediately preceding terms to generate the next term.** 
+
+Because it requires two preceding terms, it needs two base cases: $0$ and $1$. 
 * $0 + 1 = 1$
 * $1 + 1 = 2$
 * $1 + 2 = 3$
 * $2 + 3 = 5$
 
-![The Fibonacci spiral is constructed using squares whose side lengths correspond to successive numbers in the Fibonacci sequence, illustrating how recursive addition produces scaling geometric growth.](https://wikipedia.org/wiki/Special:Redirect/file/Fibonacci_Spiral.svg)
+The sequence emerges as: $0, 1, 1, 2, 3, 5, 8, 13, 21, \dots$
 
-The sequence blooms as $0, 1, 1, 2, 3, 5, 8, 13, 21...$ and continues into [infinity](https://en.wikipedia.org/wiki/Infinity), a beautiful consequence of a remarkably simple procedure.
+![A visual representation of the Fibonacci sequence. The side length of each new square is formed by adding the side lengths of the two immediately preceding squares, creating an inherently recursive pattern.](https://wikipedia.org/wiki/Special:Redirect/file/Fibonacci_Squares.svg)
 
----
+### The Drawback of Recursion
 
-## Part III: Flowcharts - The Cartography of Logic
+Recursive procedures are elegant, but they hide a [computational burden](https://en.wikipedia.org/wiki/Computational_complexity). **Finding a specific term in a recursive sequence requires calculating all intermediate preceding terms.** 
 
-We have talked about these procedures abstractly, but what happens when an [algorithm](https://en.wikipedia.org/wiki/Algorithm) gets wildly complicated? How do we keep track of where we are, especially when [programming computers](https://en.wikipedia.org/wiki/Computer_programming) or analyzing complex Praxis math [logic](https://en.wikipedia.org/wiki/Logic)? 
+If you are asked to find the 50th term of an arithmetic sequence explicitly, you can just plug 50 into a formula. But if you are asked to find the 50th [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_sequence), you cannot skip ahead; you must patiently calculate the 3rd, 4th, 5th, and so on, all the way to the 49th term. 
 
-We draw a map. A **[flowchart](https://en.wikipedia.org/wiki/Flowchart) is a visual representation of a step-by-step mathematical algorithm.**
-
-### The Universal Language of Shapes
-When you look at a flowchart, the geometry speaks to you before you even read the words. There is a universal standard for these diagrams:
-
-1. **The Ovals (The Boundaries):** In standard algorithmic flowcharts, **[oval](https://en.wikipedia.org/wiki/Oval) shapes indicate the start point or end point of a process.** They are the greeting and the farewell of the algorithm.
-2. **The Rectangles (The Actions):** In standard algorithmic flowcharts, **[rectangular](https://en.wikipedia.org/wiki/Rectangle) shapes represent processing steps or mathematical operations.** When you see a rectangle, it is an instruction: *add 4, square the result, divide by y.*
-3. **The Diamonds (The Crossroads):** In standard algorithmic flowcharts, **[diamond](https://en.wikipedia.org/wiki/Rhombus) shapes denote decision points or [conditional branching](https://en.wikipedia.org/wiki/Conditional_%28computer_programming%29).** They are the moments of suspense. Is the number even? Is $x$ greater than $100$? The diamond forces the algorithm to ask a question.
-
-### Branching and Looping
-When the algorithm hits a diamond, it faces a fork in the road. A **[conditional branch](https://en.wikipedia.org/wiki/Conditional_%28computer_programming%29) in a flowchart directs a process along different paths based on a [true or false](https://en.wikipedia.org/wiki/Boolean_data_type) condition.** 
-
-For example, if the diamond asks "Is $x < 10$?" and the answer is "True," the branch might send you left to add $5$. If "False," the branch might send you right to end the program. 
-
-![A conditional flowchart diagram demonstrating a logical fork: the diamond represents a true/false condition that dictates which rectangular action path the algorithm takes next.](https://wikipedia.org/wiki/Special:Redirect/file/If-Then-Else-diagram.svg)
-
-Sometimes, a branch sends you backwards, pointing an arrow to a step you've already completed. This creates a **[loop](https://en.wikipedia.org/wiki/Control_flow) in a flowchart [which] repeats a specific sequence of operations until a defined condition is met.** Loops are exactly how computer programs generate those recursive sequences we just talked about!
-
-### The Art of Tracing
-If you are faced with a flowchart on an exam, how do you solve it without losing your mind? You must become an incredibly meticulous [accountant](https://en.wikipedia.org/wiki/Accountant). 
-
-**Tracing an algorithm requires recording the current value of all variables after every individual operation.** 
-
-> **[Feynman's](https://en.wikipedia.org/wiki/Richard_Feynman) Tip for Tracing:** 
-> Never try to hold the changing values in your head. Create a "T-chart" on your scratch paper. Label columns for every variable (e.g., $X$ and $Y$). Every time you pass through a rectangle in the flowchart, cross out the old number in your table and write the new one. Keep looping and updating your table until the diamond finally tells you to take the exit path to the "End" oval!
-
-![Nobel laureate Richard Feynman, shown here during a 1964 lecture, emphasized using systematic tracking methods on paper rather than relying solely on mental calculations when solving complex logic problems.](https://wikipedia.org/wiki/Special:Redirect/file/Feynman_lecture_1964_(10481714045).jpg)
-
-### Bringing It All Together
-Math is movement. Whether you are maintaining equality across both sides of a static equation, hunting down the 14th term of a Fibonacci sequence, or tracing the true/false branches of a geometric flowchart, you are executing logic. 
-
-Trust the order of operations. Respect the shapes. Keep a rigorous tally of your variables. If you follow the procedure step-by-step, the machine will never steer you wrong.
+This brings us full circle. Whether you are substituting values into an algebraic expression, tracing variables through a looping flowchart, or building a sequence step-by-step from a base case, the fundamental skill remains exactly the same. You must respect the order of operations, maintain rigorous written records of changing values, and trust the [procedural logic](https://en.wikipedia.org/wiki/Procedural_programming) above your own intuition. That is how you master mathematical mechanics.

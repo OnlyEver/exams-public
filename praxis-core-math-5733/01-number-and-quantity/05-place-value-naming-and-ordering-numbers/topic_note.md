@@ -1,236 +1,136 @@
-# The Anatomy of Numbers: Place Value, Naming, and the Grand Number Line
+The architecture of the modern mathematical [universe](https://en.wikipedia.org/wiki/Universe) rests upon a single, magnificent constraint: the physical position of a [symbol](https://en.wikipedia.org/wiki/Symbol) on a page strictly dictates its [absolute magnitude](https://en.wikipedia.org/wiki/Absolute_value). Without this spatial grammar, tracking the [mass](https://en.wikipedia.org/wiki/Mass) of a [star](https://en.wikipedia.org/wiki/Star) or the width of an [atom](https://en.wikipedia.org/wiki/Atom) would require an endless, unwieldy invention of unique symbols. Instead, by leveraging just ten [digits](https://en.wikipedia.org/wiki/Numerical_digit) and a strict set of spatial rules, any quantity in the universe can be expressed precisely. This system transforms simple [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) into a scalable, elegant machinery, forming the foundational bedrock for the Praxis Core Mathematics exam. Master the [geometry](https://en.wikipedia.org/wiki/Geometry) of [place value](https://en.wikipedia.org/wiki/Positional_notation) and the topography of the [number line](https://en.wikipedia.org/wiki/Number_line), and you master the very language in which [mathematics](https://en.wikipedia.org/wiki/Mathematics) is written.
 
-Welcome! If you are preparing to teach [mathematics](https://en.wikipedia.org/wiki/Mathematics)—and preparing to absolutely crush the [Praxis Core Academic Skills for Educators](https://en.wikipedia.org/wiki/Praxis_test) exam—you need to do more than just memorize rules. You need to feel the machinery of numbers in your bones. 
+![The ten foundational digits of the base-10 number system used to construct any mathematical value.](https://wikipedia.org/wiki/Special:Redirect/file/Hindu%E2%80%93Arabic_numerals.svg)
 
-Think for a moment about trying to write the number "[one million](https://en.wikipedia.org/wiki/1%2C000%2C000), four hundred" in [Roman numerals](https://en.wikipedia.org/wiki/Roman_numerals). You'd be etching M's and C's into the chalkboard until your hand cramped. It’s a beautifully historic system, but a mathematically clunky one. 
+## The Architecture of Base-10: Position Dictates Power
 
-The genius of our modern mathematical language isn’t the symbols themselves; it’s the profound idea of *position*. Today, we are going to tear apart the engine of our [number system](https://en.wikipedia.org/wiki/Numeral_system), figure out how to name the parts, map them out on a physical landscape, and learn how to sort the chaos of [fractions](https://en.wikipedia.org/wiki/Fraction) and [decimals](https://en.wikipedia.org/wiki/Decimal) into perfect, harmonious order.
+We operate within the [base-10](https://en.wikipedia.org/wiki/Decimal) [number system](https://en.wikipedia.org/wiki/Numeral_system), an ingenious framework that relies heavily on a [digit's](https://en.wikipedia.org/wiki/Numerical_digit) location to impart meaning. It is not enough to know *what* a digit is; you must know *where* it is. 
 
-Let’s dive in.
+The fundamental rule of this system is scaling. **The [base-10](https://en.wikipedia.org/wiki/Decimal) number system dictates that each [place value](https://en.wikipedia.org/wiki/Positional_notation) is ten times the value of the place immediately to the right.** Consequently, if you reverse your gaze, the inverse is equally true: **each place value is one-tenth the value of the place immediately to the left in the base-10 number system.** 
 
----
+When dealing strictly with an [integer](https://en.wikipedia.org/wiki/Integer)—a [whole number](https://en.wikipedia.org/wiki/Integer) with no [fractional](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) components—the system anchors itself on the right. **In an integer, the rightmost digit occupies the ones place.** From this anchor, every shift to the left magnifies the value by a [power of ten](https://en.wikipedia.org/wiki/Power_of_10). **Moving to the left from the ones place, the [sequence](https://en.wikipedia.org/wiki/Sequence) of place values is tens, hundreds, thousands, ten-thousands, and hundred-thousands.**
 
-## 1. The Magic of the Base-10 Number System
+| Hundred-Thousands | Ten-Thousands | Thousands | Hundreds | Tens | Ones |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| $100,000$ | $10,000$ | $1,000$ | $100$ | $10$ | $1$ |
 
-Our numbering system is an elegant piece of technology known as the [base-10 system](https://en.wikipedia.org/wiki/Decimal). Why ten? Probably because humans have ten fingers. But the true power of this system is that the exact same symbol—say, a "7"—can represent seven apples, seventy apples, or seven-thousandths of an apple, depending entirely on where you park it.
+> **The Principle of Total Value:** A specific digit's total mathematical value is determined by [multiplying](https://en.wikipedia.org/wiki/Multiplication) the digit by the specific place value the digit occupies. 
 
-![The ten digits on human hands are widely considered the physical, anatomical origin of our base-10 numerical system.](https://wikipedia.org/wiki/Special:Redirect/file/Two_hand%2C_ten_fingers.jpg)
+If you encounter the number $407,250$, the digit $4$ is not merely "four." It resides in the hundred-thousands place. Its true mathematical value is $4 \times 100,000 = 400,000$. The $7$ represents $7 \times 1,000 = 7,000$. 
 
-### The Whole Number Hierarchy
-Let’s start with solid, whole [integers](https://en.wikipedia.org/wiki/Integer). 
+Notice the zeros in $407,250$. What happens to the ten-thousands place or the ones place? This is where the mathematical concept of [zero](https://en.wikipedia.org/wiki/0) reveals its genius. **Zero functions as a [placeholder](https://en.wikipedia.org/wiki/Positional_notation) in the place value system to maintain the correct mathematical position of other non-zero digits.** Without zero standing guard in the ten-thousands column, the $4$ would slip to the right, fundamentally destroying the number's magnitude, collapsing $407,250$ into $47,250$. Zero is the silent scaffolding holding the base-10 structure intact.
 
-> **Core Principle:** **In an integer, the rightmost digit occupies the [ones place](https://en.wikipedia.org/wiki/Positional_notation).**
+## The Decimal Point: Bridging the Whole and the Fragmented
 
-This is your anchor. If you have the integer $4,532$, that $2$ at the extreme right is in the ones place. From here, we walk to the left. 
+The base-10 system does not halt at the ones place. The physical world is full of partial quantities—half a [gallon](https://en.wikipedia.org/wiki/Gallon) of fuel, a quarter-[inch](https://en.wikipedia.org/wiki/Inch) drill bit, or precisely \$1.99. To represent the [continuum](https://en.wikipedia.org/wiki/Continuum_%28mathematics%29) of fractional values within this strict base-10 architecture, mathematics employs a [symmetry-breaker](https://en.wikipedia.org/wiki/Symmetry_breaking). 
 
-As you step to the left, the magnitude inflates rapidly. **Moving to the left from the ones place, the sequence of [place values](https://en.wikipedia.org/wiki/Positional_notation) is tens, hundreds, thousands, ten-thousands, and hundred-thousands.** 
+**The [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) is a mathematical symbol that separates the whole number portion of a value from the fractional portion.** 
 
-But *why* does it inflate? Because of a strict, governing law of our mathematical universe: 
+When we cross the threshold of the decimal point to the right, we enter the realm of fractions governed by powers of ten. **The place value immediately to the right of the decimal point is the tenths place.** To understand this intuitively, remember that **the tenths place represents fractions with a [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) of ten.** A value of $0.3$ is exactly equal to $\frac{3}{10}$. 
 
-> **The base-10 number system dictates that each place value is ten times the value of the place immediately to the right.**
+As we continue scaling downward, the system's rule remains unbroken: every step right is one-tenth of the step before it. **Moving to the right from the tenths place, the sequence of decimal place values is hundredths, thousandths, and ten-thousandths.**
 
-Every step left is a [multiplication](https://en.wikipedia.org/wiki/Multiplication) by ten. A $1$ in the tens place is worth ten times more than a $1$ in the ones place. 
+| Ones | Decimal Point | Tenths | Hundredths | Thousandths | Ten-Thousandths |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| $1$ | $\mathbf{.}$ | $\frac{1}{10}$ | $\frac{1}{100}$ | $\frac{1}{1,000}$ | $\frac{1}{10,000}$ |
 
-![Visualizing the base-10 system: Each step to the left represents a ten-fold increase in mathematical magnitude, rapidly scaling from a single unit up to one million.](https://wikipedia.org/wiki/Special:Redirect/file/Visualisation_1_million.svg)
+There is a fascinating and highly practical consequence to the rightward bound of decimals: **appending [trailing zeros](https://en.wikipedia.org/wiki/Trailing_zero) to the extreme right of a decimal number's fractional part does not alter the decimal's overall mathematical value.** 
 
-### The Missing Hero: Zero
-Imagine I want to write the number "five hundred and two." I put a $5$ in the hundreds place, and a $2$ in the ones place. But if I just push them together, I get $52$. The $5$ has lost its power; it slipped into the tens place!
+Consider the number $0.5$. It represents five tenths ($\frac{5}{10}$). If we append a trailing zero to write $0.50$, it now technically reads as fifty hundredths ($\frac{50}{100}$). Because $\frac{50}{100}$ mathematically [reduces](https://en.wikipedia.org/wiki/Irreducible_fraction) exactly to $\frac{5}{10}$, the overall value remains untouched. A trailing zero simply slices the same quantity into smaller, more numerous theoretical fragments without changing the total amount. 
 
-This is where the greatest invention in mathematical history enters the stage: [Zero](https://en.wikipedia.org/wiki/0). **Zero functions as a [placeholder](https://en.wikipedia.org/wiki/Positional_notation) in the place value system to maintain the correct mathematical position of other non-zero digits.** By writing $502$, zero bravely stands in the tens place, holding the physical space so that the $5$ remains securely parked in the hundreds place. It represents "nothing" in value, but "everything" in structure.
+## Translating Symbols to Speech: Naming Numbers
 
-### Calculating True Value
-How do we know what a number is actually worth when we look at it? It’s a simple translation. 
+Mathematics is not purely visual; it must be spoken. Because position dictates value, the way we verbalize numbers requires profound precision.
 
-**A specific digit's total mathematical value is determined by multiplying the digit by the specific place value the digit occupies.** 
+The most common error in spoken mathematics is the casual misuse of the word "and". You will often hear people say "three hundred and forty-two." In strictly formal academic mathematics, this is incorrect. **To express a decimal number in words, the decimal point is read aloud using the word 'and'.** The word "and" is strictly reserved to signal the boundary between whole numbers and fractions. 
 
-If you see an $8$ in the ten-thousands place, you don't just have eight items. You do the [mental math](https://en.wikipedia.org/wiki/Mental_calculation): $8 \times 10,000 = 80,000$. The digit tells you *how many*; the position tells you *of what*.
+How do we verbalize the fractional components themselves? **To express the fractional part of a decimal number in words, state the number as a whole number followed by the place value name of the rightmost digit.**
 
-### Crossing the Mirror: Decimals
-What happens if we reverse our journey? If every step left multiplies by ten, then every step right must divide by ten. 
+Let us practice translating the number $204.053$:
+1. Read the whole number portion: *Two hundred four* (notice the absence of "and").
+2. Read the decimal point: *and*
+3. Read the fractional part as if it were a whole number: *fifty-three*
+4. Append the place value of the rightmost digit (the 3 is in the thousandths place): *thousandths*
 
-> **Each place value is one-tenth the value of the place immediately to the left in the base-10 number system.**
+Therefore, $204.053$ is properly spoken as: **Two hundred four and fifty-three thousandths.**
 
-You are in the thousands... step right to the hundreds... step right to the tens... step right to the ones. You have reached the edge of the integers. But what if we step right *again*? 
+## The Number Line: A Topography of Value
 
-We hit a boundary wall: the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator). 
+To truly grasp the comparative magnitude of numbers, we map them onto a [continuous](https://en.wikipedia.org/wiki/Continuous_function) [one-dimensional space](https://en.wikipedia.org/wiki/One-dimensional_space). **A horizontal number line is a visual representation where numerical values strictly increase from left to right.** In perfect [symmetry](https://en.wikipedia.org/wiki/Symmetry), **numerical values strictly decrease from right to left on a horizontal number line.** 
 
-**The decimal point is a mathematical symbol that separates the whole number portion of a value from the [fractional portion](https://en.wikipedia.org/wiki/Fraction).** 
+Every mathematical map requires an [origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29)—a reference point from which all [distance](https://en.wikipedia.org/wiki/Distance) and [direction](https://en.wikipedia.org/wiki/Direction_%28geometry%29) are measured. That origin is zero. Because zero represents the sheer absence of magnitude, **the number zero is classified as neither positive nor negative.** It is the great divide. 
 
-When you cross to the right of the decimal point, you enter the microscopic world of fractions. 
-* **The place value immediately to the right of the decimal point is the tenths place.** Exactly as it sounds, **the tenths place represents fractions with a [denominator](https://en.wikipedia.org/wiki/Fraction) of ten** ($1/10$).
-* Keep walking into the microscopic. **Moving to the right from the tenths place, the sequence of decimal place values is hundredths, thousandths, and ten-thousandths.** 
+From zero, the number line branches into two distinct realms:
+*   **[Positive numbers](https://en.wikipedia.org/wiki/Sign_%28mathematics%29) are always located to the right of zero on a horizontal number line.** Because value increases as we move right, a positive number moves toward infinite expansion.
+*   **[Negative numbers](https://en.wikipedia.org/wiki/Negative_number) are always located to the left of zero on a horizontal number line.** Because value decreases as we move left, a negative number moves toward infinite debt or deficit.
 
-| Base-10 Direction | Place Value Name | Mathematical Value |
-| :--- | :--- | :--- |
-| $\leftarrow$ Left | Ten-Thousands | $10,000$ |
-| $\leftarrow$ Left | Thousands | $1,000$ |
-| $\leftarrow$ Left | Hundreds | $100$ |
-| $\leftarrow$ Left | Tens | $10$ |
-| **Anchor** | **Ones** | **$1$** |
-| **Boundary** | **Decimal Point** | **.** |
-| $\rightarrow$ Right | Tenths | $1/10$ |
-| $\rightarrow$ Right | Hundredths | $1/100$ |
-| $\rightarrow$ Right | Thousandths | $1/1000$ |
-| $\rightarrow$ Right | Ten-Thousandths | $1/10000$ |
+![On a horizontal number line, zero serves as the neutral origin separating positive values on the right and negative values on the left.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
 
----
+This structural topography leads to an immutable law of comparison: **Any positive number is strictly greater than any negative number.** A value of $0.0001$ is structurally to the right of—and therefore greater than—a value of $-1,000,000$.
 
-## 2. The Art of Translation: Naming Numbers
+### The Counterintuitive Nature of Negatives
 
-Knowing the mechanics is one thing, but as an educator, you have to *speak* the mathematics aloud. And here is where everyday language often betrays strict mathematical truth.
+When students look at a negative number, their brains often misinterpret the magnitude because they are reacting to the sheer size of the digit itself. This "size" is known as [absolute value](https://en.wikipedia.org/wiki/Absolute_value)—the raw distance a number lies from zero, regardless of direction. 
 
-Have you ever heard someone say, "One hundred and fifty"? Mathematically, that's a crime! In the precise language of mathematics, the word "and" is sacred. 
+![Absolute value represents the raw distance of a number from zero on the number line, independent of its positive or negative direction.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
 
-> **To express a decimal number in words, the decimal point is read aloud using the word 'and'.**
+Here is the critical [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift) required for negatives: **For negative numbers, the number possessing the larger absolute value represents the smaller overall mathematical value.** 
 
-The word "and" is the verbal warning that we are leaving whole numbers and entering the world of fractions. $150$ is simply "one hundred fifty." 
+Think of absolute value as the weight of an anchor. A heavier anchor drags you deeper down into the [ocean](https://en.wikipedia.org/wiki/Ocean). On a horizontal layout, **a negative number with a larger absolute value is positioned further to the left on a horizontal number line than a negative number with a smaller absolute value.** 
 
-So, how do we read the tiny, fractured pieces to the right of the decimal? Take the number $0.345$. 
-**To express the fractional part of a decimal number in words, state the number as a whole number followed by the place value name of the rightmost digit.** 
+Consider $-5$ and $-50$. The absolute value of $-50$ is $50$, which is undeniably larger than the absolute value of $-5$. But because it is negative, that "heavier weight" pushes it much further to the left on the number line. Therefore, $-50 < -5$.
 
-1. Look at the chunk of digits: $345$. Read it normally: "Three hundred forty-five."
-2. Look at the rightmost digit: The $5$ is sitting in the *thousandths* place.
-3. Combine them: "Three hundred forty-five thousandths."
+## The Hierarchy of Quantity: Ordering Mixed Numbers
 
-Let's put it all together with the number **$42.017$**:
-* Whole number: "Forty-two"
-* Decimal point: "AND"
-* Fractional part: The $7$ is rightmost, in the thousandths place. The digits read "seventeen." So, "seventeen thousandths."
-* **Final Translation:** "Forty-two and seventeen thousandths."
+The Praxis Core will rarely ask you to compare clean, uniform lists of integers. Instead, you will be handed a messy [ecosystem](https://en.wikipedia.org/wiki/Ecosystem) of positive fractions, negative decimals, and integers, and asked to impose order on them. 
 
----
+![A number line can act as a universal map, organizing a mixed ecosystem of integers, fractions, and decimals by their relative magnitudes.](https://wikipedia.org/wiki/Special:Redirect/file/Number_line.png)
 
-## 3. The Grand Landscape: The Number Line
+The universal, unbreakable strategy is standardizing the data. **To effectively compare a mixed [set](https://en.wikipedia.org/wiki/Set_%28mathematics%29) of fractions and decimals, convert all the values into a single common numerical format.** You cannot easily evaluate if $\frac{3}{8}$ is greater than $0.35$ by simply staring at them; their architectures are too distinct. 
 
-Now that we have our parts built and named, we need a map to see where they live. In mathematics, our map is the [number line](https://en.wikipedia.org/wiki/Number_line). 
+### Method 1: Converting to Decimals
 
-**A horizontal number line is a visual representation where numerical values strictly increase from left to right.** 
-Imagine this as a [timeline](https://en.wikipedia.org/wiki/Timeline) of human history, or a [thermometer](https://en.wikipedia.org/wiki/Thermometer) laid flat. If you walk to the right, values grow larger, warmer, wealthier. Conversely, **numerical values strictly decrease from right to left on a horizontal number line.**
+For many, standardizing into decimals is the most intuitive approach. **A fraction can be mathematically converted into a decimal by [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the fraction's numerator by the fraction's denominator.** 
 
-### The Origin: Zero
-Sitting in the exact dead-center of this infinite highway is our old friend, Zero. It acts as the ultimate border crossing. 
-**The number zero is classified as neither positive nor negative.** It is perfectly neutral—the complete absence of value.
-
-### The Hemispheres: Positive and Negative
-To the right of zero lies the territory of assets and growth. **[Positive numbers](https://en.wikipedia.org/wiki/Positive_real_numbers) are always located to the right of zero on a horizontal number line.** 
-
-To the left of zero lies the mirror universe of deficits, debts, and freezing temperatures. **[Negative numbers](https://en.wikipedia.org/wiki/Negative_number) are always located to the left of zero on a horizontal number line.**
-
-![A standard horizontal number line illustrating that positive integers strictly extend to the right of zero (blue), while negative integers strictly extend to the left (red).](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
-
-Because of the supreme law of the number line (values *must* increase left to right), we arrive at an inescapable truth:
-> **Any positive number is strictly greater than any negative number.**
-
-It does not matter how intimidating a negative number looks. $-1,000,000$ is located far, far to the left. A tiny positive decimal like $0.0001$ is to the right of zero. Therefore, $0.0001$ is mathematically greater than a million dollars of debt!
-
----
-
-## 4. The Great Equalizer: Comparing and Ordering Numbers
-
-The Praxis exam isn't just going to hand you a neatly sorted list of integers. They are going to throw a chaotic mathematical soup at you: a jumble of positive fractions, negative decimals, and whole numbers, and ask you to rank them from least to greatest. 
-
-How do we tame this chaos? We use the great equalizer.
-
-### Strategy 1: The Universal Language
-**To effectively compare a mixed set of fractions and decimals, convert all the values into a single common numerical format.** 
-
-It is incredibly difficult to compare $3/8$ to $0.41$ just by looking at them. It’s like comparing English to French. You need them speaking the same language. Usually, converting everything into decimals is the most foolproof method.
-
-How do we force a fraction to become a decimal? Remember that a fraction bar is simply a [division symbol](https://en.wikipedia.org/wiki/Division_%28mathematics%29) in disguise. 
-**A fraction can be mathematically converted into a decimal by dividing the fraction's [numerator](https://en.wikipedia.org/wiki/Fraction) by the fraction's denominator.** 
-To convert $3/8$, you set up the division: $3 \div 8 = 0.375$. Now it's a decimal, ready to be compared!
-
-### Strategy 2: Lining up Decimals
-Let’s say you’ve successfully converted all your positive numbers into decimals. You are staring at $0.41$ and $0.375$. Which is bigger? 
-
-Do *not* just assume the longer string of digits is larger ($375$ looks bigger than $41$, but it's a trap!).
+If you wish to compare $\frac{3}{8}$ to $0.35$:
+1. Divide $3$ by $8$. 
+2. $3 \div 8 = 0.375$. 
+3. You are now comparing $0.375$ to $0.35$.
 
 **When comparing two positive decimal numbers, align the decimal points vertically and sequentially compare the digits from left to right.** 
 
-Let's stack them:
-$0.41$
+Let us align them:
 $0.375$
+$0.350$  *(Remember, appending trailing zeros does not alter the mathematical value!)*
 
-Start at the left (the tenths place). The top number has a $4$. The bottom number has a $3$. Stop right there! Four tenths is greater than three tenths. Therefore, $0.41 > 0.375$. 
+Scanning from left to right: The ones places ($0$) are identical. The tenths places ($3$) are identical. In the hundredths place, the $7$ is greater than the $5$. The comparison halts here. The number $0.375$ is greater than $0.350$, meaning $\frac{3}{8} > 0.35$.
 
-What if the numbers look uneven, and it bothers you visually? You can pad the empty spaces. 
-**Appending trailing zeros to the extreme right of a decimal number's fractional part does not alter the decimal's overall mathematical value.** 
-Writing $0.41$ as $0.410$ changes absolutely nothing about its mathematical weight. It just visually fills out the thousandths place so it neatly matches the length of $0.375$. 
+### Method 2: Comparing via Common Denominators
 
-### Strategy 3: Comparing Fractions Directly
-Sometimes, you might not *want* to divide. If the test gives you $5/12$ and $7/12$, you don't need decimals. 
+If you prefer to keep values in their fractional form, the base-10 rules of decimal place value no longer apply. You must synthesize a new shared scale. **To compare fractions without converting the fractions into decimals, rewrite the fractions so all the fractions share a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator).**
 
-**To compare fractions without converting the fractions into decimals, rewrite the fractions so all the fractions share a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator).** 
+Imagine you must compare $\frac{2}{3}$ and $\frac{5}{8}$. By finding the [lowest common multiple](https://en.wikipedia.org/wiki/Least_common_multiple) of the denominators $3$ and $8$ (which is $24$), we scale both fractions:
+*   $\frac{2}{3} = \frac{16}{24}$
+*   $\frac{5}{8} = \frac{15}{24}$
 
-When the denominators are identical, the "slices of the pie" are the exact same size. The game simply becomes: who has more slices? 
-**When comparing positive fractions that share a common positive denominator, the fraction containing the larger numerator possesses the greater overall value.** 
-Clearly, $7$ slices out of $12$ ($7/12$) is greater than $5$ slices out of $12$ ($5/12$).
+Now that the fragments are cut to the exact same size (twenty-fourths), we simply evaluate the count of those fragments. **When comparing positive fractions that share a common positive denominator, the fraction containing the larger numerator possesses the greater overall value.** Because $16$ is greater than $15$, $\frac{16}{24} > \frac{15}{24}$, which proves $\frac{2}{3} > \frac{5}{8}$.
 
-### Strategy 4: Surviving the Upside-Down (Negative Numbers)
-This is where intelligent students make their most common mistakes. The negative side of the number line plays tricks on the human brain. 
+Beware the trap of negative fractions, however. When the fractions sit to the left of zero, the rule mirrors our logic of absolute values. **When comparing negative fractions that share a common positive denominator, the fraction containing the more negative numerator possesses the lesser overall value.**
 
-To understand negatives, we have to talk about **[absolute value](https://en.wikipedia.org/wiki/Absolute_value)**. Absolute value is simply a number's physical distance from zero, stripping away the negative sign. The absolute value of $-99$ is $99$. 
+Compare $-\frac{3}{4}$ and $-\frac{4}{5}$.
+1. Find a common positive denominator: $20$.
+2. Scale the fractions: $-\frac{3}{4}$ becomes $\frac{-15}{20}$. $-\frac{4}{5}$ becomes $\frac{-16}{20}$.
+3. Evaluate the numerators: $-16$ has a larger absolute value than $-15$, meaning it is positioned further to the left on the number line. 
+4. Therefore, $-16$ is *less* than $-15$. 
+5. Conclusion: $-\frac{4}{5} < -\frac{3}{4}$.
 
-![Absolute value visually represents a number's physical distance from zero on the number line, completely independent of its positive or negative direction.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
+### The Capstone: Putting It All Together
 
-If someone says you have a "larger absolute value" in the negative realm, it means you have a *larger debt*. Is having a larger debt a good thing? No! It makes you poorer. 
+To synthesize these concepts on the exam, approach any mixed list [algorithmically](https://en.wikipedia.org/wiki/Algorithm):
+1. Divide the list immediately into negatives and positives. (Negatives are always strictly less than positives).
+2. Look for zero as your natural boundary.
+3. Convert the positive [subset](https://en.wikipedia.org/wiki/Subset) into a uniform format (e.g., all decimals aligned vertically) to order them from least to greatest.
+4. Convert the negative subset into a uniform format, keeping a vigilant eye on absolute value: the negative with the largest numerical look is mathematically the smallest. 
+5. Merge the lists from left (most negative) to right (most positive).
 
-> **For negative numbers, the number possessing the larger absolute value represents the smaller overall mathematical value.**
-
-$-99$ has a larger absolute value than $-2$. But because it represents a deeper hole, $-99$ is actually the *smaller* number mathematically. 
-
-Think about our map. 
-**A negative number with a larger absolute value is positioned further to the left on a horizontal number line than a negative number with a smaller absolute value.** And what is the supreme rule of the number line? Further left *always* means smaller. 
-
-This counter-intuitive rule applies to fractions too! 
-**When comparing negative fractions that share a common positive denominator, the fraction containing the more negative numerator possesses the lesser overall value.** 
-Between $-7/8$ and $-3/8$, the $-7$ is more negative. It represents a larger debt of eighths. Therefore, $-7/8$ is *less* than $-3/8$.
-
----
-
-## Synthesis: A Praxis Masterclass Application
-
-Let’s apply every single rule we just learned to a classic Praxis Core scenario. 
-
-**Question:** Order the following numbers from least to greatest: 
-$-0.6, \quad 5/8, \quad -3/4, \quad 0.65$
-
-**Step 1: Separate the hemispheres.**
-We know instantly that the negatives are strictly less than the positives. We can split this into two isolated fights:
-The Negatives: $-0.6$ and $-3/4$
-The Positives: $5/8$ and $0.65$
-
-**Step 2: Single common numerical format.**
-Let’s convert the fractions to decimals using division ($numerator \div denominator$).
-$-3/4$ becomes $-0.75$.
-$5/8$ becomes $0.625$.
-
-Now our full list looks like this: 
-$-0.6, \quad 0.625, \quad -0.75, \quad 0.65$
-
-**Step 3: Order the Negatives (The "Upside-Down" Rules)**
-We have $-0.6$ and $-0.75$. Let's append trailing zeros to make them the same length: 
-$-0.60$ and $-0.75$. 
-Which has the *larger absolute value*? $0.75$ is a larger [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) than $0.60$. Because they are negative, the larger absolute value is the *smaller overall mathematical value* (it sits further left on the number line). 
-So, **$-0.75$ is less than $-0.60$**. 
-
-**Step 4: Order the Positives (The Vertical Alignment)**
-We have $0.625$ and $0.65$. Let's align them and append trailing zeros.
-$0.625$
-$0.650$
-Compare left to right: The tenths place is a tie ($6$). Move to the hundredths place: $2$ vs $5$. The $5$ wins! 
-So, **$0.625$ is less than $0.650$**.
-
-**Step 5: The Final Landscape**
-Combining our two halves, from extreme left (least) to right (greatest):
-$-0.75, \quad -0.60, \quad 0.625, \quad 0.650$
-
-Convert back to the original test formats to lock in your answer:
-**$-3/4, \quad -0.6, \quad 5/8, \quad 0.65$**
-
----
-
-### Final Thoughts
-Mastering place value, naming conventions, and the number line isn't just about passing the Praxis Core. It's about earning your license to pilot the machinery of mathematics. When you step into a classroom to teach this to a future generation, you won't just be handing them a list of memorized, disconnected rules. You will be handing them a beautiful, logically rigorous, and infinitely powerful language. 
-
-Go out there and show them the magic.
+By treating numbers not as arbitrary scratches on a page, but as exact locations within a meticulously structured base-10 space, you dissolve the anxiety of calculation. Place value is the ultimate mathematical [compass](https://en.wikipedia.org/wiki/Compass). Trust the compass, respect the spatial grammar, and ordering any conceivable list of numbers becomes a triumph of pure [logic](https://en.wikipedia.org/wiki/Logic).

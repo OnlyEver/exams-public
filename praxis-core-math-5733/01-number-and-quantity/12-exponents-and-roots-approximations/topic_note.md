@@ -1,147 +1,97 @@
-Welcome! Pull up a chair. Today, we’re going to explore a tremendously powerful piece of mathematical machinery: **[Exponents](https://en.wikipedia.org/wiki/Exponentiation) and [Roots](https://en.wikipedia.org/wiki/nth_root)**. 
+[Multiplication](https://en.wikipedia.org/wiki/Multiplication) is simply a mechanism for accelerated [addition](https://en.wikipedia.org/wiki/Addition), and [exponential growth](https://en.wikipedia.org/wiki/Exponential_growth) is a mechanism for accelerated multiplication. When we describe the vast volume of a [star](https://en.wikipedia.org/wiki/Star) or the microscopic radius of a [cellular nucleus](https://en.wikipedia.org/wiki/Cell_nucleus), we do not write out endless strings of zeros. Instead, we package these quantities into an elegant shorthand. An **[exponent](https://en.wikipedia.org/wiki/Exponentiation)** indicates the number of times a **[base](https://en.wikipedia.org/wiki/Radix)** is multiplied by itself, where the base is the number being multiplied repeatedly in an [exponential expression](https://en.wikipedia.org/wiki/Exponentiation). However, reality refuses to restrict itself to clean, [whole numbers](https://en.wikipedia.org/wiki/Integer). When we reverse this multiplication process, we inevitably uncover values that refuse to resolve into neat [fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29), extending infinitely into [decimals](https://en.wikipedia.org/wiki/Decimal) that never terminate or repeat. Mastering both the strict [algebraic](https://en.wikipedia.org/wiki/Algebra) rules of [integer](https://en.wikipedia.org/wiki/Integer) exponents and the intuitive art of [approximating](https://en.wikipedia.org/wiki/Approximation) these boundless [irrational numbers](https://en.wikipedia.org/wiki/Irrational_number) forms the foundation of mathematical [fluency](https://en.wikipedia.org/wiki/Fluency).
 
-If you want to understand how the universe scales up—how [bacteria multiply](https://en.wikipedia.org/wiki/Bacterial_growth), how [compound interest](https://en.wikipedia.org/wiki/Compound_interest) balloons, or how [gravity](https://en.wikipedia.org/wiki/Gravity) behaves over [astronomical distances](https://en.wikipedia.org/wiki/Distance_%28astronomy%29)—you need exponents. And if you want to reverse that process, scaling things back down to their fundamental origins, you need roots. 
+![Exponents provide a compact shorthand for expressing the immense volumes of hypergiant stars compared to smaller stellar bodies.](https://wikipedia.org/wiki/Special:Redirect/file/Star_Size_Comparison_2024_Update.jpg)
 
-![Exponential growth curves illustrate how applying exponents scales values upwards rapidly, accurately modeling real-world phenomena like compounding interest and bacterial multiplication.](https://wikipedia.org/wiki/Special:Redirect/file/Exponential.svg)
+![Conversely, negative exponents allow us to concisely describe microscopic structures, such as the architecture of a human cell nucleus.](https://wikipedia.org/wiki/Special:Redirect/file/Diagram_human_cell_nucleus.svg)
 
-For the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test), you don’t just need to memorize a list of disconnected rules. You need to understand *how the machinery works*. When you understand the "why," the "how" becomes trivial. Let’s dive in.
+## The Architecture of [Exponents](https://en.wikipedia.org/wiki/Exponentiation)
 
----
+[Mathematics](https://en.wikipedia.org/wiki/Mathematics) is deeply concerned with [patterns](https://en.wikipedia.org/wiki/Pattern), and the rules of exponents are simply codifications of [counting](https://en.wikipedia.org/wiki/Counting). When we manipulate exponential expressions, we are performing [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) on the *number of times* a base is multiplied.
 
-## Part 1: The Anatomy of an Exponent
+To navigate this shorthand efficiently, we rely on five fundamental laws. Rather than [memorizing](https://en.wikipedia.org/wiki/Memorization) them blindly, observe how they naturally emerge from the definition of multiplication.
 
-Let’s start with the basics. What exactly are we looking at when we see a [number](https://en.wikipedia.org/wiki/Number) written with a tiny number floating to its top right, like $5^3$?
+> **The Product Rule:** Multiplying two expressions with the same base involves [adding](https://en.wikipedia.org/wiki/Addition) their exponents.
+> *Why it works:* $x^2 \cdot x^3 = (x \cdot x) \cdot (x \cdot x \cdot x)$. We simply count five $x$’s, so the result is $x^{2+3} = x^5$.
 
-> **The Blueprint:** An **[exponent](https://en.wikipedia.org/wiki/Exponentiation)** indicates the number of times a **[base](https://en.wikipedia.org/wiki/Base_%28exponentiation%29)** is [multiplied](https://en.wikipedia.org/wiki/Multiplication) by itself. The **base** is the number being multiplied repeatedly in an [exponential expression](https://en.wikipedia.org/wiki/Exponentiation). 
+> **The Quotient Rule:** [Dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) two expressions with the same base involves [subtracting](https://en.wikipedia.org/wiki/Subtraction) the exponent of the [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) from the exponent of the [numerator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29).
+> *Why it works:* $\frac{x^5}{x^2} = \frac{x \cdot x \cdot x \cdot x \cdot x}{x \cdot x}$. Two factors of $x$ cancel out, leaving $x^{5-2} = x^3$.
 
-In $5^3$, $5$ is the base, and $3$ is the exponent. The exponent is simply a [shorthand](https://en.wikipedia.org/wiki/Shorthand) set of instructions. It says: *"Take the base, write it out three times, and multiply."* So, $5^3$ is just an elegant way of writing $5 \times 5 \times 5$. 
+> **The Power of a Power Rule:** Raising an exponential expression to another power involves multiplying the two exponents.
+> *Why it works:* $(x^2)^3 = (x^2) \cdot (x^2) \cdot (x^2) = x^{2+2+2} = x^{2 \cdot 3} = x^6$.
 
-### The Grand Rules of the Exponent Game
+> **The Power of a Product Rule:** A [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) raised to an exponent is equal to each individual factor raised to that exponent.
+> *Why it works:* $(xy)^3 = (xy)(xy)(xy) = (x \cdot x \cdot x)(y \cdot y \cdot y) = x^3 y^3$.
 
-Because exponents are just shorthand for [multiplication](https://en.wikipedia.org/wiki/Multiplication), they follow a very strict, logical set of rules. Think of these rules as the "[grammar](https://en.wikipedia.org/wiki/Grammar)" of mathematical scaling. 
+> **The Power of a Quotient Rule:** A fraction raised to an exponent is equal to the numerator raised to the exponent divided by the denominator raised to the exponent.
+> *Why it works:* $(\frac{x}{y})^3 = \frac{x}{y} \cdot \frac{x}{y} \cdot \frac{x}{y} = \frac{x^3}{y^3}$.
 
-| The Rule | How It Works | Example |
-| :--- | :--- | :--- |
-| **Product Rule** | The **[product rule for exponents](https://en.wikipedia.org/wiki/Exponentiation)** states that multiplying two expressions with the same base involves [adding](https://en.wikipedia.org/wiki/Addition) their exponents. | $x^2 \times x^3 = x^{2+3} = x^5$ |
-| **Quotient Rule** | The **[quotient rule for exponents](https://en.wikipedia.org/wiki/Exponentiation)** states that [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) two expressions with the same base involves [subtracting](https://en.wikipedia.org/wiki/Subtraction) the exponent of the [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) from the exponent of the [numerator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29). | $\frac{x^5}{x^2} = x^{5-2} = x^3$ |
-| **Power of a Power** | The **[power of a power rule](https://en.wikipedia.org/wiki/Exponentiation)** states that raising an exponential expression to another power involves multiplying the two exponents. | $(x^2)^3 = x^{2 \times 3} = x^6$ |
-| **Power of a Product** | The **[power of a product rule](https://en.wikipedia.org/wiki/Exponentiation)** states that a [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) raised to an exponent is equal to each individual factor raised to that exponent. | $(x \cdot y)^3 = x^3 \cdot y^3$ |
-| **Power of a Quotient** | The **[power of a quotient rule](https://en.wikipedia.org/wiki/Exponentiation)** states that a [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) raised to an exponent is equal to the numerator raised to the exponent divided by the denominator raised to the exponent. | $(\frac{x}{y})^3 = \frac{x^3}{y^3}$ |
+### Descending into [Zero](https://en.wikipedia.org/wiki/Zero) and Negative Exponents
 
-Look closely at the **Product Rule**. If I have $x^2$ (which is $x \times x$) and I multiply it by $x^3$ (which is $x \times x \times x$), I literally just have five $x$'s lined up in a row being multiplied together. Hence, $x^5$. [Mathematics](https://en.wikipedia.org/wiki/Mathematics) isn't magic; it's just meticulous [bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping)!
+What happens when we run out of numbers to multiply? Consider a descending [sequence](https://en.wikipedia.org/wiki/Sequence) of base 2: $2^3 = 8$, $2^2 = 4$, $2^1 = 2$. Each step down halves the value. If we continue this logical progression, $2^0$ must be half of $2$, which is $1$. 
 
-### The Quirks: Zero and Negative Exponents
+This leads to a universal truth: **Any non-zero number raised to the [power of zero](https://en.wikipedia.org/wiki/Zero_to_the_power_of_zero) is exactly equal to one.** 
 
-Now, what happens if we break away from our intuitive [counting numbers](https://en.wikipedia.org/wiki/Natural_number)? Let's push the machine and see what it does.
+There is, however, a critical mathematical boundary. **The number 0 raised to the power of 0 is a mathematically [undefined expression](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29).** We cannot [divide zero by zero](https://en.wikipedia.org/wiki/Division_by_zero) to maintain a pattern, so $0^0$ shatters the rules and remains undefined.
 
-**The Zero Exponent**
-What on earth does it mean to multiply a number by itself *[zero](https://en.wikipedia.org/wiki/0)* times? If you just guess, you might say zero. But let’s use the [quotient](https://en.wikipedia.org/wiki/Quotient) rule we just learned to find the truth. 
+![Attempting to calculate a mathematically undefined expression, such as dividing by zero to justify a pattern, breaks fundamental arithmetic rules and causes calculators to halt.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
 
-Imagine you have $\frac{5^3}{5^3}$. 
-Any number divided by itself is $1$. So, $\frac{125}{125} = 1$.
-But if we apply the **Quotient Rule**, we subtract the exponents: $3 - 3 = 0$. So, the result is $5^0$.
-Because both approaches must be mathematically true, $5^0$ *must* equal $1$. 
+If we step further below zero, we encounter negative exponents. Continuing our halving pattern from $2^0 = 1$, the next step is $2^{-1} = \frac{1}{2}$, and then $2^{-2} = \frac{1}{4}$. Thus, **a base raised to a negative exponent is equal to one divided by the base raised to the corresponding positive exponent.** An expression like $x^{-n}$ is simply a request for division rather than multiplication: $x^{-n} = \frac{1}{x^n}$.
 
-> **The Zero Rule:** Any [non-zero number](https://en.wikipedia.org/wiki/Non-zero) raised to the power of zero is exactly equal to [one](https://en.wikipedia.org/wiki/1). 
+### Adding and Subtracting Exponential Terms
 
-Ah, but did you notice the caveat? *Non-zero number.* What happens if we ask the universe to evaluate [$0^0$](https://en.wikipedia.org/wiki/Zero_to_the_power_of_zero)? The rules of exponents demand it should be $1$, but the rules of zero demand it should be $0$. The math breaks down in a spectacular [contradiction](https://en.wikipedia.org/wiki/Contradiction)! Therefore:
+Multiplication and division flow effortlessly through exponents because exponents *are* multiplication. Addition and subtraction, however, require far more caution. 
 
-> **Warning:** The number 0 raised to the power of 0 is a mathematically [undefined expression](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29). Do not let the exam trick you on this!
+When dealing with addition, **terms with identical bases and identical exponents can be combined by adding or subtracting their [coefficients](https://en.wikipedia.org/wiki/Coefficient).** If you have three blocks of $x^2$ and someone hands you four more blocks of $x^2$, you possess seven blocks of $x^2$. [Algebraically](https://en.wikipedia.org/wiki/Algebra): $3x^2 + 4x^2 = 7x^2$. 
 
-**Negative Exponents**
-If [positive](https://en.wikipedia.org/wiki/Positive_real_numbers) exponents tell us to multiply, what do [negative](https://en.wikipedia.org/wiki/Negative_number) exponents tell us to do? Multiply's opposite: *[divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29)*. 
+Conversely, **adding or subtracting exponential terms with different bases or different exponents requires evaluating each term to its standard numerical value first.** You cannot seamlessly merge $2^3$ and $5^2$. They represent entirely different [geometries](https://en.wikipedia.org/wiki/Geometry) of value. You must unpack them: $2^3 + 5^2$ becomes $8 + 25$, which yields $33$. 
 
-> **The Negative Rule:** A base raised to a [negative exponent](https://en.wikipedia.org/wiki/Exponentiation) is equal to one divided by the base raised to the corresponding positive exponent.
+## Unearthing the Irrational: [Roots](https://en.wikipedia.org/wiki/Nth_root) and Approximations
 
-If you see $4^{-2}$, it simply means $\frac{1}{4^2}$, which is $\frac{1}{16}$. It is not a [negative number](https://en.wikipedia.org/wiki/Negative_number)! A negative exponent just acts as a trapdoor, dropping your base into the denominator of a fraction.
+If an exponent builds a number up, a root tears it back down to its foundation. **A [square root](https://en.wikipedia.org/wiki/Square_root) of a given number is a value that yields the given number when multiplied by itself.** For example, both $3$ and $-3$ are square roots of $9$, because $3 \times 3 = 9$ and $(-3) \times (-3) = 9$. However, when we speak of the $\sqrt{}$ symbol, we are asking for the **[principal square root](https://en.wikipedia.org/wiki/Principal_root)**, which refers specifically to the non-negative square root of a [real number](https://en.wikipedia.org/wiki/Real_number). 
 
-### Combining Exponential Expressions
+### The Guideposts of [Perfect Squares](https://en.wikipedia.org/wiki/Square_number)
 
-When it comes to basic [arithmetic](https://en.wikipedia.org/wiki/Arithmetic)—adding and subtracting—exponents are incredibly picky. They act like units in a [physics problem](https://en.wikipedia.org/wiki/Physics). You can add apples to apples, but you cannot add [apples to oranges](https://en.wikipedia.org/wiki/Apples_and_oranges).
+To navigate the landscape of roots, we rely on landmarks. **A perfect square is an integer that equals the [square](https://en.wikipedia.org/wiki/Square_%28algebra%29) of another integer.** Recognizing the earliest perfect squares allows us to perform rapid [mental mathematics](https://en.wikipedia.org/wiki/Mental_calculation):
 
-> **Combining Like Terms:** Terms with identical bases *and* identical exponents can be combined by adding or subtracting their [coefficients](https://en.wikipedia.org/wiki/Coefficient).
+*   **The number 1 is a perfect square because 1 multiplied by 1 equals 1.**
+*   **The number 4 is a perfect square because 2 multiplied by 2 equals 4.**
+*   **The number 9 is a perfect square because 3 multiplied by 3 equals 9.**
+*   **The number 16 is a perfect square because 4 multiplied by 4 equals 16.**
+*   **The number 25 is a perfect square because 5 multiplied by 5 equals 25.**
 
-If I have $3x^2$ and I add $4x^2$, I simply have $7x^2$. 
+![The number 16 is a perfect square, as its value can be geometrically visualized as a 4 by 4 grid of units.](https://wikipedia.org/wiki/Special:Redirect/file/Square_number_16_as_sum_of_gnomons.svg)
 
-But what if the bases or exponents don't match? What if I have $2^3 + 3^2$?
-You cannot just mush these together! **Adding or subtracting exponential terms with different bases or different exponents requires evaluating each term to its standard [numerical value](https://en.wikipedia.org/wiki/Value_%28mathematics%29) first.** 
-You must calculate $2^3$ (which is $8$) and calculate $3^2$ (which is $9$), and then add them together to get $17$. When in doubt, unpack the exponent!
+### Bounding and Estimating Irrational Roots
 
----
+What happens when we attempt to find the square root of a number stranded between these perfect squares, like $10$? There is no integer that, when multiplied by itself, yields $10$. This plunges us into the realm of the irrational. 
 
-## Part 2: Unearthing the Roots
+**An irrational number is a real number that cannot be written as a simple fraction of two integers.** If you attempt to calculate one, you will find that **the decimal representation of an irrational number never terminates and never forms a [repeating pattern](https://en.wikipedia.org/wiki/Repeating_decimal).** It is an infinite smearing of [digits](https://en.wikipedia.org/wiki/Numerical_digit). 
 
-If an exponent is building a house, a [root](https://en.wikipedia.org/wiki/nth_root) is taking the house apart to find the foundational bricks. 
+To handle these untamable numbers on an [exam](https://en.wikipedia.org/wiki/Examination) or in the [laboratory](https://en.wikipedia.org/wiki/Laboratory), we use approximation. **Estimating the square root of a non-perfect square involves identifying the two consecutive perfect squares that the target number falls between.** It is a mathematical certainty that **the square root of a given non-perfect square always lies strictly between the square roots of the closest perfect squares below and above the given number.**
 
-> **The Square Root:** A [square root](https://en.wikipedia.org/wiki/Square_root) of a given number is a value that yields the given number when multiplied by itself. 
+Let us bound $\sqrt{10}$. The closest perfect square below $10$ is $9$ ($\sqrt{9} = 3$). The closest perfect square above $10$ is $16$ ($\sqrt{16} = 4$). Therefore, the square root of $10$ must lie strictly between $3$ and $4$. Because $10$ is vastly closer to $9$ than it is to $16$, we can confidently estimate that $\sqrt{10}$ is slightly greater than $3$.
 
-For instance, $5 \times 5 = 25$, so a square root of $25$ is $5$. (Technically, $-5 \times -5$ also equals $25$, so $-5$ is also a square root). However, when we use the standard [radical symbol](https://en.wikipedia.org/wiki/Radical_symbol) $\sqrt{x}$, we are almost always talking about the **[principal square root](https://en.wikipedia.org/wiki/Square_root)**, which refers specifically to the non-negative square root of a [real number](https://en.wikipedia.org/wiki/Real_number). 
+### Essential Irrational [Constants](https://en.wikipedia.org/wiki/Mathematical_constant) in the Wild
 
-### Perfect Squares: The Clean Foundation
+Certain irrational numbers appear with such staggering frequency in geometry, [physics](https://en.wikipedia.org/wiki/Physics), and [nature](https://en.wikipedia.org/wiki/Nature) that their approximations must be committed to [memory](https://en.wikipedia.org/wiki/Memorization). 
 
-Some numbers yield beautifully clean, [whole-number](https://en.wikipedia.org/wiki/Integer) square roots. We call these **[perfect squares](https://en.wikipedia.org/wiki/Square_number)**. A perfect square is an [integer](https://en.wikipedia.org/wiki/Integer) that equals the [square](https://en.wikipedia.org/wiki/Square_%28algebra%29) of another integer. 
+**[Pi](https://en.wikipedia.org/wiki/Pi) ($\pi$)**
+*   **The mathematical constant pi is an irrational number representing the ratio of a circle's [circumference](https://en.wikipedia.org/wiki/Circumference) to its [diameter](https://en.wikipedia.org/wiki/Diameter).** 
+*   No matter how large or small the circle, folding its diameter around its edge will always take slightly more than three spans. Therefore, **the mathematical constant pi is approximately equal to 3.14.**
+*   While decimals are standard, fractions are often more elegant for rapid cancellation. Consequently, **the mathematical constant pi is frequently approximated in calculations using the fraction $\frac{22}{7}$.**
 
-For the Praxis Core, you must recognize these foundational building blocks instantly:
-*   The number **[1](https://en.wikipedia.org/wiki/1)** is a perfect square because 1 multiplied by 1 equals 1.
-*   The number **[4](https://en.wikipedia.org/wiki/4)** is a perfect square because 2 multiplied by 2 equals 4.
-*   The number **[9](https://en.wikipedia.org/wiki/9)** is a perfect square because 3 multiplied by 3 equals 9.
-*   The number **[16](https://en.wikipedia.org/wiki/16)** is a perfect square because 4 multiplied by 4 equals 16.
-*   The number **[25](https://en.wikipedia.org/wiki/25)** is a perfect square because 5 multiplied by 5 equals 25.
+![Unrolling a circle's circumference demonstrates that it is slightly more than three times the length of its diameter, physically visualizing the constant pi.](https://wikipedia.org/wiki/Special:Redirect/file/Pi-unrolled-720.gif)
 
-![Perfect squares, such as 16, get their name because they can be visualized geometrically as a perfectly proportioned square grid.](https://wikipedia.org/wiki/Special:Redirect/file/Square_number_16_as_sum_of_gnomons.svg)
+**Key Square Roots**
+Memorizing the approximate values of small, [prime](https://en.wikipedia.org/wiki/Prime_number) square roots acts as a powerful accelerant during [problem-solving](https://en.wikipedia.org/wiki/Problem_solving):
 
-### The Wild World of Irrational Numbers
+*   **The [square root of 2](https://en.wikipedia.org/wiki/Square_root_of_2) is an irrational number.** Measuring the [diagonal](https://en.wikipedia.org/wiki/Diagonal) of a square with sides of length $1$ yields this exact value. **The square root of 2 is approximately equal to 1.414.**
+*   **The [square root of 3](https://en.wikipedia.org/wiki/Square_root_of_3) is an irrational number.** It governs the geometry of [hexagons](https://en.wikipedia.org/wiki/Hexagon) and [equilateral triangles](https://en.wikipedia.org/wiki/Equilateral_triangle). **The square root of 3 is approximately equal to 1.732.**
+*   **The [square root of 5](https://en.wikipedia.org/wiki/Square_root_of_5) is an irrational number.** It forms the bedrock of the [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio). **The square root of 5 is approximately equal to 2.236.**
+*   **The square root of 10 is an irrational number.** As deduced earlier through our guideposts, it sits just above $3$. **The square root of 10 is approximately equal to 3.162.**
 
-But the universe isn't always perfectly clean, is it? What happens if you try to take the [square root of 2](https://en.wikipedia.org/wiki/Square_root_of_2)? No integer works. $1 \times 1$ is too small, and $2 \times 2$ is too big. Even fractions fail us. 
+![The square root of 2 geometrically manifests as the hypotenuse of a right triangle with legs of length 1.](https://wikipedia.org/wiki/Special:Redirect/file/Square_root_of_2_triangle.svg)
 
-![Despite having a chaotic, non-terminating decimal value in arithmetic, the irrational square root of 2 exists perfectly in reality as the hypotenuse of a right triangle with legs of length 1.](https://wikipedia.org/wiki/Special:Redirect/file/Square_root_of_2_triangle.svg)
+![The irrational square root of 5 is essential to the Golden Ratio, a proportion that mathematically dictates the relative lengths of intersecting segments in a regular pentagram.](https://wikipedia.org/wiki/Special:Redirect/file/Pentagram-phi.svg)
 
-This introduces us to the **[irrational numbers](https://en.wikipedia.org/wiki/Irrational_number)**. 
-> **Definition:** An irrational number is a real number that cannot be written as a simple fraction of two integers. 
-
-If you try to write them as [decimals](https://en.wikipedia.org/wiki/Decimal), something wild happens. **The [decimal representation](https://en.wikipedia.org/wiki/Decimal_representation) of an irrational number never [terminates](https://en.wikipedia.org/wiki/Terminating_decimal) and never forms a [repeating pattern](https://en.wikipedia.org/wiki/Repeating_decimal).** It goes on forever, chaotic and [infinite](https://en.wikipedia.org/wiki/Infinity), down to the very limits of calculation.
-
-### The Art of Estimation
-
-Because irrational roots are infinite, we can't write down their exact value in decimal form on the exam. Instead, we [approximate](https://en.wikipedia.org/wiki/Approximation).
-
-How do we [estimate](https://en.wikipedia.org/wiki/Estimation) the square root of a messy number, like $\sqrt{20}$? We use our clean perfect squares as guideposts! **Estimating the square root of a non-perfect square involves identifying the two [consecutive](https://en.wikipedia.org/wiki/Sequence) perfect squares that the target number falls between.** 
-
-Think about it like this: **The square root of a given non-perfect square always lies strictly between the square roots of the closest perfect squares below and above the given number.**
-
-Let's estimate $\sqrt{20}$:
-1. Where does 20 live? It lives between the perfect square 16 and the perfect square 25.
-2. Therefore, $\sqrt{20}$ must live between $\sqrt{16}$ (which is 4) and $\sqrt{25}$ (which is 5). 
-3. Since 20 is exactly halfway between 16 and 25, $\sqrt{20}$ is going to be roughly 4.5. (It's actually ~4.47!). 
-
-### Famous Irrational Approximations to Memorize
-
-For the Praxis Core, there are a handful of famous irrational numbers that show up so frequently you shouldn't waste time estimating them from scratch. You should memorize their standard [approximations](https://en.wikipedia.org/wiki/Approximation). 
-
-Let's start with the undisputed king of irrational numbers: **[Pi ($\pi$)](https://en.wikipedia.org/wiki/Pi)**.
-*   **What is it?** The [mathematical constant](https://en.wikipedia.org/wiki/Mathematical_constant) pi is an irrational number representing the [ratio](https://en.wikipedia.org/wiki/Ratio) of a [circle's](https://en.wikipedia.org/wiki/Circle) [circumference](https://en.wikipedia.org/wiki/Circumference) to its [diameter](https://en.wikipedia.org/wiki/Diameter). Take any circle in the universe, wrap a string around its outside (circumference), and lay that string across the circle's width (diameter). It will always stretch exactly $\pi$ times across. 
-
-![An animation demonstrating the geometric definition of pi: unrolling the circumference of a circle with a diameter of 1 yields a length of exactly π.](https://wikipedia.org/wiki/Special:Redirect/file/Pi-unrolled-720.gif)
-
-*   **The Decimal:** The mathematical constant pi is approximately equal to **[3.14](https://en.wikipedia.org/wiki/Pi)**.
-*   **The Fraction:** The mathematical constant pi is frequently [approximated](https://en.wikipedia.org/wiki/Approximations_of_pi) in calculations using the fraction **[22/7](https://en.wikipedia.org/wiki/Approximations_of_pi)**. (Note: 22/7 is $3.1428...$ while $\pi$ is $3.1415...$ so the fraction is a fantastic, but not perfect, shortcut!).
-
-Now, let's look at the most famous irrational square roots. Commit these to memory:
-
-| The Irrational Root | Is it Irrational? | The Approximation | Why it makes sense (Estimation check) |
-| :--- | :--- | :--- | :--- |
-| **[$\sqrt{2}$](https://en.wikipedia.org/wiki/Square_root_of_2)** | The [square root of 2](https://en.wikipedia.org/wiki/Square_root_of_2) is an irrational number. | The square root of 2 is approximately equal to **[1.414](https://en.wikipedia.org/wiki/Square_root_of_2)**. | It must live between $\sqrt{1}$ (1) and $\sqrt{4}$ (2). It is closer to 1. |
-| **[$\sqrt{3}$](https://en.wikipedia.org/wiki/Square_root_of_3)** | The [square root of 3](https://en.wikipedia.org/wiki/Square_root_of_3) is an irrational number. | The square root of 3 is approximately equal to **[1.732](https://en.wikipedia.org/wiki/Square_root_of_3)**. | It lives between $\sqrt{1}$ and $\sqrt{4}$, but is closer to 4. |
-| **[$\sqrt{5}$](https://en.wikipedia.org/wiki/Square_root_of_5)** | The [square root of 5](https://en.wikipedia.org/wiki/Square_root_of_5) is an irrational number. | The square root of 5 is approximately equal to **[2.236](https://en.wikipedia.org/wiki/Square_root_of_5)**. | It lives between $\sqrt{4}$ (2) and $\sqrt{9}$ (3). It is very close to 4! |
-| **[$\sqrt{10}$](https://en.wikipedia.org/wiki/Square_root)** | The [square root of 10](https://en.wikipedia.org/wiki/Square_root) is an irrational number. | The square root of 10 is approximately equal to **3.162**. | It lives just past $\sqrt{9}$ (which is exactly 3). |
-
----
-
-## Final Thoughts for the Praxis
-
-When you sit down for the exam, don't let [exponents](https://en.wikipedia.org/wiki/Exponentiation) and [radicals](https://en.wikipedia.org/wiki/Radical_symbol) intimidate you. 
-If an exponent looks confusing, unpack it. Remember that [negative exponents](https://en.wikipedia.org/wiki/Exponentiation) are just [fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) in disguise, and a [power of zero](https://en.wikipedia.org/wiki/Exponentiation) always collapses the whole thing down to one (unless it's [zero to the zero](https://en.wikipedia.org/wiki/Zero_to_the_power_of_zero), in which case, walk away!). 
-
-When faced with a strange square root, take a deep breath and ask yourself: *"What are the perfect squares living next door?"* Anchor yourself to the perfect squares of 1, 4, 9, 16, and 25, and use them to box in the chaotic irrational numbers. 
-
-You have the machinery. Now go use it!
+By understanding that exponents are the machinery of scalable multiplication, and that roots often unearth boundless, infinite decimal structures, you strip away the intimidation of high-level arithmetic. Whether applying the rigid laws of integer exponents or fluidly estimating the value of an irrational square root, you are simply manipulating the fundamental shapes and [magnitudes](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) of reality.

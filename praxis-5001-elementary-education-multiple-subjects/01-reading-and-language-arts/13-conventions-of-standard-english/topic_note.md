@@ -1,155 +1,118 @@
-# Master the [Conventions of Standard English](https://en.wikipedia.org/wiki/Standard_English)
+Consider the sheer mechanical miracle of [human communication](https://en.wikipedia.org/wiki/Human_communication). A complex, abstract [thought](https://en.wikipedia.org/wiki/Thought) forms in your [mind](https://en.wikipedia.org/wiki/Mind), and by utilizing an agreed-upon system of structured vocalizations or written [symbols](https://en.wikipedia.org/wiki/Symbol), you can reliably reconstruct that exact thought inside the mind of someone else. For this [transfer of information](https://en.wikipedia.org/wiki/Information_theory) to occur without catastrophic loss of [meaning](https://en.wikipedia.org/wiki/Meaning_%28linguistics%29), both the transmitter and the receiver must rely on a shared set of rules. We call this shared infrastructure the conventions of [Standard English](https://en.wikipedia.org/wiki/Standard_English). Standard English is a specific [language dialect](https://en.wikipedia.org/wiki/Dialect) widely accepted in formal [education](https://en.wikipedia.org/wiki/Education) and professional [business](https://en.wikipedia.org/wiki/Business) settings. Just as [physics](https://en.wikipedia.org/wiki/Physics) relies on agreed-upon [units of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement) to build [bridges](https://en.wikipedia.org/wiki/Bridge) that do not collapse, [writers](https://en.wikipedia.org/wiki/Writing) and speakers rely on the mechanics of [grammar](https://en.wikipedia.org/wiki/Grammar) to build [arguments](https://en.wikipedia.org/wiki/Argument) that do not crumble under scrutiny.
 
-Look at what we are doing right now. I am organizing a series of [symbols](https://en.wikipedia.org/wiki/Symbol) on a screen, and you are looking at these symbols and effortlessly reconstructing complex, multi-layered ideas inside your own head. It is absolute [telepathy](https://en.wikipedia.org/wiki/Telepathy)! It’s a [miracle](https://en.wikipedia.org/wiki/Miracle). 
+![Human communication relies on converting abstract thoughts into structured, agreed-upon symbols, a process that has evolved from early pictograms to modern writing systems.](https://wikipedia.org/wiki/Special:Redirect/file/Comparative_evolution_of_Cuneiform%2C_Egyptian_and_Chinese_characters.svg)
 
-![A blank red octagon universally communicates the command to stop. Writing relies on a similar shared protocol of visual symbols to effortlessly transfer ideas.](https://wikipedia.org/wiki/Special:Redirect/file/Blank_stop_sign_octagon.svg)
+To master this system for the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), we must first examine the fundamental particles of [language](https://en.wikipedia.org/wiki/Language)—the [parts of speech](https://en.wikipedia.org/wiki/Part_of_speech)—and then understand how these elements bond together to form the molecules of human thought: [clauses](https://en.wikipedia.org/wiki/Clause) and [sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29).
 
-But for this telepathy to work, you and I have to agree on the rules of the game. We have to agree on how the pieces fit together. That is what the **[Conventions of Standard English](https://en.wikipedia.org/wiki/Standard_English)** are all about. It’s not about arbitrary finger-wagging; it’s about establishing a shared [protocol](https://en.wikipedia.org/wiki/Communication_protocol) so that the intricate picture in my head transfers parfaitement perfectly into yours. 
+## The Fundamental Particles: Parts of Speech
 
-As a future [elementary educator](https://en.wikipedia.org/wiki/Primary_education), you are the one who hands your students this magnificent toolkit. Let’s open the box and see how it works.
+If we are going to understand how a sentence operates, we must first look at the individual components that make it up. Every [word](https://en.wikipedia.org/wiki/Word) in a sentence serves a highly specific mechanical function.
 
----
+![Standard English words are categorized into specific parts of speech, each serving a distinct mechanical function within a sentence.](https://wikipedia.org/wiki/Special:Redirect/file/EnglishGrammarCategories.png)
 
-## Part 1: The Cast of Characters ([Parts of Speech](https://en.wikipedia.org/wiki/Part_of_speech))
+### The Core Subjects and Actions
+The anchor of any sentence is its [subject](https://en.wikipedia.org/wiki/Subject_%28grammar%29) and its action. 
+*   **Noun:** A [noun](https://en.wikipedia.org/wiki/Noun) functions as the grammatical name of a [person](https://en.wikipedia.org/wiki/Person), [place](https://en.wikipedia.org/wiki/Location), [thing](https://en.wikipedia.org/wiki/Object_%28philosophy%29), or [abstract idea](https://en.wikipedia.org/wiki/Abstract_concept). It provides the core "mass" of the sentence. 
+*   **Pronoun:** To prevent the repetitive, cumbersome naming of the same noun, we use a substitute. A [pronoun](https://en.wikipedia.org/wiki/Pronoun) functions as a grammatical substitute for a specific noun or functions as a grammatical substitute for a specific [noun phrase](https://en.wikipedia.org/wiki/Noun_phrase). The specific noun or noun phrase replaced by a pronoun is called its **[antecedent](https://en.wikipedia.org/wiki/Antecedent_%28grammar%29)**. 
+*   **Verb:** If nouns are the [matter](https://en.wikipedia.org/wiki/Matter), verbs are the [energy](https://en.wikipedia.org/wiki/Energy). A [verb](https://en.wikipedia.org/wiki/Verb) expresses a [physical action](https://en.wikipedia.org/wiki/Action_%28philosophy%29), a [mental action](https://en.wikipedia.org/wiki/Mental_event), or a [state of being](https://en.wikipedia.org/wiki/State_of_being). Without a verb, nothing *happens* in a sentence.
 
-To build a [universe](https://en.wikipedia.org/wiki/Universe), you need [particles](https://en.wikipedia.org/wiki/Particle). To build a [thought](https://en.wikipedia.org/wiki/Thought), you need [words](https://en.wikipedia.org/wiki/Word). But words don’t all do the same job. Every word in a [sentence](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) plays a highly specific role, like members of an [orchestra](https://en.wikipedia.org/wiki/Orchestra). Let’s meet them.
+### The Modifiers
+[Modifiers](https://en.wikipedia.org/wiki/Grammatical_modifier) are the precision instruments of language. They take a general concept and give it exact dimensions, colors, and contexts.
+*   **Adjective:** An [adjective](https://en.wikipedia.org/wiki/Adjective) functions to grammatically modify or describe a noun, and similarly, an adjective functions to grammatically modify or describe a pronoun. (e.g., The *red* [car](https://en.wikipedia.org/wiki/Car); *He* is *tall*).
+*   **Adverb:** An [adverb](https://en.wikipedia.org/wiki/Adverb) operates on a different axis. An adverb functions to grammatically modify a verb (e.g., [running](https://en.wikipedia.org/wiki/Running) *quickly*), grammatically modify an adjective (e.g., *very* tall), or grammatically modify another adverb (e.g., running *incredibly* quickly).
 
-### [Nouns](https://en.wikipedia.org/wiki/Noun) and [Pronouns](https://en.wikipedia.org/wiki/Pronoun): The 'Things'
-*   A **[noun](https://en.wikipedia.org/wiki/Noun)** functions as the [grammatical](https://en.wikipedia.org/wiki/Grammar) name of a [person](https://en.wikipedia.org/wiki/Person), [place](https://en.wikipedia.org/wiki/Location), [thing](https://en.wikipedia.org/wiki/Object_%28philosophy%29), or [abstract idea](https://en.wikipedia.org/wiki/Abstraction). (e.g., *[Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie)*, *[laboratory](https://en.wikipedia.org/wiki/Laboratory)*, *[radiation](https://en.wikipedia.org/wiki/Radiation)*, *[curiosity](https://en.wikipedia.org/wiki/Curiosity)*). 
-*   Because we’d get tired of repeating the exact same nouns over and over, we invented a shortcut. A **[pronoun](https://en.wikipedia.org/wiki/Pronoun)** functions as a grammatical substitute for a specific noun (like substituting *she* for *Marie*). Furthermore, a pronoun functions as a grammatical substitute for a specific [noun phrase](https://en.wikipedia.org/wiki/Noun_phrase) (like substituting *it* for *the glowing green test tube*).
+### The Connectors and Indicators
+Words must relate to one another in [space](https://en.wikipedia.org/wiki/Space), [time](https://en.wikipedia.org/wiki/Time), and [logic](https://en.wikipedia.org/wiki/Logic).
+*   **Preposition:** A [preposition](https://en.wikipedia.org/wiki/Preposition_and_postposition) indicates the relationship between a [prepositional object](https://en.wikipedia.org/wiki/Object_%28grammar%29) and another word in the sentence. It tells us where things are in relation to each other (e.g., *under* the [table](https://en.wikipedia.org/wiki/Table_%28furniture%29), *after* the meeting).
+*   **Conjunction:** A [conjunction](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29) is the glue of the language. A conjunction connects individual words within a sentence ([apples](https://en.wikipedia.org/wiki/Apple) *and* [oranges](https://en.wikipedia.org/wiki/Orange_%28fruit%29)), connects multi-word [phrases](https://en.wikipedia.org/wiki/Phrase) within a sentence (into the [woods](https://en.wikipedia.org/wiki/Forest) *but* out of the dark), or connects grammatical clauses within a sentence.
+*   **Interjection:** An [interjection](https://en.wikipedia.org/wiki/Interjection) expresses spontaneous human [emotion](https://en.wikipedia.org/wiki/Emotion) or sudden exclamation. It sits outside the core grammatical structure of the sentence (e.g., *Wow!* or *Ouch!*).
 
-![Physicist Marie Curie working in her Paris laboratory. Nouns form the foundational "matter" of our sentences by naming specific people, places, and things.](https://wikipedia.org/wiki/Special:Redirect/file/Pierre_and_Marie_Curie.jpg)
+> **The Precision of Conjunctions**
+> When dealing with conjunctions, we must distinguish between two primary forces. **[Coordinating conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29%23Coordinating_conjunctions)** join sentence elements of equal grammatical rank. You must commit to [memory](https://en.wikipedia.org/wiki/Memory) a fixed numerical reality: the [English language](https://en.wikipedia.org/wiki/English_language) contains exactly seven coordinating conjunctions (*for, and, nor, but, or, yet, so*). Conversely, **[subordinating conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29%23Subordinating_conjunctions)** (like *because, although, if*) introduce [dependent clauses](https://en.wikipedia.org/wiki/Dependent_clause), fundamentally shifting the weight of the clause to rely on the rest of the sentence.
 
-### [Verbs](https://en.wikipedia.org/wiki/Verb): The 'Engine'
-If nouns are the [matter](https://en.wikipedia.org/wiki/Matter), verbs are the [energy](https://en.wikipedia.org/wiki/Energy). A **[verb](https://en.wikipedia.org/wiki/Verb)** expresses a physical [action](https://en.wikipedia.org/wiki/Action_%28philosophy%29) (*jump*), a mental action (*calculate*), or a [state of being](https://en.wikipedia.org/wiki/Being) (*is*, *seems*). Without a verb, nothing *happens* in a sentence.
+## The Architecture of Thought: Clauses and Sentences
 
-### The [Modifiers](https://en.wikipedia.org/wiki/Grammatical_modifier): [Adjectives](https://en.wikipedia.org/wiki/Adjective) and [Adverbs](https://en.wikipedia.org/wiki/Adverb)
-We rarely want to talk about generic things; we want to describe specific [realities](https://en.wikipedia.org/wiki/Reality).
-*   An **[adjective](https://en.wikipedia.org/wiki/Adjective)** functions to grammatically modify or describe a noun (the *heavy* textbook). Interestingly, an adjective also functions to grammatically modify or describe a pronoun (*Silly* me!).
-*   An **[adverb](https://en.wikipedia.org/wiki/Adverb)** is the ultimate multi-tool of description. An adverb functions to grammatically modify a verb (*ran quickly*). But it doesn't stop there. An adverb functions to grammatically modify an adjective (*incredibly* heavy), and amazingly, an adverb functions to grammatically modify another adverb (*very* quickly). 
+Once we have our words, we bind them into clauses. A clause is the most basic unit of organized meaning, but not all clauses possess the structural integrity to stand alone.
 
-### The Connectors: [Prepositions](https://en.wikipedia.org/wiki/Preposition_and_postposition) and [Conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29)
-*   A **[preposition](https://en.wikipedia.org/wiki/Preposition_and_postposition)** indicates the relationship between a [prepositional object](https://en.wikipedia.org/wiki/Object_%28grammar%29) and another word in the sentence. It tells you where things are in [space and time](https://en.wikipedia.org/wiki/Spacetime) (the [cat](https://en.wikipedia.org/wiki/Cat) is *under* the [desk](https://en.wikipedia.org/wiki/Desk), *before* [noon](https://en.wikipedia.org/wiki/Noon)).
-*   A **[conjunction](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29)** is the glue of human thought. A conjunction connects individual words within a sentence (*[peanut butter](https://en.wikipedia.org/wiki/Peanut_butter)* **and** *[jelly](https://en.wikipedia.org/wiki/Fruit_preserves)*). It also scales up: a conjunction connects multi-word [phrases](https://en.wikipedia.org/wiki/Phrase) within a sentence (*over the [river](https://en.wikipedia.org/wiki/River)* **and** *through the [woods](https://en.wikipedia.org/wiki/Forest)*). Ultimately, a conjunction connects grammatical [clauses](https://en.wikipedia.org/wiki/Clause) within a sentence. 
-    *   **[Coordinating conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29)** join sentence elements of equal grammatical rank. It is a fascinating fact that **the [English language](https://en.wikipedia.org/wiki/English_language) contains exactly seven coordinating conjunctions** (For, And, Nor, But, Or, Yet, So—the famous [FANBOYS](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29)). 
-    *   **[Subordinating conjunctions](https://en.wikipedia.org/wiki/Conjunction_%28grammar%29)** (like *because, although, if*) do a different job: they introduce [dependent clauses](https://en.wikipedia.org/wiki/Dependent_clause), attaching them to a main thought.
+![A sentence can be analyzed by its grammatical constituents, demonstrating how core subjects and actions bind together to form an independent clause.](https://wikipedia.org/wiki/Special:Redirect/file/Constituent_structure_analysis_English_sentence.svg)
 
-### [Interjections](https://en.wikipedia.org/wiki/Interjection): The 'Explosions'
-Sometimes we just need to let it out! An **[interjection](https://en.wikipedia.org/wiki/Interjection)** expresses spontaneous human [emotion](https://en.wikipedia.org/wiki/Emotion) or sudden exclamation (*Wow! Ouch! [Eureka](https://en.wikipedia.org/wiki/Eureka_%28word%29)!*). They usually sit outside the strict grammatical structure of the sentence.
+*   **Independent Clause:** An [independent clause](https://en.wikipedia.org/wiki/Independent_clause) contains a grammatical subject and a grammatical verb, and crucially, it expresses a complete, standalone thought. 
+*   **Dependent Clause:** A dependent clause contains a grammatical subject and a grammatical verb, but because of the presence of a subordinating word, a dependent clause cannot stand alone as a complete sentence. It leaves the [reader](https://en.wikipedia.org/wiki/Reading) anticipating a resolution.
 
-![Archimedes exclaiming "Eureka!" Interjections sit outside standard sentence structures to convey sudden bursts of emotion or realization.](https://wikipedia.org/wiki/Special:Redirect/file/Eureka!_Archimede.jpg)
+By combining these clauses in specific ways, we generate the four universal [sentence structures](https://en.wikipedia.org/wiki/Sentence_clause_structure). 
 
----
-
-## Part 2: The Architecture of Thought (Clauses and Sentences)
-
-If words are the [atoms](https://en.wikipedia.org/wiki/Atom), clauses are the [molecules](https://en.wikipedia.org/wiki/Molecule). We combine them to build the exact [geometric shape](https://en.wikipedia.org/wiki/Geometric_shape) of our ideas.
-
-![A parse tree visually demonstrates how individual words and phrases bond together to build the underlying architecture of a complete thought.](https://wikipedia.org/wiki/Special:Redirect/file/Parse_tree_1.jpg)
-
-### [Independent](https://en.wikipedia.org/wiki/Independent_clause) vs. [Dependent Clauses](https://en.wikipedia.org/wiki/Dependent_clause)
-> **The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) of Clauses:** 
-> Every clause—independent or dependent—has two things in common: it contains a grammatical [subject](https://en.wikipedia.org/wiki/Subject_%28grammar%29) and a grammatical [verb](https://en.wikipedia.org/wiki/Verb). The difference lies in their independence.
-
-*   An **[independent clause](https://en.wikipedia.org/wiki/Independent_clause)** contains a grammatical subject and a grammatical verb, AND it expresses a complete, standalone thought. It is the boss. It needs no one else.
-*   A **[dependent clause](https://en.wikipedia.org/wiki/Dependent_clause)** also contains a grammatical subject and a grammatical verb, BUT a dependent clause cannot stand alone as a complete sentence. It was hijacked by a subordinating conjunction (like *because the [dog](https://en.wikipedia.org/wiki/Dog) [barked](https://en.wikipedia.org/wiki/Bark_%28sound%29)*). It leaves you waiting for the rest of the story.
-
-### The Four Sentence Types
-By mixing and matching independent and dependent clauses, we generate every single sentence in the English language. 
-
-| [Sentence Type](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) | Independent Clauses | Dependent Clauses | Example |
+| Sentence Type | Independent Clauses | Dependent Clauses | Example |
 | :--- | :--- | :--- | :--- |
-| **[Simple](https://en.wikipedia.org/wiki/Simple_sentence)** | Exactly One | Zero | *The [physicist](https://en.wikipedia.org/wiki/Physicist) smiled.* |
-| **[Compound](https://en.wikipedia.org/wiki/Compound_sentence_%28linguistics%29)** | Two or More | Zero | *The physicist smiled, and she wrote the [equation](https://en.wikipedia.org/wiki/Equation).* |
-| **[Complex](https://en.wikipedia.org/wiki/Complex_sentence)** | Exactly One | At least One | *Because she solved the [puzzle](https://en.wikipedia.org/wiki/Puzzle), the physicist smiled.* |
-| **[Compound-Complex](https://en.wikipedia.org/wiki/Compound-complex_sentence)**| Two or More | At least One | *Because she solved the puzzle, the physicist smiled, and the [crowd](https://en.wikipedia.org/wiki/Crowd) cheered wildly.* |
+| **[Simple Sentence](https://en.wikipedia.org/wiki/Simple_sentence)** | Exactly one | Zero dependent clauses | *The [physicist](https://en.wikipedia.org/wiki/Physicist) calculated the [trajectory](https://en.wikipedia.org/wiki/Trajectory).* |
+| **[Compound Sentence](https://en.wikipedia.org/wiki/Compound_sentence)** | Two or more | Zero dependent clauses | *The physicist calculated the trajectory, and the [engineer](https://en.wikipedia.org/wiki/Engineer) built the [rocket](https://en.wikipedia.org/wiki/Rocket).* |
+| **[Complex Sentence](https://en.wikipedia.org/wiki/Complex_sentence)** | Exactly one | At least one | *Because the [math](https://en.wikipedia.org/wiki/Mathematics) was perfect, the rocket reached [orbit](https://en.wikipedia.org/wiki/Orbit).* |
+| **[Compound-Complex Sentence](https://en.wikipedia.org/wiki/Sentence_clause_structure%23Compound-complex_sentences)** | Two or more | At least one | *Because the math was perfect, the rocket reached orbit, and the [crew](https://en.wikipedia.org/wiki/Crew) celebrated the achievement.* |
 
-A **[simple sentence](https://en.wikipedia.org/wiki/Simple_sentence)** consists of exactly one independent clause and zero dependent clauses. A **[compound sentence](https://en.wikipedia.org/wiki/Compound_sentence_%28linguistics%29)** consists of two or more independent clauses but contains zero dependent clauses. A **[complex sentence](https://en.wikipedia.org/wiki/Complex_sentence)** consists of exactly one independent clause and at least one dependent clause. Finally, the heavyweight champion, a **[compound-complex sentence](https://en.wikipedia.org/wiki/Compound-complex_sentence)**, consists of two or more independent clauses and at least one dependent clause.
+## Structural Integrity: Usage, Agreement, and Parallelism
 
----
+A sentence, much like an [equation](https://en.wikipedia.org/wiki/Equation), must balance. If the internal rules of agreement are violated, the logic collapses, and the sentence fails to communicate effectively.
 
-## Part 3: Keeping the Peace ([Agreement](https://en.wikipedia.org/wiki/Agreement_%28linguistics%29) and Order)
+### Agreement in Number and Gender
+The most fundamental rule of balancing a sentence is agreement. Standard English requires a sentence subject and a sentence verb to agree in [number](https://en.wikipedia.org/wiki/Grammatical_number). This means singular sentence subjects require singular verb forms, and plural sentence subjects require plural verb forms. 
 
-Language is an [ecosystem](https://en.wikipedia.org/wiki/Ecosystem). When parts interact, they must harmonize. Standard English has rigorous rules for this harmony.
-
-### Agreement Rules
-*   **Subject-Verb Agreement:** Standard English requires a sentence subject and a sentence verb to agree in [number](https://en.wikipedia.org/wiki/Grammatical_number). It is beautifully [logical](https://en.wikipedia.org/wiki/Logic): [singular](https://en.wikipedia.org/wiki/Grammatical_number) sentence subjects require singular verb forms (*The [electron](https://en.wikipedia.org/wiki/Electron) [spins](https://en.wikipedia.org/wiki/Spin_%28physics%29)*), while [plural](https://en.wikipedia.org/wiki/Plural) sentence subjects require plural verb forms (*The electrons spin*).
-*   **Pronoun-Antecedent Agreement:** The original word that a pronoun replaces is called its **[antecedent](https://en.wikipedia.org/wiki/Antecedent_%28grammar%29)**. An antecedent is the specific noun or noun phrase replaced by a pronoun. Standard English requires a pronoun to agree with the pronoun's antecedent in number (singular vs. plural) AND it requires a pronoun to agree with the pronoun's antecedent in [grammatical gender](https://en.wikipedia.org/wiki/Grammatical_gender). If "the [brother](https://en.wikipedia.org/wiki/Brother)" is the antecedent, the pronoun must be "his."
+Furthermore, when a pronoun acts as a substitute, it must perfectly mirror what it replaces. Standard English requires a pronoun to agree with the pronoun's antecedent in number. It also requires a pronoun to agree with the pronoun's antecedent in [grammatical gender](https://en.wikipedia.org/wiki/Grammatical_gender). If the antecedent is "the [scientists](https://en.wikipedia.org/wiki/Scientist)" (plural), the pronoun must be "they" or "them," not "he" or "she."
 
 ### The Danger of Modifiers
-Modifiers are like targeting [lasers](https://en.wikipedia.org/wiki/Laser)—they need to hit the exact right target, or [chaos](https://en.wikipedia.org/wiki/Chaos_theory) ensues!
-*   A **[misplaced modifier](https://en.wikipedia.org/wiki/Dangling_modifier)** is a word or phrase separated too far from the specific word the modifier describes. (*Example: "I served [sandwiches](https://en.wikipedia.org/wiki/Sandwich) to the [children](https://en.wikipedia.org/wiki/Child) on [paper plates](https://en.wikipedia.org/wiki/Paper_plate)."* Wait, the children are on the plates? Move the modifier: *"I served sandwiches on paper plates to the children."*)
-*   A **[dangling modifier](https://en.wikipedia.org/wiki/Dangling_modifier)** lacks a clear grammatical target to modify within the bounds of the sentence. (*Example: "Walking through the [park](https://en.wikipedia.org/wiki/Park), the [trees](https://en.wikipedia.org/wiki/Tree) were beautiful."* Were the trees walking? No. The grammatical target is missing entirely!)
+When modifying phrases are placed carelessly, the resulting physics of the sentence become distorted, leading to illogical or impossible scenarios. 
+*   **Misplaced Modifier:** A [misplaced modifier](https://en.wikipedia.org/wiki/Grammatical_modifier) is a word or phrase separated too far from the specific word the modifier describes. (*Example: The [professor](https://en.wikipedia.org/wiki/Professor) served [sandwiches](https://en.wikipedia.org/wiki/Sandwich) to the [students](https://en.wikipedia.org/wiki/Student) on [paper plates](https://en.wikipedia.org/wiki/Plate_%28dishware%29).* Are the students on the paper plates?)
+*   **Dangling Modifier:** A [dangling modifier](https://en.wikipedia.org/wiki/Dangling_modifier) lacks a clear grammatical target to modify within the bounds of the sentence. (*Example: [Walking](https://en.wikipedia.org/wiki/Walking) through the [park](https://en.wikipedia.org/wiki/Park), the [trees](https://en.wikipedia.org/wiki/Tree) looked beautiful.* The trees were not walking through the park; the actual subject has been completely omitted.)
 
-### [Parallel Structure](https://en.wikipedia.org/wiki/Parallelism_%28grammar%29)
-When you list things, the [human brain](https://en.wikipedia.org/wiki/Human_brain) expects a rhythmic pattern. Standard English requires parallel grammatical structure for items arranged in a series or list. **[Parallel structure](https://en.wikipedia.org/wiki/Parallelism_%28grammar%29)** involves using the exact same grammatical form for elements of equal grammatical importance. 
-*   *Not parallel:* "She likes [hiking](https://en.wikipedia.org/wiki/Hiking), [swimming](https://en.wikipedia.org/wiki/Swimming), and to ride [bikes](https://en.wikipedia.org/wiki/Bicycle)."
-*   *Parallel:* "She likes hiking, swimming, and riding bikes." (All [gerunds](https://en.wikipedia.org/wiki/Gerund)—perfect harmony!)
+### Parallel Structure
+When presenting a sequence of ideas, the [human brain](https://en.wikipedia.org/wiki/Human_brain) expects [symmetry](https://en.wikipedia.org/wiki/Symmetry). Standard English requires [parallel grammatical structure](https://en.wikipedia.org/wiki/Parallelism_%28grammar%29) for items arranged in a series or list. Parallel structure involves using the exact same grammatical form for elements of equal grammatical importance. If you begin a list with verbs ending in *-ing*, every subsequent item must match: *He enjoys [hiking](https://en.wikipedia.org/wiki/Hiking), [swimming](https://en.wikipedia.org/wiki/Swimming), and running* (not *to run*).
 
----
+## The Fasteners: Mechanics, Punctuation, and Capitalization
 
-## Part 4: The Polish (Mechanics and [Spelling](https://en.wikipedia.org/wiki/English_orthography))
+Mechanics are the visual cues on a [page](https://en.wikipedia.org/wiki/Page_%28paper%29) that instruct the reader exactly how to pace, parse, and process the [data](https://en.wikipedia.org/wiki/Data). 
 
-If grammar is the [architecture](https://en.wikipedia.org/wiki/Architecture), mechanics and spelling are the [paint](https://en.wikipedia.org/wiki/Paint) and trim. They guide the reader's eye and prevent misinterpretations.
+### Capitalization Rules
+[Capitalization](https://en.wikipedia.org/wiki/Capitalization) acts as a visual starting gun. Standard English requires capitalization of the first word in every independent sentence. It also requires capitalization of all [proper nouns](https://en.wikipedia.org/wiki/Proper_noun), signaling to the reader that we are dealing with a specific, unique entity rather than a general category.
 
-### [Capitalization](https://en.wikipedia.org/wiki/Capitalization) and End [Punctuation](https://en.wikipedia.org/wiki/Punctuation)
-Standard English requires capitalization of the first word in every independent sentence. You must also remember that Standard English requires capitalization of all **[proper nouns](https://en.wikipedia.org/wiki/Proper_noun)** (specific names like *[Jupiter](https://en.wikipedia.org/wiki/Jupiter)* or *[Professor Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)*).
+### End Punctuation
+Every thought requires a definitive boundary.
+*   **Period:** A [period](https://en.wikipedia.org/wiki/Full_stop) marks the official end of a [declarative sentence](https://en.wikipedia.org/wiki/Declarative_sentence) (a statement of fact or argument).
+*   **Question Mark:** A [question mark](https://en.wikipedia.org/wiki/Question_mark) marks the official end of an [interrogative sentence](https://en.wikipedia.org/wiki/Interrogative) (a request for [information](https://en.wikipedia.org/wiki/Information)).
+*   **Exclamation Point:** An [exclamation point](https://en.wikipedia.org/wiki/Exclamation_mark) marks the official end of an exclamatory sentence (an expression of high emotion or [volume](https://en.wikipedia.org/wiki/Loudness)).
 
-To tell the reader a thought has ended, we use three distinct signals:
-1.  A **[period](https://en.wikipedia.org/wiki/Full_stop)** marks the official end of a [declarative sentence](https://en.wikipedia.org/wiki/Declarative_sentence) (a statement).
-2.  A **[question mark](https://en.wikipedia.org/wiki/Question_mark)** marks the official end of an [interrogative sentence](https://en.wikipedia.org/wiki/Question) (a question).
-3.  An **[exclamation point](https://en.wikipedia.org/wiki/Exclamation_mark)** marks the official end of an exclamatory sentence (an outburst).
+### Internal Punctuation
+If end marks are the [walls](https://en.wikipedia.org/wiki/Wall) of a [room](https://en.wikipedia.org/wiki/Room), [commas](https://en.wikipedia.org/wiki/Comma) and [apostrophes](https://en.wikipedia.org/wiki/Apostrophe) are the [furniture](https://en.wikipedia.org/wiki/Furniture) arrangement. 
+*   **The Comma:** A [comma](https://en.wikipedia.org/wiki/Comma) separates sequential items arranged in a series of three or more elements. A comma also separates an introductory phrase or clause from the main independent clause, allowing the reader to take a breath before tackling the core subject and verb.
+*   **The Apostrophe:** An [apostrophe](https://en.wikipedia.org/wiki/Apostrophe) serves two strictly distinct mechanical functions. First, an apostrophe indicates [grammatical possession](https://en.wikipedia.org/wiki/Possession_%28linguistics%29) (*the student's [book](https://en.wikipedia.org/wiki/Book)*). Second, an apostrophe indicates the targeted omission of letters in a word [contraction](https://en.wikipedia.org/wiki/Contraction_%28grammar%29) (*don't* for *do not*).
 
-### Internal Punctuation: [Commas](https://en.wikipedia.org/wiki/Comma) and [Apostrophes](https://en.wikipedia.org/wiki/Apostrophe)
-The **[comma](https://en.wikipedia.org/wiki/Comma)** is a traffic cop. A comma separates sequential items arranged in a series of three or more elements (*I brought a [pencil](https://en.wikipedia.org/wiki/Pencil), an [eraser](https://en.wikipedia.org/wiki/Eraser), and a [notebook](https://en.wikipedia.org/wiki/Notebook)*). A comma also separates an introductory phrase or clause from the main independent clause (*After the [bell](https://en.wikipedia.org/wiki/Bell) rang, the students sat down.*).
+![Mechanics like the apostrophe serve strict functions; using them incorrectly to pluralize words is a common structural error that violates these rules.](https://wikipedia.org/wiki/Special:Redirect/file/Greengrocer's_apostrophe_correction.jpg)
 
-The **[apostrophe](https://en.wikipedia.org/wiki/Apostrophe)** does two completely different jobs, and people mix them up all the time! 
-1.  An apostrophe indicates grammatical [possession](https://en.wikipedia.org/wiki/Possession_%28linguistics%29) (*the school's policy*).
-2.  An apostrophe indicates the targeted omission of letters in a word [contraction](https://en.wikipedia.org/wiki/Contraction_%28grammar%29) (*don't* for *do not*).
+## The Paint and Polish: Spelling Rules
 
-![Apostrophes are frequently misused to erroneously form plurals. Standard English requires them strictly for indicating possession or forming contractions.](https://wikipedia.org/wiki/Special:Redirect/file/Greengrocer's_apostrophe_correction.jpg)
+[Spelling](https://en.wikipedia.org/wiki/Spelling) in English is notoriously chaotic because it is a language built from the wreckage of [Latin](https://en.wikipedia.org/wiki/Latin), [French](https://en.wikipedia.org/wiki/French_language), [German](https://en.wikipedia.org/wiki/German_language), and [Greek](https://en.wikipedia.org/wiki/Greek_language). However, predictable mechanical rules do exist for [morphological](https://en.wikipedia.org/wiki/Morphology_%28linguistics%29) changes.
 
-### [Spelling Conventions](https://en.wikipedia.org/wiki/English_orthography)
-English spelling can seem crazy, but there are deep historical rules hiding in the madness. Here are three vital ones for your exam:
-*   **The Silent 'e' Rule:** Adding a [suffix](https://en.wikipedia.org/wiki/Suffix) starting with a [vowel](https://en.wikipedia.org/wiki/Vowel) to a word ending in a [silent letter](https://en.wikipedia.org/wiki/Silent_letter) 'e' generally requires dropping the silent letter 'e'. (*Make* + *ing* = *Making*).
-*   **The 'y' to 'i' Rule:** Words ending in a [consonant](https://en.wikipedia.org/wiki/Consonant) and the letter 'y' change the 'y' to 'i' before the addition of a suffix. (*Happy* + *ness* = *Happiness*).
-*   **The Trap of Homophones:** A **[homophone](https://en.wikipedia.org/wiki/Homophone)** is a word that sounds identical to another word while possessing a completely different spelling and meaning (*their*, *there*, and *they're*). You must rely on context to correct these errors!
+1.  **The Silent 'e' Rule:** Adding a [suffix](https://en.wikipedia.org/wiki/Suffix) starting with a [vowel](https://en.wikipedia.org/wiki/Vowel) to a word ending in a [silent letter](https://en.wikipedia.org/wiki/Silent_letter) 'e' generally requires dropping the silent letter 'e'. (*Make* + *ing* = *Making*).
+2.  **The Consonant + 'y' Rule:** Words ending in a [consonant](https://en.wikipedia.org/wiki/Consonant) and the letter 'y' change the 'y' to 'i' before the addition of a suffix. (*Happy* + *ness* = *[Happiness](https://en.wikipedia.org/wiki/Happiness)*).
+3.  **Homophones:** You must remain vigilant of a word that sounds identical to another word while possessing a completely different spelling and meaning. These are called **[homophones](https://en.wikipedia.org/wiki/Homophone)** (*their, there, they're*). Because they sound identical, [auditory memory](https://en.wikipedia.org/wiki/Echoic_memory) will not save you; you must rely strictly on grammatical context.
 
-![A Venn diagram illustrating the relationship between homophones, which sound identical but differ in spelling and meaning. Context provides the only clue for correct usage.](https://wikipedia.org/wiki/Special:Redirect/file/Homograph_homophone_venn_diagram.png)
+![Homophones are words that sound identical but differ in spelling and meaning, requiring writers to rely on grammatical context rather than auditory memory.](https://wikipedia.org/wiki/Special:Redirect/file/Homograph_homophone_venn_diagram.png)
 
----
+## The Context of Communication: Dialects, Registers, and Code-Switching
 
-## Part 5: The Chameleon's Art ([Varieties of English](https://en.wikipedia.org/wiki/Varieties_of_English))
+Up until now, we have treated Standard English as a fixed monolith. But language is a living, breathing social [organism](https://en.wikipedia.org/wiki/Organism). Meaning is not just derived from [dictionary definitions](https://en.wikipedia.org/wiki/Dictionary); it is highly dependent on *who* is speaking, *where* they are speaking, and *who* they are speaking to. 
 
-Here is a profound [truth](https://en.wikipedia.org/wiki/Truth) that you must teach your students: *[Language](https://en.wikipedia.org/wiki/Language) is not monolithic.* 
+### Dialects: The Geography and Sociology of Language
+Standard English is simply one dialect among many. A language dialect is a specific variety of a language characteristic of a particular regional group, or it is a specific variety of a language characteristic of a particular [social group](https://en.wikipedia.org/wiki/Social_group). 
 
-### [Dialects](https://en.wikipedia.org/wiki/Dialect): The Colors of Language
-A **[language dialect](https://en.wikipedia.org/wiki/Dialect)** is a specific variety of a language characteristic of a particular regional group (like [Appalachian English](https://en.wikipedia.org/wiki/Appalachian_English) or [Southern American English](https://en.wikipedia.org/wiki/Southern_American_English)). Alternatively, a language dialect is a specific variety of a language characteristic of a particular social group (like [African American Vernacular English](https://en.wikipedia.org/wiki/African_American_Vernacular_English)). 
+Language dialects feature distinct [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) patterns compared to other dialects. They feature distinct grammatical structures compared to other dialects. They also feature distinct [pronunciation](https://en.wikipedia.org/wiki/Pronunciation) rules compared to other dialects. 
 
-Dialects are not "bad English." They are rich, fully-functional [linguistic](https://en.wikipedia.org/wiki/Linguistics) systems! 
-*   Language dialects feature distinct [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) patterns compared to other dialects. 
-*   Language dialects feature distinct grammatical structures compared to other dialects. 
-*   Language dialects feature distinct [pronunciation](https://en.wikipedia.org/wiki/Pronunciation) rules compared to other dialects. 
+Why do these variations exist and persist? Because language dialects support conversational meaning by signaling regional origin among participating speakers, and they support conversational meaning by signaling [cultural identity](https://en.wikipedia.org/wiki/Cultural_identity) among participating speakers. Dialects are not "broken" English; they are highly structured [linguistic systems](https://en.wikipedia.org/wiki/Linguistic_system) operating perfectly within their own contextual boundaries.
 
-Why do they exist? Because language is human connection. Language dialects support conversational meaning by signaling [cultural identity](https://en.wikipedia.org/wiki/Cultural_identity) among participating speakers, and language dialects support conversational meaning by signaling regional origin among participating speakers. 
+![Dialects are highly structured linguistic systems bound by geography and sociology, rather than "broken" versions of a standard language.](https://wikipedia.org/wiki/Special:Redirect/file/Dialects_of_English_in_UK_and_Ireland.svg)
 
-![A map showing the frequency of the word "y'all" in the United States. Regional dialects possess rich, distinct vocabulary and grammatical systems that signal regional origin.](https://wikipedia.org/wiki/Special:Redirect/file/Y'allMap.jpg)
+### Registers: The Volume Dial of Formality
+If a dialect is *what* system you are using, a [register](https://en.wikipedia.org/wiki/Register_%28sociolinguistics%29) is *how* you tune that system for the room. A language register refers to the specific level of formality applied to language used in a given context. Language speakers consciously or subconsciously shift language registers based on the intended [audience](https://en.wikipedia.org/wiki/Audience) and consciously or subconsciously shift language registers based on the immediate social situation.
 
-So, what is Standard English? **[Standard English](https://en.wikipedia.org/wiki/Standard_English)** is simply a specific language dialect widely accepted in formal education and professional [business](https://en.wikipedia.org/wiki/Business) settings. It is the agreed-upon bridge we use when diverse groups meet in the [classroom](https://en.wikipedia.org/wiki/Classroom) or [boardroom](https://en.wikipedia.org/wiki/Boardroom).
+*   **Formal Language Register:** Used in [academic writing](https://en.wikipedia.org/wiki/Academic_writing), [legal documents](https://en.wikipedia.org/wiki/Legal_document), and professional settings. A formal language register features precise vocabulary choices and a strict adherence to standard grammatical rules. 
+*   **Informal Language Register:** Used with [friends](https://en.wikipedia.org/wiki/Friendship), [family](https://en.wikipedia.org/wiki/Family), and casual environments. An informal language register frequently includes conversational [colloquial expressions](https://en.wikipedia.org/wiki/Colloquialism) and frequently includes relaxed or abbreviated grammatical structures. 
 
-### [Registers](https://en.wikipedia.org/wiki/Register_%28sociolinguistics%29): The Wardrobe of Language
-A **[language register](https://en.wikipedia.org/wiki/Register_%28sociolinguistics%29)** refers to the specific level of formality applied to language used in a given context. Just like you wouldn't wear a [tuxedo](https://en.wikipedia.org/wiki/Black_tie) to the [beach](https://en.wikipedia.org/wiki/Beach), you don't speak the same way to a [judge](https://en.wikipedia.org/wiki/Judge) as you do to your [best friend](https://en.wikipedia.org/wiki/Friendship). 
-
-Language speakers consciously or subconsciously shift language registers based on the intended [audience](https://en.wikipedia.org/wiki/Audience), and they shift language registers based on the immediate social situation.
-
-*   **A formal language register** features precise vocabulary choices and a strict adherence to standard grammatical rules. 
-*   **An informal language register** frequently includes conversational colloquial expressions ([slang](https://en.wikipedia.org/wiki/Slang)) and frequently includes relaxed or abbreviated grammatical structures.
-
-![Just as wearing a tuxedo is appropriate for a formal event but out of place at the beach, language speakers shift to a formal register depending on their audience and environment.](https://wikipedia.org/wiki/Special:Redirect/file/Man_wearing_black_tie.jpg)
-
-### The Ultimate Skill: [Code-Switching](https://en.wikipedia.org/wiki/Code-switching)
-The most sophisticated communicators do something brilliant: **[Code-switching](https://en.wikipedia.org/wiki/Code-switching)**. Code-switching is the linguistic practice of alternating between two or more language varieties in a single conversation. Language speakers utilize code-switching to adapt rapidly to varying social environments. 
-
-As a [teacher](https://en.wikipedia.org/wiki/Teacher), your goal is never to erase a student's native dialect. Your goal is to add Standard English to their linguistic wardrobe, empowering them to code-switch seamlessly depending on the room they are in, the audience they are addressing, and the goals they wish to achieve. 
-
-Language is an [instrument](https://en.wikipedia.org/wiki/Musical_instrument). Teach them to play it beautifully.
+### Code-Switching: Linguistic Adaptation
+Because [humans](https://en.wikipedia.org/wiki/Human) navigate multiple, overlapping social spheres on any given day, we require an adaptive mechanism. **[Code-switching](https://en.wikipedia.org/wiki/Code-switching)** is the linguistic practice of alternating between two or more language varieties in a single [conversation](https://en.wikipedia.org/wiki/Conversation). Language speakers utilize code-switching to adapt rapidly to varying social environments. A student might use a regional dialect with [peers](https://en.wikipedia.org/wiki/Peer_group) in the hallway, seamlessly switch to a formal Standard English register to answer a professor's question, and switch back to the regional dialect when sitting back down. This is not a sign of confusion, but a demonstration of high-level linguistic mastery—the ability to apply the exact right [tool](https://en.wikipedia.org/wiki/Tool) for the exact right social and mechanical job.

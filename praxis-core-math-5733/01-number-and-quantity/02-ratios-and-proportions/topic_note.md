@@ -1,166 +1,102 @@
-# The Architecture of Comparison: Mastering Ratios and Proportions
+Imagine trying to mix the perfect batch of [concrete](https://en.wikipedia.org/wiki/Concrete) to lay the [foundation](https://en.wikipedia.org/wiki/Foundation_%28engineering%29) of a house. If you dump [cement](https://en.wikipedia.org/wiki/Cement), [sand](https://en.wikipedia.org/wiki/Sand), and [gravel](https://en.wikipedia.org/wiki/Gravel) into a mixer at random, the foundation will crumble under its own weight. The secret to concrete that can hold up a [skyscraper](https://en.wikipedia.org/wiki/Skyscraper) is not the absolute tonnage of materials you use, but the exact relational balance between them. This underlying structural harmony is the essence of [ratios](https://en.wikipedia.org/wiki/Ratio) and [proportions](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). They allow us to understand how different [quantities](https://en.wikipedia.org/wiki/Quantity) scale, balance, and interact within the physical world, from the turning gears of a [mechanical clock](https://en.wikipedia.org/wiki/Mechanical_clock) to the scaling of an architectural [blueprint](https://en.wikipedia.org/wiki/Blueprint). 
 
-Welcome! Sit down, grab a cup of coffee, and let's talk about one of the most fundamentally beautiful tools in all of [mathematics](https://en.wikipedia.org/wiki/Mathematics): the art of comparison. 
+![The absolute amounts of materials used in a foundation scale drastically from a single-family house to a skyscraper, but the proportional balance of those materials must remain structurally sound.](https://wikipedia.org/wiki/Special:Redirect/file/Mock_foundations_for_House_and_Apartment.png)
 
-As future [educators](https://en.wikipedia.org/wiki/Teacher) taking the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test), you are going to be tasked with explaining how the world works to your students. And the world, it turns out, rarely exists in isolation. Everything is relative. When you adjust a [recipe](https://en.wikipedia.org/wiki/Recipe) to feed a larger class, when you calculate how long a field trip will take, or when you mix [paint](https://en.wikipedia.org/wiki/Paint) to get the exact right shade of purple—you are using [ratios](https://en.wikipedia.org/wiki/Ratio) and [proportions](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). 
+## The Language of Comparison
 
-At its heart, this topic isn't just about shuffling [numbers](https://en.wikipedia.org/wiki/Number) around. It is about understanding the rigid, invisible relationships that bind [quantities](https://en.wikipedia.org/wiki/Quantity) together. Let's peel back the layers and see how this machinery actually works.
+At its core, **a [ratio](https://en.wikipedia.org/wiki/Ratio) is a [mathematical relationship](https://en.wikipedia.org/wiki/Relation_%28mathematics%29) comparing the sizes or amounts of two or more quantities.** When you state a ratio, you are defining how much of one thing exists in relation to another. 
 
----
+To communicate these relationships, [mathematicians](https://en.wikipedia.org/wiki/Mathematician) use three standard formats. If we are comparing quantity $a$ to quantity $b$, we can write the ratio as:
+1.  **A colon:** Expressed in the format $a:b$.
+2.  **A fraction:** Expressed in the format $\frac{a}{b}$.
+3.  **Verbal language:** Expressed using the word 'to', such as "$a$ to $b$".
 
-## 1. What Exactly is a Ratio?
+When dealing with ratios, [precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) is paramount. **The order of numbers in a ratio must strictly match the order described in the ratio's corresponding verbal language.** If a [recipe](https://en.wikipedia.org/wiki/Recipe) calls for a ratio of [flour](https://en.wikipedia.org/wiki/Flour) to [sugar](https://en.wikipedia.org/wiki/Sugar) of $3:1$, swapping those numbers yields a $1:3$ ratio, resulting in a disastrously sweet, flat cake. Because this positional order acts as a strict set of instructions, **the ratio $a:b$ is not [mathematically equal](https://en.wikipedia.org/wiki/Equality_%28mathematics%29) to the ratio $b:a$ unless quantity $a$ is exactly equal to quantity $b$.**
 
-If I have 10 apples and you have 5, we could just say "I have 5 more apples than you." That’s [subtraction](https://en.wikipedia.org/wiki/Subtraction); it’s additive thinking. But if we want to understand the *relative scale* of our apples, we use [multiplicative](https://en.wikipedia.org/wiki/Multiplication) thinking. 
+![In cooking, ratios serve as a strict set of instructions. Swapping the positional order of flour and sugar in a recipe will fundamentally alter the chemical outcome of the food.](https://wikipedia.org/wiki/Special:Redirect/file/Backzutaten_041.jpg)
 
-> **A [ratio](https://en.wikipedia.org/wiki/Ratio) is a mathematical relationship comparing the sizes or amounts of two or more quantities.** 
+## Dissecting the Group: Parts and Wholes
 
-A ratio acts as an **independent [mathematical expression](https://en.wikipedia.org/wiki/Expression_%28mathematics%29) representing a single comparison**. It sits by itself, proudly stating exactly how one amount stacks up against another. 
+Ratios allow us to slice up a group of items into different analytical perspectives. Imagine a [classroom](https://en.wikipedia.org/wiki/Classroom) containing 15 girls and 10 boys.
 
-### The Language of Ratios
-We have a beautifully flexible [notation](https://en.wikipedia.org/wiki/Mathematical_notation) for writing these relationships. If we are comparing my 10 apples to your 5 apples, we can express this ratio in three different ways:
-1. **Verbally using the word 'to':** "10 to 5"
-2. **Using a [colon](https://en.wikipedia.org/wiki/Colon_%28punctuation%29):** written in the format **10:5**
-3. **As a [fraction](https://en.wikipedia.org/wiki/Fraction):** written in the format **10/5**
+*   **A part-to-part ratio compares one specific [subset](https://en.wikipedia.org/wiki/Subset) of a group to another specific subset of the same group.** The ratio of girls to boys is $15:10$. We are comparing two separate pieces of the total [population](https://en.wikipedia.org/wiki/Statistical_population) directly to one another.
+*   **A part-to-whole ratio compares one specific subset of a group to the entire group.** The ratio of girls to the *total* number of students is $15:25$. Here, the whole ($25$) is the [sum](https://en.wikipedia.org/wiki/Summation) of its parts.
 
-### The Golden Rule of Ratios: Order Dictates Everything
-If I tell you the ratio of "teachers to students" is 1 to 20, that makes perfect sense. One teacher for every twenty students. But if you swap that around and say the ratio of "teachers to students" is 20 to 1, suddenly we have twenty teachers staring at a single, very intimidated student! 
+We are not limited to comparing just two things. Often, a [system](https://en.wikipedia.org/wiki/System) requires multiple components. **Ratios comparing three quantities are typically written using [colons](https://en.wikipedia.org/wiki/Colon_%28punctuation%29) in the format $a:b:c$.** For example, if we introduce 5 teachers to our classroom, the ratio of girls to boys to teachers becomes $15:10:5$. 
 
-> **Warning: The Order Matters!**
-> The order of numbers in a ratio must strictly match the order described in the ratio's corresponding verbal language. Because of this, **the ratio a:b is not mathematically equal to the ratio b:a** unless quantity *a* is exactly equal to quantity *b*.
+> **Crucial Rule:** **The total number of parts in an $a:b:c$ ratio is [calculated](https://en.wikipedia.org/wiki/Calculation) by adding the values of $a$, $b$, and $c$ together.** In our classroom example, the total number of parts representing all humans in the room is $15 + 10 + 5 = 30$.
 
-### Units: Apples to Apples, or Apples to Oranges?
-One of the most powerful things about ratios is their versatility. 
-* **Same Units:** Ratios can compare quantities possessing the exact same [units of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement). (e.g., 3 cups of [flour](https://en.wikipedia.org/wiki/Flour) to 2 cups of [sugar](https://en.wikipedia.org/wiki/Sugar)). 
-* **Different Units:** Ratios can also compare quantities possessing completely different units of measurement. (e.g., 150 miles to 3 hours).
+## Scaling Reality: Equivalent Ratios
 
-When a ratio compares two quantities with entirely different units of measurement, it earns a special title: it is specifically classified as a **[rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29)**. Think of your car's [speedometer](https://en.wikipedia.org/wiki/Speedometer)—[miles per hour](https://en.wikipedia.org/wiki/Miles_per_hour) is a rate! 
+When you zoom in on a [photograph](https://en.wikipedia.org/wiki/Photograph), the image gets larger, but the picture itself doesn't distort. The relationship between the height and the width remains unchanged. This brings us to a fundamental concept: **Equivalent ratios are distinct ratio expressions that represent the exact same relationship between quantities.**
 
-![A car's speedometer displays a practical unit rate, measuring the distance traveled relative to a single hour of time.](https://wikipedia.org/wiki/Special:Redirect/file/_Ford_Mondeo_MK3_ST220_-_Speedometer.jpg)
+The ratio $1:2$ represents the same fundamental relationship as $5:10$ or $500:1000$. To navigate between these different sizes of the same relationship, we rely on two operations:
+*   **[Multiplying](https://en.wikipedia.org/wiki/Multiplication) every term of a ratio by the same non-zero number creates an equivalent ratio.**
+*   **[Dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) every term of a ratio by the same non-zero number creates an equivalent ratio.**
 
-Furthermore, if we boil that rate down so that the second quantity in the comparison is exactly one, we call it a **[unit rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29)**. For example, converting "150 miles / 3 hours" down to "50 miles / 1 hour" gives us a unit rate of 50 miles per hour. Unit rates are the ultimate tool for comparing different [prices](https://en.wikipedia.org/wiki/Price) at the [grocery store](https://en.wikipedia.org/wiki/Grocery_store).
+The number you choose to multiply or divide by serves a special function. It acts as **a [scale factor](https://en.wikipedia.org/wiki/Scale_factor), which is the single multiplier used to scale all quantities in a given ratio up or down proportionally.** If you are tripling a recipe, your scale factor is $3$; you multiply every ingredient's quantity by $3$. 
 
----
+![A scale factor acts as a universal multiplier to maintain proportionality. Here, a base quantity of 2 is multiplied by a scale factor of 3 to expand the relationship up to 6.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_scaling.svg)
 
-## 2. Parts, Wholes, and Expanding the Cast
+Just as we can scale up, we can scale down. **Ratios are simplified to their lowest terms by dividing all quantities within the ratio by their [greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor).** If you have a ratio of $20:30$, the greatest common factor is $10$. Dividing both terms by $10$ simplifies the ratio down to its most elegant, fundamental state: $2:3$.
 
-Ratios come in a few different flavors depending on *what* we are comparing within a group. Let's imagine a classroom containing 12 girls and 8 boys (20 students total).
+![Dividing quantities by their greatest common factor simplifies proportional relationships. For example, a 24-by-60 area can be seamlessly simplified by 12, the greatest common divisor of both dimensions.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
 
-| Type of Ratio | Definition | Example from our Classroom |
-| :--- | :--- | :--- |
-| **Part-to-Part Ratio** | Compares one specific [subset](https://en.wikipedia.org/wiki/Subset) of a group to another specific subset of the same group. | The ratio of girls to boys is **12:8**. |
-| **Part-to-Whole Ratio** | Compares one specific subset of a group to the entire group. | The ratio of girls to total students is **12:20**. |
+## Apples, Oranges, and Rates
 
-### The Three-Part Harmony
-Life isn't always binary. Sometimes we are mixing three or more ingredients together. Consider making [concrete](https://en.wikipedia.org/wiki/Concrete): we need [cement](https://en.wikipedia.org/wiki/Cement), [sand](https://en.wikipedia.org/wiki/Sand), and [gravel](https://en.wikipedia.org/wiki/Gravel). 
+It is a common misconception that you can only compare things that are alike. In mathematics, **ratios can compare quantities possessing the exact same [units of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement)** (like measuring a model airplane's wingspan in [inches](https://en.wikipedia.org/wiki/Inch) against the real airplane's wingspan in inches). 
 
-Ratios comparing three quantities are typically written using colons in the format **a:b:c**. 
-If our concrete mix requires 1 shovel of cement, 2 shovels of sand, and 3 shovels of gravel, our ratio is **1:2:3**. 
+However, **ratios can also compare quantities possessing completely different units of measurement.** When we bridge two entirely different dimensions—like [distance](https://en.wikipedia.org/wiki/Distance) and [time](https://en.wikipedia.org/wiki/Time), or [money](https://en.wikipedia.org/wiki/Money) and [mass](https://en.wikipedia.org/wiki/Mass)—we give this relationship a special name. **A ratio comparing two quantities with entirely different units of measurement is specifically classified as a [rate](https://en.wikipedia.org/wiki/Rate_%28mathematics%29).**
 
-How many total shovels of material make up one "batch" of this mix? 
-> **The total number of parts in an a:b:c ratio is calculated by adding the values of a, b, and c together.** 
+When you drive on the [highway](https://en.wikipedia.org/wiki/Highway), you measure your [speed](https://en.wikipedia.org/wiki/Speed) in [miles per hour](https://en.wikipedia.org/wiki/Miles_per_hour). You are comparing miles (distance) to hours (time). Within the world of rates, there is an incredibly useful subcategory: **A [unit rate](https://en.wikipedia.org/wiki/Unit_rate) is a specific type of ratio where the second quantity in the comparison is exactly one.** 
 
-In our concrete example, $1 + 2 + 3 = 6$. So, there are 6 total parts in this [mixture](https://en.wikipedia.org/wiki/Mixture). One batch is 6 shovels wide. This concept of the "total parts" is the [skeleton key](https://en.wikipedia.org/wiki/Skeleton_key) to solving real-world [word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29), which we will look at shortly.
+If you earn \$60 in 4 hours, your rate of pay is $60:4$. By dividing both terms by 4, you find your unit rate: \$15 per 1 hour. Unit rates are the ultimate tool for comparing value, allowing you to instantly determine which brand of cereal is cheaper per [ounce](https://en.wikipedia.org/wiki/Ounce) or which car is more [fuel-efficient](https://en.wikipedia.org/wiki/Fuel_efficiency) per [gallon](https://en.wikipedia.org/wiki/Gallon).
 
----
+![Fuel prices are displayed as unit rates, comparing the total cost in currency to exactly one unit (like a gallon or liter) of fuel to help consumers instantly evaluate value.](https://wikipedia.org/wiki/Special:Redirect/file/US_petrol_pump.jpg)
 
-## 3. Equivalent Ratios and The Magic of Scaling
+## Proportions: From Expressions to Equations
 
-Imagine taking a photograph on your phone and zooming in. The image gets larger, but the picture doesn't distort. The width and the height grow in lockstep. This is the essence of **[equivalent ratios](https://en.wikipedia.org/wiki/Ratio)**: distinct ratio expressions that represent the exact same relationship between quantities. 
+Up until this point, we have treated ratios as standalone concepts. **A ratio acts as an independent [mathematical expression](https://en.wikipedia.org/wiki/Expression_%28mathematics%29) representing a single comparison.** It sits on the page by itself: $\frac{3}{4}$.
 
-![A standard 4:3 aspect ratio ensures that the relationship between width and height remains constant and proportional, regardless of the overall image size.](https://wikipedia.org/wiki/Special:Redirect/file/Aspect-ratio-4x3.svg)
+But what happens when we connect two equivalent ratios with an [equals sign](https://en.wikipedia.org/wiki/Equals_sign)? We create a [proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). **A proportion acts as a full [equation](https://en.wikipedia.org/wiki/Equation) connecting two independent ratio expressions.**
 
-How do we create them? We scale them!
-* **[Multiplying](https://en.wikipedia.org/wiki/Multiplication)** every [term](https://en.wikipedia.org/wiki/Term_%28mathematics%29) of a ratio by the same non-zero number creates an equivalent ratio. (e.g., 1:2 becomes 3:6 if we multiply both sides by 3).
-* **[Dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29)** every term of a ratio by the same non-zero number creates an equivalent ratio. (e.g., 10:20 becomes 1:2 if we divide both sides by 10).
+> **Definition:** **A proportion is a mathematical equation stating that two different ratios are equal to each other.** 
 
-The number we use to perform this magic has a name. A **[scale factor](https://en.wikipedia.org/wiki/Scale_factor)** is the single multiplier used to scale all quantities in a given ratio up or down proportionally. 
+**A proportion is typically written in the [fractional](https://en.wikipedia.org/wiki/Fraction) format $\frac{a}{b} = \frac{c}{d}$.** This structure transforms ratios from descriptive expressions into powerful [algebraic](https://en.wikipedia.org/wiki/Algebra) tools. 
 
-![Multiplying a base value by a specific scale factor increases its size while maintaining its fundamental proportional relationship.](https://wikipedia.org/wiki/Special:Redirect/file/Multiply_scaling.svg)
+![Like a physical balance scale, a proportion is an algebraic equation demonstrating that two distinct mathematical expressions possess equal value.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
 
-### Stripping it Down to the Studs
-In mathematics, we like things clean and tidy. Just like fractions, ratios are simplified to their lowest terms by dividing all quantities within the ratio by their **[greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor)** (GCF). 
+## Solving the Unknown: Cross-Multiplication
 
-![The greatest common factor of two numbers can be geometrically visualized as the largest square tile that perfectly divides a rectangle of those dimensions.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
+Because a proportion is a full algebraic equation, it allows us to solve mysteries. If we know three out of the four numbers in a proportion, we can always find the missing fourth. 
 
-Take the ratio 18:24. The largest number that perfectly divides both 18 and 24 is 6. 
-* $18 \div 6 = 3$
-* $24 \div 6 = 4$
-The simplified ratio is **3:4**. It expresses the exact same mathematical reality as 18:24, but in its most elegant, foundational form.
+To uncover the missing [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29), we use a beautifully efficient mechanism. **[Cross-multiplication](https://en.wikipedia.org/wiki/Cross-multiplication) is an algebraic method used to solve for an unknown variable within a proportion.** 
 
----
+How does it work? **In the proportion $\frac{a}{b} = \frac{c}{d}$, the [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of $a$ and $d$ equals the product of $b$ and $c$ according to cross-multiplication rules.** Visually, you multiply diagonally across the equals sign.
 
-## 4. Solving Real-World Mixture Puzzles (The "One Part" Trick)
+Let's say you know your car travels $150$ [miles](https://en.wikipedia.org/wiki/Mile) on $5$ [gallons](https://en.wikipedia.org/wiki/Gallon) of [gas](https://en.wikipedia.org/wiki/Gasoline). You want to know how many gallons ($x$) you need to travel $450$ miles. You set up the proportion:
+$$\frac{150}{5} = \frac{450}{x}$$
 
-As a teacher, you will face Praxis questions that look like this:
-*A school’s [budget](https://en.wikipedia.org/wiki/Budget) for art, music, and sports is divided in the ratio 2:3:5. If the total budget is \$50,000, how much money goes to the music department?*
+By cross-multiplying, you multiply $150$ by $x$, and $5$ by $450$:
+$$150x = 2250$$
+Divide both sides by $150$, and you discover that $x = 15$. You need 15 gallons of gas.
 
-Don't panic! Remember our concrete mix? We solve this using the "One Part" trick. 
+Cross-multiplication is also the ultimate lie detector for [equivalency](https://en.wikipedia.org/wiki/Equivalence_relation). **Two ratios form a true proportion only if their resulting cross-products are perfectly equal.** If someone claims that $\frac{2}{3} = \frac{5}{8}$, you cross-multiply: $2 \times 8 = 16$, and $3 \times 5 = 15$. Since $16$ does not equal $15$, the ratios are definitively not proportional.
 
-1. **Find the total parts:** First, calculate the sum of all parts in the ratio. (\$2 + 3 + 5 = 10$ total parts).
-2. **Find the value of ONE part:** To find an unknown part-to-whole quantity using a ratio, divide the real-world total quantity by the sum of the ratio parts to find the value of one single ratio part. 
-   * $\$50,000 \div 10 \text{ parts} = \$5,000 \text{ per part}$.
-3. **Scale it up:** Now that you know exactly what one "piece" is worth, you can find any specific slice. The music department gets 3 parts. 
-   * \$3 \text{ parts} \times \$5,000 = \$15,000$.
+## Applying Ratios to Real-World Mixtures
 
-> **Working Backwards:**
-> What if the problem gave you the value of just one part and asked for the total? Easy! The total real-world quantity of a mixture defined by a ratio is calculated by multiplying the value of a single ratio part by the sum of all parts in the ratio.
+Often, real-world problems give us the total amount of a mixture and the ratio of its ingredients, but hide the absolute amounts of each individual part. We must [reverse-engineer](https://en.wikipedia.org/wiki/Reverse_engineering) the recipe. 
 
----
+Imagine a [landscaper](https://en.wikipedia.org/wiki/Landscaping) wants $40$ [pounds](https://en.wikipedia.org/wiki/Pound_%28mass%29) of a custom [soil](https://en.wikipedia.org/wiki/Soil) blend made of sand and [compost](https://en.wikipedia.org/wiki/Compost) in a $3:5$ ratio. How much sand is actually in the mix?
 
-## 5. Proportions: The Grand Equation
+![A soil texture triangle illustrates how different classifications of soil are defined strictly by the proportional ratio of their raw ingredients, such as sand, silt, and clay.](https://wikipedia.org/wiki/Special:Redirect/file/SoilTextureTriangle.svg)
 
-We now arrive at a critical threshold. We have been talking about *ratios*, which are independent expressions. But what happens when we set two ratios perfectly equal to one another? We create a **[proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29)**.
+First, calculate the total "parts" making up the whole. $3 + 5 = 8$ total parts. 
+Next, establish the value of a single part. **To find an unknown part-to-whole quantity using a ratio, divide the real-world total quantity by the sum of the ratio parts to find the value of one single ratio part.** 
+$$40 \text{ lbs} \div 8 \text{ parts} = 5 \text{ lbs per part}$$
 
-> **A proportion is a mathematical [equation](https://en.wikipedia.org/wiki/Equation) stating that two different ratios are equal to each other.** 
+Now that you know one "part" weighs $5$ pounds, you can find the actual weight of the sand. The sand constitutes $3$ parts, so $3 \times 5 = 15$ pounds of sand. 
 
-Look at the wording closely. A *ratio* acts as an independent mathematical expression representing a single comparison. By contrast, a *proportion* acts as a full equation connecting two independent ratio expressions. 
+This logic works equally well in reverse to find the total. **The total real-world quantity of a mixture defined by a ratio is calculated by multiplying the value of a single ratio part by the sum of all parts in the ratio.** If you were told a single ratio part weighs $5$ pounds, and the mixture consists of $8$ total parts, you multiply $5 \times 8$ to verify the total mixture weighs $40$ pounds. 
 
-A proportion is typically written in the fractional format:
-### $$\frac{a}{b} = \frac{c}{d}$$
-
-![A proportion acts as a mathematical balance scale, requiring both independent ratio expressions to carry the exact same mathematical weight.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
-
-It is a declaration of perfect mathematical balance. It tells us that the relationship scaling *a* to *b* is the exact same mechanism scaling *c* to *d*.
-
----
-
-## 6. The Elegance of Cross-Multiplication
-
-Now, what if one of the pieces of our proportion goes missing? What if we have $\frac{3}{4} = \frac{x}{20}$?
-
-Because a proportion is a true [algebraic equation](https://en.wikipedia.org/wiki/Algebraic_equation), we can use [algebra](https://en.wikipedia.org/wiki/Algebra) to solve for the unknown [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29). The most efficient tool for this job is called **[cross-multiplication](https://en.wikipedia.org/wiki/Cross-multiplication)**.
-
-> **Cross-multiplication is an algebraic method used to solve for an unknown variable within a proportion.** 
-
-Here is the rule: In the proportion **a/b = c/d**, the [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of **a** and **d** equals the product of **b** and **c** according to cross-multiplication rules. 
-
-### $$a \times d = b \times c$$
-
-Why does this work? It’s not a magic spell; it’s just beautiful algebra! If you take the equation $\frac{a}{b} = \frac{c}{d}$ and multiply both sides by both [denominators](https://en.wikipedia.org/wiki/Denominator) ($b \times d$) to clear the fractions, the $b$ [cancels](https://en.wikipedia.org/wiki/Cancellation_property) on the left, the $d$ cancels on the right, and you are left perfectly with $a \times d = b \times c$.
-
-Let's use it on our missing variable problem: $\frac{3}{4} = \frac{x}{20}$.
-1. Multiply diagonally: $3 \times 20 = 4 \times x$
-2. Simplify: $60 = 4x$
-3. Solve for $x$: $x = 15$. 
-
-### The Ultimate Litmus Test
-Cross-multiplication isn't just for finding missing variables; it is also a [lie detector](https://en.wikipedia.org/wiki/Polygraph) for equations. 
-
-How do you know if two fractions are truly equivalent? **Two ratios form a true proportion only if their resulting cross-products are perfectly equal.**
-
-If a student asks you, "Is 5/7 equal to 7/9?" you don't need to find a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator). Just cross-multiply!
-* \$5 \times 9 = 45$
-* $7 \times 7 = 49$
-Since 45 does not equal 49, those two ratios do *not* form a true proportion. The balance is broken.
-
----
-
-## The Takeaway
-
-As you sit down to take your Praxis Core Mathematics exam, remember that ratios and proportions are simply the mathematics of fairness, scaling, and relationship. 
-* Keep your **order** strict.
-* Remember that **ratios** are the independent comparisons, while **proportions** are the [equal signs](https://en.wikipedia.org/wiki/Equals_sign) bridging them. 
-* Master the **"one part" trick** for mixtures.
-* Trust the elegance of **cross-multiplication**.
-
-Mathematics is just a [language](https://en.wikipedia.org/wiki/Language_of_mathematics) we use to describe the patterns of the universe. Once you understand the grammar of ratios, the rest is just writing [poetry](https://en.wikipedia.org/wiki/Poetry). Good luck!
+Through ratios and proportions, mathematics transcends mere counting. It becomes the science of relationships, allowing you to seamlessly scale a microscopic architectural blueprint up into a towering steel [bridge](https://en.wikipedia.org/wiki/Bridge).

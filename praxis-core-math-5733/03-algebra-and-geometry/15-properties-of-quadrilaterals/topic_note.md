@@ -1,154 +1,121 @@
-# The Marvelous Menagerie of Four-Sided Shapes
+Imagine taking four straight, rigid sticks and pinning them together end-to-end so they lie flat on a table. The moment you connect the final stick to the first, closing the shape, you have created a universe bounded by distinct, unyielding mathematical laws. This geometric boundary is a **[quadrilateral](https://en.wikipedia.org/wiki/Quadrilateral)**, defined formally as a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) [polygon](https://en.wikipedia.org/wiki/Polygon) with exactly four sides. Regardless of how you push, pull, or skew those four connected sticks—whether you stretch the joints into a long, slanted dart or square them up perfectly—one fundamental truth governs the system: the sum of the [interior angles](https://en.wikipedia.org/wiki/Internal_and_external_angles) of any quadrilateral is exactly 360 [degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).
 
-Welcome, future [educators](https://en.wikipedia.org/wiki/Teacher)! If there is one thing I want you to take away from our time together today, it’s that [geometry](https://en.wikipedia.org/wiki/Geometry) is not just a dusty list of rules to memorize. No! Geometry is a beautiful, [logical](https://en.wikipedia.org/wiki/Logic), living [language](https://en.wikipedia.org/wiki/Language). It’s the study of the fundamental structures of our [universe](https://en.wikipedia.org/wiki/Universe). Today, we are going to look closely at a specific family of [shapes](https://en.wikipedia.org/wiki/Shape). I want you to imagine you are a biological [taxonomist](https://en.wikipedia.org/wiki/Taxonomy_%28biology%29)—like [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) exploring the [Galápagos](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands)—but instead of [finches](https://en.wikipedia.org/wiki/Darwin%27s_finches), we are studying [polygons](https://en.wikipedia.org/wiki/Polygon). 
+Understanding quadrilaterals is not an exercise in memorizing a random assortment of shapes. It is a study in [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29), constraints, and consequences. When we force sides to be [parallel](https://en.wikipedia.org/wiki/Parallel_%28geometry%29), or angles to stand perfectly upright, or side lengths to match, we trigger a cascade of structural guarantees. Let us dissect how imposing these [geometric](https://en.wikipedia.org/wiki/Geometry) constraints gives rise to the distinct families of quadrilaterals you must master.
 
-Specifically, we are looking at the **[quadrilateral](https://en.wikipedia.org/wiki/Quadrilateral)**. 
+![A hierarchical taxonomy of quadrilaterals, demonstrating how imposing specific mathematical constraints creates specialized, highly symmetric shapes from broader baseline categories.](https://wikipedia.org/wiki/Special:Redirect/file/Quadrilateral_hierarchy_svg.svg)
 
-What is it? Simply put, **a quadrilateral is a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) [polygon](https://en.wikipedia.org/wiki/Polygon) with exactly four sides.** Nothing more, nothing less. But from this incredibly simple definition, a whole universe of diverse, highly specialized shapes emerges. Let’s dive into the family tree, figure out what makes each shape tick, and learn how to use their "[genetic](https://en.wikipedia.org/wiki/Genetics)" traits to solve the puzzles you'll see on the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test).
+## The Foundation: Solving for the Unknown
 
-![A "family tree" (or Hasse diagram) illustrating the taxonomic relationships between different types of quadrilaterals based on their geometric properties.](https://wikipedia.org/wiki/Special:Redirect/file/Quadrilateral_hierarchy_svg.svg)
+Before we categorize specific shapes, we must understand the overarching rule that binds all quadrilaterals. By drawing a single [diagonal](https://en.wikipedia.org/wiki/Diagonal) line from one corner to the opposite corner, you slice any quadrilateral into two distinct [triangles](https://en.wikipedia.org/wiki/Triangle). Because the interior angles of a single triangle must sum to $180^\circ$, the two triangles combined yield $180^\circ \times 2 = 360^\circ$. 
 
----
+> **The Universal Angle Law:** The sum of the interior angles of any quadrilateral is exactly 360 degrees. 
 
-## The Golden Rule of Quadrilaterals
+This leads directly to our first practical application. To find a missing angle in a quadrilateral, subtract the sum of the three known interior angles from 360 degrees. If a [survey](https://en.wikipedia.org/wiki/Surveying) of a bizarrely shaped four-sided lot reveals corners measuring $70^\circ$, $110^\circ$, and $80^\circ$, the final corner is entirely predetermined: $360^\circ - (70^\circ + 110^\circ + 80^\circ) = 100^\circ$.
 
-Before we meet the individual members of this shape family, we have to establish the one grand, unifying rule that they all obey, from the most chaotic, lopsided shape to the most perfectly [symmetrical](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29) [square](https://en.wikipedia.org/wiki/Square). 
+## The Parallelogram: The Architecture of Parallelism
 
-If you take any quadrilateral in the universe and add up the [angles](https://en.wikipedia.org/wiki/Angle) inside it, what do you get? 
+When we impose the condition that opposite sides must run in the exact same direction, we create a highly stable structure. A **[parallelogram](https://en.wikipedia.org/wiki/Parallelogram)** is a quadrilateral possessing exactly two pairs of parallel opposite sides. 
 
-> **The Universal Constant:** **The [sum](https://en.wikipedia.org/wiki/Addition) of the [interior angles](https://en.wikipedia.org/wiki/Internal_angle) of any quadrilateral is exactly 360 [degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).**
+The instant we demand that both pairs of opposite sides are parallel, the [geometry](https://en.wikipedia.org/wiki/Geometry) fights back by forcing several other traits into existence. These are not separate, unrelated facts; they are inevitable consequences of the parallel constraint.
 
-Why? Well, think about it like this: if you take a pen and draw a [diagonal line](https://en.wikipedia.org/wiki/Diagonal) connecting two opposite corners of *any* quadrilateral, what have you just done? You’ve sliced the four-sided shape into two [triangles](https://en.wikipedia.org/wiki/Triangle)! Every triangle has 180 degrees inside it. Two triangles multiplied by 180 degrees gives you exactly 360 degrees. It’s not magic; it’s beautiful [logic](https://en.wikipedia.org/wiki/Logic)!
+### Side and Angle Consequences
+Because the parallel sides must span the exact same gap across the interior, the opposite sides of a parallelogram are equal in length. Furthermore, the uniform tilt of the shape dictates that the opposite interior angles of a parallelogram are equal in measure. If the bottom-left corner is $60^\circ$, the top-right corner is undeniably $60^\circ$.
 
-![By drawing a diagonal line from one corner to another, any quadrilateral can be split into exactly two triangles. Since each triangle contains 180°, the total interior angle sum of the quadrilateral is 360°.](https://wikipedia.org/wiki/Special:Redirect/file/Winkelsumme-polygon.svg)
+![A standard parallelogram illustrating its core defining characteristics: opposite sides are parallel and equal in length, and diagonally opposite interior angles are identical.](https://wikipedia.org/wiki/Special:Redirect/file/Parallelogram1.svg)
 
-Because of this constant, we have a foolproof method for solving exam questions. **To find a missing angle in a quadrilateral, [subtract](https://en.wikipedia.org/wiki/Subtraction) the sum of the three known interior angles from 360 degrees.** 
+What about neighboring angles? Think of the parallel sides as train tracks, and the side connecting them as a [transversal](https://en.wikipedia.org/wiki/Transversal_%28geometry%29) straight line crossing those tracks. Because of the rules of parallel lines, any two consecutive interior angles of a parallelogram are [supplementary](https://en.wikipedia.org/wiki/Supplementary_angles). Expressed numerically, the sum of any two consecutive interior angles of a parallelogram is exactly 180 degrees. 
 
-If you know three angles are 100°, 80°, and 90°... that’s 270°. Subtract 270° from 360°, and your missing angle *must* be 90°. It’s a [physical law](https://en.wikipedia.org/wiki/Physical_law) of the shape.
+![Treating the parallel sides as straight lines crossed by a transversal segment, the consecutive interior angles on the same side are supplementary and sum exactly to 180 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Transverzala_parallel.svg)
 
----
+### Diagonal Consequences
+Finally, let us look at the internal cross-bracing. If you connect the opposite corners of a parallelogram, the crossing lines behave beautifully: the two diagonals of a parallelogram [bisect](https://en.wikipedia.org/wiki/Bisection) each other. This means they cut each other perfectly in half at their [intersection](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) point. 
 
-## The Parallelogram: The Patriarch of the Family
+## The Specialized Parallelograms: Rectangles and Rhombuses
 
-Now, let's meet the most important branch of the quadrilateral family tree: the [Parallelogram](https://en.wikipedia.org/wiki/Parallelogram). If you understand the parallelogram, you will understand almost everything else. 
+If the parallelogram is the parent, it has two specialized offspring. Each takes the parallelogram template and adds a single new, extreme constraint. 
 
-**A parallelogram is a quadrilateral possessing exactly two pairs of [parallel](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) opposite sides.** Think of two [train tracks](https://en.wikipedia.org/wiki/Railway_track) crossing another set of train tracks. The space trapped in the middle? That’s your parallelogram. 
+### The Rectangle: Forcing Right Angles
+Suppose we take a slanted parallelogram and push its sides until it stands perfectly upright. By doing so, we define a new shape: a **[rectangle](https://en.wikipedia.org/wiki/Rectangle)** is a type of parallelogram containing exactly four [right](https://en.wikipedia.org/wiki/Right_angle) interior angles. 
 
-Because those opposite lines are perfectly parallel—locked in a perpetual, never-touching glide—a wonderful [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29) is forced into the shape:
-*   **The opposite sides of a parallelogram are equal in [length](https://en.wikipedia.org/wiki/Length).** (If the top is 10 units, the bottom is definitively 10 units).
-*   **The opposite interior angles of a parallelogram are equal in [measure](https://en.wikipedia.org/wiki/Measure_%28mathematics%29).** (The angle in the bottom-left corner is exactly the same as the angle in the top-right corner).
+> **Right Angle Constraint:** Because the sum of the angles must be $360^\circ$ and they are all identical, each interior angle of a rectangle measures exactly 90 degrees.
 
-![A standard parallelogram demonstrating the key properties: opposite sides are parallel and equal in length, and opposite interior angles are equal in measure.](https://wikipedia.org/wiki/Special:Redirect/file/Parallelogram1.svg)
+What is the consequence of this upright posture? In a slanted parallelogram, one diagonal is stretched long, and the other is squashed short. But once the frame is forced into $90^\circ$ upright perfection, the distances between opposite corners equalize. Therefore, the two diagonals of a rectangle are equal in length.
 
-### The "Sliding Angle" Trick
-Imagine you are walking along the inside of a parallelogram. **Any two consecutive interior angles of a parallelogram are [supplementary](https://en.wikipedia.org/wiki/Supplementary_angles).** What does the word *supplementary* mean in [mathematics](https://en.wikipedia.org/wiki/Mathematics)? It means that **the sum of any two consecutive interior angles of a parallelogram is exactly 180 degrees.** If the bottom-left angle is 60°, the angle right next to it (top-left or bottom-right) *must* be 120°. 
+### The Rhombus: Forcing Equal Sides
+Now, return to the original, slanted parallelogram. Instead of fixing the angles, let us fix the *sides*. A **[rhombus](https://en.wikipedia.org/wiki/Rhombus)** is a type of parallelogram possessing four sides of equal length. 
 
-### The Secret Life of Diagonals
-If we draw an "X" through the parallelogram by connecting the opposite corners, we create [diagonals](https://en.wikipedia.org/wiki/Diagonal). In a parallelogram, these two crossed lines do something very specific: **The two diagonals of a parallelogram [bisect](https://en.wikipedia.org/wiki/Bisection) each other.** 
+Think of a rhombus as a highly [symmetric](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29) diamond. Because all four sides exert the exact same structural "pull" toward the center, the diagonals interact in a mathematically profound way. The symmetry forces the two diagonals of a rhombus to intersect at exactly a 90-degree angle. Furthermore, because of this perfect side-length symmetry, the diagonals of a rhombus bisect the interior angles of the rhombus, splitting the corner angles flawlessly in half.
 
-*Bisect* means to cut perfectly in half. One diagonal might be 20 [inches](https://en.wikipedia.org/wiki/Inch), and the other might be 14 inches. They aren't the same length, but the exact spot where they cross is the perfect [midpoint](https://en.wikipedia.org/wiki/Midpoint) for both. The 20-inch line is sliced into two 10-inch halves, and the 14-inch line is sliced into two 7-inch halves. 
+![In a rhombus, all four bounding sides are perfectly equal in length. This symmetry forces the internal diagonals to cross at a rigid 90-degree right angle and perfectly bisect the corner angles.](https://wikipedia.org/wiki/Special:Redirect/file/Rhombus1.svg)
 
----
+## The Square: The Apex of Symmetry
 
-## The Specialists: Rectangles and Rhombuses
+What happens if we demand everything at once? We want the upright $90^\circ$ corners of the rectangle *and* the identical side lengths of the rhombus.
 
-Over time, our basic parallelogram evolved. It had children that specialized to become perfectly adapted for specific jobs. These are the [Rectangle](https://en.wikipedia.org/wiki/Rectangle) and the [Rhombus](https://en.wikipedia.org/wiki/Rhombus).
+A **[square](https://en.wikipedia.org/wiki/Square)** is a type of quadrilateral containing four right angles and four sides of equal length. Because it satisfies every single constraint we have discussed, it represents the intersection of all our previous categories. Therefore:
+* A square inherently possesses all the geometric properties of a parallelogram.
+* A square inherently possesses all the geometric properties of a rectangle.
+* A square inherently possesses all the geometric properties of a rhombus.
 
-### 1. The Rectangle: The Master of Angles
-Imagine you take a slanted parallelogram, put your hands on the sides, and push it until it stands straight up. You have just created a [rectangle](https://en.wikipedia.org/wiki/Rectangle)!
+Because it inherits from the rectangle, the two diagonals of a square are equal in length. Because it inherits from the rhombus, the two diagonals of a square are strictly [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) to each other. It is the ultimate geometric hybrid.
 
-**A rectangle is a type of parallelogram containing exactly four [right interior angles](https://en.wikipedia.org/wiki/Right_angle).** 
-Because it is a type of parallelogram, it inherits *all* the parallelogram's traits (opposite sides are equal, diagonals bisect). But because it stood up straight, we gain some new, specialized properties:
-*   **Each interior angle of a rectangle measures exactly 90 degrees.** 
-*   Because the shape is now perfectly upright and symmetrical, the diagonals are forced to equalize. **The two diagonals of a rectangle are equal in length.** (Remember, in a regular parallelogram, one diagonal is usually longer than the other. Not anymore!)
+![The square represents the mathematical intersection of two specific constrained paths: it inherits the right angles of a rectangle (top row) and the equal side lengths of a rhombus (bottom row).](https://wikipedia.org/wiki/Special:Redirect/file/The_square_among_a_family_of_rectangles_or_rhombuses.png)
 
-### 2. The Rhombus: The Master of Sides
-Now, instead of fixing the *angles* like the rectangle did, what if we fix the *sides*? 
+### Comparative Summary of the Parallelogram Family
 
-**A rhombus is a type of parallelogram possessing four sides of equal length.** 
-Some people call it a [diamond](https://en.wikipedia.org/wiki/Lozenge_%28shape%29), but "rhombus" is the name we use in our mathematical laboratory! Again, it inherits all the base traits of a parallelogram, but the fact that all four sides are identical triggers some incredible [geometric](https://en.wikipedia.org/wiki/Geometry) behavior on the inside of the shape:
-*   When you draw the "X" in a rhombus, **the two diagonals of a rhombus [intersect](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) at exactly a 90-degree angle.** They form a perfect cross!
-*   Furthermore, **the diagonals of a rhombus bisect the interior angles of the rhombus.** That diagonal line acts like a laser beam, cutting the corner angles into two perfectly equal smaller angles. 
+| Property | [Parallelogram](https://en.wikipedia.org/wiki/Parallelogram) | [Rectangle](https://en.wikipedia.org/wiki/Rectangle) | [Rhombus](https://en.wikipedia.org/wiki/Rhombus) | [Square](https://en.wikipedia.org/wiki/Square) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Opposite sides [parallel](https://en.wikipedia.org/wiki/Parallel_%28geometry%29)** | Yes | Yes | Yes | Yes |
+| **Opposite sides equal length** | Yes | Yes | Yes | Yes |
+| **Opposite angles equal** | Yes | Yes | Yes | Yes |
+| **Consecutive angles = $180^\circ$** | Yes | Yes | Yes | Yes |
+| **Diagonals [bisect](https://en.wikipedia.org/wiki/Bisection) each other** | Yes | Yes | Yes | Yes |
+| **Interior angles exactly $90^\circ$** | No | **Yes** | No | **Yes** |
+| **All four sides equal length**| No | No | **Yes** | **Yes** |
+| **Diagonals equal in length** | No | **Yes** | No | **Yes** |
+| **Diagonals intersect at $90^\circ$** | No | No | **Yes** | **Yes** |
+| **Diagonals bisect interior angles**| No | No | **Yes** | **Yes** |
 
-![In a rhombus, all four sides are of equal length, causing the diagonals (red dotted lines) to intersect at exactly a 90-degree right angle.](https://wikipedia.org/wiki/Special:Redirect/file/Rhombus1.svg)
+## The Outliers: Trapezoids and Kites
 
----
-
-## The Perfect Child: The Square
-
-If the Rectangle and the Rhombus had a baby, it would be the [Square](https://en.wikipedia.org/wiki/Square). The Square is the ultimate, perfected quadrilateral. It doesn't compromise; it demands everything!
-
-**A square is a type of quadrilateral containing four right angles and four sides of equal length.** 
-
-Because of this demanding definition, the square is the supreme inheritor of the geometric family tree. It is mathematically vital that you understand the following:
-*   **A square inherently possesses all the geometric properties of a parallelogram.**
-*   **A square inherently possesses all the geometric properties of a rectangle.**
-*   **A square inherently possesses all the geometric properties of a rhombus.**
-
-It is the grand synthesis! Because it is a rectangle, **the two diagonals of a square are equal in length.** Because it is a rhombus, **the two diagonals of a square are strictly [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) to each other** (intersecting at 90 degrees) and they bisect the corners. 
-
-> **Teacher's Tip:** On the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), you will often see questions designed to trick you about definitions. Remember this logic: *Every square is a rectangle, but not every rectangle is a square.* Why? Because a square meets the only requirement to be a rectangle (four right angles), but a rectangle does not meet the requirement to be a square (four equal sides).
-
-![The square sits at the intersection of the rectangle and rhombus families, perfectly inheriting both the four right angles of a rectangle and the four equal sides of a rhombus.](https://wikipedia.org/wiki/Special:Redirect/file/The_square_among_a_family_of_rectangles_or_rhombuses.png)
-
----
-
-## The Misfits: Trapezoids and Kites
-
-Not every quadrilateral comes from the Parallelogram branch. There are other fascinating creatures in this menagerie that follow their own [evolutionary](https://en.wikipedia.org/wiki/Evolution) paths. Let's examine them.
+Not all quadrilaterals belong to the parallelogram family. We must also examine shapes built on different defining constraints.
 
 ### The Trapezoid
-While a parallelogram has *two* pairs of parallel sides, **a [trapezoid](https://en.wikipedia.org/wiki/Trapezoid) is a quadrilateral containing exactly one pair of parallel sides.** 
+Instead of two pairs of parallel sides, what if we only have one? A **[trapezoid](https://en.wikipedia.org/wiki/Trapezoid)** is a quadrilateral containing *exactly* one pair of parallel sides. 
 
-Think of a triangle with its top chopped off, or the side-profile of a lamp shade. Because it only has one set of parallel lines, the terminology changes slightly:
-*   **The two parallel sides of a trapezoid are identified as the [bases](https://en.wikipedia.org/wiki/Base_%28geometry%29) of the trapezoid.** (Usually the top and the bottom).
-*   **The two non-parallel sides of a trapezoid are identified as the legs of the trapezoid.** (The slanted sides connecting the top and bottom).
+To discuss the anatomy of this structure: the two parallel sides of a trapezoid are identified as the **[bases](https://en.wikipedia.org/wiki/Base_%28geometry%29)** of the trapezoid (typically the top and bottom). The two non-parallel sides of a trapezoid are identified as the **legs** of the trapezoid. 
 
-![A general trapezoid is defined by its single pair of parallel opposite sides, referred to as the bases (a and b), connected by non-parallel legs (c and d).](https://wikipedia.org/wiki/Special:Redirect/file/Trapez_mittellinie_en_labels.svg)
+Because the bases run parallel to each other, the transversal line connecting them (the leg) still obeys the rules of parallel geometry. Thus, the consecutive interior angles connecting the parallel bases of a trapezoid are supplementary (summing to $180^\circ$). Note carefully: this only applies to the top and bottom angle on the *same side*, not the angles stretching across the shape.
 
-Here is the secret to finding missing angles in a trapezoid: Imagine that sliding interior walk we took in the parallelogram. It still works, but *only* vertically! **The consecutive interior angles connecting the parallel bases of a trapezoid are supplementary.** If the bottom-left angle is 70°, the top-left angle must be 110°. But be careful! The bottom-left and bottom-right angles do *not* have to be equal.
+![The anatomical layout of a trapezoid relies on a single pair of parallel opposite sides known as the bases, connected by two non-parallel legs.](https://wikipedia.org/wiki/Special:Redirect/file/Trapez_mittellinie_en_labels.svg)
 
-**The Isosceles Trapezoid**
-Sometimes, nature likes symmetry even in misfits. **An [isosceles trapezoid](https://en.wikipedia.org/wiki/Isosceles_trapezoid) is a trapezoid where the two non-parallel legs are equal in length.** Imagine the profile of a beautifully symmetrical [suspension bridge](https://en.wikipedia.org/wiki/Suspension_bridge). Because the legs are matched, balance is restored to the shape:
-*   **The base angles of an isosceles trapezoid are equal in measure.** (The two bottom corners match, and the two top corners match).
-*   **The two diagonals of an isosceles trapezoid are equal in length.**
+### The Isosceles Trapezoid
+If we take a standard trapezoid and balance it perfectly left-to-right, we create an **[isosceles trapezoid](https://en.wikipedia.org/wiki/Isosceles_trapezoid)**, which is a trapezoid where the two non-parallel legs are equal in length.
+
+This [bilateral symmetry](https://en.wikipedia.org/wiki/Reflection_symmetry) creates distinct guarantees:
+1. The base angles of an isosceles trapezoid are equal in measure. (If the bottom-left is $75^\circ$, the bottom-right is $75^\circ$).
+2. Just as an upright frame forced the diagonals of a rectangle to match, this left-right symmetry dictates that the two diagonals of an isosceles trapezoid are equal in length.
+
+![An isosceles trapezoid possesses rigid left-right symmetry, a structural balance that creates identical base angles and internal diagonals of equal length.](https://wikipedia.org/wiki/Special:Redirect/file/Isoscelestriangle2.svg)
 
 ### The Kite
-Finally, we come to a shape named after exactly what it looks like: the [toy you fly in the wind](https://en.wikipedia.org/wiki/Kite) on a breezy March afternoon! 
+Finally, let us abandon parallel lines altogether and look at a shape defined entirely by adjacent symmetry. Imagine the traditional [aerodynamic](https://en.wikipedia.org/wiki/Aerodynamics) flying toy. A **[kite](https://en.wikipedia.org/wiki/Kite_%28geometry%29)** is a quadrilateral containing exactly two distinct pairs of equal-length consecutive sides. 
 
-**A [kite](https://en.wikipedia.org/wiki/Kite_%28geometry%29) is a quadrilateral containing exactly two distinct pairs of equal-length consecutive sides.** 
+In a parallelogram, opposite sides are equal. In a kite, adjacent sides (sides next to each other) match in length. 
 
-Notice the crucial difference here! In a parallelogram, the *opposite* sides are equal. In a kite, the adjacent (touching) sides are equal. The two short sides meet at the top, and the two long sides meet at the bottom. 
+Because the top two sides match and the bottom two sides match, the structural crossbars must meet in a highly specific way to maintain balance. The two diagonals of a kite are strictly perpendicular to each other, forming a perfect cross of right angles at their intersection. Additionally, the horizontal axis must be perfectly balanced, meaning the longer diagonal of a kite bisects the shorter diagonal of the kite. 
 
-Because of this unique side-by-side symmetry, the diagonals of a kite do something fascinating:
-*   **The two diagonals of a kite are strictly perpendicular to each other.** (They form the sturdy wooden cross-frame of your flying toy!).
-*   **The longer diagonal of a kite bisects the shorter diagonal of the kite.** The long "spine" of the kite chops the horizontal "crossbar" perfectly in half.
+![A kite relies entirely on adjacent rather than opposite symmetry. Because consecutive side lengths match, the internal diagonals cross at strict right angles, with the longer axis perfectly bisecting the shorter one.](https://wikipedia.org/wiki/Special:Redirect/file/Deltoid.svg)
 
-![A geometric kite possesses two distinct pairs of equal-length consecutive sides. Notice how its longer vertical diagonal bisects its shorter horizontal diagonal at a perfect 90-degree angle.](https://wikipedia.org/wiki/Special:Redirect/file/Deltoid.svg)
+## Applying Properties on the Praxis Core
 
----
+Your success on the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test) Mathematics exam will not come from merely reciting definitions, but from combining them logically to uncover missing data. 
 
-## Praxis Core Mastery: The Diagonal Cheat Sheet
+**Scenario:** You are given a parallelogram with consecutive interior angles labeled as $(3x + 10)^\circ$ and $(2x + 20)^\circ$. How do you find $x$?
+**Execution:** Rely on the property: *The sum of any two consecutive interior angles of a parallelogram is exactly 180 degrees.*
+$$ (3x + 10) + (2x + 20) = 180 $$
+$$ 5x + 30 = 180 $$
+$$ 5x = 150 $$
+$$ x = 30 $$
 
-To truly master this topic for your exam, you need to be able to recall these properties at a moment's notice, especially when calculating missing measurements. The diagonals are frequently the key to unlocking these test questions. 
-
-Here is a quick-reference map of how diagonals behave across our marvelous menagerie:
-
-| Shape | Diagonals are Equal Length? | Diagonals Bisect Each Other? | Diagonals are Perpendicular (90°)? |
-| :--- | :---: | :---: | :---: |
-| **[Parallelogram](https://en.wikipedia.org/wiki/Parallelogram)** | No | **Yes** | No |
-| **[Rectangle](https://en.wikipedia.org/wiki/Rectangle)** | **Yes** | **Yes** | No |
-| **[Rhombus](https://en.wikipedia.org/wiki/Rhombus)** | No | **Yes** | **Yes** |
-| **[Square](https://en.wikipedia.org/wiki/Square)** | **Yes** | **Yes** | **Yes** |
-| **[Isosceles Trapezoid](https://en.wikipedia.org/wiki/Isosceles_trapezoid)** | **Yes** | No | No |
-| **[Kite](https://en.wikipedia.org/wiki/Kite_%28geometry%29)** | No | Only the longer bisects the shorter | **Yes** |
-
-## Putting it all together 
-
-When you sit down to take the [Praxis Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), I want you to look at every quadrilateral as a puzzle waiting to be delightfully unravelled. 
-
-If they give you a rhombus and tell you one angle is 40 degrees, you now have the power to know *every single other angle* in that shape! You know the opposite angle is 40. You know the consecutive angles are supplementary (180 - 40 = 140). You know the diagonals cross at exactly 90 degrees. You know the sum of everything inside is exactly 360. 
-
-By understanding the *properties* of these shapes, rather than just memorizing [rote formulas](https://en.wikipedia.org/wiki/Rote_learning), you've equipped yourself with a versatile mathematical toolkit. You are no longer just guessing; you are predicting, with absolute, rigorous [certainty](https://en.wikipedia.org/wiki/Certainty), the nature of the space inside those lines. 
-
-Good luck, keep your curiosity alive, and go ace that exam!
+Geometry is a language of absolute [logic](https://en.wikipedia.org/wiki/Logic). When you identify the shape, you immediately gain access to the full suite of constraints governing its sides, angles, and diagonals. View quadrilaterals not as abstract drawings, but as structural frameworks where every length and intersection is deliberate, connected, and governed by universal rules.

@@ -1,154 +1,96 @@
-# Understanding Slope and Intercepts: The Architecture of Lines
+Imagine observing a heavily loaded [aircraft](https://en.wikipedia.org/wiki/Fixed-wing_aircraft) ascending into the sky. The steepness of its climb dictates whether it safely clears the mountains ahead or falls perilously short. In [mathematics](https://en.wikipedia.org/wiki/Mathematics), we do not leave this steepness to intuition; we capture it using a strict, quantifiable measurement. The [geometry](https://en.wikipedia.org/wiki/Geometry) of a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) is defined entirely by its invariant [rate of change](https://en.wikipedia.org/wiki/Rate_%28mathematics%29) and the specific anchor points where it tethers itself to the underlying [coordinate system](https://en.wikipedia.org/wiki/Coordinate_system). By distilling a continuous trajectory into numerical [ratios](https://en.wikipedia.org/wiki/Ratio) and fixed intersections, we gain the ability to precisely model physical, financial, and theoretical behaviors—from the [velocity](https://en.wikipedia.org/wiki/Velocity) of an object in motion to the [depreciation](https://en.wikipedia.org/wiki/Depreciation) of a [fixed asset](https://en.wikipedia.org/wiki/Fixed_asset) over time. 
 
-Welcome to the world of [linear equations](https://en.wikipedia.org/wiki/Linear_equation)! Now, I know what you might be thinking: *“Professor, a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) is the most boring thing in the universe. It just sits there on the page.”* 
+![The steep ascent of a fixed-wing aircraft provides a physical visualization of mathematical slope and geometric rates of change.](https://wikipedia.org/wiki/Special:Redirect/file/Tarom.b737-700.yr-bgg.arp.jpg)
 
-But that’s exactly where you’re wrong! A line is a story of *constant, unyielding change*. Everything in nature that moves at a steady pace—a car driving down the highway at 60 miles per hour, your paycheck coming in at \$20 an hour, a pool draining at 5 gallons a minute—leaves a straight line as its footprint. If you can understand the line, you can understand exactly how these systems behave, not just today, but forever into the future. 
+## The Anatomy of Change: Rise, Run, and Slope
 
-To pass the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), we can't just memorize [formulas](https://en.wikipedia.org/wiki/Formula). We have to *feel* the lines. We need to know how fast they change (the **[slope](https://en.wikipedia.org/wiki/Slope)**) and where they anchor to our world (the **[intercepts](https://en.wikipedia.org/wiki/y-intercept)**). Let’s dive in and see how beautifully simple this actually is.
+At the heart of any [linear relationship](https://en.wikipedia.org/wiki/Linear_equation) is a fundamental concept: the **[slope](https://en.wikipedia.org/wiki/Slope)**. The slope of a line represents the ratio of the vertical change to the horizontal change between any two points on the line. 
 
----
+![A standard Cartesian coordinate plane, the foundational grid where point intersections and linear trajectories are algebraically plotted.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
 
-## Part 1: The Heartbeat of a Line — Slope
+When we analyze movement on a standard [Cartesian coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), we assign specific terminology to these dimensional shifts. The vertical change between two points on a coordinate plane is referred to as the **rise**, which aligns with the $y$-axis. Conversely, the horizontal change between two points on a coordinate plane is referred to as the **run**, which aligns with the $x$-axis. Because of this direct relationship, the slope of a line is commonly referred to as the "rise over the run."
 
-At its core, **the [slope](https://en.wikipedia.org/wiki/Slope) of a line represents the [ratio](https://en.wikipedia.org/wiki/Ratio) of the vertical change to the horizontal change between any two points on the line.** It is the ultimate measure of "steepness." 
-
-Imagine you are hiking up a mountain. Your legs feel two things: how far forward you are walking, and how far upward you are climbing. 
-* [Mathematicians](https://en.wikipedia.org/wiki/Mathematician) call **the vertical change between two points on a [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) the "rise"**. 
-* We call **the horizontal change between two points on a coordinate plane the "run"**. 
-
-Because math is a language of [ratios](https://en.wikipedia.org/wiki/Ratio), **the slope of a line is commonly referred to as the rise over the run**. 
-
-![The slope of a line visually represented as the ratio of its vertical change (rise) to its horizontal change (run).](https://wikipedia.org/wiki/Special:Redirect/file/Wiki_slope_in_2d.svg)
-
-### Calculating Slope from a Graph
-If you are staring at a line drawn on a grid, you don't need complex [algebra](https://en.wikipedia.org/wiki/Algebra) to find the slope. **To determine the slope of a line from a [graph](https://en.wikipedia.org/wiki/Graph_of_a_function), pick two distinct points on the line and divide the vertical distance between them by the horizontal distance between them.** Just count the grid boxes up (or down), count the boxes over to the right, and make a [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29)!
-
-### Calculating Slope from Coordinates
-What if you aren't given a graph, but just two points in space? We use a [formula](https://en.wikipedia.org/wiki/Formula) that translates "rise over run" into [coordinates](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).
+![Visualizing the slope of a line as the calculated ratio of its vertical change (rise) to its horizontal change (run).](https://wikipedia.org/wiki/Special:Redirect/file/Wiki_slope_in_2d.svg)
 
 > **The Slope Formula**
-> The formula to calculate the slope of a line from two distinct points $(x_1, y_1)$ and $(x_2, y_2)$ is:
+> The [formula](https://en.wikipedia.org/wiki/Formula) to calculate the slope of a line from two distinct points $(x_1, y_1)$ and $(x_2, y_2)$ is mathematically defined as:
 > $$m = \frac{y_2 - y_1}{x_2 - x_1}$$
 
-Why does this work? Subtracting the $y$-values gives us the exact vertical distance (the rise). Subtracting the $x$-values gives us the exact horizontal distance (the run). Divide them, and you have your slope, $m$.
+One of the most profound geometric truths of a linear relationship is its consistency. Unlike a [curve](https://en.wikipedia.org/wiki/Curve), which bends and alters its trajectory, the slope of a straight line remains [constant](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) regardless of which two points on the line are chosen for the calculation. Whether you measure the rise and run over a microscopic [distance](https://en.wikipedia.org/wiki/Distance) or across thousands of units on the grid, the resulting ratio simplifies to the exact same value.
 
-### The Defining Magic of a Straight Line
-Here is the most crucial, defining secret of a straight line: **The slope of a straight line remains [constant](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) regardless of which two points on the line are chosen for the calculation.** 
+### Extracting Slope from Visuals and Data
 
-If you pick two points close together, or two points thousands of miles apart on that same line, the ratio of rise to run will reduce to the exact same number. That unwavering constancy is literally what *makes* the line straight!
+How do we practically determine this value when handed raw information? 
 
-We can see this rule play out in data tables, too. **A table of $(x, y)$ values represents a [linear relationship](https://en.wikipedia.org/wiki/Linear_relationship) if the ratio of the change in $y$ to the change in $x$ is identical across all adjacent pairs of points.** If the $y$-values jump by 4 every time the $x$-values jump by 2, that ratio (\$4/2 = 2$) is your constant slope.
+To determine the slope of a line from a [graph](https://en.wikipedia.org/wiki/Graph_of_a_function), pick two distinct [points](https://en.wikipedia.org/wiki/Point_%28geometry%29) on the line and [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the vertical distance between them by the horizontal distance between them. You literally count the units up or down (the rise) and divide by the units left or right (the run).
 
----
+When dealing with raw numeric [data](https://en.wikipedia.org/wiki/Data), a [table](https://en.wikipedia.org/wiki/Table_%28information%29) of $(x, y)$ values represents a linear relationship if the ratio of the change in $y$ to the change in $x$ is identical across all adjacent pairs of points. If the output $y$ jumps by $4$ every time the input $x$ increases by $2$, the ratio ($4/2 = 2$) must hold for every subsequent interval. If the ratio fluctuates, the relationship is [nonlinear](https://en.wikipedia.org/wiki/Nonlinear_system).
 
-## Part 2: The Personality of Lines
+### The Four Orientations of Slope
 
-Not all slopes are created equal. Depending on the ratio of rise to run, lines exhibit distinct visual behaviors. 
+A slope is not merely a number; its [sign](https://en.wikipedia.org/wiki/Sign_%28mathematics%29) dictates the visual orientation of the line. We categorize lines into four distinct behavioral states:
 
-| Type of Line | Visual Behavior | What's happening mathematically? |
+| Slope State | Visual Behavior | Explanation |
 | :--- | :--- | :--- |
-| **Positive Slope** | **A line with a positive slope slants upward from left to right.** | As $x$ increases, $y$ increases. Both the rise and run share the same [sign](https://en.wikipedia.org/wiki/Sign_%28mathematics%29). |
-| **Negative Slope** | **A line with a negative slope slants downward from left to right.** | As $x$ increases, $y$ decreases. The rise is negative while the run is positive. |
-| **Zero Slope** | **A perfectly [horizontal line](https://en.wikipedia.org/wiki/Horizontal_and_vertical) has a slope of exactly zero.** | There is absolutely no vertical change (rise = 0). Since \$0$ divided by any number is $0$, the slope is \$0$. |
-| **Undefined Slope** | **A perfectly [vertical line](https://en.wikipedia.org/wiki/Horizontal_and_vertical) has an undefined slope.** | There is absolutely no horizontal change (run = 0). In mathematics, [dividing by zero is impossible](https://en.wikipedia.org/wiki/Division_by_zero)—it breaks the rules of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic)! Therefore, the slope doesn't exist; it's *[undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29)*. |
+| **Positive** | A line with a positive slope slants upward from left to right. | As $x$ increases, $y$ also increases. The rise and run share the same sign. |
+| **Negative** | A line with a negative slope slants downward from left to right. | As $x$ increases, $y$ decreases. The rise and run have opposing signs. |
+| **Zero** | A perfectly [horizontal](https://en.wikipedia.org/wiki/Horizontal_and_vertical) line has a slope of exactly [zero](https://en.wikipedia.org/wiki/0). | The rise is zero. Since $0$ divided by any non-zero run is $0$, the line remains flat. |
+| **Undefined** | A perfectly [vertical](https://en.wikipedia.org/wiki/Horizontal_and_vertical) line has an [undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29) slope. | The run is zero. Because [division by zero](https://en.wikipedia.org/wiki/Division_by_zero) is mathematically undefined, the slope calculation collapses. |
 
-![Attempting to calculate the slope of a vertical line involves dividing by zero, which mathematically results in an undefined value.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
+![Calculators return an error when attempting to divide by zero, highlighting why the slope of a perfectly vertical line is mathematically undefined.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
 
----
+## The Anchors of the Plane: Intercepts
 
-## Part 3: Where Lines Anchor — The Intercepts
-
-Lines don't just float in a void; they are drawn on a coordinate plane featuring an $x$-axis and a $y$-axis. The points where our lines crash into these axes are incredibly important. We call them the **[intercepts](https://en.wikipedia.org/wiki/y-intercept)**. 
-
-In real-world terms, an intercept often represents a starting point (like having \$50 before you start earning your hourly wage) or a finishing point (like when a drained pool hits 0 gallons).
-
-### The Y-Intercept
-**The [$y$-intercept](https://en.wikipedia.org/wiki/y-intercept) of a line is the exact point where the line crosses the [$y$-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** 
-
-Look at the $y$-axis for a moment. What is the $x$-value for *every single point* on that vertical axis? It's zero! Therefore, **the $x$-coordinate of any $y$-intercept is always exactly zero.** 
-
-* **Notation:** **A $y$-intercept is written as an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) in the format $(0, y)$.** 
-* **Algebraic Calculation:** **To calculate the $y$-intercept of a linear equation algebraically, substitute zero for the $x$ [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) and solve for the $y$ variable.**
+If the slope is the line's rate of travel, the intercepts are its geographical landmarks—the exact moments the line crosses the foundational [axes](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) of our coordinate system.
 
 ### The X-Intercept
-**The [$x$-intercept](https://en.wikipedia.org/wiki/x-intercept) of a line is the exact point where the line crosses the [$x$-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system).** 
+The **[x-intercept](https://en.wikipedia.org/wiki/Root_of_a_function)** of a line is the exact point where the line crosses the x-axis. Because the $x$-axis itself acts as the "ground floor" of the vertical dimension, the [equation](https://en.wikipedia.org/wiki/Equation) of the $x$-axis is $y = 0$. Consequently, the [y-coordinate](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) of any x-intercept is always exactly zero. 
 
-Just like before, look at the $x$-axis. What is the $y$-value there? Zero. Thus, **the $y$-coordinate of any $x$-intercept is always exactly zero.**
+When documenting this intersection, an x-intercept is written as an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) in the format $(x, 0)$. To calculate the x-intercept of a [linear equation](https://en.wikipedia.org/wiki/Linear_equation) [algebraically](https://en.wikipedia.org/wiki/Algebra), substitute zero for the $y$ [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) and solve for the $x$ variable. 
 
-* **Notation:** **An $x$-intercept is written as an ordered pair in the format $(x, 0)$.**
-* **Algebraic Calculation:** **To calculate the $x$-intercept of a linear equation algebraically, substitute zero for the $y$ variable and solve for the $x$ variable.**
+### The Y-Intercept
+Similarly, the **[y-intercept](https://en.wikipedia.org/wiki/y-intercept)** of a line is the exact point where the line crosses the y-axis. Because the $y$-axis represents the center line of the horizontal dimension, the equation of the y-axis is $x = 0$. Therefore, the x-coordinate of any y-intercept is always exactly zero. 
 
-> **A Note on the Axes Themselves**
-> Because of how intercepts work, the axes themselves have their own fascinatingly simple equations:
-> * **The equation of the $x$-axis is $y = 0$.** (Because every point on the horizontal axis has no vertical height!)
-> * **The equation of the $y$-axis is $x = 0$.** (Because every point on the vertical axis has no left/right displacement!)
+A y-intercept is written as an ordered pair in the format $(0, y)$. To calculate the y-intercept of a linear equation algebraically, substitute zero for the $x$ variable and solve for the $y$ variable. 
 
----
+## Translating Geometry into Algebra: Forms of Linear Equations
 
-## Part 4: The Language of Equations
+A line can be expressed algebraically in several equivalent forms. The mastery of [algebra](https://en.wikipedia.org/wiki/Algebra) lies in recognizing how each form uniquely reveals the line's geometric properties.
 
-When we translate these geometric pictures into algebraic formulas, we generally use two famous forms. Understand how to "read" these forms, and the line will reveal all its secrets to you instantly.
+### Slope-Intercept Form
+The [slope-intercept form](https://en.wikipedia.org/wiki/Linear_equation) of a linear equation is written as $y = mx + b$. This is arguably the most intuitive algebraic structure because it hands you the line's key attributes on a silver platter. 
+* In the slope-intercept equation $y = mx + b$, the variable $m$ represents the slope of the line.
+* In the slope-intercept equation $y = mx + b$, the variable $b$ represents the y-coordinate of the y-intercept.
 
-### 1. Slope-Intercept Form
-This is the most famous equation in basic algebra.
-> **Slope-Intercept Form:**
-> **The [slope-intercept form](https://en.wikipedia.org/wiki/Linear_equation) of a linear equation is written as $y = mx + b$.**
+![The geometric graph of a linear equation visually translates its algebraic slope and y-intercept into a continuous line on the coordinate plane.](https://wikipedia.org/wiki/Special:Redirect/file/Graph_(y_%3D_0.5x_-_1).svg)
 
-Why is this so powerful? Because it hands you the two most vital pieces of information right on a silver platter!
-* **In the slope-intercept equation $y = mx + b$, the variable $m$ represents the slope of the line.**
-* **In the slope-intercept equation $y = mx + b$, the variable $b$ represents the $y$-coordinate of the $y$-intercept.**
+### Standard Form
+Alternatively, the [standard form](https://en.wikipedia.org/wiki/Linear_equation) of a linear equation is written as $Ax + By = C$, where $A$, $B$, and $C$ are typically [integers](https://en.wikipedia.org/wiki/Integer). While this form is excellent for quickly solving [systems of equations](https://en.wikipedia.org/wiki/System_of_linear_equations), its geometric properties are slightly hidden. However, by mentally manipulating the algebra, we can extract the line's traits instantly:
+* For a linear equation in the standard form $Ax + By = C$, the slope of the line equals the negative of $A$ divided by $B$ (Slope $= -\frac{A}{B}$).
+* For a linear equation in the standard form $Ax + By = C$, the y-coordinate of the y-intercept equals $C$ divided by $B$ ($y$-int $= \frac{C}{B}$).
+* For a linear equation in the standard form $Ax + By = C$, the x-coordinate of the x-intercept equals $C$ divided by $A$ ($x$-int $= \frac{C}{A}$).
 
-If you see $y = 3x - 5$, you instantly know the line crosses the $y$-axis at $(0, -5)$ and rises 3 units for every 1 unit it moves to the right. Beautiful!
+### Single-Variable Equations
+What happens when a variable goes entirely missing? 
+* A linear equation containing only a $y$ variable and a constant value (e.g., $y = 5$) represents a horizontal line. Since $x$ can be any value without altering $y$, the line never rises nor falls.
+* A linear equation containing only an $x$ variable and a constant value (e.g., $x = -3$) represents a vertical line. The $x$ position is fixed, meaning the graph shoots straight up and down across all possible $y$-values.
 
-![A graphed linear equation illustrating how the slope dictates steepness while the y-intercept visually anchors the line to the vertical axis.](https://wikipedia.org/wiki/Special:Redirect/file/Graph_(y_%3D_0.5x_-_1).svg)
+![A horizontal line defined by a single-variable equation, demonstrating a constant y-value and a slope of exactly zero.](https://wikipedia.org/wiki/Special:Redirect/file/Graph_of_a_horizontal_line.jpg)
 
-### 2. Standard Form
-Sometimes, equations are written in a different format, grouping the variables together. 
-> **Standard Form:**
-> **The [standard form](https://en.wikipedia.org/wiki/Linear_equation) of a linear equation is written as $Ax + By = C$.** (Where A, B, and C are typically [integers](https://en.wikipedia.org/wiki/Integer)).
+## Relational Geometry: Parallel and Perpendicular Lines
 
-At first glance, this doesn't explicitly tell you the slope or intercepts. But if we use our algebra rules, we can find some incredible shortcut formulas! By rearranging the equation to solve for $y$ (or substituting zeros for intercepts), we uncover these truths:
+Lines rarely exist in isolation. When two lines share a coordinate plane, the interplay of their slopes reveals exactly how they relate to one another mathematically.
 
-* **For a linear equation in the standard form $Ax + By = C$, the slope of the line equals the negative of $A$ divided by $B$ (Slope = $\frac{-A}{B}$).**
-* **For a linear equation in the standard form $Ax + By = C$, the $y$-coordinate of the $y$-intercept equals $C$ divided by $B$ (y-intercept = $\frac{C}{B}$).**
-* **For a linear equation in the standard form $Ax + By = C$, the $x$-coordinate of the $x$-intercept equals $C$ divided by $A$ (x-intercept = $\frac{C}{A}$).**
+**Parallel Lines**
+Two distinct [parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) have exactly the same slope. Because their rates of vertical change relative to horizontal change are identical, they will travel alongside one another infinitely into the horizon without ever [intersecting](https://en.wikipedia.org/wiki/Line%E2%80%93line_intersection). If line $L_1$ has a slope of $3/4$, any line parallel to $L_1$ must also possess a slope of $3/4$.
 
-### Special Cases: Extreme Lines
-What happens when a variable completely disappears from an equation? 
-* **A linear equation containing only a $y$ variable and a [constant](https://en.wikipedia.org/wiki/Constant_%28mathematics%29) value represents a horizontal line.** For example, $y = 4$. This tells us "No matter what $x$ does, $y$ is *always* 4." This creates a flat, horizontal line with a slope of zero.
-* **A linear equation containing only an $x$ variable and a constant value represents a vertical line.** For example, $x = -2$. This tells us "No matter what $y$ does, $x$ is *always* -2." This forms a perfectly vertical line with an undefined slope.
+**Perpendicular Lines**
+Conversely, two [perpendicular lines](https://en.wikipedia.org/wiki/Perpendicular) intersect at a perfect [90-degree angle](https://en.wikipedia.org/wiki/Right_angle). This severe geometric [rotation](https://en.wikipedia.org/wiki/Rotation_%28mathematics%29) flips the structural ratio of the slope on its head. Mathematically, two perpendicular lines have slopes that are negative [reciprocals](https://en.wikipedia.org/wiki/Multiplicative_inverse) of each other. If one line has a slope of $a/b$, a perpendicular line must have a slope of $-b/a$. 
 
-![A perfectly horizontal line occurs when y equals a constant value, meaning the line has absolutely no vertical rise and a slope of zero.](https://wikipedia.org/wiki/Special:Redirect/file/Graph_of_a_horizontal_line.jpg)
+Because of this reciprocal relationship, a fascinating algebraic truth emerges: the [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of the slopes of two non-vertical perpendicular lines is always exactly negative one. 
+For instance, if line $A$ has a slope of $4$ (which is $4/1$), the perpendicular line $B$ will have a slope of $-1/4$. [Multiplying](https://en.wikipedia.org/wiki/Multiplication) them together yields:
+$$4 \times \left(-\frac{1}{4}\right) = -1$$
 
----
+![Parallel lines maintain an identical slope, whereas perpendicular lines intersect at a right angle with slopes that are negative reciprocals of one another.](https://wikipedia.org/wiki/Special:Redirect/file/Slopes_of_Parallel_and_Perpendicular_Lines.svg)
 
-## Part 5: Interacting Lines — Parallel and Perpendicular
-
-Finally, how do lines behave when they share a coordinate plane? Let's look at the two most important relationships they can have: perfectly aligned, or perfectly crossed.
-
-### Parallel Lines
-[Parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) are lines that never, ever touch. To never touch, they must be rising and running at the exact same rate. Therefore:
-* **Two distinct parallel lines have exactly the same slope.** 
-If Line A has a slope of \$2/3$, Line B must also have a slope of \$2/3$ to be parallel to it.
-
-### Perpendicular Lines
-[Perpendicular lines](https://en.wikipedia.org/wiki/Perpendicular) intersect at a perfect [90-degree angle](https://en.wikipedia.org/wiki/Right_angle). Think about what happens when you [rotate](https://en.wikipedia.org/wiki/Rotation_%28mathematics%29) a line exactly 90 degrees. The "rise" of the original line becomes the "run" of the new line, and the "run" of the original line becomes the "rise" (but traveling in the opposite direction). 
-
-Mathematically, this means:
-* **Two perpendicular lines have slopes that are negative [reciprocals](https://en.wikipedia.org/wiki/Multiplicative_inverse) of each other.** 
-
-If Line A has a slope of $\frac{3}{4}$, you flip the fraction and flip the sign. The perpendicular slope is $\frac{-4}{3}$. 
-
-Because of this "flip and switch" behavior, there is a brilliant mathematical trick to check if two lines are perpendicular:
-* **The [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of the slopes of two non-vertical perpendicular lines is always exactly negative one.** 
-Let's test it: $\frac{3}{4} \times \frac{-4}{3} = \frac{-12}{12} = -1$. It works every single time!
-
-![Parallel lines possess identical slopes to maintain their distance, whereas perpendicular lines intersect at a 90-degree angle with negative reciprocal slopes.](https://wikipedia.org/wiki/Special:Redirect/file/Slopes_of_Parallel_and_Perpendicular_Lines.svg)
-
----
-
-### A Final Thought Before Your Exam
-
-When you sit down to take the Praxis Core Math exam, don't let linear equations intimidate you. Remember what they really are. Every time you calculate $m = \frac{y_2 - y_1}{x_2 - x_1}$, you are just measuring how fast something is changing. Every time you plug in a \$0$ to find an intercept, you are just asking, "Where does this story begin?" 
-
-Understand the [geometry](https://en.wikipedia.org/wiki/Geometry) behind the algebra, feel the "rise over run," and you won't just memorize the math—you'll master it. Happy calculating!
+By mastering these rules, you no longer see an equation as mere symbols on a page. You see the steepness, the anchors, and the strict geometric reality of the lines they represent.

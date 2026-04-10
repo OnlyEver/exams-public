@@ -1,159 +1,96 @@
-# The [Geometry](https://en.wikipedia.org/wiki/Geometry) of Space: Mastering the [Volume](https://en.wikipedia.org/wiki/Volume) of Rectangular Prisms
+To a [geometer](https://en.wikipedia.org/wiki/Geometry), a simple [cardboard box](https://en.wikipedia.org/wiki/Cardboard_box) resting on a desk represents a profound leap in [dimensionality](https://en.wikipedia.org/wiki/Dimension)—from flat, [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) [planes](https://en.wikipedia.org/wiki/Plane_%28geometry%29) to the rich, [three-dimensional](https://en.wikipedia.org/wiki/Three-dimensional_space) reality we inhabit. This shape is a **[rectangular prism](https://en.wikipedia.org/wiki/Cuboid)**, a three-dimensional [solid object](https://en.wikipedia.org/wiki/Solid_geometry) with six rectangular [faces](https://en.wikipedia.org/wiki/Face_%28geometry%29). It is fundamentally defined by the [architecture](https://en.wikipedia.org/wiki/Architecture) of its boundaries: exactly **6 faces** enclosing the shape, precisely **12 [edges](https://en.wikipedia.org/wiki/Edge_%28geometry%29)** where these rectangular faces [intersect](https://en.wikipedia.org/wiki/Intersection_%28geometry%29), and exactly **8 [vertices](https://en.wikipedia.org/wiki/Vertex_%28geometry%29)**, or corners, anchoring the structure. To understand this shape is not merely to tally its components, but to quantify the physical reality it commands. **[Volume](https://en.wikipedia.org/wiki/Volume) measures the amount of three-dimensional space enclosed by a boundary.** It is vital to distinguish this [geometric property](https://en.wikipedia.org/wiki/Property_%28mathematics%29) from the "skin" of the object; **volume measures the interior space of a [prism](https://en.wikipedia.org/wiki/Prism_%28geometry%29) while [surface area](https://en.wikipedia.org/wiki/Surface_area) measures the total [area](https://en.wikipedia.org/wiki/Area) of the exterior faces.** Mastering how to calculate, manipulate, and convert this interior space provides the mathematical foundation for everything from [architectural engineering](https://en.wikipedia.org/wiki/Architectural_engineering) to passing the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test).
 
-Hello there! Let’s talk about boxes. Ordinary, everyday [shipping boxes](https://en.wikipedia.org/wiki/Corrugated_box_design), [swimming pools](https://en.wikipedia.org/wiki/Swimming_pool), cereal cartons, and [fish tanks](https://en.wikipedia.org/wiki/Aquarium). 
+![A visual progression of dimensionality: a one-dimensional line forms the boundary of a two-dimensional square, which in turn forms the boundary of a three-dimensional cube.](https://wikipedia.org/wiki/Special:Redirect/file/Squarecubetesseract.png)
 
-In [mathematics](https://en.wikipedia.org/wiki/Mathematics), we like to dress these familiar shapes up with a fancy name, but underneath the jargon, we are simply talking about how the [physical universe](https://en.wikipedia.org/wiki/Universe) organizes space. If you are preparing for the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you are going to be tested on your ability to understand, manipulate, and measure this space. 
+## Stacking Space: The Mechanics of the Volume Formula
 
-My goal isn't just to hand you a list of [formulas](https://en.wikipedia.org/wiki/Formula) to memorize—that’s incredibly boring and completely misses the beauty of the subject! I want you to *feel* the [dimensions](https://en.wikipedia.org/wiki/Dimension), to intuitively see the blocks stacking up in your mind. Once you understand the *why*, the *how* becomes second nature. 
+To understand volume, we must construct it from the ground up. Imagine drawing a simple [rectangle](https://en.wikipedia.org/wiki/Rectangle) on a piece of paper. This shape has only two dimensions: [length](https://en.wikipedia.org/wiki/Length) ($l$) and [width](https://en.wikipedia.org/wiki/Width) ($w$). If you [multiply](https://en.wikipedia.org/wiki/Multiplication) these two dimensions together, you find the [area](https://en.wikipedia.org/wiki/Area)—a measure of flat space. But reality operates in three dimensions. To create a rectangular prism, you must pull that flat rectangle upward, stretching it through space to give it a height ($h$). 
 
-Let's dive in!
+![The volume of a rectangular prism is fundamentally built upon two dimensions: a flat base whose area is calculated by multiplying its length ($l$) and width ($w$).](https://wikipedia.org/wiki/Special:Redirect/file/RectangleLengthWidth.svg)
 
----
+Because you are essentially taking that two-dimensional flat space and stacking it over a specific distance, **the volume of a rectangular prism is calculated by multiplying the length by the width by the height.** 
 
-## Anatomy of the Everyday Box
+> **The Volume Formula**
+> The standard [formula](https://en.wikipedia.org/wiki/Formula) for the volume of a rectangular prism is $V = l \times w \times h$.
 
-Before we can calculate how much space is inside a shape, we need to know exactly what kind of shape we are dealing with. For this topic, our star player is the **[rectangular prism](https://en.wikipedia.org/wiki/Cuboid)**. 
+There is a second, highly intuitive way to think about this process. If you already know the area of the bottom face of the prism, you have done most of the mathematical heavy lifting. **In the volume formula $V = B \times h$, the [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) $B$ represents the area of the rectangular base.** 
 
-> **What is it?** A **[rectangular prism](https://en.wikipedia.org/wiki/Cuboid)** is a [three-dimensional](https://en.wikipedia.org/wiki/Three-dimensional_space) [solid object](https://en.wikipedia.org/wiki/Solid_geometry) with six rectangular [faces](https://en.wikipedia.org/wiki/Face_%28geometry%29). 
+This provides an alternative expression of the same mathematical truth: **The volume of a rectangular prism can be calculated by multiplying the area of the base by the prism height.** This formula, $V = B \times h$, is particularly powerful because it applies identically to all [right prisms](https://en.wikipedia.org/wiki/Prism_%28geometry%29) and [cylinders](https://en.wikipedia.org/wiki/Cylinder), allowing you to recognize volume as merely an area [extruded](https://en.wikipedia.org/wiki/Extrusion) through a height.
 
-Imagine picking up a [brick](https://en.wikipedia.org/wiki/Brick). Turn it around in your hands. Count the flat surfaces. Top, bottom, front, back, left, right—that is exactly **6 [faces](https://en.wikipedia.org/wiki/Face_%28geometry%29)**. 
-Now run your finger along the sharp straight lines where two faces meet; you will count exactly **12 [edges](https://en.wikipedia.org/wiki/Edge_%28geometry%29)**. 
-Finally, touch the pointy corners where three edges crash into each other. A rectangular prism has exactly **8 [vertices](https://en.wikipedia.org/wiki/Vertex_%28geometry%29)**. 
+## Special Cases and Scaling Volumes
 
-![A standard brick serves as a perfect real-world example of a rectangular prism, with 6 flat rectangular faces, 12 straight edges, and 8 vertices.](https://wikipedia.org/wiki/Special:Redirect/file/Faces_of_brick.jpg)
+Not all rectangular prisms look like standard [shipping boxes](https://en.wikipedia.org/wiki/Box). When a prism possesses absolute [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29)—where its length, width, and height are all perfectly equal—a geometric shift occurs. **A rectangular prism with equal length, width, and height is classified as a [cube](https://en.wikipedia.org/wiki/Cube).** 
 
-It’s a remarkably simple, perfectly orderly structure. But how do we measure what's *inside* it?
+Because all three dimensions are identical (often represented by the side length $s$), we do not need to write $V = s \times s \times s$. Instead, we use [exponents](https://en.wikipedia.org/wiki/Exponentiation). **The volume of a cube is calculated by raising a single side length to the [third power](https://en.wikipedia.org/wiki/Cube_%28algebra%29)**, yielding the specialized formula:
 
----
+$V = s^3$
 
-## Volume vs. Surface Area vs. Capacity
+Often, real-world problems require calculating the volume of more than just a single object. Imagine a [warehouse](https://en.wikipedia.org/wiki/Warehouse) floor stacked with identical crates. Rather than calculating the volume of the entire massive stack at once, you can leverage the [associative properties](https://en.wikipedia.org/wiki/Associative_property) of multiplication. **Multiplying the volume of a single rectangular prism by the number of identical prisms yields the total volume of all the prisms.** If one crate has a volume of $12$ [cubic feet](https://en.wikipedia.org/wiki/Cubic_foot), and a [forklift](https://en.wikipedia.org/wiki/Forklift) moves a [pallet](https://en.wikipedia.org/wiki/Pallet) containing $40$ identical crates, the total volume moved is simply $12 \times 40 = 480$ cubic feet.
 
-In [geometry](https://en.wikipedia.org/wiki/Geometry), we have to be fiercely precise about what we are actually measuring. People often confuse the outside of a box with the inside of a box. 
+## The Universal Language of Cubic Units
 
-*   **Surface Area:** This is the *wrapping paper*. It is the total [area](https://en.wikipedia.org/wiki/Area) of the exterior faces. It is strictly a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) measurement wrapped around a 3D object.
-*   **Volume:** This is the *stuffing*. **[Volume](https://en.wikipedia.org/wiki/Volume)** measures the amount of three-dimensional space enclosed by a boundary. It is the interior space of a [prism](https://en.wikipedia.org/wiki/Prism_%28geometry%29).
-*   **Capacity:** When you look at [math word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29), you will often see the word "capacity." Do not let this throw you. The term **[capacity](https://en.wikipedia.org/wiki/Volume)** simply refers to the maximum interior volume a [container](https://en.wikipedia.org/wiki/Container) can hold. If volume is the space, capacity is the promise of how much [water](https://en.wikipedia.org/wiki/Water), [sand](https://en.wikipedia.org/wiki/Sand), or [air](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) can fit into that space!
+Because we calculate volume by multiplying three distinct dimensions of length together ($length \times width \times height$), the [unit of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement) is also multiplied by itself three times. Therefore, **volume is always expressed in cubic units.** 
 
-Because volume measures three-dimensional space, **volume is always expressed in [cubic units](https://en.wikipedia.org/wiki/Unit_of_volume)**. Think of a cubic unit as a tiny, perfectly square building block—like a single [Lego brick](https://en.wikipedia.org/wiki/Lego). When we calculate volume, we are simply asking: *"How many of these tiny cubes can I pack into this box without leaving any empty space?"*
+**Common cubic units include [cubic centimeters](https://en.wikipedia.org/wiki/Cubic_centimetre), [cubic meters](https://en.wikipedia.org/wiki/Cubic_metre), and [cubic inches](https://en.wikipedia.org/wiki/Cubic_inch).** You will see these written with an exponent of 3 (e.g., $\text{cm}^3$, $\text{m}^3$, $\text{in}^3$). This exponent is not just [notation](https://en.wikipedia.org/wiki/Mathematical_notation); it is a mathematical statement that three dimensions of space have been captured.
 
-![Lego bricks conceptually mirror cubic units in geometry. Calculating volume is akin to counting how many of these uniform blocks are needed to completely fill a defined 3D space.](https://wikipedia.org/wiki/Special:Redirect/file/Lego_Color_Bricks.jpg)
+Before applying the volume formula, you must respect the most critical rule of geometric calculation—a rule that trips up countless [Praxis test-takers](https://en.wikipedia.org/wiki/Praxis_test):
 
-Common cubic units you will see on the Praxis exam include **[cubic centimeters](https://en.wikipedia.org/wiki/Cubic_centimetre)**, **[cubic meters](https://en.wikipedia.org/wiki/Cubic_metre)**, and **[cubic inches](https://en.wikipedia.org/wiki/Cubic_inch)**.
+> **The Rule of Uniformity**
+> **All dimensions must be [converted](https://en.wikipedia.org/wiki/Conversion_of_units) to the same unit before calculating the volume of a rectangular prism.**
 
----
+If you attempt to find the volume of a drawer that is $2$ [feet](https://en.wikipedia.org/wiki/Foot_%28unit%29) long, $15$ [inches](https://en.wikipedia.org/wiki/Inch) wide, and $6$ inches deep by multiplying $2 \times 15 \times 6$, your result of $180$ is mathematical nonsense. You have multiplied feet by inches by inches. Instead, convert the $2$ feet into $24$ inches, and then multiply: $24 \text{ inches} \times 15 \text{ inches} \times 6 \text{ inches} = 2160 \text{ cubic inches}$. 
 
-## The Magical Mechanics of the Volume Formula
+## The Illusions of Scale: Three-Dimensional Conversions
 
-How do we count all those tiny cubes without spending all day doing it? We use [multiplication](https://en.wikipedia.org/wiki/Multiplication). 
+Converting units *after* volume has been calculated is where geometric intuition often fails us. Linear measurements scale predictably: there are $12$ inches in a foot, so $5$ feet is $60$ inches. But cubic units scale [exponentially](https://en.wikipedia.org/wiki/Exponential_growth). 
 
-The standard, universally loved formula for the volume of a rectangular prism is:
+Consider a [cubic foot](https://en.wikipedia.org/wiki/Cubic_foot). It is a cube measuring $1$ foot by $1$ foot by $1$ foot. If we convert those side lengths to inches, the cube measures $12$ inches by $12$ inches by $12$ inches. Multiplying those three dimensions ($12 \times 12 \times 12$) reveals a staggering truth: **One cubic foot is equal to 1728 cubic inches.** 
 
-> **V = l × w × h**
-> *(The volume of a rectangular prism is calculated by multiplying the length by the width by the height.)*
+This geometric scaling applies across all standard [systems of measurement](https://en.wikipedia.org/wiki/System_of_measurement):
 
-![A diagram illustrating the three dimensions of a rectangular prism: length, width, and height. Multiplying these together calculates the total enclosed volume.](https://wikipedia.org/wiki/Special:Redirect/file/Height_demonstration_diagram.png)
+| Linear Fact | The Three-Dimensional Reality (Volume) |
+| :--- | :--- |
+| $1 \text{ foot} = 12 \text{ inches}$ | **One cubic foot is equal to 1728 cubic inches.** ($12^3$) |
+| $1 \text{ yard} = 3 \text{ feet}$ | **One [cubic yard](https://en.wikipedia.org/wiki/Cubic_yard) is equal to 27 cubic feet.** ($3^3$) |
+| $1 \text{ meter} = 100 \text{ centimeters}$| **One [cubic meter](https://en.wikipedia.org/wiki/Cubic_metre) is equal to one million cubic centimeters.** ($100^3$) |
 
-Let’s think about why this works, rather than just accepting it blindly. 
+If a [contractor](https://en.wikipedia.org/wiki/General_contractor) is pouring [concrete](https://en.wikipedia.org/wiki/Concrete) for a [foundation](https://en.wikipedia.org/wiki/Foundation_%28engineering%29) with a volume of $81$ cubic feet, and the concrete costs \$120 per cubic yard, you cannot simply [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) $81$ by $3$. You must divide $81$ by $27$ to find that the foundation requires $3$ cubic yards, bringing the total cost to \$360. 
 
-Imagine you are packing a box with tiny 1-[inch](https://en.wikipedia.org/wiki/Inch) wooden cubes. 
-1. First, you line up a row of cubes along the bottom edge. That’s your **[length](https://en.wikipedia.org/wiki/Length)** ($l$). 
-2. Next, you build out those rows across the bottom of the box until the entire floor is covered. That’s your **[width](https://en.wikipedia.org/wiki/Width)** ($w$). 
-3. If you stop here, you have formed a single, flat layer of cubes on the floor of the box. 
+## Navigating Word Problems: Capacity and Fluid Space
 
-This brings us to a beautiful alternative way to think about the formula. That single flat layer of cubes covering the bottom? That is the [area of the base](https://en.wikipedia.org/wiki/Base_%28geometry%29). Therefore, the volume of a rectangular prism can also be calculated by multiplying the area of the base by the prism height. 
+When dealing with hollow rectangular prisms—like [fish tanks](https://en.wikipedia.org/wiki/Aquarium), [swimming pools](https://en.wikipedia.org/wiki/Swimming_pool), or [shipping containers](https://en.wikipedia.org/wiki/Intermodal_container)—we introduce a new vocabulary word to describe the space inside. **In math [word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29), the term capacity refers to the maximum interior volume a container can hold.**
 
-> **V = B × h**
+While "volume" and "capacity" are often used interchangeably in casual conversation, capacity typically bridges the gap between geometric measurements (like cubic centimeters) and liquid measurements (like [liters](https://en.wikipedia.org/wiki/Litre)). The [metric system](https://en.wikipedia.org/wiki/Metric_system) was brilliantly engineered to make this bridge seamless:
 
-In the volume formula $V = B \times h$, the [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) **B represents the area of the rectangular base** ($l \times w$). 
+*   **One [milliliter](https://en.wikipedia.org/wiki/Litre) of liquid volume is equal to exactly one cubic centimeter.** ($1 \text{ mL} = 1 \text{ cm}^3$)
+*   Because there are $1000$ milliliters in a liter, it logically follows that **one liter of liquid volume is equal to one thousand cubic centimeters.** ($1 \text{ L} = 1000 \text{ cm}^3$)
 
-Once you have your base layer ($B$), how do you fill the box? You just keep stacking identical layers on top of each other until you reach the ceiling. The number of layers you stack is your **[height](https://en.wikipedia.org/wiki/Height)** ($h$). 
+![The metric system seamlessly connects physical dimensions with liquid capacity, defining $1\text{ cm}^3$ as exactly $1\text{ mL}$, and scaling up to $1000\text{ cm}^3$ for exactly $1$ liter.](https://wikipedia.org/wiki/Special:Redirect/file/Visualisation_litre_gram.svg)
 
-Length times width gives you the floor; multiplying by the height fills the room. It’s wonderfully intuitive!
+### Example: The Aquarium Problem
+*An empty rectangular [aquarium](https://en.wikipedia.org/wiki/Aquarium) is $50\text{ cm}$ long, $20\text{ cm}$ wide, and $30\text{ cm}$ high. What is the capacity of the aquarium in liters?*
 
-### The Perfect Box: The Cube
-What happens if the length, width, and height are all exactly the same? A rectangular prism with equal length, width, and height is classified as a **[cube](https://en.wikipedia.org/wiki/Cube)**. 
+1.  Calculate the volume in cubic units: $V = l \times w \times h$. 
+    $V = 50 \times 20 \times 30 = 30,000 \text{ cm}^3$.
+2.  Use the metric bridge to find capacity: Since $1000 \text{ cm}^3$ equals $1$ liter, divide the total cubic centimeters by $1000$.
+    $30,000 / 1000 = 30 \text{ Liters}$.
 
-Because all three dimensions are identical (let's call the side length $s$), the formula $V = s \times s \times s$ collapses into something elegantly simple. The volume of a cube is calculated by raising a single side length to the [third power](https://en.wikipedia.org/wiki/Cube_%28algebra%29):
+The capacity of the tank is $30$ liters.
 
-> **Volume of a Cube: V = s³**
+## Solving the Unknown: Algebra in Three Dimensions
 
----
+[Standardized exams](https://en.wikipedia.org/wiki/Standardized_test) do not always ask you to solve for volume. Frequently, they will provide the volume and ask you to [reverse-engineer](https://en.wikipedia.org/wiki/Reverse_engineering) the shape to find a missing dimension. 
 
-## The Golden Rule: Units Must Match!
+This requires [isolating a variable](https://en.wikipedia.org/wiki/Equation_solving). If $V = l \times w \times h$, and you need to find the height ($h$), you must divide both sides of the [equation](https://en.wikipedia.org/wiki/Equation) by the length and the width. Stated plainly: **A missing dimension of a rectangular prism is found by dividing the total volume by the product of the two known dimensions.**
 
-Here is where test-makers try to trick you. They will give you a box that is 2 [feet](https://en.wikipedia.org/wiki/Foot_%28unit%29) long, 3 feet wide, and... 6 *[inches](https://en.wikipedia.org/wiki/Inch)* tall. If you just blind-fire the formula and calculate $2 \times 3 \times 6 = 36$, you have fallen into the trap! 
+![Algebraic manipulation requires treating the equation like a balance scale; when isolating a missing dimension, dividing one side by the known lengths must be perfectly mirrored on the opposite side to maintain mathematical equality.](https://wikipedia.org/wiki/Special:Redirect/file/Balance_scale.svg)
 
-> **CRITICAL WARNING:** **All dimensions must be converted to the same unit before calculating the volume of a rectangular prism.**
+### Example: The Storage Locker
+*A rectangular [storage unit](https://en.wikipedia.org/wiki/Self_storage) has a total volume of $480 \text{ cubic feet}$. The floor of the unit is $8 \text{ feet}$ wide and $10 \text{ feet}$ long. What is the height of the ceiling?*
 
-You cannot multiply feet by inches and expect to get a meaningful answer. You must decide on a single unit—say, inches—and convert everything first. The length becomes 24 inches, the width becomes 36 inches, and the height remains 6 inches. *Now* you can multiply.
+1.  Identify the knowns: $V = 480$, $w = 8$, $l = 10$.
+2.  Find the product of the two known dimensions (this is the base area, $B$): $8 \times 10 = 80 \text{ square feet}$.
+3.  Divide the total volume by this product: $h = \frac{480}{80}$.
+4.  Solve: $h = 6 \text{ feet}$. 
 
-### Mind-Boggling Unit Conversions
-
-Understanding how cubic units convert is arguably the most fascinating (and dangerous) part of calculating volume. Let's look at the hidden mathematics of [unit conversion](https://en.wikipedia.org/wiki/Conversion_of_units).
-
-Most people know that 1 foot equals 12 inches. So, it's tempting to think that 1 [cubic foot](https://en.wikipedia.org/wiki/Cubic_foot) equals 12 cubic inches. **Wrong!** 
-
-Remember, we are in three dimensions now. A cubic foot is a block that is 1 foot long, 1 foot wide, and 1 foot high. If we convert those to inches, it is 12 inches long, 12 inches wide, and 12 inches high. 
-$12 \times 12 \times 12 = 1728$.
-Therefore, **one cubic foot is equal to 1728 cubic inches.**
-
-The exact same principle applies to [yards](https://en.wikipedia.org/wiki/Yard) and [meters](https://en.wikipedia.org/wiki/Metre). Here are the canonical conversions you must know:
-
-| Measurement Type | The Conversion Fact | Why it Works |
-| :--- | :--- | :--- |
-| **[Imperial Volume](https://en.wikipedia.org/wiki/Imperial_units)** | **One [cubic yard](https://en.wikipedia.org/wiki/Cubic_yard) is equal to 27 [cubic feet](https://en.wikipedia.org/wiki/Cubic_foot).** | 1 yard = 3 feet. <br> $3 \times 3 \times 3 = 27$ |
-| **Imperial Volume** | **One cubic foot is equal to 1728 cubic inches.** | 1 foot = 12 inches. <br> $12 \times 12 \times 12 = 1728$ |
-| **[Metric Volume](https://en.wikipedia.org/wiki/Metric_system)** | **One [cubic meter](https://en.wikipedia.org/wiki/Cubic_metre) is equal to one million cubic centimeters.** | 1 meter = 100 [cm](https://en.wikipedia.org/wiki/Centimetre). <br> $100 \times 100 \times 100 = 1,000,000$ |
-
-#### The Bridge Between Liquid and Solid
-The [metric system](https://en.wikipedia.org/wiki/Metric_system) has a beautiful secret: it perfectly aligns liquid capacity with solid volume. 
-If you take a tiny hollow cube that is exactly 1 [centimeter](https://en.wikipedia.org/wiki/Centimetre) on each side (1 cubic centimeter), and you fill it with water, the amount of water it holds is exactly one [milliliter](https://en.wikipedia.org/wiki/Litre). 
-*   **One milliliter of liquid volume is equal to exactly one cubic centimeter (1 cm³).**
-
-Because there are 1,000 milliliters in a [liter](https://en.wikipedia.org/wiki/Litre), we can easily scale this up!
-*   **One liter of liquid volume is equal to one thousand cubic centimeters (1000 cm³).**
-
-![The metric system beautifully aligns solid volume and liquid capacity: a 1 cm³ cube holds exactly 1 milliliter (or 1 gram) of water, while a larger 10 cm × 10 cm × 10 cm cube holds exactly 1 liter.](https://wikipedia.org/wiki/Special:Redirect/file/Visualisation_litre_gram.svg)
-
-This is why doctors and scientists sometimes say "give him 50 cc's of medicine" on television—"cc" stands for cubic centimeters, which is identical to milliliters!
-
----
-
-## Playing with the Geometry: Advanced Praxis Core Concepts
-
-To truly master this topic for the Praxis exam, you need to be able to bend the formulas to your will. 
-
-### 1. Working Backward to Find a Missing Dimension
-Sometimes, a problem gives you the total volume and two of the dimensions, but leaves one out. For example: *"A rectangular pool has a volume of 600 cubic meters. If the pool is 20 meters long and 10 meters wide, how deep is it?"*
-
-Don't panic; just use [algebra](https://en.wikipedia.org/wiki/Algebra). We know $V = l \times w \times h$. 
-A missing dimension of a rectangular prism is found by dividing the total volume by the product of the two known dimensions.
-
-1. Multiply the known dimensions: $20 \text{ (length)} \times 10 \text{ (width)} = 200 \text{ (base area B)}$.
-2. Divide the total volume by this product: $600 \div 200 = 3$.
-3. The height (or depth) is 3 meters.
-
-### 2. Scaling Up: Multiple Prisms
-Imagine you are loading [cargo](https://en.wikipedia.org/wiki/Cargo) onto a [ship](https://en.wikipedia.org/wiki/Ship). You don't calculate the volume of the entire [cargo hold](https://en.wikipedia.org/wiki/Hold_%28compartment%29) by measuring every single individual box at once. If all the boxes are exactly the same size, you take a shortcut. 
-
-**Multiplying the volume of a single rectangular prism by the number of identical prisms yields the total volume of all the prisms.** 
-
-![Standardized shipping containers stacked on a cargo ship. When multiple identical rectangular prisms are used, calculating the total volume simply requires multiplying the volume of one container by the total number of containers.](https://wikipedia.org/wiki/Special:Redirect/file/CargoShip.jpg)
-
-If one shipping crate is 40 cubic feet, and you have 50 of them, your total volume is simply $40 \times 50 = 2000$ cubic feet. Calculate once, then multiply by the quantity.
-
----
-
-## Summary Checklist for Praxis Core Success
-
-When you sit down to take the math portion of your Praxis Core, remember the story of the box. 
-
-*   Visualize the **[rectangular prism](https://en.wikipedia.org/wiki/Cuboid)** in your mind: **6 faces, 12 edges, 8 vertices**.
-*   Ask yourself: Am I measuring the outside (**[surface area](https://en.wikipedia.org/wiki/Surface_area)**) or the inside (**volume/capacity**)?
-*   Check your units immediately! Are they all the same? If not, convert *before* doing any math. 
-*   Remember that volume is always reported in **[cubic units](https://en.wikipedia.org/wiki/Unit_of_volume)**, counting the invisible blocks inside.
-*   Apply your formulas gracefully: **$V = l \times w \times h$** or **$V = B \times h$** (and **$V = s^3$** for cubes).
-*   If you need to find a missing piece, divide the volume by what you know.
-*   Marvel at the fact that a **[milliliter](https://en.wikipedia.org/wiki/Litre) is exactly a [cubic centimeter](https://en.wikipedia.org/wiki/Cubic_centimetre)**, bridging the liquid and solid worlds.
-
-Mathematics is not about memorizing random rules; it is about describing the physical reality we live in. Treat these rectangular prisms like the fundamental building blocks of space that they are, and you won't just pass your exam—you'll see the world just a little bit more clearly!
+By rigorously understanding these principles—from the strict conversion of units to the [algebraic manipulation](https://en.wikipedia.org/wiki/Algebra) of $V = l \times w \times h$—you possess the tools to decode any volume problem presented to you. You are no longer just memorizing a formula; you are mathematically defining the space in which we live.

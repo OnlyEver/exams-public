@@ -1,159 +1,123 @@
-# The Architecture of Numbers: Primes, Factors, and the Hidden Rhythms of Mathematics
+The [physical universe](https://en.wikipedia.org/wiki/Universe) is constructed from a [finite set](https://en.wikipedia.org/wiki/Finite_set) of indivisible elements known as [atoms](https://en.wikipedia.org/wiki/Atom). The mathematical universe operates on an identical principle, but its elemental building blocks are the [prime numbers](https://en.wikipedia.org/wiki/Prime_number). Every [integer](https://en.wikipedia.org/wiki/Integer) you encounter is either an indivisible mathematical atom itself or a complex [molecule](https://en.wikipedia.org/wiki/Molecule) built by [multiplying](https://en.wikipedia.org/wiki/Multiplication) those atoms together. Understanding the architecture of these numbers—how to identify their parts, how to quickly test their properties, and how different numbers relate to one another—is not merely about following [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) [algorithms](https://en.wikipedia.org/wiki/Algorithm). It is about recognizing the structural [DNA](https://en.wikipedia.org/wiki/DNA) of the [number system](https://en.wikipedia.org/wiki/Numeral_system). 
 
-Hello there! Imagine, for a moment, that you are a [physicist](https://en.wikipedia.org/wiki/Physicist) taking apart the universe to find the [fundamental particles](https://en.wikipedia.org/wiki/Elementary_particle)—the [electrons](https://en.wikipedia.org/wiki/Electron), the [quarks](https://en.wikipedia.org/wiki/Quark), the indivisible bits of [reality](https://en.wikipedia.org/wiki/Reality). Well, as [educators](https://en.wikipedia.org/wiki/Teacher) looking at the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), we get to do the exact same thing, but with *[numbers](https://en.wikipedia.org/wiki/Number)*. 
+## The Mathematical Atoms: [Primes](https://en.wikipedia.org/wiki/Prime_number) and [Composites](https://en.wikipedia.org/wiki/Composite_number)
 
-![Just as physicists use the Standard Model to categorize indivisible elementary particles like quarks and electrons, mathematicians break composite numbers down into fundamental primes.](https://wikipedia.org/wiki/Special:Redirect/file/Standard_Model_of_Elementary_Particles.svg)
+To understand numbers, we must first classify them by their ability to be broken down. At the foundational level, we define a **[prime number](https://en.wikipedia.org/wiki/Prime_number)** as a [whole number](https://en.wikipedia.org/wiki/Integer) strictly greater than 1 that has exactly two distinct positive [divisors](https://en.wikipedia.org/wiki/Divisor): 1 and the number itself. You cannot divide a prime number evenly by any other [positive integer](https://en.wikipedia.org/wiki/Natural_number); it is structurally irreducible.
 
-When we look at numbers, we aren't just looking at abstract squiggles on a page. We are looking at [structures](https://en.wikipedia.org/wiki/Mathematical_structure). Some structures can be broken down into smaller pieces, and some are as basic as they come. Today, we are going to dive into the molecular [chemistry](https://en.wikipedia.org/wiki/Chemistry) of [math](https://en.wikipedia.org/wiki/Mathematics): how numbers are built, how to break them apart, and how they interact with one another.
+Conversely, a **[composite number](https://en.wikipedia.org/wiki/Composite_number)** is a positive integer that has at least one positive divisor other than 1 and the number itself. Composite numbers are the "molecules" of [mathematics](https://en.wikipedia.org/wiki/Mathematics), formed by the [multiplication](https://en.wikipedia.org/wiki/Multiplication) of smaller prime components.
 
-Let's roll up our sleeves and look at the [atoms](https://en.wikipedia.org/wiki/Atom) of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic).
+![A geometric visualization of primes versus composites. Composite numbers can be arranged into complete rectangular grids based on their underlying factors, while prime numbers can only form a single straight line.](https://wikipedia.org/wiki/Special:Redirect/file/Primes-vs-composites.svg)
 
----
+This leaves us with two fascinating anomalies at the start of our [number line](https://en.wikipedia.org/wiki/Number_line): $0$ and $1$. 
+*   **The number [0](https://en.wikipedia.org/wiki/0) is neither prime nor composite.** It can be divided by any number (yielding $0$), meaning it possesses [infinitely](https://en.wikipedia.org/wiki/Infinity) many divisors, which prevents it from functioning as a finite building block.
+*   **The number [1](https://en.wikipedia.org/wiki/1) is neither prime nor composite.** Why? Because a prime number must have *exactly two distinct* positive divisors. The number 1 only has a single positive divisor: itself. Therefore, it fails the definition of a prime, and because it has no divisors other than 1, it cannot be composite either.
 
-## Part I: The Atoms and the Molecules
+When we strip away $0$ and $1$, the primes begin to emerge. **The first ten prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29.**
 
-When you try to arrange blocks into a perfect [rectangle](https://en.wikipedia.org/wiki/Rectangle), a number like 12 gives you options: a 3-by-4 grid, a 2-by-6 grid, or even a 1-by-12 line. But if you have 7 blocks, you're stuck. You can only make a straight line of 7. It cannot be broken down further. This physical reality points us to the two fundamental types of numbers.
+If you look closely at that [sequence](https://en.wikipedia.org/wiki/Sequence), a solitary [even number](https://en.wikipedia.org/wiki/Even_and_odd_numbers) sits at the very beginning. **The number 2 is the only even prime number.** Every other even integer stretches to infinity as a composite number, simply because, by definition, any other even number is divisible by $2$. 
 
-![Composite numbers (like 12) can be physically arranged into various rectangular grids, whereas prime numbers (like 7) can only form a single straight line.](https://wikipedia.org/wiki/Special:Redirect/file/Primes-vs-composites.svg)
+## Unlocking the DNA: [Prime Factorization](https://en.wikipedia.org/wiki/Integer_factorization)
 
-> **A [prime number](https://en.wikipedia.org/wiki/Prime_number) is a [whole number](https://en.wikipedia.org/wiki/Integer) strictly greater than 1 that has exactly two distinct positive [divisors](https://en.wikipedia.org/wiki/Divisor): 1 and the number itself.**
+The reason we care so deeply about prime numbers is articulated by one of the most powerful laws in mathematics.
 
-Think of primes as the unbreakable atoms. They stand alone. If you try to [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) them evenly, you fail, unless you use the number itself or the number 1. 
+> **The [Fundamental Theorem of Arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)** states that every integer strictly greater than 1 is either a prime number itself or can be uniquely represented as a [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of prime numbers.
 
-On the other hand, numbers like 12 are the molecules:
+This [theorem](https://en.wikipedia.org/wiki/Theorem) guarantees that no matter how you choose to pull a composite number apart, you will inevitably arrive at the exact same unique set of prime factors. There is only one valid "prime fingerprint" for every number. 
 
-> **A [composite number](https://en.wikipedia.org/wiki/Composite_number) is a positive [integer](https://en.wikipedia.org/wiki/Integer) that has at least one positive divisor other than 1 and the number itself.**
+Finding that fingerprint requires **[prime factorization](https://en.wikipedia.org/wiki/Integer_factorization)**, which is the mathematical process of determining which prime numbers multiply together to yield a specific original number. 
 
-### The Oddballs: 0, 1, and 2
-Now, you might be wondering about the edges of our [number line](https://en.wikipedia.org/wiki/Number_line). What about [zero](https://en.wikipedia.org/wiki/0)? What about [one](https://en.wikipedia.org/wiki/1)?
-By definition, a prime must have *exactly* two positive divisors. The number 1 only has *one* divisor (just 1). Therefore, **the number 1 is neither prime nor composite.** It sits in a bizarre, solitary class of its own.
+To execute this systematically, [mathematicians](https://en.wikipedia.org/wiki/Mathematician) rely on a **factor tree**, a visual diagrammatic tool used to systematically break down a number into the prime factors of that number. Imagine we want to find the prime factorization of $60$:
+1. Write down $60$ and draw two branches down to any two factors, say $6$ and $10$. 
+2. Neither $6$ nor $10$ are prime, so we branch them again. The $6$ breaks down into $2$ and $3$ (both primes!). 
+3. The $10$ breaks down into $2$ and $5$ (both primes!).
+4. The tree stops growing when every branch ends in a prime number. 
 
-And what about zero? You can’t [divide by zero](https://en.wikipedia.org/wiki/Division_by_zero), and every integer divides into zero evenly (yielding zero). Because of this weird behavior, **the number 0 is neither prime nor composite.**
+Gathering the "leaves" of our tree, we find that $60 = 2 \times 2 \times 3 \times 5$. 
 
-Then we have the number 2. It has exactly two divisors: 1 and 2. It is prime. But wait—every other [even number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29) in the universe can be divided by 2! Because of this, **the number 2 is the only even prime number.** It’s the oddest of the evens! 
+![The divisibility lattice of the number 60. This diagram illustrates all possible divisors of 60, tracing paths down to its fundamental prime components: 2, 3, and 5.](https://wikipedia.org/wiki/Special:Redirect/file/Lattice_of_the_divisibility_of_60%3B_factors.svg)
 
-To survive and thrive on the Praxis exam, you should intuitively know the smallest of these atomic building blocks. **The first ten prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29.** Get to know them. They are your friends.
+To write this cleanly, **the prime factorization of a number can be written using [exponents](https://en.wikipedia.org/wiki/Exponentiation) to compactly group identical prime factors.** Therefore, the [canonical representation](https://en.wikipedia.org/wiki/Canonical_form) of our result is:
+$60 = 2^2 \times 3^1 \times 5^1$
 
----
+## X-Ray Vision: The [Divisibility Rules](https://en.wikipedia.org/wiki/Divisibility_rule)
 
-## Part II: The Fundamental Theorem and the Factor Tree
+Building factor trees for massive numbers would be agonizing if we had to rely on [long division](https://en.wikipedia.org/wiki/Long_division) to test every possible branch. Fortunately, our [base-10](https://en.wikipedia.org/wiki/Decimal) number system exhibits predictable patterns. We can use specific divisibility rules to determine if one number divides evenly into another just by glancing at its digits.
 
-Now, we arrive at what I consider one of the most beautiful laws in all of [logic](https://en.wikipedia.org/wiki/Logic). We call it a [theorem](https://en.wikipedia.org/wiki/Theorem), but it feels like a [law of nature](https://en.wikipedia.org/wiki/Scientific_law).
+![Manual long division is a computationally slow method for identifying factors. Divisibility rules allow us to bypass this tedious process for many common prime numbers.](https://wikipedia.org/wiki/Special:Redirect/file/Long_division.JPG)
 
-> **The [Fundamental Theorem of Arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic) states that every integer strictly greater than 1 is either a prime number itself or can be uniquely represented as a [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of prime numbers.**
+### The Ending Digits (Rules for 2, 5, and 10)
+These rules are the most intuitive because [powers](https://en.wikipedia.org/wiki/Exponentiation) of $10$ (like $10, 100, 1000$) are perfectly divisible by $2$, $5$, and $10$. Therefore, everything except the final digit is irrelevant.
+*   **A number is divisible by 2 if the final digit of the number is 0, 2, 4, 6, or 8.**
+*   **A number is divisible by 5 if the final digit of the number is exactly 0 or 5.**
+*   **A number is divisible by 10 if the final digit of the number is exactly 0.**
 
-Think about what that means! Every single composite number in the universe is just a unique combination of primes multiplying together. It's the ultimate recipe. 
+### The Sum of the Digits (Rules for 3 and 9)
+Because numbers like $9, 99,$ and $999$ are [multiples](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29) of both $3$ and $9$, any base-10 number can be mathematically reorganized to expose whether its underlying digits sum to a multiple of these primes.
+*   **A number is divisible by 3 if the sum of all the individual digits in the number is divisible by 3.** (For example, $3,456$: $3 + 4 + 5 + 6 = 18$. Since $18$ is divisible by $3$, $3,456$ is divisible by $3$).
+*   **A number is divisible by 9 if the sum of all the individual digits in the number is divisible by 9.** (Using $3,456$ again: the sum is $18$. Since $18$ is divisible by $9$, $3,456$ is divisible by $9$).
 
-So, how do we find this recipe? We use a process called **[prime factorization](https://en.wikipedia.org/wiki/Integer_factorization)**. 
-**Prime factorization is the mathematical process of determining which prime numbers multiply together to yield a specific original number.** 
+### The Structural Checks (Rules for 4 and 6)
+*   **A number is divisible by 4 if the number formed by the last two digits is divisible by 4.** Why? Because $100$ is perfectly divisible by $4$. Whether you have $300$ or $3,000,000$, those hundreds and above are automatically divisible by $4$. You only need to check the tens and units. (For example, in $8,732$, just look at $32$. $32 \div 4 = 8$, so the entire number is divisible by $4$).
+*   **A number is divisible by 6 if the number passes the divisibility rules for both 2 and 3.** Because $6$ is the product of the primes $2$ and $3$, any number divisible by $6$ must be even (passing the rule for $2$) *and* its digits must sum to a multiple of $3$ (passing the rule for $3$).
 
-To do this, we don't just guess blindly; we use a visual aid. **A [factor tree](https://en.wikipedia.org/wiki/Integer_factorization) is a visual diagrammatic tool used to systematically break down a number into the prime factors of that number.**
+## The Interplay of Numbers: [GCD](https://en.wikipedia.org/wiki/Greatest_common_divisor) and [LCM](https://en.wikipedia.org/wiki/Least_common_multiple)
 
-Let’s dismantle the number 60:
-1. Break 60 into any two factors you can think of. Let’s say 6 and 10. Draw two branches down from 60.
-2. Neither 6 nor 10 is prime. So we keep going!
-3. Branch 6 into 2 and 3. Both are prime! Circle them. The branches end here.
-4. Branch 10 into 2 and 5. Both are prime! Circle them.
-5. Gather your circled primes: 2, 2, 3, and 5.
+Once we understand how single numbers are built, we can analyze the relationships *between* numbers. When we compare the prime factorizations of two integers, we uncover their commonalities and their collective scale.
 
-If we [multiply](https://en.wikipedia.org/wiki/Multiplication) them back together ($2 \times 2 \times 3 \times 5$), we get 60. To make this cleaner, [mathematicians](https://en.wikipedia.org/wiki/Mathematician) use shorthand. **The prime factorization of a number can be written using [exponents](https://en.wikipedia.org/wiki/Exponentiation) to compactly group identical prime factors.** 
+### The [Greatest Common Divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) (GCD)
+**The Greatest Common Divisor of two or more integers is the largest positive integer that divides each of the integers without leaving a [remainder](https://en.wikipedia.org/wiki/Remainder).** In educational contexts, be aware that **the term Greatest Common Divisor is mathematically synonymous with the term [Greatest Common Factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) (GCF).**
 
-So, for 60, we beautifully write: **$2^2 \times 3 \times 5$**
+![A geometric representation of the Greatest Common Divisor. Here, a 24-by-60 rectangle is perfectly covered by 12-by-12 square tiles, visually demonstrating that 12 is the largest common divisor of both 24 and 60.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
 
----
+To find the GCD, we look at the prime factorizations of our two numbers to isolate the mathematical DNA they share. **The Greatest Common Divisor of two numbers is calculated by multiplying all the common prime factors shared by both numbers at their lowest exponent levels.**
 
-## Part III: X-Ray Vision (The Divisibility Rules)
+Consider $60$ and $72$:
+*   $60 = 2^2 \times 3^1 \times 5^1$
+*   $72 = 2^3 \times 3^2$
 
-To build a factor tree, you need to know what divides evenly into a big number. If I hand you the number 4,320, how do you know where to start? You don't want to sit there with a [calculator](https://en.wikipedia.org/wiki/Calculator) testing every single integer. 
+Which bases do they share? They both have a $2$ and a $3$. They do *not* both have a $5$, so $5$ is ignored.
+What are the *lowest* exponent levels for those shared primes? 
+*   For $2$: between $2^2$ and $2^3$, the lowest is $2^2$.
+*   For $3$: between $3^1$ and $3^2$, the lowest is $3^1$.
 
-Nature gave us a [base-10](https://en.wikipedia.org/wiki/Decimal) number system, and hidden inside that base-10 system are some incredible "shortcuts." By just glancing at a number, you can tell if it has a certain factor. 
+Multiply those together: $\text{GCD} = 2^2 \times 3^1 = 4 \times 3 = 12$. The largest number that perfectly divides both $60$ and $72$ is $12$.
 
-Here is your decoder ring for [divisibility](https://en.wikipedia.org/wiki/Divisibility_rule):
+In some cases, two numbers share absolutely no prime factors. **Two numbers are considered [relatively prime](https://en.wikipedia.org/wiki/Coprime_integers) if the Greatest Common Divisor of the two numbers is exactly 1.** For example, $8$ ($2^3$) and $15$ ($3 \times 5$) are both composite, but they share no prime components. Their GCD is $1$, making them relatively prime.
 
-| Divisor | The Divisibility Rule | Why it matters / Example |
-| :--- | :--- | :--- |
-| **2** | **A number is divisible by 2 if the final [digit](https://en.wikipedia.org/wiki/Numerical_digit) of the number is 0, 2, 4, 6, or 8.** | Just look at the tail end! E.g., 4,32**0** ends in 0. It’s divisible by 2. |
-| **3** | **A number is divisible by 3 if the [sum](https://en.wikipedia.org/wiki/Summation) of all the individual digits in the number is divisible by 3.** | Is 111 divisible by 3? Well, $1 + 1 + 1 = 3$. Yes! Is 4,320 divisible by 3? $4+3+2+0 = 9$. Since 9 is divisible by 3, so is 4,320. Incredible! |
-| **4** | **A number is divisible by 4 if the number formed by the last two digits is divisible by 4.** | Look at 3,5**16**. Does 4 go into 16? Yes! So 4 goes into 3,516. |
-| **5** | **A number is divisible by 5 if the final digit of the number is exactly 0 or 5.** | The easiest rule to spot. 87**5**? Divisible by 5. |
-| **6** | **A number is divisible by 6 if the number passes the divisibility rules for both 2 and 3.** | Since $6 = 2 \times 3$, a number must satisfy *both* rules. 4,320 is even (passes 2) and its digits sum to 9 (passes 3). So it is divisible by 6! |
-| **9** | **A number is divisible by 9 if the sum of all the individual digits in the number is divisible by 9.** | Similar to the rule for 3. Take 8,154. $8+1+5+4 = 18$. 18 is divisible by 9, so 8,154 is too! |
-| **10** | **A number is divisible by 10 if the final digit of the number is exactly 0.** | The ultimate time-saver. 4,32**0** is clearly divisible by 10. |
+![Relatively prime (coprime) numbers have practical engineering applications. In this machinery, a 13-tooth gear runs against a 21-tooth gear. Because 13 and 21 are relatively prime, the same pair of teeth will rarely interact, ensuring the gears wear evenly over time.](https://wikipedia.org/wiki/Special:Redirect/file/Gears_large.jpg)
 
-Commit these to memory. They are not just tricks; they are the structural reality of the [decimal system](https://en.wikipedia.org/wiki/Decimal), and they will save you vital minutes on the Praxis exam.
+### The [Least Common Multiple](https://en.wikipedia.org/wiki/Least_common_multiple) (LCM)
+If divisors represent breaking numbers down, multiples represent building them up. **A multiple of a given number is the product of that given number and any integer.** The multiples of $5$, for instance, are $5, 10, 15, 20$, and so on out to infinity.
 
----
+When aligning two distinct periodic events or mathematical scales, we seek the lowest point at which they intersect. **The Least Common Multiple of two or more integers is the smallest positive integer that is divisible by each of the original integers.**
 
-## Part IV: The Greatest Common Divisor (GCD)
+While the GCD requires the *lowest* powers of *shared* primes, calculating the LCM takes the exact opposite approach: **The Least Common Multiple of two numbers is calculated by multiplying the highest power of each distinct prime factor present in the prime factorizations of those two numbers.**
 
-Numbers don't just exist in a vacuum; they interact. And sometimes we want to know what two numbers have in common. Suppose you are tiling a floor or cutting ribbon, and you want to find the absolute largest piece that fits perfectly into two different dimensions.
+Let's use $60$ and $72$ again:
+*   $60 = 2^2 \times 3^1 \times 5^1$
+*   $72 = 2^3 \times 3^2$
 
-![The Greatest Common Divisor visually represented: finding the largest possible square tile (12x12) that perfectly fills a rectangular space of two different dimensions (24x60) without leaving a remainder.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
+What are *all* the distinct prime bases present? $2$, $3$, and $5$.
+What are the *highest* exponent levels for those primes across either number?
+*   For $2$: the highest is $2^3$.
+*   For $3$: the highest is $3^2$.
+*   For $5$: the highest is $5^1$.
 
-> **The [Greatest Common Divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of two or more integers is the largest positive integer that divides each of the integers without leaving a [remainder](https://en.wikipedia.org/wiki/Remainder).**
-*(Note for the exam: **The term Greatest Common Divisor is mathematically synonymous with the term Greatest Common Factor**.)*
+Multiply those together: $\text{LCM} = 2^3 \times 3^2 \times 5^1 = 8 \times 9 \times 5 = 360$. The first time the multiples of $60$ and the multiples of $72$ collide is at exactly $360$.
 
-How do we find this master-key number? We use our prime blueprints! 
-**The Greatest Common Divisor of two numbers is calculated by multiplying all the common prime factors shared by both numbers at their lowest exponent levels.**
+## The Grand Unification: Connecting the Concepts
 
-Let's look at 24 and 36.
-* Prime factorization of 24 = $2^3 \times 3^1$
-* Prime factorization of 36 = $2^2 \times 3^2$
+One of the most beautiful and elegant [proofs](https://en.wikipedia.org/wiki/Mathematical_proof) of the internal consistency of mathematics is how the GCD and LCM relate back to the original numbers. 
 
-Look at the [bases](https://en.wikipedia.org/wiki/Base_%28exponentiation%29): they both share a 2 and a 3. 
-Now, take the *lowest exponent* for each shared base.
-* For base 2, the lowest exponent is $2^2$.
-* For base 3, the lowest exponent is $3^1$.
+When you find the GCD, you extract the *minimum* exponents. When you find the LCM, you extract the *maximum* exponents. If you multiply the GCD and the LCM together, you are effectively uniting the lowest and highest powers of every single prime factor shared between the two original numbers. The result is a perfect, lossless preservation of both original prime factorizations.
 
-Multiply those together: $2^2 \times 3^1 = 4 \times 3 = 12$. 
-The GCD is 12! It's the absolute largest number that divides perfectly into both 24 and 36. 
+Because of this [symmetry](https://en.wikipedia.org/wiki/Symmetry_in_mathematics), **the product of two positive integers is equal to the product of the Greatest Common Divisor and the Least Common Multiple of those same two integers.**
 
-### Strangers in Math: Relatively Prime
-What happens if you compare two numbers, like 8 and 15, and they share absolutely no prime factors? ($8 = 2^3$, and $15 = 3 \times 5$). Their only common divisor is the number 1. 
-We have a special term for this: **Two numbers are considered [relatively prime](https://en.wikipedia.org/wiki/Coprime_integers) if the Greatest Common Divisor of the two numbers is exactly 1.** They don't share any mathematical [DNA](https://en.wikipedia.org/wiki/DNA)!
+> **The Product Rule for GCD and LCM:** 
+> $a \times b = \text{GCD}(a, b) \times \text{LCM}(a, b)$
 
-![Mechanical gears often utilize relatively prime numbers of teeth (like 13 and 21) to ensure that the same teeth do not repeatedly strike one another, taking advantage of the fact that the numbers share no common divisors.](https://wikipedia.org/wiki/Special:Redirect/file/Gears_large.jpg)
+Let us test it with $60$ and $72$:
+*   The product of the original integers: $60 \times 72 = 4,320$
+*   The product of their GCD and LCM: $12 \times 360 = 4,320$
 
----
-
-## Part V: Stepping Forward (The Least Common Multiple)
-
-While divisors look *backward* to what makes a number, multiples look *forward* to what a number can become. 
-
-> **A [multiple](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29) of a given number is the product of that given number and any integer.**
-
-Think of a multiple as footsteps. The multiples of 4 are 4, 8, 12, 16, 20...
-When we look at two different numbers, we often want to know when their footsteps will eventually land on the exact same spot. Think of [gears](https://en.wikipedia.org/wiki/Gear) turning, or [planets](https://en.wikipedia.org/wiki/Planet) orbiting the sun. When do they align? 
-
-![Intermeshing gears beautifully illustrate the Least Common Multiple. If one gear has 24 teeth and another has 36, they will return to their exact starting alignment only after 72 total teeth have passed.](https://wikipedia.org/wiki/Special:Redirect/file/Animated_two_spur_gears_1_2.gif)
-
-> **The [Least Common Multiple](https://en.wikipedia.org/wiki/Least_common_multiple) of two or more integers is the smallest positive integer that is divisible by each of the original integers.**
-
-Just as we used the prime blueprint to find the GCD, we can use it to find the LCM, but with a slight twist. **The Least Common Multiple of two numbers is calculated by multiplying the highest power of each distinct prime factor present in the prime factorizations of those two numbers.**
-
-Let's use 24 and 36 again.
-* 24 = $2^3 \times 3^1$
-* 36 = $2^2 \times 3^2$
-
-List *every distinct prime factor* that appears (2 and 3). This time, take the *highest* power of each.
-* Highest power of 2 is $2^3$.
-* Highest power of 3 is $3^2$.
-
-Multiply them together: $2^3 \times 3^2 = 8 \times 9 = 72$. 
-The LCM is 72! If you count by 24s and count by 36s, 72 is the very first number they both hit.
-
----
-
-## Part VI: The Grand Symmetrical Equation
-
-Here is where it all comes together. The interplay between the GCD (the shared foundation) and the LCM (the shared future) contains a stunning mathematical [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28mathematics%29). There is a hidden relationship that connects them seamlessly back to the original numbers.
-
-> **The product of two positive integers is equal to the product of the Greatest Common Divisor and the Least Common Multiple of those same two integers.**
-
-Let's [prove](https://en.wikipedia.org/wiki/Mathematical_proof) it with our numbers, 24 and 36.
-The product of the two original integers: $24 \times 36 = 864$
-The product of their GCD (12) and their LCM (72): $12 \times 72 = 864$
-
-Isn't that wonderful? The universe balances perfectly. The piece they share exactly offsets the space it takes to reach their first common multiple. 
-
-By understanding these fundamentals—how to recognize primes, how to trace down factors using divisibility rules, and how to harness the GCD and LCM—you aren't just memorizing [formulas](https://en.wikipedia.org/wiki/Formula) for the Praxis exam. You are seeing the bare structural bones of arithmetic. Armed with [x-ray vision](https://en.wikipedia.org/wiki/X-ray_vision) and factor trees, you are ready to conquer the math!
+This perfect balance showcases why we study prime numbers, divisibility rules, and factorization. Numbers are not arbitrary labels we assign to [quantities](https://en.wikipedia.org/wiki/Quantity). They are highly structured entities bound by inviolable rules—and once you recognize that structure, you hold the keys to all arithmetic [logic](https://en.wikipedia.org/wiki/Mathematical_logic).

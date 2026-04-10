@@ -1,141 +1,103 @@
-# The Architecture of Reading: Text Features and Structures
-**[Praxis Elementary Education](https://en.wikipedia.org/wiki/Praxis_test): Multiple Subjects Study Guide**
+Imagine approaching a text not merely as a flat surface of printed words, but as an intricately engineered machine. Just as the blueprint of a [suspension bridge](https://en.wikipedia.org/wiki/Suspension_bridge) demands a fundamentally different internal logic than the architecture of a [skyscraper](https://en.wikipedia.org/wiki/Skyscraper), **different [literary genres](https://en.wikipedia.org/wiki/Literary_genre) utilize unique structural elements to organize the text.** To extract meaning from [reading](https://en.wikipedia.org/wiki/Reading_%28process%29)—to truly comprehend it—one must first perceive this underlying scaffold. Understanding text features and structures is the mechanical intuition that allows a reader to navigate across varying genres. It is the framework that signals instantly whether one should fall into the rhythmic pulse of [poetic meter](https://en.wikipedia.org/wiki/Metre_%28poetry%29), trace the rising tension of a [narrative](https://en.wikipedia.org/wiki/Narrative), or scan bold [typography](https://en.wikipedia.org/wiki/Typography) to efficiently locate a [scientific fact](https://en.wikipedia.org/wiki/Fact). For early learners, mastering these structures is the difference between wandering blindly through a forest of words and reading a map that charts exactly where the treasure lies.
 
-Let’s talk about [building codes](https://en.wikipedia.org/wiki/Building_code), but for words. 
+![Just as the physical scaffolding of a skyscraper dictates its structural limits and outward appearance, the underlying framework of a literary genre determines how an author organizes information and narrative.](https://wikipedia.org/wiki/Special:Redirect/file/Skyscraper_structure.png)
 
-When you hand a young student a [book](https://en.wikipedia.org/wiki/Book), what do they see? At first, it’s just a sea of ink on paper. But as they learn to read, they begin to see the invisible scaffolding holding those words together. As [educators](https://en.wikipedia.org/wiki/Teacher), our job isn't just to teach students *how* to sound out words, but to teach them how to navigate the very structure of the information they are holding.
+## The Architecture of Imagination: Structural Elements in Literature
 
-Think about it: you don't read a [poem](https://en.wikipedia.org/wiki/Poetry) the same way you read a [cookbook](https://en.wikipedia.org/wiki/Cookbook). You don't read a [mystery novel](https://en.wikipedia.org/wiki/Mystery_fiction) the same way you read a [Wikipedia article](https://en.wikipedia.org/wiki/Wikipedia). Why? Because the *shape* of the text tells your [brain](https://en.wikipedia.org/wiki/Brain) what to expect. In this guide, we are going to tear apart the engines of [literature](https://en.wikipedia.org/wiki/Literature) and informational text to see exactly how their parts work together. 
+When we open a work of [literature](https://en.wikipedia.org/wiki/Literature), we are stepping into an author’s carefully constructed world. To help readers process these imaginative landscapes, writers rely on specific architectural [conventions](https://en.wikipedia.org/wiki/Convention_%28norm%29). 
 
----
+### Fiction: The Anatomy of Narrative
+**[Fiction](https://en.wikipedia.org/wiki/Fiction) texts are commonly divided into [chapters](https://en.wikipedia.org/wiki/Chapter_%28books%29).** Think of chapters as the large gears in a [clockwork](https://en.wikipedia.org/wiki/Clockwork) mechanism; they break the immense, continuous flow of a story into digestible, meaningful segments of time, [setting](https://en.wikipedia.org/wiki/Setting_%28narrative%29), or [perspective](https://en.wikipedia.org/wiki/Point_of_view_%28literature%29). Within these structural boundaries, **chapters in fiction texts contain multiple [paragraphs](https://en.wikipedia.org/wiki/Paragraph)**, which serve to pace the reader through specific ideas, [dialogue](https://en.wikipedia.org/wiki/Dialogue) exchanges, or descriptive moments.
 
-## Part 1: The Blueprints of Imagination ([Literary Genres](https://en.wikipedia.org/wiki/Literary_genre))
+What drives the movement of these gears? The [plot](https://en.wikipedia.org/wiki/Plot_%28narrative%29). A narrative is fundamentally an engine of change, and a formal plot structure governs how that change occurs over time. 
 
-Have you ever noticed that you can identify a poem from across the room without reading a single word? You can do this because **different literary genres utilize unique structural elements to organize the text.** The visual and structural cues are part of the genre’s [DNA](https://en.wikipedia.org/wiki/DNA). 
+> **The Mechanics of Plot**
+> *   **Exposition:** A **plot structure in fiction begins with an [exposition](https://en.wikipedia.org/wiki/Exposition_%28narrative%29).** This is the baseline state of the system—the introduction of characters, setting, and the primary [conflict](https://en.wikipedia.org/wiki/Conflict_%28narrative%29).
+> *   **Climax:** As the conflict intensifies, the narrative accelerates until it hits a critical threshold. A **plot structure in fiction features a [climax](https://en.wikipedia.org/wiki/Climax_%28narrative%29) as the point of highest tension**, the explosive turning point where the outcome is irrevocably decided.
+> *   **Resolution:** Finally, the energy dissipates. A **plot structure in fiction concludes with a [resolution](https://en.wikipedia.org/wiki/Resolution_%28narrative%29)**, where the consequences of the climax are settled, and the narrative reaches a new [equilibrium](https://en.wikipedia.org/wiki/Equilibrium).
 
-Let’s look at the big three: [Fiction](https://en.wikipedia.org/wiki/Fiction), [Poetry](https://en.wikipedia.org/wiki/Poetry), and [Drama](https://en.wikipedia.org/wiki/Drama).
+![Freytag's Pyramid visualizes the mechanical structure of a narrative plot, tracking the rise and fall of tension from the initial exposition to the final resolution.](https://wikipedia.org/wiki/Special:Redirect/file/Freytag's_Pyramid_with_English_text.svg)
 
-### The Mechanics of Fiction
-Fiction is built for immersion. The author wants you to lose yourself in the story, so the text is structured to provide a steady, continuous flow of imagination. 
+### Poetry: The Geometry of Sound
+If [prose](https://en.wikipedia.org/wiki/Prose) is a sprawling landscape, [poetry](https://en.wikipedia.org/wiki/Poetry) is a tightly compressed [diamond](https://en.wikipedia.org/wiki/Diamond). Because poetry operates under intense spatial and auditory constraints, it requires entirely different structural elements. 
 
-To manage [pacing](https://en.wikipedia.org/wiki/Pacing_%28narrative%29), **fiction texts are commonly divided into [chapters](https://en.wikipedia.org/wiki/Chapter_%28books%29).** Think of chapters as the architectural rooms of a story; when you move to a new chapter, you are often stepping into a new scene, a new time, or a new character's perspective. Zooming in a bit closer, those **chapters in fiction texts contain multiple [paragraphs](https://en.wikipedia.org/wiki/Paragraph)**, which organize individual thoughts, [dialogue](https://en.wikipedia.org/wiki/Dialogue) exchanges, and actions.
+Instead of paragraphs spanning margin to margin, **poetry is organized structurally into individual [lines](https://en.wikipedia.org/wiki/Line_%28poetry%29).** These lines are not dictated by the width of the page, but by the author's deliberate choice of breath and sound. Just as paragraphs group [sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) in prose, **a group of lines in a poem is called a [stanza](https://en.wikipedia.org/wiki/Stanza).**
 
-But underneath the chapters and paragraphs lies the psychological engine of the story: the [plot](https://en.wikipedia.org/wiki/Plot_%28narrative%29). A plot isn't just a sequence of random events; it is a carefully calibrated machine designed to build and release pressure.
-*   **A plot structure in fiction begins with an [exposition](https://en.wikipedia.org/wiki/Exposition_%28narrative%29).** This is where we lay the foundation—introducing the characters, the setting, and the normal world before things get complicated. 
-*   As the conflict ramps up, **a plot structure in fiction features a [climax](https://en.wikipedia.org/wiki/Climax_%28narrative%29) as the point of highest tension.** This is the roller coaster cresting the top of the track; the moment everything changes.
-*   Finally, the tension releases, and **a plot structure in fiction concludes with a [resolution](https://en.wikipedia.org/wiki/Resolution_%28narrative%29).** The loose ends are tied up, and a new normal is established. 
+To understand poetry is to understand its acoustic [physics](https://en.wikipedia.org/wiki/Physics):
+*   **[Meter](https://en.wikipedia.org/wiki/Metre_%28poetry%29) refers to the rhythmic structure of stressed and unstressed [syllables](https://en.wikipedia.org/wiki/Syllable) in poetry.** It is the heartbeat of the verse, a predictable, mathematical [frequency](https://en.wikipedia.org/wiki/Frequency) of sound (such as [iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter)) that propels the reader forward.
+*   Working alongside meter is [rhyme](https://en.wikipedia.org/wiki/Rhyme). A **[rhyme scheme](https://en.wikipedia.org/wiki/Rhyme_scheme) is the ordered pattern of rhyming words at the ends of lines in a poem.** By establishing patterns (like AABB or ABAB), poets create aural expectations that delight the [brain](https://en.wikipedia.org/wiki/Brain) when fulfilled.
 
-![Freytag's Pyramid is a classic visual model for fiction, mapping the chronological rise and fall of tension from exposition to resolution.](https://wikipedia.org/wiki/Special:Redirect/file/Freytag's_Pyramid_with_English_text.svg)
+![In concrete poetry, such as this calligram by Guillaume Apollinaire, the strict spatial constraints of the genre are manipulated so that the physical arrangement of words forms a literal visual structure on the page.](https://wikipedia.org/wiki/Special:Redirect/file/Calligramme.jpg)
 
-### The Music of Poetry
-If fiction is a roller coaster, poetry is a [symphony](https://en.wikipedia.org/wiki/Symphony). Poetry relies heavily on how text looks on the page and how it sounds in the ear. 
+### Dramatic Literature: The Mechanics of Performance
+A [play](https://en.wikipedia.org/wiki/Play_%28theatre%29) is not meant to exist silently on a page; it is a set of instructions for [human behavior](https://en.wikipedia.org/wiki/Human_behavior). Therefore, dramatic texts look radically different from [novels](https://en.wikipedia.org/wiki/Novel) or poems. 
 
-Instead of wrapping text edge-to-edge like a paragraph, **poetry is organized structurally into individual [lines](https://en.wikipedia.org/wiki/Line_%28poetry%29).** This forces the reader to pause and pace themselves exactly how the [poet](https://en.wikipedia.org/wiki/Poet) intended. When a poet wants to group a complete thought or create a rhythmic unit, they stack these lines together. **A group of lines in a poem is called a [stanza](https://en.wikipedia.org/wiki/Stanza)**, functioning much like a paragraph does in [prose](https://en.wikipedia.org/wiki/Prose).
+**[Dramatic literature](https://en.wikipedia.org/wiki/Drama) is structurally divided into major sections called [acts](https://en.wikipedia.org/wiki/Act_%28drama%29).** Acts represent massive shifts in the narrative—often a change in time, a jump to a new location, or a major pivot in the story's phase. Because these are large units of action, **acts in a dramatic text are divided into smaller sections called [scenes](https://en.wikipedia.org/wiki/Scene_%28drama%29)**, which contain continuous action occurring in a single location at a single moment in time.
 
-> **The Heartbeat of the Poem**
-> How does a poem create its music? Two ways: rhythm and rhyme. 
-> 1. **[Meter](https://en.wikipedia.org/wiki/Metre_%28poetry%29) refers to the rhythmic structure of [stressed and unstressed syllables](https://en.wikipedia.org/wiki/Stress_%28linguistics%29) in poetry.** It is the drumbeat underlying the words (think of the *da-DUM da-DUM* of [Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)'s [iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter)). 
-> 2. **A [rhyme scheme](https://en.wikipedia.org/wiki/Rhyme_scheme) is the ordered pattern of [rhyming](https://en.wikipedia.org/wiki/Rhyme) words at the ends of lines in a poem.** (For example, an AABB or ABAB pattern). 
+To orchestrate this live performance, a [script](https://en.wikipedia.org/wiki/Screenplay) provides specialized tools:
+*   Before the action even begins, a **cast of [characters](https://en.wikipedia.org/wiki/Character_%28arts%29) lists all individuals appearing in a play.** This serves as an inventory of the active agents in the story.
+*   Once the dialogue commences, the author must direct the physical reality of the [stage](https://en.wikipedia.org/wiki/Stage_%28theatre%29). **[Stage directions](https://en.wikipedia.org/wiki/Stage_direction) in a dramatic text provide movement instructions for [actors](https://en.wikipedia.org/wiki/Actor)**, dictate emotional delivery, and describe [lighting](https://en.wikipedia.org/wiki/Stage_lighting) or [sound cues](https://en.wikipedia.org/wiki/Cue_%28theatrical%29). They are the unseen [puppeteer](https://en.wikipedia.org/wiki/Puppetry) strings translating the written word into physical reality.
 
-### The Playbook of Dramatic Literature
-Drama is unique because the text isn't actually the final product—the text is a *recipe for a performance*. 
+![A standard screenplay highlights the unique structural features of dramatic literature, strictly organizing the text into scene headings, stage directions, character names, and dialogue to provide clear instructions for a live performance.](https://wikipedia.org/wiki/Special:Redirect/file/Screenplay_example.svg)
 
-Because a [play](https://en.wikipedia.org/wiki/Play_%28theatre%29) needs to be managed practically on a [stage](https://en.wikipedia.org/wiki/Stage_%28theatre%29), **[dramatic literature](https://en.wikipedia.org/wiki/Drama) is structurally divided into major sections called [acts](https://en.wikipedia.org/wiki/Act_%28theatre%29).** When the curtain falls and the crew changes the massive set pieces, an act has ended. But a lot happens within a single set! Therefore, **acts in a dramatic text are divided into smaller sections called [scenes](https://en.wikipedia.org/wiki/Scene_%28drama%29)**, which denote a specific, continuous action in one location.
+## Navigating the Nonfiction Machine: Text Features
 
-To make sure the production runs smoothly, the [script](https://en.wikipedia.org/wiki/Script_%28performing_arts%29) includes specialized tools:
-*   Before the story even begins, **a cast of characters lists all individuals appearing in a play.** This tells the [director](https://en.wikipedia.org/wiki/Theatre_director) exactly who needs to be hired.
-*   Throughout the text, you'll see italicized or bracketed notes. These **[stage directions](https://en.wikipedia.org/wiki/Stage_direction) in a dramatic text provide movement instructions for actors**, telling them when to exit, how to hold a [prop](https://en.wikipedia.org/wiki/Theatrical_property), or the emotional tone of their delivery.
+When we leave literature and enter the realm of [nonfiction](https://en.wikipedia.org/wiki/Non-fiction), our objective changes. We are no longer surrendering to a narrative flow; we are hunting for specific [data](https://en.wikipedia.org/wiki/Data). Consequently, **informational texts utilize specific text features to help readers locate facts quickly.** These features act as the text's [user interface](https://en.wikipedia.org/wiki/User_interface), allowing readers to efficiently [query](https://en.wikipedia.org/wiki/Query_string) the document.
 
-![A diagram of standard stage directions, which allows dramatic texts to precisely dictate actor movement from the audience's perspective.](https://wikipedia.org/wiki/Special:Redirect/file/Stage_directions_2.svg)
+### Structural Signposts
+When scanning a dense page of [information](https://en.wikipedia.org/wiki/Information), the reader's eye needs anchors. 
+*   A **heading identifies the main topic of the text section immediately following the heading.** It acts as a beacon, announcing, "Information regarding *this* subject lives here."
+*   If the topic is broad, it requires further subdivision. A **subheading divides text sections under a main heading into more specific topics.** 
 
----
+### Contextual Enhancements
+Sometimes, authors need to provide information that supplements the main text without interrupting its flow.
+*   A **[sidebar](https://en.wikipedia.org/wiki/Sidebar_%28publishing%29) contains secondary information related to the main text.** Placed in a literal box on the periphery of the page, it might offer a fascinating historical [anecdote](https://en.wikipedia.org/wiki/Anecdote) or a deeper dive into a related concept.
+*   Visual data is equally crucial. When encountering a [photograph](https://en.wikipedia.org/wiki/Photograph), [graph](https://en.wikipedia.org/wiki/Chart), or [diagram](https://en.wikipedia.org/wiki/Diagram), a **[caption](https://en.wikipedia.org/wiki/Photo_caption) provides a written explanation for an adjacent image or [illustration](https://en.wikipedia.org/wiki/Illustration)**, bridging the gap between visual evidence and textual meaning.
+*   To flag vital [terminology](https://en.wikipedia.org/wiki/Terminology) within the flow of reading, **[bold text](https://en.wikipedia.org/wiki/Emphasis_%28typography%29) signals important [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) words to the reader.** It is a visual cue indicating that a word carries outsized weight.
+*   In modern, screen-based reading, texts are no longer isolated islands. A **[hyperlink](https://en.wikipedia.org/wiki/Hyperlink) is a digital text feature connecting the reader to another [web page](https://en.wikipedia.org/wiki/Web_page)**, allowing for instantaneous, networked [cross-referencing](https://en.wikipedia.org/wiki/Cross-reference).
 
-## Part 2: The Treasure Map (Informational Text Features)
+### The Search Engines of the Book
+To navigate a massive informational text, readers rely on specific, highly organized directories:
+*   **A [table of contents](https://en.wikipedia.org/wiki/Table_of_contents) lists the book chapters and the starting page numbers for those chapters.** Located at the front of the book, it provides a macroscopic map of the text's overarching structure.
+*   If a student encounters a bolded word they do not understand, they turn to the back of the book. A **[glossary](https://en.wikipedia.org/wiki/Glossary) is an alphabetical list of specialized vocabulary words found at the end of a book**, acting as a built-in [dictionary](https://en.wikipedia.org/wiki/Dictionary) tailored precisely to the text's subject matter.
+*   If a student needs to find every mention of "[photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)" across hundreds of pages, they do not read front to back. Instead, they use the index. An **[index](https://en.wikipedia.org/wiki/Index_%28publishing%29) provides an alphabetical list of specific topics and the corresponding page numbers for those topics**, allowing for surgical retrieval of localized facts.
 
-Now, let's leave the world of stories and enter the world of facts. When our elementary students read [nonfiction](https://en.wikipedia.org/wiki/Non-fiction), they aren't reading to be swept away; they are hunting for data.
+![Navigational features like a table of contents or an index act as the "search engines" of a printed book, allowing readers to bypass chronological reading and immediately locate relevant data.](https://wikipedia.org/wiki/Special:Redirect/file/The_cat_BHL23732089.jpg)
 
-**Informational texts utilize specific text features to help readers locate facts quickly.** If you want to know what [penguins](https://en.wikipedia.org/wiki/Penguin) eat, you shouldn't have to read a 300-page book on [Antarctica](https://en.wikipedia.org/wiki/Antarctica) from cover to cover. You use text features to parachute directly into the information you need.
+## The Logic of Reality: Organizational Structures in Informational Text
 
-### The Navigational Tools
-These features act as the [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) for a book.
-*   At the very front, **a [table of contents](https://en.wikipedia.org/wiki/Table_of_contents) lists the book chapters and the starting page numbers for those chapters.** It gives you the [chronological](https://en.wikipedia.org/wiki/Chronology) itinerary of the book. 
+It is not enough to know *where* facts are located on a page; [comprehension](https://en.wikipedia.org/wiki/Reading_comprehension) demands understanding *how* those facts relate to one another. To forge these logical connections, **authors use distinct organizational structures to present information in nonfiction texts.** Recognizing these underlying frameworks allows readers to predict the flow of information and synthesize complex ideas.
 
-![A traditional table of contents providing a structural roadmap for navigating a nonfiction book's major sections.](https://wikipedia.org/wiki/Special:Redirect/file/The_cat_BHL23732089.jpg)
+We can categorize these structures based on the nature of the information being presented:
 
-*   At the very back, **an [index](https://en.wikipedia.org/wiki/Index_%28publishing%29) provides an [alphabetical](https://en.wikipedia.org/wiki/Alphabetical_order) list of specific topics and the corresponding page numbers for those topics.** It’s the book's internal search engine.
-*   Also at the back, **a [glossary](https://en.wikipedia.org/wiki/Glossary) is an alphabetical list of specialized [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) words found at the end of a book.** It is essentially a mini-dictionary custom-built for that specific text.
+### Time and Process
+When information is governed by the [arrow of time](https://en.wikipedia.org/wiki/Arrow_of_time), authors rely on temporal structures. It is crucial to distinguish between [history](https://en.wikipedia.org/wiki/History) and instructions.
+*   **Chronological structure sequences historical events based on the exact time the events occurred.** This is the structure of [biographies](https://en.wikipedia.org/wiki/Biography) and history [textbooks](https://en.wikipedia.org/wiki/Textbook). It moves linearly from [1914](https://en.wikipedia.org/wiki/1914) to [1918](https://en.wikipedia.org/wiki/1918) to [1945](https://en.wikipedia.org/wiki/1945).
+*   By contrast, a **sequential structure lists the specific steps required to complete a process.** This is the logic of a [recipe](https://en.wikipedia.org/wiki/Recipe) or a [science experiment](https://en.wikipedia.org/wiki/Experiment). It is not anchored to a specific historical date, but rather to an unchangeable [order of operations](https://en.wikipedia.org/wiki/Order_of_operations). **Signal words like *first* and *finally* indicate a sequential text structure.**
 
-### The On-Page Signposts
-Once a student turns to the correct page, how do they find the exact paragraph they need? 
-*   **A heading identifies the main topic of the text section immediately following the heading.** It shouts, *"Hey! We're talking about Penguin Diets down here!"*
-*   To get even more granular, **a subheading divides text sections under a main heading into more specific topics** (e.g., *[Krill](https://en.wikipedia.org/wiki/Krill)*, *[Fish](https://en.wikipedia.org/wiki/Fish)*, *[Squid](https://en.wikipedia.org/wiki/Squid)*).
-*   As the student reads the paragraph, **[bold text](https://en.wikipedia.org/wiki/Emphasis_%28typography%29) signals important vocabulary words to the reader.** It's the author's way of saying, *"Pay attention, this word might be on the test!"*
+![A recipe relies on a strict sequential structure, outlining an unchangeable order of operations required to successfully complete a given process.](https://wikipedia.org/wiki/Special:Redirect/file/Pistachio_cake.png)
 
-### Context Clues and Modern Enhancements
-Sometimes, authors want to give you extra context without interrupting the main flow of the writing. 
-*   If they include a [photograph](https://en.wikipedia.org/wiki/Photograph) of a penguin, **a [caption](https://en.wikipedia.org/wiki/Photo_caption) provides a written explanation for an adjacent image or [illustration](https://en.wikipedia.org/wiki/Illustration).** 
-*   If they want to share a fun, tangential fact (like how deep a penguin can dive), they will put it in a separate box. **A [sidebar](https://en.wikipedia.org/wiki/Sidebar_%28publishing%29) contains secondary information related to the main text.**
-*   And because reading today is increasingly screen-based, we must teach digital features. **A [hyperlink](https://en.wikipedia.org/wiki/Hyperlink) is a digital text feature connecting the reader to another [web page](https://en.wikipedia.org/wiki/Web_page).** It allows text to become wonderfully three-dimensional, linking to endless external resources.
+### Causality and Problem Solving
+When authors wish to analyze *why* things happen and *how* to fix them, they use structures built on [logic](https://en.wikipedia.org/wiki/Logic) and consequence.
+*   A **cause and effect organizational structure explains the reasons an event happened alongside the resulting outcomes.** If we are reading about [ocean acidification](https://en.wikipedia.org/wiki/Ocean_acidification), the text will explain the excess [carbon](https://en.wikipedia.org/wiki/Carbon) in the atmosphere (cause) and the subsequent [bleaching of coral reefs](https://en.wikipedia.org/wiki/Coral_bleaching) (effect). **Signal words like *because* and *therefore* indicate a cause and effect text structure.**
+*   A closely related, yet distinct, framework is problem/solution. A **problem and solution organizational structure introduces a specific issue and details potential ways to resolve that issue.** Unlike [cause and effect](https://en.wikipedia.org/wiki/Causality), which merely describes the mechanics of a situation, problem and solution is inherently action-oriented. It states a dilemma (e.g., [urban traffic congestion](https://en.wikipedia.org/wiki/Traffic_congestion)) and evaluates an intervention (e.g., building a [light rail](https://en.wikipedia.org/wiki/Light_rail) system).
 
-![A common digital text feature, hyperlinks allow readers to jump immediately to related external content.](https://wikipedia.org/wiki/Special:Redirect/file/Hyperlink_example.svg)
+![A cause and effect organizational structure maps the logical relationship between an initial catalyst—such as excess atmospheric carbon—and its physical consequence, like the acidification of the ocean.](https://wikipedia.org/wiki/Special:Redirect/file/Ocean_Acidification.jpg)
 
----
+### Analysis and Details
+When the goal is to evaluate subjects or paint a vivid mental picture, authors utilize analytical and descriptive frameworks.
+*   A **compare and contrast organizational structure highlights the similarities and differences between multiple subjects.** If a text is evaluating the [political systems](https://en.wikipedia.org/wiki/Political_system) of [Athens](https://en.wikipedia.org/wiki/Classical_Athens) and [Sparta](https://en.wikipedia.org/wiki/Sparta), it will place their attributes side by side. **Signal words like *similarly* and *unlike* indicate a compare and contrast text structure.**
+*   Finally, when the focus narrows to a single entity, the author uses description. A **descriptive organizational structure details the specific characteristics of a single topic.** Often relying on sensory details and spatial organization, this structure surrounds a central idea with a dense web of attributes, defining precisely what a thing is.
 
-## Part 3: The Engine of Ideas (Organizational Structures)
+### Summary of Organizational Structures
 
-We’ve talked about *features* (the visual signposts). Now we must talk about *structure* (the underlying logic). **Authors use distinct organizational structures to present information in nonfiction texts.** 
+| Structure Type | Core Function | Common Signal Words |
+| :--- | :--- | :--- |
+| **Sequential** | Lists specific steps to complete a process | *first*, *next*, *then*, *finally* |
+| **Chronological** | Sequences historical events by exact time | Dates, *before*, *after*, *during* |
+| **Cause and Effect** | Explains reasons for events and their outcomes | *because*, *therefore*, *as a result*, *consequently* |
+| **Compare and Contrast** | Highlights similarities and differences | *similarly*, *unlike*, *however*, *on the other hand* |
+| **Problem and Solution**| Introduces an issue and details ways to resolve it | *dilemma*, *propose*, *resolve*, *answer* |
+| **Descriptive** | Details specific characteristics of a single topic | *for example*, *specifically*, spatial terms (*above*, *beside*) |
 
-Understanding *how* an author organizes their thoughts helps a student comprehend *what* the author is trying to say. If a student can recognize the structure, they can predict the information.
-
-### 1. The Timeline vs. The Recipe
-These two structures deal with time, but they do it very differently.
-*   **Chronological structure sequences historical events based on the exact time the events occurred.** This is the structure of history books and [biographies](https://en.wikipedia.org/wiki/Biography). It cares about *when* things happened in the timeline of the universe (e.g., The [Revolutionary War](https://en.wikipedia.org/wiki/American_Revolutionary_War), beginning to end).
-
-![Historical texts often rely on chronological structures, such as this timeline sequencing the major campaigns of the American Revolutionary War.](https://wikipedia.org/wiki/Special:Redirect/file/USMA01_Major_Campaigns_of_the_American_Revolutionary_War.jpg)
-
-*   **Sequential structure lists the specific steps required to complete a process.** This is the structure of cookbooks and [science experiments](https://en.wikipedia.org/wiki/Experiment). It doesn't matter what year it is; it matters that you do Step 1 before Step 2. To help the reader navigate this, **signal words like *first* and *finally* indicate a sequential text structure.**
-
-### 2. The Analyst
-When an author wants to explain *why* something happened, they use [cause and effect](https://en.wikipedia.org/wiki/Causality).
-*   **Cause and effect organizational structure explains the reasons an event happened alongside the resulting outcomes.** (For example: A [volcano](https://en.wikipedia.org/wiki/Volcano) erupted, so the sky turned dark with ash). To spot this, teach your students that **signal words like *because* and *therefore* indicate a cause and effect text structure.**
-
-### 3. The Innovator
-Sometimes, an author isn't just explaining history or science; they are making a pitch to fix something.
-*   **Problem and solution organizational structure introduces a specific issue and details potential ways to resolve that issue.** (For example: The town's river is polluted, so here is a proposed plan to build a [water filtration](https://en.wikipedia.org/wiki/Water_purification) plant). 
-
-![A diagram of a water treatment process visually outlines a multi-step solution to the problem of contaminated water.](https://wikipedia.org/wiki/Special:Redirect/file/Illustration_of_a_typical_drinking_water_treatment_process.png)
-
-### 4. The Critic
-When a text aims to evaluate multiple things, it places them side-by-side.
-*   **Compare and contrast organizational structure highlights the similarities and differences between multiple subjects.** (For example: How are [alligators](https://en.wikipedia.org/wiki/Alligator) and [crocodiles](https://en.wikipedia.org/wiki/Crocodile) alike, and how are they different?). Authors leave clues for this, too: **signal words like *similarly* and *unlike* indicate a compare and contrast text structure.**
-
-### 5. The Observer
-Finally, sometimes an author just wants to paint a highly detailed portrait of one specific thing. 
-*   **Descriptive organizational structure details the specific characteristics of a single topic.** It doesn't compare it to anything else, and it doesn't give you steps to build it. It just tells you everything there is to know about that one subject using sensory details and spatial organization.
-
-![A stratigraphic column is a highly descriptive text feature that breaks down the specific physical characteristics, thickness, and age of rock layers in a specific location like the Grand Canyon.](https://wikipedia.org/wiki/Special:Redirect/file/2021_Revised_NPS_Geologic_Stratigraphic_Column_of_the_Grand_Canyon.jpg)
-
----
-
-### Master Cheat Sheet: Navigating Text Structures
-
-Use this quick-reference table to memorize the differences between the major organizational structures for your Praxis exam.
-
-| Organizational Structure | What is its core purpose? | Common Signal Words | Real-World Example |
-| :--- | :--- | :--- | :--- |
-| **Chronological** | Sequences historical events by exact time. | *In 1994, later, during the 18th century* | A biography of [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln). |
-| **Sequential** | Lists specific steps to complete a process. | ***First**, next, then, **finally*** | A recipe for [chocolate chip cookies](https://en.wikipedia.org/wiki/Chocolate_chip_cookie). |
-| **Cause & Effect** | Explains reasons an event happened and its outcomes. | ***Because**, since, **therefore**, as a result* | An article on how [carbon emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions) impact [global warming](https://en.wikipedia.org/wiki/Climate_change). |
-| **Problem & Solution**| Introduces an issue and details ways to resolve it. | *The issue is, to solve this, a possible remedy* | A memo on fixing the school's traffic flow at pickup time. |
-| **Compare & Contrast**| Highlights similarities and differences of subjects. | ***Similarly**, both, however, **unlike*** | An essay weighing the pros and cons of [solar](https://en.wikipedia.org/wiki/Solar_power) vs. [wind energy](https://en.wikipedia.org/wiki/Wind_power). |
-| **Descriptive** | Details the specific characteristics of a single topic. | *For instance, such as, specifically, features* | A travel brochure detailing the landscape of the [Grand Canyon](https://en.wikipedia.org/wiki/Grand_Canyon). |
-
----
-
-### Final Thoughts for the Classroom
-
-When you sit down to take your Praxis exam, you aren't just memorizing terms; you are proving you know how to hand a student the keys to the [library](https://en.wikipedia.org/wiki/Library). 
-
-When a student knows that a **stanza** belongs to poetry and a **scene** belongs to drama, they are learning how to set their mental expectations before they read. When they know to check the **index** instead of reading blindly, they are learning research efficiency. And when they can spot the word *"therefore"* and immediately recognize a **cause and effect structure**, they aren't just reading—they are *[thinking critically](https://en.wikipedia.org/wiki/Critical_thinking)*. 
-
-You are teaching them to see the architecture of human thought. And that, my friends, is a beautiful thing.
+By dissecting texts in this manner—breaking them down into their structural elements, features, and organizational logic—we empower students to become not merely passive consumers of words, but active, intelligent engineers of meaning.

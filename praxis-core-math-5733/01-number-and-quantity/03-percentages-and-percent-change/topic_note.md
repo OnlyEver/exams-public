@@ -1,135 +1,94 @@
-Here’s a secret about [mathematics](https://en.wikipedia.org/wiki/Mathematics) that people often forget to tell you: [math](https://en.wikipedia.org/wiki/Mathematics) isn't just about crunching [numbers](https://en.wikipedia.org/wiki/Number). It’s a [language](https://en.wikipedia.org/wiki/Language). And like any language, it’s designed to help us tell stories about the [physical world](https://en.wikipedia.org/wiki/Nature). 
+The [Latin](https://en.wikipedia.org/wiki/Latin) root *centum* appears everywhere in our measurement of the world: a [century](https://en.wikipedia.org/wiki/Century) marks a hundred years, a [centurion](https://en.wikipedia.org/wiki/Centurion) commanded a hundred soldiers, and a [dollar](https://en.wikipedia.org/wiki/Dollar) is split into a hundred [cents](https://en.wikipedia.org/wiki/Cent_%28currency%29). When we evaluate [proportions](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) mathematically, we rely on this exact same linguistic foundation. The word **[percent](https://en.wikipedia.org/wiki/Percentage)** literally means per one hundred or out of 100. It is a standardization tool—a way of forcing all possible [fractions](https://en.wikipedia.org/wiki/Fraction) and [ratios](https://en.wikipedia.org/wiki/Ratio) into a single, universal language where the [denominator](https://en.wikipedia.org/wiki/Fraction) is always rigidly set to 100. By establishing this universal baseline, we can instantly compare the performance of a student who scored 43 out of 50 on an exam with another who scored 68 out of 80 without needing to find a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) from scratch.
 
-When we talk about **[percentages](https://en.wikipedia.org/wiki/Percentage)**, we are telling a story about *[relationships](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29)*. We aren’t just asking "how much?" We are asking "how much *compared to what we started with*?" 
+![A United States one-cent coin, or penny, visually representing the Latin root "centum" as exactly one-hundredth of a dollar.](https://wikipedia.org/wiki/Special:Redirect/file/US_One_Cent_Obv.png)
 
-If you're an [educator](https://en.wikipedia.org/wiki/Teacher) preparing for the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), mastering [percentages](https://en.wikipedia.org/wiki/Percentage) isn't just about passing a test. It's about developing an [intuition](https://en.wikipedia.org/wiki/Intuition) for how [numbers](https://en.wikipedia.org/wiki/Number) interact, so you can turn around and make it click for your future [students](https://en.wikipedia.org/wiki/Student). 
+## The Universal Language of Proportions
 
-Let's pull the curtain back on [percentages](https://en.wikipedia.org/wiki/Percentage), strip away the confusing [jargon](https://en.wikipedia.org/wiki/Jargon), and look at the beautiful, intuitive machinery underneath.
+Fundamentally, a [percentage](https://en.wikipedia.org/wiki/Percentage) represents a [ratio](https://en.wikipedia.org/wiki/Ratio) expressed as a [fraction](https://en.wikipedia.org/wiki/Fraction) with a [denominator](https://en.wikipedia.org/wiki/Fraction) of 100. The [mathematical symbol](https://en.wikipedia.org/wiki/Mathematical_symbol) used to denote a percentage is **%**. 
 
----
+When we conceptualize percentages, it is vital to understand the boundaries of this scale. Because a percent is a ratio out of 100 parts, **100 percent represents the entire whole of a given quantity**. If you possess 100% of an apple, you possess the entire apple. Consequently, a percentage greater than 100 represents an amount strictly larger than the original whole quantity. If a [population](https://en.wikipedia.org/wiki/Population) grows to 150% of its previous size, it consists of the original population plus another half. 
 
-## What IS a [Percentage](https://en.wikipedia.org/wiki/Percentage), Really?
+## The Triad of Representation: Fractions, Decimals, and Percents
 
-Let’s look at the word itself. The word **[percent](https://en.wikipedia.org/wiki/Percentage)** literally means *per one hundred* or *out of 100*. Think of a [century](https://en.wikipedia.org/wiki/Century) (100 [years](https://en.wikipedia.org/wiki/Year)), or a [centipede](https://en.wikipedia.org/wiki/Centipede) (supposedly 100 legs), or a [cent](https://en.wikipedia.org/wiki/Cent_%28currency%29) (100 in a [dollar](https://en.wikipedia.org/wiki/Dollar)). 
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics), [fractions](https://en.wikipedia.org/wiki/Fraction), [decimals](https://en.wikipedia.org/wiki/Decimal), and [percents](https://en.wikipedia.org/wiki/Percentage) are merely three different dialects of the same language. Fluency requires the ability to translate among them effortlessly.
 
-At its core, **a [percentage](https://en.wikipedia.org/wiki/Percentage) represents a [ratio](https://en.wikipedia.org/wiki/Ratio) expressed as a [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) with a [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) of [100](https://en.wikipedia.org/wiki/100_%28number%29).** 
+### Converting Percents to Decimals and Fractions
+To strip away the percent symbol and work with pure numbers, we must reverse the "out of 100" scaling. 
 
-> **The Universal Symbol:** **The [mathematical symbol](https://en.wikipedia.org/wiki/Mathematical_symbol) used to denote a [percentage](https://en.wikipedia.org/wiki/Percentage) is [%](https://en.wikipedia.org/wiki/Percent_sign).** 
-> If you look closely at that symbol, it practically screams its own definition: a [slash](https://en.wikipedia.org/wiki/Slash_%28punctuation%29) for [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) and two [zeros](https://en.wikipedia.org/wiki/0). It’s a scrambled up "/100"!
+To convert a percent to a decimal, [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the percentage value by 100. Because we operate in a [base-10 number system](https://en.wikipedia.org/wiki/Decimal), dividing by 100 has a clean, visual shortcut: converting a percent to a decimal involves moving the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) two places to the left. For example, $42.5\%$ becomes $0.425$. 
 
-![The percent symbol (%) visually represents a fraction over 100, comprising a division slash and two zeros.](https://wikipedia.org/wiki/Special:Redirect/file/Unicode_0x0025.svg)
+If we prefer fractions, the translation is equally direct. To convert a percent to a fraction, place the numerical percentage value over a denominator of 100. Thus, $45\%$ becomes $\frac{45}{100}$. However, mathematical rigor requires that fractions derived from converting percentages should be simplified to their [lowest terms](https://en.wikipedia.org/wiki/Irreducible_fraction). By [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) both the [numerator](https://en.wikipedia.org/wiki/Fraction) and denominator by their [greatest common divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) (in this case, $5$), $\frac{45}{100}$ simplifies to $\frac{9}{20}$.
 
-When we talk about [quantities](https://en.wikipedia.org/wiki/Quantity):
-* **[100 percent](https://en.wikipedia.org/wiki/100_%28number%29) represents the entire whole of a given [quantity](https://en.wikipedia.org/wiki/Quantity).** If you eat 100% of a [pizza](https://en.wikipedia.org/wiki/Pizza), the pizza is gone. 
-* But the [universe](https://en.wikipedia.org/wiki/Universe) doesn't stop at 100. **A [percentage](https://en.wikipedia.org/wiki/Percentage) greater than 100 represents an amount strictly larger than the original whole quantity.** If a [balloon](https://en.wikipedia.org/wiki/Balloon) inflates to 150% of its original size, it is now one-and-a-half times as large as it used to be!
+### Converting Decimals and Fractions to Percents
+To translate back into the language of percentages, we apply the [inverse operations](https://en.wikipedia.org/wiki/Inverse_operation). 
 
----
+To convert a decimal to a percent, [multiply](https://en.wikipedia.org/wiki/Multiplication) the decimal value by 100. Visually, converting a decimal to a percent involves moving the decimal point two places to the right. Therefore, $0.73$ becomes $73\%$.
 
-## The [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone): [Decimals](https://en.wikipedia.org/wiki/Decimal), [Fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29), and [Percents](https://en.wikipedia.org/wiki/Percentage)
+Converting a fraction to a percent offers two primary mathematical pathways:
+1. **The Decimal Route:** To convert a fraction to a percent, divide the numerator by the denominator to get a decimal and then multiply that decimal by 100. For instance, to convert $\frac{5}{8}$, we divide $5$ by $8$ to yield $0.625$, which scales to $62.5\%$.
+2. **The Equivalent Fraction Route:** Another method to convert a fraction to a percent involves setting up an [equivalent fraction](https://en.wikipedia.org/wiki/Fraction) with a denominator of 100. If you are given $\frac{7}{25}$, you can multiply both the numerator and denominator by $4$ to obtain $\frac{28}{100}$, which is instantly recognizable as $28\%$.
 
-In [mathematics](https://en.wikipedia.org/wiki/Mathematics), [fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29), [decimals](https://en.wikipedia.org/wiki/Decimal), and [percents](https://en.wikipedia.org/wiki/Percentage) are just three different dialects of the same [language](https://en.wikipedia.org/wiki/Language). You need to be fluent in translating between them. 
+### Canonical Equivalencies
+There are certain numerical translations that appear so frequently they warrant memorization. Recognizing these fractions allows you to bypass tedious calculations entirely.
 
-### [Percents](https://en.wikipedia.org/wiki/Percentage) $\leftrightarrow$ [Decimals](https://en.wikipedia.org/wiki/Decimal)
-
-If a [percent](https://en.wikipedia.org/wiki/Percentage) is just a [number](https://en.wikipedia.org/wiki/Number) divided by 100, the translation is purely mechanical.
-
-* **Percent to Decimal:** **To convert a [percent](https://en.wikipedia.org/wiki/Percentage) to a [decimal](https://en.wikipedia.org/wiki/Decimal), [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the percentage value by 100.** Because our [number system](https://en.wikipedia.org/wiki/Numeral_system) is based on [powers of ten](https://en.wikipedia.org/wiki/Power_of_10), **converting a percent to a decimal involves moving the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) two places to the left.** 
-  *(Example: $45\% \rightarrow 45 \div 100 \rightarrow 0.45$)*
-* **Decimal to Percent:** Going the other way is just doing the reverse. **To convert a [decimal](https://en.wikipedia.org/wiki/Decimal) to a [percent](https://en.wikipedia.org/wiki/Percentage), [multiply](https://en.wikipedia.org/wiki/Multiplication) the decimal value by 100.** Visually, **converting a decimal to a percent involves moving the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) two places to the right.** 
-  *(Example: $0.08 \rightarrow 0.08 \times 100 \rightarrow 8\%$)*
-
-### [Percents](https://en.wikipedia.org/wiki/Percentage) $\leftrightarrow$ [Fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29)
-
-* **Percent to Fraction:** This is incredibly straightforward if you remember the definition of "[percent](https://en.wikipedia.org/wiki/Percentage)." **To convert a percent to a [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29), place the numerical percentage value over a [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) of 100.** However, you aren't quite finished! **Fractions derived from converting percentages should be [simplified to their lowest terms](https://en.wikipedia.org/wiki/Irreducible_fraction).**
-  *(Example: $60\% \rightarrow \frac{60}{100} \rightarrow \frac{3}{5}$)*
-
-* **Fraction to Percent:** There are two elegant ways to do this:
-  1. *The Universal Method:* **To convert a [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) to a [percent](https://en.wikipedia.org/wiki/Percentage), [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the [numerator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) by the [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) to get a [decimal](https://en.wikipedia.org/wiki/Decimal) and then [multiply](https://en.wikipedia.org/wiki/Multiplication) that decimal by 100.** *(Example: $\frac{3}{8} \rightarrow 3 \div 8 = 0.375 \rightarrow 37.5\%$)*
-  2. *The Shortcut Method:* **Another method to convert a fraction to a percent involves setting up an [equivalent fraction](https://en.wikipedia.org/wiki/Equivalent_fractions) with a denominator of 100.** This works beautifully when the denominator easily multiplies into 100. *(Example: $\frac{17}{25}$. Multiply top and bottom by 4 to get $\frac{68}{100}$, which is $68\%$)*
-
-### The "[Cheat Sheet](https://en.wikipedia.org/wiki/Cheat_sheet)" Equivalencies
-To be fast on the Praxis exam, you shouldn't be calculating every conversion from scratch. You should [memorize](https://en.wikipedia.org/wiki/Memorization) the common equivalencies. Think of these as your mathematical [sight words](https://en.wikipedia.org/wiki/Sight_word):
-
-| [Fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) | [Decimal](https://en.wikipedia.org/wiki/Decimal) | [Percent](https://en.wikipedia.org/wiki/Percentage) |
+| Fraction | Decimal | Percentage |
 | :--- | :--- | :--- |
-| **1/10** | 0.10 | **10 [percent](https://en.wikipedia.org/wiki/Percentage) is exactly equivalent to the mathematical [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) 1/10.** |
-| **1/5** | 0.20 | **20 [percent](https://en.wikipedia.org/wiki/Percentage) is exactly equivalent to the mathematical [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) 1/5.** |
-| **1/4** | 0.25 | **25 [percent](https://en.wikipedia.org/wiki/Percentage) is exactly equivalent to the mathematical [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) 1/4.** |
-| **1/3** | 0.333... | **[33.33 repeating](https://en.wikipedia.org/wiki/Repeating_decimal) [percent](https://en.wikipedia.org/wiki/Percentage) is exactly equivalent to the mathematical [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) 1/3.** |
-| **1/2** | 0.50 | **50 [percent](https://en.wikipedia.org/wiki/Percentage) is exactly equivalent to the mathematical [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) 1/2.** |
-| **3/4** | 0.75 | **75 [percent](https://en.wikipedia.org/wiki/Percentage) is exactly equivalent to the mathematical [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) 3/4.** |
+| **1/10** | $0.10$ | 10 percent is exactly equivalent to the mathematical fraction 1/10. |
+| **1/5** | $0.20$ | 20 percent is exactly equivalent to the mathematical fraction 1/5. |
+| **1/4** | $0.25$ | 25 percent is exactly equivalent to the mathematical fraction 1/4. |
+| **1/3** | $0.333...$ | 33.33 [repeating](https://en.wikipedia.org/wiki/Repeating_decimal) percent is exactly equivalent to the mathematical fraction 1/3. |
+| **1/2** | $0.50$ | 50 percent is exactly equivalent to the mathematical fraction 1/2. |
+| **3/4** | $0.75$ | 75 percent is exactly equivalent to the mathematical fraction 3/4. |
 
----
+![A visual representation of the canonical fraction 1/4, which translates precisely to 25% or 25 out of 100 parts.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
 
-## Operating with [Percents](https://en.wikipedia.org/wiki/Percentage): The "Of" Translation
+## Operating with Percentages
 
-When you read a [math problem](https://en.wikipedia.org/wiki/Mathematical_problem), the word "of" almost always translates to [multiplication](https://en.wikipedia.org/wiki/Multiplication). 
+When we need to extract a piece of a whole, [multiplication](https://en.wikipedia.org/wiki/Multiplication) is our primary tool. 
 
-If a question asks: *"What is 20% of 45?"* you have two ways to tackle it, depending on whether you prefer [decimals](https://en.wikipedia.org/wiki/Decimal) or [fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29).
-1. **To find a specific [percent](https://en.wikipedia.org/wiki/Percentage) of a [number](https://en.wikipedia.org/wiki/Number), [multiply](https://en.wikipedia.org/wiki/Multiplication) the number by the [decimal](https://en.wikipedia.org/wiki/Decimal) equivalent of the percent.** *(Example: $0.20 \times 45 = 9$)*
-2. **To find a specific [percent](https://en.wikipedia.org/wiki/Percentage) of a [number](https://en.wikipedia.org/wiki/Number), [multiply](https://en.wikipedia.org/wiki/Multiplication) the number by the fractional equivalent of the percent.** *(Example: $\frac{1}{5} \times 45 = 9$)*
+To find a specific percent of a number, multiply the number by the decimal equivalent of the percent. If you need to find $15\%$ of $80$, you translate the percent to a decimal ($0.15$) and compute $0.15 \times 80 = 12$. 
 
-What if the question is flipped? *"15 is what [percent](https://en.wikipedia.org/wiki/Percentage) of 60?"* 
-Here, we are looking for the relationship between a part and a whole. **To determine what [percent](https://en.wikipedia.org/wiki/Percentage) one [number](https://en.wikipedia.org/wiki/Number) is of another, [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the part by the whole and [multiply](https://en.wikipedia.org/wiki/Multiplication) the [quotient](https://en.wikipedia.org/wiki/Quotient) by 100.**
-*(Example: $\frac{15}{60} = 0.25$. Multiply by 100 to get $25\%$)*
+Alternatively, to find a specific percent of a number, multiply the number by the fractional equivalent of the percent. This is often vastly superior when dealing with canonical fractions. If asked to find $33.33...\%$ of $90$, multiplying by $0.3333$ is tedious and imprecise. Multiplying $90$ by the fraction $\frac{1}{3}$ instantly yields $30$. 
 
----
+What if we are given the pieces and must deduce the percentage? To determine what percent one number is of another, divide the part by the whole and multiply the [quotient](https://en.wikipedia.org/wiki/Quotient) by 100. 
+If a student answers $42$ questions correctly out of a $60$-question test, we divide the part ($42$) by the whole ($60$) to get $0.70$. Multiplying by 100 gives a score of $70\%$.
 
-## The Dynamics of Change: [Percent Increase and Decrease](https://en.wikipedia.org/wiki/Relative_change_and_difference)
+## The Mechanics of Percent Change
 
-The world is not static. Prices go up, [populations](https://en.wikipedia.org/wiki/Population) go down. When things change, we don't just care about the *amount* of the change; we usually care about the *[scale](https://en.wikipedia.org/wiki/Scale_%28ratio%29)* of the change. 
+Static percentages tell us about a single snapshot in time. To understand dynamics—how a quantity evolves—we use [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference). Percent change calculates the relative size of the change between an original value and a new value. 
 
-If I give you \$10, is that a lot of [money](https://en.wikipedia.org/wiki/Money)? Well, if you only had \$1, it's a massive [windfall](https://en.wikipedia.org/wiki/Windfall_gain)! But if you had \$10,000, you wouldn't even notice. **[Percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference) calculates the relative size of the change between an original value and a new value.**
+> **The Core Formula for Percent Change:**
+> $\text{Percent Change} = \left( \frac{\text{Absolute Difference}}{\text{Original Value}} \right) \times 100$
 
-Here is the foolproof [algorithm](https://en.wikipedia.org/wiki/Algorithm) for finding [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference):
+Notice the sequence of [operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29). The first step in finding percent change is calculating the [absolute difference](https://en.wikipedia.org/wiki/Absolute_difference) between the new value and the original value. We simply [subtract](https://en.wikipedia.org/wiki/Subtraction) the smaller number from the larger number to find the [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) of the shift.
 
-1. **Find the Absolute Difference:** **The first step in finding [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference) is calculating the [absolute difference](https://en.wikipedia.org/wiki/Absolute_difference) between the new value and the original value.** Just [subtract](https://en.wikipedia.org/wiki/Subtraction) the smaller [number](https://en.wikipedia.org/wiki/Number) from the larger number. This is the pure, physical amount of change.
-2. **Compare to the Original:** **To calculate [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference), [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the [absolute difference](https://en.wikipedia.org/wiki/Absolute_difference) by the original value and [multiply](https://en.wikipedia.org/wiki/Multiplication) the result by 100.** 
+![The absolute difference represents the magnitude of the shift between an original and new value, visualized here as the distance between two points on a number line.](https://wikipedia.org/wiki/Special:Redirect/file/Absolute_difference.svg)
 
-![Absolute difference measures the raw, physical distance between an original value and a new value on a number line, representing the pure amount of change before it is scaled.](https://wikipedia.org/wiki/Special:Redirect/file/Absolute_difference.svg)
+Next, to calculate percent change, divide the absolute difference by the original value and multiply the result by 100. 
 
-> **THE [GOLDEN RULE](https://en.wikipedia.org/wiki/Golden_Rule) OF [PERCENT CHANGE](https://en.wikipedia.org/wiki/Relative_change_and_difference):**
-> If you are going to make a mistake on the Praxis, it will be right here. **The [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) in a [percent change](https://en.wikipedia.org/wiki/Relative_change_and_difference) calculation must always be the original starting value.** Never the new value! Always ask yourself: *"Where did the story start?"*
+### The Law of the Denominator
+If there is one concept in proportional mathematics where human [intuition](https://en.wikipedia.org/wiki/Intuition) frequently fails, it is in selecting the denominator for this calculation. 
+> **Critical Warning:** The denominator in a percent change calculation must *always* be the original starting value. 
 
-### Up or Down?
-You also need to categorize the direction of the change:
-* **A [percent increase](https://en.wikipedia.org/wiki/Relative_change_and_difference) occurs when the final value is strictly greater than the initial value.** 
-* **A [percent decrease](https://en.wikipedia.org/wiki/Relative_change_and_difference) occurs when the final value is strictly less than the initial value.**
+You must measure the journey from the point where you began. If a [stock](https://en.wikipedia.org/wiki/Stock) falls from \$100 to \$80, the absolute difference is \$20. The percent change is $\frac{20}{100} = 20\%$. If that same stock recovers from \$80 back to \$100, the absolute difference is again \$20. But the percent change is now $\frac{20}{80} = 25\%$. The magnitude of the number changed, but because the starting anchor changed, the percentage behaves differently. 
 
-Let's look at an example. A town's [population](https://en.wikipedia.org/wiki/Population) drops from 500 to 400. 
-1. [Absolute difference](https://en.wikipedia.org/wiki/Absolute_difference): $500 - 400 = 100$.
-2. The *original* value was 500. 
-3. Calculation: $\frac{100}{500} = 0.20$. [Multiply](https://en.wikipedia.org/wiki/Multiplication) by 100 to get **$20\%$**. 
-4. Because the final value (400) is less than the initial (500), this is a **$20\%$ decrease**.
+### Classifying the Shift
+We classify this evolution simply based on the direction of the final state:
+*   A **percent increase** occurs when the final value is strictly greater than the initial value.
+*   A **percent decrease** occurs when the final value is strictly less than the initial value.
 
----
+## Real-World Scaling: Multipliers, Taxes, and Discounts
 
-## Real World [Percentages](https://en.wikipedia.org/wiki/Percentage): [Discounts](https://en.wikipedia.org/wiki/Discounts_and_allowances), [Taxes](https://en.wikipedia.org/wiki/Tax), and The Multiplier Trick
+When dealing with financial and scientific applications, calculating the exact amount of the change and then adding or subtracting it is mathematically correct, but incredibly inefficient. 
 
-Let's talk about the real world: buying things.
+Think about the structure of a percent increase. If an item increases by $8\%$, you retain the original $100\%$ of the item, and gain an additional $8\%$. You now possess $108\%$ of the initial value. Therefore, multiplying a number by 1 plus the decimal rate calculates the final amount after a percent increase. 
+*   *Application:* **[Sales tax](https://en.wikipedia.org/wiki/Sales_tax)** involves adding a specified percentage of the purchase price to the total cost. If you buy a \$50 item with an $8\%$ sales tax, the [multiplier](https://en.wikipedia.org/wiki/Multiplication) is $(1 + 0.08) = 1.08$. The final cost is simply $\$50 \times 1.08 = \$54$. 
 
-* **[Discounts](https://en.wikipedia.org/wiki/Discounts_and_allowances) involve [subtracting](https://en.wikipedia.org/wiki/Subtraction) a specified [percentage](https://en.wikipedia.org/wiki/Percentage) of the original price from the total cost.** 
-* **[Sales tax](https://en.wikipedia.org/wiki/Sales_tax) involves adding a specified [percentage](https://en.wikipedia.org/wiki/Percentage) of the purchase price to the total cost.**
+![A real-world application of a percent increase multiplier: a receipt calculating an 8.5% sales tax on a purchase subtotal.](https://wikipedia.org/wiki/Special:Redirect/file/Receipt_California_restaurant_2006.jpg)
 
-Most people calculate a [discount](https://en.wikipedia.org/wiki/Discounts_and_allowances) in two painfully slow steps: find the discount amount, then [subtract](https://en.wikipedia.org/wiki/Subtraction) it from the total. 
-*(e.g., A \$50 shirt is 20% off. $20\%$ of \$50 is \$10. \$50 - \$10 = \$40).* 
+Conversely, consider a percent decrease. If an item loses $20\%$ of its value, you subtract $20\%$ from the original $100\%$. You are left with exactly $80\%$ of the initial value. Multiplying a number by 1 minus the decimal rate calculates the final amount after a percent decrease.
+*   *Application:* **[Discounts](https://en.wikipedia.org/wiki/Discounts_and_allowances)** involve subtracting a specified percentage of the original price from the total cost. If a \$50 item is discounted by $20\%$, your multiplier is $(1 - 0.20) = 0.80$. The final cost is $\$50 \times 0.80 = \$40$.
 
-But you are a [mathematician](https://en.wikipedia.org/wiki/Mathematician) now! We can do it in one fluid [motion](https://en.wikipedia.org/wiki/Motion_%28physics%29) using **multipliers**. 
+![A real-world application of a percent decrease multiplier: a store placard advertising a 20% discount on a second item.](https://wikipedia.org/wiki/Special:Redirect/file/Shop_placard_showing_20%25_reduction.JPG)
 
-Think about it: if a shirt is 20% off, that means you are *paying* 80% of the original price! ($100\% - 20\% = 80\%$). 
-* **[Multiplying](https://en.wikipedia.org/wiki/Multiplication) a [number](https://en.wikipedia.org/wiki/Number) by 1 minus the [decimal](https://en.wikipedia.org/wiki/Decimal) rate calculates the final amount after a [percent decrease](https://en.wikipedia.org/wiki/Relative_change_and_difference).** 
-  *Shortcut: $\$50 \times (1 - 0.20) = \$50 \times 0.80 = \$40$.*
-
-![A real-world 20% discount. Using the multiplier trick, calculating a 20% reduction is as simple as multiplying the original price by 0.80.](https://wikipedia.org/wiki/Special:Redirect/file/Shop_placard_showing_20%25_reduction.JPG)
-
-The same beautiful [logic](https://en.wikipedia.org/wiki/Logic) applies to [taxes](https://en.wikipedia.org/wiki/Tax) or [markups](https://en.wikipedia.org/wiki/Markup_%28business%29). If you are paying an 8% [sales tax](https://en.wikipedia.org/wiki/Sales_tax), you are paying for the entire item ($100\%$) *plus* the tax ($8\%$), for a total of $108\%$ of the original price.
-* **[Multiplying](https://en.wikipedia.org/wiki/Multiplication) a [number](https://en.wikipedia.org/wiki/Number) by 1 plus the [decimal](https://en.wikipedia.org/wiki/Decimal) rate calculates the final amount after a [percent increase](https://en.wikipedia.org/wiki/Relative_change_and_difference).**
-  *Shortcut: A \$50 item with 8% tax $\rightarrow \$50 \times (1 + 0.08) = \$50 \times 1.08 = \$54$.*
-
-![A receipt demonstrating an 8.5% sales tax. Instead of calculating the tax and adding it to the subtotal, multiplying the subtotal by 1.085 computes the final total in one step.](https://wikipedia.org/wiki/Special:Redirect/file/Receipt_California_restaurant_2006.jpg)
-
-### Bringing It All Together
-
-[Percentages](https://en.wikipedia.org/wiki/Percentage) aren't an arbitrary set of rules designed to torture [students](https://en.wikipedia.org/wiki/Student); they are a perfectly tuned system for translating absolute [numbers](https://en.wikipedia.org/wiki/Number) into relative realities. Whether you are scaling up a [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29), shifting a [decimal](https://en.wikipedia.org/wiki/Decimal), or calculating a [sales tax](https://en.wikipedia.org/wiki/Sales_tax) multiplier, you are just playing different notes in the same mathematical chord. 
-
-Master this translation, respect the "original value" in your [denominators](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29), and you won't just ace the Praxis—you'll be able to teach this [concept](https://en.wikipedia.org/wiki/Concept) with a clarity your [students](https://en.wikipedia.org/wiki/Student) will never forget.
+By viewing percent changes through the lens of these single-step multipliers, complex problems—even those involving multiple sequential changes—collapse into a single, elegant string of multiplication. This is the ultimate power of percentages: standardizing chaos into predictable, scalable ratios.

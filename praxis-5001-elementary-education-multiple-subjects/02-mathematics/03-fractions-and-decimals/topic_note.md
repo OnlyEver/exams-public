@@ -1,178 +1,114 @@
-# The Architecture of the In-Between: Mastering Fractions, Decimals, and Percents
+Numbers do not merely count whole objects; they measure the infinite spaces between them. A single apple can be divided, a mile can be run in segments, and a [geometric plane](https://en.wikipedia.org/wiki/Plane_%28geometry%29) can be partitioned. To navigate this continuous reality, mathematics relies on [rational numbers](https://en.wikipedia.org/wiki/Rational_number), primarily expressed through [fractions](https://en.wikipedia.org/wiki/Fraction), [decimals](https://en.wikipedia.org/wiki/Decimal), and [percents](https://en.wikipedia.org/wiki/Percentage). These are not completely distinct mathematical species, but rather three interconnected dialects describing the exact same underlying concept: the division of a whole into quantifiable, equal parts. Understanding how to translate between these representations, and how to compose or decompose them, is fundamental to describing the physical world with precision.
 
-Welcome! If you look at the [universe](https://en.wikipedia.org/wiki/Universe), you'll notice a glaring truth: nature rarely gives us [whole numbers](https://en.wikipedia.org/wiki/Integer). We don't eat exactly three [apples](https://en.wikipedia.org/wiki/Apple); we take a bite and leave a [fraction](https://en.wikipedia.org/wiki/Fraction) of one behind. We don't walk exactly two [miles](https://en.wikipedia.org/wiki/Mile); we walk a couple of miles and a bit more. The real world lives in the margins, the slices, the [proportions](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). 
+![A diagram of mathematical number systems illustrating that rational numbers encompass all integers and natural numbers, while being a subset of the continuous real numbers.](https://wikipedia.org/wiki/Special:Redirect/file/Number-systems_(NZQRC).svg)
 
-To teach [elementary mathematics](https://en.wikipedia.org/wiki/Elementary_mathematics) effectively, you have to become a master of the "in-between." You have to help your students see that [fractions](https://en.wikipedia.org/wiki/Fraction), [decimals](https://en.wikipedia.org/wiki/Decimal), and [percents](https://en.wikipedia.org/wiki/Percentage) are not three terrifying, disconnected monsters—they are exactly the same concept wearing three different costumes. 
+## The Anatomy of a Fraction
 
-In this guide, we are going to tear these concepts down to their studs. We’ll build an intuitive, rock-solid framework that will not only help you ace the [Praxis Elementary Education exam](https://en.wikipedia.org/wiki/Praxis_test), but will make you an unforgettable teacher. Let’s dive in.
+At its core, **a fraction represents a part of a whole or a [proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) of a [set](https://en.wikipedia.org/wiki/Set_%28mathematics%29).** It is a masterclass in mathematical elegance, communicating two distinct pieces of information simultaneously through a vertical arrangement of numbers. 
 
----
+A fraction consists of a **[numerator](https://en.wikipedia.org/wiki/Fraction)** placed above a [fraction bar](https://en.wikipedia.org/wiki/Vinculum_%28symbol%29) and a **[denominator](https://en.wikipedia.org/wiki/Fraction)** placed below the fraction bar. 
+*   **The denominator** represents the total number of equal parts that make up a single whole. It defines the *size* of the pieces. 
+*   **The numerator** represents the specific number of equal parts being considered or counted. It tells us *how many* of those pieces we have.
 
-## Part 1: The Anatomy of a Fraction
+We categorize fractions based on the relationship between these two numbers:
+*   **Proper fraction:** A fraction whose numerator is strictly less than the denominator (e.g., $2/5$). It represents a value less than one.
+*   **Improper fraction:** A fraction whose numerator is equal to or greater than the denominator (e.g., $7/4$). It represents a value equal to or greater than one.
+*   **Mixed number:** An alternative representation consisting of a [whole number](https://en.wikipedia.org/wiki/Integer) combined with a proper fraction (e.g., $1 \frac{3}{4}$). 
 
-At its core, **a [fraction](https://en.wikipedia.org/wiki/Fraction) represents a part of a whole or a [proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) of a [set](https://en.wikipedia.org/wiki/Set_%28mathematics%29).** It is a way of expressing a relationship between the pieces we care about and the total pieces that exist. 
+> **Crucial Equivalence:** An improper fraction can always be rewritten as a mathematically equivalent mixed number, and vice versa. The improper fraction $7/4$ tells us we have seven quarters; the mixed number $1 \frac{3}{4}$ tells us those same quarters can be grouped to form one complete whole (using four quarters) with three quarters left over.
 
-Structurally, a fraction is a brilliant piece of visual [mathematics](https://en.wikipedia.org/wiki/Mathematics). **A fraction consists of a [numerator](https://en.wikipedia.org/wiki/Fraction) placed above a [fraction bar](https://en.wikipedia.org/wiki/Fraction) and a [denominator](https://en.wikipedia.org/wiki/Fraction) placed below the fraction bar.**
+## The Architecture of Quantities: Composing and Decomposing
 
-> **The Denominator (The World):** **The [denominator](https://en.wikipedia.org/wiki/Fraction) represents the total number of equal parts that make up a single whole.** If you slice a [pizza](https://en.wikipedia.org/wiki/Pizza) into 8 perfectly equal pieces, the denominator is 8. It tells you the *size* of the slices.
-> 
-> **The Numerator (The Focus):** **The [numerator](https://en.wikipedia.org/wiki/Fraction) represents the specific number of equal parts being considered or counted.** If you eat 3 of those pizza slices, the numerator is 3.
+To master fractions, one must see them not as monolithic blocks, but as structures built from smaller, identical bricks. The fundamental brick of this system is the **[unit fraction](https://en.wikipedia.org/wiki/Unit_fraction)**, which is defined as a fraction with a numerator of exactly one (e.g., $1/4, 1/7, 1/10$). 
 
-![A visual representation of a denominator: a pizza cut into 8 equal slices, where each individual slice represents 1/8 of the whole.](https://wikipedia.org/wiki/Special:Redirect/file/Pizza-3007395.jpg)
+**Every fraction can be represented as the sum of multiple unit fractions possessing the same denominator.** 
 
-### The Atom of the Fraction World: Unit Fractions
-If you want to understand complex matter, you look at its [atoms](https://en.wikipedia.org/wiki/Atom). If you want to understand fractions, you look at [unit fractions](https://en.wikipedia.org/wiki/Unit_fraction). 
+This brings us to the operations of construction and deconstruction:
+*   **Decomposing a fraction** means breaking the fraction down into a sum of smaller fractions with identical denominators.
+*   **Composing fractions** involves adding smaller fractions with identical denominators to form a single larger fraction.
 
-**A [unit fraction](https://en.wikipedia.org/wiki/Unit_fraction) is a fraction with a numerator of exactly [one](https://en.wikipedia.org/wiki/1).** Examples include 1/2, 1/4, and 1/17. They are the fundamental building blocks of all other fractions. Why? Because **every fraction can be represented as the sum of multiple unit fractions possessing the same denominator.**
+For instance, consider the fraction $3/4$. Through decomposition, we reveal its fundamental components: **the fraction $3/4$ is mathematically equal to the sum of $1/4$ plus $1/4$ plus $1/4$.** We can write this formally as:
+$$ \frac{3}{4} = \frac{1}{4} + \frac{1}{4} + \frac{1}{4} $$
+By composing those same unit fractions back together, we return exactly to $3/4$. This [additive property](https://en.wikipedia.org/wiki/Addition) is the foundation upon which all fraction [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) is built.
 
-When you teach children to build (compose) or break apart (decompose) fractions, you rely heavily on this atomic truth. 
-*   **Decomposing a fraction means breaking the fraction down into a [sum](https://en.wikipedia.org/wiki/Addition) of smaller fractions with identical denominators.** 
-*   **Composing fractions involves [adding](https://en.wikipedia.org/wiki/Addition) smaller fractions with identical denominators to form a single larger fraction.**
+## Representing Rational Numbers in Physical Space
 
-Take the fraction 3/4. Instead of viewing it as a static number, see it as an action! **The fraction 3/4 is mathematically equal to the sum of 1/4 plus 1/4 plus 1/4.** By showing students that $3/4 = 1/4 + 1/4 + 1/4$, you remove the mystery of [fraction addition](https://en.wikipedia.org/wiki/Fraction). You are just counting unit fractions the same way you would count [apples](https://en.wikipedia.org/wiki/Apple).
+To bridge the gap between abstract symbols and physical reality, we utilize various models to represent rational numbers.
 
-![Unit fractions in action: The mathematical value of 3/4 can be visualized as the composition of three separate 1/4 unit pieces.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
+### The Number Line
+**Rational numbers can be represented as specific coordinate points on a continuous [number line](https://en.wikipedia.org/wiki/Number_line).** This model is powerful because it perfectly illustrates that fractions are not just isolated shapes, but actual [magnitudes](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) existing between whole [integers](https://en.wikipedia.org/wiki/Integer). **To plot a proper fraction on a number line between zero and one, the [interval](https://en.wikipedia.org/wiki/Interval_%28mathematics%29) is divided into equal segments matching the fraction's denominator.** If the denominator is $8$, the space between $0$ and $1$ is segmented into eight equal intervals, and a point at the fifth tick mark represents $5/8$.
 
----
+![A number line plotting various types of numbers. Rational numbers, such as fractions, occupy precise intervals between whole integers, highlighting that they represent specific, continuous magnitudes.](https://wikipedia.org/wiki/Special:Redirect/file/Number_line.png)
 
-## Part 2: Seeing the Math: Visualizing Fractions
+### The Area Model
+An **area model** visualizes a fraction by **dividing a two-dimensional [geometric shape](https://en.wikipedia.org/wiki/Shape) into equal-sized regions.** Imagine a [rectangle](https://en.wikipedia.org/wiki/Rectangle) or a [circle](https://en.wikipedia.org/wiki/Circle) cleanly sliced. 
+*   In an area model, **the total number of equal-sized regions represents the denominator of the fraction.**
+*   Conversely, **the shaded regions represent the numerator of the fraction.** 
 
-[Numbers](https://en.wikipedia.org/wiki/Number) on a page are [abstract](https://en.wikipedia.org/wiki/Abstraction_%28mathematics%29). To build genuine comprehension, we must map these numbers to physical space and [geometry](https://en.wikipedia.org/wiki/Geometry). 
+![An area model of a fraction where a circular whole is divided into four equal regions, visually isolating a single quarter from the remaining three-fourths.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
 
-### Concrete and Area Models
-Before a student ever manipulates symbols on a [chalkboard](https://en.wikipedia.org/wiki/Blackboard), they need to feel the math. **Concrete fraction models use physical [manipulatives](https://en.wikipedia.org/wiki/Manipulative_%28mathematics_education%29) like fraction strips to physically represent parts of a whole.** When a student holds a "1/2" strip and places two "1/4" strips right underneath it to see they are exactly the same [length](https://en.wikipedia.org/wiki/Length), magic happens.
+### Concrete Fraction Models
+Beyond drawings, **concrete fraction models use physical [manipulatives](https://en.wikipedia.org/wiki/Manipulative_%28mathematics%29) like fraction strips to physically represent parts of a whole.** When a student holds a half-strip and places two quarter-strips beneath it to see that they align perfectly, the abstract arithmetic becomes tangible [geometry](https://en.wikipedia.org/wiki/Geometry).
 
-We then graduate to drawing. **An area model represents a fraction by dividing a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) [geometric shape](https://en.wikipedia.org/wiki/Shape) into equal-sized regions.** 
-*   **In an area model, the shaded regions represent the numerator of the fraction.**
-*   **In an area model, the total number of equal-sized regions represents the denominator of the fraction.**
+## Equivalence and the Art of Comparison
 
-### The Continuous Number Line
-Eventually, we must bring fractions into the broader landscape of all numbers. **[Rational numbers](https://en.wikipedia.org/wiki/Rational_number) can be represented as specific [coordinate points](https://en.wikipedia.org/wiki/Coordinate_system) on a [continuous](https://en.wikipedia.org/wiki/Continuous_function) [number line](https://en.wikipedia.org/wiki/Number_line).** A number line isn't just stepping stones of 1, 2, and 3; it is a smooth, unbroken [continuum](https://en.wikipedia.org/wiki/Continuum_%28mathematics%29). 
+One of the deepest realizations in mathematics is that two superficially different expressions can represent the exact same truth. **[Equivalent fractions](https://en.wikipedia.org/wiki/Fraction) represent the same exact portion of a whole using different numerators and denominators.** For example, cutting a pizza into two halves and taking one ($1/2$) yields the same amount of food as cutting it into four quarters and taking two ($2/4$).
 
-**To plot a [proper fraction](https://en.wikipedia.org/wiki/Fraction) on a number line between [zero](https://en.wikipedia.org/wiki/0) and [one](https://en.wikipedia.org/wiki/1), the [interval](https://en.wikipedia.org/wiki/Interval_%28mathematics%29) is divided into equal segments matching the fraction's denominator.** If you want to [graph](https://en.wikipedia.org/wiki/Graph_of_a_function) 3/5, you divide the space between 0 and 1 into five equal gaps (the denominator), and you hop to the third tick mark (the numerator). 
+We manipulate equivalent fractions using two primary rules:
+1.  **Scaling Up:** **Multiplying the numerator and denominator of a fraction by the same non-zero integer creates a mathematically equivalent fraction.**
+2.  **Simplifying:** **Dividing the numerator and denominator of a fraction by their [greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) simplifies the fraction to its [lowest terms](https://en.wikipedia.org/wiki/Irreducible_fraction).**
 
-![A continuous number line. To plot a proper fraction, the integer intervals (such as the space between 0 and 1) are divided into equal sub-segments corresponding to the fraction's denominator.](https://wikipedia.org/wiki/Special:Redirect/file/Number_line_with_numbers_-3_to_3.svg)
+### Comparing Fractions
+When tasked with comparing the magnitude of two fractions, logic dictates three distinct scenarios:
 
----
+*   **Identical Denominators:** The pieces are the same size. Therefore, **when comparing two fractions with identical denominators, the fraction with the larger numerator has the greater mathematical value.** (Having 5 eighths is strictly more than having 3 eighths).
+*   **Identical Numerators:** We have the same *number* of pieces, but the pieces are different sizes. Because a larger denominator means a whole is cut into more pieces (making each individual piece smaller), **when comparing two fractions with identical numerators, the fraction with the smaller denominator has the greater mathematical value.** ($3/4$ is greater than $3/10$).
+*   **Different Denominators:** This is an apples-to-oranges comparison. To resolve it, **fractions with different denominators can be compared by converting both fractions to equivalent fractions sharing a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator).** Once the denominators match, we simply compare the numerators.
 
-## Part 3: Forms, Disguises, and Equivalence
+![A visual representation demonstrating how fractions with different denominators can be mathematically converted to a common denominator using grid subdivisions, allowing them to be accurately compared or added.](https://wikipedia.org/wiki/Special:Redirect/file/Fraction_addition_example.svg)
 
-Fractions come in different flavors based on the relationship between their top and bottom numbers.
+## Decimals: The Unwritten Denominator
 
-### Proper, Improper, and Mixed
-*   **A proper fraction has a numerator that is strictly [less than](https://en.wikipedia.org/wiki/Inequality_%28mathematics%29) the denominator.** (e.g., 2/3). It is less than one whole.
-*   **An [improper fraction](https://en.wikipedia.org/wiki/Fraction) has a numerator that is equal to or [greater than](https://en.wikipedia.org/wiki/Inequality_%28mathematics%29) the denominator.** (e.g., 5/4 or 7/7). It is equal to or greater than one whole.
-*   **A [mixed number](https://en.wikipedia.org/wiki/Fraction) consists of a [whole number](https://en.wikipedia.org/wiki/Integer) combined with a proper fraction.** (e.g., $1 \frac{1}{4}$).
+If fractions are a universal language, decimals are a highly specialized dialect. **A decimal is simply a representation of a fraction where the unwritten denominator is a [power of ten](https://en.wikipedia.org/wiki/Power_of_10).** 
 
-Here is the beautiful mechanical link: **An improper fraction can be rewritten as a mathematically equivalent mixed number.** If you have 5/4 (five one-fourth slices), you have enough to build one complete [pie](https://en.wikipedia.org/wiki/Pie) (4/4), with 1/4 left over. Hence, $5/4 = 1 \frac{1}{4}$.
+Our numbering system is a "[Base-10](https://en.wikipedia.org/wiki/Decimal_numeral_system)" system. Just as [place values](https://en.wikipedia.org/wiki/Positional_notation) to the left of the decimal point increase by factors of ten (ones, tens, hundreds), **decimal place values positioned to the right of the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) decrease by a factor of ten for each consecutive position.** 
+*   **The first numerical place value immediately to the right of the decimal point represents tenths** ($1/10$).
+*   **The second numerical place value immediately to the right of the decimal point represents hundredths** ($1/100$).
 
-### The Magic of Equivalent Fractions
-Sometimes numbers dress up in disguises. **[Equivalent fractions](https://en.wikipedia.org/wiki/Fraction) represent the same exact portion of a whole using different numerators and denominators.** One-half (1/2) of a pizza is the exact same amount of food as four-eighths (4/8) of a pizza. 
+![The positional values of the decimal numeral system. Digits placed to the right of the decimal separator represent underlying unit fractions whose denominators are increasing powers of ten.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
 
-![Visualizing equivalent fractions: 1/2 of a whole is mathematically and physically equivalent to two 1/4 pieces or four 1/8 pieces.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_fractions.svg)
+This structured alignment makes comparison remarkably straightforward. **Decimals are compared by examining individual place values from left to right until a differing digit is found.** When comparing $0.45$ and $0.48$, the tenths match ($4$), but examining the hundredths reveals that $8 > 5$, proving $0.48$ is the larger value.
 
-How do we generate these disguises? By using the most powerful number in mathematics: the number **[1](https://en.wikipedia.org/wiki/1)**. If you [multiply](https://en.wikipedia.org/wiki/Multiplication) any number by 1, its value doesn't change. Because $2/2$ is equal to 1, if we multiply $1/2 \times 2/2$, we get $2/4$.
-*   **Multiplying the numerator and denominator of a fraction by the same non-zero [integer](https://en.wikipedia.org/wiki/Integer) creates a mathematically equivalent fraction.**
+### Converting and Classifying Decimals
+**A fraction can be converted to a decimal equivalent by mathematically [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the numerator by the denominator.** This division yields two distinct typologies of decimals:
 
-To strip away the disguise, we run the process in reverse.
-*   **[Dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the numerator and denominator of a fraction by their [greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) simplifies the fraction to its [lowest terms](https://en.wikipedia.org/wiki/Irreducible_fraction).** For 8/12, the greatest common factor is 4. Divide top and bottom by 4, and you arrive at the elegant, simplified 2/3.
+1.  **Terminating Decimals:** A decimal that ends naturally. **A terminating decimal has a finite number of numerical digits after the decimal point.** For example, $3/4$ divides cleanly into $0.75$. To reverse this process, **a terminating decimal can be converted to a fraction by writing the decimal digits over the corresponding place value power of ten** (e.g., $0.75$ becomes $75/100$, which simplifies to $3/4$).
+2.  **Repeating Decimals:** A decimal that never terminates. **A [repeating decimal](https://en.wikipedia.org/wiki/Repeating_decimal) has a digit or specific group of digits that repeats infinitely after the decimal point.** For example, dividing $1$ by $3$ yields $0.333333...$ infinitely. 
 
----
+## Percents: The Standardized Hundred
 
-## Part 4: Comparing Fractions—The Showdown
+If fractions allow any denominator, and decimals restrict denominators to powers of ten, percents take standardization to its absolute limit. **The term percent literally translates to "parts per one hundred."** 
 
-When you look at two fractions, how do you know which is larger? This tests whether a student truly understands what numerators and denominators physically represent.
+By definition, **a percent represents a mathematical [ratio](https://en.wikipedia.org/wiki/Ratio) where the second term of the ratio is exactly one hundred.** Because of this rigid standardization, it provides a universal metric for comparison. If you have a complete, unbroken whole, you have $100$ parts out of $100$. Thus, **a value of $100$ percent represents a complete whole.**
 
-1.  **Identical Denominators:** If the pieces are the exact same size, you just count them. **When comparing two fractions with identical denominators, the fraction with the larger numerator has the greater mathematical value.** (e.g., 5/8 is greater than 3/8).
-2.  **Identical Numerators:** This requires deeper [logic](https://en.wikipedia.org/wiki/Logic). **When comparing two fractions with identical numerators, the fraction with the smaller denominator has the greater mathematical value.** Think about it: if you are sharing a [cake](https://en.wikipedia.org/wiki/Cake), would you rather share it with 3 people (1/3) or 100 people (1/100)? A smaller denominator means fewer cuts, which means *bigger pieces*. Therefore, 1/3 is far greater than 1/100.
-3.  **Different Numerators and Denominators:** [Apples and oranges](https://en.wikipedia.org/wiki/Apples_and_oranges)! To compare them fairly, we must make them speak the same language. **Fractions with different denominators can be compared by converting both fractions to equivalent fractions sharing a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator).** 
+### The Mathematics of Conversion
+Translating between decimals, percents, and fractions is an exercise in shifting magnitudes and understanding the number $100$.
 
-![Area models visualizing the creation of a common denominator. By subdividing distinct regions into a shared grid, fractions of different sizes become mathematically compatible and directly comparable.](https://wikipedia.org/wiki/Special:Redirect/file/Fraction_addition_example.svg)
+*   **Decimal to Percent:** **A decimal value is converted to a percent value by multiplying the decimal by one hundred.** Because of our Base-10 system, **multiplying a decimal value by one hundred shifts the decimal point exactly two places to the right.** ($0.45 \times 100 = 45\%$).
+*   **Percent to Decimal:** The inverse is equally clean. **A percent value is converted to a decimal value by dividing the percent by one hundred.** Consequently, **dividing a percent value by one hundred shifts the decimal point exactly two places to the left.** ($45\% \div 100 = 0.45$).
+*   **Fraction to Percent:** There are two pathways here. Generally, **a fraction can be converted to a percent by first converting the fraction to its equivalent decimal form** (via division), and then multiplying by $100$. However, as a shortcut, **a fraction possessing a denominator of exactly one hundred can be converted directly to a percent by using the numerator as the percent value.** ($45/100$ is instantly recognizable as $45\%$).
 
----
-
-## Part 5: Decimals—The Base-10 Alter Ego
-
-What is a decimal, really? Our entire [number system](https://en.wikipedia.org/wiki/Numeral_system) is built on powers of ten (1, 10, 100, 1000). Decimals are simply the [metric system's](https://en.wikipedia.org/wiki/Metric_system) attempt to force fractions to play by [base-10](https://en.wikipedia.org/wiki/Decimal) rules. 
-
-**A [decimal](https://en.wikipedia.org/wiki/Decimal) is a representation of a fraction where the unwritten denominator is a [power of ten](https://en.wikipedia.org/wiki/Power_of_10).** 
-
-Instead of writing a bar and a denominator, we use a [decimal point](https://en.wikipedia.org/wiki/Decimal_separator). **Decimal [place values](https://en.wikipedia.org/wiki/Positional_notation) positioned to the right of the decimal point decrease by a factor of ten for each consecutive position.** 
-*   **The first numerical place value immediately to the right of the decimal point represents [tenths](https://en.wikipedia.org/wiki/Decimal)** (1/10).
-*   **The second numerical place value immediately to the right of the decimal point represents hundredths** (1/100).
-
-![In the base-10 decimal system, each positional place value to the right of the decimal point represents a decreasing power of ten.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
-
-Because decimals follow the same rigid place-value rules as whole numbers, comparing them is highly systematic. **Decimals are compared by examining individual place values from left to right until a differing [digit](https://en.wikipedia.org/wiki/Numerical_digit) is found.** 
-If you compare 0.45 and 0.47, you check the tenths first (both are 4). Then you check the hundredths (7 is greater than 5, so 0.47 > 0.45).
-
----
-
-## Part 6: Lost in Translation—Converting Fractions and Decimals
-
-Because fractions and decimals are two sides of the same coin, we must be able to convert between them flawlessly.
-
-### Fraction to Decimal
-The fraction bar is literally a [division symbol](https://en.wikipedia.org/wiki/Division_sign) waiting to happen. **A fraction can be converted to a decimal equivalent by mathematically dividing the numerator by the denominator.** 
-
-When you do this division, one of two things will happen:
-1.  **A [terminating decimal](https://en.wikipedia.org/wiki/Decimal) has a finite number of numerical digits after the decimal point.** The division finishes perfectly with no [remainder](https://en.wikipedia.org/wiki/Remainder). 
-2.  **A [repeating decimal](https://en.wikipedia.org/wiki/Repeating_decimal) has a digit or specific group of digits that repeats infinitely after the decimal point.**
-
-### Decimal to Fraction
-To go backward, we just read the decimal out loud using its formal place value name. **A terminating decimal can be converted to a fraction by writing the decimal digits over the corresponding place value power of ten.** 
-If you see 0.37, you read it as "thirty-seven hundredths." Write that out mathematically: 37/100. Done!
-
-### The Essential Mathematical Equivalents
-For the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test) (and life), you must have the most common translations memorized. They are the landmarks you will use to navigate complex problems quickly.
-
-| Fraction | Mathematical Division Process | Decimal Equivalent | Type of Decimal |
-| :--- | :--- | :--- | :--- |
-| **1/2** | $1 \div 2$ | **The fraction 1/2 is mathematically equivalent to the decimal 0.5.** | Terminating |
-| **1/4** | $1 \div 4$ | **The fraction 1/4 is mathematically equivalent to the decimal 0.25.** | Terminating |
-| **3/4** | $3 \div 4$ | **The fraction 3/4 is mathematically equivalent to the decimal 0.75.** | Terminating |
-| **1/5** | $1 \div 5$ | **The fraction 1/5 is mathematically equivalent to the decimal 0.2.** | Terminating |
-| **1/8** | $1 \div 8$ | **The fraction 1/8 is mathematically equivalent to the decimal 0.125.** | Terminating |
-| **1/3** | $1 \div 3$ | **The fraction 1/3 is mathematically equivalent to the repeating decimal 0.333333.** | Repeating |
-
----
-
-## Part 7: Percents—The Standardized Slice
-
-Decimals normalize fractions to powers of 10. But human beings love the number [100](https://en.wikipedia.org/wiki/100). It's a nice, round, substantial number. Enter the percent.
-
-**The term [percent](https://en.wikipedia.org/wiki/Percentage) translates to parts per one hundred.** Cent = 100 (think [centuries](https://en.wikipedia.org/wiki/Century), [cents](https://en.wikipedia.org/wiki/Cent_%28currency%29) in a [dollar](https://en.wikipedia.org/wiki/United_States_dollar), [centimeters](https://en.wikipedia.org/wiki/Centimetre) in a [meter](https://en.wikipedia.org/wiki/Metre)). By definition, **a percent represents a mathematical [ratio](https://en.wikipedia.org/wiki/Ratio) where the second term of the ratio is exactly one hundred.** 
-
-When you score an 85% on a test, it means for every 100 possible points, you earned 85. 
-
-![Percents are frequently used in visual models, such as pie charts, to represent proportional parts of a complete 100% whole.](https://wikipedia.org/wiki/Special:Redirect/file/Web-browser_usage_on_Wikimedia.svg)
-
-### The Grand Conversion Dance
-To become fully fluent, you must be able to dance between decimals, percents, and fractions at will.
-
-#### Decimals to Percents (and Vice Versa)
-*   **A decimal value is converted to a percent value by multiplying the decimal by one hundred.** 
-*   Because our number system is [base-10](https://en.wikipedia.org/wiki/Decimal), **multiplying a decimal value by one hundred shifts the decimal point exactly two places to the right.** (e.g., 0.42 $\times$ 100 = 42%).
-*   Conversely, **a percent value is converted to a decimal value by dividing the percent by one hundred.**
-*   Therefore, **dividing a percent value by one hundred shifts the decimal point exactly two places to the left.** (e.g., 89% $\div$ 100 = 0.89).
-
-#### Fractions to Percents
-There are two ways to turn a fraction into a percent:
-1.  **The Universal Method:** **A fraction can be converted to a percent by first converting the fraction to its equivalent decimal form.** Divide the numerator by the denominator, then multiply by 100. (e.g., 3/8 = 0.375 = 37.5%).
-2.  **The Shortcut Method:** **A fraction possessing a denominator of exactly one hundred can be converted directly to a percent by using the numerator as the percent value.** If you have 42/100, you don't need to do any math. It's automatically 42%.
-
-### Famous Percent Equivalents
-Just like decimals, we have our "hall of fame" percents that every elementary teacher and student should recognize on sight:
-
-*   **A value of 25 percent is mathematically equivalent to the fraction 1/4.** (Think of a [quarter](https://en.wikipedia.org/wiki/Quarter_%28United_States_coin%29) in relation to a dollar).
-*   **A value of 50 percent is mathematically equivalent to the fraction 1/2.**
-*   **A value of 75 percent is mathematically equivalent to the fraction 3/4.**
-*   **A value of 100 percent represents a complete whole.** (If you eat 100% of a pizza, you've eaten $100/100$, or exactly 1 whole pizza).
-
----
-
-## Conclusion: Tying it All Together
-
-Whether you are placing a **[coordinate point](https://en.wikipedia.org/wiki/Coordinate_system) on a continuous number line**, shading an **area model**, or **dividing the numerator by the denominator** to calculate a **decimal**, you are engaging with the exact same underlying truth: we are expressing the "in-between."
-
-As you step into the Praxis Multiple Subjects Exam, don't view these rules as rigid [algorithms](https://en.wikipedia.org/wiki/Algorithm). View them as translations. You are simply translating from the visual geometry of fractions, to the base-10 logic of decimals, to the "per 100" ratio of percents. Master these translations, and you will not only conquer this exam—you will illuminate the hidden mathematical architecture of the world for every student who walks into your classroom.
+## The Canon of Rational Equivalencies
+
+A mathematically literate student should recognize the most common proportional relationships instantly, seeing the fraction, decimal, and percent as interchangeable masks on the same underlying magnitude. 
+
+### The Foundational Equivalencies
+*   **The Half:** The fraction **$1/2$ is mathematically equivalent to the decimal $0.5$**, and conversely, **a value of $50$ percent is mathematically equivalent to the fraction $1/2$.**
+*   **The Quarters:** 
+    *   **The fraction $1/4$ is mathematically equivalent to the decimal $0.25$**, which maps perfectly to the fact that **a value of $25$ percent is mathematically equivalent to the fraction $1/4$.**
+    *   **The fraction $3/4$ is mathematically equivalent to the decimal $0.75$**, echoing that **a value of $75$ percent is mathematically equivalent to the fraction $3/4$.**
+*   **The Fifths:** **The fraction $1/5$ is mathematically equivalent to the decimal $0.2$** (or $20\%$).
+*   **The Eighths:** **The fraction $1/8$ is mathematically equivalent to the decimal $0.125$** (or $12.5\%$).
+*   **The Thirds:** As previously noted, **the fraction $1/3$ is mathematically equivalent to the repeating decimal $0.333333...$** (or $33.\overline{3}\%$).
+
+By viewing numbers not as rigid integers, but as infinitely divisible [continuums](https://en.wikipedia.org/wiki/Continuum_%28mathematics%29)—capable of being composed, decomposed, and translated across different mathematical notations—we gain the exact language required to describe the beautiful, fractional complexity of the physical world.

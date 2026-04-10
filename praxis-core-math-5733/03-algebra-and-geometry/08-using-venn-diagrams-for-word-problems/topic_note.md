@@ -1,172 +1,98 @@
-# The Architecture of [Logic](https://en.wikipedia.org/wiki/Logic): Mastering [Venn Diagrams](https://en.wikipedia.org/wiki/Venn_diagram) for [Word Problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29)
+Human beings possess an innate compulsion to [categorize](https://en.wikipedia.org/wiki/Categorization). When confronted with a chaotic universe of distinct objects—be they [subatomic particles](https://en.wikipedia.org/wiki/Subatomic_particle), [biological species](https://en.wikipedia.org/wiki/Species), or simply students enrolled in [high school](https://en.wikipedia.org/wiki/High_school) electives—we draw conceptual boundaries. In [mathematics](https://en.wikipedia.org/wiki/Mathematics), this boundary-drawing yields a **[set](https://en.wikipedia.org/wiki/Set_%28mathematics%29)**, rigorously defined as a well-defined collection of distinct objects. Every individual item belonging to a set is known as an **[element](https://en.wikipedia.org/wiki/Element_%28mathematics%29)**. Yet, human [reasoning](https://en.wikipedia.org/wiki/Reason) is predominantly visual. To truly understand how different sets interact, overlap, or entirely avoid one another, we must map them geographically. We translate abstract logical relationships into physical spaces, creating a tool of profound analytical power.
 
-Hello there! Let's talk about sorting the universe. 
+## Translating Logic into Space: The Architecture of [Venn Diagrams](https://en.wikipedia.org/wiki/Venn_diagram)
 
-[Mathematics](https://en.wikipedia.org/wiki/Mathematics), at its very core, isn't just about crunching numbers; it's about making sense of relationships. When you look at a [classroom](https://en.wikipedia.org/wiki/Classroom) of students, you don't just see a crowd. You see a tapestry of overlapping traits. Some play [sports](https://en.wikipedia.org/wiki/Sport). Some play an instrument. Some do *both*, and some do *neither*. How do we take that messy, overlapping reality and organize it so clearly that the answers to our questions just fall right out on the paper?
+In [1880](https://en.wikipedia.org/wiki/1880), the [British](https://en.wikipedia.org/wiki/British_people) [logician](https://en.wikipedia.org/wiki/Logician) **[John Venn](https://en.wikipedia.org/wiki/John_Venn) introduced the [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram)**, revolutionizing how we handle complex [categorical logic](https://en.wikipedia.org/wiki/Term_logic). Simply put, **a Venn diagram is a visual representation of sets using [geometric shapes](https://en.wikipedia.org/wiki/Shape)**. By translating [word problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29) into these shapes, we bypass the [cognitive overload](https://en.wikipedia.org/wiki/Cognitive_load) of juggling abstract numbers and instead let [geometry](https://en.wikipedia.org/wiki/Geometry) do the heavy logical lifting. 
 
-We use one of the most elegant tools ever invented: the [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram).
+![A stained-glass window at Gonville and Caius College, Cambridge, honoring logician John Venn and his three-circle logical diagram.](https://wikipedia.org/wiki/Special:Redirect/file/Venn-stainedglass-gonville-caius.jpg)
 
-As future educators tackling the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test), you aren't just memorizing rules. You need to understand *how* these visual tools work and *why* they make logical word problems delightfully simple. So, grab a [pencil](https://en.wikipedia.org/wiki/Pencil), pull up a [chair](https://en.wikipedia.org/wiki/Chair), and let's explore the beautiful, overlapping world of [sets](https://en.wikipedia.org/wiki/Set_%28mathematics%29).
+The architecture of this visual system is beautifully strict. The absolute boundary of our given reality is the **[universal set](https://en.wikipedia.org/wiki/Universal_set)**, which **contains all elements under consideration in a specific problem**. Visually, **a surrounding [rectangle](https://en.wikipedia.org/wiki/Rectangle) in a Venn diagram represents the universal set**. Nothing exists outside this box. Inside the rectangle, **[circles](https://en.wikipedia.org/wiki/Circle) in a Venn diagram represent individual sets**. By analyzing how these circles interact, we construct a precise map of the relationships between different groups of elements.
 
----
+## The Anatomy of Overlap: [Intersections](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29) and [Unions](https://en.wikipedia.org/wiki/Union_%28set_theory%29)
 
-## The Cast of Characters: Sets and the Universe
+When we deal with multiple sets within the same universal boundary, they frequently share elements. This brings us to the two most fundamental operations in [set theory](https://en.wikipedia.org/wiki/Set_theory): the [intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29) and the [union](https://en.wikipedia.org/wiki/Union_%28set_theory%29).
 
-Before we start drawing shapes, we need to know what we are organizing. 
+### The [Intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29)
+> The **[intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29)** of two sets contains the elements shared by both sets.
 
-In mathematics, a **[set](https://en.wikipedia.org/wiki/Set_%28mathematics%29)** is simply a well-defined collection of distinct objects. Those individual objects? We call them **[elements](https://en.wikipedia.org/wiki/Element_%28mathematics%29)**. An **element** is a single object belonging to a set. If we have a set of "[Vowels](https://en.wikipedia.org/wiki/Vowel) in the [English Alphabet](https://en.wikipedia.org/wiki/English_alphabet)," the letter *A* is an element. It’s that simple. 
+If we are searching for students who participate in both Debate Club and the Robotics Team, we are looking exclusively at the space where the two sets cross. Visually, **the overlapping region of two circles in a Venn diagram represents the intersection of two sets**. In the language of mathematical word problems, **the word 'and' in a set word problem indicates an intersection**. The [mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) for this operation is concise: **the [symbol](https://en.wikipedia.org/wiki/Symbol) $\cap$ denotes the intersection of sets**.
 
-But out of all the possible elements in the [cosmos](https://en.wikipedia.org/wiki/Cosmos), how do we know what we care about right now? We define our "sandbox." 
+![The intersection of sets A and B (A ∩ B) is the overlapping central region, containing only the elements that belong to both sets.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_A_intersect_B.svg)
 
-> **The Universal Set:** The [universal set](https://en.wikipedia.org/wiki/Universal_set) contains all elements under consideration in a specific problem. If our word problem is about 50 students in a [homeroom](https://en.wikipedia.org/wiki/Homeroom), the universal set is exactly those 50 students. Nobody else exists in this mathematical [universe](https://en.wikipedia.org/wiki/Universe_%28mathematics%29)! 
+### The [Union](https://en.wikipedia.org/wiki/Union_%28set_theory%29)
+> The **[union](https://en.wikipedia.org/wiki/Union_%28set_theory%29)** of two sets contains all elements present in either set or both sets.
 
-To visualize these concepts, a brilliant [logician](https://en.wikipedia.org/wiki/Logician) named **[John Venn](https://en.wikipedia.org/wiki/John_Venn) introduced the Venn diagram in 1880**. A **Venn diagram** is a visual representation of sets using [geometric shapes](https://en.wikipedia.org/wiki/Shape). The rules of his drawing are wonderfully intuitive:
+Imagine pouring all the elements of Set A and all the elements of Set B into a single, massive container; the resulting pool is the union. Visually, **the entire area covered by two circles in a Venn diagram represents the union of two sets**. When reading a [Praxis](https://en.wikipedia.org/wiki/Praxis_test) word problem, **the word 'or' in a set word problem indicates a union**. Note that in mathematics, "or" is [inclusive](https://en.wikipedia.org/wiki/Logical_disjunction)—meaning one, the other, or both. Notationally, **the symbol $\cup$ denotes the union of sets**.
 
-![Stained-glass window at Cambridge University commemorating John Venn and his invention of the Venn diagram.](https://wikipedia.org/wiki/Special:Redirect/file/Venn-stainedglass-gonville-caius.jpg)
+![The union of two sets (A ∪ B) encompasses the entire area covered by both circles, representing all elements present in either set or both.](https://wikipedia.org/wiki/Special:Redirect/file/Venn0111.svg)
 
-1. **The surrounding [rectangle](https://en.wikipedia.org/wiki/Rectangle) in a Venn diagram represents the universal set.** Think of the rectangle as the walls of your classroom. Everyone involved in the problem is inside this box.
-2. **[Circles](https://en.wikipedia.org/wiki/Circle) in a Venn diagram represent individual sets.** We place these circles inside the rectangle. If a circle represents "Students taking [French](https://en.wikipedia.org/wiki/French_language)," everyone taking French lives inside that circle.
+Occasionally, you will encounter distinct sets that have absolutely nothing in common. These are known as **[disjoint sets](https://en.wikipedia.org/wiki/Disjoint_sets)**, which are simply **sets sharing no common elements**. Because they share nothing, **disjoint sets appear in a Venn diagram as circles lacking overlap**, standing as isolated islands within the universal rectangle.
 
----
+![Disjoint sets share no common elements and are represented visually as separate, non-overlapping circles isolated from one another.](https://wikipedia.org/wiki/Special:Redirect/file/Disjoint_sets.svg)
 
-## The Logic of Overlap: Translating English into Geometry
+## Outside the Circles: [Complements](https://en.wikipedia.org/wiki/Complement_%28set_theory%29) and [Set Differences](https://en.wikipedia.org/wiki/Complement_%28set_theory%29)
 
-When you encounter a word problem on the Praxis exam, your first job is [translation](https://en.wikipedia.org/wiki/Translation). You need to turn conversational [English](https://en.wikipedia.org/wiki/English_language) words—like *and*, *or*, *not*, and *only*—into spatial regions on your diagram. 
+A robust mathematical system must account not only for what is *in* a set, but what is *excluded* from it. 
 
-Let’s map out the anatomy of a Venn diagram.
+> The **[complement](https://en.wikipedia.org/wiki/Complement_%28set_theory%29)** of a set contains all elements in the universal set absent from the given set.
 
-### 1. The Intersection ("And")
-If a student is in the drama club *and* the [chess club](https://en.wikipedia.org/wiki/Chess_club), where do they go? They belong to **the [intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29) of two sets**, which contains the elements shared by both sets. 
+If Set $A$ represents all students enrolled in [Chemistry](https://en.wikipedia.org/wiki/Chemistry), the complement is every student in the school *not* enrolled in Chemistry. In spatial terms, **the area outside a set circle and inside the universal set rectangle represents the complement of the set**. Linguistically, **the word 'not' in a set word problem indicates a complement**. In algebraic notation, **a [prime symbol](https://en.wikipedia.org/wiki/Prime_%28symbol%29) (e.g., $A'$) or a [superscript](https://en.wikipedia.org/wiki/Subscript_and_superscript) C (e.g., $A^C$) denotes the complement of a set**.
 
-Visually, **the overlapping region of two circles in a Venn diagram represents the intersection of two sets**. You’ll know you're dealing with an intersection because **the word "and" in a set word problem indicates an intersection**. 
-* **Fun Fact:** **The symbol $\cap$ denotes the intersection of sets.** (Think of it like an 'n' for i**n**tersection).
+![The complement of Set A consists of all elements within the universal set rectangle that are located outside of Set A's circle.](https://wikipedia.org/wiki/Special:Redirect/file/Venn1010.svg)
 
-![The intersection of two sets represents the elements they share, visually shown as the overlapping central region.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_A_intersect_B.svg)
+Furthermore, we often need to isolate a specific portion of a set while ignoring its overlapping regions. A **[set difference](https://en.wikipedia.org/wiki/Complement_%28set_theory%29)** contains elements present in a first set and absent from a second set. When you encounter **the word 'only' in a set word problem, it indicates a set difference**. If a problem asks for students taking "only" Chemistry, you must find the elements inside the Chemistry circle but strictly outside the overlap with any other subject.
 
-### 2. The Union ("Or")
-What if we want to know how many students are in the drama club *or* the chess club? In everyday speech, "or" sometimes means "one or the other, but not both." In mathematics, "or" is much more inclusive! 
+### The Glossary of Set Logic
 
-**The [union](https://en.wikipedia.org/wiki/Union_%28set_theory%29) of two sets contains all elements present in either set *or* both sets.** 
-Visually, **the entire area covered by two circles in a Venn diagram represents the union of two sets.** Think of it as the entire peanut-shaped area created by the two circles combined. Consequently, **the word "or" in a set word problem indicates a union**. 
-* **Fun Fact:** **The symbol $\cup$ denotes the union of sets.** (Think of it like a 'U' for **U**nion).
-
-![The union of two sets includes all elements in either or both sets, represented by the entire shaded area of both circles.](https://wikipedia.org/wiki/Special:Redirect/file/Venn0111.svg)
-
-### 3. The Complement ("Not")
-What about the students who refuse to act or play [chess](https://en.wikipedia.org/wiki/Chess)? They exist in the universe, but outside our circles. 
-
-**The [complement](https://en.wikipedia.org/wiki/Complement_%28set_theory%29) of a set contains all elements in the universal set absent from the given set.** In your drawing, **the area outside a set circle and inside the universal set rectangle represents the complement of the set.** You can spot this easily: **the word "not" in a set word problem indicates a complement**.
-* **Fun Fact:** **A [prime symbol](https://en.wikipedia.org/wiki/Prime_%28symbol%29) ($A'$) or a superscript C ($A^C$) denotes the complement of a set.** 
-
-![The complement of a set consists of all elements in the universal set that are outside the given set's circle.](https://wikipedia.org/wiki/Special:Redirect/file/Venn1010.svg)
-
-### 4. The Set Difference ("Only")
-Sometimes, a word problem gets sneaky. It might say, "15 students take *only* [biology](https://en.wikipedia.org/wiki/Biology)." 
-
-**A [set difference](https://en.wikipedia.org/wiki/Complement_%28set_theory%29) contains elements present in a first set and absent from a second set.** If a student takes biology, but *not* [chemistry](https://en.wikipedia.org/wiki/Chemistry), they belong in the crescent-moon-shaped part of the biology circle that does not touch the chemistry circle. Thus, **the word "only" in a set word problem indicates a set difference**.
-
-### 5. Disjoint Sets
-What if you are comparing sets that simply cannot overlap, like "Students who are [freshmen](https://en.wikipedia.org/wiki/Freshman)" and "Students who are [sophomores](https://en.wikipedia.org/wiki/Sophomore)"? Nobody is both! 
-
-**[Disjoint sets](https://en.wikipedia.org/wiki/Disjoint_sets) are sets sharing no common elements.** When you draw them, **disjoint sets appear in a Venn diagram as circles lacking overlap.** They sit isolated inside the universal rectangle, minding their own business.
-
-![Disjoint sets have no elements in common, represented by separate circles that lack any overlap.](https://wikipedia.org/wiki/Special:Redirect/file/Disjunkte_Mengen.svg)
-
----
-
-### The English-to-Math Translation Guide
-
-Here is a quick cheat sheet for your exam. Memorize these relationships; they are the keys to the kingdom!
-
-| The English Word | The Set Operation | The Math Symbol | The Visual Region |
+| [Set Operation](https://en.wikipedia.org/wiki/Operation_%28mathematics%29) | [Notation](https://en.wikipedia.org/wiki/Mathematical_notation) | Keyword | Visual Region in Venn Diagram |
 | :--- | :--- | :--- | :--- |
-| **AND** | [Intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29) | $\cap$ | The overlapping middle |
-| **OR** | [Union](https://en.wikipedia.org/wiki/Union_%28set_theory%29) | $\cup$ | The whole peanut shape of combined circles |
-| **NOT** | [Complement](https://en.wikipedia.org/wiki/Complement_%28set_theory%29) | $'$ or $^C$ | Outside the circle, inside the rectangle |
-| **ONLY** | [Set Difference](https://en.wikipedia.org/wiki/Complement_%28set_theory%29) | $A - B$ | The non-overlapping crescent of a circle |
+| **[Intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29)** | $\cap$ | And | Overlapping region of two circles |
+| **[Union](https://en.wikipedia.org/wiki/Union_%28set_theory%29)** | $\cup$ | Or | Entire area covered by two circles |
+| **[Complement](https://en.wikipedia.org/wiki/Complement_%28set_theory%29)** | $A'$ or $A^C$ | Not | Area outside a set circle, inside the universal rectangle |
+| **[Set Difference](https://en.wikipedia.org/wiki/Complement_%28set_theory%29)** | $A - B$ | Only | Elements present in a first set, absent from a second |
 
----
+## The Illusion of [Double Counting](https://en.wikipedia.org/wiki/Double_counting_%28fallacy%29): The [Principle of Inclusion-Exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 
-## The Secret Sauce: The Principle of Inclusion-Exclusion
+The most common, catastrophic error students make on the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test) is [double-counting](https://en.wikipedia.org/wiki/Double_counting_%28fallacy%29) overlapping elements. Consider this scenario: out of a universal set of 50 students, 30 are in Band and 20 are in Chorus. You might instinctively assume there are 50 students total in the music program ($30 + 20$). But what if 10 students are in *both* Band and Chorus?
 
-Now we arrive at the most common trap students fall into on the Praxis exam. Let’s say I tell you:
-* 30 students are in [Band](https://en.wikipedia.org/wiki/Musical_ensemble).
-* 20 students are in [Choir](https://en.wikipedia.org/wiki/Choir).
-* 10 students are in *both* (the intersection).
+If you simply add the totals of the two sets, you will arrive at an incorrect conclusion. Why? Because **adding the total element counts of two individual sets includes the intersection elements twice**. 
 
-If I ask you how many students are in the music program in total (the union), your brain might reflexively yell, "30 plus 20 is 50!" 
+To correct this phantom double-count, we rely on a fundamental mathematical rule: **the [principle of inclusion-exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle) calculates the total number of elements in the union of two sets**.
 
-Hold your horses! Think about what you just did. **Adding the total element counts of two individual sets includes the intersection elements twice.** You counted those 10 dual-enrolled kids once when you counted the Band, and *again* when you counted the Choir. To find the true total, we have to fix that double-counting. 
+> **The [Principle of Inclusion-Exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle):**
+> **The number of elements in the union of two sets equals the sum of elements in each individual set minus the elements in the intersection.**
 
-We do this using a beautiful piece of logic: **The [principle of inclusion-exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle) calculates the total number of elements in the union of two sets.** 
+Mathematically: $\text{Total in Union} = (\text{Total in Set A}) + (\text{Total in Set B}) - (\text{Intersection})$. 
 
-> **The Formula:** The number of elements in the union of two sets equals the sum of elements in each individual set minus the elements in the intersection.
->
-> $|A \cup B| = |A| + |B| - |A \cap B|$
+By [subtracting](https://en.wikipedia.org/wiki/Subtraction) the intersection value once, we restore the correct count. Consequently, **subtracting the intersection value from the total of a specific set yields the number of elements exclusive to the specific set**. In our Band and Chorus example, subtracting the 10 overlapping students from the 30 total Band students reveals that exactly 20 students are in "only" Band. 
 
-Applying it to our music students: $30 + 20 - 10 = 40$ students total. 
+Ultimately, **the total number of elements in a Venn diagram equals the [sum](https://en.wikipedia.org/wiki/Summation) of all distinct non-overlapping regions**. If you want to verify the grand total of the universal set, remember that **the sum of all non-overlapping regions includes elements exclusive to each set plus the intersection plus the elements outside all sets**. 
 
-This leads us to a vital [corollary](https://en.wikipedia.org/wiki/Corollary) for navigating the circles: **[subtracting](https://en.wikipedia.org/wiki/Subtraction) the intersection value from the total of a specific set yields the number of elements exclusive to the specific set.** 
-If there are 30 Band members total, and 10 of them are also in Choir, then $30 - 10 = 20$. There are exactly 20 students who are in *only* Band.
+## Constructing the Map: Solving [Word Problems](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29)
 
----
+When sitting for the Praxis Core, you will frequently be handed a paragraph of overlapping statistics and tasked with finding a missing [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29). The secret to unraveling these problems is [counter-intuitive](https://en.wikipedia.org/wiki/Counterintuitive): you do not read from left to right; you map from the inside out.
 
-## How to Actually Solve a Problem: The "Inside-Out" Method
+**Solving a Venn diagram word problem begins by placing the innermost intersection value first.**
 
-When you are staring down a blank Venn diagram, where do you begin? Do you start with the totals? Do you start with the people on the outside? 
+Once the center is anchored, you can systematically work outward, subtracting that central value from the broader category totals to find the exclusive (set difference) regions, and finally computing the complement outside the circles.
 
-No. Nature loves a [center of gravity](https://en.wikipedia.org/wiki/Center_of_mass), and so do Venn diagrams. 
+### [Praxis](https://en.wikipedia.org/wiki/Praxis_test) Application Walkthrough
 
-**Solving a Venn diagram word problem begins by placing the innermost intersection value first.** Always work from the inside out! 
+Let us apply this rule to a standard Praxis-level scenario:
+*A survey of 100 [educators](https://en.wikipedia.org/wiki/Teacher) (the universal set) finds that 60 use [tablets](https://en.wikipedia.org/wiki/Tablet_computer) in class, 55 use [interactive whiteboards](https://en.wikipedia.org/wiki/Interactive_whiteboard), and 20 use both. How many educators use neither?*
 
-Let's look at a foundational rule that makes this work: **The total number of elements in a Venn diagram equals the sum of all distinct non-overlapping regions.** Let me say that again, because it's the master key to solving any problem: *distinct, non-overlapping regions*. 
+1.  **Map the Universe:** The universal rectangle contains 100 educators.
+2.  **Anchor the Center:** Place the 20 educators who use *both* in the overlapping intersection. 
+3.  **Compute Set Differences (The "Only" Regions):**
+    *   Tablets total 60. [Subtract](https://en.wikipedia.org/wiki/Subtraction) the intersection: $60 - 20 = 40$ educators use *only* tablets.
+    *   Whiteboards total 55. Subtract the intersection: $55 - 20 = 35$ educators use *only* whiteboards.
+4.  **Sum the Non-Overlapping Regions (The Union):** Add the exclusive tablet users, the exclusive whiteboard users, and the intersection: $40 + 35 + 20 = 95$. The union contains 95 educators.
+5.  **Compute the Complement:** Subtract the union from the universal set: $100 - 95 = 5$. There are 5 educators outside the circles who use *neither*.
 
-**The sum of all non-overlapping regions includes elements exclusive to each set plus the intersection plus the elements outside all sets.**
+### Scaling the Logic: Three-Circle Diagrams
 
-Let's walk through a concrete example.
+When variables escalate, you may encounter a **three-circle Venn diagram**, which **represents the relationships among three different sets**. 
 
-**The Problem:**
-In a group of 100 teachers (the universal set), 60 drink [Coffee](https://en.wikipedia.org/wiki/Coffee), 40 drink [Tea](https://en.wikipedia.org/wiki/Tea), and 15 drink neither. How many drink *both* Coffee and Tea?
+The fundamental principles remain identical, simply scaled in geometric complexity. You must navigate elements in exactly one set, exactly two sets, and elements shared by all. Where do you begin? By strictly following our cardinal rule: solving begins at the deepest core. **The central overlapping region of a three-circle Venn diagram represents the intersection of all three sets.** From this absolute center, you ripple outward—using subtraction to find the two-set overlaps, then the one-set exclusive regions, until the entire map is elegantly, logically complete.
 
-**The Solution (Step-by-Step):**
-1. **Draw the Universe:** Draw your rectangle (Universal Set = 100).
-2. **Draw the Sets:** Draw two overlapping circles, $C$ (Coffee) and $T$ (Tea).
-3. **Start Inside-Out:** We don't know the exact intersection (the "both"), so we place an [algebraic variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) there: $x$.
-4. **Find the Exclusives (The Differences):** 
-   * If the total Coffee circle is 60, then the "Coffee ONLY" region is $60 - x$. 
-   * If the total Tea circle is 40, then the "Tea ONLY" region is $40 - x$.
-5. **Place the Complement:** The 15 who drink neither go outside the circles, but inside the rectangle. 
-6. **Sum the Distinct Non-Overlapping Regions:** 
-   (Coffee Only) + (Both) + (Tea Only) + (Neither) = Universal Total
-   $(60 - x) + x + (40 - x) + 15 = 100$
-7. **Solve for x:**
-   $115 - x = 100$
-   $x = 15$
-
-There it is! Exactly 15 teachers drink both. We just mapped out the entire universe using simple [subtraction](https://en.wikipedia.org/wiki/Subtraction) and [addition](https://en.wikipedia.org/wiki/Addition). 
-
----
-
-## Leveling Up: The Three-Circle Venn Diagram
-
-Sometimes, two sets just aren't enough to capture the complexity of the real world. Sometimes, you need three. 
-
-**A three-circle Venn diagram represents the relationships among three different sets.** 
-Picture three hoops laid over each other to form a [triangle](https://en.wikipedia.org/wiki/Triangle) of overlap. It looks like a beautifully complex [stained-glass window](https://en.wikipedia.org/wiki/Stained_glass). But don't let it intimidate you; the rules are exactly the same! 
-
-The most critical piece of real estate in this new shape is the very center. **The central overlapping region of a three-circle Venn diagram represents the intersection of all three sets.** 
-
-![In a three-circle Venn diagram, the central region where all three circles overlap represents the intersection of all three sets.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_0000_0001.svg)
-
-When you get a word problem with three sets (e.g., students taking [Math](https://en.wikipedia.org/wiki/Mathematics), [History](https://en.wikipedia.org/wiki/History), and [Science](https://en.wikipedia.org/wiki/Science)), your strategy does not change. You still obey the prime directive: **Solving begins by placing the innermost intersection value first.** 
-1. Find the number of students taking *all three* subjects and write it directly in the dead center.
-2. Next, work outward to the two-set intersections (e.g., students taking Math and History), making sure to *subtract* the center number you already placed so you don't double count!
-3. Finally, determine the "only" regions by subtracting all inner overlaps from the set totals.
-
-### The Final Takeaway
-
-Venn diagrams aren't just shapes on a page. They are a rigorous, visual [accounting system](https://en.wikipedia.org/wiki/Accounting). Every element has its proper place, governed by the elegant rules of sets, intersections, unions, and complements. 
-
-When you sit down to take the Praxis Core exam, take a deep breath. Draw your rectangle. Draw your circles. Translate the words "and," "or," "only," and "not" into their mathematical regions. Remember the trap of double-counting, and use the [principle of inclusion-exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle). And above all else: **start from the inside out.**
-
-Now go forth and organize the universe!
+![In a three-circle Venn diagram, the innermost overlapping section represents the intersection of all three sets, serving as the starting point for mapping the diagram.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_0000_0001.svg)

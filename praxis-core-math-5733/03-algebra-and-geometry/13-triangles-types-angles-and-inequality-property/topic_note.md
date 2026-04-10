@@ -1,149 +1,122 @@
-Welcome to the fascinating world of [geometry](https://en.wikipedia.org/wiki/Geometry)! If you look at a [bridge](https://en.wikipedia.org/wiki/Bridge), a [crane](https://en.wikipedia.org/wiki/Crane_%28machine%29), or the [scaffolding](https://en.wikipedia.org/wiki/Scaffolding) outside a building, what do you see? [Triangles](https://en.wikipedia.org/wiki/Triangle). [Nature](https://en.wikipedia.org/wiki/Nature) and [engineers](https://en.wikipedia.org/wiki/Engineer) alike love triangles because they are the ultimate [rigid structure](https://en.wikipedia.org/wiki/Structural_rigidity). 
+Take three [rigid](https://en.wikipedia.org/wiki/Structural_rigidity) rods, pin them together at their ends, and you have created a structure whose shape cannot be altered without bending or breaking the rods themselves. This unique geometric rigidity makes the [triangle](https://en.wikipedia.org/wiki/Triangle) the simplest possible [polygon](https://en.wikipedia.org/wiki/Polygon), yet the foundational building block of both theoretical [geometry](https://en.wikipedia.org/wiki/Geometry) and real-world [engineering](https://en.wikipedia.org/wiki/Engineering). A triangle is a polygon with exactly three [sides](https://en.wikipedia.org/wiki/Edge_%28geometry%29) and three [interior angles](https://en.wikipedia.org/wiki/Internal_and_external_angles); it is the atomic unit of [flat space](https://en.wikipedia.org/wiki/Euclidean_plane). To understand the properties of a triangle is to understand the fundamental rules that govern [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) reality. 
 
-![Unlike a square, which can be easily skewed into a parallelogram, a triangle's shape is completely locked by its side lengths, making it an inherently rigid structure.](https://wikipedia.org/wiki/Special:Redirect/file/Structural_rigidity_basic_examples.svg)
+![Unlike a square, a triangle constructed of rigid rods cannot be skewed or deformed by external force, demonstrating its inherent structural rigidity.](https://wikipedia.org/wiki/Special:Redirect/file/Structural_rigidity_basic_examples.svg)
 
-But what *makes* a [triangle](https://en.wikipedia.org/wiki/Triangle) so special? To master this topic for your [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), we aren’t just going to memorize a list of vocabulary words. We are going to look under the hood and understand *why* triangles behave the way they do. Once you understand the rules of their construction, the [formulas](https://en.wikipedia.org/wiki/Formula) become simple common sense. 
+For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you must master not only how to identify these shapes but also how to wield the unbreakable mathematical laws that govern their existence and [proportions](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). 
 
-Let's dive in.
+## The Universal Constant of Triangles
 
-## The fundamental Nature of the Triangle
+Before we sort triangles into categories, we must establish the grand constraint that governs them all. In flat, [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry), a triangle is a closed system of angles. 
 
-At its most basic level, **a triangle is a [polygon](https://en.wikipedia.org/wiki/Polygon) with exactly three sides and three [interior angles](https://en.wikipedia.org/wiki/Internal_angle).** Because it only takes three [straight lines](https://en.wikipedia.org/wiki/Line_%28geometry%29) to enclose a [space](https://en.wikipedia.org/wiki/Space_%28mathematics%29), it is the simplest possible polygon in our [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) world. 
+> **The 180-Degree Rule:** The [sum of the interior angles](https://en.wikipedia.org/wiki/Sum_of_angles_of_a_triangle) of any [planar](https://en.wikipedia.org/wiki/Euclidean_plane) triangle is exactly $180^\circ$. 
 
-But here is where it gets interesting: the moment you connect three straight lines, you lock their interior angles into an unbreakable cosmic law. 
+Because this sum is absolute, altering one angle inherently forces a change in the others. The triangle is an exercise in strict mathematical compromise.
 
-> **The 180-Degree Rule** 
-> **The sum of the interior angles of any [planar](https://en.wikipedia.org/wiki/Euclidean_plane) triangle is exactly 180 [degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).** 
+![The three interior angles of a planar triangle can be rearranged to form a straight line, visualizing their absolute sum of 180 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Triangle_sommeangles.svg)
 
-![By rearranging the three interior angles of any triangle, they form a perfectly flat straight line, visually proving that they sum to exactly 180 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Triangle_sommeangles.svg)
+## Classification by Sides: The Symmetry of Form
 
-Think about why that’s true. A full [circle](https://en.wikipedia.org/wiki/Circle) is 360 degrees. A straight line is 180 degrees. If you stand at a corner of a triangle and walk along its edges all the way around, the [turns](https://en.wikipedia.org/wiki/Turn_%28geometry%29) you make have to logically compensate for each other to bring you back to the start. The sum of the *inside* angles you carve out will always perfectly equate to a flat line: 180 degrees. No more, no less. 
+We can classify triangles by analyzing the relative lengths of their sides. In geometry, the equality of sides dictates the [symmetry](https://en.wikipedia.org/wiki/Reflection_symmetry) of the entire shape.
 
-Because we are working with a strict budget of 180 degrees, the way a triangle "spends" its degrees defines its [shape](https://en.wikipedia.org/wiki/Shape), its personality, and its mathematical classification.
+### Scalene Triangles: Total Asymmetry
+A **[scalene triangle](https://en.wikipedia.org/wiki/Triangle)** has three sides of different lengths. Because the sides are completely unequal, the angles are pulled into [asymmetry](https://en.wikipedia.org/wiki/Asymmetry) as well. Consequently, a scalene triangle has three interior angles of different measures. 
 
----
+### Isosceles Triangles: Partial Symmetry
+An **[isosceles triangle](https://en.wikipedia.org/wiki/Isosceles_triangle)** is defined as having *at least* two sides of equal length. Nature demands symmetry; thus, if two sides are equal, the structure balances itself. The two interior angles opposite the equal sides in an isosceles triangle are equal in measure. 
 
-## Classifying Triangles: The Personality Types
+![An isosceles triangle is characterized by its bilateral symmetry, split perfectly down an axis between its two equal sides and identical base angles.](https://wikipedia.org/wiki/Special:Redirect/file/Isosceles-triangle-more.svg)
 
-We categorize triangles by looking at them through two different lenses: **Angles** and **Sides**. 
+### Equilateral Triangles: Perfect Symmetry
+An **[equilateral triangle](https://en.wikipedia.org/wiki/Equilateral_triangle)** has all three sides of equal length. Because perfect side symmetry mandates perfect angle symmetry, an equilateral triangle has three interior angles of equal measure. 
 
-### 1. Classification by Angles
+Since all three angles must be identical and must sum to $180^\circ$, the interior angles of an equilateral triangle each measure exactly $60^\circ$ ($180 \div 3 = 60$). 
 
-Remember our 180-degree budget? How we divide those 180 degrees among three angles gives us three distinct types of triangles. 
+Notice carefully the mathematical definition of an isosceles triangle: it requires *at least* two equal sides. Because an equilateral triangle possesses three equal sides, it easily meets this requirement. Therefore, every equilateral triangle is also classified as an isosceles triangle, though the reverse is not inherently true.
 
-| Triangle Type | Definition & Mathematical Constraints |
-| :--- | :--- |
-| **[Acute Triangle](https://en.wikipedia.org/wiki/Acute_and_obtuse_triangles)** | A triangle where **three interior angles each measure strictly less than 90 degrees**. The degrees are spread relatively evenly (e.g., 50°, 60°, 70°). |
-| **[Right Triangle](https://en.wikipedia.org/wiki/Right_triangle)** | A triangle with **exactly one interior angle that measures exactly 90 degrees** (a [right angle](https://en.wikipedia.org/wiki/Right_angle)). |
-| **[Obtuse Triangle](https://en.wikipedia.org/wiki/Acute_and_obtuse_triangles)**| A triangle with **exactly one interior angle that measures strictly greater than 90 degrees**. Think of it as a triangle "leaning back" in a [recliner](https://en.wikipedia.org/wiki/Recliner). |
-
-Let's pause and apply some [logical deduction](https://en.wikipedia.org/wiki/Deductive_reasoning). Could you have a triangle with *two* 90-degree angles? If you did, those two angles alone would add up to 180 degrees ($90 + 90 = 180$). You'd have zero degrees left for the third angle! The two sides would shoot up perfectly [parallel](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) and never touch. Therefore, **a valid triangle cannot have more than one right angle.** 
-
-By that exact same logic, **a valid triangle cannot have more than one obtuse angle**. If you have an angle of 100 degrees, the other two must share the remaining 80 degrees. 
-
-#### Anatomy of a Right Triangle
-Right triangles are the celebrities of geometry, so they get special terminology. 
-*   The side sitting directly opposite the 90-degree angle is called the **[hypotenuse](https://en.wikipedia.org/wiki/Hypotenuse)**.
-*   Because 90 degrees eats up half of the 180-degree budget, the other two angles have to split exactly half the budget. Therefore, **the sum of the two non-right interior angles in a right triangle is exactly 90 degrees.** 
-*   Since the 90-degree angle is guaranteed to be the largest angle in the right triangle, **the hypotenuse is always the longest side of a right triangle.**
-
-![In a right triangle, the longest side is always the hypotenuse, which is positioned directly opposite the 90-degree right angle.](https://wikipedia.org/wiki/Special:Redirect/file/Hypotenuse.svg)
-
-### 2. Classification by Sides (The Symmetry Spectrum)
-
-Now let's look at the lengths of the straight lines forming the triangle. [Symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29) dictates everything here. If sides match, their corresponding angles match.
-
-| Triangle Type | The Side Property | The Angle Property |
+| Classification | Side Lengths | Angle Measures |
 | :--- | :--- | :--- |
-| **[Scalene](https://en.wikipedia.org/wiki/Scalene_triangle)** | **Three sides of different lengths.** | Because the sides are all different, a scalene triangle has **three interior angles of different measures.** Complete [asymmetry](https://en.wikipedia.org/wiki/Asymmetry). |
-| **[Isosceles](https://en.wikipedia.org/wiki/Isosceles_triangle)** | **At least two sides of equal length.** | The beautiful symmetry: **the two interior angles opposite the equal sides in an isosceles triangle are equal in measure.** |
-| **[Equilateral](https://en.wikipedia.org/wiki/Equilateral_triangle)** | **All three sides of equal length.** | Perfect symmetry: An equilateral triangle has **three interior angles of equal measure.** |
+| **Scalene** | 3 different lengths | 3 different measures |
+| **Isosceles** | At least 2 equal lengths | 2 equal measures (opposite the equal sides) |
+| **Equilateral** | 3 equal lengths | 3 equal measures (exactly $60^\circ$ each) |
 
-Let's look closer at the **[Equilateral triangle](https://en.wikipedia.org/wiki/Equilateral_triangle)**. Since all three interior angles are equal, and they must sum to exactly 180 degrees, we simply do the math: $180 \div 3 = 60$. Thus, **the interior angles of an equilateral triangle each measure exactly 60 degrees.** 
+## Classification by Angles: The Limits of Space
 
-Here is a brilliant trap Praxis test writers love to set. Read the definition of *isosceles* again: "At least two sides of equal length." Does an equilateral triangle have at least two equal sides? Yes, it does! Therefore, **every equilateral triangle is also classified as an isosceles triangle** (but not every isosceles triangle is equilateral).
+Just as we categorize triangles by their sides, we can classify them by the size of their largest interior angle.
 
----
+### Acute Triangles
+An **[acute triangle](https://en.wikipedia.org/wiki/Acute_and_obtuse_triangles)** has three interior angles that each measure strictly less than $90^\circ$. The "sharpness" of the angles means the shape naturally leans inward. Equilateral triangles are always acute, as all their angles are exactly $60^\circ$.
 
-## The Hinge Principle: Connecting Sides and Angles
+### Right Triangles
+A **[right triangle](https://en.wikipedia.org/wiki/Right_triangle)** has exactly one interior angle that measures exactly $90^\circ$ (a [right angle](https://en.wikipedia.org/wiki/Right_angle)). 
 
-There is an elegant relationship between the sides and angles of *any* triangle. I call it the "[Hinge Principle](https://en.wikipedia.org/wiki/Hinge_theorem)." 
+Right triangles possess a unique anatomy:
+* **The [Hypotenuse](https://en.wikipedia.org/wiki/Hypotenuse):** The side opposite the $90^\circ$ angle in a right triangle is called the hypotenuse. The hypotenuse is always the longest side of a right triangle.
+* **[Complementary Angles](https://en.wikipedia.org/wiki/Complementary_angles):** Because the right angle consumes exactly $90^\circ$ of the triangle's total $180^\circ$, the remaining two angles must share the rest. Thus, the sum of the two non-right interior angles in a right triangle is exactly $90^\circ$.
 
-Imagine a door on a [hinge](https://en.wikipedia.org/wiki/Hinge). If you open the door just a tiny crack (a small angle), the distance between the edge of the door and the [doorframe](https://en.wikipedia.org/wiki/Door_frame) (the opposite side) is very small. If you swing the door wide open (a large angle), that distance becomes massive. 
+![In a right triangle, the hypotenuse sits directly opposite the 90-degree right angle and inherently represents the longest side of the shape.](https://wikipedia.org/wiki/Special:Redirect/file/Hypotenuse.svg)
 
-![The Hinge Theorem illustrates how opening the included angle between two sides of fixed lengths directly increases the length of the opposite side.](https://wikipedia.org/wiki/Special:Redirect/file/Hinge_theorem.svg)
+### Obtuse Triangles
+An **[obtuse triangle](https://en.wikipedia.org/wiki/Acute_and_obtuse_triangles)** has exactly one interior angle that measures strictly greater than $90^\circ$. The wide angle forces the triangle to "stretch" outward.
 
-Because of this physical reality, two rules apply to every single triangle in the [universe](https://en.wikipedia.org/wiki/Universe):
-1.  **In any triangle, the longest side is always positioned directly opposite the largest interior angle.**
-2.  **In any triangle, the shortest side is always positioned directly opposite the smallest interior angle.**
+### The Limits of Right and Obtuse Angles
+Why do right and obtuse triangles have *exactly one* of their namesake angles? Consider the universal $180^\circ$ limit. If a triangle had two $90^\circ$ angles, they would sum to $180^\circ$, leaving exactly $0^\circ$ for the third angle—an impossibility. Therefore, a valid triangle cannot have more than one right angle. By the exact same [logic](https://en.wikipedia.org/wiki/Logic), two obtuse angles (e.g., $91^\circ$ and $91^\circ$) would sum to $182^\circ$, breaking the universal limit. A valid triangle cannot have more than one obtuse angle.
 
-If a test question asks you to order the side lengths from shortest to longest, all you have to do is look at the angles! Order the angles from smallest to largest, and the sides opposite them will perfectly match that order.
+## The Laws of Proportion: Side-Angle Relationships
 
----
+Sides and angles are not independent actors; they are locked in a dance of [direct proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). Imagine opening a hinge: the wider you open the hinge (the angle), the farther apart the ends of the metal arms become (the opposite side). 
 
-## The Triangle Inequality Theorem: Will it "Reach"?
+This yields two universal rules for any triangle:
+1. In any triangle, the longest side is always positioned directly opposite the largest interior angle.
+2. In any triangle, the shortest side is always positioned directly opposite the smallest interior angle.
 
-This is perhaps the most important concept in structural geometry. You cannot just pick any three random lengths of [wood](https://en.wikipedia.org/wiki/Wood), nail them together, and expect them to form a triangle. 
+This is why the hypotenuse is *always* the longest side of a right triangle—it sits directly opposite the $90^\circ$ angle, which must necessarily be the largest angle in the shape.
 
-> **The [Triangle Inequality Theorem](https://en.wikipedia.org/wiki/Triangle_inequality)**
-> **The sum of the lengths of any two sides of a triangle must be strictly greater than the length of the third side.**
+## The Triangle Inequality Theorem: The Rule of Existence
 
-Why? Imagine you have two sticks: one is 2 feet long, the other is 3 feet long. You hinge them at one end. Can you connect their ends to a third stick that is 10 feet long? No! Even if you lay the 2-foot and 3-foot sticks completely flat, pointing directly at each other along the 10-foot stick, they only reach 5 feet. They will never touch. **If the sum of the lengths of the two shortest sides of a proposed triangle is less than the length of the longest side, the triangle cannot exist.**
+Not just any three random lengths can connect to form a triangle. Try to build a triangle with sticks measuring 2 [inches](https://en.wikipedia.org/wiki/Inch), 3 inches, and 10 inches. The 2-inch and 3-inch sticks, even when laid flat end-to-end, will only stretch 5 inches. They will never reach across the 10-inch gap. 
 
-What if the third stick is exactly 5 feet long? If you try to connect the 2-foot stick and the 3-foot stick to the ends of the 5-foot stick, they will only touch when they are flattened out completely. The shape loses its "triangle-ness" entirely. **If the sum of the lengths of the two shortest sides of a proposed triangle is exactly equal to the length of the longest side, the shape is a [degenerate](https://en.wikipedia.org/wiki/Degeneracy_%28mathematics%29) straight line rather than a valid triangle.**
+This brings us to one of the most frequently tested concepts on the Praxis Core: **The [Triangle Inequality Theorem](https://en.wikipedia.org/wiki/Triangle_inequality)**.
 
-![When the sum of the two shorter sides exactly equals the longest side, the shape collapses into a flat, degenerate triangle with zero enclosed area.](https://wikipedia.org/wiki/Special:Redirect/file/Degenerate_Triangles.png)
+> **The Triangle Inequality Theorem:** The sum of the lengths of any two sides of a triangle must be strictly greater than the length of the third side.
 
-Therefore, to form an actual open space, **the length of any single side of a triangle must be strictly less than the sum of the lengths of the other two sides.** 
+In an equivalent phrasing, the length of any single side of a triangle must be strictly less than the sum of the lengths of the other two sides. If you depart point $A$ to get to point $B$, walking in a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) will always be shorter than taking a detour to a third point $C$. 
 
-### The Rapid Verification Trick
-On a timed exam like the Praxis, you don't need to check all three combinations of sides. **To rapidly verify if three lengths can form a valid triangle, one only needs to confirm that the sum of the two smaller lengths is strictly greater than the largest length.**
-*   *Example:* Do sides 4, 7, and 10 make a triangle?
-*   *Check:* $4 + 7 = 11$. Is 11 strictly greater than 10? Yes. It's a valid triangle!
+![Euclid's classical geometric construction illustrates the Triangle Inequality Theorem: a direct straight path between two points is invariably shorter than an indirect route through a third point.](https://wikipedia.org/wiki/Special:Redirect/file/Euclid_triangle_inequality.svg)
 
-### Finding the "Valid Range" for a Missing Side
-Often, a test will give you two sides of a triangle (let’s say 6 and 9) and ask: *What are the possible lengths for the third side?*
+### Verifying Triangle Validity
+To rapidly verify if three lengths can form a valid triangle, one only needs to confirm that the sum of the two smaller lengths is strictly greater than the largest length. If the two smaller sides can bridge the gap of the largest side, the triangle can exist.
 
-Think of the extremes:
-*   **The Maximum Limit:** The third side must be shorter than the two sides stretched out. $6 + 9 = 15$. The third side must be *less* than 15.
-*   **The Minimum Limit:** The third side cannot be so short that the 9-side completely overshadows the 6-side. **The length of the third side of a triangle must be strictly greater than the [absolute difference](https://en.wikipedia.org/wiki/Absolute_difference) between the lengths of the other two sides.** $9 - 6 = 3$. The third side must be *greater* than 3.
+What happens if they fail this test?
+* **Failure by Deficit:** If the sum of the lengths of the two shortest sides of a proposed triangle is less than the length of the longest side, the arms cannot meet. The triangle cannot exist.
+* **Failure by Equality:** If the sum of the lengths of the two shortest sides of a proposed triangle is exactly equal to the length of the longest side, the arms meet, but only by collapsing perfectly flat against the longest side. The shape is a [degenerate](https://en.wikipedia.org/wiki/Degeneracy_%28mathematics%29) straight line rather than a valid two-dimensional triangle.
 
-> **The Missing Side Formula**
-> **Given two side lengths of a triangle, the valid range for the third side length is exclusively between the absolute difference and the sum of the two given side lengths.**
-> 
-> $\text{Difference} < x < \text{Sum}$
+![When the two shorter sides sum to exactly the length of the longest side, the shape collapses flat, creating a degenerate triangle with zero area.](https://wikipedia.org/wiki/Special:Redirect/file/Degenerate_Triangles.png)
 
-For sides 6 and 9, the third side $x$ must be: $3 < x < 15$.
+### Predicting the Third Side
+Examiners love to provide two sides of a triangle and ask you for the possible lengths of the third side. The rule bounds the third side on both the high end (it can't be too long) and the low end (it can't be too short).
 
----
+* **The Maximum:** As established, the third side must be strictly less than the sum of the other two.
+* **The Minimum:** Conversely, the length of the third side of a triangle must be strictly greater than the [absolute difference](https://en.wikipedia.org/wiki/Absolute_difference) between the lengths of the other two sides. 
 
-## Stepping Outside: The Exterior Angle Theorem
+Therefore, given two side lengths of a triangle, the valid range for the third side length is exclusively between the absolute difference and the sum of the two given side lengths. 
 
-Finally, let’s look at what happens when you draw a line right past the edge of a triangle. 
+If you are given side $a$ and side $b$, the third side $c$ must fall in this exact range:
+> **$|a - b| < c < a + b$**
 
-If you take a triangle and extend one of its sides continuously outward past a [vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29), you create an angle on the *outside* of the triangle. **An [exterior angle](https://en.wikipedia.org/wiki/Internal_and_external_angles) of a triangle is formed by extending one side of the triangle continuously outward past the vertex.**
+*Example:* If a triangle has sides of 5 and 8, the third side must be greater than $3$ ($8 - 5$) and less than $13$ ($8 + 5$). 
 
-![An exterior angle is created by extending one side of a polygon outward. In a triangle, this exterior angle is perfectly equal to the sum of the two remote interior angles.](https://wikipedia.org/wiki/Special:Redirect/file/ExternalAngles.svg)
+## Beyond the Perimeter: The Exterior Angle Theorem
 
-This creates a fascinating shortcut. 
+Our final geometric principle requires us to look outside the triangle itself. Imagine walking along one side of a triangle, reaching a [vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29), but instead of turning inward, you just keep walking straight. 
 
-Let's say our interior angles are Angle A, Angle B, and Angle C. Let's extend the side past Angle C to make an exterior angle. 
-Notice that the interior Angle C and the exterior angle sit flat on a straight line together. That means they must add up to 180 degrees. 
-But wait! We also know that the three inside angles (A + B + C) add up to 180 degrees!
+An **[exterior angle](https://en.wikipedia.org/wiki/Internal_and_external_angles)** of a triangle is formed by extending one side of the triangle continuously outward past the vertex. This creates a new angle sitting on the outside of the shape, [adjacent](https://en.wikipedia.org/wiki/Adjacent_angle) to the interior angle you just passed.
 
-If $(C + \text{Exterior}) = 180$, and $(C + A + B) = 180$, then the Exterior angle must be exactly the same as A + B! 
+![Extending one side of a triangle past a vertex creates an exterior angle, which forms a supplementary relationship with the adjacent interior angle.](https://wikipedia.org/wiki/Special:Redirect/file/ExternalAngles.svg)
 
-> **The [Exterior Angle Theorem](https://en.wikipedia.org/wiki/Exterior_angle_theorem)**
-> **The measure of an exterior angle of a triangle is equal to the sum of the measures of the two remote interior angles of that same triangle.**
+There is a brilliant, inevitable relationship between this exterior angle and the rest of the triangle. 
 
-*(Note: "Remote" simply means the two interior angles that are far away, not the one directly touching the exterior angle).* 
+> **The [Exterior Angle Theorem](https://en.wikipedia.org/wiki/Exterior_angle_theorem):** The measure of an exterior angle of a triangle is equal to the sum of the measures of the two remote interior angles of that same triangle. 
 
-If you know the two far-away inside angles, don't waste time calculating the third inside angle just to find the outside angle. Just add the two remote angles together, and you have your answer!
+Why is this necessarily true? It is a beautiful consequence of the rules we have already established. The exterior angle and its adjacent interior angle sit on a straight line, meaning they sum to $180^\circ$. Simultaneously, all three interior angles sum to $180^\circ$. Because the adjacent interior angle plays a role in both [equations](https://en.wikipedia.org/wiki/Equation), the exterior angle mathematically *must* equal the exact sum of the two interior angles located at the other ends of the triangle (the "remote" angles). 
 
----
-
-### You Are Ready
-
-Geometry is not a random collection of arbitrary rules meant to torture test-takers; it is a perfectly tuned system of [logic](https://en.wikipedia.org/wiki/Logic). 
-
-Every equilateral is isosceles. Every side relies on its opposite angle to push it open. Every longest side is bounded by the sum of its two smaller friends. Take a breath, trust the logic of the shapes, draw a quick sketch if you get stuck, and you will completely ace the triangle questions on your [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test). Good luck!
+If you master these proportional laws, inequality limits, and angular relationships, you will cease to see geometry questions as a guessing game. You will see them as absolute, predictable [mechanics](https://en.wikipedia.org/wiki/Mechanics), ready to be solved.

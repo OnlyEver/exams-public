@@ -1,128 +1,106 @@
-Have you ever stopped to think about what a [country](https://en.wikipedia.org/wiki/Country) actually *is*? 
+A [nation](https://en.wikipedia.org/wiki/Nation) is not merely a collection of borders, shared geography, or ancestral ties; it is an argument. The [United States](https://en.wikipedia.org/wiki/United_States), in particular, was engineered on a profoundly radical premise: that political power flows from the bottom up, not the top down. To understand American [civics](https://en.wikipedia.org/wiki/Civics) is to look under the hood of a functioning [republic](https://en.wikipedia.org/wiki/Republic) and examine its source code. The foundational documents—the [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence), the [Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States), and the [Gettysburg Address](https://en.wikipedia.org/wiki/Gettysburg_Address)—are not dusty relics preserved in glass cases; they are the active, living blueprints that dictate how power is distributed, how [liberties](https://en.wikipedia.org/wiki/Civil_liberties) are guarded, and how citizens interact with the [state](https://en.wikipedia.org/wiki/State_%28polity%29). 
 
-It isn’t just a patch of dirt surrounded by [imaginary lines](https://en.wikipedia.org/wiki/Border). A country—especially a [democracy](https://en.wikipedia.org/wiki/Democracy)—is an *idea*. It’s a massive, complex, ongoing experiment in [human cooperation](https://en.wikipedia.org/wiki/Cooperation). But you can't just have a few million people running around with an idea in their heads; you have to write it down. You have to build a machine, draw up a blueprint, and write an operator's manual. 
+Understanding these mechanisms requires us to explore both the architecture of the [government](https://en.wikipedia.org/wiki/Government) and the physical realities of [citizenship](https://en.wikipedia.org/wiki/Citizenship)—the exact [rights](https://en.wikipedia.org/wiki/Rights) guaranteed by the system, and the precise responsibilities required to keep that system running.
 
-As a future elementary [educator](https://en.wikipedia.org/wiki/Teacher), you are not just teaching your students [history](https://en.wikipedia.org/wiki/History). You are introducing them to the very instruction manual of the [society](https://en.wikipedia.org/wiki/Society) they live in. If we want them to keep this democratic machine running, they need to know how it was built, why it was built, and what their job is as a [citizen](https://en.wikipedia.org/wiki/Citizenship). 
+## The Architecture of Liberty: Foundational Documents
 
-Let's break down the blueprints, the updates, and the user manual of the great American experiment.
+If we view the founding of the United States as an engineering project, we can categorize its key texts by their functional purposes: the **[Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence)** is the *why*, the **[United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States)** is the *how*, and the **[Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights)** provides the *boundaries*.
 
-***
+### The Declaration of Independence: The "Why"
 
-## Part 1: The "Why" — The Declaration of Independence
+Before a new structure can be built, the old one must be demolished. **The Declaration of Independence formally severed the political ties between the [thirteen American colonies](https://en.wikipedia.org/wiki/Thirteen_Colonies) and [Great Britain](https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain).** 
 
-Imagine you are trapped in a terrible relationship where the other person makes all the rules, takes your money, and doesn't let you have a say in your own future. What do you do? You write a breakup letter. 
+Adopted by the **[Second Continental Congress](https://en.wikipedia.org/wiki/Second_Continental_Congress) on July 4, 1776**, and principally authored by **[Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)**, the Declaration is far more than a political breakup letter. It is a philosophical [manifesto](https://en.wikipedia.org/wiki/Manifesto) that completely inverted the traditional understanding of power. For millennia, the prevailing global assumption was that [kings derived their power from God](https://en.wikipedia.org/wiki/Divine_right_of_kings), and the people lived at the mercy of the king. 
 
-That is exactly what **The [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence)** is—the most famous, beautifully written breakup letter in human history. 
+![John Trumbull's 1819 painting depicts the drafting committee presenting the Declaration of Independence to the Second Continental Congress, an act that fundamentally shifted the source of political power from monarchs to the people.](https://wikipedia.org/wiki/Special:Redirect/file/Declaration_of_Independence_(1819)%2C_by_John_Trumbull.jpg)
 
-![John Trumbull's famous 1819 painting depicts the presentation of the draft of the Declaration of Independence to the Second Continental Congress in 1776.](https://wikipedia.org/wiki/Special:Redirect/file/Declaration_of_Independence_(1819)%2C_by_John_Trumbull.jpg)
+Jefferson and the Congress asserted the exact opposite:
+> **The Principle of Consent:** The Declaration establishes the principle that governments derive their power entirely from the [consent of the governed](https://en.wikipedia.org/wiki/Consent_of_the_governed).
 
-Adopted by the **[Second Continental Congress](https://en.wikipedia.org/wiki/Second_Continental_Congress) on [July 4, 1776](https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29)**, this document **formally severed the political ties between the [thirteen American colonies](https://en.wikipedia.org/wiki/Thirteen_Colonies) and [Great Britain](https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain).** But it didn't just say, "We're done." It explained *why*. 
+Furthermore, the Declaration asserts that people possess **[natural rights](https://en.wikipedia.org/wiki/Natural_rights_and_legal_rights) that cannot be surrendered or transferred by government**. It explicitly identifies **[life, liberty, and the pursuit of happiness](https://en.wikipedia.org/wiki/Life%2C_Liberty_and_the_pursuit_of_Happiness) as unalienable [human rights](https://en.wikipedia.org/wiki/Human_rights).** The government does not *grant* you these rights; you are born with them. The government's sole legitimate function is to secure them. 
 
-**[Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)**, who was the principal author of the [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence), did something incredibly radical. He didn't just complain about [taxes](https://en.wikipedia.org/wiki/Tax); he completely flipped the traditional logic of human power upside down. For centuries, the rule was: [Kings](https://en.wikipedia.org/wiki/Monarch) get [power from God](https://en.wikipedia.org/wiki/Divine_right_of_kings), and the people get whatever rights the King decides to give them. Jefferson said, *No, that's entirely backwards.*
+### The United States Constitution: The "How"
 
-![Thomas Jefferson, principal author of the Declaration of Independence, formalized the radical principle that governments derive their authority from the consent of the people rather than divine right.](https://wikipedia.org/wiki/Special:Redirect/file/Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale%2C_1800)(cropped).jpg)
+By 1787, the newly independent nation was struggling. Its first operating system, the [Articles of Confederation](https://en.wikipedia.org/wiki/Articles_of_Confederation), was a structural failure—it created a [federal government](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States) so weak it couldn't [levy taxes](https://en.wikipedia.org/wiki/Taxation_in_the_United_States), enforce laws, or hold the states together. A new blueprint was required. 
 
-> **The Great Flip:** The [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) establishes the principle that **governments derive their power entirely from the [consent of the governed](https://en.wikipedia.org/wiki/Consent_of_the_governed).** 
+**The United States Constitution was drafted during the [Constitutional Convention](https://en.wikipedia.org/wiki/Constitutional_Convention_%28United_States%29) in [Philadelphia](https://en.wikipedia.org/wiki/Philadelphia) in 1787.** Upon its subsequent [ratification](https://en.wikipedia.org/wiki/Ratification), it **officially replaced the Articles of Confederation** and **became the official framework of the United States government after ratification in 1788.**
 
-Jefferson argued that human beings are born with certain **[natural rights](https://en.wikipedia.org/wiki/Natural_rights_and_legal_rights) that cannot be surrendered or transferred by government**. The government doesn't *give* you your rights; you already have them just by being born. The government only exists because *[we the people](https://en.wikipedia.org/wiki/We_the_People)* hired it to protect those rights. 
+If the Declaration is the philosophy, the Constitution is the engineering. It **establishes the [supreme law](https://en.wikipedia.org/wiki/Supremacy_Clause) of the United States of America**. To ensure that the [tyrannical](https://en.wikipedia.org/wiki/Tyranny) power they just escaped in Britain could not take root in America, the [framers](https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States) designed a brilliant, self-regulating machine. 
 
-The Declaration famously identifies **[life, liberty, and the pursuit of happiness](https://en.wikipedia.org/wiki/Life%2C_Liberty_and_the_pursuit_of_Happiness) as unalienable [human rights](https://en.wikipedia.org/wiki/Human_rights).** "Unalienable" simply means they cannot be separated from you. If a government fails to protect these rights, the people have the right to fire that government and [build a new one](https://en.wikipedia.org/wiki/Right_of_revolution).
+They did this through two distinct mechanical features:
+1.  **[Separation of Powers](https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution):** The Constitution separates the federal government into three distinct branches: the **[legislative](https://en.wikipedia.org/wiki/United_States_Congress)** (which makes the laws), the **[executive](https://en.wikipedia.org/wiki/President_of_the_United_States)** (which enforces the laws), and the **[judicial](https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States)** (which interprets the laws).
+2.  **[Checks and Balances](https://en.wikipedia.org/wiki/Checks_and_balances):** The Constitution utilizes a system of checks and balances to prevent any single branch of government from accumulating absolute power. 
 
-***
+Think of this like a physical system in [equilibrium](https://en.wikipedia.org/wiki/Mechanical_equilibrium). The [President](https://en.wikipedia.org/wiki/President_of_the_United_States) can [veto](https://en.wikipedia.org/wiki/Veto_power_in_the_United_States) [Congress](https://en.wikipedia.org/wiki/United_States_Congress); Congress can [override](https://en.wikipedia.org/wiki/Veto_override) the veto and [impeach](https://en.wikipedia.org/wiki/Impeachment_in_the_United_States) the President; the [Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States) can declare laws passed by Congress to be [unconstitutional](https://en.wikipedia.org/wiki/Unconstitutionality). [Ambition is made to counteract ambition](https://en.wikipedia.org/wiki/Federalist_No._51).
 
-## Part 2: The "How" — The United States Constitution
+![A diagram illustrating the separation of powers and the system of checks and balances designed by the framers to prevent any single branch of government from gaining absolute control.](https://wikipedia.org/wiki/Special:Redirect/file/Separation_of_powers.png)
 
-So, you've kicked out the [King](https://en.wikipedia.org/wiki/George_III). Now what? You need a system. 
+### The Bill of Rights: The "Boundaries"
 
-At first, the newly independent Americans tried a system called the *[Articles of Confederation](https://en.wikipedia.org/wiki/Articles_of_Confederation)*. To put it mildly, it was a disaster. It was too weak, like a car with no engine. The states were completely disconnected. So, the engineers of the new nation went back to the drawing board. 
+Despite the genius of the Constitution, many early Americans were terrified that this new, stronger federal government might still infringe upon their [individual freedoms](https://en.wikipedia.org/wiki/Civil_liberties_in_the_United_States). To achieve ratification, a [compromise](https://en.wikipedia.org/wiki/Massachusetts_Compromise) was necessary.
 
-The **[United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) was drafted during the [Constitutional Convention](https://en.wikipedia.org/wiki/Constitutional_Convention_%28United_States%29) in [Philadelphia](https://en.wikipedia.org/wiki/Philadelphia) in 1787.** Upon its [ratification](https://en.wikipedia.org/wiki/Ratification_of_the_United_States_Constitution), the United States Constitution **officially replaced the [Articles of Confederation](https://en.wikipedia.org/wiki/Articles_of_Confederation).** It **became the official framework of the [United States government](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States) after ratification in 1788.**
+**The [first ten amendments](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights) to the United States Constitution are collectively called the Bill of Rights.** Ratified in **1791**, these amendments act as an impenetrable firewall around the citizen. **The Bill of Rights explicitly limits government power to protect individual liberties**—ensuring, in writing, that the government cannot restrict your [speech](https://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States), confiscate your [firearms](https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution) arbitrarily, or [search your home without a warrant](https://en.wikipedia.org/wiki/Fourth_Amendment_to_the_United_States_Constitution).
 
-If the Declaration is the poetry, the [Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) is the engineering schematic. It is the rulebook that sets up the machinery of power. More importantly, it **establishes the [supreme law](https://en.wikipedia.org/wiki/Supremacy_Clause) of the United States of America.** No law, no [president](https://en.wikipedia.org/wiki/President_of_the_United_States), and no state can override it.
+![The original United States Bill of Rights, which serves as a legal boundary protecting the civil liberties of individuals from federal overreach.](https://wikipedia.org/wiki/Special:Redirect/file/Bill_of_Rights_Pg1of1_AC.jpg)
 
-### The Genius of the Machine: Separation and Balance
-The [Founding Fathers](https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States) were terrified of a new king. They knew a fundamental law of human physics: *Power tends to concentrate, and [absolute power corrupts absolutely](https://en.wikipedia.org/wiki/John_Dalberg-Acton%2C_1st_Baron_Acton).* 
+### The Gettysburg Address: The "Redefinition"
 
-To solve this, they chopped the power up into pieces. The [United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) **separates the [federal government](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States) into the legislative, executive, and judicial branches:**
-1.  **[Legislative](https://en.wikipedia.org/wiki/Legislature) ([Congress](https://en.wikipedia.org/wiki/United_States_Congress)):** The people who *write* the laws.
-2.  **[Executive](https://en.wikipedia.org/wiki/Executive_%28government%29) ([President](https://en.wikipedia.org/wiki/President_of_the_United_States)):** The people who *enforce* the laws.
-3.  **[Judicial](https://en.wikipedia.org/wiki/Judiciary) ([Courts](https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States)):** The people who *interpret* the laws.
+Systems, no matter how brilliantly designed, eventually face catastrophic stress tests. For the United States Constitution, that test was the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War). 
 
-![A structural diagram illustrating the separation of powers within the U.S. federal government, demonstrating how the legislative, executive, and judicial branches check and balance one another.](https://wikipedia.org/wiki/Special:Redirect/file/Political_System_of_the_United_States.svg)
+![A map showing the division of Union, Confederate, and Border states during the American Civil War—the ultimate structural and moral stress test of the republic.](https://wikipedia.org/wiki/Special:Redirect/file/US_map_1864_Civil_War_divisions.svg)
 
-But chopping it up wasn't enough. They had to make sure the pieces couldn't independently grow out of control. Therefore, the [Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) **utilizes a system of [checks and balances](https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution) to prevent any single branch of government from accumulating absolute power.** The President can [veto](https://en.wikipedia.org/wiki/Veto) Congress. Congress can [impeach](https://en.wikipedia.org/wiki/Impeachment_in_the_United_States) the President. The Courts can [strike down laws](https://en.wikipedia.org/wiki/Judicial_review_in_the_United_States). It is a beautiful, intentional tug-of-war that keeps the machine stable.
+When **President [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) delivered the [Gettysburg Address](https://en.wikipedia.org/wiki/Gettysburg_Address) on November 19, 1863**, he did something remarkable. In just 272 words, he re-explained the entire purpose of the American experiment. 
 
-### The Patch Update: The Bill of Rights
-When the [Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) was first sent out to the states, people were nervous. They said, "This machine is very powerful! What's to stop it from squashing *me*?" They demanded a guarantee of their [individual freedoms](https://en.wikipedia.org/wiki/Civil_liberties_in_the_United_States).
+> **The Great Redefinition:** The Gettysburg Address redefined the American Civil War as a struggle for both national preservation and the realization of human [equality](https://en.wikipedia.org/wiki/Egalitarianism).
 
-The result was **the [Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights)**, which was **ratified in 1791**. These are simply the **[first ten amendments](https://en.wikipedia.org/wiki/List_of_amendments_to_the_United_States_Constitution) to the [United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States).** 
+Lincoln tied the struggle back to the Declaration of Independence—a nation "conceived in Liberty, and dedicated to the proposition that [all men are created equal](https://en.wikipedia.org/wiki/All_men_are_created_equal)." By doing so, he **famously characterizes [American democracy](https://en.wikipedia.org/wiki/Politics_of_the_United_States) as a [government of the people, by the people, for the people](https://en.wikipedia.org/wiki/Gettysburg_Address).** It was a reminder that the Constitution's ultimate purpose was to fulfill the moral promise of the Declaration.
 
-![The original United States Bill of Rights. These first ten amendments to the Constitution serve as a specific patch update to explicitly limit federal power and protect individual liberties.](https://wikipedia.org/wiki/Special:Redirect/file/Bill_of_Rights_Pg1of1_AC.jpg)
+---
 
-Why do we have them? Because the [Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights) **explicitly limits government power to protect [individual liberties](https://en.wikipedia.org/wiki/Civil_liberties_in_the_United_States).** It says, in plain English: *Congress, you are not allowed to touch [freedom of speech](https://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States). You are not allowed to touch [freedom of religion](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States). You are not allowed to search someone's house without a [warrant](https://en.wikipedia.org/wiki/Search_warrant).* It is a shield for the individual against the sheer weight of the government.
+## The Physics of Citizenship: Rights and Duties
 
-***
+If the Constitution is the operating system, then individuals residing in the United States are the users. But not all users have the same [administrative privileges](https://en.wikipedia.org/wiki/Privilege_%28law%29). The law draws very specific distinctions between the rights granted to *all people residing in the country* and the exclusive rights granted only to *[citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States)*. 
 
-## Part 3: The Reminder — The Gettysburg Address
+Furthermore, [Newton's third law of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion) loosely applies to civics: for every right granted, there is an equal and anchoring responsibility required to maintain the system.
 
-Imagine the democratic machine runs for about 70 years, and then... it catches fire. The [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) was the ultimate stress test of the [Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States). 
+### Rights: Residents vs. Citizens
 
-On **November 19, 1863**, standing on a blood-soaked [battlefield in Pennsylvania](https://en.wikipedia.org/wiki/Battle_of_Gettysburg), **President [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) delivered the [Gettysburg Address](https://en.wikipedia.org/wiki/Gettysburg_Address)**. He spoke for barely two minutes, but he managed to completely recalibrate the entire purpose of the nation.
+A "right" is a legal, social, or ethical principle of freedom or entitlement. 
 
-![President Abraham Lincoln (indicated by the red arrow) surrounded by citizens and soldiers at Gettysburg in 1863, shortly before delivering his address redefining the purpose of the American experiment.](https://wikipedia.org/wiki/Special:Redirect/file/Crowd_of_citizens%2C_soldiers%2C_and_etc._with_Lincoln_at_Gettysburg._-_NARA_-_529085_-crop.jpg)
+**Rights Held by ALL Individuals Residing in the U.S.**
+Regardless of citizenship status, the Constitution provides a baseline of protection to anyone on American soil. 
+*   **Freedom of Expression:** All individuals residing in the United States hold the constitutional right to [freedom of expression](https://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States). You can speak your mind, [practice your religion](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States), and publish your thoughts.
+*   **Due Process:** All individuals residing in the United States have the constitutional right to a prompt and [fair trial](https://en.wikipedia.org/wiki/Right_to_a_fair_trial) by a [jury of peers](https://en.wikipedia.org/wiki/Jury_trial). The machinery of justice applies equally to everyone within the nation's borders.
 
-Before Gettysburg, the [North](https://en.wikipedia.org/wiki/Union_%28American_Civil_War%29) was primarily fighting just to keep the map intact—to stop the country from splitting in two. But Lincoln **redefined the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) as a struggle for both national preservation and the realization of [human equality](https://en.wikipedia.org/wiki/Egalitarianism).** 
+**Rights Exclusive to United States Citizens**
+Citizenship unlocks specific democratic privileges—the tools required to steer the ship of state. These include:
+1.  **Voting:** [Voting in federal elections](https://en.wikipedia.org/wiki/Voting_rights_in_the_United_States) is an exclusive right granted to United States citizens.
+2.  **Jury Service:** Serving on a federal jury is a civic right reserved exclusively for United States citizens.
+3.  **Political Office:** Running for federal [political office](https://en.wikipedia.org/wiki/Public_office) is a right restricted to United States citizens.
+4.  **Federal Employment:** United States citizens possess the exclusive right to apply for federal employment positions that require citizenship (such as high-level security clearance roles).
 
-He reminded the country of the [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence)—that we were a nation "conceived in Liberty, and dedicated to the proposition that [all men are created equal](https://en.wikipedia.org/wiki/All_men_are_created_equal)." He essentially told the American people: *We aren't just fighting for borders anymore. We are fighting to prove that a free society can actually survive.* 
+### Duties and Responsibilities: The Cost of Maintenance
 
-It is here that Lincoln **famously characterizes [American democracy](https://en.wikipedia.org/wiki/Politics_of_the_United_States) as a "government of the people, by the people, for the people."** It's not a government *above* the people; the people *are* the engine itself. 
+A [democracy](https://en.wikipedia.org/wiki/Democracy) is not a [perpetual motion machine](https://en.wikipedia.org/wiki/Perpetual_motion); it requires continuous, active energy from its citizens to function. This energy takes the form of duties (mandatory, legally enforceable actions) and responsibilities (civic expectations that, while largely voluntary, are essential for the survival of the republic).
 
-***
+#### Mandatory Civic Duties
+These are not requests; they are the required maintenance fees of living in a [civilized society](https://en.wikipedia.org/wiki/Civilization). 
 
-## Part 4: The Operator's Manual — Citizenship
-
-If this is a "government of the people," then the people have to show up to work. Being a participant in American democracy comes with a very specific set of perks ([Rights](https://en.wikipedia.org/wiki/Rights)) and chores (Responsibilities and [Duties](https://en.wikipedia.org/wiki/Duty)). 
-
-As a teacher, you must help students understand the critical difference between the rights *everyone* gets just for standing on American soil, and the exclusive rights granted only to official [citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States).
-
-### The Perks: Rights of the People
-Let's look at how the [law](https://en.wikipedia.org/wiki/Law_of_the_United_States) views the people inside its borders. 
-
-| **Universal [Constitutional Rights](https://en.wikipedia.org/wiki/Constitutional_rights)** *(For all individuals residing in the [US](https://en.wikipedia.org/wiki/United_States))* | **Exclusive Civic Rights** *(Restricted ONLY to [United States citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States))* |
+| Duty | Description |
 | :--- | :--- |
-| **[Freedom of Expression](https://en.wikipedia.org/wiki/Freedom_of_speech):** All individuals residing in the [United States](https://en.wikipedia.org/wiki/United_States) hold the constitutional right to speak, write, and [worship freely](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) without government [censorship](https://en.wikipedia.org/wiki/Censorship_in_the_United_States). | **[Voting](https://en.wikipedia.org/wiki/Voting_rights_in_the_United_States):** Voting in [federal elections](https://en.wikipedia.org/wiki/Elections_in_the_United_States) is an exclusive right granted to [United States citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States). |
-| **Prompt and [Fair Trial](https://en.wikipedia.org/wiki/Right_to_a_fair_trial):** All individuals residing in the United States have the constitutional right to a prompt and fair trial by a [jury of peers](https://en.wikipedia.org/wiki/Jury_trial). The law protects everyone equally. | **Serving on a Federal Jury:** This is a civic right reserved exclusively for [United States citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States). |
-| | **Holding Federal Office:** Running for [federal political office](https://en.wikipedia.org/wiki/Public_office) is a right restricted to [United States citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States). |
-| | **[Federal Employment](https://en.wikipedia.org/wiki/United_States_federal_civil_service):** [United States citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States) possess the exclusive right to apply for federal employment positions that require citizenship (like certain [military](https://en.wikipedia.org/wiki/United_States_Armed_Forces), [intelligence](https://en.wikipedia.org/wiki/United_States_Intelligence_Community), or high-level government roles). |
+| **Obey Laws** | United States citizens hold a mandatory civic duty to obey all federal, state, and [local laws](https://en.wikipedia.org/wiki/Local_ordinance). Without this, the system collapses into [anarchy](https://en.wikipedia.org/wiki/Anarchy). |
+| **Pay Taxes** | United States citizens hold a mandatory civic duty to [pay taxes](https://en.wikipedia.org/wiki/Taxation_in_the_United_States) accurately and on time to government authorities. This funds the [infrastructure](https://en.wikipedia.org/wiki/Infrastructure), defense, and services of the nation. |
+| **Serve on a Jury** | United States citizens hold a mandatory civic duty to [serve on a jury](https://en.wikipedia.org/wiki/Jury_duty) when officially summoned by a court. You cannot guarantee a "fair trial by a jury of peers" if the peers refuse to show up. |
+| **Selective Service** | **Male United States citizens between the ages of 18 and 25 must register with the [Selective Service System](https://en.wikipedia.org/wiki/Selective_Service_System).** This creates a database of individuals who could be [drafted](https://en.wikipedia.org/wiki/Conscription_in_the_United_States). **Registering fulfills a citizen's potential responsibility to defend the country during a [national emergency](https://en.wikipedia.org/wiki/National_Emergencies_Act).** |
 
-![Citizens casting ballots on Election Day. Voting in federal elections is a primary civic responsibility and an exclusive right restricted to official U.S. citizens.](https://wikipedia.org/wiki/Special:Redirect/file/Election_Day_2020_(50564518207).jpg)
+![An official United States jury summons. Serving on a jury is a mandatory civic duty that ensures the constitutional right to a fair trial by a jury of peers can actually be executed.](https://wikipedia.org/wiki/Special:Redirect/file/Jury_summons.jpg)
 
-### The Chores: Duties vs. Responsibilities
-A machine doesn't maintain itself. [Citizenship](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States) requires action. 
-We categorize these actions into two buckets: **Mandatory [Duties](https://en.wikipedia.org/wiki/Duty)** (things you *must* do, or the government will penalize you) and **Civic [Responsibilities](https://en.wikipedia.org/wiki/Social_responsibility)** (things you *should* do, because if you don't, the [democracy](https://en.wikipedia.org/wiki/Democracy) rots from the inside out).
+#### Fundamental Civic Responsibilities
+Unlike mandatory duties, you will not go to jail for failing to execute these responsibilities. However, if citizens neglect them en masse, the democratic system decays.
 
-#### Mandatory Civic Duties (The "Must-Do's")
-These are non-negotiable [legal obligations](https://en.wikipedia.org/wiki/Obligation).
-*   **Obey the Law:** [United States citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States) hold a mandatory civic duty to obey all [federal, state, and local laws](https://en.wikipedia.org/wiki/Law_of_the_United_States). Without this, we just have [anarchy](https://en.wikipedia.org/wiki/Anarchy).
-*   **Pay Taxes:** You have a mandatory civic duty to pay [taxes](https://en.wikipedia.org/wiki/Tax) accurately and on time to government authorities. This is how we buy the fuel to keep the societal engine running ([roads](https://en.wikipedia.org/wiki/Highway), [schools](https://en.wikipedia.org/wiki/Public_school), military).
-*   **Jury Duty:** You hold a mandatory civic duty to serve on a [jury](https://en.wikipedia.org/wiki/Jury) when officially [summoned by a court](https://en.wikipedia.org/wiki/Summons). Remember that right to a "trial by a jury of peers"? That only works if the *peers* actually show up to the courthouse!
+*   **Defending the Code:** United States citizens hold a fundamental civic responsibility to support and defend the United States Constitution. This means upholding its principles against both domestic and foreign threats.
+*   **Informed Participation:** You cannot direct a system you do not understand. Citizens hold a civic responsibility to stay informed about issues affecting their local and national communities. 
+*   **Active Engagement:** Once informed, action is required. United States citizens hold a civic responsibility to actively participate in the democratic process through voting. 
+*   **Social Cohesion:** Finally, citizens hold a civic responsibility to respect the rights, beliefs, and opinions of other individuals. Democracy is a loud, messy process of compromise. Respecting others' rights to express [dissenting opinions](https://en.wikipedia.org/wiki/Dissent) is the friction that polishes our collective decision-making. 
 
-![A standard U.S. jury summons. Showing up for jury duty is a non-negotiable legal obligation required to maintain the justice system's promise of a fair trial by a jury of peers.](https://wikipedia.org/wiki/Special:Redirect/file/Jury_summons.jpg)
-
-*   **Selective Service:** **Male [United States citizens](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States) between the ages of 18 and 25 must register with the [Selective Service System](https://en.wikipedia.org/wiki/Selective_Service_System).** Why? Because **registering fulfills a citizen's potential responsibility to defend the country during a [national emergency](https://en.wikipedia.org/wiki/State_of_emergency).** 
-
-#### Civic Responsibilities (The "Should-Do's")
-These won't get you thrown in [jail](https://en.wikipedia.org/wiki/Prison) if you ignore them, but a democracy simply cannot survive if the citizens abandon these habits.
-*   **Defend the Framework:** United States citizens hold a fundamental civic responsibility to **support and defend the [United States Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States).** 
-*   **Stay Informed:** You can't make good decisions if you don't know what's going on. Citizens hold a civic responsibility to **stay informed about issues affecting their local and national communities.** 
-*   **Vote:** It is a civic responsibility to **actively participate in the democratic process through [voting](https://en.wikipedia.org/wiki/Voting).** A government *by* the people requires the people to speak up at the [ballot box](https://en.wikipedia.org/wiki/Ballot_box).
-*   **Respect Others:** [Democracy](https://en.wikipedia.org/wiki/Democracy) is noisy. People will disagree. Therefore, citizens hold a civic responsibility to **respect the rights, beliefs, and opinions of other individuals.** 
-
-***
-
-### The Teacher's Takeaway
-When you stand in front of your [elementary classroom](https://en.wikipedia.org/wiki/Primary_education), don't just teach these as a list of old dates and dry vocabulary words. 
-
-Show them the narrative! Teach them that the **[Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence)** was the bold idea that we [own ourselves](https://en.wikipedia.org/wiki/Self-ownership). The **[Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States)** and **[Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights)** were the ingenious rules designed to protect that idea. The **[Gettysburg Address](https://en.wikipedia.org/wiki/Gettysburg_Address)** was the blood-soaked reminder of how fragile the idea truly is. And **[citizenship](https://en.wikipedia.org/wiki/Citizenship_of_the_United_States)**—with all its rights, duties, and responsibilities—is the daily work required to keep the grand idea alive. 
-
-You aren't just teaching [history](https://en.wikipedia.org/wiki/History). You are training the engineers of tomorrow's [democracy](https://en.wikipedia.org/wiki/Democracy). Make it count.
+When you strip away the marble monuments and the [powdered wigs](https://en.wikipedia.org/wiki/Wig), American democracy is simply an astonishingly resilient mechanism. It runs on the physics of checks and balances, derives its [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) from the consent of the governed, and requires the continuous, informed participation of its citizens to avoid [entropy](https://en.wikipedia.org/wiki/Entropy).

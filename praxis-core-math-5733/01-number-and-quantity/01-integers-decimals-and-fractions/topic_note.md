@@ -1,214 +1,160 @@
-# The Architecture of Numbers: A Praxis Core Masterclass on [Integers](https://en.wikipedia.org/wiki/Integer), [Decimals](https://en.wikipedia.org/wiki/Decimal), and [Fractions](https://en.wikipedia.org/wiki/Fraction)
+Imagine an infinitely long, perfectly flat road with a single line painted down its exact center. Every step you take forward or backward introduces the fundamental [mathematical concept](https://en.wikipedia.org/wiki/Mathematics) of [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29) and [direction](https://en.wikipedia.org/wiki/Vector_%28mathematics_and_physics%29). This is not an arbitrary abstraction; this is how we quantify [physical reality](https://en.wikipedia.org/wiki/Physics), track [financial systems](https://en.wikipedia.org/wiki/Financial_system), and measure the [universe](https://en.wikipedia.org/wiki/Universe). The rules governing [integers](https://en.wikipedia.org/wiki/Integer), [fractions](https://en.wikipedia.org/wiki/Fraction), and [decimals](https://en.wikipedia.org/wiki/Decimal) are the structural laws of this mathematical space. To master the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), we must not simply memorize [operations](https://en.wikipedia.org/wiki/Operation_%28mathematics%29); we must understand the mechanical truths of how numbers move, scale, and divide. 
 
-Hello there! Come on in. Grab a seat. Today we are going to look at something absolutely beautiful—the fundamental machinery of [numbers](https://en.wikipedia.org/wiki/Number). 
+## The Architecture of Integers
 
-Now, when you're preparing for the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), it’s remarkably easy to fall into the trap of memorizing a laundry list of arbitrary rules. "Carry the one," "flip the second fraction," "move the decimal." But [math](https://en.wikipedia.org/wiki/Mathematics) isn’t magic, and it wasn't handed down on stone tablets! These rules are [logical](https://en.wikipedia.org/wiki/Logic) tools we invented to describe [reality](https://en.wikipedia.org/wiki/Reality). If you understand *why* the rules work, you don't have to memorize them; they become obvious. 
+Before we can manipulate pieces of a whole, we must understand the [whole numbers](https://en.wikipedia.org/wiki/Natural_number) themselves. **[Integers](https://en.wikipedia.org/wiki/Integer) include all positive whole numbers, [negative whole numbers](https://en.wikipedia.org/wiki/Negative_number), and [zero](https://en.wikipedia.org/wiki/0).** Picture these on our [infinite](https://en.wikipedia.org/wiki/Infinity) road. **Zero is an integer that is [neither positive nor negative](https://en.wikipedia.org/wiki/Sign_%28mathematics%29)**; it is the [origin](https://en.wikipedia.org/wiki/Origin_%28mathematics%29), the exact center from which all other numbers radiate.
 
-In this session, we are going to tear down the engine of basic [arithmetic](https://en.wikipedia.org/wiki/Arithmetic)—**[integers](https://en.wikipedia.org/wiki/Integer), [decimals](https://en.wikipedia.org/wiki/Decimal), and [fractions](https://en.wikipedia.org/wiki/Fraction)**—see how the gears interlock, and put it all back together. By the time we're done, you won't just know the rules; you'll feel them in your bones. Let’s dive in!
+![Integers exist as discrete, equally spaced points on an infinitely long number line, radiating outward from zero in both positive and negative directions.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
 
----
+When we discuss the "size" of a [number](https://en.wikipedia.org/wiki/Number), independent of its direction, we are speaking of its [absolute value](https://en.wikipedia.org/wiki/Absolute_value). 
 
-## Part 1: Integers — The World of Debts and Assets
+> **Absolute Value** 
+> The [absolute value](https://en.wikipedia.org/wiki/Absolute_value) of an integer represents the [distance](https://en.wikipedia.org/wiki/Distance) of that specific integer from zero on a [number line](https://en.wikipedia.org/wiki/Number_line). 
 
-What is an [integer](https://en.wikipedia.org/wiki/Integer)? Simply put, **integers include all positive [whole numbers](https://en.wikipedia.org/wiki/Natural_number), negative whole numbers, and [zero](https://en.wikipedia.org/wiki/0).** No fractions, no messy decimal dust—just the solid milestones on the [number line](https://en.wikipedia.org/wiki/Number_line). 
+![Absolute value strictly measures the physical distance of a number from zero, demonstrating that both 3 and -3 share an absolute value of 3.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
 
-Right in the dead center of this line sits **[zero](https://en.wikipedia.org/wiki/0)**. Zero is a fascinating character. **Zero is an integer that is neither positive nor negative.** It’s the absolute balance point, the fulcrum of the mathematical seesaw. 
+Because distance is a [physical measurement](https://en.wikipedia.org/wiki/Measurement) of [space](https://en.wikipedia.org/wiki/Space), it is inherently positive. The absolute value of $-5$ is $5$, just as the absolute value of $5$ is $5$. They represent the exact same distance traveled from zero, merely in [opposite directions](https://en.wikipedia.org/wiki/Orientation_%28geometry%29).
 
-![Positive and negative integers arranged as discrete, equally spaced points on an infinitely long number line, radiating outward from zero.](https://wikipedia.org/wiki/Special:Redirect/file/Number-line.svg)
+### The Mechanics of Addition and Subtraction
 
-When we talk about an integer, we often want to know its sheer "size" or [magnitude](https://en.wikipedia.org/wiki/Magnitude_%28mathematics%29), regardless of whether it's positive or negative. We call this its **[absolute value](https://en.wikipedia.org/wiki/Absolute_value)**. Think of it spatially: **the absolute value of an integer represents the [distance](https://en.wikipedia.org/wiki/Distance) of that specific integer from zero on a number line.** Because distance is inherently physical, absolute value is always positive (or zero). The absolute value of $-5$ is $5$. The absolute value of $5$ is also $5$. They both sit exactly five steps away from zero.
+[Addition](https://en.wikipedia.org/wiki/Addition) is simply the act of traveling further along this number line. If you face the positive direction and walk forward, and then walk forward again, you remain in positive territory. Thus, **adding two positive integers always results in a positive [sum](https://en.wikipedia.org/wiki/Summation).** Conversely, if you face the [negative direction](https://en.wikipedia.org/wiki/Negative_number), walk forward, and then continue walking in that same negative direction, you plunge deeper into negative territory. Therefore, **adding two negative integers always results in a negative sum.**
 
-![The absolute value of an integer represents its spatial distance from zero on the number line, which is why it is always expressed as a positive quantity.](https://wikipedia.org/wiki/Special:Redirect/file/AbsoluteValueDiagram.svg)
+But what happens when the directions conflict? What if you walk $8$ steps positive, but then $5$ steps negative? You are caught in a mathematical tug-of-war. **To add integers with different [signs](https://en.wikipedia.org/wiki/Sign_%28mathematics%29), [subtract](https://en.wikipedia.org/wiki/Subtraction) the smaller absolute value from the larger absolute value.** You are finding the net difference between the two forces. **When adding integers with different signs, the final sum takes the sign of the integer with the larger absolute value.** If the negative force pulled harder (had a larger absolute value), the final position is negative. 
 
-### Adding and Subtracting Integers
+![When adding integers with different signs, the magnitudes act as opposing forces. The final sum takes the direction of the integer with the larger absolute value.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionRules.svg)
 
-Imagine you have a bank account. [Positive numbers](https://en.wikipedia.org/wiki/Positive_number) are deposits (money in your pocket), and [negative numbers](https://en.wikipedia.org/wiki/Negative_number) are debts (money you owe). 
+Every integer has a [mirror image](https://en.wikipedia.org/wiki/Reflection_%28mathematics%29) across the zero line. **The sum of any integer and the [mathematical opposite](https://en.wikipedia.org/wiki/Additive_inverse) of that exact integer is always equal to zero.** If you add $7$ and $-7$, the forces perfectly cancel out. 
 
-*   **[Adding](https://en.wikipedia.org/wiki/Addition) two positive integers always results in a positive sum.** (You make a deposit, then another deposit. Obviously, you have more money!)
-*   **Adding two negative integers always results in a negative sum.** (You take on debt, then take on more debt. You're deeper in the hole!)
+[Subtraction](https://en.wikipedia.org/wiki/Subtraction), rather than being an entirely new operation, is merely addition in disguise. **Subtracting an integer is [mathematically equivalent](https://en.wikipedia.org/wiki/Equivalence_%28mathematics%29) to adding the opposite of that integer.** To subtract $5$ is to add $-5$. To subtract $-4$ is to add positive $4$. By converting subtraction into the addition of an opposite, we unify the rules of movement on our number line.
 
-But what happens when the signs clash? What if you have a deposit and a debt? 
+### Scaling Space: Multiplication and Division
 
-> **The Clash Rule:**
-> **To add integers with different signs, [subtract](https://en.wikipedia.org/wiki/Subtraction) the smaller absolute value from the larger absolute value.**
+[Multiplication](https://en.wikipedia.org/wiki/Multiplication) is the act of [scaling](https://en.wikipedia.org/wiki/Scalar_%28mathematics%29). When we multiply integers, the rules of signs dictate the [orientation](https://en.wikipedia.org/wiki/Orientation_%28vector_space%29) of the final result. 
+*   **Multiplying two integers with the exact same sign always results in a positive [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29).** Scaling a positive by a positive is straightforward. Interestingly, scaling a negative by a negative effectively "reverses a reversal," snapping the direction back to positive.
+*   **Multiplying two integers with different signs always results in a negative product.** If you scale a negative direction by a positive magnitude, you are simply stretching the negative distance further.
 
-Why? Because they are battling it out! The deposit cancels out some of the debt, or vice versa. The winner of this battle dictates the [sign](https://en.wikipedia.org/wiki/Sign_%28mathematics%29) of the answer. **When adding integers with different signs, the final sum takes the sign of the integer with the larger absolute value.** If your debt ($|-10| = 10$) is bigger than your deposit ($|4| = 4$), you're still in debt ($-6$). 
+Because [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) is mathematically the [inverse](https://en.wikipedia.org/wiki/Inverse_operation) of multiplication, the laws of orientation remain perfectly identical:
+*   **Dividing two integers with the exact same sign always results in a positive [quotient](https://en.wikipedia.org/wiki/Quotient).**
+*   **Dividing two integers with different signs always results in a negative quotient.**
 
-![When adding positive and negative integers, the number with the larger absolute value dictates the mathematical sign of the resulting sum.](https://wikipedia.org/wiki/Special:Redirect/file/AdditionRules.svg)
+### The Singularity of Zero
 
-Now, look at a perfect tie. **The sum of any integer and the [mathematical opposite](https://en.wikipedia.org/wiki/Additive_inverse) of that exact integer is always equal to zero.** (e.g., $7 + (-7) = 0$). The forces perfectly annihilate one another.
+Zero behaves unlike any other integer, acting as an absolute mathematical boundary. Since zero represents "nothing," scaling anything by nothing yields nothing. **The product of any integer and zero is always equal to zero.**
 
-What about [subtraction](https://en.wikipedia.org/wiki/Subtraction)? Here is a brilliant trick: subtraction is just addition wearing a fake mustache. **Subtracting an integer is mathematically equivalent to adding the opposite of that integer.** If I forgive your \$50 debt (subtracting $-50$), it’s mathematically the exact same thing as handing you \$50 (adding $+50$). 
-*   $10 - (-3)$ is fundamentally the same as $10 + 3 = 13$.
-
-### Multiplying and Dividing Integers
-
-[Multiplication](https://en.wikipedia.org/wiki/Multiplication) is just fast, repeated addition. But the signs follow a beautiful [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28mathematics%29). Here are the cardinal rules for multiplication:
-
-1.  **Multiplying two integers with the exact same sign always results in a positive [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29).** (Positive $\times$ Positive = Positive. Negative $\times$ Negative = Positive. Why? Taking away a debt is a net positive!)
-2.  **Multiplying two integers with different signs always results in a negative product.** (If you add a debt three times, you have a bigger debt. $3 \times -4 = -12$).
-
-Because [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29) is just multiplication running backward, the exact same sign rules apply!
-1.  **Dividing two integers with the exact same sign always results in a positive [quotient](https://en.wikipedia.org/wiki/Quotient).** ($-20 \div -4 = 5$).
-2.  **Dividing two integers with different signs always results in a negative quotient.** ($-20 \div 5 = -4$).
-
-### The Peculiar Case of Zero
-
-Zero behaves like a mathematical [black hole](https://en.wikipedia.org/wiki/Black_hole). 
-*   **The product of any integer and zero is always equal to zero.** Multiply anything by nothing, and you have nothing.
-*   But be warned! **Division of any non-zero integer by the number zero is mathematically [undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29).** 
-
-> 🛑 **[Feynman's](https://en.wikipedia.org/wiki/Richard_Feynman) Warning:** Why is [division by zero](https://en.wikipedia.org/wiki/Division_by_zero) undefined? Imagine dividing 10 apples into groups of zero. How many groups do you have? You could make an [infinite](https://en.wikipedia.org/wiki/Infinity) number of zero-apple groups and never use up your 10 apples! The universe’s logic simply breaks down. Never divide by zero.
-
-![Because dividing by zero produces an undefined mathematical state, calculators will halt operations and return an error rather than attempting to calculate an impossible quotient.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
+Division, however, reveals a structural limit of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic). Division asks: *If I have $X$ items, how many groups of $Y$ can I form?* If you attempt to [divide $5$ by $0$](https://en.wikipedia.org/wiki/Division_by_zero), you are asking, *How many groups of zero can I form from 5?* The answer is [logically impossible](https://en.wikipedia.org/wiki/Logical_impossibility). Therefore, **division of any non-zero integer by the number zero is [mathematically undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29).**
 
 ---
 
-## Part 2: Fractions — Slicing Up the Universe
+## Slicing the Universe: The Logic of Fractions
 
-Now, integers are great for counting whole apples. But [nature](https://en.wikipedia.org/wiki/Nature) isn't always so neat. Sometimes you have half an apple. To express these fragments, we use fractions. **A mathematical [fraction](https://en.wikipedia.org/wiki/Fraction) explicitly represents a part of a whole quantity.**
+If integers are the milestones on our infinite road, fractions are the microscopic space *between* the milestones. **A mathematical fraction explicitly represents a part of a whole [quantity](https://en.wikipedia.org/wiki/Quantity).**
 
 ### The Anatomy of a Fraction
-Every fraction has two critical components:
-1.  **The Numerator:** This is **the top number of a mathematical fraction.** What does it do? **The [numerator](https://en.wikipedia.org/wiki/Fraction) of a fraction represents the specific number of parts being considered in a problem.**
-2.  **The Denominator:** This is **the bottom number of a mathematical fraction.** And what’s its job? **The [denominator](https://en.wikipedia.org/wiki/Fraction) of a fraction represents the total number of equal parts that make up a whole entity.**
 
-If you have $\frac{3}{8}$ of a pizza, the denominator ($8$) tells you the pizza was sliced into eight equal pieces. The numerator ($3$) tells you that you get to eat three of them. 
+To describe a part of a whole, we require two distinct pieces of information: the size of the slices, and the number of slices we possess. 
+*   **The [numerator](https://en.wikipedia.org/wiki/Numerator) is the top number of a mathematical fraction.** What does it do? **The numerator of a fraction represents the specific number of parts being considered in a problem.**
+*   **The [denominator](https://en.wikipedia.org/wiki/Denominator) is the bottom number of a mathematical fraction.** **The denominator of a fraction represents the total number of equal parts that make up a whole entity.**
 
-![A visual representation of fractions: the denominator indicates the total number of equal slices the whole is divided into, while the numerator indicates how many of those slices are present.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
+![A visual representation of a fraction. The denominator represents the total number of equal parts (four), while the numerator represents the specific parts being considered (one).](https://wikipedia.org/wiki/Special:Redirect/file/Cake_quarters.svg)
 
-And remember our black hole? **A fraction possessing a zero in the denominator position is mathematically undefined.** You cannot have a pizza sliced into zero total pieces!
+Because the denominator dictates the total parts constituting a whole, what happens if we claim a whole is made of zero parts? The concept collapses. Just as with whole numbers, **a fraction possessing a zero in the denominator position is mathematically undefined.**
 
-### Adding and Subtracting Fractions (Finding Common Ground)
+### Forms and Conversions
 
-If I give you 2 thirds of a pie, and then 1 quarter of a pie, how much pie do you have? You can't just say "3 somethings." The pieces are entirely different sizes! 
+Fractions can manifest in three primary structural forms:
+1.  **[Proper Fraction](https://en.wikipedia.org/wiki/Fraction):** **A proper fraction has a numerator that is [strictly less than](https://en.wikipedia.org/wiki/Inequality_%28mathematics%29) the denominator** (e.g., $3/4$). It represents a value strictly between zero and one.
+2.  **[Improper Fraction](https://en.wikipedia.org/wiki/Fraction):** **An improper fraction has a numerator that is mathematically [greater than or equal to](https://en.wikipedia.org/wiki/Inequality_%28mathematics%29) the denominator** (e.g., $7/4$). It represents a value equal to or greater than one whole.
+3.  **[Mixed Number](https://en.wikipedia.org/wiki/Fraction):** **A mixed number consists of a whole number combined with a proper fraction** (e.g., $1 \frac{3}{4}$).
 
-Therefore:
-*   **Adding mathematical fractions requires all involved fractions to possess a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator).**
-*   **Subtracting mathematical fractions requires all involved fractions to possess a common denominator.**
+In [algebra](https://en.wikipedia.org/wiki/Algebra), improper fractions are highly efficient, but mixed numbers are easier to visualize in reality. You must fluidly convert between them. 
+*   **To convert a mixed number to an improper fraction, multiply the whole number by the denominator and add the numerator.** If you have $2 \frac{1}{3}$, you multiply $2 \times 3 = 6$ (converting the two wholes into thirds), and add the existing $1$ third, resulting in $7/3$.
+*   **To convert an improper fraction to a mixed number, divide the numerator by the denominator to determine the whole number portion.** For $7/3$, $3$ fits into $7$ exactly $2$ whole times. 
+*   **When converting an improper fraction to a mixed number, the mathematical [remainder](https://en.wikipedia.org/wiki/Remainder) from the division step becomes the new numerator.** The remainder of $1$ means $1$ third is left over, taking us back to $2 \frac{1}{3}$.
 
-You have to slice the pieces so they are the same size before you can combine them. How? By finding the [least common multiple](https://en.wikipedia.org/wiki/Least_common_multiple). **The least common multiple of two denominators serves as the [lowest common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) for fraction addition.** For $3$ and $4$, the lowest common denominator is $12$.
+### The Illusion of Form: Equivalent Fractions
 
-![To combine fractions of different sizes, such as halves and quarters, they must first be converted into a common denominator so the quantities can be accurately added.](https://wikipedia.org/wiki/Special:Redirect/file/Cake_fractions.svg)
+Consider a pizza. Cutting it into $4$ slices and eating $2$ leaves you with the exact same amount of food as cutting it into $8$ slices and eating $4$. **[Equivalent fractions](https://en.wikipedia.org/wiki/Equivalent_fractions) are structurally different numerical fractions that represent the exact same underlying mathematical value.**
 
-Once your slices are the same size, the rule is brilliantly simple:
-*   **To add fractions sharing a common denominator, calculate the [sum](https://en.wikipedia.org/wiki/Addition) of the numerators and keep the original denominator exactly the same.** 
-*   **To subtract fractions sharing a common denominator, calculate the [difference](https://en.wikipedia.org/wiki/Subtraction) of the numerators and keep the original denominator exactly the same.**
+We manipulate these structures through multiplication and division. **Multiplying both the numerator and denominator of a fraction by the exact same non-zero number generates a valid equivalent fraction.** You are effectively multiplying the fraction by $1$ (e.g., $2/2$ or $5/5$), changing its appearance but not its mass.
 
-> **Example:** $\frac{5}{12} + \frac{2}{12} = \frac{7}{12}$. We don't add the bottoms. The $12$ just tells us the *size* of the slice. The numerators tell us *how many* slices we have.
+Conversely, we condense fractions to their most elegant state through simplification. **Simplifying a fraction involves dividing both the numerator and the denominator by the [greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of the two numbers.** 
 
-### Multiplying and Dividing Fractions
+### Adding and Subtracting: The Necessity of Common Ground
 
-Multiplying fractions is surprisingly much easier than adding them! You don't need common denominators at all. 
-*   **Multiplying fractions requires multiplying the numerators together to calculate the new numerator.**
-*   **Multiplying fractions requires multiplying the denominators together to calculate the new denominator.**
-That’s it! Straight across. $\frac{2}{3} \times \frac{4}{5} = \frac{8}{15}$.
+You cannot directly add thirds to fifths any more than you can add [dollars](https://en.wikipedia.org/wiki/United_States_dollar) to [yen](https://en.wikipedia.org/wiki/Japanese_yen) without an [exchange rate](https://en.wikipedia.org/wiki/Exchange_rate). **Adding mathematical fractions requires all involved fractions to possess a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator).** Likewise, **subtracting mathematical fractions requires all involved fractions to possess a common denominator.**
 
-For division, we need a special tool called a reciprocal. **The [reciprocal](https://en.wikipedia.org/wiki/Multiplicative_inverse) of a fraction is created by directly swapping the numerator position with the denominator position.** The reciprocal of $\frac{3}{4}$ is $\frac{4}{3}$. 
+To find this shared language, we look to [multiples](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29). **The [least common multiple](https://en.wikipedia.org/wiki/Least_common_multiple) of two denominators serves as the [lowest common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) for fraction addition.** 
 
-Here is a delightful mathematical [truth](https://en.wikipedia.org/wiki/Truth): **The product of any non-zero fraction and the exact reciprocal of that fraction is always equal to [one](https://en.wikipedia.org/wiki/1).** ($\frac{3}{4} \times \frac{4}{3} = \frac{12}{12} = 1$). 
+![Adding fractions with different denominators requires physically or conceptually subdividing them into a shared lowest common denominator before their numerators can be combined.](https://wikipedia.org/wiki/Special:Redirect/file/Fraction_addition_example.svg)
 
-How do we divide fractions? We use the reciprocal!
-*   **Dividing a first fraction by a second fraction requires multiplying the first fraction by the reciprocal of the second fraction.** (You might know this as "keep, change, flip.")
+Once equivalence is established, the operation is remarkably simple:
+*   **To add fractions sharing a common denominator, calculate the sum of the numerators and keep the original denominator exactly the same.** You are merely counting how many slices of that specific size you have.
+*   **To subtract fractions sharing a common denominator, calculate the difference of the numerators and keep the original denominator exactly the same.**
 
-### Mixed Numbers and Improper Fractions
+### Multiplying and Dividing: Operations of Scale
 
-Sometimes we have more than a single whole. 
-*   **A [proper fraction](https://en.wikipedia.org/wiki/Fraction) has a numerator that is strictly less than the denominator.** (Like $\frac{3}{4}$). It's less than one whole.
-*   **An [improper fraction](https://en.wikipedia.org/wiki/Fraction) has a numerator that is mathematically greater than or equal to the denominator.** (Like $\frac{11}{4}$). It represents one whole or more.
-*   **A [mixed number](https://en.wikipedia.org/wiki/Mixed_numeral) consists of a whole number combined with a proper fraction.** (Like $2 \frac{3}{4}$). 
+Unlike addition, multiplication does not require common denominators. You are finding a part of a part. 
+*   **Multiplying fractions requires multiplying the numerators together to calculate the new numerator.** 
+*   **Multiplying fractions requires multiplying the denominators together to calculate the new denominator.** 
+If you want half of a third ($1/2 \times 1/3$), you multiply across to find it is one-sixth ($1/6$).
 
-How do we translate between the two? 
+Division requires a clever conceptual shift involving [reciprocals](https://en.wikipedia.org/wiki/Multiplicative_inverse). 
+> **Reciprocal**
+> **The [reciprocal](https://en.wikipedia.org/wiki/Multiplicative_inverse) of a fraction is created by directly swapping the numerator position with the denominator position.** 
 
-**Mixed to Improper:** 
-**To convert a mixed number to an improper fraction, multiply the whole number by the denominator and add the numerator.** 
-Think of $2 \frac{3}{4}$. The whole number $2$ means you have two whole pizzas, each cut into 4 slices. $2 \times 4 = 8$ slices. Add the 3 extra slices, and you have $\frac{11}{4}$. 
+A fascinating property of [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28mathematics%29) emerges here: **The product of any non-zero fraction and the exact reciprocal of that fraction is always equal to [one](https://en.wikipedia.org/wiki/1).** (e.g., $3/4 \times 4/3 = 12/12 = 1$).
 
-**Improper to Mixed:**
-**To convert an improper fraction to a mixed number, divide the numerator by the denominator to determine the whole number portion.** 
-If you have 11 slices, and a whole pizza is 4 slices, $11 \div 4 = 2$ whole pizzas, with some left over. What happens to the leftovers? **When converting an improper fraction to a mixed number, the mathematical [remainder](https://en.wikipedia.org/wiki/Remainder) from the division step becomes the new numerator.** You had 3 slices left, so it's $2 \frac{3}{4}$.
-
-### The Art of Equivalency and Simplification
-
-Numbers can wear disguises. **[Equivalent fractions](https://en.wikipedia.org/wiki/Fraction) are structurally different numerical fractions that represent the exact same underlying mathematical value.** $\frac{1}{2}$ is exactly the same amount of pizza as $\frac{4}{8}$. 
-
-How do we create these disguises? **Multiplying both the numerator and denominator of a fraction by the exact same non-zero number generates a valid equivalent fraction.** You’re essentially multiplying the fraction by $1$ (like $\frac{4}{4}$), which doesn't change its underlying value, only its appearance.
-
-To unmask a fraction, we simplify it. **Simplifying a fraction involves dividing both the numerator and the denominator by the [greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of the two numbers.** If you have $\frac{12}{16}$, both share a greatest common factor of $4$. Divide top and bottom by $4$, and you uncover the simplest form: $\frac{3}{4}$.
+To divide by a fraction is to ask how many times that fraction fits into another value. We solve this by leveraging the reciprocal. **Dividing a first fraction by a second fraction requires multiplying the first fraction by the reciprocal of the second fraction.** To calculate $1/2 \div 1/4$, you flip the second fraction and multiply: $1/2 \times 4/1 = 4/2 = 2$. Two quarters fit perfectly into one half.
 
 ---
 
-## Part 3: Decimals — Fractions in Disguise
+## Decimals: Fractions in Base-10 Disguise
 
-Here is a secret that clarifies everything: decimals aren't really a new kind of number. **Decimals represent fractions with denominators that are explicit [powers of ten](https://en.wikipedia.org/wiki/Power_of_10).** They are just fractions wearing a sleek, modern suit!
+Our entire [numeric system](https://en.wikipedia.org/wiki/Numeral_system) is built on [powers of ten](https://en.wikipedia.org/wiki/Power_of_10). Therefore, it is highly efficient to express fractions using this built-in architecture. **[Decimals](https://en.wikipedia.org/wiki/Decimal) represent fractions with denominators that are explicit powers of ten.** When you write $0.3$, you are structurally writing $3/10$.
 
-Instead of writing $\frac{7}{10}$, we write $0.7$. It’s a shortcut for our [base-10 number system](https://en.wikipedia.org/wiki/Decimal).
+### The Anatomy of the Decimal Place
 
-Let's look at the geography to the right of the [decimal point](https://en.wikipedia.org/wiki/Decimal_separator):
-*   **The first [place value](https://en.wikipedia.org/wiki/Positional_notation) directly to the right of a decimal point is called the tenths place.** ($\frac{1}{10}$)
-*   **The second place value directly to the right of a decimal point is called the hundredths place.** ($\frac{1}{100}$)
-*   **The third place value directly to the right of a decimal point is called the thousandths place.** ($\frac{1}{1000}$)
+The [decimal point](https://en.wikipedia.org/wiki/Decimal_separator) is the boundary line separating whole integers from fractional pieces. The geography to its right is strictly regimented:
+1.  **The first [place value](https://en.wikipedia.org/wiki/Positional_notation) directly to the right of a decimal point is called the tenths place.** ($1/10$)
+2.  **The second place value directly to the right of a decimal point is called the hundredths place.** ($1/100$)
+3.  **The third place value directly to the right of a decimal point is called the thousandths place.** ($1/1000$)
 
-![The anatomy of a decimal number, demonstrating how each place value to the right of the decimal point represents an explicitly decreasing power of ten.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
+![The decimal point acts as a firm boundary separating whole numbers from fractional pieces, with each place value to the right representing a strictly decreasing power of ten.](https://wikipedia.org/wiki/Special:Redirect/file/Decimal_digit.png)
 
-### Adding and Subtracting Decimals
+Because we dictate value by place, blank space implies nothingness. **[Trailing zeros](https://en.wikipedia.org/wiki/Trailing_zero) can be appended to the right end of a decimal number without altering the mathematical value of the number.** Writing $0.5$ is mathematically identical to writing $0.500$; five tenths is exactly equal to five hundred thousandths.
 
-Because decimals are just fractions, we still have to obey the fraction rule: *you can only combine parts of the same size.* You can't add tenths directly to thousandths. 
+### Operating on Decimals
 
-How do we ensure the sizes match? We line them up! 
-*   **Adding decimals requires aligning the decimal points vertically before adding the corresponding digits.**
+The physical alignment of numbers dictates their interaction. 
+
+**Adding and Subtracting**
+Because you can only add tenths to tenths and hundredths to hundredths, vertical alignment is an absolute non-negotiable law.
+*   **Adding decimals requires aligning the decimal points vertically before adding the corresponding [digits](https://en.wikipedia.org/wiki/Numerical_digit).**
 *   **Subtracting decimals requires aligning the decimal points vertically before subtracting the corresponding digits.**
+If you fail to align the decimal points, you will mistakenly add wholes to hundredths, causing catastrophic mathematical collapse.
 
-Aligning the decimal point forces the tenths to line up with the tenths, and the hundredths to line up with the hundredths. 
+**Multiplying**
+Multiplication bypasses the need for vertical alignment by treating the numbers as integers, then accounting for the scale at the very end. 
+*   **To multiply decimals, calculate the product of the numeric values exactly as if the numbers were whole numbers.** Ignore the decimals during the initial arithmetic step.
+*   Once you have the raw integer product, you must restore the scale. **The product of two decimals must contain a total number of decimal places equal to the sum of the decimal places in the original factors.** If you multiply $0.2$ (one decimal place) by $0.03$ (two decimal places), you multiply $2 \times 3 = 6$, and then ensure the final answer has three decimal places: $0.006$.
 
-If one number is "shorter" than another (like $3.5$ and $1.42$), don't panic. **[Trailing zeros](https://en.wikipedia.org/wiki/Trailing_zero) can be appended to the right end of a decimal number without altering the mathematical value of the number.** Writing $3.5$ as $3.50$ is exactly like turning $\frac{5}{10}$ into the equivalent fraction $\frac{50}{100}$. It just makes the subtraction visually easier!
+**Dividing**
+[Long division](https://en.wikipedia.org/wiki/Long_division) with a decimal [divisor](https://en.wikipedia.org/wiki/Divisor) is mechanically awkward. We solve this by exploiting equivalent fractions—scaling the problem up by powers of ten until the decimals vanish.
+*   **To divide a number by a decimal divisor, move the decimal point of the divisor to the right to create a whole number.** 
+*   However, to maintain the exact mathematical [ratio](https://en.wikipedia.org/wiki/Ratio), whatever you do to the divisor, you must do to the [dividend](https://en.wikipedia.org/wiki/Division_%28mathematics%29). **When converting a decimal divisor to a whole number, the decimal point of the dividend must be moved to the right by the exact same number of places.**
 
-### Multiplying and Dividing Decimals
+### The Bridge Between Formats: Conversions
 
-When multiplying, we can momentarily ignore the decimal points. 
-*   **To multiply decimals, calculate the product of the numeric values exactly as if the numbers were whole numbers.** 
+Fractions and decimals are two different languages describing the exact same mathematical quantities. Fluency requires translating seamlessly between them.
 
-But wait, we changed the size of the numbers! We have to put the decimal point back into the answer to restore the cosmic balance. 
-*   **The product of two decimals must contain a total number of decimal places equal to the sum of the decimal places in the original factors.**
+**Fraction to Decimal**
+Remember that a fraction bar is literally a [division symbol](https://en.wikipedia.org/wiki/Division_sign). **To convert a mathematical fraction to a decimal value, divide the numerator by the denominator.** For $3/4$, you execute $3 \div 4 = 0.75$.
 
-> **Example:** $0.2 \times 0.03$. 
-> Step 1: Treat as whole numbers: $2 \times 3 = 6$.
-> Step 2: Count decimal places. ($0.2$ has 1 place. $0.03$ has 2 places. $1 + 2 = 3$ total places).
-> Step 3: Put the decimal back. The answer must have 3 decimal places: $0.006$.
+**Decimal to Fraction**
+If the decimal naturally stops (does not repeat infinitely), it is trivial to convert back. **To convert a [terminating decimal](https://en.wikipedia.org/wiki/Decimal) into a fraction, place the entire decimal digit sequence over the corresponding power of ten and simplify the result.** 
+For example, to convert $0.45$:
+1. Read the place value. It terminates in the hundredths place.
+2. Place the sequence $45$ over $100$ (producing $45/100$).
+3. Divide both numerator and denominator by their [greatest common factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) ($5$) to simplify to $9/20$.
 
-Division requires a slightly different trick. We despise dividing by decimals—it's visually confusing. So, we change the problem.
-*   **To divide a number by a decimal [divisor](https://en.wikipedia.org/wiki/Divisor), move the decimal point of the divisor to the right to create a whole number.**
-*   However, to keep the [ratio](https://en.wikipedia.org/wiki/Ratio) identical, **when converting a decimal divisor to a whole number, the decimal point of the [dividend](https://en.wikipedia.org/wiki/Division_%28mathematics%29) must be moved to the right by the exact same number of places.**
-
-If you are dividing $1.25$ by $0.5$, move the decimal in $0.5$ one spot to the right to make it $5$. Do the same to the $1.25$, making it $12.5$. Now, divide $12.5$ by $5$ just like standard division. The result, $2.5$, is the exact same!
-
-### Bridging the Gap: Decimals to Fractions and Back
-
-Since decimals and fractions are the same concepts wearing different outfits, we must know how to change their clothes.
-
-**Fractions to Decimals:**
-A fraction bar is literally a division sign! **To convert a mathematical fraction to a decimal value, divide the numerator by the denominator.** For $\frac{3}{4}$, you simply calculate $3 \div 4$, which gives you $0.75$.
-
-**Decimals to Fractions:**
-Let's reverse the process. **To convert a [terminating decimal](https://en.wikipedia.org/wiki/Decimal_representation) into a fraction, place the entire decimal digit sequence over the corresponding power of ten and simplify the result.** 
-
-Look at $0.45$. Read it mathematically: "Forty-five hundredths." 
-1. Place the sequence ($45$) over the corresponding power of ten ($100$). You get $\frac{45}{100}$.
-2. Simplify the result by finding the greatest common factor (which is $5$). 
-3. Divide top and bottom by $5$, and you uncover the simplified fraction: $\frac{9}{20}$.
-
----
-
-## Summary Checklist for the Praxis Core
-
-Let's review the fundamental gears we've tuned up today:
-
-| Number Type | Crucial Rules to Remember |
-| :--- | :--- |
-| **[Integers](https://en.wikipedia.org/wiki/Integer)** | Addition/Subtraction: Different signs? Subtract smaller absolute value from larger, keep the larger's sign. Multiplication/Division: Same signs = positive, Different signs = negative. |
-| **[Fractions](https://en.wikipedia.org/wiki/Fraction)** | Add/Sub: Must have a common denominator! Mult/Div: Multiply straight across; for division, multiply by the reciprocal. Zero in the denominator is **undefined**. |
-| **[Decimals](https://en.wikipedia.org/wiki/Decimal)** | Add/Sub: Align the decimal points vertically! Mult/Div: Multiply like whole numbers, then count the total decimal places for the product. |
-
-There it is! You now have the blueprints to integers, fractions, and decimals. Mathematics isn't just about shuffling symbols on a page; it's about seeing the precise, logical relationships between [quantities](https://en.wikipedia.org/wiki/Quantity). Remember *why* you align decimals (to match denominators!), *why* adding a negative is like subtracting (it's debt!), and *why* you can't divide by zero (it breaks the universe). 
-
-Take a breath. You're ready to absolutely crush the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test).
+By mastering these rules—not merely as [rote memorization](https://en.wikipedia.org/wiki/Rote_learning), but as interconnected, logical mechanics—you gain total command over the numerical toolkit required to dismantle and solve any arithmetic problem the Praxis Core Mathematics exam will present.

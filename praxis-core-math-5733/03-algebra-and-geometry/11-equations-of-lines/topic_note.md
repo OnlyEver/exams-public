@@ -1,195 +1,94 @@
-# The Architecture of Constant Change: Mastering Equations of Lines
+A [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) drawn on a [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) is fundamentally a physical record of constant change. Whether representing the steady depletion of a rocket’s fuel tank or a constant [trajectory](https://en.wikipedia.org/wiki/Trajectory) of [light](https://en.wikipedia.org/wiki/Light) through a [vacuum](https://en.wikipedia.org/wiki/Vacuum), every straight line is governed by a strict, unchanging relationship between its vertical and horizontal movement. The [algebraic equations](https://en.wikipedia.org/wiki/Algebraic_equation) we use to capture these lines are not arbitrary strings of symbols; they are precise sets of instructions. If you know a line's starting position and its trajectory, or merely two distinct positions it passes through, you possess the necessary constraints to rebuild that line in its entirety. Our task is to translate the [geometry](https://en.wikipedia.org/wiki/Geometry) of a drawn line into the elegant [algebraic](https://en.wikipedia.org/wiki/Algebra) language of [slope-intercept](https://en.wikipedia.org/wiki/Linear_equation) and [point-slope forms](https://en.wikipedia.org/wiki/Linear_equation). 
 
-Hello there! Let’s talk about lines. Now, I know what you might be thinking. *Lines? We’ve been drawing lines since [kindergarten](https://en.wikipedia.org/wiki/Kindergarten). What more is there to say?* 
+![A straight line plotted on a Cartesian plane visually maps every valid (x, y) coordinate solution of its corresponding algebraic equation.](https://wikipedia.org/wiki/Special:Redirect/file/Graph_(y_%3D_0.5x_-_1).svg)
 
-But here is the beautiful secret of [mathematics](https://en.wikipedia.org/wiki/Mathematics): a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) isn’t just a mark on a piece of paper. A straight line is the universe’s way of visualizing **constant change**. Whether you are looking at a car driving at a steady speed, a savings account growing with [simple interest](https://en.wikipedia.org/wiki/Interest), or the steady drain of water from a tank, you are looking at a line. 
+## The Engine of the Line: Understanding Slope
 
-For your [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you aren't just expected to recognize a line; you are expected to be its architect. You need to know how to build a line from scratch, how to manipulate its structure, and how to translate it into different mathematical "languages." 
+Before constructing an equation, we must understand the engine that drives a line across the plane: its [slope](https://en.wikipedia.org/wiki/Slope). **The slope of a straight line is defined as the [ratio](https://en.wikipedia.org/wiki/Ratio) of the vertical change to the horizontal change between two distinct points on the line.** You will often hear this described as "rise over run." 
 
-Grab a cup of [coffee](https://en.wikipedia.org/wiki/Coffee). Let’s dive into the machinery of [linear equations](https://en.wikipedia.org/wiki/Linear_equation).
+When we observe any two points on a line, say $(x_1, y_1)$ and $(x_2, y_2)$, the rate at which the line ascends or descends is perfectly rigid.
 
----
+> **The Slope Formula**
+> The mathematical [formula](https://en.wikipedia.org/wiki/Formula) for the slope between two points $(x_1, y_1)$ and $(x_2, y_2)$ is:
+> $m = \frac{y_2 - y_1}{x_2 - x_1}$
 
-## 1. The Engine of the Line: Understanding Slope
+![Slope is geometrically calculated as "rise over run," representing the ratio of vertical change (Δy) to horizontal change (Δx) between any two points on the line.](https://wikipedia.org/wiki/Special:Redirect/file/Wiki_slope_in_2d.svg)
 
-Before we can build an [equation](https://en.wikipedia.org/wiki/Equation), we have to understand what makes a line unique. If you place a single dot on a [coordinate plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), an infinite number of lines can spin through it like a propeller. What locks a line into place? Its trajectory. Its steepness. Its **[slope](https://en.wikipedia.org/wiki/Slope)**.
+This ratio dictates the visual behavior of the line on the [Cartesian plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system):
+*   A [linear equation](https://en.wikipedia.org/wiki/Linear_equation) with a **positive slope** represents a line that rises from left to right on a coordinate plane. The [variables](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) grow together.
+*   A linear equation with a **negative slope** represents a line that falls from left to right on a coordinate plane. As one variable advances, the other recedes. 
 
-![A standard Cartesian coordinate system showing the horizontal x-axis and vertical y-axis. While infinite lines can pass through a single point, a specific slope locks a line into a single trajectory.](https://wikipedia.org/wiki/Special:Redirect/file/Cartesian-coordinate-system.svg)
+## The Anchor Point: Slope-Intercept Form
 
-> **The Concept of Slope**
-> **The slope of a straight line is defined as the [ratio](https://en.wikipedia.org/wiki/Ratio) of the vertical change to the horizontal change between two distinct points on the line.** 
+When we want to understand the complete behavior of a line at a single glance, we turn to its most distilled representation. **The slope-intercept form of a linear equation is written as $y = mx + b$.**
 
-Think of it like climbing a staircase. To get from one step to the next, you have to move a certain distance *up* (the vertical change, or "rise") and a certain distance *forward* (the horizontal change, or "run"). Because a line represents constant change, this ratio is identical no matter which two distinct points on the line you choose to measure.
+In the slope-intercept equation $y = mx + b$, the variables function as distinct, literal mechanisms:
+*   The variable **$m$** represents the slope of the line.
+*   The variable **$b$** represents the [y-coordinate](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) of the [y-intercept](https://en.wikipedia.org/wiki/Y-intercept).
 
-If we have two specific points, $(x_1, y_1)$ and $(x_2, y_2)$, we can find the slope using a simple, elegant [formula](https://en.wikipedia.org/wiki/Formula):
+Why is the y-intercept so critical? **The y-intercept is the exact point where a line intersects the vertical [y-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) on a coordinate plane.** Because the y-axis itself rests precisely at $x = 0$, **the [coordinates](https://en.wikipedia.org/wiki/Coordinate_system) of a y-intercept always take the form of $(0, b)$.** 
 
-> **The Slope Formula:** 
-> **$m = \frac{y_2 - y_1}{x_2 - x_1}$**
+![The y-intercept represents the exact coordinate (0, b) where a line intersects the vertical y-axis, providing an initial anchor point for the equation.](https://wikipedia.org/wiki/Special:Redirect/file/Y-intercept.svg)
 
-In this mathematical formula for the slope between two points, the $y$'s represent the vertical change (rise), and the $x$'s represent the horizontal change (run).
+Think of $b$ as your anchor point—the initial state of your system before any horizontal "time" ($x$) has passed. The $m$ is simply the gear ratio dictating how the line marches forward from that anchor.
 
-![Slope is calculated as the ratio of vertical change (the rise, or change in y) to horizontal change (the run, or change in x) between two distinct points on a line.](https://wikipedia.org/wiki/Special:Redirect/file/Wiki_slope_in_2d.svg)
+## The Snapshot of Motion: Point-Slope Form
 
-### The Four Personalities of Slope
-Slopes tell a story just by looking at their sign. We always read mathematical [graphs](https://en.wikipedia.org/wiki/Graph_of_a_function) exactly like we read a book in [English](https://en.wikipedia.org/wiki/English_language): **from left to right**. 
+While the slope-intercept form is a beautifully finished product, it is entirely dependent on knowing the exact y-intercept. But nature and geometry rarely give us the y-intercept upfront. Far more often, we observe a moving object at a random point in time and space, and we measure its [speed](https://en.wikipedia.org/wiki/Speed). 
 
-1. **Positive Slope:** **A linear equation with a positive slope represents a line that rises from left to right on a coordinate plane.** Think of climbing up a mountain. As $x$ increases, $y$ increases.
-2. **Negative Slope:** **A linear equation with a negative slope represents a line that falls from left to right on a coordinate plane.** Think of [skiing](https://en.wikipedia.org/wiki/Skiing) down a mountain. As $x$ increases, $y$ decreases.
-3. **Zero Slope:** Imagine walking on a perfectly flat floor. There is horizontal movement, but absolutely no vertical movement. Therefore, **a perfectly horizontal line has a slope of exactly zero.** 
-4. **Undefined Slope:** Now imagine stepping up to a completely sheer cliff face. You are looking at infinite vertical change but zero horizontal change. In mathematics, [dividing by zero](https://en.wikipedia.org/wiki/Division_by_zero) is logically impossible—it breaks the rules of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic). Because of this, **a perfectly vertical line has an undefined slope.**
+For this, we need a mathematical workbench. **The point-slope form of a linear equation is written as $y - y_1 = m(x - x_1)$.**
 
-![Attempting to divide by zero results in a mathematical error. Because calculating the slope of a vertical line requires division by a horizontal change of zero, its slope is mathematically undefined.](https://wikipedia.org/wiki/Special:Redirect/file/TI86_Calculator_DivByZero.jpg)
+Look closely at this equation. It is essentially the slope formula ($m = \frac{y_2 - y_1}{x_2 - x_1}$) rearranged by [multiplying](https://en.wikipedia.org/wiki/Multiplication) both sides by the [denominator](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29). 
+*   In the point-slope equation $y - y_1 = m(x - x_1)$, the variable **$m$** again represents the slope of the line.
+*   The variables **$x_1$** and **$y_1$** represent the x-coordinate and y-coordinate of a known point on the line. 
 
----
+Because of its structure, **the point-slope form is typically used as the initial algebraic setup when writing an equation based on one specific coordinate point and a given [rate of change](https://en.wikipedia.org/wiki/Rate_%28mathematics%29).** You do not need to calculate an intercept first. **[Substituting](https://en.wikipedia.org/wiki/Substitution_%28algebra%29) a known slope and the coordinates of a known point directly into the point-slope formula yields the equation of the line** immediately.
 
-## 2. The Two Great Costumes of a Line
+## Translating the Mathematics: Converting Between Forms
 
-In the world of [algebra](https://en.wikipedia.org/wiki/Algebra), we generally dress straight lines in one of two "costumes." These are the **Point-Slope Form** and the **Slope-Intercept Form**. 
+Often on the [Praxis Core](https://en.wikipedia.org/wiki/Praxis_test), you will be required to build a line using a random point and a slope, but you will be asked to present your final answer in slope-intercept form. This requires algebraic translation.
 
-Neither is inherently "better" than the other. They just serve entirely different purposes. One is the builder's workshop—where we construct the line from raw materials. The other is the finished portrait—polished, clean, and easy to read. 
+Suppose a line has a slope of $3$ and passes through the point $(4, 10)$. 
 
-Let's look at the differences before we break them down individually.
+**Step 1: Set up the point-slope form.**
+We substitute our known values into $y - y_1 = m(x - x_1)$:
+$y - 10 = 3(x - 4)$
 
-| Feature | Point-Slope Form | Slope-Intercept Form |
-| :--- | :--- | :--- |
-| **Formula** | $y - y_1 = m(x - x_1)$ | $y = mx + b$ |
-| **What it reveals** | The slope ($m$) and *any* known point $(x_1, y_1)$ | The slope ($m$) and the specific [y-intercept](https://en.wikipedia.org/wiki/Y-intercept) ($b$) |
-| **Best used for...** | Building the initial equation from raw data. | Graphing the line and finding the starting value. |
+**Step 2: Distribute the slope.**
+**Converting a linear equation from point-slope form to slope-intercept form requires [distributing](https://en.wikipedia.org/wiki/Distributive_property) the slope value across the [terms](https://en.wikipedia.org/wiki/Term_%28mathematics%29) inside the [parentheses](https://en.wikipedia.org/wiki/Bracket).** 
+$y - 10 = 3(x) - 3(4)$
+$y - 10 = 3x - 12$
 
-Let's explore how these forms work under the hood.
+**Step 3: Isolate the variable $y$.**
+**The final step in converting a linear equation from point-slope form to slope-intercept form involves algebraically isolating the variable $y$ on one side of the equation.** We do this by [adding](https://en.wikipedia.org/wiki/Addition) $10$ to both sides.
+$y = 3x - 12 + 10$
+$y = 3x - 2$
 
----
+We have successfully translated the line into slope-intercept form, revealing that this line anchors at a y-intercept of $(0, -2)$. 
 
-## 3. The Builder's Workshop: Point-Slope Form
+## An Alternative Route: Solving for the Anchor
 
-Imagine you are a detective. You know exactly two things about a suspect's trajectory: you know their current location (a single point), and you know the [speed and direction](https://en.wikipedia.org/wiki/Velocity) they are traveling (the slope). That is all you need to track them forever!
+The translation method above is standard, but mathematics frequently offers multiple paths to the same truth. **An alternative method to write a line's equation is substituting a known point and slope into the slope-intercept formula to solve algebraically for the unknown y-intercept.**
 
-This is where Point-Slope form shines. **The point-slope form is typically used as the initial algebraic setup when writing an equation based on one specific coordinate point and a given [rate of change](https://en.wikipedia.org/wiki/Derivative).**
+Let us use the same slope ($m = 3$) and point ($(4, 10)$). 
 
-> **Point-Slope Form:**
-> **$y - y_1 = m(x - x_1)$**
+Instead of starting with point-slope form, we start directly with $y = mx + b$. We know $x$, $y$, and $m$. The only mystery is $b$.
 
-If you look closely, this isn't a new equation at all! It is literally just the slope formula $m = \frac{y - y_1}{x - x_1}$ rearranged by multiplying both sides by the denominator. It is brilliant in its simplicity. 
+1.  Substitute the knowns: $10 = 3(4) + b$
+2.  Simplify the multiplication: $10 = 12 + b$
+3.  Solve algebraically for $b$: $10 - 12 = b \implies -2 = b$
 
-Let's dissect the anatomy of this equation:
-* **In the point-slope equation $y - y_1 = m(x - x_1)$, the [variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) $m$ represents the slope of the line.**
-* **In the point-slope equation $y - y_1 = m(x - x_1)$, the variables $x_1$ and $y_1$ represent the x-coordinate and y-coordinate of a known point on the line.**
+Now that we possess the secret y-intercept ($b = -2$) and the known slope ($m = 3$), we write the final equation: $y = 3x - 2$. Both paths yield the identical, undeniable geometry of the line.
 
-### How to Build a Line Using Point-Slope
-Building a line with this form is as easy as plugging batteries into a flashlight. **Substituting a known slope and the coordinates of a known point directly into the point-slope formula yields the equation of the line.**
+## The Absolutes: Horizontal and Vertical Lines
 
-**Example:**
-Let's say the Praxis exam asks you to write the equation of a line that has a slope of $3$ and passes through the point $(4, 7)$. 
-1. Identify your pieces: $m = 3$, $x_1 = 4$, and $y_1 = 7$.
-2. Substitute them into the formula.
+Our standard equations beautifully describe lines that ascend or descend. But what happens at the physical extremes—when a line is perfectly flat or perfectly upright? These edge cases break or zero out our standard slope formulas, resulting in distinct, stripped-down equations.
 
-$y - 7 = 3(x - 4)$
+| Line Orientation | Visual Behavior | Slope ($m$) | General Equation |
+| :--- | :--- | :--- | :--- |
+| **Horizontal Line** | Runs perfectly flat from left to right. | **A perfectly horizontal line has a slope of exactly [zero](https://en.wikipedia.org/wiki/0).** | **The equation of a horizontal line crossing the y-axis at the value $b$ is written simply as $y = b$.** |
+| **Vertical Line** | Runs perfectly straight up and down. | **A perfectly vertical line has an [undefined](https://en.wikipedia.org/wiki/Undefined_%28mathematics%29) slope** (because horizontal run is zero, and [division by zero](https://en.wikipedia.org/wiki/Division_by_zero) is mathematically impossible). | **The equation of a vertical line crossing the [x-axis](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) at the value $a$ is written simply as $x = a$.** |
 
-Boom! You are done. You have successfully written the equation of the line. 
+To understand this intuitively, imagine a horizontal line where every single coordinate sits exactly at a height of 5. Whether $x$ is 10, 100, or [negative](https://en.wikipedia.org/wiki/Negative_number) a million, $y$ is relentlessly 5. Thus, the equation strips away the $x$ entirely and announces: $y = 5$. 
 
----
-
-## 4. The Finished Portrait: Slope-Intercept Form
-
-While point-slope is fantastic for *building* an equation, it can look a little clunky. If I want to easily graph a line, I want to know exactly where it anchors to the grid. I want the **Slope-Intercept Form**.
-
-> **Slope-Intercept Form:**
-> **The slope-intercept form of a linear equation is written as $y = mx + b$.**
-
-This form is the rockstar of algebra. It is famous, it is beloved, and it is incredibly useful. Why? Because it tells you the two most critical visual features of the line at a single glance.
-
-* **In the slope-intercept equation $y = mx + b$, the variable $m$ represents the slope of the line.** (Just like in point-slope form!)
-* **In the slope-intercept equation $y = mx + b$, the variable $b$ represents the y-coordinate of the y-intercept.**
-
-### What exactly is the y-intercept?
-Let's make sure we are crystal clear on this. The coordinate plane has a horizontal $x$-axis and a vertical $y$-axis. **The y-intercept is the exact point where a line intersects the vertical y-axis on a coordinate plane.** 
-
-Think of the y-axis as a starting line in a race, where [time](https://en.wikipedia.org/wiki/Time) $x = 0$. Because the line is crossing the vertical axis, it hasn't moved left or right at all. Therefore, **the coordinates of a y-intercept always take the form of $(0, b)$.** If your equation is $y = 2x + 5$, your y-intercept is exactly at the coordinate $(0, 5)$. 
-
-![The y-intercept visually represents the exact coordinate where a line crosses the vertical y-axis. At this point, the x-value is always zero.](https://wikipedia.org/wiki/Special:Redirect/file/Y-intercept.svg)
-
----
-
-## 5. The Art of Translation: Converting Between Forms
-
-Often on the Praxis Core, you will be given raw data (a point and a slope) but the [multiple-choice](https://en.wikipedia.org/wiki/Multiple_choice) answers will all be written in slope-intercept form ($y = mx + b$). 
-
-This means you must become a translator. You must build the equation in point-slope form, and then mechanically convert it into slope-intercept form. It takes exactly two algebraic steps.
-
-**Converting a linear equation from point-slope form to slope-intercept form requires [distributing](https://en.wikipedia.org/wiki/Distributive_property) the slope value across the terms inside the parentheses.** Once you've done that, **the final step in converting a linear equation from point-slope form to slope-intercept form involves algebraically [isolating](https://en.wikipedia.org/wiki/Equation_solving) the variable $y$ on one side of the equation.**
-
-Let’s watch this translation in action. 
-
-**The Scenario:** Write the equation of a line with a slope of $4$ that passes through the point $(2, 10)$ in slope-intercept form.
-
-**Step 1: The Initial Setup (Point-Slope)**
-Substitute the slope and the point into the point-slope formula.
-$y - 10 = 4(x - 2)$
-
-**Step 2: Distribute the Slope**
-Multiply that $4$ by both the $x$ and the $-2$ inside the parentheses.
-$y - 10 = 4x - 8$
-
-**Step 3: Isolate $y$**
-To get $y$ completely by itself, we need to eliminate the $-10$. We do this by adding $10$ to both sides of the equation.
-$y - 10 \mathbf{+ 10} = 4x - 8 \mathbf{+ 10}$
-$y = 4x + 2$
-
-And there is your masterpiece! You successfully translated the raw data into the elegant $y = mx + b$ form. The line has a slope of $4$ and crosses the y-axis at $(0, 2)$.
-
----
-
-## 6. The "Backdoor" Method: An Alternative Route
-
-Mathematics is a rich landscape, and there is rarely only one path to a destination. What if you absolutely despise the Point-Slope formula? What if you only want to memorize $y = mx + b$? 
-
-You are in luck. **An alternative method to write a line's equation is substituting a known point and slope into the slope-intercept formula to solve algebraically for the unknown y-intercept.**
-
-Let's use the exact same scenario as before to prove this works. We have a slope of $4$ and a point $(2, 10)$. 
-
-1. Write out the slope-intercept formula: 
-   $y = mx + b$
-2. Plug in everything you know. You know $m = 4$. You also have an $x$ value ($2$) and a $y$ value ($10$) from your coordinate point. Plug them *all* in!
-   $10 = 4(2) + b$
-3. Now, we have an equation with only one unknown variable: $b$. Solve for it!
-   $10 = 8 + b$
-   $10 - 8 = b$
-   $2 = b$
-4. Now that you've found the missing y-intercept ($b = 2$), you can write the final equation by putting the $m$ and the $b$ back into the formula:
-   $y = 4x + 2$
-
-Beautiful, isn't it? Whether you use the point-slope translation or the backdoor substitution method, the mathematics remains perfectly consistent. Pick the tool that makes the most sense to your brain, and wield it with confidence.
-
----
-
-## 7. The Extremes: Horizontal and Vertical Lines
-
-Finally, let’s talk about the rule-breakers. What happens when a line loses its tilt entirely and becomes perfectly flat, or perfectly straight up and down? The equations simplify dramatically.
-
-### Horizontal Lines
-Remember we said earlier that a perfectly horizontal line has a slope of $0$? Let's see what happens when we plug a zero slope into our slope-intercept form:
-
-$y = 0x + b$
-
-What is zero times *anything*? Zero! The entire $x$ term simply vanishes into thin air, leaving us with:
-
-$y = b$
-
-This makes perfect, intuitive sense. A horizontal line means that no matter how far left or right you travel on the $x$-axis, the vertical height never, ever changes. It is a constant. Therefore, **the equation of a horizontal line crossing the y-axis at the value $b$ is written simply as $y = b$.** If a flat line crosses the y-axis at $5$, the equation is just $y = 5$. 
-
-### Vertical Lines
-Vertical lines are the true rebels. Remember, a perfectly vertical line has an *undefined* slope. Because the slope cannot be defined as a number, we cannot use $y = mx + b$ or $y - y_1 = m(x - x_1)$. The standard formulas break down!
-
-But think about the [geometry](https://en.wikipedia.org/wiki/Geometry) of a vertical line. No matter how far up or down you go on the $y$-axis, your left-to-right position never changes. The $x$ value is locked in place. 
-
-Therefore, **the equation of a vertical line crossing the x-axis at the value $a$ is written simply as $x = a$.** If a line plunges straight down through the x-axis at $3$, its equation is simply $x = 3$. 
-
----
-
-### Final Thoughts for the Praxis Core
-
-Lines are not arbitrary rules designed to torment you on a [standardized test](https://en.wikipedia.org/wiki/Standardized_test). They are a profoundly interconnected system of [logic](https://en.wikipedia.org/wiki/Logic). 
-
-When you sit down to take your Praxis Mathematics exam, don't just memorize the formulas. Visualize what they mean. Remember that $m$ is the beating heart of the line, dictating its rise and run. Remember that the Point-Slope form is your raw scaffolding, and Slope-Intercept is your polished, final structure.
-
-You now have the blueprints. Go build some lines.
+By mastering these forms—the descriptive clarity of slope-intercept, the structural utility of point-slope, and the extreme absolutes of horizontal and vertical cases—you gain the fundamental tools required to map continuous, linear change anywhere on the Cartesian plane.

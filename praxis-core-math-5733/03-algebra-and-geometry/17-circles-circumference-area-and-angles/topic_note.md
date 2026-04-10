@@ -1,138 +1,88 @@
-# The Geometry of the Perfect Curve: Mastering Circles
+Imagine driving a single wooden stake into a flat, limitless field, tying a length of taut rope to it, and walking a full rotation. The path your feet trace is the most perfect, fundamental shape in [geometry](https://en.wikipedia.org/wiki/Geometry): a **[circle](https://en.wikipedia.org/wiki/Circle)**. Fundamentally, a circle is the set of all points in a [two-dimensional plane](https://en.wikipedia.org/wiki/Euclidean_plane) that are [equidistant](https://en.wikipedia.org/wiki/Equidistant) from a single fixed center point. That simple restriction—perfect, unyielding [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29)—gives birth to a rich mathematical ecosystem. The study of circles is not merely the memorization of disconnected [formulas](https://en.wikipedia.org/wiki/Formula); it is the observation of how distances, boundaries, and internal angles lock together in flawless [proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). For the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), mastering this shape means understanding its physical anatomy, calculating its internal space, and deciphering the elegant, predictable rules governing the angles drawn within it.
 
-Hello there! Let's talk about one of the most perfectly [symmetrical](https://en.wikipedia.org/wiki/Symmetry), wildly fascinating shapes in the [mathematical universe](https://en.wikipedia.org/wiki/Mathematics): the [circle](https://en.wikipedia.org/wiki/Circle). 
+## The Anatomy of a Circle: Points, Lines, and Intersections
 
-If you want to truly master the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), you can't just [memorize formulas](https://en.wikipedia.org/wiki/Formula). You need to *feel* how a circle works. You need to understand why the rules exist. Nature loves the circle—from the ripples in a pond to the [orbits of planets](https://en.wikipedia.org/wiki/Orbit), the universe is obsessed with this shape. But what is it, really? 
+To understand a circle, we must first establish the vocabulary of its parts. Every line and segment interacting with a circle has a precise definition and a specific geometric behavior.
 
-At its mathematical core, a **[circle](https://en.wikipedia.org/wiki/Circle)** is the set of all points in a [two-dimensional plane](https://en.wikipedia.org/wiki/Plane_%28geometry%29) that are [equidistant](https://en.wikipedia.org/wiki/Equidistant) from a single fixed [center point](https://en.wikipedia.org/wiki/Centre_%28geometry%29). Think of it like this: if you hammer a peg into a flat field, tie a perfectly unstretchable rope to it, pull it taut, and walk all the way around, your footprints trace a perfect circle. Every point on that path is exactly the same distance from the peg. 
+The most critical measurement of any circle is its **[radius](https://en.wikipedia.org/wiki/Radius)**. The radius of a circle is the straight-line distance from the center point to any point on the boundary of the circle. It is the taut rope from our field analogy, dictating exactly how large the circle will be.
 
-![A basic circle defined by a center point and a constant radius, r, which ensures every point on the boundary remains equidistant from the center.](https://wikipedia.org/wiki/Special:Redirect/file/Circle_center_a_b_radius_r.svg)
+If we draw a straight line straight across the circle, through the center, we create a **[diameter](https://en.wikipedia.org/wiki/Diameter)**. By definition, the diameter of a circle is the length of a straight line segment that passes through the center point and has both endpoints on the circle. Because it is simply two radii glued end-to-end, a strict mathematical relationship exists: the length of the diameter of a circle is exactly twice the length of the radius of that same circle ($d = 2r$). Conversely, the length of the radius of a circle is exactly half the length of the diameter of that same circle ($r = \frac{d}{2}$).
 
-Let's explore the anatomy, the measurements, and the beautiful [geometry](https://en.wikipedia.org/wiki/Geometry) hidden inside this perfect curve.
+Not all lines crossing a circle pass through the center. A **[chord](https://en.wikipedia.org/wiki/Chord_%28geometry%29)** is a straight line segment whose endpoints both lie on the boundary of the circle. Think of a chord as a shortcut across a circular park; you start at the edge and end at the edge, but you do not necessarily walk through the dead center. However, if you *do* walk through the center, you take the longest possible path across the interior space. Therefore, the diameter is the longest possible chord that can be drawn within a circle.
 
----
+Lines can also interact with circles from the outside or cut completely through them:
+*   A **[secant](https://en.wikipedia.org/wiki/Secant_line)** is a straight line that passes through and intersects a circle at exactly two distinct points. While a chord is a finite *segment* trapped inside the circle, a secant is an infinite *line* that slices completely through it. 
+*   A **[tangent](https://en.wikipedia.org/wiki/Tangent)** to a circle is a straight line that touches the outside boundary of the circle at exactly one single point. If you lay a ruler flat against the side of a perfectly round coin, the ruler is a tangent. 
 
-## The Anatomy of a Circle: Lines, Segments, and Slices
+![A diagram illustrating the geometric lines associated with a circle, including the tangent, chord, and secant.](https://wikipedia.org/wiki/Special:Redirect/file/CIRCLE_LINES-en.svg)
 
-To understand a circle, you must know the names of the lines that interact with it. Let's break down the cast of characters, from the insiders to the outsiders.
+> **Crucial Geometric Property:** A tangent line is always geometrically [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) to the radius drawn to the specific point of tangency. If you connect the center of the circle to the exact point where a tangent touches the edge, the angle formed is perfectly [$90^\circ$](https://en.wikipedia.org/wiki/Right_angle).
 
-### The Insiders: Radii, Diameters, and Chords
+## The Boundary and the Space Within: Circumference and Area
 
-Everything inside a circle is governed by distance from the center.
+To measure circles, mathematicians historically faced a problem: straight-edge rulers do not naturally bend. However, early geometricians noticed a universal constant. If you take any circle—whether it is the size of a coin or the size of a galaxy—and divide its [perimeter](https://en.wikipedia.org/wiki/Perimeter) by its width across, you yield the exact same [irrational number](https://en.wikipedia.org/wiki/Irrational_number). 
 
-*   **The Radius:** The **[radius](https://en.wikipedia.org/wiki/Radius)** of a circle is the straight-line distance from the center point to any point on the boundary of the circle. This is your taut rope. It defines the entire size of the shape!
-*   **The Chord:** What if you draw a line from one side of the circle to the other, completely ignoring the center? A **[chord](https://en.wikipedia.org/wiki/Chord_%28geometry%29)** is a [straight line segment](https://en.wikipedia.org/wiki/Line_segment) whose endpoints both lie on the boundary of the circle. 
-*   **The Diameter:** Now, what happens if you draw a chord that *does* go perfectly through the center? You get the big boss. The **[diameter](https://en.wikipedia.org/wiki/Diameter)** of a circle is the length of a straight line segment that passes through the center point and has both endpoints on the circle. 
+### The Constant Pi ($\pi$)
+**[Pi](https://en.wikipedia.org/wiki/Pi)** represents the mathematical constant defined as the ratio of a circle's circumference to the circle's diameter. Because it is an irrational number, its [decimal expansion](https://en.wikipedia.org/wiki/Decimal_representation) goes on forever without repeating. For the purposes of the Praxis Core exam, two [approximations](https://en.wikipedia.org/wiki/Approximation) are required:
+1.  The mathematical constant pi is approximately equal to the decimal value **$3.14$**.
+2.  The [fraction](https://en.wikipedia.org/wiki/Fraction) **$\frac{22}{7}$** is commonly used as a working approximation for the mathematical constant pi. (This is particularly useful when calculating dimensions that are [multiples](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29) of $7$).
 
-Because of the way these are defined, the **diameter is the longest possible [chord](https://en.wikipedia.org/wiki/Chord_%28geometry%29) that can be drawn within a circle.** You cannot draw a longer straight line inside a circle without poking through the boundary!
+### Circumference
+The **[circumference](https://en.wikipedia.org/wiki/Circumference)** of a circle is the total linear perimeter or distance around the outside edge of the circle. If you were to snip the circle and lay it out into a straight line, its length is the circumference. Because $\pi = \frac{C}{d}$, we can easily rearrange this to find the total distance around the shape.
 
-There is a beautifully simple relationship between the radius and the diameter. Because the diameter stretches from edge to center, and then center to opposite edge, **the length of the [diameter](https://en.wikipedia.org/wiki/Diameter) of a circle is exactly twice the length of the [radius](https://en.wikipedia.org/wiki/Radius) of that same circle** ($d = 2r$). Flipping that logic around, **the length of the radius of a circle is exactly half the length of the diameter of that same circle** ($r = \frac{d}{2}$).
+The formula to calculate the circumference of a circle using the diameter is:
+$$C = \pi d$$
 
-![A diagram illustrating the core interior segments of a circle, including the center, radius, diameter, and a chord.](https://wikipedia.org/wiki/Special:Redirect/file/CIRCLE_LINES-en.svg)
+Because the diameter is twice the radius ($d = 2r$), we can substitute to find the formula to calculate the circumference of a circle using the radius:
+$$C = 2\pi r$$
 
-### The Outsiders and Piercers: Secants and Tangents
+![An animation demonstrating how a circle with a diameter of 1 "unrolls" to reveal a circumference exactly equal to π.](https://wikipedia.org/wiki/Special:Redirect/file/Pi-unrolled-720.gif)
 
-Now imagine lines that don't just sit politely inside the circle, but shoot across the whole plane.
+### Area
+While circumference measures the outer fence, the **[area](https://en.wikipedia.org/wiki/Area)** of a circle represents the total amount of two-dimensional space enclosed within the boundary of the circle. Think of area as the amount of grass seed required to cover the circular field. 
 
-*   **The Secant:** Think of a sword piercing straight through a shield. A **[secant](https://en.wikipedia.org/wiki/Secant_line)** is a straight line that passes through and [intersects](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) a circle at exactly two [distinct points](https://en.wikipedia.org/wiki/Point_%28geometry%29). While a *chord* is just a segment trapped inside, a *secant* is a line that travels infinitely through the circle and out the other side.
-*   **The Tangent:** This is one of the most elegant concepts in geometry. Imagine a perfectly inflated car tire resting on a flat, perfectly level asphalt road. The road doesn't cut through the tire; it just kisses the very bottom of it. A **tangent** to a circle is a straight line that touches the outside boundary of the circle at exactly one single point. 
+The formula to calculate the area of a circle using the radius is:
+$$A = \pi r^2$$
 
-> **Crucial Rule of Tangency:** 
-> A fascinating geometric reality is that a **tangent line is always geometrically [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) to the radius drawn to the specific point of tangency.** If you draw a radius from the center to that single touching point on the edge, it creates a perfect [90-degree angle](https://en.wikipedia.org/wiki/Right_angle) with the tangent line.
+![A circle's area can be conceptualized by slicing it into sectors and rearranging them into an approximate parallelogram, visually proving why the area formula involves the radius squared.](https://wikipedia.org/wiki/Special:Redirect/file/CircleArea.svg)
 
-![A tangent line grazes the outside boundary of the circle at a single point, while a secant line pierces straight through it.](https://wikipedia.org/wiki/Special:Redirect/file/Secanttangent.svg)
+> **Order of Operations Warning:** The radius must be mathematically [squared](https://en.wikipedia.org/wiki/Square_%28algebra%29) *before* multiplying by pi when calculating the area of a circle. If a circle has a radius of $3$, you must square the $3$ to get $9$, and then multiply by $\pi$ to achieve an area of $9\pi$. Squaring $\pi r$ entirely is a common, fatal error.
 
----
+## Arcs and Angles: The Geometry of Rotation
 
-## The Magic of Pi ($\pi$) and The Edges
+When dealing with circles, we must map out rotational space. By mathematical convention, a full circular rotation measures exactly **[$360$ degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29)**. 
 
-Now that we know what a circle is made of, how do we measure it? Measuring straight lines is easy, but measuring curves requires a bit of mathematical magic. That magic is a number you've likely heard of: **[Pi](https://en.wikipedia.org/wiki/Pi) ($\pi$)**.
+If we slice a circle perfectly in half using a diameter, we create a **[semicircle](https://en.wikipedia.org/wiki/Semicircle)**. A semicircle represents exactly one half of a complete circle. 
 
-For thousands of years, [mathematicians](https://en.wikipedia.org/wiki/Mathematician) noticed a spooky pattern: if you take any circle in the universe—a coin, a bicycle wheel, the [equator](https://en.wikipedia.org/wiki/Equator) of the Earth—and measure the distance around the outside, it is always a little more than three times the distance straight across. 
+The edge of any portion of a circle is called an arc. Formally, an **[arc](https://en.wikipedia.org/wiki/Circular_arc)** is a continuous, unbroken portion of the circumference of a circle. Because a full circle is $360^\circ$ and a semicircle is exactly half of that, it follows geometrically that the arc of a semicircle measures exactly **[$180$ degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29)**.
 
-Specifically, **[Pi](https://en.wikipedia.org/wiki/Pi) represents the [mathematical constant](https://en.wikipedia.org/wiki/Mathematical_constant) defined as the [ratio](https://en.wikipedia.org/wiki/Ratio) of a circle's [circumference](https://en.wikipedia.org/wiki/Circumference) to the circle's [diameter](https://en.wikipedia.org/wiki/Diameter).** 
+### Central vs. Inscribed Angles
 
-![The circumference of any circle is slightly more than three times the length of its diameter, establishing the constant ratio known as Pi.](https://wikipedia.org/wiki/Special:Redirect/file/Pi_eq_C_over_d.svg)
+Imagine standing in a circular theater. The stage takes up a certain curved portion of the wall—an arc. The angle at which you view the stage changes drastically depending on where you stand in the room. This concept illustrates the difference between central and inscribed angles.
 
-No matter the size of the circle, if you divide the circumference by the diameter, you always get Pi. Because Pi is an [irrational number](https://en.wikipedia.org/wiki/Irrational_number), its [decimal places](https://en.wikipedia.org/wiki/Decimal_representation) go on forever without repeating, but for the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), you just need practical working numbers:
-*   **The mathematical constant pi is approximately equal to the [decimal value](https://en.wikipedia.org/wiki/Decimal) 3.14.**
-*   Alternatively, **the [fraction](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) 22/7 is commonly used as a working [approximation](https://en.wikipedia.org/wiki/Approximation) for the mathematical constant pi**, which is incredibly handy when dealing with fractions or multiples of 7!
-
-### Calculating Circumference
-
-The **[circumference](https://en.wikipedia.org/wiki/Circumference)** of a circle is the total linear [perimeter](https://en.wikipedia.org/wiki/Perimeter) or distance around the outside edge of the circle. If you were to snip a circular rubber band and lay it flat on a ruler, you would be measuring its circumference.
-
-![Unrolling the circumference of a circle with a diameter of 1 maps perfectly to the exact value of Pi on a number line.](https://wikipedia.org/wiki/Special:Redirect/file/Pi-unrolled-720.gif)
-
-Because $\pi = \frac{\text{Circumference}}{\text{Diameter}}$, we can easily rearrange this to find the total distance around the circle. 
-
-| Known [Variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) | [Formula](https://en.wikipedia.org/wiki/Formula) | Why it works |
+| Feature | Central Angle | Inscribed Angle |
 | :--- | :--- | :--- |
-| **[Diameter](https://en.wikipedia.org/wiki/Diameter) ($d$)** | **$C = \pi \times d$** | This is just the definition of [Pi](https://en.wikipedia.org/wiki/Pi) rewritten! The formula to calculate the circumference of a circle using the diameter is $C = \pi d$. |
-| **[Radius](https://en.wikipedia.org/wiki/Radius) ($r$)** | **$C = 2 \times \pi \times r$** | Since the diameter is twice the radius ($d = 2r$), we just substitute $2r$ into the formula. The formula to calculate the circumference of a circle using the radius is $C = 2\pi r$. |
+| **Definition** | An angle whose [vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29) is located at the exact center point of a circle. | An angle whose vertex lies exactly on the boundary edge of the circle. |
+| **Composition** | Formed by two radii connecting the center to the boundary. | The two sides forming an inscribed angle consist of two [intersecting](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) chords of the circle. |
+| **Mathematical Measure** | The degree measure of a [central angle](https://en.wikipedia.org/wiki/Central_angle) is exactly **equal** to the degree measure of the arc intercepted by that central angle. | The degree measure of an [inscribed angle](https://en.wikipedia.org/wiki/Inscribed_angle) is exactly **half** the degree measure of the arc intercepted by that inscribed angle. |
 
----
+**The Intuition Behind the Math:** 
+If you stand at the exact center of the circular theater (a central angle) and look at a stage that takes up a $60^\circ$ arc of the wall, your field of vision sweeps exactly $60^\circ$. 
 
-## Covering the Ground: The Area of a Circle
+Now, walk backward until your back hits the opposite wall of the theater. You are now the vertex of an **[inscribed angle](https://en.wikipedia.org/wiki/Inscribed_angle)**. You are looking at the exact same $60^\circ$ stage. Because you are twice as far away, the stage appears narrower in your field of vision. The mathematics reflect this perfectly: the inscribed angle will measure exactly $30^\circ$, which is half the intercepted arc.
 
-Circumference is the fence; Area is the grass. The **[area](https://en.wikipedia.org/wiki/Area_of_a_circle)** of a circle represents the total amount of [two-dimensional space](https://en.wikipedia.org/wiki/Two-dimensional_space) enclosed within the boundary of the circle. 
+![The inscribed angle theorem visually demonstrates that an angle with its vertex on the circle's boundary is exactly half the measure of the central angle that intercepts the same arc.](https://wikipedia.org/wiki/Special:Redirect/file/Inscribed_angle_theorem.svg)
 
-> **The Area Formula:**
-> The formula to calculate the area of a circle using the radius is **$A = \pi \times r^2$**.
+### Special Properties of Inscribed Angles
 
-**Warning for the Exam!** [Order of operations](https://en.wikipedia.org/wiki/Order_of_operations) is paramount here. **The radius must be mathematically [squared](https://en.wikipedia.org/wiki/Square_%28algebra%29) before [multiplying](https://en.wikipedia.org/wiki/Multiplication) by pi when calculating the area of a circle.** 
-If your radius is 3, you do *not* multiply 3 by 3.14 and then square the result. You square the 3 to get 9, and *then* you multiply 9 by $\pi$ to get $9\pi$ (or about 28.26). 
+Understanding that an inscribed angle is always half the measure of its intercepted arc leads to two elegant [corollaries](https://en.wikipedia.org/wiki/Corollary) that frequently appear on exams:
 
----
+**1. The Semicircle Rule ([Thales's Theorem](https://en.wikipedia.org/wiki/Thales%27s_theorem))**
+What happens if an inscribed angle opens up to intercept a full semicircle? We know the arc of a semicircle measures exactly $180^\circ$. We also know that a right angle measures exactly **[$90$ degrees](https://en.wikipedia.org/wiki/Right_angle)**. Since the inscribed angle must be exactly half the intercepted arc ($180 \div 2 = 90$), we arrive at an ironclad geometric rule: **Any inscribed angle that intercepts a semicircle is always a [right angle](https://en.wikipedia.org/wiki/Right_angle).** No matter where you place the vertex on the boundary, as long as its chords hit the two endpoints of a diameter, a perfect $90^\circ$ angle is formed.
 
-## Slices of the Pie: Arcs and Angles
+![According to Thales's Theorem, any inscribed angle that intercepts a full semicircle formed by a diameter will inevitably form a 90-degree right angle.](https://wikipedia.org/wiki/Special:Redirect/file/Thales_theorem_find_circle_centre.svg)
 
-A circle is about spinning around a center. If you spin completely around and face the way you started, you've completed a full [rotation](https://en.wikipedia.org/wiki/Rotation_%28mathematics%29). **A full circular rotation measures exactly [360 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).** 
+**2. The Shared Arc Rule**
+Return to our theater analogy. Suppose two different people are standing against the back wall at different spots, but they are both looking at the exact same stage. Because they are both on the boundary edge, and both intercepting the identical arc, their viewing angles must be identical. Mathematically stated: **Two separate inscribed angles that intercept the exact same arc will always have identical degree measures.** 
 
-If you slice the circle perfectly in half along the diameter, you get a **[semicircle](https://en.wikipedia.org/wiki/Semicircle)**, which represents **exactly one half of a complete circle**. Naturally, since a full circle is $360^\circ$, the **arc of a semicircle measures exactly [180 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29)**.
-
-But what happens when we start slicing the circle into different, irregular wedges? We get [angles](https://en.wikipedia.org/wiki/Angle) and arcs. 
-An **[arc](https://en.wikipedia.org/wiki/Circular_arc)** is a continuous, unbroken portion of the circumference of a circle. It's just a curved piece of the crust on a pizza. The size of that arc is entirely dictated by angles. Let's look at the two types of angles you absolutely must know.
-
-### 1. The Central Angle: Sitting at the Center
-
-Imagine slicing a pizza normally. Your knife meets at the center. A **[central angle](https://en.wikipedia.org/wiki/Central_angle)** is an angle whose [vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29) is located at the exact center point of a circle. 
-
-Because the central angle originates at the very heart of the circle, its view of the edge is purely un-distorted. Therefore, **the [degree measure](https://en.wikipedia.org/wiki/Degree_%28angle%29) of a central angle is exactly equal to the degree measure of the arc intercepted by that central angle.** 
-If your central angle is $45^\circ$, the chunk of the arc it cuts out is also $45^\circ$. Beautifully simple!
-
-![A central angle originates at the exact center of the circle, mapping 1-to-1 with the degree measure of its intercepted arc.](https://wikipedia.org/wiki/Special:Redirect/file/Sector_central_angle_arc.svg)
-
-### 2. The Inscribed Angle: Watching from the Edge
-
-Now, imagine you step away from the center. You walk all the way backward until your back hits the wall of the circle. From this point on the boundary, you look across the space to the other side. 
-
-An **[inscribed angle](https://en.wikipedia.org/wiki/Inscribed_angle)** is an angle whose vertex lies exactly on the boundary edge of the circle. And because it stretches across the circle, **the two sides forming an inscribed angle consist of two [intersecting](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) chords of the circle.**
-
-When you stand at the edge of a circle and look across it, your perspective changes. You are further away from the arc you are looking at than you were when standing at the center. Because of this distance, the angle feels "tighter." In fact, mathematics provides us with an exact rule for this perspective shift:
-**The degree measure of an inscribed angle is exactly half the degree measure of the arc intercepted by that inscribed angle.**
-
-*   *Example:* If an arc measures $80^\circ$, a central angle cutting that arc will measure $80^\circ$. But an *inscribed* angle cutting that exact same $80^\circ$ arc will measure a tight $40^\circ$. 
-
-This leads to a wildly powerful tool for test day: **Two separate inscribed angles that intercept the exact same arc will always have identical degree measures.** It doesn't matter *where* on the back wall of the circle you stand; if you are looking at the same exact window (the arc) on the other side, your angle of vision is the exact same.
-
-![An inscribed angle sits on the boundary of the circle and measures exactly half the degrees of the central angle or the intercepted arc.](https://wikipedia.org/wiki/Special:Redirect/file/Inscribed_angle_theorem.svg)
-
-### A Beautiful Consequence: Thales's Theorem
-
-Let's combine what we've learned into one of the most stunning [geometric proofs](https://en.wikipedia.org/wiki/Mathematical_proof). We know that a semicircle's arc is $180^\circ$. We also know that an inscribed angle is exactly *half* of the arc it intercepts. 
-
-What happens if you draw an inscribed angle that intercepts a perfect semicircle? 
-Half of $180^\circ$ is $90^\circ$. And **a [right angle](https://en.wikipedia.org/wiki/Right_angle) measures exactly [90 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29)**. 
-
-Therefore, by sheer mathematical necessity: **Any inscribed angle that intercepts a semicircle is always a right angle.** You could draw this angle from anywhere on the circumference—as long as its legs touch the endpoints of a diameter (intercepting a semicircle), it will *always* form a perfect $90^\circ$ right angle. 
-
-![An illustration of Thales's Theorem: any inscribed angle that intercepts a circle's diameter will inherently form a perfect 90-degree right angle.](https://wikipedia.org/wiki/Special:Redirect/file/InscribedAngle_1ChordDiam.svg)
-
----
-
-## Conclusion
-
-When you sit down for the [Praxis Core Mathematics exam](https://en.wikipedia.org/wiki/Praxis_test), don't let circles intimidate you. Just remember the underlying logic! The [radius](https://en.wikipedia.org/wiki/Radius) dictates everything. The [diameter](https://en.wikipedia.org/wiki/Diameter) is just two radii. The [circumference](https://en.wikipedia.org/wiki/Circumference) is the boundary keeping everything in—measured by simply wrapping [Pi](https://en.wikipedia.org/wiki/Pi) around the diameter. The [area](https://en.wikipedia.org/wiki/Area_of_a_circle) is the space inside, requiring the power of a squared radius. And the angles? They are just a matter of perspective—[central angles](https://en.wikipedia.org/wiki/Central_angle) see the exact truth of the arc, while [inscribed angles](https://en.wikipedia.org/wiki/Inscribed_angle) sit on the edge and see exactly half of it. 
-
-You're not just memorizing isolated facts; you're learning the mechanics of a perfect geometric machine. Keep these relationships clearly in your mind, and you'll easily slice through any circle problem the [Praxis](https://en.wikipedia.org/wiki/Praxis_test) throws your way!
+By internalizing these relationships—how the radius dictates the diameter, how $\pi$ bridges straight lines to curves, and how a vertex's position determines an angle's measure—you transform the circle from a collection of rote formulas into a completely logical, predictable system of space.

@@ -1,146 +1,106 @@
-# Earth's Materials and Systems: A Masterclass for Future Teachers
+To understand a [mountain](https://en.wikipedia.org/wiki/Mountain), you cannot merely look at the [rock](https://en.wikipedia.org/wiki/Rock_%28geology%29). You must look at the [cloud](https://en.wikipedia.org/wiki/Cloud) hovering above it, the [forest](https://en.wikipedia.org/wiki/Forest) clinging to its flanks, and the [stream](https://en.wikipedia.org/wiki/Stream) carving its base. The [Earth](https://en.wikipedia.org/wiki/Earth) does not operate as a [museum](https://en.wikipedia.org/wiki/Museum) of isolated, static displays; it is a massive, intricate [engine](https://en.wikipedia.org/wiki/Engine). Every [grain of sand](https://en.wikipedia.org/wiki/Sand) on a [beach](https://en.wikipedia.org/wiki/Beach) and every cloud in the sky is the product of constant, relentless exchange. For an [educator](https://en.wikipedia.org/wiki/Teacher), teaching [Earth science](https://en.wikipedia.org/wiki/Earth_science) is not about handing [students](https://en.wikipedia.org/wiki/Student) a list of [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) words—it is about training them to see the invisible gears of a dynamic machine operating right outside their [classroom](https://en.wikipedia.org/wiki/Classroom) window.
 
-Welcome, future educators! If you are preparing for the [Elementary Education: Content Knowledge for Teaching](https://en.wikipedia.org/wiki/Praxis_test) exam, you already know your job isn’t just to memorize facts. Your job is to understand how the [universe](https://en.wikipedia.org/wiki/Universe) ticks—and more importantly, how a nine-year-old *thinks* it ticks. 
+## The Anatomy of a Dynamic Planet
 
-When we talk about [Earth](https://en.wikipedia.org/wiki/Earth)’s materials and systems, we are not talking about dead [rocks](https://en.wikipedia.org/wiki/Rock_%28geology%29) and static puddles. We are talking about a giant, dynamic, interacting machine! The Earth is constantly shifting, breaking down, and rebuilding itself. As a teacher, your goal is to help students see these invisible connections. Let's pull back the curtain on how our [planet](https://en.wikipedia.org/wiki/Planet) works, figure out where your students will likely get tripped up, and learn how to engineer solutions to [nature](https://en.wikipedia.org/wiki/Nature)'s most powerful forces.
+The Earth consists of four major interacting subsystems known as the **[geosphere](https://en.wikipedia.org/wiki/Geosphere)**, **[hydrosphere](https://en.wikipedia.org/wiki/Hydrosphere)**, **[atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth)**, and **[biosphere](https://en.wikipedia.org/wiki/Biosphere)**. These are not separate containers; they are overlapping domains that constantly trade materials and [energy](https://en.wikipedia.org/wiki/Energy).
 
----
+*   **The Geosphere:** This encompasses the solid Earth. When your students pick up a [pebble](https://en.wikipedia.org/wiki/Pebble), dig in the [dirt](https://en.wikipedia.org/wiki/Soil), or draw a [mountain range](https://en.wikipedia.org/wiki/Mountain_range), they are interacting with the geosphere. [Rocks](https://en.wikipedia.org/wiki/Rock_%28geology%29), [minerals](https://en.wikipedia.org/wiki/Mineral), [soils](https://en.wikipedia.org/wiki/Soil), and [landforms](https://en.wikipedia.org/wiki/Landform) make up the geosphere. 
+*   **The Hydrosphere:** This encompasses all liquid and solid [water](https://en.wikipedia.org/wiki/Water) found on Earth, from the deepest [oceans](https://en.wikipedia.org/wiki/Ocean) to the [frost](https://en.wikipedia.org/wiki/Frost) on a morning windowpane.
+*   **The Atmosphere:** This is the envelope of [gases](https://en.wikipedia.org/wiki/Gas) surrounding the Earth, providing the [air we breathe](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) and the [climatic](https://en.wikipedia.org/wiki/Climate) engine that drives surface [weather](https://en.wikipedia.org/wiki/Weather).
+*   **The Biosphere:** This contains all [living organisms](https://en.wikipedia.org/wiki/Organism) on Earth, from microscopic soil [bacteria](https://en.wikipedia.org/wiki/Bacteria) to [redwood trees](https://en.wikipedia.org/wiki/Sequoioideae) and [human beings](https://en.wikipedia.org/wiki/Human).
 
-## Part 1: The Four Spheres (Earth’s Magnificent Machine)
+Earth's four major systems continuously interact by exchanging [matter](https://en.wikipedia.org/wiki/Matter), and they continuously interact by exchanging energy. Because of this deep interconnection, a change in one Earth system frequently causes subsequent changes in other Earth systems. 
 
-To a child, a [mountain](https://en.wikipedia.org/wiki/Mountain) is just a mountain, and the [sky](https://en.wikipedia.org/wiki/Sky) is just the sky. But we need them to view the planet as a set of interconnected gears. **The Earth consists of four major interacting subsystems known as the [geosphere](https://en.wikipedia.org/wiki/Geosphere), [hydrosphere](https://en.wikipedia.org/wiki/Hydrosphere), [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth), and [biosphere](https://en.wikipedia.org/wiki/Biosphere).** 
+Consider a [rainstorm](https://en.wikipedia.org/wiki/Rain). Rain falling from the atmosphere onto the geosphere demonstrates an interaction between two Earth systems. The water (matter) and the [kinetic impact](https://en.wikipedia.org/wiki/Kinetic_energy) of the drops (energy) move from the sky to the rock. Similarly, a [tree](https://en.wikipedia.org/wiki/Tree) growing in a forest illustrates a biological and atmospheric exchange: [plants](https://en.wikipedia.org/wiki/Plant) in the biosphere absorb [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) directly from the atmosphere to perform [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis). 
 
-Let's break down the cast of characters:
-1.  **The Geosphere:** This encompasses the solid Earth. Whenever your students are looking at rocks, [minerals](https://en.wikipedia.org/wiki/Mineral), [soils](https://en.wikipedia.org/wiki/Soil), and [landforms](https://en.wikipedia.org/wiki/Landform), they are looking at the geosphere.
-2.  **The Hydrosphere:** This encompasses all liquid and solid [water](https://en.wikipedia.org/wiki/Water) found on Earth. [Oceans](https://en.wikipedia.org/wiki/Ocean), puddles, [clouds](https://en.wikipedia.org/wiki/Cloud), and [glaciers](https://en.wikipedia.org/wiki/Glacier)—if it's $H_2O$, it's here.
-3.  **The Atmosphere:** This is the envelope of [gases](https://en.wikipedia.org/wiki/Gas) surrounding the Earth. It's the air we breathe and the [wind](https://en.wikipedia.org/wiki/Wind) that blows. 
-4.  **The Biosphere:** This contains all [living organisms](https://en.wikipedia.org/wiki/Organism) on Earth. You, me, the [trees](https://en.wikipedia.org/wiki/Tree), and the [earthworms](https://en.wikipedia.org/wiki/Earthworm).
+### The Illusion of Abundant Water
+When we examine the hydrosphere closely, we encounter a reality that frequently surprises elementary students. Because [maps](https://en.wikipedia.org/wiki/Map) show a planet dominated by blue, students assume [drinking water](https://en.wikipedia.org/wiki/Drinking_water) is limitless. In reality, the vast majority of the water on Earth is [saltwater](https://en.wikipedia.org/wiki/Saline_water) located in the oceans. 
 
-![This coastal scene beautifully captures the continuous interaction of Earth's spheres: the geosphere (sand and rock), hydrosphere (ocean water), and atmosphere (air and clouds) all interacting in one place.](https://wikipedia.org/wiki/Special:Redirect/file/90_mile_beach.jpg)
+Only a small fraction of water on Earth is [fresh water](https://en.wikipedia.org/wiki/Fresh_water). And even then, it is not sitting in the local creek. [Glaciers](https://en.wikipedia.org/wiki/Glacier) contain a large portion of Earth's fresh water, locked away in [ice](https://en.wikipedia.org/wiki/Ice). Underground [aquifers](https://en.wikipedia.org/wiki/Aquifer) contain a large portion of Earth's fresh water, hidden from view beneath our feet. [Lakes](https://en.wikipedia.org/wiki/Lake) and [rivers](https://en.wikipedia.org/wiki/River)—the water sources we see and interact with daily—contain a very small fraction of Earth's fresh water.
 
-Here is the grand secret of [Earth science](https://en.wikipedia.org/wiki/Earth_science): **Earth's four major systems continuously interact by exchanging [matter](https://en.wikipedia.org/wiki/Matter)** and **exchanging [energy](https://en.wikipedia.org/wiki/Energy)**. They do not exist in isolation! And because they are so tightly linked, **a change in one Earth system frequently causes subsequent changes in other Earth systems.** 
+![Although Earth is covered in water, the vast majority is saline. Only a tiny fraction is accessible fresh water found in lakes, rivers, and shallow aquifers.](https://wikipedia.org/wiki/Special:Redirect/file/Earth's_water_distribution.svg)
 
-### Real-World Interactions to Share with Students
-*   **Atmosphere $\leftrightarrow$ Geosphere:** Imagine **[rain](https://en.wikipedia.org/wiki/Rain) falling from the atmosphere onto the geosphere**; this beautifully demonstrates an interaction between two Earth systems. Water (matter) and [kinetic impact](https://en.wikipedia.org/wiki/Kinetic_energy) (energy) are exchanged.
-*   **Biosphere $\leftrightarrow$ Atmosphere:** Every time a [leaf](https://en.wikipedia.org/wiki/Leaf) flutters in the breeze, it's doing [chemical work](https://en.wikipedia.org/wiki/Work_%28thermodynamics%29). **Plants in the biosphere absorb [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) directly from the atmosphere** to perform [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis). 
+## The Sculpture of the Geosphere: Breaking, Taking, and Making
 
----
+When students look at a [boulder](https://en.wikipedia.org/wiki/Boulder), they see permanence. A common, pervasive elementary student [misconception](https://en.wikipedia.org/wiki/Misconception) is that solid rocks cannot change shape or size over time. As educators, our job is to reveal that the Earth is a constantly shifting canvas, driven by three distinct geological processes: [weathering](https://en.wikipedia.org/wiki/Weathering), [erosion](https://en.wikipedia.org/wiki/Erosion), and [deposition](https://en.wikipedia.org/wiki/Deposition_%28geology%29). 
 
-## Part 2: Water, Water Everywhere (But Where Is It?)
+> **[Weathering](https://en.wikipedia.org/wiki/Weathering)** is the physical or chemical process of breaking down rocks, soils, and minerals. 
+> 
+> **[Erosion](https://en.wikipedia.org/wiki/Erosion)** is the geological process of transporting weathered rock and soil from one location to another.
+>
+> **[Deposition](https://en.wikipedia.org/wiki/Deposition_%28geology%29)** occurs when eroded [sediments](https://en.wikipedia.org/wiki/Sediment) settle and accumulate in a new location.
 
-When you teach the hydrosphere, you will run into a fascinating student reaction: absolute shock at the distribution of [Earth's water](https://en.wikipedia.org/wiki/Water_distribution_on_Earth). 
-
-> **Teacher Tip:** Ask your students, "If I gave you 100 buckets representing all the water on Earth, how many buckets do you think are full of [fresh water](https://en.wikipedia.org/wiki/Fresh_water) you can actually drink?" They usually guess around 50. 
-
-The reality? **The vast majority of the water on Earth is [saltwater](https://en.wikipedia.org/wiki/Seawater) located in the oceans.** In fact, **only a small fraction of water on Earth is fresh water.**
-
-But where *is* that fresh water hiding? Kids usually shout "[Lakes](https://en.wikipedia.org/wiki/Lake)!" or "[Rivers](https://en.wikipedia.org/wiki/River)!" Prepare to blow their minds. **Lakes and rivers contain a very small fraction of Earth's fresh water.** So, where is the rest?
-*   **Glaciers contain a large portion of Earth's fresh water** (locked up as solid [ice](https://en.wikipedia.org/wiki/Ice)).
-*   **Underground [aquifers](https://en.wikipedia.org/wiki/Aquifer) contain a large portion of Earth's fresh water** (hidden beneath our feet).
-
-![A graphical breakdown of Earth's water distribution. Notice how the vast majority is saltwater, and of the tiny fraction of fresh water, almost all of it is locked in glaciers or hidden underground as groundwater.](https://wikipedia.org/wiki/Special:Redirect/file/Earth's_water_distribution.svg)
-
-If we don't teach this, students graduate believing our local [streams](https://en.wikipedia.org/wiki/Stream) and lakes represent the bulk of our [water supply](https://en.wikipedia.org/wiki/Water_supply), which heavily skews their understanding of [water conservation](https://en.wikipedia.org/wiki/Water_conservation)!
-
----
-
-## Part 3: Nature's Demolition Crew (Weathering, Erosion, & Deposition)
-
-Now we arrive at the heavy hitters of Earth's geosphere. This is where the [landscape](https://en.wikipedia.org/wiki/Landscape) actually changes.
-
-### The Ultimate Pedagogical Trap: Weathering vs. Erosion
-Let's talk about the single most common stumbling block in elementary Earth science. **A common elementary student [misconception](https://en.wikipedia.org/wiki/Misconception) is using the terms weathering and erosion interchangeably.** As a teacher, you must be absolutely rigorous with these definitions.
-
-*   **[Weathering](https://en.wikipedia.org/wiki/Weathering)** is the physical or chemical process of *breaking down* rocks, soils, and minerals. (Think: a hammer smashing a cookie).
-*   **[Erosion](https://en.wikipedia.org/wiki/Erosion)** is the geological process of *transporting* weathered rock and soil from one location to another. (Think: carrying the cookie crumbs away).
-*   **[Deposition](https://en.wikipedia.org/wiki/Deposition_%28geology%29)** occurs when eroded [sediments](https://en.wikipedia.org/wiki/Sediment) settle and accumulate in a new location. (Think: dropping the crumbs on the floor).
-
-Break. Move. Drop. Weathering, Erosion, Deposition. 
-
-Another massive hurdle? **Elementary students often hold the misconception that solid rocks cannot change shape or size over time.** To a child, a [boulder](https://en.wikipedia.org/wiki/Boulder) is eternal. You must prove to them that it isn't!
+**Pedagogical Warning:** Another common elementary student misconception is using the terms weathering and erosion interchangeably. You must carefully disentangle these concepts. Use the maxim: *Weathering is the breaking; erosion is the taking.* You cannot transport a mountain without first breaking it down into movable pieces, and you cannot deposit new landforms without first carrying the raw materials.
 
 ### Physical vs. Chemical Weathering
-There are two ways to break a rock:
-1.  **[Physical weathering](https://en.wikipedia.org/wiki/Weathering%23Physical_weathering)** breaks rocks into smaller pieces *without* changing the [chemical composition](https://en.wikipedia.org/wiki/Chemical_composition) of the rocks. If you smash a piece of [granite](https://en.wikipedia.org/wiki/Granite) with a hammer, it's still granite. Just smaller.
-2.  **[Chemical weathering](https://en.wikipedia.org/wiki/Weathering%23Chemical_weathering)** actually changes the actual chemical composition of rocks. A perfect example of this in the real world is **[acid rain](https://en.wikipedia.org/wiki/Acid_rain) falling on [limestone](https://en.wikipedia.org/wiki/Limestone)**, which demonstrates chemical weathering as the [acid](https://en.wikipedia.org/wiki/Acid) reacts with the [calcium carbonate](https://en.wikipedia.org/wiki/Calcium_carbonate), dissolving it into something entirely new.
 
-![An example of chemical weathering: The unweathered limestone on the left has been chemically altered and dissolved into the weathered state on the right over time, creating a new shape and composition.](https://wikipedia.org/wiki/Special:Redirect/file/Weathering_Limestone_State_College_PA.jpg)
+We must categorize how rocks break down. Does the rock merely shatter, or does it transform?
 
-### The Primary Agents of Destruction
-Nature has a crew of primary agents that do the heavy lifting. **Water, wind, ice, and living organisms act as primary agents for *both* weathering and erosion.** 
+*   **[Physical Weathering](https://en.wikipedia.org/wiki/Physical_weathering):** This breaks rocks into smaller pieces *without* changing the [chemical composition](https://en.wikipedia.org/wiki/Chemical_composition) of the rocks. If you smash a piece of [granite](https://en.wikipedia.org/wiki/Granite) with a [hammer](https://en.wikipedia.org/wiki/Hammer), it is still granite.
+*   **[Chemical Weathering](https://en.wikipedia.org/wiki/Chemical_weathering):** This changes the actual chemical composition of rocks. The rock is not just broken; it is altered at the molecular level. A perfect example occurs when [acid rain](https://en.wikipedia.org/wiki/Acid_rain) falling on [limestone](https://en.wikipedia.org/wiki/Limestone) demonstrates chemical weathering. The [acid](https://en.wikipedia.org/wiki/Acid) reacts with the [calcium carbonate](https://en.wikipedia.org/wiki/Calcium_carbonate) in the limestone, [dissolving](https://en.wikipedia.org/wiki/Dissolution_%28chemistry%29) it and forming new [chemical compounds](https://en.wikipedia.org/wiki/Chemical_compound).
 
-Let's look at how they operate:
+The rate at which these rocks break down is not uniform. The rate of rock weathering depends heavily on the specific type of rock (soft [sandstone](https://en.wikipedia.org/wiki/Sandstone) degrades faster than dense [quartzite](https://en.wikipedia.org/wiki/Quartzite)) and depends heavily on local [climate](https://en.wikipedia.org/wiki/Climate) conditions (hot, wet environments accelerate chemical weathering; cold environments accelerate physical [ice wedging](https://en.wikipedia.org/wiki/Frost_weathering)).
 
-| Agent | How it Weathers (Breaks) | How it Erodes (Moves) |
+![Chemical weathering permanently alters a rock's molecular composition, as seen in the degraded surface of the weathered limestone on the right.](https://wikipedia.org/wiki/Special:Redirect/file/Weathering_Limestone_State_College_PA.jpg)
+
+## The Primary Agents of Change
+
+Who are the actors on this geological stage? Water, [wind](https://en.wikipedia.org/wiki/Wind), ice, and living organisms all act as primary agents for weathering, and all four simultaneously act as primary agents for erosion. 
+
+### 1. Water
+Water is the undisputed champion of sculpting the Earth. Water acts as a primary agent for weathering (dissolving rock) and acts as a primary agent for erosion (carrying the sediment away). 
+
+The [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) of water dictates its [carrying capacity](https://en.wikipedia.org/wiki/Stream_load). Faster moving water carries larger sediment particles compared to slower moving water. When a rushing mountain river hits a flat [plain](https://en.wikipedia.org/wiki/Plain), it slows down, dropping its heavy boulders first, followed by [pebbles](https://en.wikipedia.org/wiki/Pebble), and finally fine [silt](https://en.wikipedia.org/wiki/Silt). Over millions of years, rivers carve [V-shaped valleys](https://en.wikipedia.org/wiki/Valley) through the continuous flow of liquid water eroding the underlying geosphere. 
+
+![Over millions of years, the continuous flow of river water can erode the underlying geosphere to carve massive V-shaped canyons.](https://wikipedia.org/wiki/Special:Redirect/file/Grand_Canyon_Powell_Point_Evening_Light_02_2013.jpg)
+
+### 2. Ice
+Ice acts as a primary agent for weathering and acts as a primary agent for erosion. 
+
+When liquid water seeps into the cracks of a rock, it rests. But as [temperatures](https://en.wikipedia.org/wiki/Temperature) drop, liquid water expanding as the water freezes inside rock cracks causes physical weathering. This process, known as [ice wedging](https://en.wikipedia.org/wiki/Frost_weathering), literally pries massive boulders apart with [hydraulic force](https://en.wikipedia.org/wiki/Hydraulic_power). 
+
+![Physical weathering from ice wedging literally pries massive boulders apart as liquid water seeps into cracks, freezes, and expands.](https://wikipedia.org/wiki/Special:Redirect/file/Abiskorock.JPG)
+
+On a macro scale, glaciers are slow-moving rivers of ice. Glaciers carve [U-shaped valleys](https://en.wikipedia.org/wiki/U-shaped_valley) through the slow movement of massive [ice sheets](https://en.wikipedia.org/wiki/Ice_sheet) eroding the underlying geosphere. Unlike rivers, which slice downward to form a "V", glaciers [bulldoze](https://en.wikipedia.org/wiki/Bulldozer) everything in their path, leaving broad, wide-bottomed "U" shaped [trenches](https://en.wikipedia.org/wiki/Trench) in the mountains.
+
+![Unlike rivers that cut narrow V-shapes, slow-moving glaciers bulldoze the landscape to carve wide, U-shaped valleys.](https://wikipedia.org/wiki/Special:Redirect/file/Glacial_Valley_MtHoodWilderness.jpg)
+
+### 3. Wind
+Wind acts as a primary agent for weathering ([sandblasting](https://en.wikipedia.org/wiki/Sandblasting) rock faces) and acts as a primary agent for erosion (carrying [dust](https://en.wikipedia.org/wiki/Dust) and sand across [continents](https://en.wikipedia.org/wiki/Continent)). [Wind erosion](https://en.wikipedia.org/wiki/Aeolian_processes) occurs most frequently in dry environments lacking protective [vegetation cover](https://en.wikipedia.org/wiki/Vegetation). Without the [roots](https://en.wikipedia.org/wiki/Root) of plants to hold soil down, and without moisture to clump soil particles together, the wind easily strips away the top layers of the geosphere.
+
+![Wind acts as a powerful agent of weathering and erosion, sandblasting exposed rock formations over time in arid environments.](https://wikipedia.org/wiki/Special:Redirect/file/Im_Salar_de_Uyuni.jpg)
+
+### 4. Living Organisms
+Students rarely view a [dandelion](https://en.wikipedia.org/wiki/Taraxacum) as a geological wrecking ball, but living organisms act as primary agents for weathering and act as primary agents for erosion. 
+
+Plant roots can grow into narrow rock [crevices](https://en.wikipedia.org/wiki/Crevice) in search of moisture and [nutrients](https://en.wikipedia.org/wiki/Nutrient). The growth of plant roots inside rock crevices physically breaks the rock apart over time. Conversely, [animals](https://en.wikipedia.org/wiki/Animal) [burrowing](https://en.wikipedia.org/wiki/Burrow) into the ground displace soil, initiating the process of [biological erosion](https://en.wikipedia.org/wiki/Bioerosion).
+
+## Engineering the Landscape: Human Design Solutions
+
+Because erosion can destroy [farmland](https://en.wikipedia.org/wiki/Agricultural_land), undermine [roads](https://en.wikipedia.org/wiki/Road), and collapse coastal properties, human beings intervene. Humans [engineer](https://en.wikipedia.org/wiki/Engineering) specific design solutions to slow wind and water from altering natural land shapes, and in many cases, engineer specific design solutions to completely prevent wind and water from altering natural land shapes.
+
+Teaching this requires shifting from pure Earth science to [applied engineering](https://en.wikipedia.org/wiki/Applied_science). When evaluating [erosion control](https://en.wikipedia.org/wiki/Erosion_control) design solutions, [engineers](https://en.wikipedia.org/wiki/Engineer) (and your students) cannot just pick the strongest material. Evaluating erosion control design solutions requires analyzing material cost constraints (building a [titanium](https://en.wikipedia.org/wiki/Titanium) wall is too expensive) and analyzing environmental impact constraints (paving a [riverbed](https://en.wikipedia.org/wiki/Stream_bed) destroys the local [ecosystem](https://en.wikipedia.org/wiki/Ecosystem)).
+
+Here are the primary design solutions engineers use to combat Earth's agents of erosion:
+
+| Design Solution | Purpose & Mechanism | Earth System Addressed |
 | :--- | :--- | :--- |
-| **Water** | **Water acts as a primary agent for weathering.** It dissolves minerals over time. | **Water acts as a primary agent for erosion.** Fun fact for students: **Faster moving water carries larger sediment particles compared to slower moving water.** As rivers flow, they constantly transport material. |
-| **Ice** | **Ice acts as a primary agent for weathering.** Imagine water seeping into a crack. **Liquid water expanding as the water freezes inside rock cracks causes physical weathering** (this is called "[ice wedging](https://en.wikipedia.org/wiki/Frost_weathering)"). | **Ice acts as a primary agent for erosion.** Picture a massive bulldozer. **Glaciers carve [U-shaped valleys](https://en.wikipedia.org/wiki/U-shaped_valley) through the slow movement of massive [ice sheets](https://en.wikipedia.org/wiki/Ice_sheet) eroding the underlying geosphere.** |
-| **Wind** | **Wind acts as a primary agent for weathering** by blowing abrasive [sand](https://en.wikipedia.org/wiki/Sand) against rocks, acting like natural [sandpaper](https://en.wikipedia.org/wiki/Sandpaper). | **Wind acts as a primary agent for erosion.** Note: **[Wind erosion](https://en.wikipedia.org/wiki/Aeolian_processes) occurs most frequently in dry environments lacking protective [vegetation](https://en.wikipedia.org/wiki/Vegetation) cover.** |
-| **Living Organisms** | **Living organisms act as primary agents for weathering.** Believe it or not, a fragile plant can break solid rock! **[Plant roots](https://en.wikipedia.org/wiki/Root) can grow into narrow rock crevices**, and **the growth of plant roots inside rock crevices physically breaks the rock apart over time.** | **Living organisms act as primary agents for erosion.** [Animals](https://en.wikipedia.org/wiki/Animal) [burrowing](https://en.wikipedia.org/wiki/Burrow) in the dirt kick soil up to the surface, where it is easily washed or blown away. |
+| **[Vegetation](https://en.wikipedia.org/wiki/Vegetation) / Root [Anchors](https://en.wikipedia.org/wiki/Root)** | Plant root systems anchor soil in place. Anchoring soil with plant roots prevents soil erosion. | Hydrosphere & Atmosphere (Water & Wind) |
+| **[Retaining Walls](https://en.wikipedia.org/wiki/Retaining_wall)** | Retaining walls are engineered physical barriers built to hold back soil on steep [slopes](https://en.wikipedia.org/wiki/Grade_%28slope%29). By physically catching the soil, retaining walls prevent soil erosion on steep slopes. | Hydrosphere ([Gravity](https://en.wikipedia.org/wiki/Gravity) & [Water runoff](https://en.wikipedia.org/wiki/Surface_runoff)) |
+| **[Terracing](https://en.wikipedia.org/wiki/Terrace_%28agriculture%29)** | Terracing involves cutting flat steps into a sloped hillside. This structural change slows down water runoff on sloped hillsides. Because the water slows down, it loses its carrying capacity, meaning terracing reduces soil erosion on sloped hillsides. | Hydrosphere (Water runoff) |
+| **[Breakwaters](https://en.wikipedia.org/wiki/Breakwater_%28structure%29)** | Breakwaters are offshore coastal structures designed to intercept [waves](https://en.wikipedia.org/wiki/Wind_wave) before they hit the beach. By absorbing the wave's kinetic energy, breakwaters protect coastal land from [wave erosion](https://en.wikipedia.org/wiki/Coastal_erosion). | Hydrosphere (Ocean waves) |
+| **[Windbreaks](https://en.wikipedia.org/wiki/Windbreak)** | Windbreaks are linear plantings of trees or shrubs along the edge of a field. Windbreaks reduce wind speed over open land. By disrupting the [airflow](https://en.wikipedia.org/wiki/Airflow), windbreaks prevent topsoil erosion. | Atmosphere (Wind) |
 
-![An example of physical weathering by ice wedging. Liquid water seeps into microscopic rock cracks, expands as it freezes, and eventually exerts enough outward force to split solid rock entirely.](https://wikipedia.org/wiki/Special:Redirect/file/Abiskorock.JPG)
+![Terracing involves cutting flat steps into sloped hillsides, which slows water runoff and dramatically reduces agricultural soil erosion.](https://wikipedia.org/wiki/Special:Redirect/file/TerracesBuffers.JPG)
 
-*Did you notice the valley shapes?* This is a great visual cue for kids! **Rivers carve [V-shaped valleys](https://en.wikipedia.org/wiki/Valley) through the continuous flow of liquid water eroding the underlying geosphere.** ("V" for the sharp, fast cut of a river). Conversely, glaciers act like giant, slow ice-spoons, carving wide **[U-shaped valleys](https://en.wikipedia.org/wiki/U-shaped_valley)**.
+## Bringing the Planet into the Classroom: Pedagogical Models
 
-![A classic U-shaped valley carved by the slow, bulldozer-like movement of a massive glacier. Contrast this wide, rounded bottom with the sharp, V-shaped cut of a fast-moving river.](https://wikipedia.org/wiki/Special:Redirect/file/Glacial_Valley_MtHoodWilderness.jpg)
+Understanding that a massive ice sheet carved a valley millions of years ago is an abstract, difficult concept for an elementary student. [Physical models](https://en.wikipedia.org/wiki/Physical_model) help students visualize Earth system interactions that are too large to observe directly (like an entire [river basin](https://en.wikipedia.org/wiki/Drainage_basin)) and help students visualize Earth system interactions that occur too slowly to observe directly (like a [canyon](https://en.wikipedia.org/wiki/Canyon) forming over [millennia](https://en.wikipedia.org/wiki/Millennium)).
 
-### The Speed of Change
-Does rock weather at the same speed everywhere? No! **The rate of rock weathering depends heavily on local [climate](https://en.wikipedia.org/wiki/Climate) conditions** (hot, wet climates speed up chemical weathering) and **the rate of rock weathering depends heavily on the specific type of rock** (soft [sandstone](https://en.wikipedia.org/wiki/Sandstone) breaks down much faster than tough [quartz](https://en.wikipedia.org/wiki/Quartz)).
+The premier tool for this in the elementary classroom is the stream table. Stream tables are physical models frequently used in classrooms to demonstrate the processes of water erosion. They typically consist of a tilted [tray](https://en.wikipedia.org/wiki/Tray) filled with sand or a sand-[clay](https://en.wikipedia.org/wiki/Clay) mix, with a water source trickling from the top. 
 
----
+By manipulating a stream table, students can watch a micro-river carve a [channel](https://en.wikipedia.org/wiki/Channel_%28geography%29) (erosion) and watch the sand pile up at the bottom of the tray in a [delta](https://en.wikipedia.org/wiki/River_delta). Therefore, stream tables are also physical models frequently used in classrooms to demonstrate the processes of sediment deposition. By changing the slope of the tray or the flow of the water, students can witness in ten minutes what takes the planet ten thousand years to achieve: faster water moving larger particles, the shifting shape of [river banks](https://en.wikipedia.org/wiki/Bank_%28geography%29), and the relentless interaction between the hydrosphere and the geosphere.
 
-## Part 4: Engineering Solutions (Fighting Back the Elements)
+![As flowing water slows down, it loses its carrying capacity and deposits sediments to form a delta.](https://wikipedia.org/wiki/Special:Redirect/file/Delta_Formation.svg)
 
-Once your students understand that wind and water are constantly tearing the land apart, empower them! Ask them: *How do we stop it?* This hits a crucial [Next Generation Science Standard](https://en.wikipedia.org/wiki/Next_Generation_Science_Standards) (NGSS): comparing design solutions.
-
-**Humans engineer specific design solutions to slow wind and water from altering natural land shapes,** and similarly, **humans engineer specific design solutions to prevent wind and water from altering natural land shapes.**
-
-Here is your toolbelt of human ingenuity for fighting erosion:
-
-### 1. Plant Root Systems
-Remember how roots break rocks? Well, they also save the soil! **Plant root systems anchor soil in place.** Therefore, **anchoring soil with plant roots prevents [soil erosion](https://en.wikipedia.org/wiki/Erosion).** This is nature's own netting.
-
-### 2. Retaining Walls
-If you have a steep, unstable slope, [gravity](https://en.wikipedia.org/wiki/Gravity) wants to pull it down. **[Retaining walls](https://en.wikipedia.org/wiki/Retaining_wall) are engineered physical barriers built to hold back soil on steep [slopes](https://en.wikipedia.org/wiki/Grade_%28slope%29).** By holding the dirt in place, **retaining walls prevent soil erosion on steep slopes.**
-
-### 3. Terracing
-Imagine a [farmer](https://en.wikipedia.org/wiki/Farmer) on a steep mountainside. If they just plant in a straight line down the hill, rain will wash all their [topsoil](https://en.wikipedia.org/wiki/Topsoil) away. The solution? **[Terracing](https://en.wikipedia.org/wiki/Terrace_%28agriculture%29) involves cutting flat steps into a sloped hillside.** By flattening the land into steps, **terracing slows down [water runoff](https://en.wikipedia.org/wiki/Surface_runoff) on sloped hillsides.** Slower water means less [power](https://en.wikipedia.org/wiki/Power_%28physics%29) to carry sediment, which means **terracing reduces soil erosion on sloped hillsides.**
-
-![By cutting flat, step-like terraces into steep hillsides, the speed of downward water runoff is slowed significantly, which reduces the water's kinetic energy and its ability to erode valuable topsoil.](https://wikipedia.org/wiki/Special:Redirect/file/Inside_the_Batad_rice_terraces.jpg)
-
-### 4. Breakwaters
-What about the coast? [Ocean waves](https://en.wikipedia.org/wiki/Wind_wave) relentlessly pound the [shoreline](https://en.wikipedia.org/wiki/Coast). To fight this, [engineers](https://en.wikipedia.org/wiki/Engineering) build breakwaters. **[Breakwaters](https://en.wikipedia.org/wiki/Breakwater_%28structure%29) are offshore [coastal structures](https://en.wikipedia.org/wiki/Coastal_engineering) designed to intercept waves.** By absorbing the ocean's energy before it hits the beach, **breakwaters protect coastal land from [wave erosion](https://en.wikipedia.org/wiki/Coastal_erosion).**
-
-![Offshore breakwaters intercept incoming ocean waves, absorbing their destructive energy before they reach the shore to prevent severe coastal erosion.](https://wikipedia.org/wiki/Special:Redirect/file/Breakwater_break1_new(USGS).jpg)
-
-### 5. Windbreaks
-In dry, flat [agricultural](https://en.wikipedia.org/wiki/Agriculture) areas, wind is a thief that steals valuable dirt. To stop it, farmers plant windbreaks. **[Windbreaks](https://en.wikipedia.org/wiki/Windbreak) are linear plantings of trees or [shrubs](https://en.wikipedia.org/wiki/Shrub).** Because they act as a physical wall, **windbreaks reduce [wind speed](https://en.wikipedia.org/wiki/Wind_speed) over open land**, and by slowing the wind, **windbreaks prevent topsoil erosion.**
-
-![A row of trees deliberately planted as a windbreak. This biological barrier slows the wind speed over open agricultural land, effectively preventing topsoil from blowing away.](https://wikipedia.org/wiki/Special:Redirect/file/Shea_Butter_Trees_Planted_Near_Residential_Areas_to_Serve_as_Windbreaks.jpg)
-
-> **Instructional Decision Making:** You can't just build a 50-foot [titanium](https://en.wikipedia.org/wiki/Titanium) retaining wall for every hillside. Why? Constraints! Teach your students that **evaluating [erosion control](https://en.wikipedia.org/wiki/Erosion_control) design solutions requires analyzing material [cost](https://en.wikipedia.org/wiki/Cost) constraints** (Do we have the money for this?) and **evaluating erosion control design solutions requires analyzing [environmental impact](https://en.wikipedia.org/wiki/Environmental_impact_assessment) constraints** (Will building this breakwater destroy the local [coral reef](https://en.wikipedia.org/wiki/Coral_reef)?). [Engineering](https://en.wikipedia.org/wiki/Engineering) is all about [trade-offs](https://en.wikipedia.org/wiki/Trade-off)!
-
----
-
-## Part 5: Bringing It to the Classroom (The Power of Models)
-
-Earth’s systems are magnificent, but they present a massive problem for an [elementary school](https://en.wikipedia.org/wiki/Elementary_school) teacher. How do you show a child a glacier carving a valley when it takes 10,000 years? How do you show them the entire atmosphere?
-
-You use [models](https://en.wikipedia.org/wiki/Scientific_modelling). 
-
-**[Physical models](https://en.wikipedia.org/wiki/Physical_model) help students visualize Earth system interactions that are too large to observe directly** (like the whole geosphere) or **that occur too slowly to observe directly** (like the weathering of a mountain).
-
-### The Holy Grail of Erosion Models: The Stream Table
-If you want to blow your students' minds and perfectly illustrate how water shapes the land, you need a stream table. **Stream tables are physical models frequently used in [classrooms](https://en.wikipedia.org/wiki/Classroom) to demonstrate the processes of water erosion.** They are essentially large, shallow trays filled with sand or soil, set on a slight incline, with a water source trickling down from the top. 
-
-As the water flows, students can literally watch tiny rivers carve V-shaped mini-valleys. They can see that when they increase the water flow (faster water), larger grains of sand are carried away. Furthermore, as the water reaches the flat bottom of the tray and slows down, it drops the sand. Thus, **stream tables are physical models frequently used in classrooms to demonstrate the processes of sediment deposition.**
-
-Through a stream table, the [abstract concepts](https://en.wikipedia.org/wiki/Abstraction) of weathering, erosion, and deposition suddenly become a dynamic, real-time movie right in front of their eyes.
-
----
-
-### Final Thoughts for the Exam
-
-When you sit down to take the [CKT exam](https://en.wikipedia.org/wiki/Praxis_test), put yourself in the mindset of a master teacher. Remember that you aren't just reciting that water erodes rock. You are explaining *how* to break students of the misconception that rocks never change. You are knowing exactly *why* a farmer uses terracing instead of a windbreak. You are recognizing that a stream table is the perfect [pedagogical](https://en.wikipedia.org/wiki/Pedagogy) tool for observing systems that are otherwise too slow to witness.
-
-The Earth is alive with moving energy and matter. Teach your future students to see the gears turning, and you will give them a fascinating world they will never stop exploring.
+Through careful [modeling](https://en.wikipedia.org/wiki/Scientific_modelling), precise vocabulary, and constant connections to the students' observable world, you transform Earth science from a [memorization](https://en.wikipedia.org/wiki/Rote_learning) exercise into a profound understanding of the living, breathing, grinding machine we call home.

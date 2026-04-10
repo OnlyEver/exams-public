@@ -1,173 +1,103 @@
-Welcome! Pull up a chair. Today, we are going to look at one of the most wonderfully practical corners of [mathematics](https://en.wikipedia.org/wiki/Mathematics): [geometry](https://en.wikipedia.org/wiki/Geometry). But we aren’t just going to memorize a soup of letters and [numbers](https://en.wikipedia.org/wiki/Number). That’s boring, and frankly, it doesn’t help you understand how the world is put together. 
+[Geometry](https://en.wikipedia.org/wiki/Geometry) is the [mathematics](https://en.wikipedia.org/wiki/Mathematics) of [physical space](https://en.wikipedia.org/wiki/Space), and to understand it deeply is to master the art of [measurement](https://en.wikipedia.org/wiki/Measurement) across [dimensions](https://en.wikipedia.org/wiki/Dimension). When we stretch a [tape measure](https://en.wikipedia.org/wiki/Tape_measure) around the [boundary](https://en.wikipedia.org/wiki/Boundary_%28topology%29) of a garden, we are exploring [one-dimensional](https://en.wikipedia.org/wiki/One-dimensional_space) [length](https://en.wikipedia.org/wiki/Length). When we tile the floor of a kitchen, we step into the [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) realm of [surfaces](https://en.wikipedia.org/wiki/Surface_%28mathematics%29). And when we fill a [shipping container](https://en.wikipedia.org/wiki/Intermodal_container) with boxed cargo, we transition into the [three-dimensional](https://en.wikipedia.org/wiki/Three-dimensional_space) world of [capacity](https://en.wikipedia.org/wiki/Volume). The [Praxis Elementary Education exam](https://en.wikipedia.org/wiki/Praxis_test) requires you to seamlessly navigate these dimensional shifts, translating the physical realities of [shape](https://en.wikipedia.org/wiki/Shape) and [space](https://en.wikipedia.org/wiki/Space) into the precise, rigorous language of [perimeter](https://en.wikipedia.org/wiki/Perimeter), [area](https://en.wikipedia.org/wiki/Area), and [volume](https://en.wikipedia.org/wiki/Volume). To teach this effectively, we must first understand how a single infinitely thin [line](https://en.wikipedia.org/wiki/Line_%28geometry%29) stretches into a bound boundary, how that boundary sweeps into a flat [plane](https://en.wikipedia.org/wiki/Plane_%28geometry%29), and how that plane stacks upward to occupy a [solid](https://en.wikipedia.org/wiki/Solid_geometry) world. 
 
-Instead, we are going to build an intuition for **[Perimeter](https://en.wikipedia.org/wiki/Perimeter)**, **[Area](https://en.wikipedia.org/wiki/Area)**, and **[Volume](https://en.wikipedia.org/wiki/Volume)**. 
+## The First Dimension: Perimeter and Linear Boundaries
 
-Think of [dimensions](https://en.wikipedia.org/wiki/Dimension) as a ladder. We start on the ground floor with [one-dimensional](https://en.wikipedia.org/wiki/One-dimensional_space) [lines](https://en.wikipedia.org/wiki/Line_%28geometry%29) (Perimeter). Then we step up to flat, [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) [surfaces](https://en.wikipedia.org/wiki/Surface_%28mathematics%29) (Area). Finally, we jump into the real, [three-dimensional](https://en.wikipedia.org/wiki/Three-dimensional_space) world we live in (Volume). If you can visualize what is physically happening at each step, the [formulas](https://en.wikipedia.org/wiki/Formula) will stop looking like [abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra) and start looking like pure, beautiful common sense. 
+Before we can measure the space inside a shape, we must define the fence that encloses it. **[Perimeter](https://en.wikipedia.org/wiki/Perimeter) is the total [length](https://en.wikipedia.org/wiki/Length) of the continuous boundary of a closed [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensional_space) figure.** Because we are measuring length—imagining that we could snip the boundary of a [shape](https://en.wikipedia.org/wiki/Shape) with [scissors](https://en.wikipedia.org/wiki/Scissors) and stretch it out into a single straight line—perimeter is always measured in linear units such as [inches](https://en.wikipedia.org/wiki/Inch), [centimeters](https://en.wikipedia.org/wiki/Centimetre), or [meters](https://en.wikipedia.org/wiki/Metre).
 
-Let’s get started.
+![Perimeter measures the total length of a shape's continuous boundary, effectively calculating the distance around the figure.](https://wikipedia.org/wiki/Special:Redirect/file/Perimiters.svg)
 
----
+The most fundamental rule of one-dimensional measurement is wonderfully simple: the perimeter of any [polygon](https://en.wikipedia.org/wiki/Polygon) is calculated by adding the lengths of all the sides of the polygon together. However, as shapes become more uniform, our [mathematics](https://en.wikipedia.org/wiki/Mathematics) becomes more elegant. 
 
-## Part 1: The One-Dimensional World of Perimeter
+Instead of adding every individual side, we can rely on [symmetry](https://en.wikipedia.org/wiki/Symmetry_in_mathematics):
 
-Imagine you own a plot of land and you want to build a fence to keep the deer out. How much fencing do you need? You don't care about the grass inside; you only care about the boundary. 
+> **Perimeter of a [Rectangle](https://en.wikipedia.org/wiki/Rectangle)**
+> Because a rectangle is defined by pairs of equal opposite sides, the [formula](https://en.wikipedia.org/wiki/Formula) for the perimeter of a rectangle is exactly two times the length plus two times the width ($P = 2l + 2w$).
 
-> **Definition:** **Perimeter** is the total [length](https://en.wikipedia.org/wiki/Length) of the continuous boundary of a closed two-dimensional [figure](https://en.wikipedia.org/wiki/Shape).
+> **Perimeter of a [Square](https://en.wikipedia.org/wiki/Square)**
+> Because a square has four equal sides, the formula for the perimeter of a square is exactly four times the side length ($P = 4s$).
 
-Because we are just measuring a line that happens to bend around some corners, **perimeter is always measured in linear units such as [inches](https://en.wikipedia.org/wiki/Inch), [centimeters](https://en.wikipedia.org/wiki/Centimetre), or [meters](https://en.wikipedia.org/wiki/Metre).** Think of a piece of string laid out around the [edges](https://en.wikipedia.org/wiki/Edge_%28geometry%29) of a [shape](https://en.wikipedia.org/wiki/Shape). If you cut the string and pulled it perfectly straight, how long would it be? That's your linear unit.
+![The perimeter of a rectangle is calculated by summing the lengths of its four sides, which simplifies algebraically to P = 2l + 2w.](https://wikipedia.org/wiki/Special:Redirect/file/PerimeterRectangle.svg)
 
-![Perimeter is the total continuous distance around the outside boundary of a two-dimensional shape.](https://wikipedia.org/wiki/Special:Redirect/file/Perimiters.svg)
+This principle of symmetry extends naturally to [regular polygons](https://en.wikipedia.org/wiki/Regular_polygon). A **[regular polygon](https://en.wikipedia.org/wiki/Regular_polygon)** is a two-dimensional shape in which all sides have identical lengths and all [interior angles](https://en.wikipedia.org/wiki/Internal_angle) have identical measures. For these perfectly uniform shapes, whether it is a [regular pentagon](https://en.wikipedia.org/wiki/Pentagon) or a [regular octagon](https://en.wikipedia.org/wiki/Octagon), the formula for the perimeter of a regular polygon is simply the total number of sides multiplied by the length of a single side ($P = n \times s$).
 
-### The Universal Rule of Perimeter
-At its core, **the perimeter of any [polygon](https://en.wikipedia.org/wiki/Polygon) is calculated by adding the lengths of all the sides of the polygon together.** That is the golden rule. If you forget every formula in the world, just walk around the edge of the shape and add up the steps. 
+### Navigating Fractional Boundaries
 
-But [mathematicians](https://en.wikipedia.org/wiki/Mathematician) love shortcuts, and that's where formulas come from.
+In the real world, fences and frames rarely measure to exact [whole numbers](https://en.wikipedia.org/wiki/Integer). When calculating the perimeter of polygons with fractional side lengths, you must remember that you are performing [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) on parts of a whole. Adding [fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29) requires a uniform scale. Therefore, calculating the perimeter of polygons with fractional side lengths requires finding a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) to add the fractional side lengths together. You cannot piece together an edge of $1/3$ inch and $1/4$ inch without first understanding that they measure $4/12$ and $3/12$ of an inch, respectively, yielding a combined edge of $7/12$ of an inch.
 
-### Shortcuts for Special Shapes
-If a shape has repeating side lengths, we can use [multiplication](https://en.wikipedia.org/wiki/Multiplication) to save time:
+## The Second Dimension: Area and Enclosed Space
 
-*   **Rectangles:** A [rectangle](https://en.wikipedia.org/wiki/Rectangle) has two equal lengths and two equal widths. So, **the formula for the perimeter of a rectangle is exactly two times the length plus two times the width** ($P = 2L + 2W$).
-*   **Squares:** A [square](https://en.wikipedia.org/wiki/Square) is just a highly symmetrical rectangle. Since all four sides are identical, **the formula for the perimeter of a square is exactly four times the side length** ($P = 4S$).
+Once we have built our one-dimensional fence, we can investigate the meadow inside. **[Area](https://en.wikipedia.org/wiki/Area) is the amount of two-dimensional space enclosed within a flat geometric shape.** Because we are no longer measuring length but rather flat coverage, area is always measured in [square units](https://en.wikipedia.org/wiki/Unit_square) such as [square inches](https://en.wikipedia.org/wiki/Square_inch), [square centimeters](https://en.wikipedia.org/wiki/Square_centimetre), or [square meters](https://en.wikipedia.org/wiki/Square_metre). We are essentially asking: *How many perfectly uniform [squares](https://en.wikipedia.org/wiki/Square) of a given size can we fit inside this boundary?*
 
-![The perimeter of a rectangle is efficiently calculated by adding its two identical lengths and two identical widths together.](https://wikipedia.org/wiki/Special:Redirect/file/PerimeterRectangle.svg)
+The bedrock of area calculation is the [rectangle](https://en.wikipedia.org/wiki/Rectangle). 
+> **Area of a [Rectangle](https://en.wikipedia.org/wiki/Rectangle):** The formula for the area of a rectangle is the length multiplied by the width ($A = l \times w$). 
+> **Area of a [Square](https://en.wikipedia.org/wiki/Square):** As a specific type of rectangle, the formula for the area of a square is the side length [squared](https://en.wikipedia.org/wiki/Square_%28algebra%29) ($A = s^2$).
 
-What about a [stop sign](https://en.wikipedia.org/wiki/Stop_sign)? That’s a [regular octagon](https://en.wikipedia.org/wiki/Octagon). 
-> **Definition:** **A [regular polygon](https://en.wikipedia.org/wiki/Regular_polygon) is a two-dimensional shape in which all sides have identical lengths and all [interior angles](https://en.wikipedia.org/wiki/Internal_and_external_angles) have identical measures.** 
+![The area of a rectangle represents the total number of square units enclosed within its boundaries, determined by multiplying the length by the width.](https://wikipedia.org/wiki/Special:Redirect/file/Illustration_for_the_area_of_a_rectangle.svg)
 
-Because of this perfect [symmetry](https://en.wikipedia.org/wiki/Symmetry), **the formula for the perimeter of a regular polygon is the total number of sides multiplied by the length of a single side.** If you have a [regular hexagon](https://en.wikipedia.org/wiki/Hexagon) (6 sides) and one side is 5 inches, the perimeter is simply $6 \times 5 = 30$ inches. 
+When dealing with non-whole numbers, the geometric logic remains identical. The area of a rectangle with fractional side lengths is calculated by multiplying the fractional length and the fractional width. If a rectangle is $1/2$ of an inch wide and $3/4$ of an inch long, multiplying them ($1/2 \times 3/4 = 3/8$) proves that the rectangle covers exactly three-eighths of a standard square inch.
 
-![A standard stop sign is a perfect real-world example of a regular octagon, meaning all eight sides have identical lengths.](https://wikipedia.org/wiki/Special:Redirect/file/STOP_sign.jpg)
+### Sweeping Through Triangles, Parallelograms, and Trapezoids
 
-### What Happens with Fractions?
-Sometimes the real world doesn't give us clean [whole numbers](https://en.wikipedia.org/wiki/Integer). You might have a [triangle](https://en.wikipedia.org/wiki/Triangle) with sides measuring $\frac{1}{2}$ inch, $\frac{3}{4}$ inch, and $\frac{5}{8}$ inch. 
+Not all flat shapes are rectangles, but all foundational flat shapes derive their area formulas from the rectangle. The critical concept here is the **[perpendicular](https://en.wikipedia.org/wiki/Perpendicular) height**—the straight vertical drop from the top of the shape to its [base](https://en.wikipedia.org/wiki/Base_%28geometry%29), forming a 90-degree [angle](https://en.wikipedia.org/wiki/Angle). 
 
-To find the perimeter, you still just add them up. But here is the catch: you can't just mash the numbers together. **Calculating the perimeter of polygons with fractional side lengths requires finding a [common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) to add the fractional side lengths together.** 
-Why? Because [fractions](https://en.wikipedia.org/wiki/Fraction) have to speak the same language before you can combine them. You must convert those halves and quarters into eighths ($\frac{4}{8} + \frac{6}{8} + \frac{5}{8}$) to find your total boundary length.
+![Perpendicular height must form a strict 90-degree angle with the base, providing the true vertical measurement required for accurate area calculations.](https://wikipedia.org/wiki/Special:Redirect/file/Perpendicular-coloured.svg)
 
-![Before fractional side lengths can be combined, they must be mathematically subdivided into a common denominator so they share the exact same scale.](https://wikipedia.org/wiki/Special:Redirect/file/Fraction_addition_example.svg)
+*   **[Parallelograms](https://en.wikipedia.org/wiki/Parallelogram):** If you snip a triangular wedge off one end of a parallelogram and attach it to the other end, you form a perfect rectangle. Therefore, the formula for the area of a parallelogram is the base multiplied by the perpendicular height ($A = b \times h$). 
+*   **[Triangles](https://en.wikipedia.org/wiki/Triangle):** Every triangle is exactly half of a parallelogram. Thus, the formula for the area of a triangle is one-half multiplied by the base multiplied by the perpendicular height ($A = \frac{1}{2}bh$).
+*   **[Trapezoids](https://en.wikipedia.org/wiki/Trapezoid):** A trapezoid features two [parallel](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) bases of unequal length. If we average those bases, we find the width of an equivalent rectangle. Consequently, the formula for the area of a trapezoid is one-half multiplied by the sum of the two parallel bases multiplied by the perpendicular height ($A = \frac{1}{2}(b_1 + b_2)h$).
 
----
+![By conceptually slicing a wedge from a parallelogram and rearranging it, we transform it into a rectangle, proving why its area formula is simply base times perpendicular height.](https://wikipedia.org/wiki/Special:Redirect/file/ParallelogramArea.svg)
 
-## Part 2: The Two-Dimensional Space of Area
+![Because any triangle can be duplicated and arranged to form a parallelogram, a triangle's area will always be exactly half of that corresponding parallelogram's area.](https://wikipedia.org/wiki/Special:Redirect/file/TriangleArea.svg)
 
-Now that we have built the fence, let’s talk about the grass inside. 
+### Decomposing Complex Polygons
 
-> **Definition:** **Area** is the amount of two-dimensional space enclosed within a flat geometric shape.
+Nature rarely provides us with perfect singular polygons. Often, you will encounter jagged, irregular [floor plans](https://en.wikipedia.org/wiki/Floor_plan) or odd plots of land. The area of a complex [irregular polygon](https://en.wikipedia.org/wiki/Polygon) can be calculated by [decomposing](https://en.wikipedia.org/wiki/Decomposition_%28mathematics%29) the complex irregular polygon into simpler shapes like non-overlapping rectangles and triangles. 
 
-You aren't measuring a line anymore. You are measuring a flat surface. Imagine trying to cover your floor with perfectly square floor tiles. Because of this, **area is always measured in square units such as square inches, square centimeters, or square meters.** 
+By shattering a complicated shape into manageable, familiar shards, we apply our standard formulas to each piece. The total area of a decomposed complex polygon equals the sum of the areas of the individual simpler geometric shapes within the decomposed complex polygon. This principle is a cornerstone of mathematical [problem solving](https://en.wikipedia.org/wiki/Problem_solving): reduce the unknown into a sum of knowns.
 
-### The Foundational Formulas
-Every area formula in [elementary geometry](https://en.wikipedia.org/wiki/Euclidean_geometry) is just a clever disguise for a rectangle. If you understand rectangles, you understand it all.
+## Unfolding the Third Dimension: Nets and Surface Area
 
-![The area of a rectangle is foundational to geometry, determined by multiplying its length by its width to find the total square units enclosed.](https://wikipedia.org/wiki/Special:Redirect/file/RectangleLengthWidth.svg)
+When we move from flat planes to [solid objects](https://en.wikipedia.org/wiki/Solid_geometry), we encounter a fascinating property: three-dimensional objects are bounded by two-dimensional surfaces. **[Surface area](https://en.wikipedia.org/wiki/Surface_area) is the total area of all the outside surfaces and [faces](https://en.wikipedia.org/wiki/Face_%28geometry%29) of a three-dimensional object combined.** Because it represents the flat space wrapping the object, surface area is always measured in square units.
 
-| Shape | Formula | Why it works (The Intuition) |
-| :--- | :--- | :--- |
-| **[Rectangle](https://en.wikipedia.org/wiki/Rectangle)** | **$A = L \times W$** | **The formula for the area of a rectangle is the length multiplied by the width.** Think of arranging 3 rows of 4 tiles. $3 \times 4 = 12$ tiles. |
-| **[Square](https://en.wikipedia.org/wiki/Square)** | **$A = S^2$** | A square is a rectangle where length and width are the same. Thus, **the formula for the area of a square is the side length squared.** |
-| **[Parallelogram](https://en.wikipedia.org/wiki/Parallelogram)** | **$A = b \times h$** | Imagine a leaning rectangle. If you chop off the leaning triangle on one side and stick it on the other, it forms a perfect rectangle! So, **the formula for the area of a parallelogram is the base multiplied by the [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) height.** |
-| **[Triangle](https://en.wikipedia.org/wiki/Triangle)** | **$A = \frac{1}{2} \times b \times h$** | If you take any triangle and clone it, the two identical triangles can always snap together to form a parallelogram. Therefore, a single triangle is exactly half of that. **The formula for the area of a triangle is one-half multiplied by the base multiplied by the perpendicular height.** |
-| **[Trapezoid](https://en.wikipedia.org/wiki/Trapezoid)** | **$A = \frac{1}{2} \times (b_1 + b_2) \times h$** | A trapezoid has two [parallel](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) bases of different lengths. If you [average](https://en.wikipedia.org/wiki/Arithmetic_mean) the lengths of the top and bottom bases, it acts just like a rectangle. Thus, **the formula for the area of a trapezoid is one-half multiplied by the sum of the two parallel bases multiplied by the perpendicular height.** |
+To visualize how 2D space wraps a 3D object, mathematicians use [nets](https://en.wikipedia.org/wiki/Net_%28polyhedron%29). A **[geometric net](https://en.wikipedia.org/wiki/Net_%28polyhedron%29)** is a two-dimensional pattern that can be folded along specific [edges](https://en.wikipedia.org/wiki/Edge_%28geometry%29) to form a three-dimensional solid figure. Imagine slicing down the edges of a cardboard shipping box and pressing it completely flat against the floor. 
 
-![A parallelogram can be visually chopped and rearranged into a perfect rectangle, proving why its area formula is simply the base multiplied by the perpendicular height.](https://wikipedia.org/wiki/Special:Redirect/file/ParallelogramArea.svg)
+The surface area of a three-dimensional figure is equal to the total area of the corresponding two-dimensional unfolded net. Calculating surface area using a geometric net involves finding the area of each individual flat face within the net and adding the individual face areas together. 
 
-![Two identical triangles can always be joined to form a parallelogram, demonstrating why a single triangle's area is exactly half of the parallelogram's base times height.](https://wikipedia.org/wiki/Special:Redirect/file/TriangleArea.svg)
+Recognizing the distinct net of standard geometric solids is a critical [spatial reasoning](https://en.wikipedia.org/wiki/Spatial_ability) skill:
 
-*A crucial warning on height!* When these formulas mention "height," they explicitly mean the **perpendicular height**—the straight drop from the top to the bottom base at a perfect [90-degree angle](https://en.wikipedia.org/wiki/Right_angle). Never use a slanted side length for height!
+| Three-Dimensional Solid | Anatomy of its Geometric Net |
+| :--- | :--- |
+| **[Cube](https://en.wikipedia.org/wiki/Cube)** | The geometric net of a cube consists of exactly six identical non-overlapping squares. |
+| **[Right Rectangular Prism](https://en.wikipedia.org/wiki/Cuboid)** | The geometric net of a right rectangular prism consists of six rectangles arranged in three identical opposite pairs. |
+| **[Square Pyramid](https://en.wikipedia.org/wiki/Square_pyramid)** | The geometric net of a square pyramid consists of one square base and four identical triangular faces. |
+| **[Triangular Prism](https://en.wikipedia.org/wiki/Triangular_prism)** | The geometric net of a triangular prism consists of two identical triangular bases and three rectangular faces. |
 
-### Area with Fractional Sides
-What if your rectangle is $\frac{1}{2}$ a meter long and $\frac{3}{4}$ of a meter wide? 
-Unlike perimeter, we *do not* need common denominators here. **The area of a rectangle with fractional side lengths is calculated by multiplying the fractional length and the fractional width** straight across ($\frac{1}{2} \times \frac{3}{4} = \frac{3}{8}$ square meters). 
+![A 3D cube can be unfolded into various 2D nets. The surface area of the cube is equal to the combined area of these six constituent 2D squares.](https://wikipedia.org/wiki/Special:Redirect/file/The_11_cubic_nets.svg)
 
-Why does this work? Because taking a fraction *of* a fraction mathematically scales the area down into a smaller, perfectly [proportional](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29) square unit.
+By translating a 3D shape into its 2D net, a complex surface area problem instantly becomes a standard 2D complex polygon problem. You simply decompose the net, calculate the area of the individual rectangles or triangles, and sum them up.
 
-### Taming Complex Irregular Polygons
-What if you have an L-shaped room? There is no "L-shape area formula." 
+## The Third Dimension: Volume and Occupied Space
 
-Don't panic! **The area of a complex [irregular polygon](https://en.wikipedia.org/wiki/Polygon) can be calculated by [decomposing](https://en.wikipedia.org/wiki/Decomposition_%28mathematics%29) the complex irregular polygon into simpler shapes like non-overlapping rectangles and triangles.** Draw a line through that L-shape to cut it into two normal rectangles. Calculate the area of Rectangle A, calculate the area of Rectangle B, and add them up. 
+Finally, we transition from the wrapper to the space inside. **[Volume](https://en.wikipedia.org/wiki/Volume) is the measure of the amount of three-dimensional space that an object entirely occupies.** Because we are measuring three directional bounds—length, width, and depth—volume is always measured in [cubic units](https://en.wikipedia.org/wiki/Unit_cube) such as [cubic inches](https://en.wikipedia.org/wiki/Cubic_inch), [cubic centimeters](https://en.wikipedia.org/wiki/Cubic_centimetre), or [cubic meters](https://en.wikipedia.org/wiki/Cubic_metre). 
 
-**The total area of a decomposed complex polygon equals the sum of the areas of the individual simpler geometric shapes within the decomposed complex polygon.** It is simple [addition](https://en.wikipedia.org/wiki/Addition)!
+To understand volume deeply, we focus on the **[right rectangular prism](https://en.wikipedia.org/wiki/Cuboid)**, which is a three-dimensional solid composed of six rectangular faces where all adjacent faces meet at ninety-degree [right angles](https://en.wikipedia.org/wiki/Right_angle) (like a standard shoebox or a brick). 
 
----
+Conceptually, the volume of a right rectangular prism can be determined by packing the right rectangular prism completely with gapless [unit cubes](https://en.wikipedia.org/wiki/Unit_cube) and counting the total number of unit cubes. If a box holds 24 solid wooden unit cubes without any empty gaps, its volume is strictly 24 cubic units. 
 
-## Part 3: From Flat to Fat: Nets and Surface Area
+![A unit cube serves as the foundational building block for measuring volume, representing exactly one cubic unit of occupied 3D space.](https://wikipedia.org/wiki/Special:Redirect/file/Unitcube.svg)
 
-Now we are stepping up the dimension ladder again. We are moving from flat drawings to [three-dimensional objects](https://en.wikipedia.org/wiki/Solid_geometry) you can hold in your hand. But before we look at the space *inside* a 3D object, we have to look at its skin.
+Instead of manually counting every single cube, we use the architecture of the shape. If we know how many cubes line the length, how many rows of them make up the width, and how many layers stack up to the height, we arrive at our fundamental calculation:
 
-> **Definition:** **[Surface area](https://en.wikipedia.org/wiki/Surface_area) is the total area of all the outside surfaces and [faces](https://en.wikipedia.org/wiki/Face_%28geometry%29) of a three-dimensional object combined.**
+> **Volume of a Right Rectangular Prism**
+> The [mathematical formula](https://en.wikipedia.org/wiki/Formula) for the volume of a right rectangular prism is the length multiplied by the width multiplied by the height ($V = l \times w \times h$).
 
-Because surface area is essentially just asking "how much paint do I need to paint the outside of this box?", we are still dealing with flat 2D surfaces. Therefore, **surface area is always measured in square units.**
+There is an alternative, equally powerful way to view this. Imagine a single flat layer of cubes resting on the bottom of the prism. The number of cubes in this base layer is identical to the 2D area of the base. If we stack identical layers on top of it until we reach the roof of the prism, we are multiplying that base footprint by the vertical climb. Thus, an alternative mathematical formula for the volume of a right rectangular prism is the area of the base multiplied by the overall height of the prism ($V = B \times h$).
 
-### Geometric Nets: Unfolding the World
-To calculate surface area easily, mathematicians use a fantastic mental tool called a net.
+### The Fractional Volumetric Model
 
-> **Definition:** **A [geometric net](https://en.wikipedia.org/wiki/Net_%28polyhedron%29) is a two-dimensional pattern that can be folded along specific edges to form a three-dimensional solid figure.**
+Just as with length and area, we must account for [prisms](https://en.wikipedia.org/wiki/Prism_%28geometry%29) whose dimensions do not fall on neat whole numbers. The mathematics scales perfectly: the volume of a right rectangular prism with fractional [edge lengths](https://en.wikipedia.org/wiki/Edge_%28geometry%29) is calculated by multiplying the fractional length, the fractional width, and the fractional height together. 
 
-Imagine taking a cardboard shipping box, cutting along a few edges, and flattening it out on the floor. That flat cardboard footprint is the geometric net. This makes the math incredibly intuitive: **the surface area of a three-dimensional figure is equal to the total area of the corresponding two-dimensional unfolded net.**
+But what does this physically look like? You cannot pack a box measuring $2\frac{1}{2}$ inches across with standard 1-inch unit cubes; they simply will not fit without leaving an awkward half-inch void. Instead, the volume of a right rectangular prism with fractional edge lengths can be physically modeled by packing the prism with smaller cubes that possess fractional side lengths. 
 
-**Calculating surface area using a geometric net involves finding the area of each individual flat face within the net and adding the individual face areas together.** It's exactly like decomposing complex polygons!
-
-Let's look at the "fingerprints" of common 3D shapes. If you see these flat nets lying on a table, here is what they will fold up into:
-
-*   **[Cube](https://en.wikipedia.org/wiki/Cube):** **The geometric net of a cube consists of exactly six identical non-overlapping squares.** Think of a flattened [dice](https://en.wikipedia.org/wiki/Dice). Because all 6 squares are identical, you just find the area of one square ($S^2$) and multiply by 6.
-
-![A 3D cube can be unfolded into various 2D nets, all consisting of exactly six identical squares. Finding the total area of the net gives you the surface area of the 3D cube.](https://wikipedia.org/wiki/Special:Redirect/file/The_11_cubic_nets.svg)
-
-*   **[Right Rectangular Prism](https://en.wikipedia.org/wiki/Cuboid):** Think of a standard Amazon box. **The geometric net of a right rectangular prism consists of six rectangles arranged in three identical opposite pairs.** Top/bottom, left/right, front/back.
-*   **[Square Pyramid](https://en.wikipedia.org/wiki/Square_pyramid):** Picture the [Great Pyramids of Egypt](https://en.wikipedia.org/wiki/Egyptian_pyramids) unfolding like a flower. **The geometric net of a square pyramid consists of one square base and four identical triangular faces.** 
-*   **[Triangular Prism](https://en.wikipedia.org/wiki/Triangular_prism):** Imagine a [Toblerone](https://en.wikipedia.org/wiki/Toblerone) chocolate bar box flattened out. **The geometric net of a triangular prism consists of two identical triangular bases and three rectangular faces.**
-
-If you can sketch the net, finding the surface area is simply a matter of calculating the area of those individual squares, rectangles, and triangles, and summing them up. 
-
----
-
-## Part 4: The Three-Dimensional Reality of Volume
-
-Finally, we have arrived at the space *inside* the box. 
-
-> **Definition:** **Volume is the measure of the amount of three-dimensional space that an object entirely occupies.**
-
-We aren't laying flat square tiles down anymore. We are stacking blocks. Therefore, **volume is always measured in cubic units such as [cubic inches](https://en.wikipedia.org/wiki/Cubic_inch), [cubic centimeters](https://en.wikipedia.org/wiki/Cubic_centimetre), or [cubic meters](https://en.wikipedia.org/wiki/Cubic_metre).** 
-
-### The Right Rectangular Prism
-For the elementary level, our primary focus is on the right rectangular prism. 
-What exactly is it? **A right rectangular prism is a three-dimensional solid composed of six rectangular faces where all adjacent faces meet at ninety-degree [right angles](https://en.wikipedia.org/wiki/Right_angle).** It is your standard, perfectly straight cardboard box or brick. No slanting, no leaning.
-
-### How to Find Volume (The Intuitive Way)
-Before we use formulas, let's look at the physical reality. **The volume of a right rectangular prism can be determined by packing the right rectangular prism completely with gapless [unit cubes](https://en.wikipedia.org/wiki/Unit_cube) and counting the total number of unit cubes.** 
-
-If you have a clear plastic box, and you perfectly pack it with little wooden blocks that are exactly 1 cubic inch each, counting the blocks gives you the exact volume. 
-
-![A unit cube is the foundational building block for measuring volume. The volume of a 3D object is physically determined by counting how many unit cubes fit completely inside it.](https://wikipedia.org/wiki/Special:Redirect/file/Unitcube.svg)
-
-### The Mathematical Formulas
-Counting blocks takes forever. So, we use multiplication.
-
-If you lay down a bottom layer of blocks (say, 5 blocks long and 4 blocks wide), you have a base layer of 20 blocks. If the box is 3 layers tall, you have $20 \times 3 = 60$ blocks. 
-
-This gives us our two primary volume formulas, which are actually the exact same thing written two different ways:
-1.  **The mathematical formula for the volume of a right rectangular prism is the length multiplied by the width multiplied by the height** ($V = L \times W \times H$).
-2.  **An alternative mathematical formula for the volume of a right rectangular prism is the area of the base multiplied by the overall height of the prism** ($V = B \times H$, where $B$ is the area of the base rectangle). 
-
-### The Final Boss: Volume with Fractional Edges
-What if your right rectangular prism has dimensions of $\frac{1}{2}$ inch by $\frac{1}{4}$ inch by $\frac{3}{4}$ inch?
-
-The math operates the exact same way as area. **The volume of a right rectangular prism with fractional edge lengths is calculated by multiplying the fractional length, the fractional width, and the fractional height together.** 
-
-$$\frac{1}{2} \times \frac{1}{4} \times \frac{3}{4} = \frac{3}{32} \text{ cubic inches}$$
-
-But what does a fraction of a cubic inch actually mean physically? Just like whole numbers, **the volume of a right rectangular prism with fractional edge lengths can be physically modeled by packing the prism with smaller cubes that possess fractional side lengths.** 
-
-Imagine you take a standard 1-inch wooden cube and chop it up into tiny little $\frac{1}{4}$-inch micro-cubes. You can perfectly pack a strangely sized fractional box using these tiny fractional micro-cubes without leaving any gaps! The multiplication formula is just mathematically counting those tiny micro-cubes for you.
-
----
-
-## The Big Picture Wrap-Up
-
-Do you see the beautiful progression? 
-1.  We walked the boundary in **1D ([Perimeter](https://en.wikipedia.org/wiki/Perimeter))**, adding lengths and dealing with common denominators. Measured in **linear units**.
-2.  We painted the flat space in **2D ([Area](https://en.wikipedia.org/wiki/Area))**, recognizing that every polygon is just a rectangle in disguise, and that complex shapes can be chopped into simpler ones. Measured in **square units**.
-3.  We peeled the skin off 3D objects to examine their **[Nets](https://en.wikipedia.org/wiki/Net_%28polyhedron%29)**, allowing us to find **[Surface Area](https://en.wikipedia.org/wiki/Surface_area)** using the 2D rules we already knew. Measured in **square units**.
-4.  We filled the entire 3D space with blocks to find **Volume**, stacking layers of area to occupy physical reality. Measured in **cubic units**.
-
-Math is not a list of disconnected facts to be memorized for the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test). It is a logical, interlocking toolkit for describing the physical world. Understand the concepts, visualize the shapes, and the formulas will follow!
+For instance, if you pack the prism with small cubes that each have a side length of $1/2$ inch, eight of these smaller fractional cubes form a single standard $1$-inch unit cube (since $2 \times 2 \times 2 = 8$). By counting these smaller fractional cubes and converting them back into standard cubic units, you achieve a flawless calculation of occupied space, seamlessly linking the physical act of packing a box with the rigorous arithmetic of [multiplying fractions](https://en.wikipedia.org/wiki/Fraction_%28mathematics%29).

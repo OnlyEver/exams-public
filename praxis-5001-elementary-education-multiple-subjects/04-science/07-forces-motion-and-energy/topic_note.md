@@ -1,6 +1,6 @@
 # [Forces](https://en.wikipedia.org/wiki/Force), [Motion](https://en.wikipedia.org/wiki/Motion), and [Energy](https://en.wikipedia.org/wiki/Energy): The Grand Ballet of the [Universe](https://en.wikipedia.org/wiki/Universe)
 
-Welcome! As future elementary [educators](https://en.wikipedia.org/wiki/Teacher), you have the magnificent task of looking at a child who just dropped a book, or slid across a [wooden floor](https://en.wikipedia.org/wiki/Wood_flooring) in their [socks](https://en.wikipedia.org/wiki/Sock), and explaining to them the hidden rules of the [universe](https://en.wikipedia.org/wiki/Universe). To do that, we aren’t just going to memorize [vocabulary](https://en.wikipedia.org/wiki/Vocabulary). We are going to look under the hood of [reality](https://en.wikipedia.org/wiki/Reality). 
+Welcome! As future elementary [educators](https://en.wikipedia.org/wiki/Teacher), you have the magnificent task of looking at a [child](https://en.wikipedia.org/wiki/Child) who just dropped a [book](https://en.wikipedia.org/wiki/Book), or slid across a [wooden floor](https://en.wikipedia.org/wiki/Wood_flooring) in their [socks](https://en.wikipedia.org/wiki/Sock), and explaining to them the hidden rules of the [universe](https://en.wikipedia.org/wiki/Universe). To do that, we aren’t just going to memorize [vocabulary](https://en.wikipedia.org/wiki/Vocabulary). We are going to look under the hood of [reality](https://en.wikipedia.org/wiki/Reality). 
 
 Why do things move? Why do they stop? Why does a [roller coaster](https://en.wikipedia.org/wiki/Roller_coaster) need a giant hill to start, and why does an [astronaut](https://en.wikipedia.org/wiki/Astronaut) bounce on the [Moon](https://en.wikipedia.org/wiki/Moon)? 
 
@@ -10,9 +10,9 @@ Let’s strip away the complicated [jargon](https://en.wikipedia.org/wiki/Jargon
 
 ## Part 1: The Cosmic Rules of the Road ([Forces](https://en.wikipedia.org/wiki/Force) & [Motion](https://en.wikipedia.org/wiki/Motion))
 
-Imagine a [coffee cup](https://en.wikipedia.org/wiki/Coffee_cup) sitting on your [desk](https://en.wikipedia.org/wiki/Desk). It is perfectly happy doing nothing. It isn't going to spontaneously fly across the room. If you want it to move, you have to do something to it. 
+Imagine a [coffee cup](https://en.wikipedia.org/wiki/Coffee_cup) sitting on your [desk](https://en.wikipedia.org/wiki/Desk). It is perfectly happy doing nothing. It isn't going to spontaneously fly across the [room](https://en.wikipedia.org/wiki/Room). If you want it to move, you have to do something to it. 
 
-In [physics](https://en.wikipedia.org/wiki/Physics), a **[force](https://en.wikipedia.org/wiki/Force)** is simply a push or a pull exerted on an [object](https://en.wikipedia.org/wiki/Physical_object). But in the real world, there is rarely just *one* push or pull happening at a time. [Gravity](https://en.wikipedia.org/wiki/Gravity) is pulling that cup down, the desk is pushing it up, and maybe your hand is pushing it sideways. To figure out what the cup is actually going to do, we have to look at the **[net force](https://en.wikipedia.org/wiki/Net_force)**, which is the [vector sum](https://en.wikipedia.org/wiki/Euclidean_vector) of all forces acting upon an object. 
+In [physics](https://en.wikipedia.org/wiki/Physics), a **[force](https://en.wikipedia.org/wiki/Force)** is simply a push or a pull exerted on an [object](https://en.wikipedia.org/wiki/Physical_object). But in the real world, there is rarely just *one* push or pull happening at a time. [Gravity](https://en.wikipedia.org/wiki/Gravity) is pulling that cup down, the desk is pushing it up, and maybe your [hand](https://en.wikipedia.org/wiki/Hand) is pushing it sideways. To figure out what the cup is actually going to do, we have to look at the **[net force](https://en.wikipedia.org/wiki/Net_force)**, which is the [vector sum](https://en.wikipedia.org/wiki/Euclidean_vector) of all forces acting upon an object. 
 
 ![Free body diagrams illustrate how individual forces (such as gravity and the normal force) are resolved and added together to determine the overall net force acting on an object.](https://wikipedia.org/wiki/Special:Redirect/file/Freebodydiagram3_pn.svg)
 
@@ -56,7 +56,7 @@ No! The ball doesn't stop by itself. It is being stopped by **[friction](https:/
 
 If [force](https://en.wikipedia.org/wiki/Force) is the *act* of pushing or pulling, then [energy](https://en.wikipedia.org/wiki/Energy) is the *ability* to do so. In [physics](https://en.wikipedia.org/wiki/Physics), **energy is defined as the capacity to do [work](https://en.wikipedia.org/wiki/Work_%28physics%29)**. 
 
-Imagine energy as the [currency](https://en.wikipedia.org/wiki/Currency) of the universe. Just like money can be held in a [savings account](https://en.wikipedia.org/wiki/Savings_account) or spent at the store, energy comes in different [forms](https://en.wikipedia.org/wiki/Forms_of_energy). 
+Imagine energy as the [currency](https://en.wikipedia.org/wiki/Currency) of the universe. Just like [money](https://en.wikipedia.org/wiki/Money) can be held in a [savings account](https://en.wikipedia.org/wiki/Savings_account) or spent at the store, energy comes in different [forms](https://en.wikipedia.org/wiki/Forms_of_energy). 
 
 * **The standard [unit of energy](https://en.wikipedia.org/wiki/Units_of_energy) in the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI) is the [Joule](https://en.wikipedia.org/wiki/Joule).**
 
@@ -85,11 +85,11 @@ To wrap our heads around this, let’s look at a [grandfather clock](https://en.
 We define **[mechanical energy](https://en.wikipedia.org/wiki/Mechanical_energy)** as the sum of an object's kinetic energy and potential energy. In an isolated system without friction, the total mechanical energy of an object remains perfectly constant. The pendulum is just shuffling the energy back and forth between the two forms:
 
 * **At the highest point** of its swing, the pendulum pauses for a fraction of a [millisecond](https://en.wikipedia.org/wiki/Millisecond). It has no speed, but it has maximum height. Therefore, a swinging pendulum possesses **maximum [potential energy](https://en.wikipedia.org/wiki/Potential_energy) at the pendulum's highest point**.
-* **At the lowest point** of its swing, it is closest to the ground (zero height), but it is whipping through the air at its fastest speed. Therefore, a swinging pendulum possesses **maximum [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) at the pendulum's lowest point**.
+* **At the lowest point** of its swing, it is closest to the ground (zero height), but it is whipping through the [air](https://en.wikipedia.org/wiki/Atmosphere_of_Earth) at its fastest speed. Therefore, a swinging pendulum possesses **maximum [kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy) at the pendulum's lowest point**.
 
 ![As a pendulum swings, it continuously transforms potential energy (which is maximized at its highest points) into kinetic energy (represented by its maximum velocity at the lowest point).](https://wikipedia.org/wiki/Special:Redirect/file/Pendulum_animation.gif)
 
-It is a gorgeous, endless dance: [Potential](https://en.wikipedia.org/wiki/Potential_energy) $\rightarrow$ [Kinetic](https://en.wikipedia.org/wiki/Kinetic_energy) $\rightarrow$ [Potential](https://en.wikipedia.org/wiki/Potential_energy) $\rightarrow$ [Kinetic](https://en.wikipedia.org/wiki/Kinetic_energy). 
+It is a gorgeous, endless [dance](https://en.wikipedia.org/wiki/Dance): [Potential](https://en.wikipedia.org/wiki/Potential_energy) $\rightarrow$ [Kinetic](https://en.wikipedia.org/wiki/Kinetic_energy) $\rightarrow$ [Potential](https://en.wikipedia.org/wiki/Potential_energy) $\rightarrow$ [Kinetic](https://en.wikipedia.org/wiki/Kinetic_energy). 
 
 ***
 
@@ -115,11 +115,11 @@ Let's clear this up once and for all.
 ### The Ultimate Test: The Trip to the [Moon](https://en.wikipedia.org/wiki/Moon)
 Imagine you pack your bags and take a [rocket](https://en.wikipedia.org/wiki/Rocket) to the Moon. You step out of the [lander](https://en.wikipedia.org/wiki/Lander_%28spacecraft%29) and jump around in that bulky [spacesuit](https://en.wikipedia.org/wiki/Space_suit). 
 
-Did stepping onto the Moon magically amputate your arm or steal your [atoms](https://en.wikipedia.org/wiki/Atom)? Of course not! Therefore, **an object located on the Moon has the exact same mass as the object has on [Earth](https://en.wikipedia.org/wiki/Earth).** Your kilogram value has not changed one bit. 
+Did stepping onto the Moon magically amputate your [arm](https://en.wikipedia.org/wiki/Arm) or steal your [atoms](https://en.wikipedia.org/wiki/Atom)? Of course not! Therefore, **an object located on the Moon has the exact same mass as the object has on [Earth](https://en.wikipedia.org/wiki/Earth).** Your kilogram value has not changed one bit. 
 
 However, the Moon is much smaller than the Earth. In fact, **the Moon's surface [gravitational pull](https://en.wikipedia.org/wiki/Gravity) is approximately one-sixth the strength of Earth's surface gravitational pull.** 
 
-Because gravity is pulling on you with far less ferocity, **an object located on the Moon has less weight than the object has on Earth.** You weigh roughly 1/6th of what you weighed this morning, which is exactly why [astronauts](https://en.wikipedia.org/wiki/Astronaut) can bounce gracefully across the [lunar surface](https://en.wikipedia.org/wiki/Topography_of_the_Moon) despite wearing extremely massive spacesuits. 
+Because gravity is pulling on you with far less ferocity, **an object located on the Moon has less weight than the object has on Earth.** You weigh roughly 1/6th of what you weighed this [morning](https://en.wikipedia.org/wiki/Morning), which is exactly why [astronauts](https://en.wikipedia.org/wiki/Astronaut) can bounce gracefully across the [lunar surface](https://en.wikipedia.org/wiki/Topography_of_the_Moon) despite wearing extremely massive spacesuits. 
 
 ![Astronaut John Young jumping on the Moon. Though the mass of the astronaut and his suit is unchanged from Earth, the Moon's weaker gravity significantly reduces his weight, allowing for higher jumps.](https://wikipedia.org/wiki/Special:Redirect/file/Youtubeastronautsonmoonot3.gif)
 
@@ -137,4 +137,4 @@ Because gravity is pulling on you with far less ferocity, **an object located on
 ### Final Thoughts for the [Exam](https://en.wikipedia.org/wiki/Test_%28assessment%29)
 When you sit down to take the [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), remember that all of these concepts are deeply intertwined. An object's *[mass](https://en.wikipedia.org/wiki/Mass)* determines its *[inertia](https://en.wikipedia.org/wiki/Inertia)*, which dictates how it will *[accelerate](https://en.wikipedia.org/wiki/Acceleration)* when a *[force](https://en.wikipedia.org/wiki/Force)* is applied. As it accelerates, its *[kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy)* increases, drawing from its stored *[potential energy](https://en.wikipedia.org/wiki/Potential_energy)*, all while obeying the strict *[conservation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy)* dictated by the universe. 
 
-[Physics](https://en.wikipedia.org/wiki/Physics) isn't a collection of disconnected facts; it's the rhythm of the world around us. Keep this framework in mind, trust in your understanding of how things push, pull, and fall, and you'll do phenomenally well!
+[Physics](https://en.wikipedia.org/wiki/Physics) isn't a collection of disconnected facts; it's the rhythm of the world around us. Keep this [framework](https://en.wikipedia.org/wiki/Conceptual_framework) in mind, trust in your understanding of how things push, pull, and fall, and you'll do phenomenally well!

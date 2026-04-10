@@ -1,154 +1,124 @@
-# The Architecture of [Numbers](https://en.wikipedia.org/wiki/Number): A [Praxis](https://en.wikipedia.org/wiki/Praxis_test) Study Guide to [Number Theory](https://en.wikipedia.org/wiki/Number_theory)
+[Mathematics](https://en.wikipedia.org/wiki/Mathematics) begins with the observation that numbers are not merely isolated, arbitrary quantities, but precise structures built from elemental building blocks. Just as a [physicist](https://en.wikipedia.org/wiki/Physicist) looks at a complex [molecule](https://en.wikipedia.org/wiki/Molecule) and asks what [atoms](https://en.wikipedia.org/wiki/Atom) comprise it, a [mathematician](https://en.wikipedia.org/wiki/Mathematician) looks at a number and asks what elemental numbers [multiply](https://en.wikipedia.org/wiki/Multiplication) together to form it. Basic [number theory](https://en.wikipedia.org/wiki/Number_theory) is the study of this underlying architecture. By understanding how numbers break down into fundamental units and how they scale infinitely upward, we reveal the hidden patterns governing everything from [elementary arithmetic](https://en.wikipedia.org/wiki/Elementary_arithmetic) to modern [cryptographic security](https://en.wikipedia.org/wiki/Cryptography). 
 
-Imagine you are a [physicist](https://en.wikipedia.org/wiki/Physicist), but instead of taking apart [rocks](https://en.wikipedia.org/wiki/Rock_%28geology%29), [stars](https://en.wikipedia.org/wiki/Star), or [molecules](https://en.wikipedia.org/wiki/Molecule), you are taking apart *[numbers](https://en.wikipedia.org/wiki/Number)*. You want to know what they are made of. You look at a [number](https://en.wikipedia.org/wiki/Number) like [12](https://en.wikipedia.org/wiki/12_%28number%29), and you wonder, "Can I break this apart? Are there hidden gears inside?" 
+## The Atoms and Molecules of Arithmetic: Primes and Composites
 
-Welcome to [Number Theory](https://en.wikipedia.org/wiki/Number_theory)! For your [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), you don’t just need to memorize definitions; you need to understand the *machinery* of numbers. Once you see how numbers are built, the rules stop being random facts and start becoming a beautiful, interconnected [puzzle](https://en.wikipedia.org/wiki/Puzzle). Let's look under the hood.
+To understand the nature of numbers, we must first categorize them by their structural integrity. We divide [whole numbers](https://en.wikipedia.org/wiki/Integer) into two primary categories based on how they can be [divided](https://en.wikipedia.org/wiki/Division_%28mathematics%29).
 
----
+> A **[prime number](https://en.wikipedia.org/wiki/Prime_number)** is a whole number greater than 1 that has exactly two distinct positive [divisors](https://en.wikipedia.org/wiki/Divisor).
 
-## 1. The [Atoms](https://en.wikipedia.org/wiki/Atom) of [Mathematics](https://en.wikipedia.org/wiki/Mathematics): [Primes](https://en.wikipedia.org/wiki/Prime_number) and [Composites](https://en.wikipedia.org/wiki/Composite_number)
+Those two distinct positive divisors of a prime number are the number 1 and the prime number itself. Because they cannot be broken down any further through [division](https://en.wikipedia.org/wiki/Division_%28mathematics%29), primes are the "atoms" of mathematics. 
 
-If you smash a [rock](https://en.wikipedia.org/wiki/Rock_%28geology%29) into pieces, eventually you get down to the [atoms](https://en.wikipedia.org/wiki/Atom)—the fundamental building blocks that cannot be broken down any further. In [mathematics](https://en.wikipedia.org/wiki/Mathematics), our "atoms" are called [prime numbers](https://en.wikipedia.org/wiki/Prime_number).
+![Unlike composite numbers, which can be geometrically arranged into uniform rectangles based on their multiple factors, prime numbers have exactly two factors and can only be arranged in a single linear row.](https://wikipedia.org/wiki/Special:Redirect/file/Primes-vs-composites.svg)
 
-> **A [prime number](https://en.wikipedia.org/wiki/Prime_number) is a [whole number](https://en.wikipedia.org/wiki/Integer) greater than [1](https://en.wikipedia.org/wiki/1) that has exactly two distinct positive [divisors](https://en.wikipedia.org/wiki/Divisor).** 
+> Conversely, a **[composite number](https://en.wikipedia.org/wiki/Composite_number)** is a whole number greater than 1 that has more than two positive divisors. 
 
-What are those two [divisors](https://en.wikipedia.org/wiki/Divisor)? It's perfectly simple: **The two distinct positive divisors of a prime number are the number 1 and the prime number itself.** You can't break a prime number down into any smaller whole-number chunks. It is [irreducible](https://en.wikipedia.org/wiki/Irreducible_%28mathematics%29). 
+A composite number is like a molecule; it is formed by binding together smaller, elemental prime numbers through [multiplication](https://en.wikipedia.org/wiki/Multiplication). 
 
-Let’s look at the prime numbers. **The prime numbers less than [20](https://en.wikipedia.org/wiki/20_%28number%29) are [2](https://en.wikipedia.org/wiki/2), [3](https://en.wikipedia.org/wiki/3), [5](https://en.wikipedia.org/wiki/5), [7](https://en.wikipedia.org/wiki/7), [11](https://en.wikipedia.org/wiki/11), [13](https://en.wikipedia.org/wiki/13), [17](https://en.wikipedia.org/wiki/17), and [19](https://en.wikipedia.org/wiki/19).** Notice that we skipped a few numbers. Where did [4](https://en.wikipedia.org/wiki/4), [6](https://en.wikipedia.org/wiki/6), and [8](https://en.wikipedia.org/wiki/8) go? Those are what we call *[composites](https://en.wikipedia.org/wiki/Composite_number)*. 
+When observing the landscape of numbers, two particular numbers require special classification: 0 and 1. 
+* **The [number 0](https://en.wikipedia.org/wiki/0) is neither a prime number nor a composite number.** It cannot be divided in a meaningful way that yields a [finite set](https://en.wikipedia.org/wiki/Finite_set) of divisors, nor does it build other numbers through multiplication (as multiplying by zero always yields zero). 
+* **The [number 1](https://en.wikipedia.org/wiki/1) is neither a prime number nor a composite number.** For a number to be prime, it must have *exactly two distinct* positive divisors. The number 1 only has a single divisor (itself). If we allowed 1 to be prime, the entire foundation of [unique factorization](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic) would collapse.
 
-![The Sieve of Eratosthenes is a classic mathematical algorithm that systematically identifies prime numbers by filtering out the expanding multiples of each known prime.](https://wikipedia.org/wiki/Special:Redirect/file/Sieve_of_Eratosthenes_animation.gif)
+### The Landscape of Primes
+If we begin counting upward, the first true building block we encounter is the number 2. **The [number 2](https://en.wikipedia.org/wiki/2) is the smallest prime number.** It is profoundly unique in the mathematical universe because **the number 2 is the only [even](https://en.wikipedia.org/wiki/Parity_%28mathematics%29) prime number.** 
 
-> **A [composite number](https://en.wikipedia.org/wiki/Composite_number) is a [whole number](https://en.wikipedia.org/wiki/Integer) greater than 1 that has more than two positive divisors.** 
+By definition, an [even number](https://en.wikipedia.org/wiki/Parity_%28mathematics%29) is divisible by 2. Therefore, **every even whole number greater than 2 is a composite number**, because it will inherently possess at least three divisors: 1, itself, and 2. 
 
-The word "composite" literally means "made up of various parts." A number like 6 can be divided by 1, 2, 3, and 6. Because it has more than two divisors, it's a composite number. 
+Because primes are the building blocks of all other numbers, familiarizing yourself with the earliest primes is essential for fluent [arithmetic](https://en.wikipedia.org/wiki/Arithmetic). **The prime numbers less than 20 are 2, 3, 5, 7, 11, 13, 17, and 19.** 
 
-![Visualizing the difference: Composite numbers (like 4 and 6) can be arranged into rectangular grids because they have multiple factors. Prime numbers (like 3 and 5) lack these extra divisors and cannot be broken down this way.](https://wikipedia.org/wiki/Special:Redirect/file/Primes-vs-composites.svg)
+![The Sieve of Eratosthenes is an ancient visual algorithm used to identify prime numbers. It works by systematically finding the first unmarked number and eliminating all of its subsequent multiples, leaving only the primes.](https://wikipedia.org/wiki/Special:Redirect/file/Sieve_of_Eratosthenes_animation.gif)
 
-### The Oddballs: [0](https://en.wikipedia.org/wiki/0), [1](https://en.wikipedia.org/wiki/1), and [2](https://en.wikipedia.org/wiki/2)
+Furthermore, if you take any two of these elemental building blocks and multiply them, the result fundamentally changes state. **The mathematical [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of any two prime numbers is always a composite number.** For instance, multiplying the prime 3 by the prime 5 yields 15, which is composite because it is divisible by 1, 3, 5, and 15. 
 
-Now, I can hear you thinking: *What about 0 and 1?* 
-To just say "they are [exceptions](https://en.wikipedia.org/wiki/Exception)" is sad, because that's not math! We have to look at the definitions:
+## The Architecture of Numbers: Factors and Multiples
 
-*   **The number 1 is neither a prime number nor a composite number.** Why? Remember the definition of a prime: it must have *exactly two distinct* positive divisors. The number 1 only has *one* divisor (itself). It doesn’t have enough parts to be prime, and it certainly doesn't have enough to be composite!
-*   **The number 0 is neither a prime number nor a composite number.** You cannot [divide](https://en.wikipedia.org/wiki/Division_%28mathematics%29) 0 by itself to get a meaningful distinct divisor. It breaks the machinery entirely.
+When we analyze how numbers interact, we look in two directions: inward (division) and outward (multiplication). This brings us to [factors](https://en.wikipedia.org/wiki/Divisor) and [multiples](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29).
 
-Then there is the number 2. What a wonderfully strange little number. **The number 2 is the smallest prime number.** Its only divisors are 1 and 2. But here is the magnificent trick: **The number 2 is the only [even](https://en.wikipedia.org/wiki/Parity_%28mathematics%29) prime number** in existence! 
+### Looking Inward: Factors
+> A **[factor](https://en.wikipedia.org/wiki/Divisor)** is a whole number that divides exactly into another whole number without leaving a [remainder](https://en.wikipedia.org/wiki/Remainder).
 
-Because every other even number on the [planet](https://en.wikipedia.org/wiki/Planet) can be divided by 2, they all have *at least* three divisors (1, 2, and the number itself). Therefore, **every even whole number greater than 2 is a composite number.** 
+When you are finding factors, you are digging into the earth beneath the number to find its foundation. Because every number divides evenly by 1, **the number 1 is a factor of every whole number.** Similarly, because any number divides evenly into itself (yielding 1), **every whole number greater than zero is a factor of itself.**
 
-Furthermore, if you take any two of these prime "atoms" and [multiply](https://en.wikipedia.org/wiki/Multiplication) them together, you are actively building a composite! By definition, **the mathematical [product](https://en.wikipedia.org/wiki/Product_%28mathematics%29) of any two prime numbers is always a composite number** (for example, [3](https://en.wikipedia.org/wiki/3) × [5](https://en.wikipedia.org/wiki/5) = [15](https://en.wikipedia.org/wiki/15)). 
+Because you cannot divide a number by an [integer](https://en.wikipedia.org/wiki/Integer) larger than itself and still yield a whole number, you are constrained. Therefore, **any specific whole number has a finite quantity of factors.** The factors of 12, for example, are strictly limited to the finite set {1, 2, 3, 4, 6, 12}. 
 
----
+![A visual representation of the finite factors of the composite number 10. The quantities of 1, 2, 5, and 10 are the only whole numbers that can divide perfectly into the total without leaving a remainder.](https://wikipedia.org/wiki/Special:Redirect/file/Cuisenaire_ten.JPG)
 
-## 2. The Anatomy of a Number: [Factors](https://en.wikipedia.org/wiki/Divisor) vs. [Multiples](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29)
+### Looking Outward: Multiples
+> A **[multiple](https://en.wikipedia.org/wiki/Multiple_%28mathematics%29)** is the product of a given whole number and any other whole number.
 
-To teach math effectively, we have to distinguish between what *goes into* a number and what *comes out* of a number. That brings us to factors and multiples.
+If factors are the bricks that build a wall, multiples are the [infinite](https://en.wikipedia.org/wiki/Infinity) shadows that wall casts as it scales upward. To find the multiples of 5, you multiply 5 by 1, by 2, by 3, and so on (yielding 5, 10, 15...). 
 
-### Factors: The Ingredients
-Think of **factors** as the ingredients used to bake a number. 
+Because multiplying any number by 1 yields the original number, **every whole number is a multiple of itself.** And because the [sequence](https://en.wikipedia.org/wiki/Sequence) of whole numbers we can multiply by stretches on forever, **every whole number greater than zero has an infinite quantity of multiples.**
 
-> **A factor is a whole number that divides exactly into another whole number without leaving a [remainder](https://en.wikipedia.org/wiki/Remainder).**
+## The DNA of Mathematics: Prime Factorization
 
-Because factors are the ingredients inside a number, they are limited. **Any specific whole number has a [finite](https://en.wikipedia.org/wiki/Finite_set) quantity of factors.** You can count them. For the number 12, the factors are 1, 2, 3, 4, 6, and 12. That’s it. There are no more. 
+The most beautiful and powerful realization in basic number theory is that every composite number is merely a unique combination of prime numbers in disguise.
 
-Notice two universal truths about these ingredients:
-1.  **The number 1 is a factor of every whole number.** (Every recipe requires 1!)
-2.  **Every whole number greater than [zero](https://en.wikipedia.org/wiki/0) is a factor of itself.** (12 fits perfectly into 12 exactly one time). 
+> **[The Fundamental Theorem of Arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)** states that every composite number can be uniquely expressed as a product of prime numbers.
 
-### Multiples: The Footsteps
-If factors are the ingredients hiding *inside* a number, **multiples** are the giant footsteps a number takes when it walks forward. 
+This theorem guarantees that every composite number has an absolute, immutable "[DNA sequence](https://en.wikipedia.org/wiki/DNA_sequence)" of primes. No two distinct composite numbers share the same prime factorization, and a composite number can only be broken down into primes in exactly one way (ignoring the order of the primes).
 
-> **A multiple is the product of a given whole number and any other whole number.**
+To uncover this sequence, we use a specific analytical method:
+> **[Prime factorization](https://en.wikipedia.org/wiki/Integer_factorization)** is the mathematical process of expressing a composite number as the product of prime numbers.
 
-If you are a 5, your footsteps land on 5, [10](https://en.wikipedia.org/wiki/10), [15](https://en.wikipedia.org/wiki/15), [20](https://en.wikipedia.org/wiki/20_%28number%29), [25](https://en.wikipedia.org/wiki/25_%28number%29)... and so on. 
-Because you can keep multiplying forever, **every whole number greater than zero has an [infinite](https://en.wikipedia.org/wiki/Infinity) quantity of multiples.** The path never ends!
+To perform this process systematically, mathematicians often rely on a visual [heuristic](https://en.wikipedia.org/wiki/Heuristic). **A factor tree is a visual diagram used to break down a composite number into the composite number's prime factors.** 
 
-Just like with factors, there is a mirror-image rule here: **Every whole number is a multiple of itself.** (5 × 1 = 5). 
+Imagine breaking down the number 60:
+1. We might split 60 into branches of 6 and 10 (since $6 \times 10 = 60$). Neither is prime.
+2. We break the 6 into branches of 2 and 3. Both 2 and 3 are prime. The branches stop.
+3. We break the 10 into branches of 2 and 5. Both 2 and 5 are prime. The branches stop.
+4. Gathering our prime "leaves" at the ends of the branches, the unique prime factorization of 60 is $2 \times 2 \times 3 \times 5$ (or $2^2 \times 3 \times 5$). 
 
-### Quick Comparison
+![A divisibility lattice for the number 60, mapping all of its interconnected factors. The foundational prime factors (2, 3, and 5) sit at the base, multiplying in different combinations to uniquely create all the composite factors above.](https://wikipedia.org/wiki/Special:Redirect/file/Lattice_of_the_divisibility_of_60%3B_factors.svg)
 
-| Feature | Factors | Multiples |
+## The Tools of Divisibility: Recognizing Patterns
+
+Finding factors and primes requires us to test numbers for divisibility. Rather than performing [long division](https://en.wikipedia.org/wiki/Long_division) for every candidate, mathematicians rely on [algebraic properties](https://en.wikipedia.org/wiki/Algebra) of our [base-10](https://en.wikipedia.org/wiki/Decimal) number system to create elegant shortcuts. Memorizing these [divisibility rules](https://en.wikipedia.org/wiki/Divisibility_rule) allows you to instantly recognize the structural components of large numbers.
+
+| Divisor | Divisibility Rule | Example |
 | :--- | :--- | :--- |
-| **Concept** | "Ingredients" that divide *into* the number. | "Footsteps" that multiply *out* from the number. |
-| **Quantity** | **[Finite](https://en.wikipedia.org/wiki/Finite_set)** (There is a limited number of them). | **[Infinite](https://en.wikipedia.org/wiki/Infinity)** (They go on forever). |
-| **Relation to Itself** | **Every whole number > 0 is a factor of itself.** | **Every whole number is a multiple of itself.** |
-| **Universal Rule** | **The number 1 is a factor of every whole number.** | All multiples grow from the base number. |
+| **2** | A whole number is divisible by 2 if the number's final [digit](https://en.wikipedia.org/wiki/Numerical_digit) is 0, 2, 4, 6, or 8. | 4,13**8** ends in 8. It is divisible by 2. |
+| **3** | A whole number is divisible by 3 if the [sum of the number's digits](https://en.wikipedia.org/wiki/Digit_sum) is a multiple of 3. | For 411: $4+1+1 = 6$. Since 6 is a multiple of 3, 411 is divisible by 3. |
+| **4** | A whole number is divisible by 4 if the two-digit number formed by the final two digits is a multiple of 4. | 5,1**24**: The final digits form 24. Since 24 is a multiple of 4, 5,124 is divisible by 4. |
+| **5** | A whole number is divisible by 5 if the number's final digit is exactly 0 or 5. | 8,90**5** ends in 5. It is divisible by 5. |
+| **6** | A whole number is divisible by 6 if the number is simultaneously divisible by the number 2 and the number 3. | 114: Ends in 4 (divisible by 2). Digits sum to 6 (divisible by 3). Therefore, divisible by 6. |
+| **9** | A whole number is divisible by 9 if the [sum of the number's digits](https://en.wikipedia.org/wiki/Digit_sum) is a multiple of 9. | For 8,154: $8+1+5+4 = 18$. Since 18 is a multiple of 9, 8,154 is divisible by 9. |
+| **10** | A whole number is divisible by 10 if the number's final digit is exactly 0. | 9,43**0** ends in exactly 0. It is divisible by 10. |
 
----
+These rules are not arbitrary magic tricks; they are direct consequences of [place value](https://en.wikipedia.org/wiki/Positional_notation) arithmetic. For example, because 100 is perfectly divisible by 4, any hundreds, thousands, or millions place will also be divisible by 4. Thus, you only ever need to check the last two digits (the tens and units) to see if the entire massive number is divisible by 4.
 
-## 3. Smashing Numbers Apart: [Prime Factorization](https://en.wikipedia.org/wiki/Integer_factorization)
+## Intersections: GCF, LCM, and Coprimes
 
-If composite numbers are made of prime atoms, how do we reverse-engineer them? 
+Number theory extends beyond isolated numbers; it explores the relationships *between* different numbers. By comparing the factors and multiples of multiple quantities, we can synchronize systems or simplify complex [ratios](https://en.wikipedia.org/wiki/Ratio).
 
-**[Prime factorization](https://en.wikipedia.org/wiki/Integer_factorization) is the mathematical process of expressing a composite number as the product of prime numbers.** 
+### The Greatest Common Factor (GCF)
+> **[The Greatest Common Factor](https://en.wikipedia.org/wiki/Greatest_common_divisor)** is the largest whole number that divides evenly into two or more specified whole numbers.
 
-This isn't just a neat trick; it is a profound law of nature. In fact, it is so important that [mathematicians](https://en.wikipedia.org/wiki/Mathematician) gave it a grand title: **The [Fundamental Theorem of Arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic) states that every composite number can be uniquely expressed as a product of prime numbers.** 
+Think of the GCF as the ultimate standardizing tool. If a carpenter has a plank of wood 24 inches long and another plank 36 inches long, and wants to cut both into the largest possible identical segments without wasting any wood, she must find the GCF. 
+* Factors of 24: 1, 2, 3, 4, 6, 8, **12**, 24.
+* Factors of 36: 1, 2, 3, 4, 6, 9, **12**, 18, 36.
+The greatest factor they share is 12. 
 
-Think of it like a mathematical [fingerprint](https://en.wikipedia.org/wiki/Fingerprint). The number [60](https://en.wikipedia.org/wiki/60_%28number%29) will *always* break down into 2 × 2 × 3 × 5. No other number in the [universe](https://en.wikipedia.org/wiki/Universe) has that exact prime factorization, and 60 can never be built any other way. 
+![The Greatest Common Factor has physical applications, such as finding the largest possible uniform square tile (12x12) that can perfectly cover a rectangular space measuring 24 by 60 without any gaps or overlapping.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
 
-![Just as a physical fingerprint uniquely identifies an individual, the Fundamental Theorem of Arithmetic ensures that every composite number possesses a single, entirely unique prime factorization.](https://wikipedia.org/wiki/Special:Redirect/file/Fingerprint_Whorl.jpg)
+### The Least Common Multiple (LCM)
+> **[The Least Common Multiple](https://en.wikipedia.org/wiki/Least_common_multiple)** is the smallest positive whole number that is a multiple of two or more specified whole numbers.
 
-How do we find this fingerprint? We use a visual tool! **A factor tree is a visual [diagram](https://en.wikipedia.org/wiki/Diagram) used to break down a composite number into the composite number's [prime factors](https://en.wikipedia.org/wiki/Prime_factor).** 
-You start with your composite number at the top, split it into any two factors, and keep splitting those branches until every branch ends in a prime number. Then, you circle the primes. You've successfully mined the atoms!
+While the GCF is about cutting things down into shared elements, the LCM is about projecting sequences forward until they perfectly align. Think of two gears, or two planets [orbiting](https://en.wikipedia.org/wiki/Orbit) a star. If Planet A orbits every 4 years, and Planet B orbits every 6 years, when will they next align? We look for the LCM.
+* Multiples of 4: 4, 8, **12**, 16, 20...
+* Multiples of 6: 6, **12**, 18, 24...
+The smallest positive multiple they share is 12. They will align in 12 years.
 
----
+### Relatively Prime Numbers
+Occasionally, two composite numbers will share no common internal structure. Consider the numbers 8 and 15. 
+* The prime factorization of 8 is $2 \times 2 \times 2$. 
+* The prime factorization of 15 is $3 \times 5$. 
 
-## 4. The Secret Codes: [Divisibility Rules](https://en.wikipedia.org/wiki/Divisibility_rule)
+They share absolutely no prime factors. When we list their standard divisors, the *only* factor they share is the universal factor, 1. 
 
-When you are breaking numbers down, you don't want to sit there doing [long division](https://en.wikipedia.org/wiki/Long_division) for hours to figure out if a number is a factor. You want a shortcut. Fortunately, our [base-10 number system](https://en.wikipedia.org/wiki/Decimal) has hidden cheat codes built right into it. 
+> Two numbers are defined as **[relatively prime](https://en.wikipedia.org/wiki/Coprime_integers)** if the Greatest Common Factor of the two numbers is exactly 1.
 
-### The "Final Digit" Rules
-You can tell a lot about a number just by looking at its tail end:
-*   **Divisibility by 2:** **A whole number is divisible by 2 if the number's final [digit](https://en.wikipedia.org/wiki/Numerical_digit) is 0, 2, 4, 6, or 8.** (This just means the number is even!)
-*   **Divisibility by 5:** **A whole number is divisible by 5 if the number's final digit is exactly 0 or 5.** (Think about counting by 5s: 5, 10, 15, 20... the pattern is obvious).
-*   **Divisibility by 10:** **A whole number is divisible by 10 if the number's final digit is exactly 0.** 
+![In mechanical engineering, adjoining gears are often designed with relatively prime numbers of teeth (such as 13 and 21) so their Least Common Multiple is exceptionally high. This maximizes the time before the exact same teeth align again, evenly distributing physical wear.](https://wikipedia.org/wiki/Special:Redirect/file/Gears_large.jpg)
 
-### The "Sum of the Digits" Rules
-Here is where the math feels like magic. For the numbers 3 and [9](https://en.wikipedia.org/wiki/9), you don't look at the last digit; you add the digits together!
-*   **Divisibility by 3:** **A whole number is divisible by 3 if the [sum](https://en.wikipedia.org/wiki/Summation) of the number's digits is a multiple of 3.** (Example: For [111](https://en.wikipedia.org/wiki/111_%28number%29), 1+1+1 = 3. Since 3 is divisible by 3, so is 111!)
-*   **Divisibility by 9:** **A whole number is divisible by 9 if the sum of the number's digits is a multiple of 9.** (Example: For [81](https://en.wikipedia.org/wiki/81_%28number%29), 8+1 = 9. So 81 is divisible by 9). 
+Notice that neither 8 nor 15 are prime numbers themselves—they are both [highly composite](https://en.wikipedia.org/wiki/Highly_composite_number)! Yet, *relative to each other*, they are mathematically isolated. This specific relationship is a foundational pillar of modern [computer cryptography](https://en.wikipedia.org/wiki/Cryptography), where selecting massively large relatively prime numbers ensures that encrypted data remains secure against unauthorized division and decoding.
 
-### The "Combination" Rules
-Some rules require you to look at a chunk of the number, or combine previous rules:
-*   **Divisibility by 4:** **A whole number is divisible by 4 if the two-digit number formed by the final two digits is a multiple of 4.** (Example: In 3,5**12**, we just look at the 12. Since 12 is a multiple of 4, the entire gigantic number is divisible by 4).
-*   **Divisibility by 6:** This one is a team effort. **A whole number is divisible by 6 if the number is simultaneously divisible by the number 2 and the number 3.** (Because 2 × 3 = 6, it must pass both of those tests to pass the test for 6).
-
----
-
-## 5. When Numbers Interact: [GCF](https://en.wikipedia.org/wiki/Greatest_common_divisor) and [LCM](https://en.wikipedia.org/wiki/Least_common_multiple)
-
-Finally, what happens when two different numbers walk into a room together? We usually want to compare their anatomy (their factors) or their paths (their multiples). 
-
-### [Greatest Common Factor](https://en.wikipedia.org/wiki/Greatest_common_divisor) (GCF)
-If you want to divide two groups of things into the largest possible equal piles, you need the GCF. 
-
-> **The Greatest Common Factor is the largest whole number that divides evenly into two or more specified whole numbers.** 
-
-If we have 12 and [18](https://en.wikipedia.org/wiki/18_%28number%29), we list their factors:
-*   Factors of 12: 1, 2, 3, 4, **6**, 12
-*   Factors of 18: 1, 2, 3, **6**, 9, 18
-The largest ingredient they share is 6. Therefore, the GCF is 6.
-
-![Visualizing the Greatest Common Factor (GCF): A 24-by-60 rectangle can be perfectly covered by 12-by-12 square tiles, because 12 is the largest common ingredient (factor) shared by both dimensions.](https://wikipedia.org/wiki/Special:Redirect/file/24x60.svg)
-
-But what if they don't share *any* meaningful ingredients? What if our numbers are 8 and 15?
-*   Factors of 8: **1**, 2, 4, 8
-*   Factors of 15: **1**, 3, 5, 15
-The only factor they share is 1! When this happens, we have a special name for their relationship: **Two numbers are defined as [relatively prime](https://en.wikipedia.org/wiki/Coprime_integers) if the Greatest Common Factor of the two numbers is exactly 1.** They don't have to be prime numbers themselves (8 and 15 are both composite), but *relative to each other*, they share no common atomic [DNA](https://en.wikipedia.org/wiki/DNA) other than 1.
-
-![In engineering, connected gears are often designed with relatively prime numbers of teeth (like 13 and 21). Because they share no common factors other than 1, the exact same teeth rarely meet, ensuring the entire gear wears down evenly over time.](https://wikipedia.org/wiki/Special:Redirect/file/Gears_large.jpg)
-
-### [Least Common Multiple](https://en.wikipedia.org/wiki/Least_common_multiple) (LCM)
-If the GCF is about looking backward into the ingredients, the LCM is about looking forward into the footsteps. If two [planets](https://en.wikipedia.org/wiki/Planet) are [orbiting](https://en.wikipedia.org/wiki/Orbit) the [sun](https://en.wikipedia.org/wiki/Sun) at different speeds, when will they align again? You need the LCM!
-
-> **The Least Common Multiple is the smallest positive whole number that is a multiple of two or more specified whole numbers.**
-
-If we have 4 and 6, we track their multiples (footsteps):
-*   Multiples of 4: 4, 8, **12**, 16, 20...
-*   Multiples of 6: 6, **12**, 18, 24...
-The very first time their footsteps land on the exact same spot is 12. Therefore, 12 is the Least Common Multiple.
-
-***
-
-### Summary for the [Praxis](https://en.wikipedia.org/wiki/Praxis_test)
-[Number theory](https://en.wikipedia.org/wiki/Number_theory) isn't just a list of [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) words. It is the study of how numbers are built (Primes and Composites), what they are made of (Factors), where they are going (Multiples), and how they interact with one another (GCF and LCM). When you sit down for your [Praxis exam](https://en.wikipedia.org/wiki/Praxis_test), don't just try to remember the rules—visualize the machinery. You've got this!
+![Modern public-key cryptography relies on the mathematical properties of massive relatively prime numbers to generate the complex locks and keys that secure digital communication worldwide.](https://wikipedia.org/wiki/Special:Redirect/file/Public_key_encryption.svg)

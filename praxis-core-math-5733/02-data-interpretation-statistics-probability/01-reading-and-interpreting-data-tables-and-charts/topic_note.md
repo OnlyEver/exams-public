@@ -1,140 +1,77 @@
-Welcome to the wonderful, wild world of [data](https://en.wikipedia.org/wiki/Data)! Imagine for a moment that [nature](https://en.wikipedia.org/wiki/Nature) is constantly throwing [information](https://en.wikipedia.org/wiki/Information) at us like water from a [firehose](https://en.wikipedia.org/wiki/Fire_hose). Student [test scores](https://en.wikipedia.org/wiki/Test_%28assessment%29), [eye colors](https://en.wikipedia.org/wiki/Eye_color), [heights](https://en.wikipedia.org/wiki/Human_height), favorite [pizza toppings](https://en.wikipedia.org/wiki/Pizza)—it’s all just raw, chaotic [noise](https://en.wikipedia.org/wiki/Statistical_noise) until we do something about it. 
+Nature presents herself to us in a state of sheer, overwhelming [chaos](https://en.wikipedia.org/wiki/Chaos_theory). A [biologist](https://en.wikipedia.org/wiki/Biologist) counting [genetic traits](https://en.wikipedia.org/wiki/Phenotypic_trait) in thousands of [fruit flies](https://en.wikipedia.org/wiki/Drosophila_melanogaster), an [educator](https://en.wikipedia.org/wiki/Educator) tracking student [test scores](https://en.wikipedia.org/wiki/Test_score) across a decade, or an [economist](https://en.wikipedia.org/wiki/Economist) analyzing shifting [global markets](https://en.wikipedia.org/wiki/Global_market)—all are confronted with a deluge of raw [information](https://en.wikipedia.org/wiki/Information). To understand the [universe](https://en.wikipedia.org/wiki/Universe), or even just a single [classroom](https://en.wikipedia.org/wiki/Classroom), we cannot simply stare at a chaotic pile of [numbers](https://en.wikipedia.org/wiki/Number). We must impose order. We must build a structure that allows [patterns](https://en.wikipedia.org/wiki/Pattern) to emerge visibly and unmistakably. This is the fundamental purpose of organizing [data](https://en.wikipedia.org/wiki/Data) into [tables](https://en.wikipedia.org/wiki/Table_%28information%29) and [charts](https://en.wikipedia.org/wiki/Chart). They are not mere [bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping) devices; they are the lenses through which we focus the blur of reality into sharp, actionable [mathematical](https://en.wikipedia.org/wiki/Mathematics) truth. 
 
-As an [educator](https://en.wikipedia.org/wiki/Teacher), your job is to make sense of that noise. To teach, to adapt, to understand your students, you can't just look at a giant, messy list of [numbers](https://en.wikipedia.org/wiki/Number) and hope for the best. We need a way to organize [reality](https://en.wikipedia.org/wiki/Reality). We need to trap this information, pin it down, and make it talk. 
+![Organizing raw data is essential when tracking phenotypic traits, such as varying eye colors and mutations across populations of fruit flies.](https://wikipedia.org/wiki/Special:Redirect/file/Fruit_Fly_Eye_Colors.jpg)
 
-And for that, we use one of the most brilliant, yet deceptively simple inventions in [human history](https://en.wikipedia.org/wiki/Human_history): the [table](https://en.wikipedia.org/wiki/Table_%28information%29).
+## The Architecture of a Data Table
 
-Let’s roll up our sleeves and discover how to read, interpret, and extract the hidden stories hiding inside [data tables](https://en.wikipedia.org/wiki/Table_%28information%29) and [charts](https://en.wikipedia.org/wiki/Chart) for your [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test).
+To begin extracting meaning from raw [data](https://en.wikipedia.org/wiki/Data), we first have to understand the physical [geometry](https://en.wikipedia.org/wiki/Geometry) of how we store it. At its core, a **[data table](https://en.wikipedia.org/wiki/Table_%28information%29)** is a systematic arrangement of [quantitative](https://en.wikipedia.org/wiki/Quantitative_research) or [qualitative information](https://en.wikipedia.org/wiki/Qualitative_data) organized into rows and columns. It is a [coordinate system](https://en.wikipedia.org/wiki/Coordinate_system) for facts.
 
----
+Think of a data table as a rigid grid. 
+*   A **row** is a horizontal line of data entries within a table. 
+*   A **column** is a vertical line of data entries within a table. 
 
-## 1. The Anatomy of a Data Table: The Grid of Reality
+Where these two [orthogonal](https://en.wikipedia.org/wiki/Orthogonality) lines cross, we find the fundamental unit of information: the cell. A **cell** is the precise [intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29) of a single row and a single column in a table. It is the box that holds the exact piece of reality we are trying to measure. A cell in a data table contains a specific data value corresponding to the intersection of its row and column headers.
 
-Before we can play the [music](https://en.wikipedia.org/wiki/Music), we have to understand the [instrument](https://en.wikipedia.org/wiki/Musical_instrument). 
+But [numbers](https://en.wikipedia.org/wiki/Number) floating in cells are meaningless without context. The number "42" could represent [degrees Celsius](https://en.wikipedia.org/wiki/Celsius), the number of passing students, or thousands of [dollars](https://en.wikipedia.org/wiki/United_States_dollar). We give data context through **table headers**. These are descriptive labels located at the top of columns or the beginning of rows. Table headers identify the specific [categories](https://en.wikipedia.org/wiki/Categorical_variable) or [units of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement) for the data within the corresponding rows or columns. 
 
-> A **[data table](https://en.wikipedia.org/wiki/Table_%28information%29)** is a systematic arrangement of [quantitative](https://en.wikipedia.org/wiki/Quantitative_data) (numerical) or [qualitative](https://en.wikipedia.org/wiki/Qualitative_data) (categorical) information organized into rows and columns. 
+![For centuries, scientists have relied on the rigid grid of rows and columns with descriptive headers to organize and share data, as seen in this 1665 scientific table.](https://wikipedia.org/wiki/Special:Redirect/file/Philosophical_Transactions_-_Volume_001.djvu)
 
-Think of a table as a perfectly manicured [city grid](https://en.wikipedia.org/wiki/Grid_plan). If you want to find a specific [building](https://en.wikipedia.org/wiki/Building), you need to know the [avenue](https://en.wikipedia.org/wiki/Avenue_%28landscape%29) and the [street](https://en.wikipedia.org/wiki/Street). In our table [universe](https://en.wikipedia.org/wiki/Universe), these are the rows and columns.
-*   A **row** is a horizontal line of data entries stretching from left to right, just like the [horizon](https://en.wikipedia.org/wiki/Horizon).
-*   A **column** is a vertical line of data entries standing tall, like the mighty columns holding up an [ancient Greek temple](https://en.wikipedia.org/wiki/Ancient_Greek_temple).
+> **Extracting Data:** Extracting a specific [data point](https://en.wikipedia.org/wiki/Data_point) from a table requires locating the exact intersection of the relevant row header and column header. You sweep your eyes across the row and down the column until they meet. The cell at that intersection holds your answer.
 
-![A city grid plan operates much like a data table: finding a specific location or cell requires identifying the exact intersection of a specific avenue (column) and street (row).](https://wikipedia.org/wiki/Special:Redirect/file/Platslc.jpg)
+### Operating on the Grid: Differences and Ratios
 
-Now, where a specific avenue meets a specific street, you have a precise [location](https://en.wikipedia.org/wiki/Location_%28geography%29). 
-*   A **[cell](https://en.wikipedia.org/wiki/Table_%28information%29)** is the precise [intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29) of a single row and a single column in a table. 
+Tables are not meant to be passively viewed; they are meant to be actively analyzed. Once we can extract data, we can manipulate it to uncover relationships. 
 
-But what actually lives inside these cells? And how do we know what the numbers *mean*? 
+Data tables are frequently utilized to determine **differences** between categories. If you want to know how much student enrollment grew between two years, you determine this by [subtracting](https://en.wikipedia.org/wiki/Subtraction) the numerical value in one cell from the numerical value in another cell.
 
-To answer that, we look to the edges. **[Table headers](https://en.wikipedia.org/wiki/Table_%28information%29)** are descriptive labels located at the top of columns or the beginning of rows. They act as the "[street signs](https://en.wikipedia.org/wiki/Street_sign)" of our grid. Table headers identify the specific [categories](https://en.wikipedia.org/wiki/Categorical_variable) or [units of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement) for the data within the corresponding rows or columns. 
+Similarly, data tables are utilized to establish mathematical **[ratios](https://en.wikipedia.org/wiki/Ratio)**. If you want to know the proportion of a school's budget spent on [textbooks](https://en.wikipedia.org/wiki/Textbook) compared to [technology](https://en.wikipedia.org/wiki/Technology), you determine this by [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the numerical value in one cell by the numerical value in another cell. You are bringing two distant points on the grid into mathematical relationship with each other.
 
-Therefore, a cell in a data table contains a specific [data value](https://en.wikipedia.org/wiki/Value_%28mathematics%29) corresponding to the intersection of its row and column headers. 
+## Frequency Charts: Taming Repetition
 
-If you want to pull a piece of [truth](https://en.wikipedia.org/wiki/Truth) out of the noise, you have to follow the grid. **Extracting a specific [data point](https://en.wikipedia.org/wiki/Data_point) from a table requires locating the exact intersection of the relevant row header and column header.** 
+Often, data isn't a collection of unique, continuous numbers, but rather a chaotic pile of repeating categories. Imagine standing in a hallway and asking every passing student their favorite subject. You will hear "[Math](https://en.wikipedia.org/wiki/Mathematics)," "[Science](https://en.wikipedia.org/wiki/Science)," "[History](https://en.wikipedia.org/wiki/History)," and "[English](https://en.wikipedia.org/wiki/English_language)" repeated over and over. To make sense of this, we build a **[frequency chart](https://en.wikipedia.org/wiki/Frequency_distribution)**.
 
-Imagine a table of passing [scores](https://en.wikipedia.org/wiki/Test_score). To find out how many [5th graders](https://en.wikipedia.org/wiki/Fifth_grade) passed the [math exam](https://en.wikipedia.org/wiki/Mathematics), you drop your [finger](https://en.wikipedia.org/wiki/Finger) down the column labeled "Math" and slide your other finger across the row labeled "5th Grade." Where your fingers meet—that cell—is the exact data point you need. 
+A frequency chart is a tabular data display showing how often each unique value or category occurs in a specific [dataset](https://en.wikipedia.org/wiki/Data_set). 
 
----
+**[Frequency](https://en.wikipedia.org/wiki/Frequency_%28statistics%29)** refers to the exact number of times a specific data value or category appears in a given dataset. When collecting this data in real-time by hand, educators and [scientists](https://en.wikipedia.org/wiki/Scientist) often use **[tally marks](https://en.wikipedia.org/wiki/Tally_marks)**, which are individual vertical strokes used in frequency charts to record and count occurrences of data points. Because human eyes struggle to quickly count large blocks of identical vertical lines, a standard grouping of tally marks consists of four vertical lines crossed by one diagonal line to represent the number five. 
 
-## 2. Counting the Chaos: Frequency Charts
+![To prevent visual clutter, tally marks are commonly clustered into groups of five using a diagonal stroke, making the total frequency much easier to count at a glance.](https://wikipedia.org/wiki/Special:Redirect/file/Unary8.svg)
 
-Sometimes, we aren't looking at complex, multi-[variable](https://en.wikipedia.org/wiki/Variable_%28mathematics%29) data. Sometimes, we just want to know *how many times* something happened. For this, we use a specialized [tool](https://en.wikipedia.org/wiki/Tool).
+Once the data collection is complete, the **total number of observations** in a frequency chart is calculated by [summing](https://en.wikipedia.org/wiki/Addition) all the individual frequencies listed in the chart.
 
-> A **[frequency chart](https://en.wikipedia.org/wiki/Frequency_distribution)** is a tabular data display showing how often each unique value or category occurs in a specific [dataset](https://en.wikipedia.org/wiki/Data_set). 
+### Contextualizing Counts: Relative and Cumulative Frequency
 
-Here, the [star](https://en.wikipedia.org/wiki/Star_%28person%29) of the show is **[frequency](https://en.wikipedia.org/wiki/Frequency_%28statistics%29)**, which simply refers to the exact number of times a specific data value or category appears in a given dataset. 
+Knowing that 20 students prefer Math is an absolute fact, but it lacks context. Are there 25 students in the school, or 2,500? To solve this, we scale our frequencies.
 
-Imagine you ask a [classroom](https://en.wikipedia.org/wiki/Classroom) of kids their favorite [animal](https://en.wikipedia.org/wiki/Animal). You get a barrage of answers: "[Dog](https://en.wikipedia.org/wiki/Dog)! [Cat](https://en.wikipedia.org/wiki/Cat)! Dog! [Horse](https://en.wikipedia.org/wiki/Horse)! Dog!" How do we record this in [real-time](https://en.wikipedia.org/wiki/Real-time_computing)? 
+**[Relative frequency](https://en.wikipedia.org/wiki/Frequency_%28statistics%29)** is the mathematical ratio of a specific category's frequency to the total number of observations in the dataset. Because it is a ratio, relative frequency can be mathematically expressed as a [fraction](https://en.wikipedia.org/wiki/Fraction), a [decimal](https://en.wikipedia.org/wiki/Decimal), or a [percentage](https://en.wikipedia.org/wiki/Percentage). If 20 out of 100 students prefer math, the relative frequency is $\frac{20}{100}$, $0.20$, or $20\%$. This allows us to compare datasets of entirely different sizes on equal footing.
 
-Before we have final, neat numbers, we use **[tally marks](https://en.wikipedia.org/wiki/Tally_marks)**, which are individual vertical [strokes](https://en.wikipedia.org/wiki/Line_segment) used in frequency charts to record and count occurrences of data points. But [humans](https://en.wikipedia.org/wiki/Human) are terribly bad at accurately reading a string of twenty identical vertical lines. To save our [eyes](https://en.wikipedia.org/wiki/Human_eye), we group them. 
+Sometimes, we care not just about isolated categories, but about the accumulation of data. **[Cumulative frequency](https://en.wikipedia.org/wiki/Cumulative_frequency_analysis)** is the running total of frequencies from the lowest recorded category up to a specific designated category. If you organize test scores from lowest to highest, the cumulative frequency at the "C" [grade](https://en.wikipedia.org/wiki/Grading_in_education) category tells you exactly how many students scored a "C" *or worse*. It provides an immediate snapshot of the data's progression.
 
-> **The Rule of Fives:** A standard grouping of tally marks consists of four vertical lines crossed by one [diagonal](https://en.wikipedia.org/wiki/Diagonal) line to represent the number [five](https://en.wikipedia.org/wiki/5). 
+![A cumulative frequency graph provides an immediate visual snapshot of how data accumulates, showing the running total of frequencies across a dataset.](https://wikipedia.org/wiki/Special:Redirect/file/GohanaCum.png)
 
-This brilliant little visual trick allows us to [count](https://en.wikipedia.org/wiki/Counting) by fives at a glance! 
+## Two-Way Frequency Tables: The Intersection of Variables
 
-![Different historical methods for clustering tally marks. The "five-bar gate" (bottom) visually groups data into sets of five, allowing educators to quickly calculate frequencies at a glance.](https://wikipedia.org/wiki/Special:Redirect/file/Unary8.svg)
+Life is rarely so simple that a single [variable](https://en.wikipedia.org/wiki/Statistical_variable) tells the whole story. What if we want to observe two things at once to see if they are linked? For example, does participating in an after-school [tutoring](https://en.wikipedia.org/wiki/Tutor) program affect whether a student passes a [standardized test](https://en.wikipedia.org/wiki/Standardized_test)?
 
-Once the tallying is done, we want to see the big picture. **The total number of [observations](https://en.wikipedia.org/wiki/Observation) in a frequency chart is calculated by [summing](https://en.wikipedia.org/wiki/Summation) all the individual frequencies listed in the chart.** You just add up the counts for Dogs, Cats, and Horses, and voila—you have your total [class size](https://en.wikipedia.org/wiki/Class_size).
+To investigate this, we use a **[two-way frequency table](https://en.wikipedia.org/wiki/Contingency_table)**. This is a powerful [matrix](https://en.wikipedia.org/wiki/Matrix_%28mathematics%29) that displays the corresponding frequencies for two different [categorical variables](https://en.wikipedia.org/wiki/Categorical_variable) collected from the exact same subjects. 
 
----
+![A Venn diagram conceptually illustrates the intersection of two different groups or variables, which a two-way frequency table structurally quantifies using joint frequencies.](https://wikipedia.org/wiki/Special:Redirect/file/Venn_A_intersect_B.svg)
 
-## 3. Making Sense of the Counts: Relative and Cumulative Frequencies
+Let us look at the beautiful, rigid [anatomy](https://en.wikipedia.org/wiki/Anatomy) of a two-way frequency table:
 
-A raw frequency is a wonderful thing, but numbers in a [vacuum](https://en.wikipedia.org/wiki/Vacuum) are practically meaningless. 
-
-If I tell you, "12 students failed the test," you should immediately ask me, "Out of *how many*?!" If it’s 12 out of 15, we have a [disaster](https://en.wikipedia.org/wiki/Disaster). If it’s 12 out of 1,000, we have an incredible [success](https://en.wikipedia.org/wiki/Success_%28concept%29)! 
-
-To understand the *[scale](https://en.wikipedia.org/wiki/Scale_%28ratio%29)* of our data, we use **[relative frequency](https://en.wikipedia.org/wiki/Empirical_probability)**.
-> **Relative frequency** is the [mathematical ratio](https://en.wikipedia.org/wiki/Ratio) of a specific category's frequency to the total number of observations in the dataset.
-
-Because it is simply a mathematical [proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29), relative frequency can be mathematically expressed as a [fraction](https://en.wikipedia.org/wiki/Fraction) (e.g., $12/1000$), a [decimal](https://en.wikipedia.org/wiki/Decimal) (e.g., $0.012$), or a [percentage](https://en.wikipedia.org/wiki/Percentage) (e.g., $1.2\%$). 
-
-But what if your question is progressive? Suppose you are charting test [grades](https://en.wikipedia.org/wiki/Grading_in_education) (A, B, C, D, F) and you want to know how many students scored *at least* a C or lower? 
-
-For this, we look to **[cumulative frequency](https://en.wikipedia.org/wiki/Cumulative_frequency_analysis)**, which is the running total of frequencies from the lowest recorded category up to a specific designated category. You start at the bottom (F's), add the D's, and then add the C's. It "accumulates" like a [snowball](https://en.wikipedia.org/wiki/Snowball) rolling down a [hill](https://en.wikipedia.org/wiki/Hill), giving you a continuous running total!
-
-![A cumulative frequency graph visually demonstrates how running totals accumulate. The plotted values continuously rise as the frequency of each successive category is added to the overall total.](https://wikipedia.org/wiki/Special:Redirect/file/CumulativeFrequency.PNG)
-
----
-
-## 4. Adding Dimensions: The Two-Way Frequency Table
-
-Now, let's turn it up a notch. The world rarely happens one category at a time. What if we want to compare *two* things at once? What if we want to know not just how many kids like [Math](https://en.wikipedia.org/wiki/Mathematics) or [Science](https://en.wikipedia.org/wiki/Science), but how those preferences break down by *[Grade Level](https://en.wikipedia.org/wiki/Educational_stage)*?
-
-Enter the heavyweight champion of data organization:
-> A **[two-way frequency table](https://en.wikipedia.org/wiki/Contingency_table)** displays the corresponding frequencies for two different [categorical variables](https://en.wikipedia.org/wiki/Categorical_variable) collected from the exact same subjects.
-
-Let's build one. Imagine we asked 100 students (the exact same subjects) about their favorite subject (Variable 1) and recorded their grade level (Variable 2).
-
-| [Grade Level](https://en.wikipedia.org/wiki/Educational_stage) | Prefers [Math](https://en.wikipedia.org/wiki/Mathematics) | Prefers [Science](https://en.wikipedia.org/wiki/Science) | **Row Totals ([Marginal](https://en.wikipedia.org/wiki/Marginal_distribution))** |
+| | Passed Exam | Failed Exam | **Total** |
 | :--- | :--- | :--- | :--- |
-| **[8th Grade](https://en.wikipedia.org/wiki/Eighth_grade)** | 20 | 30 | **50** |
-| **[9th Grade](https://en.wikipedia.org/wiki/Ninth_grade)** | 10 | 40 | **50** |
-| **Column Totals ([Marginal](https://en.wikipedia.org/wiki/Marginal_distribution))** | **30** | **70** | **100 ([Grand Total](https://en.wikipedia.org/wiki/Summation))** |
+| **Attended Tutoring** | 45 | 5 | **50** |
+| **Did Not Attend** | 30 | 20 | **50** |
+| **Total** | **75** | **25** | **100** |
 
-Look at the beautiful anatomy of this [structure](https://en.wikipedia.org/wiki/Structure)!
+There are three distinct regions in this table, each carrying specific mathematical weight:
 
-### Inside the Grid: Joint Frequencies
-The numbers sitting quietly inside the grid (20, 30, 10, 40) are the **[joint frequencies](https://en.wikipedia.org/wiki/Joint_probability_distribution)**. These are the individual numerical counts located in the interior [cells](https://en.wikipedia.org/wiki/Table_%28information%29) of a two-way frequency table. They represent the "joint" intersection of two traits—for example, a student who is *both* an 8th Grader *and* prefers Math.
+1.  **[Joint Frequencies](https://en.wikipedia.org/wiki/Joint_probability_distribution):** These are the individual numerical counts located in the interior cells of a two-way frequency table. They represent the "joints" where the two variables intersect. In our table, the number 45 is a joint frequency—it counts the exact number of students who *both* attended tutoring and passed the exam.
+2.  **[Marginal Frequencies](https://en.wikipedia.org/wiki/Marginal_distribution):** These are the overall row totals and column totals located in the outer margins of a two-way frequency table. They isolate a single variable, ignoring the other. The marginal frequency of 75 tells us how many total students passed the exam, entirely regardless of their tutoring status.
+3.  **The Grand Total:** Located in the bottom right corner, the grand total represents the absolute scope of the dataset. There is a built-in mathematical [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28mathematics%29) here: the grand total in a two-way frequency table is calculated by summing all of the marginal row frequencies ($50 + 50 = 100$). Equivalently, the grand total in a two-way frequency table is also calculated by summing all of the marginal column frequencies ($75 + 25 = 100$). 
 
-### On the Edges: Marginal Frequencies
-Now look to the edges of the table. The **[marginal frequencies](https://en.wikipedia.org/wiki/Marginal_distribution)** are the overall row totals and column totals located in the outer margins of a two-way frequency table. They tell you the total for just *one* variable, ignoring the other. For instance, the marginal frequency of kids who prefer Math is 30, regardless of what grade they are in.
+> **Deducing the Unseen:** The rigid [arithmetic](https://en.wikipedia.org/wiki/Arithmetic) rules of a two-way table make it an elegant puzzle. Because the internal cells must sum to the margins, and the margins must sum to the grand total, a missing value in a frequency table with a known grand total is determined by subtracting the sum of the known frequencies from the grand total (or the respective marginal total). 
 
-### The Anchor: The Grand Total
-Finally, look at the bottom right corner. That golden "100". That is the **[grand total](https://en.wikipedia.org/wiki/Summation)**. 
+If a coffee stain obscured the number of students who failed the exam without attending tutoring, you could simply take the marginal row total ($50$) and subtract the known joint frequency of students who passed without tutoring ($30$) to arrive back at $20$. The structure of the table protects the integrity of the data.
 
-The grand total is mathematically beautiful because it proves the table works. You can [calculate](https://en.wikipedia.org/wiki/Calculation) it in two ways, and they *must* match perfectly:
-1. The grand total in a two-way frequency table is calculated by [summing](https://en.wikipedia.org/wiki/Summation) all of the marginal row frequencies ($50 + 50 = 100$).
-2. The grand total in a two-way frequency table is also calculated by summing all of the marginal column frequencies ($30 + 70 = 100$).
-
-If they don't match, somebody made a mistake in their tallying!
-
----
-
-## 5. Playing Detective: Operations and Missing Values
-
-Tables aren't just for looking at; they are for *doing*. As an educator taking the Praxis exam, you will be expected to [manipulate](https://en.wikipedia.org/wiki/Data_manipulation) these numbers to answer questions.
-
-**Finding Differences**
-Often, you will be asked to compare categories. Data tables are utilized to determine differences between categories by [subtracting](https://en.wikipedia.org/wiki/Subtraction) the numerical value in one cell from the numerical value in another cell. 
-* *Example:* "How many more 9th graders prefer Science (40) than 8th graders who prefer Science (30)?" Simply subtract: $40 - 30 = 10$.
-
-**Finding Relationships**
-Sometimes you need to find a [multiplier](https://en.wikipedia.org/wiki/Multiplication) or a [proportion](https://en.wikipedia.org/wiki/Proportionality_%28mathematics%29). Data tables are utilized to establish mathematical ratios by [dividing](https://en.wikipedia.org/wiki/Division_%28mathematics%29) the numerical value in one cell by the numerical value in another cell. 
-* *Example:* "What is the ratio of 8th graders who prefer Math (20) to 9th graders who prefer Math (10)?" Divide: $20 / 10 = 2$. (An 8th grader is twice as likely to prefer Math in our dataset!)
-
-**Solving the Puzzle: Missing Values**
-Finally, the Praxis loves to play [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes). What if somebody spilled [coffee](https://en.wikipedia.org/wiki/Coffee) on the table, and a cell is completely blank? 
-
-Don't panic! The rigid [structure](https://en.wikipedia.org/wiki/Structure) of the table saves us. Because we know how totals work, a missing value in a frequency table with a known grand total is determined by subtracting the sum of the known frequencies from the grand total. 
-
-If you know the Grand Total is 100, and you know 8th graders account for 50, and 9th graders are the only other option... you subtract the known sum (50) from the grand total (100) to perfectly [deduce](https://en.wikipedia.org/wiki/Deductive_reasoning) that there must be exactly 50 9th graders! It's not [magic](https://en.wikipedia.org/wiki/Magic_%28supernatural%29); it's just basic [subtraction](https://en.wikipedia.org/wiki/Subtraction) hidden inside a beautifully logical grid.
-
----
-
-### Final Thoughts for the Exam
-
-When you sit down for the [Praxis Core Math exam](https://en.wikipedia.org/wiki/Praxis_test), remember this: a data table is just a [story](https://en.wikipedia.org/wiki/Narrative) waiting to be read. 
-
-Pay attention to the **[headers](https://en.wikipedia.org/wiki/Table_%28information%29)** to know what you're looking at. Trace the **rows** and **columns** to extract your exact **[cell](https://en.wikipedia.org/wiki/Table_%28information%29)** values. Use the margins to find your **[totals](https://en.wikipedia.org/wiki/Summation)**, and never forget that whether you're working with **[tally marks](https://en.wikipedia.org/wiki/Tally_marks)** or a complex **[two-way frequency table](https://en.wikipedia.org/wiki/Contingency_table)**, the numbers always follow a simple, elegant [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic). 
-
-Go show that exam that you know how to conquer the [chaos](https://en.wikipedia.org/wiki/Chaos_theory)!
+When you sit down to interpret a data table or a frequency chart on an [exam](https://en.wikipedia.org/wiki/Examination), do not view it merely as a block of text. View it as a mechanical system. Locate the headers to understand the units, navigate the intersections to extract the facts, and apply the arithmetic of differences, ratios, and relative frequencies to uncover the relationships hiding within the grid.

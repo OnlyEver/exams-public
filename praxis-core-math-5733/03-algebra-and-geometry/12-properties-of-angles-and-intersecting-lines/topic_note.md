@@ -1,170 +1,111 @@
-# Unlocking the Architecture of Space: [Angles](https://en.wikipedia.org/wiki/Angle), [Intersecting Lines](https://en.wikipedia.org/wiki/Intersection_%28geometry%29), and [Transversals](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)
+Imagine a [structural engineer](https://en.wikipedia.org/wiki/Structural_engineering) drafting the [blueprints](https://en.wikipedia.org/wiki/Blueprint) for a [steel](https://en.wikipedia.org/wiki/Steel) [suspension bridge](https://en.wikipedia.org/wiki/Suspension_bridge). The beams and cables slicing across each other are not placed randomly; they are governed by a rigid, inescapable [mathematical symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29). The moment two [lines](https://en.wikipedia.org/wiki/Line_%28geometry%29) cross in [space](https://en.wikipedia.org/wiki/Space_%28mathematics%29), they birth a system of relationships that dictates the physical world. In [geometry](https://en.wikipedia.org/wiki/Geometry), an **[angle](https://en.wikipedia.org/wiki/Angle)** is formed by two [rays](https://en.wikipedia.org/wiki/Line_%28geometry%29) sharing a common [endpoint](https://en.wikipedia.org/wiki/Point_%28geometry%29). That exact, microscopic anchor—called the **[vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29)**—is the pivot around which our entire understanding of [spatial relationships](https://en.wikipedia.org/wiki/Spatial_relation) revolves. To master the geometry of the [Praxis Core exam](https://en.wikipedia.org/wiki/Praxis_test), we must understand how these [vertices](https://en.wikipedia.org/wiki/Vertex_%28geometry%29) behave when lines collide, run side-by-side, or slice through one another. 
 
-Welcome! Imagine for a moment that you are not studying for a math exam, but instead, you are learning how to read the blueprint of the universe. [Geometry](https://en.wikipedia.org/wiki/Geometry), at its heart, is just the study of how things fit together. Whether you are building a bridge, coding a [video game engine](https://en.wikipedia.org/wiki/Game_engine), or taking the [Praxis Core Academic Skills for Educators exam](https://en.wikipedia.org/wiki/Praxis_test), the rules governing [angles](https://en.wikipedia.org/wiki/Angle) and [lines](https://en.wikipedia.org/wiki/Line_%28geometry%29) are exactly the same. They are absolute, they are beautiful, and best of all, they make perfect [logical sense](https://en.wikipedia.org/wiki/Logic). 
+![The intersecting suspender cables of a suspension bridge provide a real-world example of how lines intersecting in space are governed by strict mathematical symmetry.](https://wikipedia.org/wiki/Special:Redirect/file/Golden_Gate_Bridge_architecture_10.jpg)
 
-There is no need to memorize a massive, disconnected list of vocabulary words. If you understand *why* these lines and angles behave the way they do, the vocabulary will come naturally. Let’s dive in and see how the machinery of [intersecting lines](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) actually works!
+## The Anatomy of an Intersection
 
----
+The most fundamental interaction in [two-dimensional space](https://en.wikipedia.org/wiki/Two-dimensional_space) occurs when lines cross. By definition, **[intersecting lines](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) are lines that cross each other at exactly one [point](https://en.wikipedia.org/wiki/Point_%28geometry%29).** When this happens, space is suddenly divided into four distinct regions around the vertex, giving rise to two highly specific relationships between the newly formed angles.
 
-## Part 1: The Anatomy of an [Angle](https://en.wikipedia.org/wiki/Angle)
+![When two lines cross in two-dimensional space, they intersect at a single exact central point, dividing the surrounding area into four distinct regions.](https://wikipedia.org/wiki/Special:Redirect/file/Schnittpunkt-2g.svg)
 
-Before we can crash lines into each other, we need to know what happens when things meet. 
+### Adjacent vs. Vertical Angles
 
-Imagine standing in a field at night with two laser pointers. You hold them both together at your chest and point them outward into the sky in different directions. You have just built an [angle](https://en.wikipedia.org/wiki/Angle)! By definition, **an angle is formed by two [rays](https://en.wikipedia.org/wiki/Ray_%28geometry%29) sharing a common [endpoint](https://en.wikipedia.org/wiki/Point_%28geometry%29)**. That common endpoint—the place where you are holding the laser pointers—is called the **[vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29)**. 
+If you look at the four angles around an intersection, you will notice that they come in two varieties based on their placement:
 
-![An angle is formed when two rays meet at a shared endpoint called the vertex.](https://wikipedia.org/wiki/Special:Redirect/file/Angle.svg)
+1. **[Adjacent angles](https://en.wikipedia.org/wiki/Angle)** are two angles that share a common vertex and a common side. They sit right next to each other. However, to be truly adjacent, **adjacent angles do not share any interior points.** They are neighbors separated by a fence (the common ray), never overlapping.
+2. **[Vertical angles](https://en.wikipedia.org/wiki/Angle)** are the pairs of non-adjacent angles formed by the intersection of two lines. They sit directly across the vertex from one another. 
 
-> **The Bedrock Measurements:**
-> We measure the "openness" of these angles in [degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).
-> * A **[right angle](https://en.wikipedia.org/wiki/Right_angle)** has a measure of exactly 90 degrees. Think of a perfect, square corner.
-> * A **[straight angle](https://en.wikipedia.org/wiki/Straight_angle)** has a measure of exactly 180 degrees. If your two laser pointers are aimed in completely opposite directions, they form a perfectly flat, [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29). 
+Because lines are perfectly straight, they impose a strict mirror-like [symmetry](https://en.wikipedia.org/wiki/Reflectional_symmetry) on intersections. This leads us to one of the most powerful bedrock rules of geometry: **Vertical angles are always [congruent](https://en.wikipedia.org/wiki/Congruence_%28geometry%29) to each other.** If the top angle of an intersection is $110^\circ$, the bottom angle is fundamentally forced to be $110^\circ$ as well.
 
-### Good Neighbors: [Adjacent Angles](https://en.wikipedia.org/wiki/Adjacent_angle)
+![Vertical angles sit directly across the shared vertex from one another. Because straight lines impose a mirror-like symmetry, vertical pairs (like A and B, or C and D) are always congruent.](https://wikipedia.org/wiki/Special:Redirect/file/Vertical_Angles.svg)
 
-Now, suppose you add a third laser pointer to your hand. You now have multiple angles sitting right next to each other. In [geometry](https://en.wikipedia.org/wiki/Geometry), we call these **[adjacent angles](https://en.wikipedia.org/wiki/Adjacent_angle)**. To be officially "adjacent," two angles must share two things: a common [vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29) and a common side (one of the [rays](https://en.wikipedia.org/wiki/Ray_%28geometry%29)). 
+## The Rigid Arithmetic of Space: Complements and Supplements
 
-But here is a crucial detail that trips up many students: **[adjacent angles](https://en.wikipedia.org/wiki/Adjacent_angle) do not share any interior points**. They are like two neighboring properties sharing a backyard fence. The fence is shared, but the yards (the interiors) are totally distinct. You cannot have one angle "overlapping" another and call them adjacent.
+Before we scale our view to grander intersections, we need a precise [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) for how angles combine. Certain angle [measurements](https://en.wikipedia.org/wiki/Measurement) are so critical to [mathematics](https://en.wikipedia.org/wiki/Mathematics) that they possess specific names. 
 
-![Adjacent angles share a vertex and one side, but their interiors do not overlap.](https://wikipedia.org/wiki/Special:Redirect/file/Adjacentangles.svg)
+> **A [right angle](https://en.wikipedia.org/wiki/Right_angle) has a measure of exactly 90 [degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29).** 
+> **A [straight angle](https://en.wikipedia.org/wiki/Angle) has a measure of exactly 180 degrees.**
 
-### The Magic Numbers: 90 and 180
+These two measurements form the basis for understanding how adjacent angles interact:
 
-When two angles come together to form something special, we give them special names. 
-*   **[Complementary angles](https://en.wikipedia.org/wiki/Complementary_angles)** are two angles whose measures add up to exactly [90 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29). (To remember this, think: "It is *right* to give a *compliment*").
-*   **[Supplementary angles](https://en.wikipedia.org/wiki/Supplementary_angles)** are two angles whose measures add up to exactly [180 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29). They join forces to make a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29). 
+* **[Complementary angles](https://en.wikipedia.org/wiki/Angle):** These are two angles whose measures add up to exactly 90 degrees. If a right angle is split into two smaller angles, those two angles are complementary. 
+* **[Supplementary angles](https://en.wikipedia.org/wiki/Angle):** These are two angles whose measures add up to exactly 180 degrees. 
 
-![Complementary angles add up to exactly 90 degrees, forming a right angle when adjacent.](https://wikipedia.org/wiki/Special:Redirect/file/Complement_angle.svg)
+![Complementary angles are any two angles whose combined measures add up to form exactly a 90-degree right angle.](https://wikipedia.org/wiki/Special:Redirect/file/Complement_angle.svg)
 
----
+### The Linear Pair
 
-## Part 2: The Dance of [Intersecting Lines](https://en.wikipedia.org/wiki/Intersection_%28geometry%29)
+When intersecting lines create adjacent angles, they create a special geometric scenario called a **[linear pair](https://en.wikipedia.org/wiki/Angle)**. 
 
-Now let’s look at lines. By definition, **[intersecting lines](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) are lines that cross each other at exactly one [point](https://en.wikipedia.org/wiki/Point_%28geometry%29)**. 
+A **linear pair is a pair of adjacent angles formed by intersecting lines.** Look at the two rays that are *not* the shared side between the two angles. Because these angles are formed by straight intersecting lines, **the non-common sides of a linear pair of angles form a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29).** 
 
-![Intersecting lines cross at exactly one precise point, generating adjacent and vertical angles.](https://wikipedia.org/wiki/Special:Redirect/file/Schnittpunkt-2g.svg)
+Since a straight line represents a straight angle ($180^\circ$), the unavoidable conclusion is that **two angles that form a linear pair are always supplementary.** 
 
-When two straight lines cross, an amazing [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29) occurs. Let's trace it out. Draw an "X" on a piece of paper. You've just created four angles surrounding a single [vertex](https://en.wikipedia.org/wiki/Vertex_%28geometry%29). Because of the way straight lines work, we get a phenomenon called a **[linear pair](https://en.wikipedia.org/wiki/Adjacent_angle)**.
+**Special Case:** What happens when lines meet perfectly straight-up-and-down? We call these **[perpendicular lines](https://en.wikipedia.org/wiki/Perpendicular)**—two intersecting lines that form four right angles. Every linear pair here sums to $180^\circ$ ($90^\circ + 90^\circ = 180^\circ$), and all vertical angles are perfectly matched ($90^\circ = 90^\circ$).
 
-A **[linear pair](https://en.wikipedia.org/wiki/Adjacent_angle)** is a pair of [adjacent angles](https://en.wikipedia.org/wiki/Adjacent_angle) formed by [intersecting lines](https://en.wikipedia.org/wiki/Intersection_%28geometry%29). The shared ray acts as the fence, while **the non-common sides of a linear pair of angles form a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29)**. Because straight lines are always [180 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29), it is an unbreakable mathematical law that **two angles that form a linear pair are always [supplementary](https://en.wikipedia.org/wiki/Supplementary_angles)**.
+![When intersecting lines meet perfectly perpendicular to one another, they form exactly four right angles, with every linear pair seamlessly summing to 180 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Perpendicular-coloured.svg)
 
-### Reflections in the Mirror: [Vertical Angles](https://en.wikipedia.org/wiki/Vertical_angles)
+## Parallel Lines and the Transversal Slicer
 
-Look at that "X" you drew again. We know the angles next to each other ([adjacent](https://en.wikipedia.org/wiki/Adjacent_angle)) add up to 180°. But what about the angles across from each other? 
+Now, let us expand our view. Imagine [railroad tracks](https://en.wikipedia.org/wiki/Track_%28rail_transport%29) extending infinitely into the [horizon](https://en.wikipedia.org/wiki/Horizon). These rails represent **[parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29)**, which are lines in the same [plane](https://en.wikipedia.org/wiki/Plane_%28geometry%29) that never intersect. The reason they never intersect is one of pure, consistent spacing: **the [perpendicular distance](https://en.wikipedia.org/wiki/Distance_from_a_point_to_a_line) between two parallel lines remains constant.**
 
-These are called **[vertical angles](https://en.wikipedia.org/wiki/Vertical_angles)**. They are the pairs of non-adjacent angles formed by the [intersection](https://en.wikipedia.org/wiki/Intersection_%28geometry%29) of two lines. They sit opposite one another, like two hourglasses touching at the tips. 
+But geometry becomes infinitely more interesting when a third line crashes the party. 
 
-Here is where the logic is beautiful: Let's call the top angle $A$, the right angle $B$, and the bottom angle $C$. 
-*   $A$ and $B$ form a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29), so $A + B = 180$.
-*   $B$ and $C$ *also* form a straight line, so $B + C = 180$.
-*   If $A$ and $C$ both need exactly the same amount ($B$) to reach 180, then $A$ and $C$ must be identical!
+**A [transversal](https://en.wikipedia.org/wiki/Transversal_%28geometry%29) is a line that passes through two or more other lines in the same plane.** 
 
-Therefore: **[Vertical angles](https://en.wikipedia.org/wiki/Vertical_angles) are always [congruent](https://en.wikipedia.org/wiki/Congruence_%28geometry%29) to each other.** If the top angle is 40 degrees, the bottom angle is strictly and forever 40 degrees. 
+When a transversal slices through a pair of lines, it creates a highly predictable matrix of angles. In fact, **a single transversal intersecting two separate lines creates exactly eight distinct angles.** Four angles are grouped at the top intersection, and four at the bottom. 
 
-![Vertical angles sit directly opposite each other at an intersection and are always exactly congruent.](https://wikipedia.org/wiki/Special:Redirect/file/Vertical_Angles.svg)
+![A transversal line slicing through two parallel lines creates an organized matrix of exactly eight angles, mirroring the top intersection perfectly at the bottom.](https://wikipedia.org/wiki/Special:Redirect/file/Parallel_transversal.svg)
 
-### The Perfect Cross: [Perpendicular Lines](https://en.wikipedia.org/wiki/Perpendicular)
+To organize these eight angles, [geometricians](https://en.wikipedia.org/wiki/Geometer) divide the space into two zones:
+* **[Interior angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29):** These are the angles located in the region *between* the two lines intersected by the transversal. (Think of this as the space between the railroad tracks).
+* **Exterior angles:** These are the angles located *outside* the region between the two lines intersected by the transversal. 
 
-What happens if our intersecting lines cross in absolute, perfect balance, perfectly straight up and sideways? You get **[perpendicular lines](https://en.wikipedia.org/wiki/Perpendicular)**. These are two intersecting lines that form four [right angles](https://en.wikipedia.org/wiki/Right_angle). If one angle is [90 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29), the linear pair rule means its neighbor is 90, and the vertical angle rule means the opposite is 90. One perfect corner guarantees four perfect corners!
+## The Symphony of Eight Angles
 
-![Perpendicular lines form a perfect cross, resulting in four equal 90-degree right angles.](https://wikipedia.org/wiki/Special:Redirect/file/Perpendicular-coloured.svg)
+When a transversal cuts through two lines, it generates specific pairs of angles. It is vital to note that these pairs *always* exist when a transversal cuts any two lines. However, **when the two lines are parallel**, a beautiful mathematical harmony occurs: the angle pairs lock into absolute relationships of congruence and supplementation. 
 
----
+Here is how the angles pair up when a transversal cuts two parallel lines:
 
-## Part 3: Parallel Universes and the [Transversal](https://en.wikipedia.org/wiki/Transversal_%28geometry%29) Bridge
-
-Now we move from one intersection to two. To do this, we need **[parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29)**. These are lines in the same [plane](https://en.wikipedia.org/wiki/Plane_%28geometry%29) that never intersect. Imagine a set of train tracks extending forever into the horizon. They never touch. Because they never converge or diverge, **the perpendicular distance between two parallel lines remains constant**. 
-
-But parallel lines alone are a bit boring because they don't interact. Let's shake things up by driving a road straight across those train tracks. 
-
-This crossing line is called a **[transversal](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)**. A transversal is simply a line that passes through two or more other lines in the same plane. 
-
-> **The Rule of Eight:**
-> When this happens, a predictable [geometry](https://en.wikipedia.org/wiki/Geometry) is born: **A single transversal intersecting two separate lines creates exactly eight distinct angles.** (Four angles at the top intersection, four angles at the bottom intersection).
-
-![A transversal line cutting across two parallel lines creates an ecosystem of eight distinct, mathematically related angles.](https://wikipedia.org/wiki/Special:Redirect/file/Parallel_transversal.svg)
-
-To keep these eight angles straight, we categorize them based on *where* they live. Let's map the territory.
-
-*   **[Interior angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)** are the angles located in the region *between* the two lines intersected by a transversal. (Inside the train tracks).
-*   **[Exterior angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)** are the angles located *outside* the region between the two intersected lines. (Outside the train tracks).
-
----
-
-## Part 4: The Translation of Space ([Corresponding Angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29))
-
-If you have a transversal cutting across two parallel lines, the top intersection is a perfect, identical clone of the bottom intersection. The angles haven't changed; they've just slid down the transversal. 
-
-Because of this cloning effect, we look for **[corresponding angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)**. These are angles in the same relative position at each intersection where a transversal crosses two lines (e.g., the "top-right" angle at the first intersection and the "top-right" angle at the second intersection). 
-
-**Rule:** **When two [parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) are cut by a transversal, corresponding angles are [congruent](https://en.wikipedia.org/wiki/Congruence_%28geometry%29).**
-
-![Corresponding angles exist in the exact same relative position at both intersections and are always congruent.](https://wikipedia.org/wiki/Special:Redirect/file/Paralelni_transverzala_cor.svg)
-
----
-
-## Part 5: Alternate vs. Consecutive Angles
-
-Now that we have our map (Interior vs. Exterior) and our bridge (the Transversal), we can pair up angles from the top intersection with angles from the bottom intersection. Let's look at how they relate.
-
-### The Alternating Angles (The Congruent Pairs)
-"Alternate" means the angles jump to opposite sides of the transversal line. When lines are parallel, moving to the alternate side acts like a [vertical angle](https://en.wikipedia.org/wiki/Vertical_angles) [reflection](https://en.wikipedia.org/wiki/Reflection_%28mathematics%29)—meaning the angles will be equal.
-
-| Concept | Definition | The Golden Rule (If lines are parallel...) |
+| Angle Pair Name | Positional Definition | Relationship if Lines are Parallel |
 | :--- | :--- | :--- |
-| **[Alternate Interior Angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)** | A pair of angles on *opposite sides* of a transversal and *between* the two intersected lines. | **Alternate interior angles are [congruent](https://en.wikipedia.org/wiki/Congruence_%28geometry%29).** |
-| **[Alternate Exterior Angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)** | A pair of angles on *opposite sides* of a transversal and *outside* the two intersected lines. | **Alternate exterior angles are congruent.** |
+| **[Corresponding angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)** | Angles in the same relative position at each intersection where a transversal crosses two lines (e.g., both top-right). | **Corresponding angles are congruent.** |
+| **Alternate interior angles** | A pair of angles on opposite sides of a transversal and between two intersected lines. | **Alternate interior angles are congruent.** |
+| **Alternate exterior angles** | A pair of angles on opposite sides of a transversal and outside the two intersected lines. | **Alternate exterior angles are congruent.** |
 
-![Alternate angles jump to opposite sides of the transversal. When the intersected lines are parallel, these alternating pairs are congruent.](https://wikipedia.org/wiki/Special:Redirect/file/Paralelni_transverzala_alt.svg)
+### The "Consecutive" Angle Pairs
 
-### The Consecutive Angles (The Supplementary Pairs)
-"Consecutive" means the angles stay on the *same side* of the transversal line. 
+While the "alternate" angles cross over the transversal, the "consecutive" angles remain on the same side. 
 
-*Fact to know for the Praxis exam:* **[Consecutive interior angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29) are frequently referred to as same-side interior angles**, and similarly, **[consecutive exterior angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29) are frequently referred to as same-side exterior angles**. 
+* **Consecutive interior angles** are a pair of angles on the same side of a transversal and between two intersected lines. Because of their position, **consecutive interior angles are frequently referred to as same-side interior angles.** 
+* **Consecutive exterior angles** are a pair of angles on the same side of a transversal and outside the two intersected lines. Similarly, **consecutive exterior angles are frequently referred to as same-side exterior angles.**
 
-If you take two angles on the *same side* of the transversal, one will be the big angle and one will be the small angle. Together, they complete the [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29) of the parallel system.
+Unlike the alternate and corresponding pairs, consecutive pairs do *not* match each other in size. Instead, they complete each other:
+* **When two parallel lines are cut by a transversal, consecutive interior angles are supplementary.**
+* **When two parallel lines are cut by a transversal, consecutive exterior angles are supplementary.**
 
-| Concept | Definition | The Golden Rule (If lines are parallel...) |
-| :--- | :--- | :--- |
-| **[Consecutive Interior Angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)** | A pair of angles on the *same side* of a transversal and *between* the two intersected lines. | **Consecutive interior angles are [supplementary](https://en.wikipedia.org/wiki/Supplementary_angles).** |
-| **[Consecutive Exterior Angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)** | A pair of angles on the *same side* of a transversal and *outside* the two intersected lines. | **Consecutive exterior angles are supplementary.** |
+![Corresponding angles occupy the identical relative position at each intersection. When the transversal cuts across parallel lines, these corresponding angles are perfectly congruent.](https://wikipedia.org/wiki/Special:Redirect/file/Paralelni_transverzala_cor.svg)
 
-![Consecutive angles stay on the same side of the transversal. Instead of being equal, they form a supplementary pair that adds to 180 degrees.](https://wikipedia.org/wiki/Special:Redirect/file/Transverzala_parallel.svg)
+## The "Cheat Code" for Transversals
 
----
+If memorizing those specific pairs feels overwhelming, there is an elegant shortcut—a profound simplification born from the parallel symmetry. 
 
-## Part 6: The Ultimate Shortcut (The "[Feynman](https://en.wikipedia.org/wiki/Richard_Feynman)" Trick)
+If a transversal cuts two parallel lines at a slant (not perfectly perpendicular), it creates four [acute angles](https://en.wikipedia.org/wiki/Angle) (less than $90^\circ$) and four [obtuse angles](https://en.wikipedia.org/wiki/Angle) (greater than $90^\circ$). 
 
-Okay, let's step back. I just gave you a lot of rules. Alternate interior, consecutive exterior, corresponding... it sounds like a lot to memorize. But nature is highly efficient, and there is a brilliant, profound shortcut to all of this.
+Because vertical lines are congruent, and parallel lines perfectly clone the top intersection at the bottom intersection, we arrive at the golden rule of transversals:
+1. **A transversal intersecting two parallel lines creates a set of acute angles that are all congruent to each other.**
+2. **A transversal intersecting two parallel lines creates a set of obtuse angles that are all congruent to each other.**
 
-If you have a transversal intersecting two parallel lines, look closely at the eight angles it creates. Unless the transversal cuts perfectly straight up-and-down (which we will get to in a moment), it hits at a slant. 
+Therefore, if you look at the eight angles created by parallel lines and a transversal, you only ever have two measurements. Pick *any* acute angle in the diagram, and it equals *all* the other acute angles. Pick *any* obtuse angle, and it equals *all* the other obtuse angles. 
 
-That slant creates four small, sharp angles (**[acute angles](https://en.wikipedia.org/wiki/Acute_angle)**), and four large, wide angles (**[obtuse angles](https://en.wikipedia.org/wiki/Obtuse_angle)**). 
+What is the relationship between the two sizes? Because linear pairs must sum to a straight line, **when a transversal cuts two parallel lines, any acute angle formed is supplementary to any obtuse angle formed.** If you know just a single angle out of the eight, you instantly know the exact measurements of the other seven.
 
-![A visual comparison of an acute angle (less than 90°), an obtuse angle (greater than 90°), and a straight line (exactly 180°).](https://wikipedia.org/wiki/Special:Redirect/file/Angle_obtuse_acute_straight.svg)
+### The Perpendicular Exception
 
-Here is the ultimate cheat code for the Praxis exam:
-1.  **A transversal intersecting two [parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) creates a set of acute angles that are all [congruent](https://en.wikipedia.org/wiki/Congruence_%28geometry%29) to each other.** Every single small angle on that diagram is exactly the same number of degrees. 
-2.  **A transversal intersecting two [parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29) creates a set of obtuse angles that are all [congruent](https://en.wikipedia.org/wiki/Congruence_%28geometry%29) to each other.** Every single large angle on that diagram is exactly the same number of degrees.
-3.  **When a transversal cuts two parallel lines, any acute angle formed is [supplementary](https://en.wikipedia.org/wiki/Supplementary_angles) to any obtuse angle formed.** Pick *any* acute angle. Pick *any* obtuse angle. Add them together. The sum is always exactly [180 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29)!
+There is exactly one scenario where you do not get acute and obtuse angles: when the transversal comes straight down. But the [logic](https://en.wikipedia.org/wiki/Logic) remains completely unbroken. 
 
-If you know the measure of just *one* of those eight angles, you instantly know the other seven! If one angle is 50°, then all the [acute angles](https://en.wikipedia.org/wiki/Acute_angle) are 50°, and all the [obtuse angles](https://en.wikipedia.org/wiki/Obtuse_angle) are 130° (because 180 - 50 = 130). That’s it! Alternate interior? Alternate exterior? They are just fancy ways of pointing out two acute angles or two obtuse angles. Consecutive interior? That is just pointing out one acute and one obtuse angle, which is why they are [supplementary](https://en.wikipedia.org/wiki/Supplementary_angles).
+Because parallel lines maintain a constant perpendicular distance, **if a transversal is perpendicular to one of two parallel lines, that transversal is also perpendicular to the second parallel line.** In this special case, instead of a mix of acute and obtuse angles, the transversal creates exactly eight right angles. They are all exactly $90^\circ$, all congruent to each other, and any two of them will seamlessly add up to $180^\circ$. 
 
-### The Special Case: The [Perpendicular](https://en.wikipedia.org/wiki/Perpendicular) Transversal
+![Because parallel lines maintain a constant distance, a transversal that strikes one line perfectly perpendicular must also be perpendicular to the second, creating exactly eight congruent 90-degree right angles.](https://wikipedia.org/wiki/Special:Redirect/file/Perpendicular_transversal_v3.svg)
 
-What if the transversal doesn't come in at a slant? What if it comes straight down? 
-
-**If a transversal is [perpendicular](https://en.wikipedia.org/wiki/Perpendicular) to one of two [parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29), that transversal is also perpendicular to the second parallel line.** 
-
-Think about our cheat code! If the transversal is perpendicular, it makes an angle of [90 degrees](https://en.wikipedia.org/wiki/Degree_%28angle%29). So the "acute" angle is 90. And because the supplementary "obtuse" angle must add up to 180, it is *also* exactly 90 (180 - 90 = 90). The distinction between acute and obtuse vanishes, and all eight angles are perfectly identical 90-degree [right angles](https://en.wikipedia.org/wiki/Right_angle).
-
-![When a transversal is perfectly perpendicular to parallel lines, all eight angles become identical 90-degree right angles.](https://wikipedia.org/wiki/Special:Redirect/file/Perpendicular_transversal_v3.svg)
-
----
-
-## Conclusion: Tying It All Together
-
-[Geometry](https://en.wikipedia.org/wiki/Geometry) is simply the study of consistent, logical relationships. When you sit down for your Praxis Math exam, don't let the terminology intimidate you. 
-
-When lines [intersect](https://en.wikipedia.org/wiki/Intersection_%28geometry%29), [vertical angles](https://en.wikipedia.org/wiki/Vertical_angles) mirror each other perfectly, while [linear pairs](https://en.wikipedia.org/wiki/Adjacent_angle) straighten things out to 180 degrees. When a transversal slashes across [parallel lines](https://en.wikipedia.org/wiki/Parallel_%28geometry%29), it copies and pastes the intersection, creating a beautiful [symmetry](https://en.wikipedia.org/wiki/Symmetry_%28geometry%29) where every [acute angle](https://en.wikipedia.org/wiki/Acute_angle) matches, every [obtuse angle](https://en.wikipedia.org/wiki/Obtuse_angle) matches, and the two together will always build a [straight line](https://en.wikipedia.org/wiki/Line_%28geometry%29).
-
-Understand the logic of the shape, visualize the connections, and you'll navigate any angle problem the exam throws at you with absolute confidence. Happy studying!
+Mastering these laws of intersection is not just an exercise in memorizing vocabulary; it is understanding the ironclad logic that dictates how space itself is assembled. By tracking the vertex, spotting the linear pairs, and recognizing the symmetrical beauty of the transversal, you can effortlessly decode any complex geometry the Praxis Core presents.

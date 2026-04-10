@@ -1,140 +1,115 @@
-Welcome! Pull up a chair. 
+[Language](https://en.wikipedia.org/wiki/Language) is not a flat list of terms to be memorized; it is a highly structured, mechanical system of [meaning](https://en.wikipedia.org/wiki/Meaning_%28linguistics%29). When we encounter an unfamiliar word in a text, we do not simply guess at its purpose. We inspect its environment, examine its internal moving parts, and evaluate its functional role within the broader machinery of the sentence. To master [vocabulary instruction](https://en.wikipedia.org/wiki/Vocabulary_development) is to teach students how to be linguistic engineers—how to dismantle a word, look at its [roots](https://en.wikipedia.org/wiki/Root_%28linguistics%29) and [affixes](https://en.wikipedia.org/wiki/Affix), deduce its exact function through surrounding context, and determine whether it is conveying a cold, [literal](https://en.wikipedia.org/wiki/Literal_and_figurative_language) fact or painting an abstract, [figurative](https://en.wikipedia.org/wiki/Literal_and_figurative_language) landscape. 
 
-When you look closely at [human beings](https://en.wikipedia.org/wiki/Human), you’ll find that our greatest, most magnificent invention isn't the [wheel](https://en.wikipedia.org/wiki/Wheel), or the [steam engine](https://en.wikipedia.org/wiki/Steam_engine), or the [microchip](https://en.wikipedia.org/wiki/Integrated_circuit). It’s *[language](https://en.wikipedia.org/wiki/Language)*. Words are the fundamental gears and cogs we use to transfer a complicated thought from my [brain](https://en.wikipedia.org/wiki/Brain) into yours. 
+![A structural parse tree demonstrating how English sentences function as mechanical systems built from grammatical components rather than flat lists of words.](https://wikipedia.org/wiki/Special:Redirect/file/Constituent_structure_analysis_English_sentence.svg)
 
-![Different regions of the human brain, such as Broca's and Wernicke's areas, are specifically dedicated to the complex task of processing and producing language.](https://wikipedia.org/wiki/Special:Redirect/file/Brain_Surface_Gyri.SVG)
+## The Architecture of the [Lexicon](https://en.wikipedia.org/wiki/Lexicon): The Three Tiers of [Vocabulary](https://en.wikipedia.org/wiki/Vocabulary)
 
-As a future [educator](https://en.wikipedia.org/wiki/Teacher) taking the [Praxis Elementary Education exam](https://en.wikipedia.org/wiki/Praxis_test), your job isn't just to teach kids how to memorize [dictionaries](https://en.wikipedia.org/wiki/Dictionary). Your job is to show them how to tinker with the machinery of language! You are going to teach them how to take a word apart, deduce its meaning like a world-class detective, and use language to paint pictures in the minds of others. 
+To teach vocabulary efficiently, we must first recognize that not all words serve the same [cognitive](https://en.wikipedia.org/wiki/Cognition) or communicative purpose. Educational researchers categorize the [English lexicon](https://en.wikipedia.org/wiki/English_vocabulary) into a three-tiered framework. Think of these tiers not as levels of difficulty, but as different zones of utility. 
 
-Let’s break down the mechanics of [vocabulary](https://en.wikipedia.org/wiki/Vocabulary) and [word meaning](https://en.wikipedia.org/wiki/Meaning_%28linguistics%29). We’re going to explore how we categorize words, how we decode them, how we build them, and how we play with them.
+### Tier 1: The Foundation of [Communication](https://en.wikipedia.org/wiki/Communication)
+**Tier 1 vocabulary consists of basic, everyday words commonly used in [casual conversation](https://en.wikipedia.org/wiki/Conversation).** Because children are surrounded by these words at home, on the playground, and in standard media, they typically acquire them naturally through daily oral interaction. Consequently, **Tier 1 vocabulary words rarely require explicit instructional focus in the classroom**. If a student speaks the language [natively](https://en.wikipedia.org/wiki/First_language), they already possess this foundation.
 
----
+> **Examples:** **'[Dog](https://en.wikipedia.org/wiki/Dog)'**, **'[run](https://en.wikipedia.org/wiki/Running)'**, and **'[happy](https://en.wikipedia.org/wiki/Happiness)'** are examples of Tier 1 vocabulary words.
 
-## Part I: The Vocabulary Toolbox (The Three Tiers)
+### Tier 2: The Mortar of Academic Thought
+As students transition from "[learning to read](https://en.wikipedia.org/wiki/Reading)" to "reading to learn," they encounter words that are not tied to a single subject, but appear frequently in formal, written texts. **Tier 2 vocabulary consists of high-frequency academic words used across multiple disciplines.** 
 
-Think of a student's vocabulary like a gigantic toolbox. Not all tools do the same job. Some are used every single day for basic survival, while others are highly specialized instruments you only pull out for a specific project. [Educational researchers](https://en.wikipedia.org/wiki/Educational_research) sort these tools into three distinct "tiers." 
+These are the versatile tools of the intellect. A student might *evaluate* a [poem](https://en.wikipedia.org/wiki/Poetry) in English class, *evaluate* a data set in [mathematics](https://en.wikipedia.org/wiki/Mathematics), or *evaluate* a historical [primary source](https://en.wikipedia.org/wiki/Primary_source). Because these words hold complex academic texts together, **Tier 2 vocabulary words heavily influence a student's [reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension) of complex texts.** These are the words that give students the most "bang for their buck" and should be the primary focus of direct vocabulary instruction.
 
-### Tier 1: The Everyday Hammers and Screwdrivers
-At the foundational level, **Tier 1 vocabulary consists of basic, everyday words commonly used in casual conversation.** These are the words floating in the air of a child’s home and on the playground. 
+> **Examples:** **'[Analyze](https://en.wikipedia.org/wiki/Analysis)'**, **'[evaluate](https://en.wikipedia.org/wiki/Evaluation)'**, and **'contrast'** are examples of Tier 2 vocabulary words.
 
-Because students are constantly immersed in this language, **Tier 1 vocabulary words rarely require explicit instructional focus in the classroom.** You don't need a [lesson plan](https://en.wikipedia.org/wiki/Lesson_plan) to teach a child what "run" means; they're already doing it! Words like **'dog', 'run', and 'happy' are examples of Tier 1 vocabulary words.**
+### Tier 3: The Domain-Specific Bricks
+At the top of the pyramid are highly specialized words. **Tier 3 vocabulary consists of [domain-specific](https://en.wikipedia.org/wiki/Domain-specific_language) words tied exclusively to a specific subject area.** You will rarely encounter these words outside of their specialized fields. Because they carry such distinct, technical meanings, **Tier 3 vocabulary words require explicit instruction when introducing a new academic topic.** You cannot expect a student to infer the deep [scientific](https://en.wikipedia.org/wiki/Science) reality of these terms purely from casual reading; they must be explicitly taught as part of the content.
 
-### Tier 2: The Master Keys of Academia
-Now we get to the sweet spot of [education](https://en.wikipedia.org/wiki/Education). **Tier 2 vocabulary consists of high-frequency academic words used across multiple disciplines.** These aren't the words kids usually shout on a soccer field, but they are the crucial, heavy-lifting words they will encounter in a [math word problem](https://en.wikipedia.org/wiki/Word_problem_%28mathematics_education%29), a [history](https://en.wikipedia.org/wiki/History) [textbook](https://en.wikipedia.org/wiki/Textbook), and a [science](https://en.wikipedia.org/wiki/Science) [lab](https://en.wikipedia.org/wiki/Laboratory). 
+> **Examples:** **'[Photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)'**, **'[isotope](https://en.wikipedia.org/wiki/Isotope)'**, and **'[legislature](https://en.wikipedia.org/wiki/Legislature)'** are examples of Tier 3 vocabulary words.
 
-> **Why Tier 2 Matters:** **Tier 2 vocabulary words heavily influence a student's [reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension) of complex texts.** If a student doesn't understand these [cross-curricular](https://en.wikipedia.org/wiki/Interdisciplinarity) terms, the entire academic enterprise breaks down. 
-
-Words like **'analyze', 'evaluate', and 'contrast' are examples of Tier 2 vocabulary words.** When you tell a student to *analyze* a [poem](https://en.wikipedia.org/wiki/Poetry) or *evaluate* a [math equation](https://en.wikipedia.org/wiki/Equation), you are relying on their Tier 2 mastery.
-
-### Tier 3: The Specialized Instruments
-Finally, we have the highly calibrated, single-purpose tools. **Tier 3 vocabulary consists of domain-specific words tied exclusively to a specific subject area.** You aren't going to use these words to order a [pizza](https://en.wikipedia.org/wiki/Pizza). 
-
-Because they are so specialized, **Tier 3 vocabulary words require explicit instruction when introducing a new academic topic.** You cannot assume a student will pick these up through context alone. Words like **'[photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)', '[isotope](https://en.wikipedia.org/wiki/Isotope)', and '[legislature](https://en.wikipedia.org/wiki/Legislature)' are examples of Tier 3 vocabulary words.** When you start a unit on [plant biology](https://en.wikipedia.org/wiki/Botany), you *must* explicitly define "photosynthesis" before you can move forward.
-
-![A schematic of photosynthesis. As a highly specialized Tier 3 vocabulary word, students need explicit instruction on this process before they can understand it.](https://wikipedia.org/wiki/Special:Redirect/file/Simple_photosynthesis_overview.svg)
-
-| Tier | Characteristics | Examples | Requires Explicit Instruction? |
-| :--- | :--- | :--- | :--- |
-| **Tier 1** | Basic, everyday, conversational | Dog, run, happy | Rarely |
-| **Tier 2** | High-frequency academic, cross-disciplinary | Analyze, evaluate, contrast | **Yes** (Critical for comprehension) |
-| **Tier 3** | Domain-specific, highly specialized | [Photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis), [isotope](https://en.wikipedia.org/wiki/Isotope) | **Yes** (When introducing a topic) |
+![Domain-specific Tier 3 vocabulary, such as "photosynthesis," represents complex scientific processes that require explicit instruction and visual modeling to fully comprehend.](https://wikipedia.org/wiki/Special:Redirect/file/Simple_photosynthesis_overview.svg)
 
 ---
 
-## Part II: The Detective Work (Context and Syntax)
+## Decoding the Unknown: [Context](https://en.wikipedia.org/wiki/Context_%28linguistics%29) and [Syntax](https://en.wikipedia.org/wiki/Syntax) Clues
 
-Imagine a student is reading a passage and hits a complete roadblock—a word they have never seen before. What do they do? Do they panic? No! They look at the environment around the word. 
+When a reader encounters a word they do not know, they do not immediately reach for a [dictionary](https://en.wikipedia.org/wiki/Dictionary). Instead, skilled **readers use [context clues](https://en.wikipedia.org/wiki/Context_clue) from surrounding text to infer the [literal meaning](https://en.wikipedia.org/wiki/Literal_and_figurative_language) of an unknown word.** Just as a detective pieces together the identity of a suspect by looking at footprints and discarded clues, a reader pieces together a word's meaning by looking at the [semantic](https://en.wikipedia.org/wiki/Semantics) and [grammatical](https://en.wikipedia.org/wiki/Grammar) clues left by the author.
 
-Often, **readers use [context clues](https://en.wikipedia.org/wiki/Context_%28language_use%29) from surrounding text to infer the [literal meaning](https://en.wikipedia.org/wiki/Literal_and_figurative_language) of an unknown word.** Authors are surprisingly generous; they usually leave breadcrumbs. Let's look at the four main types of context clues:
+### Semantic Context Clues
+Authors frequently embed direct hints about what a word means into the [narrative](https://en.wikipedia.org/wiki/Narrative). We categorize these hints into four main types:
 
-1. **Definition Context Clue:** This is the author handing you the answer on a silver platter. **A definition context clue explicitly states the meaning of a target word within the same sentence.** 
-   * *Example:* "The *[entomologist](https://en.wikipedia.org/wiki/Entomology)*, a scientist who studies [insects](https://en.wikipedia.org/wiki/Insect), carefully examined the [beetle](https://en.wikipedia.org/wiki/Beetle)."
-2. **[Synonym](https://en.wikipedia.org/wiki/Synonym) Context Clue:** Here, the author puts a familiar buddy next to the stranger. **A synonym context clue provides a word with a similar meaning near the unknown word to help explain the unknown word.** 
-   * *Example:* "The [king](https://en.wikipedia.org/wiki/King) was *furious*, completely angry at the betrayal."
-3. **[Antonym](https://en.wikipedia.org/wiki/Opposite_%28semantics%29) Context Clue:** This relies on contrast. **An antonym context clue provides a word with an opposite meaning to highlight the unknown word's definition.** 
-   * *Example:* "Unlike her highly energetic sister, Clara was entirely *lethargic*."
-4. **[Inference](https://en.wikipedia.org/wiki/Inference) Context Clue:** This is where the student must put on their [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes) hat. **An inference context clue requires the reader to use [logical reasoning](https://en.wikipedia.org/wiki/Logical_reasoning) to deduce an unknown word's meaning from the described situation.** 
-   * *Example:* "With his stomach growling and his hands shaking from [hunger](https://en.wikipedia.org/wiki/Hunger), he looked *famished*." (You infer *famished* means extremely hungry based on the physical [symptoms](https://en.wikipedia.org/wiki/Symptom)).
+1. **Definition Clues:** Sometimes, the author simply hands the reader the answer. **A definition context clue explicitly states the meaning of a target word within the same sentence.** 
+   * *Example:* "The [entomologist](https://en.wikipedia.org/wiki/Entomology), *a scientist who studies insects*, carefully cataloged the new [beetle](https://en.wikipedia.org/wiki/Beetle)."
+2. **Synonym Clues:** **A [synonym](https://en.wikipedia.org/wiki/Synonym) context clue provides a word with a similar meaning near the unknown word to help explain the unknown word.** 
+   * *Example:* "The king’s *[hubris](https://en.wikipedia.org/wiki/Hubris)*, or extreme *arrogance*, eventually led to his downfall."
+3. **Antonym Clues:** Contrast is a powerful illuminator. **An [antonym](https://en.wikipedia.org/wiki/Opposite_%28semantics%29) context clue provides a word with an opposite meaning to highlight the unknown word's definition.** 
+   * *Example:* "While her brother was *[lethargic](https://en.wikipedia.org/wiki/Lethargy)*, Sarah was highly *energetic* and ready to hike."
+4. **Inference Clues:** Often, the text paints a vivid scene that demands logical deduction. **An [inference](https://en.wikipedia.org/wiki/Inference) context clue requires the reader to use logical reasoning to deduce an unknown word's meaning from the described situation.** 
+   * *Example:* "He grabbed his umbrella and buttoned his raincoat tightly before stepping out into the *torrential* weather." (Logic dictates *torrential* must mean a heavy, wet storm).
 
-![Students must use logical reasoning, much like the famous detective Sherlock Holmes, to deduce the meaning of unfamiliar words through inference context clues.](https://wikipedia.org/wiki/Special:Redirect/file/Sherlock_Holmes_-_The_Man_with_the_Twisted_Lip_(colored).jpg)
+### Syntactic Cues: The Grammar of Meaning
+Meaning does not just come from surrounding definitions; it comes from structure. [Sentences](https://en.wikipedia.org/wiki/Sentence_%28linguistics%29) are governed by rigid rules of grammar. **Readers use syntax to identify the [part of speech](https://en.wikipedia.org/wiki/Part_of_speech) of an unknown word based on the unknown word's grammatical position in a sentence.** 
 
-### The Geometry of Sentences: Syntactic Cues
-But wait, we don't just look at the *meaning* of the surrounding words; we look at the [grammatical](https://en.wikipedia.org/wiki/Grammar) architecture! 
+![A breakdown of English syntactic categories, which readers intuitively use to deduce the functional role and potential meaning of unfamiliar words.](https://wikipedia.org/wiki/Special:Redirect/file/EnglishGrammarCategories.png)
 
-**Readers use [syntax](https://en.wikipedia.org/wiki/Syntax) to identify the [part of speech](https://en.wikipedia.org/wiki/Part_of_speech) of an unknown word based on the unknown word's grammatical position in a sentence.** Sentences have a strict mathematical structure. These **syntactic cues allow a reader to determine whether an unfamiliar word functions as a [noun](https://en.wikipedia.org/wiki/Noun), [verb](https://en.wikipedia.org/wiki/Verb), [adjective](https://en.wikipedia.org/wiki/Adjective), or [adverb](https://en.wikipedia.org/wiki/Adverb).** 
-
-![A syntactic parse tree illustrates the underlying "geometry" of a sentence, visually demonstrating how words function structurally as nouns, verbs, and other parts of speech.](https://wikipedia.org/wiki/Special:Redirect/file/Parse_tree_1.jpg)
-
-If I say, "The quick brown *glorp* jumped over the [fence](https://en.wikipedia.org/wiki/Fence)," you might not know what a "glorp" is, but its position tells you exactly what it does: it's a noun. It’s a *thing* that jumps. That structural realization narrows down the possibilities of what the word could mean.
+If I write, "The furry *glarp* happily *borked* over the fence," you have no idea what a *glarp* or a *bork* is. But **syntactic cues allow a reader to determine whether an unfamiliar word functions as a [noun](https://en.wikipedia.org/wiki/Noun), [verb](https://en.wikipedia.org/wiki/Verb), [adjective](https://en.wikipedia.org/wiki/Adjective), or [adverb](https://en.wikipedia.org/wiki/Adverb).** You intuitively know that *glarp* is a noun (it has an [article](https://en.wikipedia.org/wiki/Article_%28grammar%29) "The" and an adjective "furry" attached to it) and that *borked* is a verb (it tells you what the noun did). Recognizing a word's functional part of speech is the vital first step in narrowing down its possible meaning.
 
 ---
 
-## Part III: The Anatomy of a Word ([Morphology](https://en.wikipedia.org/wiki/Morphology_%28linguistics%29))
+## The [Anatomy](https://en.wikipedia.org/wiki/Anatomy) of a Word: Roots and Affixes
 
-If the context doesn't give away the word’s meaning, we have to put the word under a [microscope](https://en.wikipedia.org/wiki/Microscope) and dissect it. Words are not just solid, unbreakable blocks; they are built out of smaller, interchangeable [Lego](https://en.wikipedia.org/wiki/Lego) bricks called [morphemes](https://en.wikipedia.org/wiki/Morpheme). 
+If context clues are the external environment of a word, [morphology](https://en.wikipedia.org/wiki/Morphology_%28linguistics%29) is its internal anatomy. Many words in English are not monolithic, solid blocks; they are composite structures built from smaller units of meaning called [morphemes](https://en.wikipedia.org/wiki/Morpheme).
 
-At the very center of this structure sits the core. **A [root word](https://en.wikipedia.org/wiki/Root_%28linguistics%29) provides the core, foundational meaning of a word.** Think of it as the [engine](https://en.wikipedia.org/wiki/Engine) of a car. 
+![A morphological tree illustrating how the foundational root word "depend" is modified by multiple affixes to construct the complex word "independently."](https://wikipedia.org/wiki/Special:Redirect/file/Independently_morphology_tree.png)
 
-To this engine, we attach modular parts to change how it drives. **[Affixes](https://en.wikipedia.org/wiki/Affix) are morphemes added to a root word to alter the root word's meaning or grammatical function.** There are two primary places we stick these affixes: the front and the back.
+### The Foundation: Root Words
+At the core of these composite words is a central anchor. **A [root word](https://en.wikipedia.org/wiki/Root_%28linguistics%29) provides the core, foundational meaning of a word.** For instance, the root word *struct* comes from [Latin](https://en.wikipedia.org/wiki/Latin), meaning "to build." This foundational concept remains present whether the word is *construct*, *destruct*, or *structure*.
 
-### Prefixes: Changing the Core Meaning
-**[Prefixes](https://en.wikipedia.org/wiki/Prefix) are affixes placed at the beginning of a root word.** (Pre = before!). When you bolt a piece onto the front of a word, something dramatic happens: **adding a [prefix](https://en.wikipedia.org/wiki/Prefix) to a root word typically changes the core meaning of the original word.** It steers the word into entirely new territory!
+### Modifying the Core: Affixes
+To change how a root word operates, we attach additional pieces to it. **[Affixes](https://en.wikipedia.org/wiki/Affix) are morphemes added to a root word to alter the root word's meaning or grammatical function.** Depending on where we place the affix, it behaves differently.
 
-* **The prefix 'un-' means 'not' or 'the opposite of'.** (Take the root *kind*. Add *un-*. You've completely reversed the meaning to *unkind*).
-* **The prefix 're-' means 'again' or 'back'.** (Take the root *build*. Add *re-*. Now you are *rebuilding*).
+#### Prefixes: Shifting the Meaning
+**[Prefixes](https://en.wikipedia.org/wiki/Prefix) are affixes placed at the beginning of a root word.** When we attach morphemes to the front of a word, we are usually fundamentally altering its semantic definition. **Adding a prefix to a root word typically changes the core meaning of the original word.**
 
-### Suffixes: Changing the Grammatical Job
-Now, let's look at the tail end. **[Suffixes](https://en.wikipedia.org/wiki/Suffix) are affixes placed at the end of a root word.** While prefixes change *what* the word means, [suffixes](https://en.wikipedia.org/wiki/Suffix) typically change *how the word behaves*. **Adding a [suffix](https://en.wikipedia.org/wiki/Suffix) to a root word typically changes the word's grammatical part of speech.** 
+*   **The prefix 'un-' means 'not' or 'the opposite of'.** If we take the word *happy* and add *un-*, we create *unhappy*—the exact reverse of the original state.
+*   **The prefix 're-' means 'again' or 'back'.** If we take the root *build* and add *re-*, we get *rebuild*—to build again. 
 
-Let's look at three classic examples:
-* **The suffix '-ful' means 'full of' or 'characterized by'.** If you take the noun *beauty* and add *-ful*, you've created the adjective *beautiful*.
-* **The suffix '-less' means 'without' or 'lacking'.** If you take the noun *fear* and add *-less*, you've created the adjective *fearless*.
-* **The suffix '-ly' transforms an adjective into an adverb indicating how an action is performed.** You take the adjective *quick*, slap an *-ly* on the end, and suddenly you have the adverb *quickly*. You’ve changed a describing word into an action-modifying word!
+#### Suffixes: Shifting the Part of Speech
+**[Suffixes](https://en.wikipedia.org/wiki/Suffix) are affixes placed at the end of a root word.** While prefixes shift the semantic definition, suffixes generally alter how the word behaves grammatically within a sentence. **Adding a suffix to a root word typically changes the word's grammatical part of speech.**
 
-![A morphological tree breaking down the word "independently" into its constituent morphemes. It shows how the root word "depend" is altered by the prefix "in-" and the suffixes "-ent" and "-ly" to change both its meaning and its part of speech.](https://wikipedia.org/wiki/Special:Redirect/file/Independently_morphology_tree.png)
-
----
-
-## Part IV: Painting with Words (Literal vs. Figurative Language)
-
-Up to this point, we’ve been dealing with the strict, mathematical, dictionary-defined aspects of language. **[Literal language](https://en.wikipedia.org/wiki/Literal_and_figurative_language) states facts exactly as the words are defined in a standard [dictionary](https://en.wikipedia.org/wiki/Dictionary).** If I say "The car is fast," I literally mean the machine moves at a high [velocity](https://en.wikipedia.org/wiki/Velocity).
-
-But the human mind is a deeply creative, emotional engine. We don’t just want to state facts; we want to convey *feeling*. We want to express the inexpressible. 
-
-To do this, we bend the rules. We use **[figurative language](https://en.wikipedia.org/wiki/Literal_and_figurative_language)**, which **goes beyond the dictionary definition of words to express complex or abstract ideas.** Figurative language is the color palette of human communication. Let's look at the specific brushes we use to paint these pictures:
-
-### Comparisons (Similes and Metaphors)
-When we encounter something abstract, we often explain it by comparing it to something concrete. 
-* **A [simile](https://en.wikipedia.org/wiki/Simile) is a [figure of speech](https://en.wikipedia.org/wiki/Figure_of_speech) comparing two distinct things using the words 'like' or 'as'.** (e.g., "His mind was *like* a steel trap.")
-* **A [metaphor](https://en.wikipedia.org/wiki/Metaphor) is a figure of speech making a direct comparison between two distinct things without using the words 'like' or 'as'.** It simply declares that one thing *is* another. (e.g., "The classroom was a [zoo](https://en.wikipedia.org/wiki/Zoo).")
-
-### Giving Life to the Lifeless (Personification)
-Humans relate best to other humans, so we love to project human traits onto the world around us. **[Personification](https://en.wikipedia.org/wiki/Personification) is a figure of speech assigning human characteristics to non-human entities or objects.** When you say, "The wind howled in the night," you are giving a completely [physical phenomenon](https://en.wikipedia.org/wiki/Physical_phenomenon) the voice and emotion of a living creature.
-
-### The Power of Exaggeration (Hyperbole)
-Sometimes, literal truth just doesn't capture the sheer scale of how we feel. **[Hyperbole](https://en.wikipedia.org/wiki/Hyperbole) is a figure of speech utilizing extreme exaggeration for emphasis or dramatic effect.** If a student says, "My backpack weighs a ton!" they aren't failing [physics](https://en.wikipedia.org/wiki/Physics); they are successfully using hyperbole to emphasize their exhaustion. 
-
-### Cultural Shortcuts (Idioms)
-Language is deeply tied to [culture](https://en.wikipedia.org/wiki/Culture), and cultures develop their own [inside jokes](https://en.wikipedia.org/wiki/Inside_joke) and shorthand. **An [idiom](https://en.wikipedia.org/wiki/Idiom) is a culturally established phrase possessing a figurative meaning entirely different from the literal meanings of the individual words.** 
-
-If you [translate](https://en.wikipedia.org/wiki/Translation) an idiom literally into another language, people will look at you like you have two heads. For example, **the phrase '[piece of cake](https://en.wikipedia.org/wiki/Piece_of_cake)' is an idiom meaning a task is very easy to accomplish.** It has absolutely nothing to do with [baked goods](https://en.wikipedia.org/wiki/Baked_goods)!
-
-### Playing with Sound (Onomatopoeia and Alliteration)
-Words aren't just shapes on a page; they are sounds vibrating in the air. 
-* **[Onomatopoeia](https://en.wikipedia.org/wiki/Onomatopoeia) is a figure of speech in which a word imitates the natural sound of the thing the word describes.** Words like *buzz*, *hiss*, *crash*, and *sizzle* are magnificent because the sound of the word *is* the meaning of the word!
-* **[Alliteration](https://en.wikipedia.org/wiki/Alliteration) is a [literary device](https://en.wikipedia.org/wiki/Literary_technique) involving the repetition of initial [consonant sounds](https://en.wikipedia.org/wiki/Consonant) in neighboring words.** "[Peter Piper picked a peck of pickled peppers](https://en.wikipedia.org/wiki/Peter_Piper)." It creates rhythm, musicality, and memorability.
-
-![Comic book sound effects, such as "CRAC", are classic examples of onomatopoeia, where the word visually and auditorily imitates the sound it describes.](https://wikipedia.org/wiki/Special:Redirect/file/CRAC_w.jpg)
-
-### The Beautiful Contradiction (Oxymoron)
-Nature abhors a [paradox](https://en.wikipedia.org/wiki/Paradox), but language loves one. **An [oxymoron](https://en.wikipedia.org/wiki/Oxymoron) is a figure of speech combining two contradictory terms placed side by side.** Why do we do this? Because it captures the complex, sometimes conflicting nature of reality! 
-
-For instance, **the phrase 'jumbo [shrimp](https://en.wikipedia.org/wiki/Shrimp)' is an example of an oxymoron.** How can something be massive (*jumbo*) and tiny (*shrimp*) at the same time? It’s a beautiful little contradiction that immediately conjures an exact image in our minds. Other examples include "deafening silence" or "bittersweet."
+*   **The suffix '-ful' means 'full of' or 'characterized by'.** Adding it to the noun *beauty* creates the adjective *beautiful*. 
+*   **The suffix '-less' means 'without' or 'lacking'.** Adding it to the noun *fear* creates the adjective *fearless*.
+*   **The suffix '-ly' transforms an adjective into an adverb indicating how an action is performed.** Adding it to the adjective *quick* creates the adverb *quickly* (e.g., "She ran *quickly*").
 
 ---
 
-### The Teacher's Ultimate Goal
+## Beyond the Literal: The Power of [Figurative Language](https://en.wikipedia.org/wiki/Literal_and_figurative_language)
 
-As you prepare for the Praxis, step back and look at the whole system. When you teach vocabulary and word meaning, you are doing so much more than prepping kids for a [spelling test](https://en.wikipedia.org/wiki/Spelling_test). You are teaching them to navigate the Three Tiers of academic language. You are teaching them to look at the syntax and context clues to solve the mystery of an unknown word. You are teaching them how to pull words apart into roots and affixes to see how the engine works. And finally, you are teaching them how to transcend the literal and use figurative language to capture the human experience.
+Language must frequently capture human experiences that defy cold, mathematical description. Therefore, we must train students to discern when an author is speaking objectively versus when they are painting a picture with words.
 
-You aren't just teaching words. You are handing them the keys to the [universe](https://en.wikipedia.org/wiki/Universe). Now go get 'em!
+**Literal language states facts exactly as the words are defined in a standard dictionary.** If I say, "The water is freezing," and the water is literally at 32 degrees [Fahrenheit](https://en.wikipedia.org/wiki/Fahrenheit) (0 degrees [Celsius](https://en.wikipedia.org/wiki/Celsius)), I am using literal language.
+
+![Literal language relies on objective, measurable realities, such as the exact freezing point of water on standard thermodynamic scales.](https://wikipedia.org/wiki/Special:Redirect/file/Thermometer_CF.svg)
+
+However, if I step outside on a brisk [autumn](https://en.wikipedia.org/wiki/Autumn) day and say, "I am freezing," my blood is not actually turning to ice. I am using a mechanism to convey the intensity of the cold. **Figurative language goes beyond the dictionary definition of words to express complex or [abstract ideas](https://en.wikipedia.org/wiki/Abstraction).**
+
+Authors rely on an arsenal of established [literary devices](https://en.wikipedia.org/wiki/Literary_device) to craft these figurative meanings. Mastery of reading comprehension requires students to identify and interpret these specific [figures of speech](https://en.wikipedia.org/wiki/Figure_of_speech):
+
+| Term | Definition |
+| :--- | :--- |
+| **[Simile](https://en.wikipedia.org/wiki/Simile)** | **A simile is a figure of speech comparing two distinct things using the words 'like' or 'as'.** *(Example: "Her mind was sharp as a razor.")* |
+| **[Metaphor](https://en.wikipedia.org/wiki/Metaphor)** | **A metaphor is a figure of speech making a direct comparison between two distinct things without using the words 'like' or 'as'.** *(Example: "Time is a thief.")* |
+| **[Personification](https://en.wikipedia.org/wiki/Personification)** | **Personification is a figure of speech assigning human characteristics to non-human entities or objects.** *(Example: "The opportunity knocked at his door.")* |
+| **[Hyperbole](https://en.wikipedia.org/wiki/Hyperbole)** | **Hyperbole is a figure of speech utilizing extreme exaggeration for emphasis or dramatic effect.** *(Example: "My backpack weighs a ton.")* |
+| **[Oxymoron](https://en.wikipedia.org/wiki/Oxymoron)** | **An oxymoron is a figure of speech combining two contradictory terms placed side by side.** To illustrate, **the phrase 'jumbo shrimp' is an example of an oxymoron**, placing the concept of massive size next to a word intrinsically tied to smallness. |
+
+### Idioms: The Cultural Codes of Language
+Some figurative language is deeply embedded in [cultural history](https://en.wikipedia.org/wiki/Cultural_history), making it entirely illogical if translated literally word-for-word. **An [idiom](https://en.wikipedia.org/wiki/Idiom) is a culturally established phrase possessing a figurative meaning entirely different from the literal meanings of the individual words.** If you tell a non-native English speaker to "[break a leg](https://en.wikipedia.org/wiki/Break_a_leg)," they will be horrified, unaware that you are actually wishing them good luck. 
+
+As a classic example, **the phrase '[piece of cake](https://en.wikipedia.org/wiki/Piece_of_cake)' is an idiom meaning a task is very easy to accomplish.** It has nothing to do with baked goods.
+
+### The Auditory Impact: Onomatopoeia and Alliteration
+Finally, authors sometimes play with the very sound of words to create sensory experiences for the reader. 
+
+*   **[Onomatopoeia](https://en.wikipedia.org/wiki/Onomatopoeia) is a figure of speech in which a word imitates the natural sound of the thing the word describes.** Words like *buzz*, *hiss*, *crack*, and *splash* force the reader's mouth to mimic the [acoustic](https://en.wikipedia.org/wiki/Acoustics) reality of the object in motion.
+*   **[Alliteration](https://en.wikipedia.org/wiki/Alliteration) is a literary device involving the repetition of initial [consonant](https://en.wikipedia.org/wiki/Consonant) sounds in neighboring words.** *(Example: "The **s**lippery **s**nake **s**lid **s**ilently.")* This technique creates a rhythmic, musical quality that draws the reader's attention and accelerates the pacing of the text. 
+
+![A storefront sign utilizing onomatopoeia, imitating the natural "tic tac" sound of a ticking clock to communicate its message visually and aurally.](https://wikipedia.org/wiki/Special:Redirect/file/Clocks_no_tic_tac.JPG)
+
+By teaching students to untangle the threads of vocabulary tiers, syntactic context, morphological building blocks, and figurative expressions, we are giving them the ultimate key to [human knowledge](https://en.wikipedia.org/wiki/Knowledge): the ability to read deeply, critically, and independently.
