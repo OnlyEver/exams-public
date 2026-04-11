@@ -1,0 +1,691 @@
+{
+  "exam": {
+    "name": "CompTIA A+ Core 1",
+    "code": "220-1201",
+    "provider": "CompTIA",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-11",
+    "generated_date": "2026-04-11",
+    "category_name": "IT Certification",
+    "category_slug": "it-certification",
+    "category_description": "Exam-aligned prep for IT certifications with clear, syllabus-mapped coverage across hardware, networking, devices, troubleshooting, and modern workplace technologies.",
+    "exam_slug": "comptia-a-plus-core1",
+    "theme_color": "#2563eb",
+    "hero_headline": "Build Your IT Support Foundation with CompTIA A+ Core 1.",
+    "hero_subheadline": "Master mobile devices, networking, hardware, cloud basics, and troubleshooting skills mapped directly to the 220-1201 exam objectives.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "CompTIA A+ Core 1 spans a wide range of practical IT support topics, and it is easy to lose track of how hardware, networking, mobile devices, and troubleshooting objectives fit together.",
+    "companion_solution": "Only Ever turns the official CompTIA A+ Core 1 objectives into focused 15-minute study sessions so you can build durable understanding across the 220-1201 syllabus without drifting off-spec.",
+    "learner_profile": "Aspiring IT support technician, help desk analyst, desktop support specialist, or career switcher preparing for an entry-level technical role. Needs structured, practical explanations of devices, networking, components, cloud basics, and troubleshooting workflows."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "mobile-devices",
+      "title": "Mobile Devices",
+      "weight": 0.13,
+      "description": "Monitor, replace, and configure mobile device hardware, accessories, and network connectivity.",
+      "directory": "01-mobile-devices",
+      "topics": [
+        {
+          "order": 1,
+          "id": "mobile-device-hardware-components",
+          "title": "Mobile Device Hardware Components",
+          "directory": "01-mobile-device-hardware-components",
+          "path": "01-mobile-devices/01-mobile-device-hardware-components",
+          "description": "Identify and use appropriate replacement techniques for internal mobile device hardware and security components.",
+          "learning_objectives": [
+            "Monitor and replace laptop batteries, keyboards, RAM, and solid-state drives.",
+            "Identify internal wireless cards, Wi-Fi antennas, and camera/microphone components.",
+            "Describe the function of physical privacy components, biometrics, and near-field scanners on mobile devices."
+          ],
+          "references": [
+            "https://www.pluralsight.com/courses/mobile-devices-comptia-a-plus-core-1-220-1201",
+            "https://www.youtube.com/watch?v=kYJqD2O0wWk"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "mobile-device-connectivity-and-accessories",
+          "title": "Mobile Device Connectivity and Accessories",
+          "directory": "02-mobile-device-connectivity-and-accessories",
+          "path": "01-mobile-devices/02-mobile-device-connectivity-and-accessories",
+          "description": "Compare and contrast wired and wireless connectivity options and common accessories used with mobile devices.",
+          "learning_objectives": [
+            "Differentiate between USB, Lightning, NFC, and Bluetooth connection methods.",
+            "Explain the use of mobile hotspots and tethering.",
+            "Compare mobile accessories such as docking stations, port replicators, headsets, and trackpads."
+          ],
+          "references": [
+            "https://www.skillsoft.com/course/comptia-a-core-1-mobile-device-accessories-network-connectivity",
+            "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-mobile-device-accessories/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "mobile-network-connectivity-and-mdm",
+          "title": "Mobile Network Connectivity and MDM",
+          "directory": "03-mobile-network-connectivity-and-mdm",
+          "path": "01-mobile-devices/03-mobile-network-connectivity-and-mdm",
+          "description": "Configure basic mobile device network connectivity, synchronization, and Mobile Device Management (MDM) features.",
+          "learning_objectives": [
+            "Enable and configure cellular data, Wi-Fi, eSIMs, and Bluetooth pairing.",
+            "Explain the role of location services like GPS and cellular location tracking.",
+            "Summarize the features of Mobile Device Management (MDM), corporate configurations, and mobile synchronization options."
+          ],
+          "references": [
+            "https://www.pluralsight.com/courses/mobile-devices-comptia-a-plus-core-1-220-1201",
+            "https://www.skillsoft.com/course/comptia-a-core-1-mobile-device-accessories-network-connectivity"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "networking",
+      "title": "Networking",
+      "weight": 0.23,
+      "description": "Understand core networking principles, protocols, hardware, and configuration for SOHO environments.",
+      "directory": "02-networking",
+      "topics": [
+        {
+          "order": 1,
+          "id": "tcp-udp-ports-and-protocols",
+          "title": "TCP and UDP Ports and Protocols",
+          "directory": "01-tcp-udp-ports-and-protocols",
+          "path": "02-networking/01-tcp-udp-ports-and-protocols",
+          "description": "Compare and contrast Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) and recognize common port numbers.",
+          "learning_objectives": [
+            "Identify the differences between TCP (connection-oriented) and UDP (connectionless).",
+            "Memorize common port numbers for File Transfer Protocol (FTP), SSH, Telnet, SMTP, and DNS.",
+            "Understand the ports and protocols for web traffic (HTTP/HTTPS), email (POP3/IMAP), and remote management (RDP, SMB)."
+          ],
+          "references": [
+            "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-tcp-and-udp-ports/",
+            "https://www.skillsoft.com/course/comptia-a-220-1001-tcp-udp-ports"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "wireless-networking-technologies",
+          "title": "Wireless Networking Technologies",
+          "directory": "02-wireless-networking-technologies",
+          "path": "02-networking/02-wireless-networking-technologies",
+          "description": "Explain wireless frequency bands, channels, and other wireless standards such as Bluetooth and RFID.",
+          "learning_objectives": [
+            "Compare 2.4GHz, 5GHz, and 6GHz wireless frequencies and their characteristics.",
+            "Explain channel regulations, widths, and selections in 802.11 standards.",
+            "Describe the uses and characteristics of Bluetooth, NFC, and RFID technologies."
+          ],
+          "references": [
+            "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-wireless-network-technologies/",
+            "https://www.mindmeshacademy.com/comptia-a-plus-core1-wireless-networking-technologies"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "networked-host-services-and-appliances",
+          "title": "Networked Host Services and Appliances",
+          "directory": "03-networked-host-services-and-appliances",
+          "path": "02-networking/03-networked-host-services-and-appliances",
+          "description": "Summarize the functions provided by networked servers, internet appliances, and legacy/embedded systems.",
+          "learning_objectives": [
+            "Identify the roles of common network servers including DNS, DHCP, Print, Mail, and AAA.",
+            "Explain the purpose of internet appliances like Spam gateways, UTM devices, Load balancers, and Proxy servers.",
+            "Understand the network implications of legacy systems, SCADA, and IoT devices."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/a"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "network-configuration-concepts",
+          "title": "Network Configuration Concepts",
+          "directory": "04-network-configuration-concepts",
+          "path": "02-networking/04-network-configuration-concepts",
+          "description": "Explain fundamental network configuration concepts including DNS records, DHCP scopes, VLANs, and VPNs.",
+          "learning_objectives": [
+            "Identify the differences between DNS records such as A, AAAA, CNAME, and MX.",
+            "Explain DNS spam management concepts including TXT, DKIM, SPF, and DMARC.",
+            "Describe DHCP configuration terms like leases, reservations, scope, and exclusions, as well as the purpose of VLANs and VPNs."
+          ],
+          "references": [
+            "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-network-configuration-concepts/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "networking-hardware-devices",
+          "title": "Networking Hardware Devices",
+          "directory": "05-networking-hardware-devices",
+          "path": "02-networking/05-networking-hardware-devices",
+          "description": "Compare and contrast common networking hardware including routers, switches, and modems.",
+          "learning_objectives": [
+            "Differentiate between the functions of routers, managed/unmanaged switches, and access points.",
+            "Explain the roles of firewalls, patch panels, and Network Interface Cards (NICs) with MAC addresses.",
+            "Describe Power over Ethernet (PoE) standard hardware and various modems/ONTs."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/a"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "soho-network-configuration",
+          "title": "SOHO Network Configuration",
+          "directory": "06-soho-network-configuration",
+          "path": "02-networking/06-soho-network-configuration",
+          "description": "Configure basic wired and wireless Small Office/Home Office (SOHO) networks.",
+          "learning_objectives": [
+            "Determine appropriate IP addressing utilizing IPv4 and IPv6.",
+            "Configure static and dynamic IP addressing parameters including subnet masks and gateways.",
+            "Explain the circumstances that lead to an Automatic Private IP Addressing (APIPA) assignment."
+          ],
+          "references": [
+            "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-soho-network-configuration/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "internet-connection-and-network-types",
+          "title": "Internet Connection and Network Types",
+          "directory": "07-internet-connection-and-network-types",
+          "path": "02-networking/07-internet-connection-and-network-types",
+          "description": "Compare and contrast different Internet connection options and organizational network architectures.",
+          "learning_objectives": [
+            "Differentiate between Internet connection types such as satellite, fiber, cable, DSL, and cellular.",
+            "Define the scope of different network types including LAN, WAN, PAN, MAN, SAN, and WLAN.",
+            "Evaluate the characteristics and appropriate use cases for each network architecture."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/a"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "networking-tools",
+          "title": "Networking Tools",
+          "directory": "08-networking-tools",
+          "path": "02-networking/08-networking-tools",
+          "description": "Explain the purpose of various networking tools used for cable installation and troubleshooting.",
+          "learning_objectives": [
+            "Identify the uses of hardware tools such as crimpers, cable strippers, and punchdown tools.",
+            "Explain how to use diagnostic tools including cable testers, toner probes, and loopback plugs.",
+            "Summarize the function of Wi-Fi analyzers and network taps in diagnosing network connectivity."
+          ],
+          "references": [
+            "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-networking-tools/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "hardware",
+      "title": "Hardware",
+      "weight": 0.25,
+      "description": "Recognize, install, and configure cables, displays, motherboards, storage, and printers.",
+      "directory": "03-hardware",
+      "topics": [
+        {
+          "order": 1,
+          "id": "display-components-and-attributes",
+          "title": "Display Components and Attributes",
+          "directory": "01-display-components-and-attributes",
+          "path": "03-hardware/01-display-components-and-attributes",
+          "description": "Compare and contrast display components, technologies, and attributes.",
+          "learning_objectives": [
+            "Differentiate between LCD (IPS, TN, VA), OLED, and Mini-LED display types.",
+            "Identify internal display components like touch screens, digitizers, and inverters.",
+            "Define monitor attributes such as pixel density, refresh rates, screen resolution, and color gamut."
+          ],
+          "references": [
+            "https://www.skillsoft.com/course/comptia-a-core-1-hardware-display-components"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "network-and-peripheral-cables",
+          "title": "Network and Peripheral Cables",
+          "directory": "02-network-and-peripheral-cables",
+          "path": "03-hardware/02-network-and-peripheral-cables",
+          "description": "Summarize the basic types, connectors, and purposes of network and peripheral cables.",
+          "learning_objectives": [
+            "Identify copper networking cable characteristics including T568A/T568B, coaxial, UTP, and STP.",
+            "Differentiate between single-mode and multimode optical cables and plenum-rated jackets.",
+            "Compare peripheral connection cables like USB 2.0/3.0, Serial, and Thunderbolt."
+          ],
+          "references": [
+            "https://www.pluralsight.com/courses/hardware-comptia-a-plus-core-1-220-1201"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "video-and-storage-cables",
+          "title": "Video and Storage Cables",
+          "directory": "03-video-and-storage-cables",
+          "path": "03-hardware/03-video-and-storage-cables",
+          "description": "Summarize the basic types, connectors, and purposes of video and hard drive cables.",
+          "learning_objectives": [
+            "Distinguish between video cables such as HDMI, DisplayPort, DVI, and VGA.",
+            "Identify hard drive cables including SATA and eSATA.",
+            "Recognize specific connector types like RJ11, RJ45, F-type, ST, SC, LC, Molex, and Lightning."
+          ],
+          "references": [
+            "https://www.pluralsight.com/courses/hardware-comptia-a-plus-core-1-220-1201"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "ram-characteristics",
+          "title": "RAM Characteristics",
+          "directory": "04-ram-characteristics",
+          "path": "03-hardware/04-ram-characteristics",
+          "description": "Compare and contrast Random Access Memory (RAM) characteristics.",
+          "learning_objectives": [
+            "Identify RAM form factors including SODIMM and DIMM modules.",
+            "Explain Double Data Rate (DDR) iterations and the difference between ECC and non-ECC RAM.",
+            "Summarize the benefits of multi-channel memory configurations."
+          ],
+          "references": [
+            "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-ram-characteristics/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "storage-devices",
+          "title": "Storage Devices",
+          "directory": "05-storage-devices",
+          "path": "03-hardware/05-storage-devices",
+          "description": "Compare and contrast properties of hard drives, solid-state drives, and varied drive configurations.",
+          "learning_objectives": [
+            "Differentiate between traditional hard drives (spindle speeds, sizes) and solid-state drives (NVMe, SATA).",
+            "Identify SSD form factors and interfaces including M.2, mSATA, PCIe, and SAS.",
+            "Explain RAID configurations (0, 1, 5, 6, 10) and identify removable and optical storage media."
+          ],
+          "references": [
+            "https://www.skillsoft.com/course/comptia-a-core-1-ram-storage-solutions"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "motherboards-and-bios-uefi",
+          "title": "Motherboards and BIOS/UEFI",
+          "directory": "06-motherboards-and-bios-uefi",
+          "path": "03-hardware/06-motherboards-and-bios-uefi",
+          "description": "Install and configure motherboards, understanding form factors and BIOS/UEFI settings.",
+          "learning_objectives": [
+            "Compare motherboard form factors (ATX, microATX, ITX) and connector types (PCI, PCIe, M.2, Headers).",
+            "Configure BIOS/UEFI settings including boot options, USB permissions, and secure boot.",
+            "Explain hardware security concepts like TPM and Hardware Security Modules (HSM)."
+          ],
+          "references": [
+            "https://www.pluralsight.com/courses/hardware-comptia-a-plus-core-1-220-1201"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "cpus-expansion-cards-and-cooling",
+          "title": "CPUs, Expansion Cards, and Cooling",
+          "directory": "07-cpus-expansion-cards-and-cooling",
+          "path": "03-hardware/07-cpus-expansion-cards-and-cooling",
+          "description": "Install and configure central processing units, add-on expansion cards, and proper cooling mechanisms.",
+          "learning_objectives": [
+            "Differentiate between CPU socket types (AMD vs Intel) and architectures (x86/x64, ARM).",
+            "Identify common expansion cards such as sound cards, video cards, capture cards, and NICs.",
+            "Select and apply appropriate cooling solutions including fans, heat sinks, thermal paste, and liquid cooling."
+          ],
+          "references": [
+            "https://www.pluralsight.com/courses/hardware-comptia-a-plus-core-1-220-1201"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "power-supplies",
+          "title": "Power Supplies",
+          "directory": "08-power-supplies",
+          "path": "03-hardware/08-power-supplies",
+          "description": "Select and install the appropriate power supply based on scenario requirements.",
+          "learning_objectives": [
+            "Distinguish between input voltages (110-120 VAC vs. 220-240 VAC) and required output DC voltages.",
+            "Identify physical characteristics of power supplies including modular vs non-modular, and 20+4 pin connectors.",
+            "Determine power requirements through wattage ratings, redundant power supplies, and energy efficiency standards."
+          ],
+          "references": [
+            "https://www.pluralsight.com/courses/hardware-comptia-a-plus-core-1-220-1201"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "printer-deployment-and-configuration",
+          "title": "Printer Deployment and Configuration",
+          "directory": "09-printer-deployment-and-configuration",
+          "path": "03-hardware/09-printer-deployment-and-configuration",
+          "description": "Deploy and configure multifunction devices, printers, and associated print settings.",
+          "learning_objectives": [
+            "Demonstrate how to properly unbox, set up, and select connectivity options for a printer.",
+            "Install appropriate printer drivers (PCL vs. Postscript) and configure sharing or print server capabilities.",
+            "Configure device settings such as duplex, orientation, tray, quality, and secured prints."
+          ],
+          "references": [
+            "https://www.scribd.com/document/758066224/Maintenance-for-Print-Devices"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "printer-maintenance",
+          "title": "Printer Maintenance",
+          "directory": "10-printer-maintenance",
+          "path": "03-hardware/10-printer-maintenance",
+          "description": "Perform appropriate routine maintenance across various types of printers.",
+          "learning_objectives": [
+            "Perform laser printer maintenance including replacing toner, applying maintenance kits, and calibration.",
+            "Maintain inkjet printers by cleaning printheads, replacing cartridges, and clearing jams.",
+            "Execute maintenance on thermal and impact printers, such as replacing thermal paper/ribbons and removing debris."
+          ],
+          "references": [
+            "https://www.youtube.com/watch?v=Fj-vXp0iR68",
+            "https://prezi.com/p/x-1f_a1qf_k_/comptia-a-presentation-multifunction-devices-printer-maintenance/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "virtualization-and-cloud-computing",
+      "title": "Virtualization and Cloud Computing",
+      "weight": 0.11,
+      "description": "Understand foundational virtualization requirements and cloud computing models.",
+      "directory": "04-virtualization-and-cloud-computing",
+      "topics": [
+        {
+          "order": 1,
+          "id": "virtualization-concepts",
+          "title": "Virtualization Concepts",
+          "directory": "01-virtualization-concepts",
+          "path": "04-virtualization-and-cloud-computing/01-virtualization-concepts",
+          "description": "Explain the purpose, requirements, and implementations of desktop and server virtualization.",
+          "learning_objectives": [
+            "Identify the purpose of virtual machines for sandboxing, test development, and application virtualization.",
+            "List the core requirements needed to support virtualization, including security, network, and storage considerations.",
+            "Differentiate between Type 1 and Type 2 hypervisors, containers, and Virtual Desktop Infrastructure (VDI)."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/a"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "cloud-computing-concepts",
+          "title": "Cloud Computing Concepts",
+          "directory": "02-cloud-computing-concepts",
+          "path": "04-virtualization-and-cloud-computing/02-cloud-computing-concepts",
+          "description": "Summarize standard cloud computing deployment models and fundamental service characteristics.",
+          "learning_objectives": [
+            "Compare common cloud models including Private, Public, Hybrid, and Community.",
+            "Differentiate between service models such as IaaS, SaaS, and PaaS.",
+            "Describe key cloud characteristics including shared vs dedicated resources, elasticity, metered utilization, and multitenancy."
+          ],
+          "references": [
+            "https://www.comptia.org/certifications/a"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "id": "hardware-and-network-troubleshooting",
+      "title": "Hardware and Network Troubleshooting",
+      "weight": 0.28,
+      "description": "Apply troubleshooting steps to resolve motherboard, drive, video, mobile, network, and printer issues.",
+      "directory": "05-hardware-and-network-troubleshooting",
+      "topics": [
+        {
+          "order": 1,
+          "id": "troubleshooting-motherboards-ram-cpu-power",
+          "title": "Troubleshooting Motherboards, RAM, CPUs, and Power",
+          "directory": "01-troubleshooting-motherboards-ram-cpu-power",
+          "path": "05-hardware-and-network-troubleshooting/01-troubleshooting-motherboards-ram-cpu-power",
+          "description": "Diagnose and troubleshoot hardware faults related to motherboards, memory, processors, and power supplies.",
+          "learning_objectives": [
+            "Identify common symptoms of hardware failure such as POST beeps, blank screens, and random shutdowns.",
+            "Diagnose physical component issues like burning smells, capacitor swelling, and overheating.",
+            "Troubleshoot sluggish performance, crash screens, and inaccurate system date/time."
+          ],
+          "references": [
+            "https://www.alphaprep.net/blog/troubleshooting-motherboard-ram-cpu-power-comptia-a",
+            "https://www.youtube.com/watch?v=R9K2P4A9T1I"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "troubleshooting-drive-and-raid-issues",
+          "title": "Troubleshooting Drive and RAID Issues",
+          "directory": "02-troubleshooting-drive-and-raid-issues",
+          "path": "05-hardware-and-network-troubleshooting/02-troubleshooting-drive-and-raid-issues",
+          "description": "Diagnose and troubleshoot common storage drive failures and RAID array issues.",
+          "learning_objectives": [
+            "Recognize physical indicators of drive failure such as grinding noises, clicking, and LED status indicators.",
+            "Troubleshoot logical storage errors including bootable device not found, missing drives in OS, and data corruption.",
+            "Identify and resolve RAID failures, missing arrays, audible alarms, and S.M.A.R.T. errors."
+          ],
+          "references": [
+            "https://ncbce.org/curriculum/unit-6-week-1-using-the-troubleshooting-model-on-internal-system-components/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "troubleshooting-display-and-projector-issues",
+          "title": "Troubleshooting Display and Projector Issues",
+          "directory": "03-troubleshooting-display-and-projector-issues",
+          "path": "05-hardware-and-network-troubleshooting/03-troubleshooting-display-and-projector-issues",
+          "description": "Identify and resolve problems affecting monitors, projectors, and video display output.",
+          "learning_objectives": [
+            "Diagnose common display hardware issues like burnt-out bulbs, physical cabling faults, and incorrect input source.",
+            "Resolve image quality problems such as fuzzy image, incorrect color display, dim images, and distorted display.",
+            "Identify symptoms like display burn-in, dead pixels, and flashing screens."
+          ],
+          "references": [
+            "https://www.skillsoft.com/course/comptia-a-core-1-hardware-display-components"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "troubleshooting-mobile-device-issues",
+          "title": "Troubleshooting Mobile Device Issues",
+          "directory": "04-troubleshooting-mobile-device-issues",
+          "path": "05-hardware-and-network-troubleshooting/04-troubleshooting-mobile-device-issues",
+          "description": "Troubleshoot common issues with mobile device hardware, power, connectivity, and software.",
+          "learning_objectives": [
+            "Diagnose hardware damage including broken screens, physically damaged ports, liquid damage, and digitizer issues.",
+            "Troubleshoot power problems like poor battery health, swollen batteries, overheating, and improper charging.",
+            "Identify and resolve connectivity, performance, and malware issues on mobile platforms."
+          ],
+          "references": [
+            "https://www.youtube.com/watch?v=cM31t1k0zW0"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "troubleshooting-network-issues",
+          "title": "Troubleshooting Network Issues",
+          "directory": "05-troubleshooting-network-issues",
+          "path": "05-hardware-and-network-troubleshooting/05-troubleshooting-network-issues",
+          "description": "Isolate and resolve typical wired and wireless networking problems.",
+          "learning_objectives": [
+            "Troubleshoot connectivity issues including intermittent wireless, slow speeds, and limited connectivity.",
+            "Diagnose network performance problems such as high latency, jitter, and poor VoIP quality.",
+            "Identify the root causes of external interference, port flapping, and authentication failures."
+          ],
+          "references": [
+            "https://www.skillsoft.com/course/comptia-a-core-1-troubleshooting-networks-printers"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "troubleshooting-printer-issues",
+          "title": "Troubleshooting Printer Issues",
+          "directory": "06-troubleshooting-printer-issues",
+          "path": "05-hardware-and-network-troubleshooting/06-troubleshooting-printer-issues",
+          "description": "Troubleshoot and fix common symptoms associated with printing operations and output quality.",
+          "learning_objectives": [
+            "Diagnose print quality issues such as lines down pages, garbled print, faded prints, and speckling/echo images.",
+            "Resolve mechanical issues including paper jams, multipage misfeeds, grinding noises, and finishing/stapler jams.",
+            "Troubleshoot software and connectivity faults like frozen print queues, tray not recognized, and connectivity drops."
+          ],
+          "references": [
+            "https://www.skillsoft.com/course/comptia-a-core-1-troubleshooting-networks-printers",
+            "https://www.scribd.com/document/758066224/Maintenance-for-Print-Devices"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -20,6 +20,37 @@
       ]
     },
     {
+      "name": "IT Certification",
+      "slug": "it-certification",
+      "description": "Exam-aligned prep for IT certifications with clear, syllabus-mapped coverage across hardware, networking, devices, troubleshooting, and modern workplace technologies.",
+      "exams": [
+        {
+          "repo_folder": "comptia-a-plus-core1",
+          "name": "CompTIA A+ Core 1",
+          "exam_slug": "comptia-a-plus-core1",
+          "theme_color": "#2563eb",
+          "hero_headline": "Build Your IT Support Foundation with CompTIA A+ Core 1.",
+          "hero_subheadline": "Master mobile devices, networking, hardware, cloud basics, and troubleshooting skills mapped directly to the 220-1201 exam objectives.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "CompTIA A+ Core 1 spans a wide range of practical IT support topics, and it is easy to lose track of how hardware, networking, mobile devices, and troubleshooting objectives fit together.",
+          "companion_solution": "Only Ever turns the official CompTIA A+ Core 1 objectives into focused 15-minute study sessions so you can build durable understanding across the 220-1201 syllabus without drifting off-spec."
+        },
+        {
+          "repo_folder": "comptia-a-plus-core2",
+          "name": "CompTIA A+ Core 2",
+          "exam_slug": "comptia-a-plus-core2",
+          "theme_color": "#2563eb",
+          "hero_headline": "Master Operating Systems, Security, and Support Workflows with CompTIA A+ Core 2.",
+          "hero_subheadline": "Study the 220-1202 objectives through focused lessons on operating systems, security, software troubleshooting, operational procedures, and real-world IT support practice.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "CompTIA A+ Core 2 expects you to move confidently across Windows, macOS, Linux, security controls, troubleshooting flows, and support procedures, but those domains are easy to study in fragments instead of as one coherent help desk skill set.",
+          "companion_solution": "Only Ever turns the official CompTIA A+ Core 2 objectives into focused 15-minute study sessions so you can build durable understanding across the 220-1202 syllabus without drifting off-spec."
+        }
+      ]
+    },
+    {
       "name": "Nursing Licensure",
       "slug": "nursing-licensure",
       "description": "Master the clinical judgment and safety-first nursing knowledge needed to pass licensure exams and practice confidently from day one.",

@@ -1,0 +1,945 @@
+{
+  "exam": {
+    "name": "CompTIA A+ Core 2",
+    "code": "220-1202",
+    "provider": "CompTIA",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-11",
+    "generated_date": "2026-04-11",
+    "category_name": "IT Certification",
+    "category_slug": "it-certification",
+    "category_description": "Exam-aligned prep for IT certifications with clear, syllabus-mapped coverage across hardware, networking, devices, troubleshooting, and modern workplace technologies.",
+    "exam_slug": "comptia-a-plus-core2",
+    "theme_color": "#2563eb",
+    "hero_headline": "Master Operating Systems, Security, and Support Workflows with CompTIA A+ Core 2.",
+    "hero_subheadline": "Study the 220-1202 objectives through focused lessons on operating systems, security, software troubleshooting, operational procedures, and real-world IT support practice.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "CompTIA A+ Core 2 expects you to move confidently across Windows, macOS, Linux, security controls, troubleshooting flows, and support procedures, but those domains are easy to study in fragments instead of as one coherent help desk skill set.",
+    "companion_solution": "Only Ever turns the official CompTIA A+ Core 2 objectives into focused 15-minute study sessions so you can build durable understanding across the 220-1202 syllabus without drifting off-spec.",
+    "learner_profile": "Aspiring IT support technician, help desk analyst, desktop support specialist, or career switcher preparing for an entry-level technical role. Needs structured, practical explanations of operating systems, endpoint security, troubleshooting workflows, documentation, and professional support procedures."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "operating-systems",
+      "title": "Operating Systems",
+      "weight": 0.28,
+      "description": "Installation, configuration, and maintenance of various operating systems including Windows, macOS, Linux, and mobile platforms.",
+      "directory": "01-operating-systems",
+      "topics": [
+        {
+          "order": 1,
+          "id": "workstation-and-mobile-os-types",
+          "title": "Workstation and Mobile OS Types",
+          "directory": "01-workstation-and-mobile-os-types",
+          "path": "01-operating-systems/01-workstation-and-mobile-os-types",
+          "description": "Examine common workstation operating systems (Windows, Linux, macOS, Chrome OS) and mobile OSs (iPadOS, iOS, Android).",
+          "learning_objectives": [
+            "Identify common workstation operating systems and their primary business use cases.",
+            "Describe the features and purposes of mobile operating systems such as iOS and Android."
+          ],
+          "references": [
+            "https://www.comptia.org/blog/what-is-an-operating-system",
+            "https://learn.microsoft.com/en-us/windows/client-management/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "filesystem-types-and-compatibility",
+          "title": "Filesystem Types and Compatibility",
+          "directory": "02-filesystem-types-and-compatibility",
+          "path": "01-operating-systems/02-filesystem-types-and-compatibility",
+          "description": "Compare various filesystem types, vendor lifecycle limitations, and compatibility concerns between OSs.",
+          "learning_objectives": [
+            "Compare and contrast filesystem types like NTFS, FAT32, ext4, and APFS.",
+            "Understand vendor life-cycle limitations, including End-of-life (EOL) and update constraints.",
+            "Evaluate compatibility concerns when transferring data between different operating systems."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview",
+            "https://support.apple.com/guide/disk-utility/file-system-formats-available-in-disk-utility-dsku19ed921c/mac"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "os-install-boot-and-types",
+          "title": "OS Boot Methods and Installation Types",
+          "directory": "03-os-install-boot-and-types",
+          "path": "01-operating-systems/03-os-install-boot-and-types",
+          "description": "Perform OS installations using various boot methods and deployment types in a diverse environment.",
+          "learning_objectives": [
+            "Determine appropriate boot methods for OS installation, such as USB, PXE, or solid-state drives.",
+            "Differentiate between various types of OS installations, including clean installs, in-place upgrades, and image deployments.",
+            "Identify the scenarios suited for zero-touch deployment and remote network installations."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive",
+            "https://www.comptia.org/training/resources/exam-objectives"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "os-partitioning-and-upgrades",
+          "title": "OS Partitioning, Drive Formatting, and Upgrades",
+          "directory": "04-os-partitioning-and-upgrades",
+          "path": "01-operating-systems/04-os-partitioning-and-upgrades",
+          "description": "Configure partition tables, execute drive formatting, and evaluate OS upgrade considerations.",
+          "learning_objectives": [
+            "Configure partition tables using MBR or GPT.",
+            "Execute drive formatting procedures during OS installations.",
+            "Evaluate upgrade considerations including application backward compatibility, third-party drivers, and hardware support."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/windows-and-gpt-faq",
+            "https://learn.microsoft.com/en-us/windows/deployment/upgrade/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "microsoft-windows-editions",
+          "title": "Microsoft Windows Editions and Features",
+          "directory": "05-microsoft-windows-editions",
+          "path": "01-operating-systems/05-microsoft-windows-editions",
+          "description": "Compare basic features of Microsoft Windows 10 and 11 editions, including hardware requirements and upgrade paths.",
+          "learning_objectives": [
+            "Compare the basic features of Windows 10 and 11 editions such as Home, Pro, and Enterprise.",
+            "Identify feature differences including domain vs. workgroup integration and BitLocker availability.",
+            "Determine hardware requirements for modern Windows installations, including TPM and UEFI."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows/whats-new/windows-11-requirements",
+            "https://learn.microsoft.com/en-us/windows/deployment/planning/windows-10-editions"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "windows-os-features-and-tools",
+          "title": "Windows OS Features and Tools",
+          "directory": "06-windows-os-features-and-tools",
+          "path": "01-operating-systems/06-windows-os-features-and-tools",
+          "description": "Utilize Microsoft Windows features and administrative tools like Task Manager and MMC snap-ins.",
+          "learning_objectives": [
+            "Utilize the Windows Task Manager to monitor performance, manage startup items, and handle services.",
+            "Navigate and utilize the Microsoft Management Console (MMC) snap-ins like Event Viewer and Disk Management.",
+            "Access and use additional tools such as Resource Monitor, System Configuration (msconfig), and Registry Editor."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/use-resource-monitor-troubleshoot-performance",
+            "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/mmc"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "windows-command-line-tools",
+          "title": "Windows Command-Line Tools",
+          "directory": "07-windows-command-line-tools",
+          "path": "01-operating-systems/07-windows-command-line-tools",
+          "description": "Execute appropriate Microsoft command-line tools for navigation, network diagnostics, and OS management.",
+          "learning_objectives": [
+            "Execute basic directory navigation commands like cd and dir.",
+            "Use network diagnostic commands such as ipconfig, ping, tracert, and netstat.",
+            "Perform disk and file management using tools like diskpart, chkdsk, and robocopy.",
+            "Manage the operating system configuration via gpupdate, gpresult, and sfc."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands",
+            "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "windows-settings",
+          "title": "Windows System Settings",
+          "directory": "08-windows-settings",
+          "path": "01-operating-systems/08-windows-settings",
+          "description": "Configure general Microsoft Windows settings including File Explorer, Power Options, and Ease of Access.",
+          "learning_objectives": [
+            "Configure general Windows behavior through File Explorer Options, Internet Options, and Network and Sharing Center.",
+            "Manage Windows power plans, hibernation, and sleep/suspend settings.",
+            "Adjust system parameters such as accessibility, privacy, updates, and indexing options."
+          ],
+          "references": [
+            "https://support.microsoft.com/en-us/windows/how-to-adjust-power-and-sleep-settings-in-windows-26f623b5-06fb-59a8-fa14-0d610a5e8f42",
+            "https://learn.microsoft.com/en-us/windows/client-management/manage-windows-updates"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "windows-networking-features",
+          "title": "Windows Networking Features",
+          "directory": "09-windows-networking-features",
+          "path": "01-operating-systems/09-windows-networking-features",
+          "description": "Configure Microsoft Windows networking on a client, including domain joining, local firewalls, and network connections.",
+          "learning_objectives": [
+            "Differentiate between domain-joined systems and workgroups for resource sharing and administration.",
+            "Configure client IP addressing, DNS, subnet mask, and gateway settings.",
+            "Establish and configure various network connections, including VPNs, WWANs, and proxy settings.",
+            "Manage local OS firewall application restrictions and exceptions."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/understanding-active-directory-domain-services",
+            "https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "macos-desktop-operating-system",
+          "title": "macOS Desktop Operating System",
+          "directory": "10-macos-desktop-operating-system",
+          "path": "01-operating-systems/10-macos-desktop-operating-system",
+          "description": "Explain common features, tools, and best practices of the macOS operating system.",
+          "learning_objectives": [
+            "Perform installation and uninstallation of macOS applications using formats like .dmg and .pkg.",
+            "Navigate macOS system folders and configure System Preferences including Time Machine and Privacy.",
+            "Utilize macOS features such as Mission Control, Spotlight, Finder, Keychain, and Disk Utility.",
+            "Apply macOS best practices for backups, antivirus, and Rapid Security Response updates."
+          ],
+          "references": [
+            "https://support.apple.com/guide/mac-help/welcome/mac",
+            "https://support.apple.com/en-us/HT201250"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "linux-client-desktop-operating-system",
+          "title": "Linux Client/Desktop Operating System",
+          "directory": "11-linux-client-desktop-operating-system",
+          "path": "01-operating-systems/11-linux-client-desktop-operating-system",
+          "description": "Identify common features, commands, and tools used within the Linux client/desktop operating system.",
+          "learning_objectives": [
+            "Execute common Linux file management commands such as ls, pwd, chmod, chown, and grep.",
+            "Manage Linux packages using tools like apt or dnf.",
+            "Navigate Linux network commands (ip, dig, curl) and informational tools (top, df).",
+            "Understand basic Linux OS components like systemd, the kernel, and the structure of common configuration files."
+          ],
+          "references": [
+            "https://ubuntu.com/tutorials/command-line-for-beginners",
+            "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/configuring_basic_system_settings/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "application-installation-requirements",
+          "title": "Application Installation Requirements",
+          "directory": "12-application-installation-requirements",
+          "path": "01-operating-systems/12-application-installation-requirements",
+          "description": "Install applications according to software and hardware requirements, distribution methods, and impact considerations.",
+          "learning_objectives": [
+            "Evaluate system requirements, including 32-bit vs. 64-bit architecture, CPU, RAM, and VRAM for new applications.",
+            "Select appropriate distribution methods such as ISO files, downloadable packages, or physical media.",
+            "Assess the impact of new applications on the network, operational constraints, and device performance."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows/msix/overview",
+            "https://www.comptia.org/training/resources/exam-objectives"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "cloud-based-productivity-tools",
+          "title": "Cloud-based Productivity Tools",
+          "directory": "13-cloud-based-productivity-tools",
+          "path": "01-operating-systems/13-cloud-based-productivity-tools",
+          "description": "Install and configure cloud-based software including email, storage, and collaboration suites.",
+          "learning_objectives": [
+            "Configure cloud-based email systems and localized storage sync/folder settings.",
+            "Implement and use online collaboration tools such as spreadsheets and videoconferencing suites.",
+            "Manage cloud identity synchronization and user licensing assignments."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-office-365-licensing",
+            "https://support.google.com/a/answer/1631886"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "security",
+      "title": "Security",
+      "weight": 0.28,
+      "description": "Physical and logical security, securing endpoints and networks, malware removal, and social engineering.",
+      "directory": "02-security",
+      "topics": [
+        {
+          "order": 1,
+          "id": "security-measures-and-purposes",
+          "title": "Security Measures and Purposes",
+          "directory": "01-security-measures-and-purposes",
+          "path": "02-security/01-security-measures-and-purposes",
+          "description": "Summarize physical and logical security measures including access control, biometrics, and identity management.",
+          "learning_objectives": [
+            "Identify physical access security devices like key fobs, smart cards, and biometrics (retina, fingerprint, facial recognition).",
+            "Explain logical security concepts such as the Principle of least privilege and Zero Trust model.",
+            "Understand the use of multifactor authentication (MFA), SAML, Single sign-on (SSO), and Mobile device management (MDM)."
+          ],
+          "references": [
+            "https://csrc.nist.gov/glossary/term/logical_access_control",
+            "https://www.cisa.gov/zero-trust-maturity-model"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "windows-local-security-settings",
+          "title": "Windows Local Security Settings",
+          "directory": "02-windows-local-security-settings",
+          "path": "02-security/02-windows-local-security-settings",
+          "description": "Configure Windows Defender, Firewall, user accounts, and log-in options.",
+          "learning_objectives": [
+            "Activate and update definitions for Defender Antivirus.",
+            "Configure Windows Firewall port security and application exceptions.",
+            "Manage local vs. Microsoft accounts and assign correct standard or administrator roles.",
+            "Configure secure log-in OS options including PIN, facial recognition, and Passwordless/Windows Hello."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-antivirus-windows",
+            "https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "windows-permissions-and-active-directory",
+          "title": "Windows Permissions and Active Directory",
+          "directory": "03-windows-permissions-and-active-directory",
+          "path": "02-security/03-windows-permissions-and-active-directory",
+          "description": "Apply NTFS vs share permissions, BitLocker encryption, and basic Active Directory tasks.",
+          "learning_objectives": [
+            "Contrast NTFS vs. share permissions, understanding inheritance and file attributes.",
+            "Implement disk encryption mechanisms like BitLocker, BitLocker-To-Go, and EFS.",
+            "Perform basic Active Directory tasks such as joining a domain, assigning log-in scripts, and applying Group Policy.",
+            "Explain the function of User Account Control (UAC) and running software as an administrator."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview",
+            "https://learn.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "wireless-security-protocols",
+          "title": "Wireless Security Protocols",
+          "directory": "04-wireless-security-protocols",
+          "path": "02-security/04-wireless-security-protocols",
+          "description": "Compare wireless security protocols, encryption methods, and network authentication systems.",
+          "learning_objectives": [
+            "Compare and contrast wireless protocols and encryption such as WPA2, WPA3, TKIP, and AES.",
+            "Explain authentication protocols including RADIUS, TACACS+, and Kerberos.",
+            "Understand the role of multifactor authentication in securing enterprise wireless and remote access."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/securing-wireless-networks",
+            "https://learn.microsoft.com/en-us/windows-server/networking/core-network-guide/core-network-guide"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "malware-types-and-detection",
+          "title": "Malware Types and Detection Tools",
+          "directory": "05-malware-types-and-detection",
+          "path": "02-security/05-malware-types-and-detection",
+          "description": "Summarize types of malware, adware, and the various tools and methods used for threat detection and prevention.",
+          "learning_objectives": [
+            "Identify categories of malware including Trojans, Rootkits, Ransomware, Cryptominers, and Fileless malware.",
+            "Differentiate between malicious applications and Potentially Unwanted Programs (PUPs) like Adware.",
+            "Explain modern detection and response tools such as EDR, MDR, and XDR.",
+            "Describe prevention methods including email security gateways, antiphishing training, and OS reinstallation."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/protecting-against-malware",
+            "https://csrc.nist.gov/glossary/term/malware"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "social-engineering-and-vulnerabilities",
+          "title": "Social Engineering and Network Vulnerabilities",
+          "directory": "06-social-engineering-and-vulnerabilities",
+          "path": "02-security/06-social-engineering-and-vulnerabilities",
+          "description": "Compare social engineering attacks, common IT threats, and systemic vulnerabilities.",
+          "learning_objectives": [
+            "Recognize social engineering tactics including Vishing, Smishing, QR code phishing, Whaling, and Tailgating.",
+            "Identify network and access threats such as DDoS, Evil twin, On-path attacks, Brute-force, and SQL injection.",
+            "Understand enterprise vulnerabilities such as unpatched/non-compliant systems, End-of-life (EOL) software, and BYOD risks."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks",
+            "https://owasp.org/www-community/attacks/SQL_Injection"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "soho-malware-removal",
+          "title": "SOHO Malware Removal Procedures",
+          "directory": "07-soho-malware-removal",
+          "path": "02-security/07-soho-malware-removal",
+          "description": "Implement the official 10-step procedure for malware removal in a SOHO environment.",
+          "learning_objectives": [
+            "Identify the initial steps of investigating symptoms, quarantining the system, and disabling System Restore.",
+            "Perform remediation by updating anti-malware software and utilizing scan/removal techniques like Safe Mode.",
+            "Finalize the removal process by scheduling future scans, enabling System Restore, and educating the end user.",
+            "Determine when a complete reimage/reinstall of the OS is required."
+          ],
+          "references": [
+            "https://www.comptia.org/training/resources/exam-objectives",
+            "https://consumer.ftc.gov/articles/how-recognize-remove-avoid-malware"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "workstation-security-and-hardening",
+          "title": "Workstation Security and Hardening",
+          "directory": "08-workstation-security-and-hardening",
+          "path": "02-security/08-workstation-security-and-hardening",
+          "description": "Apply workstation security options including data encryption, BIOS/UEFI passwords, and account hardening techniques.",
+          "learning_objectives": [
+            "Implement strong password policies requiring complexity, length, uniqueness, and expiration.",
+            "Apply firmware-level security using BIOS/UEFI passwords.",
+            "Harden endpoints by securing data-at-rest, using screensaver locks, restricting log-in times, and disabling unused services.",
+            "Configure account management features such as failed attempts lockout and changing default administrative accounts."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-63b/final",
+            "https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/account-policies"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "mobile-device-security",
+          "title": "Securing Mobile Devices",
+          "directory": "09-mobile-device-security",
+          "path": "02-security/09-mobile-device-security",
+          "description": "Apply common methods for securing mobile devices including MDM, patch management, and remote wipes.",
+          "learning_objectives": [
+            "Configure device encryption, screen locks (facial recognition, PIN, swipe), and OS/application patches.",
+            "Implement endpoint security software such as antivirus and content filtering on mobile platforms.",
+            "Utilize device locator applications, remote wipes, and remote backup tools for lost devices.",
+            "Define security policies regarding Mobile Device Management (MDM) and Bring Your Own Device (BYOD) configurations."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/mobile-device-security",
+            "https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-device-management"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "data-destruction-and-disposal",
+          "title": "Data Destruction and Disposal Methods",
+          "directory": "10-data-destruction-and-disposal",
+          "path": "02-security/10-data-destruction-and-disposal",
+          "description": "Compare common data destruction, drive wiping, and physical asset disposal methods.",
+          "learning_objectives": [
+            "Identify physical destruction methods for hard drives such as drilling, shredding, degaussing, and incineration.",
+            "Distinguish between erasing/wiping, low-level formatting, and standard formatting for drive repurposing.",
+            "Understand outsourcing concepts including third-party vendors and obtaining certificates of destruction.",
+            "Adhere to regulatory and environmental requirements during hardware recycling."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final",
+            "https://www.epa.gov/recycle/electronics-donation-and-recycling"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "soho-network-security",
+          "title": "SOHO Network Security Settings",
+          "directory": "11-soho-network-security",
+          "path": "02-security/11-soho-network-security",
+          "description": "Apply security settings on SOHO wireless and wired networks, including router hardening and firewalls.",
+          "learning_objectives": [
+            "Configure SOHO router security by changing default passwords, managing UPnP, filtering IPs, and updating firmware.",
+            "Implement wireless-specific security such as changing/disabling SSID broadcast, setting encryption, and configuring guest access.",
+            "Configure edge firewalls by disabling unused ports and setting up port forwarding/mapping.",
+            "Set up a screened subnet and configure secure management access for networking hardware."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/securing-home-networks",
+            "https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/best-practices"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "browser-security-settings",
+          "title": "Browser Security Settings",
+          "directory": "12-browser-security-settings",
+          "path": "02-security/12-browser-security-settings",
+          "description": "Configure relevant security settings in a web browser to prevent unauthorized downloads and tracking.",
+          "learning_objectives": [
+            "Manage browser downloads and installations by distinguishing between trusted and untrusted sources, utilizing hashing.",
+            "Ensure browser software is properly patched and secure connections utilize valid certificates.",
+            "Configure browser privacy settings including pop-up blockers, clearing browsing data, proxy settings, and private-browsing modes.",
+            "Enable, disable, and manage browser extensions, plug-ins, password managers, and ad blockers securely."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/securing-your-web-browser",
+            "https://support.google.com/chrome/answer/95669"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "software-troubleshooting",
+      "title": "Software Troubleshooting",
+      "weight": 0.23,
+      "description": "Diagnosing and resolving common software issues across Windows, mobile OSs, and security environments.",
+      "directory": "03-software-troubleshooting",
+      "topics": [
+        {
+          "order": 1,
+          "id": "windows-os-issues",
+          "title": "Troubleshooting Windows OS Issues",
+          "directory": "01-windows-os-issues",
+          "path": "03-software-troubleshooting/01-windows-os-issues",
+          "description": "Identify and resolve common Windows OS software symptoms like BSODs, slow boot times, and application crashes.",
+          "learning_objectives": [
+            "Diagnose and troubleshoot the Blue screen of death (BSOD), system instability, and \"No OS found\" errors.",
+            "Investigate and resolve degraded performance, frequent shutdowns, and slow profile load times.",
+            "Troubleshoot issues with services not starting, applications crashing, and low memory warnings.",
+            "Identify underlying causes for USB controller resource warnings and time drift."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/windows-boot-issues-troubleshooting",
+            "https://learn.microsoft.com/en-us/windows/client-management/troubleshoot-stop-errors"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "mobile-os-and-application-issues",
+          "title": "Mobile OS and Application Issues",
+          "directory": "02-mobile-os-and-application-issues",
+          "path": "03-software-troubleshooting/02-mobile-os-and-application-issues",
+          "description": "Troubleshoot common mobile OS hardware integrations and software app failures.",
+          "learning_objectives": [
+            "Resolve instances where mobile applications fail to launch, close/crash unexpectedly, or fail to install/update.",
+            "Diagnose slow system response times, random reboots, and persistent battery life issues.",
+            "Troubleshoot mobile connectivity issues involving Bluetooth, Wi-Fi, and NFC.",
+            "Fix hardware interaction issues such as the screen failing to autorotate."
+          ],
+          "references": [
+            "https://support.apple.com/en-us/HT201398",
+            "https://support.google.com/android/answer/2668665"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "mobile-security-issues",
+          "title": "Mobile Security Issues",
+          "directory": "03-mobile-security-issues",
+          "path": "03-software-troubleshooting/03-mobile-security-issues",
+          "description": "Identify and mitigate mobile device security symptoms and unverified application threats.",
+          "learning_objectives": [
+            "Identify security concerns such as unofficial application stores, unauthorized developer modes, and root access/jailbreaks.",
+            "Recognize symptoms of mobile compromise, including high network traffic, degraded response time, and fake security warnings.",
+            "Diagnose data-usage limit notifications and unexpectedly dropped or limited internet connectivity.",
+            "Address unexpected application behavior, application spoofing, and leaked personal data."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/mobile-device-security",
+            "https://owasp.org/www-project-mobile-top-10/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "pc-security-issues",
+          "title": "PC Security Issues",
+          "directory": "04-pc-security-issues",
+          "path": "03-software-troubleshooting/04-pc-security-issues",
+          "description": "Troubleshoot PC-level security symptoms, including fake alerts, OS update failures, and browser redirections.",
+          "learning_objectives": [
+            "Identify common PC infection symptoms such as inability to access the network, altered system/personal files, and desktop alerts.",
+            "Troubleshoot false antivirus protection alerts and unwanted OS notifications.",
+            "Diagnose underlying causes for OS update failures directly related to malware or corrupted certificates.",
+            "Resolve browser-related security symptoms like frequent pop-ups, certificate warnings, redirection, and degraded performance."
+          ],
+          "references": [
+            "https://support.microsoft.com/en-us/windows/troubleshoot-problems-updating-windows-188c2b0f-10a7-d72f-65b8-32d177eb136c",
+            "https://consumer.ftc.gov/articles/how-recognize-remove-avoid-malware"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "operational-procedures",
+      "title": "Operational Procedures",
+      "weight": 0.21,
+      "description": "Best practices for documentation, change management, backup, safety, communication, and basic scripting.",
+      "directory": "04-operational-procedures",
+      "topics": [
+        {
+          "order": 1,
+          "id": "documentation-and-information-management",
+          "title": "Documentation and Information Management",
+          "directory": "01-documentation-and-information-management",
+          "path": "04-operational-procedures/01-documentation-and-information-management",
+          "description": "Implement best practices for ticketing systems, asset tracking, and standard IT documentation.",
+          "learning_objectives": [
+            "Effectively use ticketing systems to capture user information, device status, and concise issue descriptions/progress notes.",
+            "Manage hardware and software through asset tags, inventory lists, procurement lifecycles, and a Configuration Management Database (CMDB).",
+            "Navigate and utilize standard operating procedures (SOPs), knowledge bases, and user onboarding/off-boarding checklists.",
+            "Understand the impact and enforcement of internal and external Service-level agreements (SLAs)."
+          ],
+          "references": [
+            "https://www.itsm.tools/itil-incident-management/",
+            "https://www.atlassian.com/itsm/it-asset-management"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "change-management-procedures",
+          "title": "Change Management Procedures",
+          "directory": "02-change-management-procedures",
+          "path": "04-operational-procedures/02-change-management-procedures",
+          "description": "Apply standard IT change management procedures to safely update production environments.",
+          "learning_objectives": [
+            "Identify the essential parts of a documented business process, including rollback plans, backup plans, and sandbox testing.",
+            "Differentiate between standard, normal, and emergency change types.",
+            "Follow change management workflows including request forms, risk analysis, change board approvals, and peer review.",
+            "Schedule changes utilizing change freezes and maintenance windows to mitigate impact on affected systems."
+          ],
+          "references": [
+            "https://www.atlassian.com/itsm/change-management",
+            "https://wiki.en.it-processmaps.com/index.php/Change_Management"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "workstation-backup-and-recovery",
+          "title": "Workstation Backup and Recovery",
+          "directory": "03-workstation-backup-and-recovery",
+          "path": "04-operational-procedures/03-workstation-backup-and-recovery",
+          "description": "Implement enterprise-level workstation backup schedules, recovery techniques, and retention schemes.",
+          "learning_objectives": [
+            "Differentiate between Full, Incremental, Differential, and Synthetic full backups.",
+            "Implement backup rotation schemes including Grandfather-father-son (GFS) and the 3-2-1 backup rule.",
+            "Execute recovery plans utilizing in-place overwrites or alternative locations.",
+            "Establish procedures for recurring backup testing and verification."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/news/data-backup-options",
+            "https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "common-safety-procedures",
+          "title": "Common Safety Procedures",
+          "directory": "04-common-safety-procedures",
+          "path": "04-operational-procedures/04-common-safety-procedures",
+          "description": "Use common hardware and electrical safety procedures to prevent injury and hardware damage.",
+          "learning_objectives": [
+            "Apply Electrostatic discharge (ESD) prevention using straps, mats, and antistatic bags.",
+            "Observe proper electrical safety measures, including equipment grounding and disconnecting power before PC repair.",
+            "Ensure personal safety by utilizing proper lifting techniques, cable management, fire safety, and protective gear (goggles, air filters).",
+            "Maintain compliance with government health and safety regulations."
+          ],
+          "references": [
+            "https://www.osha.gov/electrical",
+            "https://www.comptia.org/training/resources/exam-objectives"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "environmental-impacts-and-controls",
+          "title": "Environmental Impacts and Controls",
+          "directory": "05-environmental-impacts-and-controls",
+          "path": "04-operational-procedures/05-environmental-impacts-and-controls",
+          "description": "Summarize environmental impacts of IT equipment, proper disposal, and server room climate controls.",
+          "learning_objectives": [
+            "Utilize Material Safety Data Sheet (MSDS) documentation for handling and properly disposing of batteries, toner, and other assets.",
+            "Monitor and manage temperature and humidity levels with proper server/equipment ventilation.",
+            "Perform regular environmental maintenance, including dust cleanup with compressed air/vacuums.",
+            "Protect equipment against power surges, brownouts, and blackouts using Surge suppressors and Uninterruptible Power Supplies (UPS)."
+          ],
+          "references": [
+            "https://www.epa.gov/hw/hazardous-waste-management",
+            "https://www.energy.gov/energysaver/protecting-appliances-and-electronics-power-surges"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "policies-licensing-and-privacy",
+          "title": "Policies, Licensing, and Privacy",
+          "directory": "06-policies-licensing-and-privacy",
+          "path": "04-operational-procedures/06-policies-licensing-and-privacy",
+          "description": "Explain the importance of IT incident response laws, digital rights, corporate policies, and data privacy.",
+          "learning_objectives": [
+            "Outline IT incident response basics, emphasizing the chain of custody, data preservation, and proper documentation.",
+            "Differentiate software licenses (DRM, EULA, Open-source, Perpetual, Personal vs. Corporate).",
+            "Enforce organizational policies including NDAs, Acceptable Use Policies (AUP), and corporate splash screens.",
+            "Safeguard regulated data such as credit card information (PCI), PII, and Healthcare data, adhering to retention requirements."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final",
+            "https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "communication-and-professionalism",
+          "title": "Communication Techniques and Professionalism",
+          "directory": "07-communication-and-professionalism",
+          "path": "04-operational-procedures/07-communication-and-professionalism",
+          "description": "Use proper professional communication techniques, active listening, and conflict resolution in IT support.",
+          "learning_objectives": [
+            "Maintain a professional appearance, use appropriate language free of excessive jargon, and demonstrate cultural sensitivity.",
+            "Employ active listening to clarify issues and avoid interrupting or dismissing the customer.",
+            "Appropriately manage difficult situations by setting accurate expectations, avoiding defensiveness, and offering clear repair options.",
+            "Handle customer confidential materials with strict privacy and adhere to punctuality and minimal distraction."
+          ],
+          "references": [
+            "https://www.comptia.org/training/resources/exam-objectives",
+            "https://www.helpdesk.com/customer-service/help-desk-customer-service-skills/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "basics-of-scripting",
+          "title": "Basics of Scripting",
+          "directory": "08-basics-of-scripting",
+          "path": "04-operational-procedures/08-basics-of-scripting",
+          "description": "Explain foundational scripting file types, basic automation use cases, and script safety considerations.",
+          "learning_objectives": [
+            "Identify common script file extensions including .bat, .ps1, .vbs, .sh, .js, and .py.",
+            "Understand basic scripting use cases such as automation, restarting machines, remapping network drives, and initiating updates.",
+            "Evaluate safety considerations to avoid unintentionally introducing malware or crashing systems."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/powershell/scripting/overview",
+            "https://ubuntu.com/tutorials/command-line-for-beginners"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "remote-access-technologies",
+          "title": "Remote Access Technologies",
+          "directory": "09-remote-access-technologies",
+          "path": "04-operational-procedures/09-remote-access-technologies",
+          "description": "Deploy and secure remote access tools such as RDP, VPN, and Remote Monitoring and Management (RMM).",
+          "learning_objectives": [
+            "Differentiate remote access tools and protocols including RDP, VPN, VNC, SSH, SPICE, and WinRM.",
+            "Identify the operational benefits of third-party tools like screen-sharing software and desktop management solutions.",
+            "Evaluate security risks and configurations necessary to properly lock down remote access methods."
+          ],
+          "references": [
+            "https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds",
+            "https://www.cisa.gov/news-events/news/securing-remote-access"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "artificial-intelligence-concepts",
+          "title": "Artificial Intelligence Concepts in IT",
+          "directory": "10-artificial-intelligence-concepts",
+          "path": "04-operational-procedures/10-artificial-intelligence-concepts",
+          "description": "Explain basic concepts, policies, and operational limitations related to artificial intelligence.",
+          "learning_objectives": [
+            "Understand the concepts of AI application integration and corporate appropriate-use policies.",
+            "Recognize AI limitations including biased data, model hallucinations, and factual accuracy.",
+            "Differentiate between public and private AI models concerning data security, data sourcing, and data privacy."
+          ],
+          "references": [
+            "https://csrc.nist.gov/pubs/ai/100/1/final",
+            "https://www.comptia.org/blog/what-is-artificial-intelligence"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}
