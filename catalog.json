@@ -6,6 +6,18 @@
       "description": "Master the foundational principles of cybersecurity and develop the practical skills required to secure networks, devices, and data.",
       "exams": [
         {
+          "repo_folder": "comptia-cysa-cs003",
+          "name": "CompTIA Cybersecurity Analyst (CySA+)",
+          "exam_slug": "comptia-cysa-cs003",
+          "theme_color": "#ef4444",
+          "hero_headline": "Advance Your Security Career with CompTIA CySA+.",
+          "hero_subheadline": "Master incident detection, threat intelligence, and vulnerability management to confidently pass the CS0-003 exam.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Preparing for the CySA+ exam requires mastering complex incident response processes, threat hunting, and continuous security monitoring, which can be overwhelming to synthesize.",
+          "companion_solution": "Only Ever breaks down the official CompTIA CySA+ syllabus into 15-minute, highly focused study sessions. Our content maps directly to the CS0-003 exam objectives to ensure maximum retention and test readiness."
+        },
+        {
           "repo_folder": "comptia-security-plus",
           "name": "CompTIA Security+",
           "exam_slug": "comptia-security-plus",

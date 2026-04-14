@@ -1,0 +1,736 @@
+{
+  "exam": {
+    "name": "CompTIA Cybersecurity Analyst (CySA+)",
+    "code": "CS0-003",
+    "provider": "CompTIA",
+    "syllabus_verified": false,
+    "syllabus_verified_date": "2026-04-13",
+    "generated_date": "2026-04-13",
+    "category_name": "Cybersecurity",
+    "category_slug": "cybersecurity",
+    "category_description": "Master the foundational principles of cybersecurity and develop the practical skills required to secure networks, devices, and data.",
+    "exam_slug": "comptia-cysa-cs003",
+    "theme_color": "#ef4444",
+    "hero_headline": "Advance Your Security Career with CompTIA CySA+.",
+    "hero_subheadline": "Master incident detection, threat intelligence, and vulnerability management to confidently pass the CS0-003 exam.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Preparing for the CySA+ exam requires mastering complex incident response processes, threat hunting, and continuous security monitoring, which can be overwhelming to synthesize.",
+    "companion_solution": "Only Ever breaks down the official CompTIA CySA+ syllabus into 15-minute, highly focused study sessions. Our content maps directly to the CS0-003 exam objectives to ensure maximum retention and test readiness.",
+    "learner_profile": "Security Operations Center (SOC) analyst or incident responder looking to validate intermediate cybersecurity skills. Works with threat intelligence, security monitoring tools, and vulnerability management. Needs clear, practical explanations of incident detection, prevention, and response strategies."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "security-operations",
+      "title": "Security Operations",
+      "weight": 0.33,
+      "description": "Concepts in system and network architecture, log ingestion, and identifying indicators of malicious activity.",
+      "directory": "01-security-operations",
+      "topics": [
+        {
+          "order": 1,
+          "id": "log-ingestion-and-os-concepts",
+          "title": "Log Ingestion and OS Concepts",
+          "directory": "01-log-ingestion-and-os-concepts",
+          "path": "01-security-operations/01-log-ingestion-and-os-concepts",
+          "description": "Understand time synchronization, logging levels, and operating system concepts including Windows Registry and file structures.",
+          "learning_objectives": [
+            "Explain the importance of log ingestion and time synchronization.",
+            "Describe operating system concepts such as Windows Registry, file structures, and system processes."
+          ],
+          "references": [
+            "https://www.comptia.org/blog/what-is-a-cybersecurity-analyst",
+            "https://csrc.nist.gov/glossary/term/system_hardening"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "infrastructure-and-network-architecture",
+          "title": "Infrastructure and Network Architecture",
+          "directory": "02-infrastructure-and-network-architecture",
+          "path": "01-security-operations/02-infrastructure-and-network-architecture",
+          "description": "Differentiate between infrastructure concepts like serverless and containerization, and network architectures including zero trust and SASE.",
+          "learning_objectives": [
+            "Compare infrastructure concepts like serverless, virtualization, and containerization.",
+            "Analyze network architectures including zero trust, SASE, and SDN."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-207/final",
+            "https://www.cisa.gov/zero-trust-maturity-model"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "identity-access-encryption-sensitive-data",
+          "title": "Identity, Access, Encryption, and Sensitive Data",
+          "directory": "03-identity-access-encryption-sensitive-data",
+          "path": "01-security-operations/03-identity-access-encryption-sensitive-data",
+          "description": "Learn about identity and access management, encryption protocols, and sensitive data protection concepts.",
+          "learning_objectives": [
+            "Explain IAM concepts such as MFA, SSO, and passwordless authentication.",
+            "Describe encryption standards and methods for protecting sensitive data like PII and CHD."
+          ],
+          "references": [
+            "https://csrc.nist.gov/projects/identity-and-access-management",
+            "https://www.pcisecuritystandards.org/document_library/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "network-related-malicious-indicators",
+          "title": "Network-Related Malicious Indicators",
+          "directory": "04-network-related-malicious-indicators",
+          "path": "01-security-operations/04-network-related-malicious-indicators",
+          "description": "Analyze indicators of potentially malicious activity related to network traffic and behaviors.",
+          "learning_objectives": [
+            "Identify network-related indicators of compromise such as beaconing and unusual traffic spikes.",
+            "Analyze scenarios involving rogue devices and irregular peer-to-peer communication."
+          ],
+          "references": [
+            "https://www.cisa.gov/news-events/cybersecurity-advisories",
+            "https://attack.mitre.org/tactics/TA0011/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "host-application-other-indicators",
+          "title": "Host, Application, and Other Indicators",
+          "directory": "05-host-application-other-indicators",
+          "path": "01-security-operations/05-host-application-other-indicators",
+          "description": "Recognize host-based and application-based indicators of malicious activity.",
+          "learning_objectives": [
+            "Identify host-related indicators such as abnormal OS process behavior and registry anomalies.",
+            "Analyze application-related anomalies and social engineering attacks."
+          ],
+          "references": [
+            "https://attack.mitre.org/tactics/TA0005/",
+            "https://www.cisa.gov/sites/default/files/publications/Capacity_Enhancement_Guide-Social_Engineering_and_Phishing.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "tools-for-malicious-activity",
+          "title": "Tools for Malicious Activity Detection",
+          "directory": "06-tools-for-malicious-activity",
+          "path": "01-security-operations/06-tools-for-malicious-activity",
+          "description": "Utilize appropriate security tools for determining malicious activity, such as packet capture and SIEM.",
+          "learning_objectives": [
+            "Use packet capture tools like Wireshark and tcpdump.",
+            "Apply log analysis and endpoint security tools for threat detection."
+          ],
+          "references": [
+            "https://www.wireshark.org/docs/",
+            "https://csrc.nist.gov/publications/detail/sp/800-92/final"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "detection-techniques-and-scripting",
+          "title": "Detection Techniques and Scripting",
+          "directory": "07-detection-techniques-and-scripting",
+          "path": "01-security-operations/07-detection-techniques-and-scripting",
+          "description": "Employ detection techniques like pattern recognition and use scripting languages for security operations.",
+          "learning_objectives": [
+            "Interpret suspicious commands and conduct email analysis.",
+            "Understand the role of programming languages and scripting in security operations."
+          ],
+          "references": [
+            "https://attack.mitre.org/techniques/T1059/",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-302a"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "threat-actors-and-ttps",
+          "title": "Threat Actors and TTPs",
+          "directory": "08-threat-actors-and-ttps",
+          "path": "01-security-operations/08-threat-actors-and-ttps",
+          "description": "Compare various threat actors and their tactics, techniques, and procedures.",
+          "learning_objectives": [
+            "Differentiate between threat actors such as APTs, hacktivists, and insider threats.",
+            "Analyze tactics, techniques, and procedures (TTPs) used by adversaries."
+          ],
+          "references": [
+            "https://attack.mitre.org/",
+            "https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "threat-intel-collection-and-sharing",
+          "title": "Threat Intelligence Collection and Sharing",
+          "directory": "09-threat-intel-collection-and-sharing",
+          "path": "01-security-operations/09-threat-intel-collection-and-sharing",
+          "description": "Explore methods and sources for collecting and sharing threat intelligence.",
+          "learning_objectives": [
+            "Compare open source and closed source threat intelligence collection methods.",
+            "Explain the importance of threat intelligence sharing for incident response and risk management."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-150/final",
+            "https://www.cisa.gov/automated-indicator-sharing-ais"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "threat-hunting-concepts",
+          "title": "Threat Hunting Concepts",
+          "directory": "10-threat-hunting-concepts",
+          "path": "01-security-operations/10-threat-hunting-concepts",
+          "description": "Understand concepts related to proactive threat hunting and indicators of compromise.",
+          "learning_objectives": [
+            "Describe the process of collecting, analyzing, and applying indicators of compromise.",
+            "Explain active defense and the use of honeypots in threat hunting."
+          ],
+          "references": [
+            "https://csrc.nist.gov/glossary/term/threat_hunting",
+            "https://attack.mitre.org/tactics/TA0043/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "efficiency-and-process-improvement",
+          "title": "Efficiency and Process Improvement",
+          "directory": "11-efficiency-and-process-improvement",
+          "path": "01-security-operations/11-efficiency-and-process-improvement",
+          "description": "Standardize and streamline security operations to improve efficiency and reduce human engagement.",
+          "learning_objectives": [
+            "Identify tasks suitable for automation to standardize processes.",
+            "Explain the integration of technologies and tools via APIs and webhooks."
+          ],
+          "references": [
+            "https://www.cisa.gov/topics/cybersecurity-best-practices",
+            "https://csrc.nist.gov/publications/detail/sp/800-137/final"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "vulnerability-management",
+      "title": "Vulnerability Management",
+      "weight": 0.3,
+      "description": "Implementing vulnerability scanning methods, analyzing outputs, prioritizing vulnerabilities, and mitigating software vulnerabilities.",
+      "directory": "02-vulnerability-management",
+      "topics": [
+        {
+          "order": 1,
+          "id": "asset-discovery-and-considerations",
+          "title": "Asset Discovery and Scanning Considerations",
+          "directory": "01-asset-discovery-and-considerations",
+          "path": "02-vulnerability-management/01-asset-discovery-and-considerations",
+          "description": "Implement asset discovery and address special considerations in vulnerability scanning.",
+          "learning_objectives": [
+            "Perform asset discovery using map scans and device fingerprinting.",
+            "Evaluate special considerations for vulnerability scanning such as scheduling and sensitivity levels."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/1800-5/final",
+            "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "vulnerability-scanning-methods",
+          "title": "Vulnerability Scanning Methods",
+          "directory": "02-vulnerability-scanning-methods",
+          "path": "02-vulnerability-management/02-vulnerability-scanning-methods",
+          "description": "Compare internal vs external, and credentialed vs non-credentialed vulnerability scanning methods.",
+          "learning_objectives": [
+            "Differentiate between internal and external vulnerability scanning.",
+            "Compare credentialed vs. non-credentialed and passive vs. active scanning methods."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-115/final",
+            "https://www.cisecurity.org/controls/vulnerability-management"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "vulnerability-assessment-tools",
+          "title": "Vulnerability Assessment Tools",
+          "directory": "03-vulnerability-assessment-tools",
+          "path": "02-vulnerability-management/03-vulnerability-assessment-tools",
+          "description": "Analyze outputs from network scanning, mapping, and web application vulnerability scanners.",
+          "learning_objectives": [
+            "Analyze the output from network scanning tools like Angry IP Scanner and Maltego.",
+            "Interpret results from web application scanners such as Burp Suite and Zed Attack Proxy."
+          ],
+          "references": [
+            "https://owasp.org/www-project-web-security-testing-guide/",
+            "https://nmap.org/book/man.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "debuggers-multipurpose-cloud-tools",
+          "title": "Debuggers, Multipurpose, and Cloud Tools",
+          "directory": "04-debuggers-multipurpose-cloud-tools",
+          "path": "02-vulnerability-management/04-debuggers-multipurpose-cloud-tools",
+          "description": "Utilize debuggers, multipurpose frameworks, and cloud infrastructure assessment tools.",
+          "learning_objectives": [
+            "Analyze output from debuggers and multipurpose tools like Nmap and Metasploit.",
+            "Use cloud infrastructure assessment tools like Scout Suite and Prowler."
+          ],
+          "references": [
+            "https://www.metasploit.com/",
+            "https://owasp.org/www-project-cloud-security/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "analyzing-data-prioritizing-vulnerabilities",
+          "title": "Analyzing Data to Prioritize Vulnerabilities",
+          "directory": "05-analyzing-data-prioritizing-vulnerabilities",
+          "path": "02-vulnerability-management/05-analyzing-data-prioritizing-vulnerabilities",
+          "description": "Evaluate Common Vulnerability Scoring System (CVSS) metrics and validate true/false positives.",
+          "learning_objectives": [
+            "Interpret Common Vulnerability Scoring System (CVSS) metrics.",
+            "Validate vulnerabilities by distinguishing between true and false positives/negatives."
+          ],
+          "references": [
+            "https://www.first.org/cvss/v3.1/specification-document",
+            "https://nvd.nist.gov/vuln-metrics/cvss"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "mitigating-web-app-vulnerabilities",
+          "title": "Mitigating Web Application Vulnerabilities",
+          "directory": "06-mitigating-web-app-vulnerabilities",
+          "path": "02-vulnerability-management/06-mitigating-web-app-vulnerabilities",
+          "description": "Recommend controls to mitigate common web application attacks such as cross-site scripting and injection flaws.",
+          "learning_objectives": [
+            "Recommend controls for mitigating cross-site scripting (XSS) and injection flaws.",
+            "Mitigate cross-site request forgery (CSRF) and server-side request forgery (SSRF)."
+          ],
+          "references": [
+            "https://owasp.org/www-project-top-ten/",
+            "https://cwe.mitre.org/top25/archive/2023/2023_cwe_top25.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "mitigating-other-software-vulnerabilities",
+          "title": "Mitigating Other Software Vulnerabilities",
+          "directory": "07-mitigating-other-software-vulnerabilities",
+          "path": "02-vulnerability-management/07-mitigating-other-software-vulnerabilities",
+          "description": "Address buffer overflows, broken access control, and other critical software vulnerabilities.",
+          "learning_objectives": [
+            "Recommend controls to mitigate overflow vulnerabilities and broken access control.",
+            "Address cryptographic failures, privilege escalation, and remote code execution vulnerabilities."
+          ],
+          "references": [
+            "https://cwe.mitre.org/data/definitions/119.html",
+            "https://owasp.org/www-community/vulnerabilities/Broken_Access_Control"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "vulnerability-response-and-handling",
+          "title": "Vulnerability Response and Handling",
+          "directory": "08-vulnerability-response-and-handling",
+          "path": "02-vulnerability-management/08-vulnerability-response-and-handling",
+          "description": "Implement compensating controls, patching processes, and apply risk management principles.",
+          "learning_objectives": [
+            "Explain the types of security controls and when to use compensating controls.",
+            "Apply patching, configuration management, and risk management principles."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/final",
+            "https://www.cisa.gov/topics/cybersecurity-best-practices"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "vulnerability-management-policies-and-attack-surface",
+          "title": "Vulnerability Management Policies and Attack Surface",
+          "directory": "09-vulnerability-management-policies-and-attack-surface",
+          "path": "02-vulnerability-management/09-vulnerability-management-policies-and-attack-surface",
+          "description": "Understand governance, service level objectives, and attack surface management.",
+          "learning_objectives": [
+            "Explain the role of policies, governance, and service level objectives (SLOs) in vulnerability management.",
+            "Implement attack surface management and attack surface reduction strategies."
+          ],
+          "references": [
+            "https://csrc.nist.gov/glossary/term/attack_surface",
+            "https://www.cisecurity.org/controls/inventory-and-control-of-enterprise-assets"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "secure-coding-and-development",
+          "title": "Secure Coding and Development",
+          "directory": "10-secure-coding-and-development",
+          "path": "02-vulnerability-management/10-secure-coding-and-development",
+          "description": "Incorporate secure coding best practices and threat modeling into the software development life cycle.",
+          "learning_objectives": [
+            "Apply secure coding best practices such as input validation and output encoding.",
+            "Explain the secure software development life cycle (SDLC) and threat modeling."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-218/final",
+            "https://owasp.org/www-project-threat-modeling-playbook/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "incident-response-and-management",
+      "title": "Incident Response and Management",
+      "weight": 0.2,
+      "description": "Attack methodology frameworks, incident response activities, preparation, and post-incident activities.",
+      "directory": "03-incident-response-and-management",
+      "topics": [
+        {
+          "order": 1,
+          "id": "attack-methodology-frameworks",
+          "title": "Attack Methodology Frameworks",
+          "directory": "01-attack-methodology-frameworks",
+          "path": "03-incident-response-and-management/01-attack-methodology-frameworks",
+          "description": "Understand and apply various attack methodology frameworks to analyze incidents.",
+          "learning_objectives": [
+            "Explain concepts related to cyber kill chains and the Diamond Model of Intrusion Analysis.",
+            "Apply frameworks like MITRE ATT&CK and the OWASP Testing Guide."
+          ],
+          "references": [
+            "https://attack.mitre.org/",
+            "https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "incident-detection-and-analysis",
+          "title": "Incident Detection and Analysis",
+          "directory": "02-incident-detection-and-analysis",
+          "path": "03-incident-response-and-management/02-incident-detection-and-analysis",
+          "description": "Perform initial incident detection and log data analysis activities.",
+          "learning_objectives": [
+            "Identify incidents using indicators of compromise (IoC).",
+            "Conduct comprehensive data and log analysis during an incident."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final",
+            "https://www.cisa.gov/shields-up"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "evidence-acquisition-and-integrity",
+          "title": "Evidence Acquisition and Integrity",
+          "directory": "03-evidence-acquisition-and-integrity",
+          "path": "03-incident-response-and-management/03-evidence-acquisition-and-integrity",
+          "description": "Manage digital evidence through chain of custody and ensure data integrity.",
+          "learning_objectives": [
+            "Execute evidence acquisition processes including legal hold and preservation.",
+            "Maintain the chain of custody and validate data integrity."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-86/final",
+            "https://www.nij.gov/topics/law-enforcement/investigations/crime-scene/guides/digital-evidence/pages/welcome.aspx"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "containment-eradication-recovery",
+          "title": "Containment, Eradication, and Recovery",
+          "directory": "04-containment-eradication-recovery",
+          "path": "03-incident-response-and-management/04-containment-eradication-recovery",
+          "description": "Execute strategies to contain, eradicate, and recover from cybersecurity incidents.",
+          "learning_objectives": [
+            "Determine the scope and impact of an incident.",
+            "Implement isolation, remediation, re-imaging, and compensating controls to recover systems."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final",
+            "https://www.cisa.gov/incident-response-training"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "incident-preparation-and-playbooks",
+          "title": "Incident Preparation and Playbooks",
+          "directory": "05-incident-preparation-and-playbooks",
+          "path": "03-incident-response-and-management/05-incident-preparation-and-playbooks",
+          "description": "Prepare for incidents using response plans, tabletop exercises, and playbooks.",
+          "learning_objectives": [
+            "Develop and maintain an incident response plan and associated playbooks.",
+            "Conduct tabletop exercises and align with business continuity/disaster recovery strategies."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-84/final",
+            "https://www.cisa.gov/cybersecurity-incident-response-playbooks"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "post-incident-activities-and-forensics",
+          "title": "Post-Incident Activities and Forensics",
+          "directory": "06-post-incident-activities-and-forensics",
+          "path": "03-incident-response-and-management/06-post-incident-activities-and-forensics",
+          "description": "Conduct root cause analysis, forensics, and identify lessons learned post-incident.",
+          "learning_objectives": [
+            "Perform forensic analysis and root cause analysis following an incident.",
+            "Document lessons learned to improve future incident response activities."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final",
+            "https://csrc.nist.gov/glossary/term/root_cause_analysis"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "reporting-and-communication",
+      "title": "Reporting and Communication",
+      "weight": 0.17,
+      "description": "Vulnerability management reporting, incident response communication, stakeholder identification, and relevant metrics.",
+      "directory": "04-reporting-and-communication",
+      "topics": [
+        {
+          "order": 1,
+          "id": "vulnerability-management-reporting",
+          "title": "Vulnerability Management Reporting",
+          "directory": "01-vulnerability-management-reporting",
+          "path": "04-reporting-and-communication/01-vulnerability-management-reporting",
+          "description": "Create reports and action plans related to vulnerability management.",
+          "learning_objectives": [
+            "Generate vulnerability management and compliance reports.",
+            "Develop action plans for configuration management and patching."
+          ],
+          "references": [
+            "https://www.cisa.gov/vulnerability-management-reporting",
+            "https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/final"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "inhibitors-to-remediation",
+          "title": "Inhibitors to Remediation",
+          "directory": "02-inhibitors-to-remediation",
+          "path": "04-reporting-and-communication/02-inhibitors-to-remediation",
+          "description": "Identify and communicate organizational and technical inhibitors to vulnerability remediation.",
+          "learning_objectives": [
+            "Explain inhibitors to remediation such as MOUs, SLAs, and organizational governance.",
+            "Analyze the impact of legacy systems and business process interruption on remediation efforts."
+          ],
+          "references": [
+            "https://www.cisecurity.org/controls/vulnerability-management",
+            "https://csrc.nist.gov/glossary/term/service_level_agreement"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "vulnerability-metrics-and-kpis",
+          "title": "Vulnerability Metrics and KPIs",
+          "directory": "03-vulnerability-metrics-and-kpis",
+          "path": "04-reporting-and-communication/03-vulnerability-metrics-and-kpis",
+          "description": "Track and communicate key performance indicators for vulnerability management.",
+          "learning_objectives": [
+            "Identify metrics and key performance indicators (KPIs) for vulnerability management.",
+            "Communicate trends, top 10 vulnerabilities, and critical zero-day metrics to stakeholders."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-55/rev-1/final",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "incident-reporting-and-escalation",
+          "title": "Incident Reporting and Escalation",
+          "directory": "04-incident-reporting-and-escalation",
+          "path": "04-reporting-and-communication/04-incident-reporting-and-escalation",
+          "description": "Declare incidents, escalate appropriately, and create incident response reports.",
+          "learning_objectives": [
+            "Identify relevant stakeholders and execute incident declaration and escalation.",
+            "Create comprehensive incident response reports including executive summaries and timelines."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final",
+            "https://www.cisa.gov/report"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "incident-communications-and-metrics",
+          "title": "Incident Communications and Metrics",
+          "directory": "05-incident-communications-and-metrics",
+          "path": "04-reporting-and-communication/05-incident-communications-and-metrics",
+          "description": "Manage incident communications and analyze incident response metrics.",
+          "learning_objectives": [
+            "Coordinate communications with legal, PR, regulatory, and law enforcement entities.",
+            "Analyze incident response metrics such as Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR)."
+          ],
+          "references": [
+            "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final",
+            "https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}
