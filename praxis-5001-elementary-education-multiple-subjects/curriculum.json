@@ -351,7 +351,7 @@
       "id": "mathematics",
       "title": "Mathematics",
       "weight": 0.2,
-      "description": "Numbers and operations, algebraic thinking, geometry, measurement, data, statistics, and probability.",
+      "description": "Numbers and operations, algebraic thinking, geometry, measurement, data, statistics, and probability. ",
       "directory": "02-mathematics",
       "topics": [
         {
