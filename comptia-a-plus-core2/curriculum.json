@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "CompTIA A+ Core 2 expects you to move confidently across Windows, macOS, Linux, security controls, troubleshooting flows, and support procedures, but those domains are easy to study in fragments instead of as one coherent help desk skill set.",
     "companion_solution": "Only Ever turns the official CompTIA A+ Core 2 objectives into focused 15-minute study sessions so you can build durable understanding across the 220-1202 syllabus without drifting off-spec.",
-    "learner_profile": "Aspiring IT support technician, help desk analyst, desktop support specialist, or career switcher preparing for an entry-level technical role. Needs structured, practical explanations of operating systems, endpoint security, troubleshooting workflows, documentation, and professional support procedures."
+    "learner_profile": "Aspiring IT support technician, help desk analyst, desktop support specialist, or career switcher preparing for an entry-level technical role. Needs structured, practical explanations of operating systems, endpoint security, troubleshooting workflows, documentation, and professional support procedures.",
+    "category_order": 2
   },
   "sections": [
     {

@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Most prep material is dry, overwhelming, or disconnected from the exact NY DOS curriculum.",
     "companion_solution": "Only Ever maps the official syllabus into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects.",
-    "learner_profile": "Aspiring real estate professional in New York. Navigating property laws, agency rules, and real estate finance. Responds well to practical real estate scenarios, closing procedures, and client interaction examples."
+    "learner_profile": "Aspiring real estate professional in New York. Navigating property laws, agency rules, and real estate finance. Responds well to practical real estate scenarios, closing procedures, and client interaction examples.",
+    "category_order": 1
   },
   "sections": [
     {

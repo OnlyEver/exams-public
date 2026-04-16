@@ -8,7 +8,7 @@
     "generated_date": "2026-04-07",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned prep for prospective secondary biology teachers with syllabus-mapped coverage across cell biology, genetics and evolution, diversity of life and organismal biology, ecology, and the nature and impact of science and engineering.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-5236",
     "theme_color": "#16A34A",
     "hero_headline": "Pass Praxis 5236 with biology content mapped to the official objectives",
@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis biology prep either stays shallow across vast domains like genetics and ecology or piles facts without the cross-topic structure and application the exam expects.",
     "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure covering all five major biology content categories.",
-    "learner_profile": "Aspiring secondary biology teacher preparing for selected-response items spanning the nature of science, cell biology, genetics, evolution, diversity of life, and ecology. Benefits from diagrams, biological processes, and science and engineering practices."
+    "learner_profile": "Aspiring secondary biology teacher preparing for selected-response items spanning the nature of science, cell biology, genetics, evolution, diversity of life, and ecology. Benefits from diagrams, biological processes, and science and engineering practices.",
+    "category_order": 7
   },
   "sections": [
     {

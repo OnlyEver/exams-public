@@ -1,0 +1,656 @@
+{
+  "exam": {
+    "name": "Certified Associate in Project Management (CAPM) Certification Exam",
+    "code": "CAPM",
+    "provider": "PMI",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-15",
+    "generated_date": "2026-04-15",
+    "category_name": "Project Management",
+    "category_slug": "project-management",
+    "category_description": "Exam-aligned prep for project management certifications with structured coverage of leadership, delivery, governance, and business outcomes.",
+    "category_order": 1,
+    "exam_slug": "capm",
+    "theme_color": "#14b8a6",
+    "hero_headline": "Pass the CAPM with official-outline coverage.",
+    "hero_subheadline": "Study the PMI exam content in focused 15-minute topics that build confidence across fundamentals, predictive delivery, agile methods, and business analysis.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most CAPM prep resources either bury beginners in jargon or skip around the official outline, making it hard to build confidence and retain the core concepts the exam actually tests.",
+    "companion_solution": "Only Ever turns the official PMI exam content outline into a clear sequence of 15-minute study topics, so you can learn the fundamentals, methodologies, and business analysis concepts in a structured way.",
+    "learner_profile": "Aspiring project coordinator, project specialist, operations professional, student, or career switcher building foundational project management knowledge. Benefits from clear explanations, exam-aligned sequencing, and practical distinctions between predictive, agile, and business analysis concepts."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "project-management-fundamentals-and-core-concepts",
+      "title": "Project Management Fundamentals and Core Concepts",
+      "weight": 0.36,
+      "description": "Understand foundational project management topics including project life cycles, planning processes, core roles, strategies, and problem-solving techniques.",
+      "directory": "01-project-management-fundamentals-and-core-concepts",
+      "topics": [
+        {
+          "order": 1,
+          "id": "project-program-and-portfolio-management",
+          "title": "Project, Program, and Portfolio Management",
+          "directory": "01-project-program-and-portfolio-management",
+          "path": "01-project-management-fundamentals-and-core-concepts/01-project-program-and-portfolio-management",
+          "description": "Distinguish between the different levels of organizational management and understand the differences between projects and ongoing operations.",
+          "learning_objectives": [
+            "Distinguish between a project, program, and a portfolio.",
+            "Distinguish between a project and operations.",
+            "Explain how a project can be a vehicle for change."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm",
+            "https://pmbypm.com/difference-project-program-portfolio-management/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "project-life-cycles-and-approaches",
+          "title": "Project Life Cycles and Approaches",
+          "directory": "02-project-life-cycles-and-approaches",
+          "path": "01-project-management-fundamentals-and-core-concepts/02-project-life-cycles-and-approaches",
+          "description": "Learn the characteristics of different project approaches, primarily contrasting predictive (waterfall) and adaptive (agile) life cycles.",
+          "learning_objectives": [
+            "Demonstrate an understanding of various project life cycles and processes.",
+            "Distinguish between predictive and adaptive approaches."
+          ],
+          "references": [
+            "https://www.eduhubspot.com/predictive-vs-adaptive-project-management",
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "scope-ethics-and-constraints",
+          "title": "Scope, Ethics, and Constraints",
+          "directory": "03-scope-ethics-and-constraints",
+          "path": "01-project-management-fundamentals-and-core-concepts/03-scope-ethics-and-constraints",
+          "description": "Understand core project constraints, review project scope, and apply the PMI Code of Ethics.",
+          "learning_objectives": [
+            "Distinguish between issues, risks, assumptions, and constraints.",
+            "Review and critique project scope.",
+            "Apply the project management code of ethics to scenarios."
+          ],
+          "references": [
+            "https://www.pmi.org/about/ethics/code",
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "project-management-planning-basics",
+          "title": "Project Management Planning Basics",
+          "directory": "04-project-management-planning-basics",
+          "path": "01-project-management-fundamentals-and-core-concepts/04-project-management-planning-basics",
+          "description": "Introduction to project management planning, emphasizing cost, quality, risk, schedule, and plan deliverables.",
+          "learning_objectives": [
+            "Describe the purpose and importance of cost, quality, risk, and schedule.",
+            "Distinguish between the deliverables of a project management plan versus a product management plan."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm",
+            "https://knowledgemap.pm/capm-project-management-planning"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "milestones-task-durations-and-resources",
+          "title": "Milestones, Task Durations, and Resources",
+          "directory": "05-milestones-task-durations-and-resources",
+          "path": "01-project-management-fundamentals-and-core-concepts/05-milestones-task-durations-and-resources",
+          "description": "Learn the difference between milestones and general task durations, and determine project resource needs.",
+          "learning_objectives": [
+            "Distinguish differences between a milestone and a task duration.",
+            "Determine the number and type of resources in a project."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "registers-and-project-closure",
+          "title": "Registers and Project Closure",
+          "directory": "06-registers-and-project-closure",
+          "path": "01-project-management-fundamentals-and-core-concepts/06-registers-and-project-closure",
+          "description": "Understand how to utilize risk and stakeholder registers and how to execute project closure and transitions.",
+          "learning_objectives": [
+            "Use a risk register in a given situation.",
+            "Use a stakeholder register in a given situation.",
+            "Explain project closure and transitions."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "project-roles-and-responsibilities",
+          "title": "Project Roles and Responsibilities",
+          "directory": "07-project-roles-and-responsibilities",
+          "path": "01-project-management-fundamentals-and-core-concepts/07-project-roles-and-responsibilities",
+          "description": "Differentiate between the distinct roles of the project manager, project team, and the project sponsor.",
+          "learning_objectives": [
+            "Compare and contrast the roles and responsibilities of project managers and project sponsors.",
+            "Compare and contrast the roles and responsibilities of the project team and the project sponsor.",
+            "Explain the importance of the role the project manager plays (e.g., initiator, negotiator, listener, coach, working member, and facilitator)."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "leadership-management-and-eq",
+          "title": "Leadership, Management, and Emotional Intelligence",
+          "directory": "08-leadership-management-and-eq",
+          "path": "01-project-management-fundamentals-and-core-concepts/08-leadership-management-and-eq",
+          "description": "Explore the critical differences between leadership and management, and the impact of emotional intelligence.",
+          "learning_objectives": [
+            "Explain the differences between leadership and management.",
+            "Explain emotional intelligence (EQ) and its impact on project management."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "planned-strategies-and-frameworks",
+          "title": "Planned Strategies and Frameworks",
+          "directory": "09-planned-strategies-and-frameworks",
+          "path": "01-project-management-fundamentals-and-core-concepts/09-planned-strategies-and-frameworks",
+          "description": "Determine how to properly follow and execute communication, risk, and benefit planning strategies.",
+          "learning_objectives": [
+            "Give examples of how it is appropriate to respond to a planned strategy or framework (e.g., communication, risk, etc.).",
+            "Explain project initiation and benefit planning."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "problem-solving-tools-and-meetings",
+          "title": "Problem-Solving Tools and Meetings",
+          "directory": "10-problem-solving-tools-and-meetings",
+          "path": "01-project-management-fundamentals-and-core-concepts/10-problem-solving-tools-and-meetings",
+          "description": "A focus on evaluating meeting effectiveness and utilizing specific tools such as focus groups and brainstorming.",
+          "learning_objectives": [
+            "Evaluate the effectiveness of a meeting.",
+            "Explain the purpose of focus groups, standup meetings, brainstorming, etc."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "predictive-plan-based-methodologies",
+      "title": "Predictive, Plan-Based Methodologies",
+      "weight": 0.17,
+      "description": "Delve into traditional plan-based approaches, exploring when to use predictive methodologies, how to plan schedules, and how to enact project controls.",
+      "directory": "02-predictive-plan-based-methodologies",
+      "topics": [
+        {
+          "order": 1,
+          "id": "predictive-approach-suitability",
+          "title": "Predictive Approach Suitability",
+          "directory": "01-predictive-approach-suitability",
+          "path": "02-predictive-plan-based-methodologies/01-predictive-approach-suitability",
+          "description": "Understand the environments and organizational structures where a predictive (waterfall) methodology is appropriate.",
+          "learning_objectives": [
+            "Identify the suitability of a predictive, plan-based approach for the organizational structure (e.g., virtual, colocation, matrix structure, hierarchical, etc.).",
+            "Distinguish the differences between various project components in a predictive approach."
+          ],
+          "references": [
+            "https://www.eduhubspot.com/predictive-vs-adaptive-project-management"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "predictive-processes-and-activities",
+          "title": "Predictive Processes and Activities",
+          "directory": "02-predictive-processes-and-activities",
+          "path": "02-predictive-plan-based-methodologies/02-predictive-processes-and-activities",
+          "description": "Break down the typical activities that take place across different project management processes.",
+          "learning_objectives": [
+            "Determine the activities within each process.",
+            "Give examples of typical activities within each process."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "schedule-management-and-critical-path",
+          "title": "Schedule Management and Critical Path",
+          "directory": "03-schedule-management-and-critical-path",
+          "path": "02-predictive-plan-based-methodologies/03-schedule-management-and-critical-path",
+          "description": "Learn to manage and measure project schedules using critical path methods and schedule variance calculations.",
+          "learning_objectives": [
+            "Apply critical path methods.",
+            "Calculate schedule variance."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "wbs-and-work-packages",
+          "title": "WBS and Work Packages",
+          "directory": "04-wbs-and-work-packages",
+          "path": "02-predictive-plan-based-methodologies/04-wbs-and-work-packages",
+          "description": "Explore the components of project scope breakdown in predictive methodologies.",
+          "learning_objectives": [
+            "Explain work breakdown structures (WBS).",
+            "Explain work packages."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "quality-and-integration-management",
+          "title": "Quality and Integration Management",
+          "directory": "05-quality-and-integration-management",
+          "path": "02-predictive-plan-based-methodologies/05-quality-and-integration-management",
+          "description": "Apply quality standards and ensure overall integration management across the project lifecycle.",
+          "learning_objectives": [
+            "Apply a quality management plan.",
+            "Apply an integration management plan."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "predictive-project-controls",
+          "title": "Predictive Project Controls",
+          "directory": "06-predictive-project-controls",
+          "path": "02-predictive-plan-based-methodologies/06-predictive-project-controls",
+          "description": "Discover how to document project controls, calculate project variance, and utilize standard predictive artifacts.",
+          "learning_objectives": [
+            "Identify artifacts that are used in predictive, plan-based projects.",
+            "Calculate cost and schedule variances."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "agile-frameworks-methodologies",
+      "title": "Agile Frameworks/Methodologies",
+      "weight": 0.2,
+      "description": "Examine adaptive and agile project management practices, from assessing suitability and tracking iterations to managing tasks.",
+      "directory": "03-agile-frameworks-methodologies",
+      "topics": [
+        {
+          "order": 1,
+          "id": "adaptive-approach-suitability",
+          "title": "Adaptive Approach Suitability",
+          "directory": "01-adaptive-approach-suitability",
+          "path": "03-agile-frameworks-methodologies/01-adaptive-approach-suitability",
+          "description": "Understand the pros and cons of adaptive methodologies and their alignment with organizational structures and assets.",
+          "learning_objectives": [
+            "Compare the pros and cons of adaptive and predictive, plan-based projects.",
+            "Identify the suitability of adaptive approaches for the organizational structure.",
+            "Identify organizational process assets and enterprise environmental factors that facilitate the use of adaptive approaches."
+          ],
+          "references": [
+            "https://www.eduhubspot.com/predictive-vs-adaptive-project-management"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "planning-project-iterations",
+          "title": "Planning Project Iterations",
+          "directory": "02-planning-project-iterations",
+          "path": "03-agile-frameworks-methodologies/02-planning-project-iterations",
+          "description": "Gain insight into logical units of agile iterations and transitioning a predictive WBS into an adaptive structure.",
+          "learning_objectives": [
+            "Distinguish the logical units of iterations.",
+            "Interpret the pros and cons of the iteration.",
+            "Translate a WBS to an adaptive iteration."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "adaptive-scope-and-tracking",
+          "title": "Adaptive Scope and Tracking",
+          "directory": "03-adaptive-scope-and-tracking",
+          "path": "03-agile-frameworks-methodologies/03-adaptive-scope-and-tracking",
+          "description": "Explore how scope is defined in agile formats and compare adaptive tracking techniques to predictive tracking.",
+          "learning_objectives": [
+            "Determine inputs for scope.",
+            "Explain the importance of adaptive project tracking versus predictive, plan-based tracking."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "adaptive-project-controls-and-artifacts",
+          "title": "Adaptive Project Controls and Artifacts",
+          "directory": "04-adaptive-project-controls-and-artifacts",
+          "path": "03-agile-frameworks-methodologies/04-adaptive-project-controls-and-artifacts",
+          "description": "Identify common artifacts such as burndown charts and product backlogs used for project control in agile frameworks.",
+          "learning_objectives": [
+            "Determine how to document project controls for an adaptive project.",
+            "Identify artifacts that are used in adaptive projects."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "adaptive-plan-components-and-methodologies",
+          "title": "Adaptive Plan Components and Methodologies",
+          "directory": "05-adaptive-plan-components-and-methodologies",
+          "path": "03-agile-frameworks-methodologies/05-adaptive-plan-components-and-methodologies",
+          "description": "Learn to differentiate between specific agile frameworks such as Scrum, XP, SAFe, and Kanban.",
+          "learning_objectives": [
+            "Distinguish between the components of different adaptive methodologies (e.g., Scrum, Extreme Programming (XP), Scaled Agile Framework (SAFe), Kanban, etc.)."
+          ],
+          "references": [
+            "https://spoclearn.com/blog/capm-exam-content-outline"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "adaptive-task-management",
+          "title": "Adaptive Task Management",
+          "directory": "06-adaptive-task-management",
+          "path": "03-agile-frameworks-methodologies/06-adaptive-task-management",
+          "description": "Focus on the execution and prioritization of tasks within agile delivery environments.",
+          "learning_objectives": [
+            "Determine how to prepare and execute task management steps.",
+            "Interpret success criteria of an adaptive project management task.",
+            "Prioritize tasks in adaptive project management."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "business-analysis-frameworks",
+      "title": "Business Analysis Frameworks",
+      "weight": 0.27,
+      "description": "Review the essential role of business analysis in project success, encompassing stakeholder communication, requirements gathering, and product roadmaps.",
+      "directory": "04-business-analysis-frameworks",
+      "topics": [
+        {
+          "order": 1,
+          "id": "business-analysis-roles-and-responsibilities",
+          "title": "Business Analysis Roles and Responsibilities",
+          "directory": "01-business-analysis-roles-and-responsibilities",
+          "path": "04-business-analysis-frameworks/01-business-analysis-roles-and-responsibilities",
+          "description": "Recognize the varied stakeholder roles and differentiate between internal and external roles within business analysis.",
+          "learning_objectives": [
+            "Distinguish between stakeholder roles (e.g., process owner, process manager, product manager, product owner).",
+            "Outline the need for identifying roles and responsibilities in the first place.",
+            "Differentiate between internal and external roles."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "stakeholder-communication-in-business-analysis",
+          "title": "Stakeholder Communication in Business Analysis",
+          "directory": "02-stakeholder-communication-in-business-analysis",
+          "path": "04-business-analysis-frameworks/02-stakeholder-communication-in-business-analysis",
+          "description": "Learn to formulate effective communication plans and select proper channels to connect business teams with development goals.",
+          "learning_objectives": [
+            "Recommend the most appropriate communication channel/tool (e.g., reporting, presentation).",
+            "Demonstrate why communication is important for a business analyst between various teams."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "requirements-gathering-tools-and-approaches",
+          "title": "Requirements Gathering Tools and Approaches",
+          "directory": "03-requirements-gathering-tools-and-approaches",
+          "path": "04-business-analysis-frameworks/03-requirements-gathering-tools-and-approaches",
+          "description": "Discover various techniques, such as interviews, surveys, and use cases, employed to successfully extract project requirements.",
+          "learning_objectives": [
+            "Match requirements gathering tools to scenarios (e.g., user stories, use cases).",
+            "Identify the requirements gathering approach for a situation (e.g., interviews, surveys, workshops, lessons learned)."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "requirements-traceability-and-product-backlog",
+          "title": "Requirements Traceability and Product Backlog",
+          "directory": "04-requirements-traceability-and-product-backlog",
+          "path": "04-business-analysis-frameworks/04-requirements-traceability-and-product-backlog",
+          "description": "Understand how to trace gathered requirements and properly construct and manage a product backlog.",
+          "learning_objectives": [
+            "Explain a requirements traceability matrix.",
+            "Explain a product backlog."
+          ],
+          "references": [
+            "https://www.coursera.org/learn/project-management-fundamentals"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "product-roadmaps-and-releases",
+          "title": "Product Roadmaps and Releases",
+          "directory": "05-product-roadmaps-and-releases",
+          "path": "04-business-analysis-frameworks/05-product-roadmaps-and-releases",
+          "description": "Understand the layout and significance of product roadmaps and map components to respective product releases.",
+          "learning_objectives": [
+            "Demonstrate an understanding of product roadmaps and explain their application.",
+            "Determine which components go to which releases."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "methodologies-influence-on-business-analysis",
+          "title": "Methodologies' Influence on Business Analysis",
+          "directory": "06-methodologies-influence-on-business-analysis",
+          "path": "04-business-analysis-frameworks/06-methodologies-influence-on-business-analysis",
+          "description": "Investigate how the adoption of predictive versus adaptive methodologies shifts the day-to-day operations of a business analyst.",
+          "learning_objectives": [
+            "Determine how project methodologies influence business analysis processes.",
+            "Determine the role of a business analyst in adaptive and/or predictive, plan-based approaches."
+          ],
+          "references": [
+            "https://spoclearn.com/blog/capm-exam-content-outline"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "validating-requirements-through-delivery",
+          "title": "Validating Requirements Through Delivery",
+          "directory": "07-validating-requirements-through-delivery",
+          "path": "04-business-analysis-frameworks/07-validating-requirements-through-delivery",
+          "description": "Define success by validating requirements, setting acceptance criteria, and ensuring delivery readiness.",
+          "learning_objectives": [
+            "Define acceptance criteria (the action of defining changes based on the situation).",
+            "Determine if a project/product is ready for delivery based on a requirements traceability matrix/product backlog."
+          ],
+          "references": [
+            "https://www.pmi.org/certifications/certified-associate-capm"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}

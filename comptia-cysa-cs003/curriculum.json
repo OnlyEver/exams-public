@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Preparing for the CySA+ exam requires mastering complex incident response processes, threat hunting, and continuous security monitoring, which can be overwhelming to synthesize.",
     "companion_solution": "Only Ever breaks down the official CompTIA CySA+ syllabus into 15-minute, highly focused study sessions. Our content maps directly to the CS0-003 exam objectives to ensure maximum retention and test readiness.",
-    "learner_profile": "Security Operations Center (SOC) analyst or incident responder looking to validate intermediate cybersecurity skills. Works with threat intelligence, security monitoring tools, and vulnerability management. Needs clear, practical explanations of incident detection, prevention, and response strategies."
+    "learner_profile": "Security Operations Center (SOC) analyst or incident responder looking to validate intermediate cybersecurity skills. Works with threat intelligence, security monitoring tools, and vulnerability management. Needs clear, practical explanations of incident detection, prevention, and response strategies.",
+    "category_order": 1
   },
   "sections": [
     {

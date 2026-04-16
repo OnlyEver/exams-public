@@ -8,7 +8,7 @@
     "generated_date": "2026-03-23",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned prep for future K-6 educators with complete, syllabus-mapped coverage across reading, math, social studies, and science.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-5001-elementary-education-multiple-subjects",
     "theme_color": "#2563EB",
     "hero_headline": "Pass Praxis 5001 with official-objective coverage",
@@ -16,7 +16,8 @@
     "hero_image": "",
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis prep mixes signal with noise, so candidates spend time on content that is not tightly aligned to test objectives.",
-    "companion_solution": "We convert the official ETS syllabus into a full learning map with topic-sized notes and consistent concept coverage for retention."
+    "companion_solution": "We convert the official ETS syllabus into a full learning map with topic-sized notes and consistent concept coverage for retention.",
+    "category_order": 2
   },
   "sections": [
     {

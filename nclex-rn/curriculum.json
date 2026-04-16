@@ -16,7 +16,8 @@
     "hero_image": "",
     "companion_provider": "Only Ever",
     "companion_problem": "Most prep material is fragmented, too broad, or disconnected from the exact NCLEX-RN blueprint.",
-    "companion_solution": "Only Ever maps the official test plan into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects."
+    "companion_solution": "Only Ever maps the official test plan into structured 15-minute topics and retention-first notes so you learn exactly what the exam expects.",
+    "category_order": 2
   },
   "sections": [
     {

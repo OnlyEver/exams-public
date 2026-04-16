@@ -8,7 +8,7 @@
     "generated_date": "2026-04-05",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned preperation for prospective secondary social studies teachers with syllabus-mapped coverage across United States history, world history, government and civics, geography, economics, and behavioral sciences—including how ideas connect across disciplines.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-5081",
     "theme_color": "#0E7490",
     "hero_headline": "Pass Praxis 5081 with social studies mapped to the official objectives",
@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis social studies prep either stays shallow across six domains or piles facts without the cross-topic structure the exam expects.",
     "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure.",
-    "learner_profile": "Aspiring secondary social studies teacher preparing for selected-response items spanning U.S. history, world history, government/civics, geography, economics, and behavioral sciences. Benefits from maps, timelines, and cause–effect framing across content areas."
+    "learner_profile": "Aspiring secondary social studies teacher preparing for selected-response items spanning U.S. history, world history, government/civics, geography, economics, and behavioral sciences. Benefits from maps, timelines, and cause–effect framing across content areas.",
+    "category_order": 6
   },
   "sections": [
     {

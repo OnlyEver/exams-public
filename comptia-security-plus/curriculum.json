@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Cybersecurity threats evolve rapidly, and certification exams cover a massive breadth of topics that are difficult to synthesize into a structured study plan.",
     "companion_solution": "Only Ever breaks down the official CompTIA Security+ syllabus into 15-minute, highly focused study sessions. Our content maps directly to the SY0-701 exam objectives to ensure maximum retention and test readiness.",
-    "learner_profile": "Aspiring cybersecurity professional or IT administrator looking to validate baseline security skills. Works with networks, operating systems, and security protocols. Needs clear, practical explanations of vulnerabilities, threats, and defensive measures."
+    "learner_profile": "Aspiring cybersecurity professional or IT administrator looking to validate baseline security skills. Works with networks, operating systems, and security protocols. Needs clear, practical explanations of vulnerabilities, threats, and defensive measures.",
+    "category_order": 2
   },
   "sections": [
     {

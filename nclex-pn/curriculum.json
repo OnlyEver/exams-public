@@ -8,7 +8,7 @@
     "generated_date": "2026-03-21",
     "category_name": "Nursing Licensure",
     "category_slug": "nursing-licensure",
-    "category_description": "Exam-accurate nursing licensure prep built from the official NCSBN test plan, organized into clear, retention-focused study topics.",
+    "category_description": "Master the clinical judgment and safety-first nursing knowledge needed to pass licensure exams and practice confidently from day one.",
     "exam_slug": "nclex-pn",
     "theme_color": "#0F766E",
     "hero_headline": "Pass NCLEX-PN with test-plan-aligned coverage",
@@ -16,7 +16,8 @@
     "hero_image": "",
     "companion_provider": "Only Ever",
     "companion_problem": "Most NCLEX prep feels scattered, so learners waste time on content that is not prioritized by the actual exam blueprint.",
-    "companion_solution": "We convert the official test plan into a complete, structured curriculum with concise notes designed for long-term retention and exam readiness."
+    "companion_solution": "We convert the official test plan into a complete, structured curriculum with concise notes designed for long-term retention and exam readiness.",
+    "category_order": 1
   },
   "sections": [
     {

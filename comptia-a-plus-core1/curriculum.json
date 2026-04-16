@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "CompTIA A+ Core 1 spans a wide range of practical IT support topics, and it is easy to lose track of how hardware, networking, mobile devices, and troubleshooting objectives fit together.",
     "companion_solution": "Only Ever turns the official CompTIA A+ Core 1 objectives into focused 15-minute study sessions so you can build durable understanding across the 220-1201 syllabus without drifting off-spec.",
-    "learner_profile": "Aspiring IT support technician, help desk analyst, desktop support specialist, or career switcher preparing for an entry-level technical role. Needs structured, practical explanations of devices, networking, components, cloud basics, and troubleshooting workflows."
+    "learner_profile": "Aspiring IT support technician, help desk analyst, desktop support specialist, or career switcher preparing for an entry-level technical role. Needs structured, practical explanations of devices, networking, components, cloud basics, and troubleshooting workflows.",
+    "category_order": 1
   },
   "sections": [
     {

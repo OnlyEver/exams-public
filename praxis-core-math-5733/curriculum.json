@@ -8,7 +8,7 @@
     "generated_date": "2026-03-19",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned prep for future educators with clear, structured math coverage built directly from official certification blueprints.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-core-math-5733",
     "theme_color": "#3B82F6",
     "hero_headline": "Pass Praxis Core Math with exam-accurate coverage",
@@ -16,7 +16,8 @@
     "hero_image": "",
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis prep is either too shallow or too broad, making it hard to know what is actually test-relevant.",
-    "companion_solution": "We convert the official syllabus into a complete, topic-sized learning map with retention-focused notes and consistent concept coverage."
+    "companion_solution": "We convert the official syllabus into a complete, topic-sized learning map with retention-focused notes and consistent concept coverage.",
+    "category_order": 1
   },
   "sections": [
     {

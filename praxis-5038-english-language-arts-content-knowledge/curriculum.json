@@ -8,7 +8,7 @@
     "generated_date": "2026-04-04",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned prep for prospective secondary English teachers with syllabus-mapped coverage across reading, language and vocabulary, and writing, speaking, and listening.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-5038-english-language-arts-content-knowledge",
     "theme_color": "#2563EB",
     "hero_headline": "Pass Praxis 5038 with ELA content knowledge you can apply on test day",
@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis ELA prep scatters practice without a clear map of what the exam actually weights—reading, conventions, and communication skills blur together.",
     "companion_solution": "We translate the official ETS syllabus into a complete topic map with retention-focused notes and consistent coverage of literature, informational text, and language use.",
-    "learner_profile": "Aspiring secondary English teacher building deep content knowledge for literature, informational texts, language conventions, and communication. Responds to passage-based reasoning, grammar-in-context items, and writing- and speaking-focused scenarios."
+    "learner_profile": "Aspiring secondary English teacher building deep content knowledge for literature, informational texts, language conventions, and communication. Responds to passage-based reasoning, grammar-in-context items, and writing- and speaking-focused scenarios.",
+    "category_order": 4
   },
   "sections": [
     {

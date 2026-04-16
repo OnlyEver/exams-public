@@ -8,7 +8,7 @@
     "generated_date": "2026-04-05",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned prep for prospective secondary mathematics teachers with syllabus-mapped coverage across algebra, functions and calculus, geometry, and statistics and probability—including teaching-scenario items.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-5165-mathematics",
     "theme_color": "#0891B2",
     "hero_headline": "Pass Praxis 5165 with secondary math mapped to the official objectives",
@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis math prep either drills mechanics without the teaching frame or scatters topics so you cannot see how the exam weights algebra, geometry, and stats.",
     "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, consistent coverage of instructional scenarios, and retention-focused structure.",
-    "learner_profile": "Aspiring secondary mathematics teacher preparing for selected-response and numeric-entry items, including tasks set in teaching and curriculum contexts. Comfortable with a graphing calculator; benefits from clear domain boundaries and scenario-based practice."
+    "learner_profile": "Aspiring secondary mathematics teacher preparing for selected-response and numeric-entry items, including tasks set in teaching and curriculum contexts. Comfortable with a graphing calculator; benefits from clear domain boundaries and scenario-based practice.",
+    "category_order": 5
   },
   "sections": [
     {

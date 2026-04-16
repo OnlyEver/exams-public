@@ -8,7 +8,7 @@
     "generated_date": "2026-03-24",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned prep for future elementary educators with complete, syllabus-mapped coverage across reading, math, science, and social studies pedagogy.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-7811-elementary-education-content-knowledge-for-teaching",
     "theme_color": "#2563EB",
     "hero_headline": "Pass Praxis 7811 with classroom-accurate exam coverage",
@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis prep is either too generic or fragmented, so candidates struggle to prioritize what is truly test-relevant.",
     "companion_solution": "We convert the official ETS syllabus into a complete topic map with retention-focused notes and consistent concept coverage.",
-    "learner_profile": "Aspiring elementary teacher focused on Content Knowledge for Teaching - understanding not just what to teach but how students learn it. Responds to student-misconception scenarios, pedagogical examples, and instructional decision-making."
+    "learner_profile": "Aspiring elementary teacher focused on Content Knowledge for Teaching - understanding not just what to teach but how students learn it. Responds to student-misconception scenarios, pedagogical examples, and instructional decision-making.",
+    "category_order": 3
   },
   "sections": [
     {

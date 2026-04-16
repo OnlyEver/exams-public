@@ -8,7 +8,7 @@
     "generated_date": "2026-04-07",
     "category_name": "Teacher Certification",
     "category_slug": "teacher-certification",
-    "category_description": "Exam-aligned prep for prospective special education teachers with syllabus-mapped coverage across foundations, planning, instruction, assessment, and learner characteristics.",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
     "exam_slug": "praxis-5354",
     "theme_color": "#7C3AED",
     "hero_headline": "Pass Praxis 5354 with special education knowledge mapped to the official objectives",
@@ -17,7 +17,8 @@
     "companion_provider": "Only Ever",
     "companion_problem": "Most Praxis special education prep either stays shallow across pedagogical theories or piles facts without the practical application and structure the exam expects.",
     "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure covering all five major special education content categories.",
-    "learner_profile": "Aspiring special education teacher preparing for selected-response items spanning foundational knowledge, planning, instruction, assessment, and learner characteristics. Benefits from practical scenarios, clear definitions of disabilities, and evidence-based instructional strategies."
+    "learner_profile": "Aspiring special education teacher preparing for selected-response items spanning foundational knowledge, planning, instruction, assessment, and learner characteristics. Benefits from practical scenarios, clear definitions of disabilities, and evidence-based instructional strategies.",
+    "category_order": 8
   },
   "sections": [
     {
