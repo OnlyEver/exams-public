@@ -251,6 +251,21 @@
           "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, consistent coverage of instructional scenarios, and retention-focused structure."
         },
         {
+          "repo_folder": "praxis-5164",
+          "name": "Middle School Mathematics (5164)",
+          "exam_slug": "praxis-5164",
+          "category_order": 5,
+          "category_name": "Teacher Certification",
+          "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
+          "theme_color": "#0D9488",
+          "hero_headline": "Pass Praxis 5164 with middle school math mapped to the official objectives",
+          "hero_subheadline": "Study Number & Quantity through Statistics & Probability—including teaching scenarios—in focused 15-minute topics aligned to the ETS Study Companion.",
+          "hero_image": "",
+          "companion_provider": "Only Ever",
+          "companion_problem": "Most middle school math prep either feels like generic K–12 math review or ignores the instructional framing and scenario weighting that Praxis 5164 actually tests.",
+          "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and consistent coverage of tasks of teaching mathematics."
+        },
+        {
           "repo_folder": "praxis-5081",
           "name": "Social Studies: Content Knowledge (5081)",
           "exam_slug": "praxis-5081",
