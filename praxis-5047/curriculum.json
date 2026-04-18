@@ -1,0 +1,705 @@
+{
+  "exam": {
+    "name": "Middle School English Language Arts (5047)",
+    "code": "5047",
+    "provider": "ETS",
+    "syllabus_verified": true,
+    "syllabus_verified_date": "2026-04-17",
+    "generated_date": "2026-04-17",
+    "category_name": "Teacher Certification",
+    "category_slug": "teacher-certification",
+    "category_description": "Exam-aligned prep for future educators with syllabus-mapped coverage built directly from official certification blueprints.",
+    "category_order": 5,
+    "exam_slug": "praxis-5047",
+    "theme_color": "#4338CA",
+    "hero_headline": "Pass Praxis 5047 with middle school ELA mapped to the official objectives",
+    "hero_subheadline": "Study reading, writing, language, and communication in focused 15-minute topics aligned to the ETS Study Companion.",
+    "hero_image": "",
+    "companion_provider": "Only Ever",
+    "companion_problem": "Most Praxis middle school ELA prep either fragments skills across standards or drills isolated mechanics without the integrated reading-and-writing reasoning the exam emphasizes.",
+    "companion_solution": "We translate the official ETS syllabus into a full learning map with topic-sized notes, explicit domain boundaries, and retention-focused structure across literature, informational text, writing, and language use.",
+    "learner_profile": "Aspiring middle school English language arts teacher preparing for selected-response and constructed-response items spanning reading comprehension, analysis of texts, writing, and language. Benefits from passage-based practice, rhetoric and craft, and classroom-relevant scenarios."
+  },
+  "sections": [
+    {
+      "order": 1,
+      "id": "reading",
+      "title": "Reading",
+      "weight": 0.46,
+      "description": "General knowledge of literature, interpreting literary and informational texts, and analyzing rhetoric and structure.",
+      "directory": "01-reading",
+      "topics": [
+        {
+          "order": 1,
+          "id": "major-works-united-states-literature",
+          "title": "Major Works and Authors: United States Literature",
+          "directory": "01-major-works-united-states-literature",
+          "path": "01-reading/01-major-works-united-states-literature",
+          "description": "Major works, authors, and historical contexts of United States literature for adolescents.",
+          "learning_objectives": [
+            "Identify authors and titles of major US literary works appropriate for adolescents.",
+            "Understand the historical and literary context of US literature.",
+            "Recognize representative works from the Harlem Renaissance, Transcendentalism, and American Colonial periods."
+          ],
+          "references": [
+            "https://www.rider.edu/sites/default/files/2020-08/praxis_5047.pdf",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "major-works-british-world-literature",
+          "title": "Major Works and Authors: British and World Literature",
+          "directory": "02-major-works-british-world-literature",
+          "path": "01-reading/02-major-works-british-world-literature",
+          "description": "Major works, authors, and historical contexts of British and World literature.",
+          "learning_objectives": [
+            "Identify authors and titles of major British and World literature.",
+            "Understand historical contexts such as the British Renaissance, Romantic, Victorian, and Modernist periods.",
+            "Recognize representative works from Metaphysical poets and British Romantics."
+          ],
+          "references": [
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "characteristics-literary-genres",
+          "title": "Characteristics of Literary Genres",
+          "directory": "03-characteristics-literary-genres",
+          "path": "01-reading/03-characteristics-literary-genres",
+          "description": "Defining characteristics of major literary genres including poetry, drama, and literary nonfiction.",
+          "learning_objectives": [
+            "Identify the typical characteristics of stories, dramas, poetry, and literary nonfiction.",
+            "Apply correct terminology for literary genres (e.g., stanza versus paragraph).",
+            "Compare and contrast different literary genres."
+          ],
+          "references": [
+            "https://www.nps.k12.nj.us/departments/teaching-and-learning/language-arts-literacy/",
+            "https://www.scribd.com/document/425268425/Understanding-Literary-Genres"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "characteristics-literary-subgenres",
+          "title": "Characteristics of Literary Subgenres",
+          "directory": "04-characteristics-literary-subgenres",
+          "path": "01-reading/04-characteristics-literary-subgenres",
+          "description": "Defining characteristics of subgenres in terms of form and content.",
+          "learning_objectives": [
+            "Identify characteristics of subgenres such as sonnets, ballads, historical fiction, and functional texts.",
+            "Differentiate between subgenres like satire versus realism.",
+            "Recognize subgenre forms including epic poem, biography, bildungsroman, and pastoral."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.scribd.com/document/425268425/Understanding-Literary-Genres"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "literal-inferential-interpretations",
+          "title": "Literal and Inferential Interpretations of Literature",
+          "directory": "05-literal-inferential-interpretations",
+          "path": "01-reading/05-literal-inferential-interpretations",
+          "description": "Supporting literal and inferential interpretations of literature with textual evidence.",
+          "learning_objectives": [
+            "Comprehend the literal meaning of a literary text.",
+            "Draw inferences from a text.",
+            "Determine textual evidence that supports an analysis of what a text says or implies."
+          ],
+          "references": [
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "analyzing-theme-development",
+          "title": "Analyzing Theme Development",
+          "directory": "06-analyzing-theme-development",
+          "path": "01-reading/06-analyzing-theme-development",
+          "description": "Analyzing how themes are developed within and across literary works.",
+          "learning_objectives": [
+            "Identify the theme of a given text.",
+            "Analyze how a theme is developed throughout one or more works.",
+            "Recognize universal themes from traditional stories or myths and how they are rendered in contemporary works."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.summit.k12.nj.us/academics/curriculum"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 7,
+          "id": "analyzing-literary-elements",
+          "title": "Analyzing Literary Elements",
+          "directory": "07-analyzing-literary-elements",
+          "path": "01-reading/07-analyzing-literary-elements",
+          "description": "Analyzing how literary elements like characterization, setting, and plot contribute to meaning.",
+          "learning_objectives": [
+            "Analyze the impact of differences in points of view of characters and readers.",
+            "Analyze the structure of a plot.",
+            "Analyze how setting contributes to mood, tone, and conflict.",
+            "Analyze the use of indirect and direct characterization."
+          ],
+          "references": [
+            "https://www.summit.k12.nj.us/academics/curriculum",
+            "https://www.scribd.com/document/425268425/Understanding-Literary-Genres"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 8,
+          "id": "word-choice-tone-literature",
+          "title": "Word Choice and Tone in Literature",
+          "directory": "08-word-choice-tone-literature",
+          "path": "01-reading/08-word-choice-tone-literature",
+          "description": "Understanding how word choice, figurative language, and connotation contribute to tone.",
+          "learning_objectives": [
+            "Distinguish between connotation and denotation.",
+            "Identify types of figurative language like extended metaphor, imagery, and hyperbole.",
+            "Distinguish between what is directly stated and what is meant (satire, irony, understatement).",
+            "Analyze the impact of specific word choices on meaning and tone."
+          ],
+          "references": [
+            "https://www.summit.k12.nj.us/academics/curriculum",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 9,
+          "id": "poetic-devices-structure",
+          "title": "Poetic Devices and Structure",
+          "directory": "09-poetic-devices-structure",
+          "path": "01-reading/09-poetic-devices-structure",
+          "description": "Analyzing poetic devices and structural elements.",
+          "learning_objectives": [
+            "Analyze how poetic devices like rhyme scheme, rhythm, and figurative language contribute to meaning.",
+            "Analyze how the structure of a poem contributes to its overall meaning."
+          ],
+          "references": [
+            "https://www.bjupress.com/category/literature",
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 10,
+          "id": "active-reading-literacy-skills",
+          "title": "Active Reading Literacy Skills",
+          "directory": "10-active-reading-literacy-skills",
+          "path": "01-reading/10-active-reading-literacy-skills",
+          "description": "Literacy skills that support active reading of literary texts.",
+          "learning_objectives": [
+            "Identify active reading skills such as text-to-self connections, predictions, and summarizing.",
+            "Evaluate a summary of a reading passage.",
+            "Evaluate the strength of a prediction based on textual evidence."
+          ],
+          "references": [
+            "https://www.rider.edu/sites/default/files/2020-08/praxis_5047.pdf",
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 11,
+          "id": "interpretations-informational-texts",
+          "title": "Literal and Inferential Interpretations of Informational Texts",
+          "directory": "11-interpretations-informational-texts",
+          "path": "01-reading/11-interpretations-informational-texts",
+          "description": "Supporting literal and inferential interpretations of informational texts.",
+          "learning_objectives": [
+            "Comprehend the literal meaning of an informational text and draw inferences.",
+            "Determine textual evidence that supports an analysis of an informational text.",
+            "Compare two or more texts that provide conflicting facts or perspectives on the same topic."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.summit.k12.nj.us/academics/curriculum"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 12,
+          "id": "organizational-patterns-informational",
+          "title": "Organizational Patterns in Informational Texts",
+          "directory": "12-organizational-patterns-informational",
+          "path": "01-reading/12-organizational-patterns-informational",
+          "description": "Organizational patterns used to develop central ideas in informational texts.",
+          "learning_objectives": [
+            "Identify the central idea of an informational text.",
+            "Analyze how an author develops or refines a central idea.",
+            "Identify organizational patterns such as problem-solution, cause-effect, and chronological order.",
+            "Analyze how ideas are connected and distinguished in a text."
+          ],
+          "references": [
+            "https://www.nps.k12.nj.us/departments/teaching-and-learning/language-arts-literacy/",
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 13,
+          "id": "word-choice-rhetoric-informational",
+          "title": "Word Choice and Rhetoric in Informational Texts",
+          "directory": "13-word-choice-rhetoric-informational",
+          "path": "01-reading/13-word-choice-rhetoric-informational",
+          "description": "Word choice and rhetoric used by authors in informational texts.",
+          "learning_objectives": [
+            "Identify the purpose of technical language in a text.",
+            "Determine an author's point of view or purpose.",
+            "Analyze how an author uses rhetoric to support their point of view.",
+            "Distinguish between what is directly stated and what is meant in informational texts."
+          ],
+          "references": [
+            "https://mediaeducationlab.com/sites/default/files/Unit_1_0.pdf",
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "id": "language-use-and-vocabulary",
+      "title": "Language Use and Vocabulary",
+      "weight": 0.11,
+      "description": "Conventions of standard English, syntax, determining word meaning, and understanding dialect variations.",
+      "directory": "02-language-use-and-vocabulary",
+      "topics": [
+        {
+          "order": 1,
+          "id": "standard-english-grammar-usage",
+          "title": "Conventions of Standard English Grammar and Usage",
+          "directory": "01-standard-english-grammar-usage",
+          "path": "02-language-use-and-vocabulary/01-standard-english-grammar-usage",
+          "description": "Conventions of standard English grammar, usage, and syntax.",
+          "learning_objectives": [
+            "Explain the function of different parts of speech.",
+            "Identify errors in standard English grammar, such as inconsistent verb tense and nonparallel structure.",
+            "Identify examples of simple, compound, and compound-complex sentence types."
+          ],
+          "references": [
+            "https://www.cignition.com/middle-school-ela-curriculum/",
+            "https://study.com/academy/course/common-core-ela-grade-8-language-standards.html"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "punctuation-mechanics",
+          "title": "Sentence Structure and Mechanics",
+          "directory": "02-punctuation-mechanics",
+          "path": "02-language-use-and-vocabulary/02-punctuation-mechanics",
+          "description": "Justifying grammar, usage, and mechanics choices in writing.",
+          "learning_objectives": [
+            "Identify errors in punctuation and standard English mechanics.",
+            "Justify grammar and mechanics choices, such as colon versus semicolon usage.",
+            "Understand correct usage of commonly confused words (e.g., its versus it's)."
+          ],
+          "references": [
+            "https://study.com/academy/course/common-core-ela-grade-8-language-standards.html",
+            "https://www.cpalms.org/PreviewCourse/Preview/13106?is_print=true"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "determining-word-meaning",
+          "title": "Determining Word Meaning",
+          "directory": "03-determining-word-meaning",
+          "path": "02-language-use-and-vocabulary/03-determining-word-meaning",
+          "description": "Using affixes, context, and syntax to determine word meaning.",
+          "learning_objectives": [
+            "Apply knowledge of affixes to determine word meaning.",
+            "Use context clues to determine word meaning.",
+            "Apply knowledge of syntax to determine the meaning of unknown words."
+          ],
+          "references": [
+            "https://study.com/academy/course/common-core-ela-grade-8-language-standards.html",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "reference-materials-dialect-variation",
+          "title": "Reference Materials and Dialect Variations",
+          "directory": "04-reference-materials-dialect-variation",
+          "path": "02-language-use-and-vocabulary/04-reference-materials-dialect-variation",
+          "description": "Using reference materials and understanding variations in dialect and diction.",
+          "learning_objectives": [
+            "Determine the most appropriate print or digital reference material for a language usage task.",
+            "Identify variations in dialect and diction across different regions, cultural groups, and time periods."
+          ],
+          "references": [
+            "https://study.com/academy/course/common-core-ela-grade-8-language-standards.html",
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "id": "writing-speaking-and-listening",
+      "title": "Writing, Speaking, and Listening",
+      "weight": 0.18,
+      "description": "Evaluating types of writing, clear and coherent composition, research practices, and speech delivery.",
+      "directory": "03-writing-speaking-and-listening",
+      "topics": [
+        {
+          "order": 1,
+          "id": "characteristics-writing-types",
+          "title": "Characteristics of Various Types of Writing",
+          "directory": "01-characteristics-writing-types",
+          "path": "03-writing-speaking-and-listening/01-characteristics-writing-types",
+          "description": "Understanding the distinct characteristics of various types of writing.",
+          "learning_objectives": [
+            "Distinguish among common types of writing such as argumentative, informative/explanatory, and narrative.",
+            "Identify typical characteristics and examples of common types of writing."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.cignition.com/middle-school-ela-curriculum/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "effective-writing-task-audience",
+          "title": "Effective Writing for Task, Purpose, and Audience",
+          "directory": "02-effective-writing-task-audience",
+          "path": "03-writing-speaking-and-listening/02-effective-writing-task-audience",
+          "description": "Producing effective writing that is appropriate to the task, purpose, and audience.",
+          "learning_objectives": [
+            "Identify the task, purpose, or intended audience for a piece of writing.",
+            "Choose the most appropriate type of writing for a particular task or audience.",
+            "Evaluate the effectiveness of a particular piece of writing for its purpose."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "clear-coherent-writing",
+          "title": "Characteristics of Clear and Coherent Writing",
+          "directory": "03-clear-coherent-writing",
+          "path": "03-writing-speaking-and-listening/03-clear-coherent-writing",
+          "description": "Understanding the characteristics of clear and coherent writing.",
+          "learning_objectives": [
+            "Identify details that help to develop a main idea.",
+            "Organize parts of a text clearly and coherently.",
+            "Choose appropriate transitions and justify stylistic choices within a piece of writing."
+          ],
+          "references": [
+            "https://www.nps.k12.nj.us/departments/teaching-and-learning/language-arts-literacy/",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "effective-research-practices",
+          "title": "Effective Research Practices",
+          "directory": "04-effective-research-practices",
+          "path": "03-writing-speaking-and-listening/04-effective-research-practices",
+          "description": "Effective research practices, source credibility, and documentation techniques.",
+          "learning_objectives": [
+            "Evaluate the credibility of multiple print and digital sources.",
+            "Identify relevant information and effective research practices.",
+            "Apply appropriate documentation techniques when quoting or paraphrasing to avoid plagiarism."
+          ],
+          "references": [
+            "https://mediaeducationlab.com/sites/default/files/Unit_1_0.pdf",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "speech-delivery-methods-appeal",
+          "title": "Speech Delivery and Methods of Appeal",
+          "directory": "05-speech-delivery-methods-appeal",
+          "path": "03-writing-speaking-and-listening/05-speech-delivery-methods-appeal",
+          "description": "Effective delivery of a speech and methods authors use to appeal to an audience.",
+          "learning_objectives": [
+            "Identify characteristics of effective speech delivery, including eye contact, tone, and visual aids.",
+            "Evaluate the integration of multimedia components in a presentation.",
+            "Identify methods of persuasion such as expert opinion, generalization, and testimonial.",
+            "Evaluate the effectiveness of an author's methods of appeal in an argument."
+          ],
+          "references": [
+            "https://mediaeducationlab.com/sites/default/files/Unit_1_0.pdf",
+            "https://www.cignition.com/middle-school-ela-curriculum/"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "effective-written-arguments",
+          "title": "Effective Written Arguments",
+          "directory": "06-effective-written-arguments",
+          "path": "03-writing-speaking-and-listening/06-effective-written-arguments",
+          "description": "Evaluating arguments, reasoning, and supporting evidence in writing.",
+          "learning_objectives": [
+            "Evaluate the argument and specific claims in an expository or persuasive text.",
+            "Assess whether an author's reasoning is sound.",
+            "Assess whether evidence is relevant, factual, and sufficient."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.summit.k12.nj.us/academics/curriculum"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "id": "english-language-arts-instruction",
+      "title": "English Language Arts Instruction",
+      "weight": 0.25,
+      "description": "Research-based instructional approaches to reading, writing, language acquisition, and ELA assessments.",
+      "directory": "04-english-language-arts-instruction",
+      "topics": [
+        {
+          "order": 1,
+          "id": "language-acquisition-vocabulary-development",
+          "title": "Instructing Language Acquisition and Vocabulary",
+          "directory": "01-language-acquisition-vocabulary-development",
+          "path": "04-english-language-arts-instruction/01-language-acquisition-vocabulary-development",
+          "description": "Research-based approaches to supporting language acquisition and vocabulary development.",
+          "learning_objectives": [
+            "Recognize approaches to supporting language acquisition and vocabulary development for diverse learners.",
+            "Evaluate the effectiveness of specific vocabulary development approaches.",
+            "Interpret research and apply it to instructional challenges related to language learning."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.alabamaachieves.org/wp-content/uploads/2021/03/Rule-290-3-3-.07-Middle-Level-Teaching-Fields-1.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 2,
+          "id": "collaborative-discussions-technology",
+          "title": "Instructing Collaborative Discussions and Digital Communication",
+          "directory": "02-collaborative-discussions-technology",
+          "path": "04-english-language-arts-instruction/02-collaborative-discussions-technology",
+          "description": "Instructing students in collaborative discussions and use of technological tools.",
+          "learning_objectives": [
+            "Identify techniques for instructing students to participate productively in collaborative discussions.",
+            "Evaluate techniques for achieving specific discussion goals.",
+            "Identify and evaluate techniques for instructing students to communicate effectively using technological tools."
+          ],
+          "references": [
+            "https://www.ets.org/pdfs/praxis/5047.pdf",
+            "https://www.mdek12.org/sites/default/files/Offices/MDE/OAE/OEL/PRAXIS/5047_Technical_Report.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 3,
+          "id": "grouping-differentiated-instruction",
+          "title": "Differentiated Instruction and Choosing Texts",
+          "directory": "03-grouping-differentiated-instruction",
+          "path": "04-english-language-arts-instruction/03-grouping-differentiated-instruction",
+          "description": "Grouping, differentiated instruction, and choosing texts for students.",
+          "learning_objectives": [
+            "Identify approaches to grouping and differentiated instruction (e.g., literature circles, peer conferencing).",
+            "Evaluate the effectiveness of differentiation approaches for achieving instructional goals.",
+            "Identify approaches to choosing texts for students based on their ability and interests."
+          ],
+          "references": [
+            "https://www.alabamaachieves.org/wp-content/uploads/2021/03/Rule-290-3-3-.07-Middle-Level-Teaching-Fields-1.pdf",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 4,
+          "id": "strategies-teaching-adolescent-reading",
+          "title": "Strategies for Teaching Adolescent Reading",
+          "directory": "04-strategies-teaching-adolescent-reading",
+          "path": "04-english-language-arts-instruction/04-strategies-teaching-adolescent-reading",
+          "description": "Research-based strategies for teaching adolescent reading.",
+          "learning_objectives": [
+            "Recognize strategies for teaching adolescent reading, such as activating prior knowledge and modeling metacognition.",
+            "Evaluate the effectiveness of strategies like anticipation guides, double-entry journals, and reciprocal teaching.",
+            "Interpret research and apply it to particular reading instruction challenges."
+          ],
+          "references": [
+            "https://www.alabamaachieves.org/wp-content/uploads/2021/03/Rule-290-3-3-.07-Middle-Level-Teaching-Fields-1.pdf",
+            "https://www.rider.edu/sites/default/files/2020-08/praxis_5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 5,
+          "id": "strategies-teaching-writing",
+          "title": "Strategies for Teaching Components of Writing",
+          "directory": "05-strategies-teaching-writing",
+          "path": "04-english-language-arts-instruction/05-strategies-teaching-writing",
+          "description": "Research-based approaches to teaching components of writing.",
+          "learning_objectives": [
+            "Recognize approaches to teaching writing, such as explicit instruction, modeling, and writing workshops.",
+            "Evaluate the effectiveness of specific strategies to support a particular writing task.",
+            "Interpret research and apply it to challenges in writing instruction."
+          ],
+          "references": [
+            "https://www.alabamaachieves.org/wp-content/uploads/2021/03/Rule-290-3-3-.07-Middle-Level-Teaching-Fields-1.pdf",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        },
+        {
+          "order": 6,
+          "id": "formative-summative-assessments",
+          "title": "Formative and Summative Assessments in ELA",
+          "directory": "06-formative-summative-assessments",
+          "path": "04-english-language-arts-instruction/06-formative-summative-assessments",
+          "description": "Formative and summative assessments and incorporating student input.",
+          "learning_objectives": [
+            "Recognize approaches to and purposes of formative and summative assessment (e.g., rubrics, peer review, holistic scoring).",
+            "Evaluate the effectiveness of various assessments of reading, writing, speaking, and listening.",
+            "Identify approaches to incorporating student input into curriculum and assessments."
+          ],
+          "references": [
+            "https://www.alabamaachieves.org/wp-content/uploads/2021/03/Rule-290-3-3-.07-Middle-Level-Teaching-Fields-1.pdf",
+            "https://www.ets.org/pdfs/praxis/5047.pdf"
+          ],
+          "variants": [
+            "academic",
+            "drunk_history",
+            "eli12"
+          ]
+        }
+      ]
+    }
+  ]
+}
