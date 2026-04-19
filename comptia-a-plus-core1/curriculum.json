@@ -49,7 +49,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/01-mobile-devices/01-mobile-device-hardware-components/manifest.json"
+          }
         },
         {
           "order": 2,

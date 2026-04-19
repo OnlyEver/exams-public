@@ -46,7 +46,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/praxis-core-math-5733/01-number-and-quantity/01-integers-decimals-and-fractions/manifest.json"
+          }
         },
         {
           "order": 2,
