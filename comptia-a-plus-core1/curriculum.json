@@ -74,7 +74,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/01-mobile-devices/02-mobile-device-connectivity-and-accessories/manifest.json"
+          }
         },
         {
           "order": 3,
@@ -96,7 +99,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/01-mobile-devices/03-mobile-network-connectivity-and-mdm/manifest.json"
+          }
         }
       ]
     },
@@ -128,7 +134,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/01-tcp-udp-ports-and-protocols/manifest.json"
+          }
         },
         {
           "order": 2,
@@ -150,7 +159,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/02-wireless-networking-technologies/manifest.json"
+          }
         },
         {
           "order": 3,
@@ -171,7 +183,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/03-networked-host-services-and-appliances/manifest.json"
+          }
         },
         {
           "order": 4,
@@ -192,7 +207,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/04-network-configuration-concepts/manifest.json"
+          }
         },
         {
           "order": 5,
@@ -213,7 +231,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/05-networking-hardware-devices/manifest.json"
+          }
         },
         {
           "order": 6,
@@ -234,7 +255,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/06-soho-network-configuration/manifest.json"
+          }
         },
         {
           "order": 7,
@@ -255,7 +279,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/07-internet-connection-and-network-types/manifest.json"
+          }
         },
         {
           "order": 8,
@@ -276,7 +303,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/02-networking/08-networking-tools/manifest.json"
+          }
         }
       ]
     },
@@ -307,7 +337,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/01-display-components-and-attributes/manifest.json"
+          }
         },
         {
           "order": 2,
@@ -349,7 +382,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/03-video-and-storage-cables/manifest.json"
+          }
         },
         {
           "order": 4,
@@ -370,7 +406,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/04-ram-characteristics/manifest.json"
+          }
         },
         {
           "order": 5,
@@ -391,7 +430,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/05-storage-devices/manifest.json"
+          }
         },
         {
           "order": 6,
@@ -412,7 +454,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/06-motherboards-and-bios-uefi/manifest.json"
+          }
         },
         {
           "order": 7,
@@ -433,7 +478,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/07-cpus-expansion-cards-and-cooling/manifest.json"
+          }
         },
         {
           "order": 8,
@@ -454,7 +502,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/08-power-supplies/manifest.json"
+          }
         },
         {
           "order": 9,
@@ -475,7 +526,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/09-printer-deployment-and-configuration/manifest.json"
+          }
         },
         {
           "order": 10,
@@ -497,7 +551,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/03-hardware/10-printer-maintenance/manifest.json"
+          }
         }
       ]
     },
@@ -528,7 +585,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/04-virtualization-and-cloud-computing/01-virtualization-concepts/manifest.json"
+          }
         },
         {
           "order": 2,
@@ -549,7 +609,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/04-virtualization-and-cloud-computing/02-cloud-computing-concepts/manifest.json"
+          }
         }
       ]
     },
@@ -581,7 +644,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/05-hardware-and-network-troubleshooting/01-troubleshooting-motherboards-ram-cpu-power/manifest.json"
+          }
         },
         {
           "order": 2,
@@ -602,7 +668,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/05-hardware-and-network-troubleshooting/02-troubleshooting-drive-and-raid-issues/manifest.json"
+          }
         },
         {
           "order": 3,
@@ -623,7 +692,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/05-hardware-and-network-troubleshooting/03-troubleshooting-display-and-projector-issues/manifest.json"
+          }
         },
         {
           "order": 4,
@@ -644,7 +716,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/05-hardware-and-network-troubleshooting/04-troubleshooting-mobile-device-issues/manifest.json"
+          }
         },
         {
           "order": 5,
@@ -665,7 +740,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/05-hardware-and-network-troubleshooting/05-troubleshooting-network-issues/manifest.json"
+          }
         },
         {
           "order": 6,
@@ -687,7 +765,10 @@
             "academic",
             "drunk_history",
             "eli12"
-          ]
+          ],
+          "gamma_lecture": {
+            "manifest_url": "https://cdn.theonlyever.com/lectures/comptia-a-plus-core1/05-hardware-and-network-troubleshooting/06-troubleshooting-printer-issues/manifest.json"
+          }
         }
       ]
     }
